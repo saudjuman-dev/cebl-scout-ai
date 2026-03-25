@@ -60,7 +60,7 @@ function renderHBRoster() {
       <div class="roster-avatar">${getInitials(p.name)}</div>
       <div class="roster-card-info">
         <h4>${p.name}</h4>
-        <div class="roster-meta">${p.pos} | ${p.nationality === 'CAN' ? '🇨🇦 Canadian' : '🇺🇸 Import'} | $${p.salary}/game</div>
+        <div class="roster-meta">${p.pos} | ${p.nationality === 'CAN' ? '🇨🇦 Canadian' : p.nationality === 'USA' ? '🇺🇸 Import' : '🌍 Import (' + p.nationality + ')'} | $${p.salary}/game</div>
         <div class="roster-stat">${p.stats.split('(')[0].trim()}</div>
       </div>
     </div>
@@ -201,7 +201,7 @@ function renderImports() {
           <div class="player-name">${p.name}</div>
         </div>
       </td>
-      <td>${p.nationality === 'USA' ? '🇺🇸 USA' : p.nationality === 'International' ? '🌍 Intl' : '🇨🇦/' + p.nationality}</td>
+      <td>${p.nationality === 'USA' ? '🇺🇸 USA' : p.nationality === 'CAN/FRA' ? '🇨🇦🇫🇷 CAN/FRA' : p.nationality === 'NZL' ? '🇳🇿 NZL' : p.nationality === 'BRB' ? '🇧🇧 BRB' : p.nationality === 'International' ? '🌍 Intl' : '🌍 ' + p.nationality}</td>
       <td>${p.pos}</td>
       <td>${p.age || '-'}</td>
       <td>${p.ht || '-'}</td>
