@@ -1,12 +1,25 @@
 // ===== CEBL Scout - Application Logic =====
 
-// Loading screen
+// Password gate
+function checkPassword() {
+  const input = document.getElementById('gate-password').value;
+  if (input === 'ceblscout2026') {
+    document.getElementById('password-gate').classList.add('hidden');
+    document.getElementById('loading-screen').style.display = 'flex';
+    setTimeout(() => {
+      document.getElementById('loading-screen').classList.add('hidden');
+      animateCounters();
+      animateCapBar();
+    }, 2200);
+  } else {
+    document.getElementById('gate-error').textContent = 'Invalid access code. Try again.';
+    document.getElementById('gate-password').value = '';
+  }
+}
+
+// Loading screen (only fires if gate is bypassed via session)
 window.addEventListener('load', () => {
-  setTimeout(() => {
-    document.getElementById('loading-screen').classList.add('hidden');
-    animateCounters();
-    animateCapBar();
-  }, 2200);
+  // Gate handles the loading flow now
 });
 
 // Tab switching

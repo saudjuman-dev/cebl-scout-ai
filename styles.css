@@ -32,6 +32,61 @@ body {
   overflow-x: hidden;
 }
 
+/* ===== Password Gate ===== */
+#password-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.5s, visibility 0.5s;
+}
+#password-gate.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+.gate-content { text-align: center; max-width: 400px; padding: 2rem; }
+.gate-content h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5rem;
+  letter-spacing: 6px;
+  margin: 1.5rem 0 0.25rem;
+}
+.gate-sub { font-size: 0.75rem; color: var(--gray); letter-spacing: 1px; margin-bottom: 2rem; }
+.gate-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+.gate-form input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  background: var(--dark-2);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius-sm);
+  color: var(--white);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  outline: none;
+  transition: var(--transition);
+}
+.gate-form input:focus { border-color: var(--gold); }
+.gate-form button {
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  border: none;
+  border-radius: var(--radius-sm);
+  color: var(--black);
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.gate-form button:hover { transform: scale(1.02); box-shadow: 0 0 20px var(--gold-glow); }
+.gate-error { color: #EF5350; font-size: 0.75rem; min-height: 1rem; }
+.gate-note { font-size: 0.625rem; color: var(--gray); margin-top: 1rem; opacity: 0.5; }
+
 /* ===== Loading Screen ===== */
 #loading-screen {
   position: fixed;

@@ -10,8 +10,23 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏀</text></svg>">
 </head>
 <body>
+  <!-- Password Gate -->
+  <div id="password-gate">
+    <div class="gate-content">
+      <div class="basketball-pulse"></div>
+      <h2>CEBL <span class="gold">SCOUT</span></h2>
+      <p class="gate-sub">Brampton Honey Badgers | Scouting Intelligence Platform</p>
+      <div class="gate-form">
+        <input type="password" id="gate-password" placeholder="Enter access code..." onkeydown="if(event.key==='Enter')checkPassword()">
+        <button onclick="checkPassword()">Access</button>
+      </div>
+      <p id="gate-error" class="gate-error"></p>
+      <p class="gate-note">Authorized personnel only</p>
+    </div>
+  </div>
+
   <!-- Loading Screen -->
-  <div id="loading-screen">
+  <div id="loading-screen" style="display:none">
     <div class="loader-content">
       <div class="loader-logo">
         <div class="basketball-pulse"></div>
@@ -114,8 +129,8 @@
         <div class="stat-card">
           <div class="stat-icon">🌍</div>
           <div class="stat-info">
-            <span class="stat-number" data-count="85">0</span>
-            <span class="stat-label">Canadians Playing Pro Overseas</span>
+            <span class="stat-number" data-count="35">0</span>
+            <span class="stat-label">Canadians Playing Pro (Tracked)</span>
           </div>
         </div>
         <div class="stat-card">
