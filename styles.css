@@ -891,20 +891,128 @@ footer {
 ::-webkit-scrollbar-thumb { background: var(--dark-4); border-radius: 4px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--gray); }
 
+/* ===== Mobile Card View ===== */
+.mobile-cards { display: none; }
+.mobile-card {
+  background: var(--dark-2);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  transition: var(--transition);
+}
+.mobile-card:hover { border-color: var(--gold-dark); }
+.mobile-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.mobile-card-header .player-avatar {
+  width: 44px; height: 44px; border-radius: 50%;
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  color: var(--black); display: flex; align-items: center; justify-content: center;
+  font-weight: 800; font-size: 0.8rem; flex-shrink: 0;
+}
+.mobile-card-header .mc-info { flex: 1; min-width: 0; }
+.mobile-card-header .mc-name { font-weight: 700; font-size: 0.9rem; color: var(--white); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mobile-card-header .mc-meta { font-size: 0.7rem; color: var(--gray); margin-top: 2px; }
+.mc-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  text-align: center;
+}
+.mc-stat-val { font-weight: 700; font-size: 1rem; color: var(--white); }
+.mc-stat-lbl { font-size: 0.6rem; color: var(--gray); text-transform: uppercase; letter-spacing: 1px; }
+.mc-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+.mc-tag {
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.6rem;
+  font-weight: 600;
+  background: var(--dark-3);
+  color: var(--light-gray);
+  white-space: nowrap;
+}
+.mc-tag.fit-high { background: rgba(76,175,80,0.15); color: #81C784; border: 1px solid rgba(76,175,80,0.3); }
+.mc-tag.fit-medium { background: rgba(255,183,28,0.15); color: #FFB81C; border: 1px solid rgba(255,183,28,0.3); }
+.mc-tag.fit-low { background: rgba(239,83,80,0.15); color: #EF9A9A; border: 1px solid rgba(239,83,80,0.3); }
+.mc-tag.gold { background: rgba(212,175,55,0.15); color: var(--gold); border: 1px solid rgba(212,175,55,0.3); }
+.mc-note { font-size: 0.65rem; color: var(--gray); line-height: 1.4; }
+
 /* ===== Responsive ===== */
 @media (max-width: 1200px) {
   .dashboard-grid { grid-template-columns: repeat(2, 1fr); }
   .panel.half-width { grid-column: span 1; }
   .cap-calculator { grid-template-columns: 1fr; }
 }
-@media (max-width: 768px) {
-  .dashboard-grid { grid-template-columns: 1fr; }
-  .panel.half-width { grid-column: 1; }
+@media (max-width: 900px) {
+  /* Switch tables to card view */
+  .table-wrap { display: none !important; }
+  .mobile-cards { display: block !important; }
+
+  /* Nav tabs: scrollable, compact */
+  .nav-tab { padding: 0.6rem 0.75rem; font-size: 0.7rem; gap: 0.35rem; white-space: nowrap; }
+  .nav-tab svg { width: 14px; height: 14px; }
+
+  /* Team bar: smaller chips */
+  .team-chip { padding: 0.4rem 0.75rem; font-size: 0.65rem; }
+
+  /* Filter row: stack */
+  .filter-row { flex-direction: column; gap: 0.5rem; }
+  .filter-row input, .filter-row select { width: 100%; font-size: 0.8rem; }
+
+  /* Header */
   #main-header { padding: 0.75rem 1rem; }
+  .brand h1 { font-size: 1.2rem; letter-spacing: 3px; }
+  .brand-sub { font-size: 0.55rem; }
   .header-actions { display: none; }
-  #main-content { padding: 1rem; }
-  .nav-inner { padding: 0 1rem; }
-  .filter-row { flex-direction: column; }
-  .calc-slot { grid-template-columns: 30px 1fr 80px; }
+  .brand-icon svg { width: 28px; height: 28px; }
+
+  /* Content */
+  #main-content { padding: 0.75rem; }
+
+  /* Dashboard */
+  .dashboard-grid { grid-template-columns: 1fr; gap: 0.75rem; }
+  .panel.half-width { grid-column: 1; }
+  .stat-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+  .stat-number { font-size: 1.5rem; }
+
+  /* Scout targets */
   .scout-targets { grid-template-columns: 1fr; }
+
+  /* Roster cards */
+  .roster-card { padding: 0.75rem; }
+
+  /* Signings */
+  .signing-player { padding: 0.6rem; }
+
+  /* Cap calculator */
+  .calc-slot { grid-template-columns: 30px 1fr 80px; }
+  .calc-slot input[type="range"] { display: none; }
+
+  /* Gate */
+  .gate-content h2 { font-size: 1.8rem; letter-spacing: 4px; }
+  .gate-form { flex-direction: column; }
+  .gate-form input, .gate-form button { width: 100%; }
+}
+
+@media (max-width: 480px) {
+  .stat-grid { grid-template-columns: 1fr 1fr; }
+  .stat-number { font-size: 1.25rem; }
+  .stat-label { font-size: 0.55rem; }
+  #main-content { padding: 0.5rem; }
+  .panel { padding: 0.75rem; }
+  .panel-header h3 { font-size: 0.8rem; }
+  .mc-stats { grid-template-columns: repeat(3, 1fr); }
+  .nav-tab span { display: none; }
+  .nav-tab svg { width: 18px; height: 18px; }
+  .nav-tab { padding: 0.6rem 1rem; }
 }

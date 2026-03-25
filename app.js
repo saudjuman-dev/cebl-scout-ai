@@ -132,6 +132,23 @@ function renderScoutTargets() {
   `).join('');
 }
 
+// ===== Mobile Card Helper =====
+function mobileCard(avatar, name, sub, stats, tags, note, searchStr, dataAttrs) {
+  const attrs = dataAttrs ? Object.entries(dataAttrs).map(([k,v]) => `data-${k}="${v}"`).join(' ') : '';
+  return `<div class="mobile-card" data-search="${(searchStr||name+' '+sub+' '+(note||'')).toLowerCase()}" ${attrs}>
+    <div class="mobile-card-header">
+      <div class="player-avatar">${avatar}</div>
+      <div class="mc-info">
+        <div class="mc-name">${name}</div>
+        <div class="mc-meta">${sub}</div>
+      </div>
+    </div>
+    <div class="mc-stats">${stats.map(s => `<div><div class="mc-stat-val">${s.v}</div><div class="mc-stat-lbl">${s.l}</div></div>`).join('')}</div>
+    <div class="mc-details">${tags.map(t => `<span class="mc-tag ${t.cls||''}">${t.text}</span>`).join('')}</div>
+    ${note ? `<div class="mc-note">${note}</div>` : ''}
+  </div>`;
+}
+
 // ===== Render Pro Canadians Table =====
 function renderProTable() {
   const tbody = document.getElementById('pro-tbody');
@@ -159,6 +176,23 @@ function renderProTable() {
       <td><span class="character-badge char-${p.character.toLowerCase() === 'good' ? 'good' : 'neutral'}">${p.character === 'Good' ? '✓ ' : ''}${p.character}</span></td>
     </tr>
   `).join('');
+
+  // Mobile cards
+  const mc = document.getElementById('pro-mobile-cards');
+  if (mc) mc.innerHTML = canadiansPro.map(p => mobileCard(
+    getInitials(p.name), p.name,
+    `${p.pos} | ${p.ht} | ${p.hometown}`,
+    [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
+    [
+      {text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},
+      {text: p.salary, cls: 'gold'},
+      {text: p.team},
+      {text: '🇨🇦 ' + p.league}
+    ],
+    p.note,
+    p.name + ' ' + p.team + ' ' + p.league + ' ' + p.hometown + ' ' + p.note,
+    {league: p.league, pos: p.pos.charAt(0), fit: p.fit}
+  )).join('');
 }
 
 // ===== Render NCAA Table =====
@@ -188,6 +222,21 @@ function renderNCAA() {
       <td style="font-size:0.6875rem">${p.draftEligible}</td>
     </tr>
   `).join('');
+
+  // Mobile cards
+  const mc = document.getElementById('ncaa-mobile-cards');
+  if (mc) mc.innerHTML = ncaaCanadians.map(p => mobileCard(
+    getInitials(p.name), p.name,
+    `${p.pos} | ${p.ht} | ${p.classYear}`,
+    [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
+    [
+      {text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},
+      {text: p.school},
+      {text: p.conf},
+      {text: '🇨🇦 ' + p.hometown}
+    ],
+    p.note + ' | Draft: ' + p.draftEligible
+  )).join('');
 }
 
 // ===== Render Import Table =====
@@ -215,6 +264,24 @@ function renderImports() {
       <td style="font-size:0.6875rem; max-width: 200px; white-space: normal;">${p.note}</td>
     </tr>
   `).join('');
+
+  // Mobile cards
+  const mc = document.getElementById('import-mobile-cards');
+  if (mc) mc.innerHTML = importTargets.map(p => {
+    const flag = p.nationality === 'USA' ? '🇺🇸' : p.nationality === 'NZL' ? '🇳🇿' : p.nationality === 'AUS' ? '🇦🇺' : p.nationality === 'BRB' ? '🇧🇧' : '🌍';
+    return mobileCard(
+      getInitials(p.name), p.name,
+      `${flag} ${p.nationality} | ${p.pos} | ${p.ht || ''}`,
+      [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
+      [
+        {text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},
+        {text: p.salary, cls: 'gold'},
+        {text: p.team},
+        {text: p.league}
+      ],
+      p.note
+    );
+  }).join('');
 }
 
 // ===== Render Signings =====
@@ -244,51 +311,53 @@ function renderSignings() {
 }
 
 // ===== Filter Tables =====
-function filterTable(type) {
-  let rows, searchVal, filters;
+// Helper: filter both table rows AND mobile cards
+function filterElements(els, matchFn) {
+  els.forEach(el => { el.style.display = matchFn(el) ? '' : 'none'; });
+}
 
+function filterTable(type) {
   if (type === 'pro') {
-    rows = document.querySelectorAll('#pro-tbody tr');
-    searchVal = document.getElementById('pro-search').value.toLowerCase();
+    const searchVal = document.getElementById('pro-search').value.toLowerCase();
     const league = document.getElementById('pro-league-filter').value;
     const pos = document.getElementById('pro-position-filter').value;
     const fit = document.getElementById('pro-fit-filter').value;
-    rows.forEach(row => {
-      const rowLeague = row.getAttribute('data-league').toLowerCase();
-      const leagueMatch = !league || rowLeague.includes(league.toLowerCase());
-      const match = row.getAttribute('data-search').includes(searchVal)
-        && leagueMatch
-        && (!pos || row.getAttribute('data-pos') === pos)
-        && (!fit || row.getAttribute('data-fit') === fit);
-      row.style.display = match ? '' : 'none';
-    });
+    const matchFn = el => {
+      const elLeague = (el.getAttribute('data-league')||'').toLowerCase();
+      return (el.getAttribute('data-search')||'').includes(searchVal)
+        && (!league || elLeague.includes(league.toLowerCase()))
+        && (!pos || el.getAttribute('data-pos') === pos)
+        && (!fit || el.getAttribute('data-fit') === fit);
+    };
+    filterElements(document.querySelectorAll('#pro-tbody tr'), matchFn);
+    filterElements(document.querySelectorAll('#pro-mobile-cards .mobile-card'), matchFn);
   } else if (type === 'ncaa') {
-    rows = document.querySelectorAll('#ncaa-tbody tr');
-    searchVal = document.getElementById('ncaa-search').value.toLowerCase();
+    const searchVal = document.getElementById('ncaa-search').value.toLowerCase();
     const pos = document.getElementById('ncaa-position-filter').value;
     const cls = document.getElementById('ncaa-class-filter').value;
     const fit = document.getElementById('ncaa-fit-filter').value;
-    rows.forEach(row => {
-      const match = row.getAttribute('data-search').includes(searchVal)
-        && (!pos || row.getAttribute('data-pos') === pos)
-        && (!cls || row.getAttribute('data-class') === cls)
-        && (!fit || row.getAttribute('data-fit') === fit);
-      row.style.display = match ? '' : 'none';
-    });
+    const matchFn = el => {
+      return (el.getAttribute('data-search')||'').includes(searchVal)
+        && (!pos || el.getAttribute('data-pos') === pos)
+        && (!cls || el.getAttribute('data-class') === cls)
+        && (!fit || el.getAttribute('data-fit') === fit);
+    };
+    filterElements(document.querySelectorAll('#ncaa-tbody tr'), matchFn);
+    filterElements(document.querySelectorAll('#ncaa-mobile-cards .mobile-card'), matchFn);
   } else if (type === 'import') {
-    rows = document.querySelectorAll('#import-tbody tr');
-    searchVal = document.getElementById('import-search').value.toLowerCase();
+    const searchVal = document.getElementById('import-search').value.toLowerCase();
     const nat = document.getElementById('import-nat-filter').value;
     const pos = document.getElementById('import-position-filter').value;
-    rows.forEach(row => {
-      const match = row.getAttribute('data-search').includes(searchVal)
-        && (!nat || row.getAttribute('data-nat') === nat)
-        && (!pos || row.getAttribute('data-pos') === pos);
-      row.style.display = match ? '' : 'none';
-    });
+    const matchFn = el => {
+      return (el.getAttribute('data-search')||'').includes(searchVal)
+        && (!nat || el.getAttribute('data-nat') === nat)
+        && (!pos || el.getAttribute('data-pos') === pos);
+    };
+    filterElements(document.querySelectorAll('#import-tbody tr'), matchFn);
+    filterElements(document.querySelectorAll('#import-mobile-cards .mobile-card'), matchFn);
   } else if (type === 'sign') {
     const sections = document.querySelectorAll('.signing-team-section');
-    searchVal = document.getElementById('sign-search').value.toLowerCase();
+    const searchVal = document.getElementById('sign-search').value.toLowerCase();
     const team = document.getElementById('sign-team-filter').value;
     sections.forEach(section => {
       const teamName = section.getAttribute('data-team');
