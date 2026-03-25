@@ -46,7 +46,7 @@ const CEBL_CONFIG = {
 // Honey Badgers 2026 Confirmed Roster
 const honeyBadgersRoster = [
   { name: "Sean East II", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "25.3 PPG, 3.2 RPG, 5.8 APG (2025 Edmonton)", note: "2025 CEBL MVP Runner-Up, All-CEBL 1st Team. Led CEBL in total points (582) and FGM (215).", character: "Elite competitor, leadership qualities" },
-  { name: "Jameer Nelson Jr.", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "20.1 PPG, 4.7 RPG, 4.3 APG, 2.8 SPG (2025 Calgary)", note: "2025 CEBL DPOY, All-CEBL 2nd Team. Led CEBL in steals.", character: "NBA pedigree, high motor" },
+  { name: "Quinndary Weatherspoon", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "18.5 PPG, 4.2 RPG, 3.8 APG (CBA/CEBL)", note: "2022 NBA Champion. Played for Honey Badgers in 2025. Former Spurs. CBA stint.", character: "NBA champion, proven winner" },
   { name: "Keon Ambrose-Hylton", pos: "F", nationality: "CAN", type: "Canadian", status: "Signed", salary: 1000, stats: "All-Canadian selection", note: "CEBL All-Canadian forward. Physical, athletic.", character: "Community-oriented, strong work ethic" },
   { name: "Danilo Djuricic", pos: "F", nationality: "CAN", type: "Canadian", status: "Signed", salary: 600, stats: "5.5 PPG, 3.7 RPG (2025 Scarborough)", note: "Experienced CEBL forward. 17 games with Shooting Stars.", character: "Reliable team player" },
   { name: "Prince Oduro", pos: "F/C", nationality: "CAN", type: "Canadian", status: "Signed", salary: 700, stats: "CEBL experience", note: "Canadian big man, physical interior presence.", character: "Developing talent, coachable" }
@@ -60,7 +60,6 @@ const canadiansPro = [
   { name: "Nathan Cayo", pos: "F", age: 28, ht: "6'6\"", team: "ADA Blois Basket", league: "Europe - France Pro B", ppg: 9.4, rpg: 3.7, apg: 0.9, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Montreal, QC", note: "Re-signed Niagara. France LNB Pro B. Back-to-back CEBL champion." },
   { name: "Elijah Lufile", pos: "F", age: 25, ht: "6'7\"", team: "Nadim Souaid Academy", league: "Asia - Lebanon", ppg: 14.1, rpg: 10.6, apg: 1.0, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Ottawa, ON", note: "Signed with Niagara for 2026. Lebanon Division A. Double-double machine." },
   { name: "Marcus Carr", pos: "G", age: 26, ht: "6'2\"", team: "One Wuerzburg Baskets", league: "Europe - Germany BBL", ppg: 14.8, rpg: 2.5, apg: 5.3, fit: "Medium", salary: "$1,200-$1,500", character: "Good", hometown: "Toronto, ON", note: "BBL (Germany). Former Big Ten standout (Minnesota). Elite scorer and playmaker." },
-  { name: "Trae Bell-Haynes", pos: "G", age: 28, ht: "6'0\"", team: "European Club", league: "Europe", ppg: 10.7, rpg: 2.3, apg: 6.2, fit: "Medium", salary: "$1,000-$1,300", character: "Good", hometown: "Toronto, ON", note: "Team Canada AmeriCup. Veteran floor general. UVM legend." },
   { name: "David Walker", pos: "G", age: 26, ht: "6'4\"", team: "Slavia (Czech Republic)", league: "Europe - Czech NBL", ppg: 12.3, rpg: 3.1, apg: 3.5, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Signed with Winnipeg Sea Bears for 2026. Czech Republic NBL experience." },
   { name: "Ali Sow", pos: "F", age: 24, ht: "6'5\"", team: "Free Agent", league: "CEBL", ppg: 8.2, rpg: 4.1, apg: 1.3, fit: "High", salary: "$600-$800", character: "Good", hometown: "Kitchener, ON", note: "Former Honey Badger (2025). Laurier All-Time Great. CEBL experienced." },
   { name: "Patrick Emilien", pos: "F", age: 25, ht: "6'7\"", team: "Free Agent", league: "CEBL", ppg: 7.5, rpg: 5.0, apg: 0.8, fit: "High", salary: "$600-$800", character: "Good", hometown: "Montreal, QC", note: "Returning Honey Badger from 2025. Strong rebounder, physical forward." },
@@ -83,15 +82,30 @@ const canadiansPro = [
   { name: "Thomas Scrubb", pos: "F", age: 33, ht: "6'7\"", team: "European Club", league: "Europe", ppg: 8.5, rpg: 4.5, apg: 1.5, fit: "Medium", salary: "$700-$900", character: "Good", hometown: "Richmond, BC", note: "Veteran forward. Long European career. Team Canada. Phil's brother." },
   { name: "Ben Krikke", pos: "F/C", age: 24, ht: "6'9\"", team: "Ourense", league: "Europe - Spain LEB Gold", ppg: 9.5, rpg: 5.5, apg: 1.0, fit: "High", salary: "$600-$800", character: "Good", hometown: "Edmonton, AB", note: "Spanish 2nd division. Instinctive off-ball mover. Alberta talent." },
   { name: "Nick Ongenda", pos: "C", age: 23, ht: "6'10\"", team: "Anwil Wloclawek", league: "Europe - Poland/FIBA Europe Cup", ppg: 7.5, rpg: 6.0, apg: 0.5, fit: "High", salary: "$500-$700", character: "Good", hometown: "Montreal, QC", note: "Mobile rim protector. 7'4\" wingspan. Polish league. Very affordable." },
-  { name: "Isiaha Mike", pos: "G/F", age: 27, ht: "6'8\"", team: "KK Partizan", league: "Europe - Serbia ABA/EuroCup", ppg: 13.4, rpg: 4.0, apg: 1.5, fit: "Medium", salary: "$1,000-$1,300", character: "Good", hometown: "Toronto, ON", note: "EuroCup level. 44.1% from three. Elite wing scorer. Calf injury recovery." },
+  // NOTE: Isiaha Mike now at Bayern Munich (EuroLeague) - EXCLUDED as EuroLeague player
+  // NOTE: Xavier Rathan-Mayes now at Bayern Munich (EuroLeague) - EXCLUDED as EuroLeague player
   { name: "Melvin Ejim", pos: "F", age: 33, ht: "6'6\"", team: "European Club", league: "Europe - Italy", ppg: 8.0, rpg: 4.5, apg: 1.0, fit: "Medium", salary: "$700-$900", character: "Good", hometown: "Toronto, ON", note: "Italian league veteran. Championship winner with Reyer Venezia. Team Canada." },
-  { name: "Kaza Kajami-Keane", pos: "G", age: 30, ht: "6'2\"", team: "European Club", league: "Europe", ppg: 10.0, rpg: 2.5, apg: 4.5, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Team Canada veteran. Multiple European leagues. Experienced PG." },
+  { name: "Kaza Kajami-Keane", pos: "G", age: 30, ht: "6'2\"", team: "Niners Chemnitz", league: "Europe - Germany BBL", ppg: 10.0, rpg: 2.5, apg: 4.5, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Germany BBL (Niners Chemnitz). Jamaican-Canadian. FIBA WC 2027 qualifier rep. Carleton product. Spartak Subotica (Serbia) previously." },
   { name: "Kyle Alexander", pos: "C", age: 28, ht: "6'11\"", team: "European Club", league: "Europe", ppg: 8.0, rpg: 6.5, apg: 1.0, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Milton, ON", note: "Tennessee product. European leagues career. Rim protection and length." },
   { name: "Kassius Robertson", pos: "G", age: 29, ht: "6'3\"", team: "Valencia Basket area", league: "Europe - Spain", ppg: 11.0, rpg: 2.5, apg: 2.5, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Spanish league. Missouri product. Reliable perimeter scorer." },
+  // KEY MISSING PLAYERS - added per GM request
+  { name: "Eddie Ekiyor", pos: "F/C", age: 28, ht: "6'7\"", team: "Saint-Quentin", league: "Europe - France Betclic Elite", ppg: 7.0, rpg: 3.0, apg: 3.0, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "Ottawa, ON", note: "France Betclic Elite (Pro A). Carleton product, 2x U SPORTS champ, 2019 Final 8 MVP. CEBL DPOY with Niagara. Israel, Portugal, Georgia, France experience." },
+  { name: "Jahvon Blair", pos: "G", age: 28, ht: "6'4\"", team: "Chorale de Roanne", league: "Europe - France Elite 2 (Pro B)", ppg: 14.5, rpg: 2.5, apg: 3.0, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "France Pro B. Career-high 34 pts vs Antibes. Georgetown product. Former Niagara River Lion. 5/12 from three in career game." },
+  { name: "Olivier Hanlan", pos: "G", age: 32, ht: "6'4\"", team: "KK Spartak Subotica", league: "Europe - Serbia KLS", ppg: 12.0, rpg: 3.0, apg: 3.5, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Gatineau, QC", note: "2015 NBA Draft (Utah Jazz, 42nd). Played in 11 countries: Canada, China, Spain, France, Germany, Greece, Italy, Lithuania, Russia, Turkey, USA. Veteran scorer." },
+  { name: "Enoch Boakye", pos: "F", age: 22, ht: "6'9\"", team: "Spirou Basket Charleroi", league: "Europe - Belgium Pro Basketball League", ppg: 8.0, rpg: 5.5, apg: 0.8, fit: "High", salary: "$500-$700", character: "Good", hometown: "Toronto, ON", note: "Belgian Pro Basketball League. Young Canadian big. Previously Montenegro. Multiple leagues this year." },
+  { name: "Daniel Sackey", pos: "G", age: 26, ht: "5'9\"", team: "Hyères-Toulon Var Basket", league: "Europe - France Elite 2 (Pro B)", ppg: 10.5, rpg: 2.0, apg: 5.0, fit: "High", salary: "$500-$700", character: "Good", hometown: "Winnipeg, MB", note: "France Pro B. Ghanaian-Canadian. Quick, tenacious defender. Very cap-friendly." },
+  { name: "Kur Jongkuch", pos: "F", age: 25, ht: "6'8\"", team: "Vancouver Bandits", league: "CEBL", ppg: 9.5, rpg: 6.0, apg: 1.0, fit: "High", salary: "$700-$900", character: "Good", hometown: "London, ON", note: "Team Canada call-up in 2025. Born in South Sudan. First ever senior national team selection. Physical forward." },
+  { name: "Justin Ndjock-Tadjore", pos: "F", age: 25, ht: "6'8\"", team: "BK Ogre (Estonia-Latvia)", league: "Europe - Estonian-Latvian BBL", ppg: 10.0, rpg: 5.5, apg: 1.0, fit: "High", salary: "$600-$800", character: "Good", hometown: "Ottawa, ON", note: "Signed Ottawa BlackJacks for 2026. 3rd CEBL campaign. First standard contract. Estonian-Latvian league." },
+  { name: "Devoe Joseph", pos: "G", age: 32, ht: "6'4\"", team: "Scarborough Shooting Stars", league: "CEBL", ppg: 11.5, rpg: 3.5, apg: 3.0, fit: "Medium", salary: "$900-$1,100", character: "Good", hometown: "Scarborough, ON", note: "23 years pro experience. Scarborough native. Playing at home for first time since HS. Fan favourite." },
+  { name: "Nick Lewis", pos: "F", age: 31, ht: "6'7\"", team: "Scarborough Shooting Stars", league: "CEBL", ppg: 10.0, rpg: 5.0, apg: 1.5, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Scarborough, ON", note: "23 years combined pro experience with Joseph. Scarborough native. Playing at home." },
+  { name: "Conor Morgan", pos: "F", age: 31, ht: "6'9\"", team: "Bahcesehir Koleji Istanbul", league: "Europe - Turkey BSL", ppg: 9.0, rpg: 5.5, apg: 1.0, fit: "Medium", salary: "$1,000-$1,200", character: "Good", hometown: "Toronto, ON", note: "Turkish BSL. Physical Canadian forward. Long European career." },
+  { name: "Quincy Guerrier", pos: "F", age: 25, ht: "6'7\"", team: "Raptors 905 / Montreal Alliance", league: "G League / CEBL", ppg: 14.0, rpg: 6.5, apg: 1.5, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "Montreal, QC", note: "Expected to return to Montreal Alliance after G League. Syracuse/Oregon product. Athletic wing." },
+  { name: "Nathan Bilamu", pos: "G", age: 24, ht: "6'3\"", team: "Winnipeg Sea Bears", league: "CEBL", ppg: 19.7, rpg: 4.5, apg: 3.8, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Canada", note: "Signed Winnipeg 2026. 19.7 PPG senior university season. OUA First-Team All-Star. Lakehead product." },
+  { name: "Lien Phillip", pos: "F", age: 36, ht: "6'8\"", team: "Lille Metropole (France Pro B)", league: "Europe - France Elite 2 (Pro B)", ppg: 12.0, rpg: 6.0, apg: 1.5, fit: "Low", salary: "$700-$900", character: "Good", hometown: "Canada", note: "French Pro B veteran. Led Lille to key wins. Veteran presence." },
   // 2025 CEBL stat leaders & free agents (non-signed)
   { name: "Ja'Vonte Smart", pos: "G", age: 25, ht: "6'4\"", team: "Free Agent (2025 Ottawa)", league: "CEBL", ppg: 25.9, rpg: 3.5, apg: 5.0, fit: "High", salary: "$1,200-$1,500", character: "Good", hometown: "Baton Rouge, LA (USA)", note: "2025 CEBL PPG leader (25.9). LSU product. Elite scorer available for signing." },
   { name: "Isaih Moore", pos: "C", age: 25, ht: "6'10\"", team: "Free Agent (2025 Ottawa)", league: "CEBL", ppg: 14.0, rpg: 11.4, apg: 1.5, fit: "High", salary: "$900-$1,100", character: "Good", hometown: "USA", note: "2025 CEBL RPG leader (11.4). Dominant rebounder. NC State product." },
-  { name: "Corey Davis", pos: "G", age: 27, ht: "6'1\"", team: "Free Agent (2025 Vancouver)", league: "CEBL", ppg: 15.5, rpg: 3.0, apg: 7.8, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "USA", note: "2025 CEBL APG leader (7.8). Elite playmaker. Houston product." }
+  { name: "Corey Davis", pos: "G", age: 27, ht: "6'1\"", team: "Niners Chemnitz (Germany BBL)", league: "Europe - Germany BBL", ppg: 15.5, rpg: 3.0, apg: 7.8, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "USA", note: "2025 CEBL APG leader (7.8). Signed with Niners Chemnitz (Germany BBL) post-CEBL. Houston product." }
 ];
 
 // NCAA D1 Canadian Players (CEBL-realistic only - removed NBA-bound players)
@@ -136,6 +150,16 @@ const importTargets = [
   { name: "Emmanuel Akot", nationality: "USA", pos: "F", age: 26, ht: "6'8\"", team: "Winnipeg Sea Bears", league: "CEBL", ppg: 13.2, rpg: 5.8, apg: 2.5, fit: "High", salary: "$1,000-$1,200", note: "Re-signed with Winnipeg for 2026. Arizona product. Versatile forward." },
   { name: "Shakur Daniel", nationality: "USA", pos: "G", age: 25, ht: "6'0\"", team: "Ottawa BlackJacks", league: "CEBL / G League", ppg: 3.7, rpg: 2.3, apg: 1.8, fit: "Medium", salary: "$500-$700", note: "Re-signed Ottawa. Defensive specialist. G League experience." },
   { name: "Yohann Sam", nationality: "CAN/FRA", pos: "F", age: 22, ht: "6'7\"", team: "Brampton (2025)", league: "CEBL", ppg: 6.5, rpg: 3.8, apg: 1.0, fit: "High", salary: "$400-$600", note: "2025 CEBL Draft 2nd overall pick (Brampton). Hometown acquisition." },
+  // KEY MISSING IMPORTS - added per GM request
+  { name: "Khalil Ahmad", nationality: "USA", pos: "G", age: 29, ht: "6'3\"", team: "Maccabi Rishon Lezion", league: "Israel Winner League", ppg: 21.7, rpg: 4.3, apg: 3.1, fit: "High", salary: "Designated", note: "CEBL LEGEND. Most decorated player in CEBL history. 2025 Finals MVP with Niagara. Career-high 45 pts (Italy Serie A2). CEBL history re-sign with Niagara. Iceland, Denmark, Israel, Belgium, Italy experience." },
+  { name: "Donovan Williams", nationality: "USA", pos: "G", age: 25, ht: "6'5\"", team: "Scarborough Shooting Stars", league: "CEBL / G League", ppg: 17.2, rpg: 4.0, apg: 2.5, fit: "High", salary: "$1,000-$1,200", note: "Re-signed Scarborough. 17.2 PPG with Santa Cruz (G League). 2 NBA games (Hawks). 2023 NBA Summer League (Wizards). From Shanghai." },
+  { name: "Tevian Jones", nationality: "USA", pos: "G/F", age: 26, ht: "6'6\"", team: "Scarborough Shooting Stars", league: "CEBL / G League", ppg: 13.5, rpg: 4.5, apg: 2.0, fit: "High", salary: "$900-$1,100", note: "NBA Summer League (Pelicans). 50 games Birmingham Squadron (G League). Athletic wing signed Scarborough." },
+  { name: "Hason Ward", nationality: "BRB", pos: "F", age: 23, ht: "6'8\"", team: "Scarborough Shooting Stars", league: "CEBL", ppg: 8.0, rpg: 5.0, apg: 1.0, fit: "Medium", salary: "$600-$800", note: "Barbados-born forward. Non-American international import. Professional debut with Shooting Stars." },
+  { name: "Jalen Harris", nationality: "USA", pos: "G", age: 27, ht: "6'5\"", team: "CEBL", league: "CEBL", ppg: 22.0, rpg: 4.0, apg: 4.5, fit: "High", salary: "$1,200-$1,500", note: "Top scorer of the day multiple times in 2025 CEBL. Elite scoring guard. Former NBA (Raptors)." },
+  { name: "Scottie Lindsey", nationality: "USA", pos: "G/F", age: 28, ht: "6'5\"", team: "CEBL", league: "CEBL", ppg: 18.5, rpg: 5.0, apg: 3.0, fit: "High", salary: "$1,000-$1,200", note: "Named top scorer of the day in 2025 CEBL. Northwestern product. Versatile two-way wing." },
+  { name: "Alex Campbell", nationality: "USA", pos: "G", age: 27, ht: "6'2\"", team: "Winnipeg Sea Bears", league: "CEBL", ppg: 14.0, rpg: 3.0, apg: 4.0, fit: "High", salary: "$900-$1,100", note: "Signed Winnipeg 2026. Part of Moon-Campbell backcourt." },
+  { name: "Daren Watts", nationality: "USA", pos: "G", age: 26, ht: "6'3\"", team: "Winnipeg Sea Bears", league: "CEBL", ppg: 12.0, rpg: 3.5, apg: 3.0, fit: "Medium", salary: "$800-$1,000", note: "Signed Winnipeg 2026. Part of deep Sea Bears guard rotation." },
+  { name: "Izaiah Brockington", nationality: "USA", pos: "G/F", age: 26, ht: "6'4\"", team: "NZ Breakers (Australia NBL)", league: "Oceania - Australia NBL", ppg: 14.5, rpg: 5.0, apg: 2.0, fit: "High", salary: "$1,000-$1,200", note: "From Vancouver Bandits to NZ Breakers (Aus NBL). 2025 NBA Summer League (Clippers). Iowa State product." },
   // G League waived / released players available for CEBL summer
   { name: "Chase Jeter", nationality: "USA", pos: "F/C", age: 27, ht: "6'10\"", team: "Waived - Austin Spurs", league: "G League (waived)", ppg: 10.5, rpg: 7.2, apg: 1.0, fit: "High", salary: "$800-$1,000", note: "Duke product. Waived from Austin Spurs. Physical big available for summer." },
   { name: "Zhuric Phelps", nationality: "USA", pos: "G", age: 23, ht: "6'4\"", team: "Waived - Texas Legends", league: "G League (waived)", ppg: 15.2, rpg: 3.5, apg: 2.8, fit: "High", salary: "$800-$1,000", note: "Waived from Texas Legends. Young scoring guard with upside." },
@@ -154,7 +178,8 @@ const leagueSignings = {
     color: "#D4AF37", bg: "#1a1500", emoji: "🦡",
     players: [
       { name: "Sean East II", pos: "G", type: "New Signing", detail: "From Edmonton Stingers | 2025 CEBL MVP Runner-Up" },
-      { name: "Jameer Nelson Jr.", pos: "G", type: "New Signing", detail: "From Calgary Surge | 2025 DPOY" },
+      { name: "Quinndary Weatherspoon", pos: "G", type: "Returning", detail: "2022 NBA Champion | Former Spurs | CBA experience" },
+      { name: "Amari Kelly", pos: "F", type: "New Signing", detail: "G League & NBA Summer League tested | Athletic forward" },
       { name: "Keon Ambrose-Hylton", pos: "F", type: "New Signing", detail: "CEBL All-Canadian Forward" },
       { name: "Danilo Djuricic", pos: "F", type: "New Signing", detail: "From Scarborough | 5.5 PPG, 3.7 RPG" },
       { name: "Prince Oduro", pos: "F/C", type: "New Signing", detail: "Canadian big man" }
@@ -163,9 +188,11 @@ const leagueSignings = {
   "Niagara River Lions": {
     color: "#0066CC", bg: "#001122", emoji: "🦁",
     players: [
-      { name: "T.J. Lall", pos: "F", type: "Re-Signing", detail: "Return from BNXT League (Netherlands)" },
-      { name: "Nathan Cayo", pos: "F", type: "Re-Signing", detail: "Back-to-back CEBL Champion" },
-      { name: "Elijah Lufile", pos: "F", type: "New Signing", detail: "From Lebanon Div. A | 14.1 PPG, 10.6 RPG" }
+      { name: "Khalil Ahmad", pos: "G", type: "Re-Signing", detail: "Most decorated CEBL player ever | 2025 Finals MVP | 21.7 PPG Italy Serie A2 | Career-high 45 pts" },
+      { name: "Eddie Ekiyor", pos: "F/C", type: "Re-Signing", detail: "CEBL DPOY | France Betclic Elite (Saint-Quentin) | Carleton product" },
+      { name: "T.J. Lall", pos: "F", type: "Re-Signing", detail: "Return from BNXT League (Netherlands) | 2024 CEBL Champion" },
+      { name: "Nathan Cayo", pos: "F", type: "Re-Signing", detail: "Back-to-back CEBL Champion | France Pro B experience" },
+      { name: "Elijah Lufile", pos: "F", type: "New Signing", detail: "From Lebanon Div. A | 14.1 PPG, 10.6 RPG | Double-double machine" }
     ]
   },
   "Vancouver Bandits": {
@@ -179,12 +206,14 @@ const leagueSignings = {
   "Winnipeg Sea Bears": {
     color: "#003366", bg: "#000d1a", emoji: "🐻",
     players: [
-      { name: "Xavier Moon", pos: "G", type: "New Signing", detail: "3x CEBL Player of the Year" },
+      { name: "Xavier Moon", pos: "G", type: "New Signing", detail: "3x CEBL Player of the Year | 23.1 PPG (2021) | 2x CEBL Champion | 28 NBA games (Clippers)" },
+      { name: "Alex Campbell", pos: "G", type: "New Signing", detail: "Part of Moon-Campbell backcourt" },
+      { name: "Daren Watts", pos: "G", type: "New Signing", detail: "Deep guard rotation addition" },
       { name: "Emmanuel Akot", pos: "F", type: "Re-Signing", detail: "Arizona product. Versatile forward." },
-      { name: "David Walker", pos: "G", type: "New Signing", detail: "From Czech Republic NBL" },
+      { name: "David Walker", pos: "G", type: "New Signing", detail: "From Czech Republic NBL | Ottawa playoff hero (19 PTS, 3 STL)" },
       { name: "Isiah Osborne", pos: "G", type: "Re-Signing", detail: "49 career CEBL games" },
       { name: "Fareed Shittu", pos: "F", type: "New Signing", detail: "Canadian forward" },
-      { name: "Nathan Bilamu", pos: "F", type: "New Signing", detail: "International forward" }
+      { name: "Nathan Bilamu", pos: "G", type: "New Signing", detail: "19.7 PPG senior year | OUA First-Team All-Star | Lakehead product" }
     ]
   },
   "Ottawa BlackJacks": {
@@ -214,14 +243,19 @@ const leagueSignings = {
   "Calgary Surge": {
     color: "#E31837", bg: "#1a0005", emoji: "⚡",
     players: [
-      { name: "Perry Huang (HC)", pos: "Coach", type: "New Hire", detail: "From LA Lakers G League affiliate" }
+      { name: "Perry Huang (HC)", pos: "Coach", type: "New Hire", detail: "Head Coach from South Bay Lakers (G League) | 2 WNBA titles, 1 G League title" },
+      { name: "Jameer Nelson Jr.", pos: "G", type: "New Signing", detail: "2025 CEBL DPOY | 20.1 PPG, 2.8 SPG | All-CEBL 2nd Team" }
     ]
   },
   "Scarborough Shooting Stars": {
     color: "#1E90FF", bg: "#000d1a", emoji: "⭐",
     players: [
-      { name: "Barber", pos: "G", type: "Re-Signing", detail: "All-CEBL First-Team Guard" },
-      { name: "Williams", pos: "F", type: "Re-Signing", detail: "From Shanghai Sharks (CBA)" }
+      { name: "Cat Barber", pos: "G", type: "Re-Signing", detail: "All-CEBL First-Team Guard | 2nd all-time CEBL scorer" },
+      { name: "Donovan Williams", pos: "G", type: "Re-Signing", detail: "17.2 PPG Santa Cruz (G League) | 2 NBA games (Hawks) | From Shanghai" },
+      { name: "Tevian Jones", pos: "G/F", type: "New Signing", detail: "NBA Summer League (Pelicans) | 50 games Birmingham Squadron (G League)" },
+      { name: "Hason Ward", pos: "F", type: "New Signing", detail: "Barbados-born international import | Pro debut" },
+      { name: "Devoe Joseph", pos: "G", type: "New Signing", detail: "Scarborough native | 23 yrs pro experience | Hometown hero" },
+      { name: "Nick Lewis", pos: "F", type: "New Signing", detail: "Scarborough native | Combined 23 yrs pro experience with Joseph" }
     ]
   },
   "Saskatoon Mamba": {
