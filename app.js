@@ -370,8 +370,8 @@ function filterByTeam(team) {
   filterTable('sign');
 }
 
-// ===== Initialize =====
-document.addEventListener('DOMContentLoaded', () => {
+// ===== Auto-Refresh / Cache Bust =====
+function refreshAllData() {
   renderHBRoster();
   renderScoutTargets();
   renderProTable();
@@ -379,4 +379,25 @@ document.addEventListener('DOMContentLoaded', () => {
   renderImports();
   renderSignings();
   renderCapCalculator();
+  // Update the last-updated timestamp
+  const ts = document.getElementById('last-updated');
+  if (ts) ts.textContent = 'Last refreshed: ' + new Date().toLocaleString();
+}
+
+// Check for data.js updates every 5 minutes
+function checkForUpdates() {
+  const script = document.createElement('script');
+  script.src = 'data.js?v=' + Date.now();
+  script.onload = () => {
+    refreshAllData();
+    console.log('[CEBL Scout] Data refreshed at ' + new Date().toLocaleTimeString());
+  };
+  document.head.appendChild(script);
+}
+
+// ===== Initialize =====
+document.addEventListener('DOMContentLoaded', () => {
+  refreshAllData();
+  // Auto-refresh data every 5 minutes
+  setInterval(checkForUpdates, 5 * 60 * 1000);
 });
