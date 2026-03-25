@@ -43,13 +43,13 @@ const CEBL_CONFIG = {
   ]
 };
 
-// Honey Badgers 2026 Confirmed Roster
+// Honey Badgers 2026 Confirmed Roster (ONLY verified 2026 signings from cebl.ca/honeybadgers.ca)
 const honeyBadgersRoster = [
-  { name: "Sean East II", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "25.3 PPG, 3.2 RPG, 5.8 APG (2025 Edmonton)", note: "2025 CEBL MVP Runner-Up, All-CEBL 1st Team. Led CEBL in total points (582) and FGM (215).", character: "Elite competitor, leadership qualities" },
-  { name: "Quinndary Weatherspoon", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "18.5 PPG, 4.2 RPG, 3.8 APG (CBA/CEBL)", note: "2022 NBA Champion. Played for Honey Badgers in 2025. Former Spurs. CBA stint.", character: "NBA champion, proven winner" },
+  { name: "Sean East II", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "25.3 PPG, 3.2 RPG, 5.8 APG (2025 Edmonton)", note: "2025 CEBL MVP Runner-Up, All-CEBL 1st Team. Led CEBL in total points (582) and FGM (215). 36-pt season high.", character: "Elite competitor, leadership qualities" },
+  { name: "Jameer Nelson Jr.", pos: "G", nationality: "USA", type: "Import", status: "Signed", salary: 1400, stats: "17.3 PPG, 5.8 RPG, 4.0 APG (2025 Calgary)", note: "2025 CEBL DPOY. All-CEBL selection. Led CEBL in steals. NBA pedigree.", character: "High motor, defensive anchor" },
   { name: "Keon Ambrose-Hylton", pos: "F", nationality: "CAN", type: "Canadian", status: "Signed", salary: 1000, stats: "All-Canadian selection", note: "CEBL All-Canadian forward. Physical, athletic.", character: "Community-oriented, strong work ethic" },
-  { name: "Danilo Djuricic", pos: "F", nationality: "CAN", type: "Canadian", status: "Signed", salary: 600, stats: "5.5 PPG, 3.7 RPG (2025 Scarborough)", note: "Experienced CEBL forward. 17 games with Shooting Stars.", character: "Reliable team player" },
-  { name: "Prince Oduro", pos: "F/C", nationality: "CAN", type: "Canadian", status: "Signed", salary: 700, stats: "CEBL experience", note: "Canadian big man, physical interior presence.", character: "Developing talent, coachable" }
+  { name: "Danilo Djuricic", pos: "F", nationality: "CAN", type: "Canadian", status: "Signed", salary: 600, stats: "5.5 PPG, 3.7 RPG (2025 Scarborough)", note: "4 CEBL seasons with Scarborough. 2023 champion. Brampton native.", character: "Reliable team player" },
+  { name: "Prince Oduro", pos: "F/C", nationality: "CAN", type: "Canadian", status: "Signed", salary: 700, stats: "9.0 PPG, 6.0 RPG, 1.0 BPG (career)", note: "5th consecutive season. All-time HB leader: games (73), rebounds (429), blocks (79). 2022 champion.", character: "Franchise cornerstone, warrior" }
 ];
 
 // Canadian Players Playing Pro Overseas (CEBL-realistic leagues only, NO NBA/EuroLeague/CBA)
@@ -197,7 +197,7 @@ const ncaaCanadians = [
 
 // Import Targets (Americans & Internationals) - from G League, mid-tier Euro, Asia, etc.
 const importTargets = [
-  { name: "Quinndary Weatherspoon", nationality: "USA", pos: "G", age: 28, ht: "6'3\"", team: "Qingdao Eagles (CBA)", league: "G League / CBA", ppg: 18.5, rpg: 4.2, apg: 3.8, fit: "High", salary: "$1,200-$1,500", note: "2022 NBA Champion. Played for Honey Badgers in 2025. Former Spurs. CBA stint ending." },
+  { name: "Quinndary Weatherspoon", nationality: "USA", pos: "G", age: 28, ht: "6'3\"", team: "Free Agent (2025 Brampton)", league: "CEBL / CBA", ppg: 18.5, rpg: 4.2, apg: 3.8, fit: "High", salary: "$1,200-$1,500", note: "2022 NBA Champion. Played for Honey Badgers in 2025. Former Spurs. NOT confirmed for 2026 yet. Free agent target." },
   { name: "Taryn Todd", nationality: "USA", pos: "G/F", age: 24, ht: "6'5\"", team: "Free Agent", league: "CEBL", ppg: 12.3, rpg: 4.5, apg: 2.0, fit: "High", salary: "$800-$1,000", note: "Arkansas State standout. 2025 Honey Badger. Athletic wing." },
   { name: "Teddy Allen", nationality: "USA", pos: "G/F", age: 27, ht: "6'6\"", team: "Free Agent", league: "CEBL", ppg: 24.5, rpg: 5.2, apg: 3.8, fit: "High", salary: "Designated", note: "2023 CEBL MVP. One of the greatest offensive players in CEBL history. Divisive but elite." },
   { name: "Xavier Moon", nationality: "USA", pos: "G", age: 28, ht: "6'1\"", team: "Winnipeg Sea Bears", league: "CEBL", ppg: 22.5, rpg: 3.5, apg: 7.2, fit: "High", salary: "Designated", note: "3x CEBL Player of the Year. Signed with Winnipeg 2026." },
@@ -266,12 +266,12 @@ const leagueSignings = {
   "Brampton Honey Badgers": {
     color: "#D4AF37", bg: "#1a1500", emoji: "🦡",
     players: [
-      { name: "Sean East II", pos: "G", type: "New Signing", detail: "From Edmonton Stingers | 2025 CEBL MVP Runner-Up" },
-      { name: "Quinndary Weatherspoon", pos: "G", type: "Returning", detail: "2022 NBA Champion | Former Spurs | CBA experience" },
-      { name: "Amari Kelly", pos: "F", type: "New Signing", detail: "G League & NBA Summer League tested | Athletic forward" },
-      { name: "Keon Ambrose-Hylton", pos: "F", type: "New Signing", detail: "CEBL All-Canadian Forward" },
-      { name: "Danilo Djuricic", pos: "F", type: "New Signing", detail: "From Scarborough | 5.5 PPG, 3.7 RPG" },
-      { name: "Prince Oduro", pos: "F/C", type: "New Signing", detail: "Canadian big man" }
+      { name: "Sean East II", pos: "G", type: "New Signing", detail: "From Edmonton Stingers | 2025 CEBL MVP Runner-Up | Led CEBL in points (582)" },
+      { name: "Jameer Nelson Jr.", pos: "G", type: "New Signing", detail: "From Calgary Surge | 2025 CEBL DPOY | 17.3 PPG, 5.8 RPG, 4.0 APG" },
+      { name: "Keon Ambrose-Hylton", pos: "F", type: "New Signing", detail: "CEBL All-Canadian Forward | Physical, athletic" },
+      { name: "Danilo Djuricic", pos: "F", type: "New Signing", detail: "From Scarborough | 4 CEBL seasons | 2023 Champion | Brampton native" },
+      { name: "Prince Oduro", pos: "F/C", type: "Re-Signing", detail: "5th consecutive season | All-time HB leader in games (73), rebounds (429), blocks (79)" },
+      { name: "Alex Cerda (HC)", pos: "Coach", type: "New Hire", detail: "Head Coach | 10 years NBA experience | LA Clippers staff (2018-2020)" }
     ]
   },
   "Niagara River Lions": {
@@ -332,8 +332,7 @@ const leagueSignings = {
   "Calgary Surge": {
     color: "#E31837", bg: "#1a0005", emoji: "⚡",
     players: [
-      { name: "Perry Huang (HC)", pos: "Coach", type: "New Hire", detail: "Head Coach from South Bay Lakers (G League) | 2 WNBA titles, 1 G League title" },
-      { name: "Jameer Nelson Jr.", pos: "G", type: "New Signing", detail: "2025 CEBL DPOY | 20.1 PPG, 2.8 SPG | All-CEBL 2nd Team" }
+      { name: "Perry Huang (HC)", pos: "Coach", type: "New Hire", detail: "Head Coach from South Bay Lakers (G League) | 2 WNBA titles, 1 G League title" }
     ]
   },
   "Scarborough Shooting Stars": {
