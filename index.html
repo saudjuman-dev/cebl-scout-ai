@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CEBL Scout AI | Brampton Honey Badgers Scouting Tool</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏀</text></svg>">
+</head>
+<body>
+  <!-- Loading Screen -->
+  <div id="loading-screen">
+    <div class="loader-content">
+      <div class="loader-logo">
+        <div class="basketball-pulse"></div>
+      </div>
+      <h2>CEBL SCOUT AI</h2>
+      <p>Loading scouting intelligence...</p>
+      <div class="loader-bar"><div class="loader-bar-fill"></div></div>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header id="main-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="20" cy="20" r="18" stroke="#D4AF37" stroke-width="2.5"/>
+            <path d="M8 20h24M20 4c-4 4-4 12-4 16s0 12 4 16M20 4c4 4 4 12 4 16s0 12-4 16" stroke="#D4AF37" stroke-width="1.5"/>
+          </svg>
+        </div>
+        <div>
+          <h1>CEBL SCOUT <span class="gold">AI</span></h1>
+          <p class="brand-sub">Brampton Honey Badgers | Scouting Intelligence Platform</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <div class="salary-cap-badge">
+          <span class="cap-label">Per-Game Cap</span>
+          <span class="cap-value">$8,000</span>
+        </div>
+        <div class="salary-cap-badge">
+          <span class="cap-label">Player Range</span>
+          <span class="cap-value">$400-$1,500</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav id="main-nav">
+    <div class="nav-inner">
+      <button class="nav-tab active" data-tab="dashboard" onclick="switchTab('dashboard')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+        Dashboard
+      </button>
+      <button class="nav-tab" data-tab="canadians-pro" onclick="switchTab('canadians-pro')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        Canadians Pro
+      </button>
+      <button class="nav-tab" data-tab="ncaa-canadians" onclick="switchTab('ncaa-canadians')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 3 3 6 3s6-1 6-3v-5"/></svg>
+        NCAA D1 Canadians
+      </button>
+      <button class="nav-tab" data-tab="imports" onclick="switchTab('imports')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        Import Targets
+      </button>
+      <button class="nav-tab" data-tab="signings" onclick="switchTab('signings')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+        League Signings
+      </button>
+      <button class="nav-tab" data-tab="cap-tools" onclick="switchTab('cap-tools')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        Cap Calculator
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main id="main-content">
+
+    <!-- DASHBOARD TAB -->
+    <section id="tab-dashboard" class="tab-content active">
+      <div class="dashboard-grid">
+        <!-- Stats Row -->
+        <div class="stat-card gold-accent">
+          <div class="stat-icon">🇨🇦</div>
+          <div class="stat-info">
+            <span class="stat-number" data-count="168">0</span>
+            <span class="stat-label">Canadians in NCAA D1</span>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">🌍</div>
+          <div class="stat-info">
+            <span class="stat-number" data-count="85">0</span>
+            <span class="stat-label">Canadians Playing Pro Overseas</span>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">🏀</div>
+          <div class="stat-info">
+            <span class="stat-number" data-count="10">0</span>
+            <span class="stat-label">CEBL Teams</span>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">📝</div>
+          <div class="stat-info">
+            <span class="stat-number" data-count="42">0</span>
+            <span class="stat-label">2026 Signings Tracked</span>
+          </div>
+        </div>
+
+        <!-- Honey Badgers Current Roster -->
+        <div class="panel full-width">
+          <div class="panel-header">
+            <h2>🦡 Brampton Honey Badgers - 2026 Confirmed Roster</h2>
+            <span class="badge gold">Your Team</span>
+          </div>
+          <div class="roster-grid" id="hb-roster">
+            <!-- Filled by JS -->
+          </div>
+        </div>
+
+        <!-- Cap Situation -->
+        <div class="panel half-width">
+          <div class="panel-header">
+            <h2>Cap Situation</h2>
+          </div>
+          <div class="cap-visual">
+            <div class="cap-bar-container">
+              <div class="cap-bar-bg">
+                <div class="cap-bar-fill" id="cap-fill" style="width: 0%"></div>
+              </div>
+              <div class="cap-labels">
+                <span>$0</span>
+                <span id="cap-used-label">$0 used</span>
+                <span>$8,000/game</span>
+              </div>
+            </div>
+            <div class="cap-details" id="cap-details">
+              <!-- Filled by JS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Key Rules -->
+        <div class="panel half-width">
+          <div class="panel-header">
+            <h2>CEBL Roster Rules</h2>
+          </div>
+          <div class="rules-list">
+            <div class="rule-item"><span class="rule-num">14</span><span>Max Total Roster</span></div>
+            <div class="rule-item"><span class="rule-num">12</span><span>Max Active Roster</span></div>
+            <div class="rule-item"><span class="rule-num">10</span><span>Min Active Roster</span></div>
+            <div class="rule-item"><span class="rule-num">5</span><span>Max Import (Active)</span></div>
+            <div class="rule-item"><span class="rule-num">6</span><span>Max Import (Total)</span></div>
+            <div class="rule-item"><span class="rule-num">6+</span><span>Min Canadians Required</span></div>
+            <div class="rule-item"><span class="rule-num">2/5</span><span>Canadians on Floor</span></div>
+            <div class="rule-item highlight"><span class="rule-num">1</span><span>Designated Player (Off-Cap)</span></div>
+            <div class="rule-item highlight"><span class="rule-num">3</span><span>Max Dev Players (Off-Cap)</span></div>
+          </div>
+        </div>
+
+        <!-- Top Scouting Targets -->
+        <div class="panel full-width">
+          <div class="panel-header">
+            <h2>AI-Recommended Scouting Targets</h2>
+            <span class="badge">Cap Friendly</span>
+          </div>
+          <div class="scout-targets" id="scout-targets">
+            <!-- Filled by JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CANADIANS PRO TAB -->
+    <section id="tab-canadians-pro" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Canadian Players Playing Professionally Worldwide</h2>
+        <div class="filter-row">
+          <input type="text" id="pro-search" class="search-input" placeholder="Search by name, team, league..." oninput="filterTable('pro')">
+          <select id="pro-league-filter" class="filter-select" onchange="filterTable('pro')">
+            <option value="">All Leagues</option>
+            <option value="Europe">Europe</option>
+            <option value="NBA G League">G League</option>
+            <option value="Asia">Asia</option>
+            <option value="South America">South America</option>
+            <option value="Australia">Australia</option>
+          </select>
+          <select id="pro-position-filter" class="filter-select" onchange="filterTable('pro')">
+            <option value="">All Positions</option>
+            <option value="G">Guards</option>
+            <option value="F">Forwards</option>
+            <option value="C">Centers</option>
+          </select>
+          <select id="pro-fit-filter" class="filter-select" onchange="filterTable('pro')">
+            <option value="">All Fit Levels</option>
+            <option value="High">High Fit</option>
+            <option value="Medium">Medium Fit</option>
+            <option value="Low">Low Fit</option>
+          </select>
+        </div>
+      </div>
+      <div class="table-container">
+        <table class="data-table" id="pro-table">
+          <thead>
+            <tr>
+              <th>Player</th>
+              <th>Pos</th>
+              <th>Age</th>
+              <th>Ht</th>
+              <th>Current Team</th>
+              <th>League</th>
+              <th>PPG</th>
+              <th>RPG</th>
+              <th>APG</th>
+              <th>CEBL Fit</th>
+              <th>Est. Salary</th>
+              <th>Character</th>
+            </tr>
+          </thead>
+          <tbody id="pro-tbody">
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- NCAA D1 CANADIANS TAB -->
+    <section id="tab-ncaa-canadians" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Canadian Players in NCAA Division I (168 Players Tracked)</h2>
+        <div class="filter-row">
+          <input type="text" id="ncaa-search" class="search-input" placeholder="Search by name, school, hometown..." oninput="filterTable('ncaa')">
+          <select id="ncaa-position-filter" class="filter-select" onchange="filterTable('ncaa')">
+            <option value="">All Positions</option>
+            <option value="G">Guards</option>
+            <option value="F">Forwards</option>
+            <option value="C">Centers</option>
+          </select>
+          <select id="ncaa-class-filter" class="filter-select" onchange="filterTable('ncaa')">
+            <option value="">All Classes</option>
+            <option value="Senior">Senior</option>
+            <option value="Junior">Junior</option>
+            <option value="Sophomore">Sophomore</option>
+            <option value="Freshman">Freshman</option>
+          </select>
+          <select id="ncaa-fit-filter" class="filter-select" onchange="filterTable('ncaa')">
+            <option value="">All Fit Levels</option>
+            <option value="High">High Fit</option>
+            <option value="Medium">Medium Fit</option>
+          </select>
+        </div>
+      </div>
+      <div class="table-container">
+        <table class="data-table" id="ncaa-table">
+          <thead>
+            <tr>
+              <th>Player</th>
+              <th>Pos</th>
+              <th>Ht</th>
+              <th>School</th>
+              <th>Conference</th>
+              <th>Class</th>
+              <th>Hometown</th>
+              <th>PPG</th>
+              <th>RPG</th>
+              <th>APG</th>
+              <th>CEBL Fit</th>
+              <th>Draft Eligible</th>
+            </tr>
+          </thead>
+          <tbody id="ncaa-tbody">
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- IMPORT TARGETS TAB -->
+    <section id="tab-imports" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Eligible Import Targets (Americans & International)</h2>
+        <p class="tab-subtitle">Max 5 imports on active roster | Max 6 on total roster</p>
+        <div class="filter-row">
+          <input type="text" id="import-search" class="search-input" placeholder="Search by name, nationality, league..." oninput="filterTable('import')">
+          <select id="import-nat-filter" class="filter-select" onchange="filterTable('import')">
+            <option value="">All Nationalities</option>
+            <option value="USA">American</option>
+            <option value="International">International</option>
+          </select>
+          <select id="import-position-filter" class="filter-select" onchange="filterTable('import')">
+            <option value="">All Positions</option>
+            <option value="G">Guards</option>
+            <option value="F">Forwards</option>
+            <option value="C">Centers</option>
+          </select>
+        </div>
+      </div>
+      <div class="table-container">
+        <table class="data-table" id="import-table">
+          <thead>
+            <tr>
+              <th>Player</th>
+              <th>Nationality</th>
+              <th>Pos</th>
+              <th>Age</th>
+              <th>Ht</th>
+              <th>Current Team</th>
+              <th>League</th>
+              <th>PPG</th>
+              <th>RPG</th>
+              <th>APG</th>
+              <th>CEBL Fit</th>
+              <th>Est. Salary</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody id="import-tbody">
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- LEAGUE SIGNINGS TAB -->
+    <section id="tab-signings" class="tab-content">
+      <div class="tab-header-row">
+        <h2>2026 CEBL League-Wide Signings Tracker</h2>
+        <div class="filter-row">
+          <input type="text" id="sign-search" class="search-input" placeholder="Search by player or team..." oninput="filterTable('sign')">
+          <select id="sign-team-filter" class="filter-select" onchange="filterTable('sign')">
+            <option value="">All Teams</option>
+            <option value="Brampton Honey Badgers">Brampton Honey Badgers</option>
+            <option value="Calgary Surge">Calgary Surge</option>
+            <option value="Edmonton Stingers">Edmonton Stingers</option>
+            <option value="Montreal Alliance">Montreal Alliance</option>
+            <option value="Niagara River Lions">Niagara River Lions</option>
+            <option value="Ottawa BlackJacks">Ottawa BlackJacks</option>
+            <option value="Saskatoon Mamba">Saskatoon Mamba</option>
+            <option value="Scarborough Shooting Stars">Scarborough Shooting Stars</option>
+            <option value="Vancouver Bandits">Vancouver Bandits</option>
+            <option value="Winnipeg Sea Bears">Winnipeg Sea Bears</option>
+          </select>
+        </div>
+      </div>
+      <div class="signings-grid" id="signings-grid">
+        <!-- Filled by JS -->
+      </div>
+    </section>
+
+    <!-- CAP CALCULATOR TAB -->
+    <section id="tab-cap-tools" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Salary Cap Calculator</h2>
+      </div>
+      <div class="cap-calculator">
+        <div class="calc-panel">
+          <h3>Build Your Roster</h3>
+          <p class="calc-desc">Per-game salary cap: <strong>$8,000</strong> for active 12-man roster. Designated Player and up to 3 Dev Players are off-cap.</p>
+          <div class="calc-slots" id="calc-slots">
+            <!-- Filled by JS -->
+          </div>
+          <div class="calc-summary">
+            <div class="calc-total">
+              <span>Total Per-Game Salary:</span>
+              <span id="calc-total-value">$0</span>
+            </div>
+            <div class="calc-remaining">
+              <span>Remaining Cap:</span>
+              <span id="calc-remaining-value">$8,000</span>
+            </div>
+            <div class="calc-bar-container">
+              <div class="calc-bar-bg">
+                <div class="calc-bar-fill" id="calc-bar-fill"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="calc-panel">
+          <h3>Salary Structure Guide</h3>
+          <div class="salary-tiers">
+            <div class="tier">
+              <div class="tier-header">
+                <span class="tier-label">Star / Franchise</span>
+                <span class="tier-range">$1,200 - $1,500/game</span>
+              </div>
+              <div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700)"></div>
+              <p>All-CEBL team caliber, proven scorers, CEBL award winners</p>
+            </div>
+            <div class="tier">
+              <div class="tier-header">
+                <span class="tier-label">Starter / Veteran</span>
+                <span class="tier-range">$800 - $1,200/game</span>
+              </div>
+              <div class="tier-bar" style="width:75%; background: linear-gradient(90deg, #B8860B, #D4AF37)"></div>
+              <p>Experienced pros, reliable starters, international experience</p>
+            </div>
+            <div class="tier">
+              <div class="tier-header">
+                <span class="tier-label">Rotation / Role</span>
+                <span class="tier-range">$500 - $800/game</span>
+              </div>
+              <div class="tier-bar" style="width:50%; background: linear-gradient(90deg, #8B7355, #B8860B)"></div>
+              <p>Solid contributors, U SPORTS standouts, younger pros</p>
+            </div>
+            <div class="tier">
+              <div class="tier-header">
+                <span class="tier-label">Developmental</span>
+                <span class="tier-range">$400 - $500/game</span>
+              </div>
+              <div class="tier-bar" style="width:30%; background: linear-gradient(90deg, #555, #8B7355)"></div>
+              <p>Draft picks, NCAA seniors, first-year pros (up to 3 off-cap)</p>
+            </div>
+            <div class="tier highlight-tier">
+              <div class="tier-header">
+                <span class="tier-label">Designated Player</span>
+                <span class="tier-range">Unlimited (Off-Cap)</span>
+              </div>
+              <div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700, #D4AF37); box-shadow: 0 0 10px rgba(212,175,55,0.5)"></div>
+              <p>One per team. Does NOT count against salary cap. Attract elite talent.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <strong>CEBL SCOUT AI</strong> | Built for the Brampton Honey Badgers
+      </div>
+      <div class="footer-links">
+        <span>Data sources: CEBL.ca, RealGM, BasketballBuzz, North Pole Hoops, USBasket, Basketball Reference</span>
+      </div>
+      <div class="footer-note">
+        Player salaries are estimates based on publicly available CEBL cap structure. Actual salaries may vary.
+      </div>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

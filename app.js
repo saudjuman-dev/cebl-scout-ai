@@ -1,0 +1,349 @@
+// ===== CEBL Scout AI - Application Logic =====
+
+// Loading screen
+window.addEventListener('load', () => {
+  setTimeout(() => {
+    document.getElementById('loading-screen').classList.add('hidden');
+    animateCounters();
+    animateCapBar();
+  }, 2200);
+});
+
+// Tab switching
+function switchTab(tabId) {
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('tab-' + tabId).classList.add('active');
+  document.querySelector(`[data-tab="${tabId}"]`).classList.add('active');
+}
+
+// Animate stat counters
+function animateCounters() {
+  document.querySelectorAll('.stat-number').forEach(el => {
+    const target = parseInt(el.getAttribute('data-count'));
+    let current = 0;
+    const increment = Math.max(1, Math.floor(target / 40));
+    const timer = setInterval(() => {
+      current += increment;
+      if (current >= target) {
+        current = target;
+        clearInterval(timer);
+      }
+      el.textContent = current;
+    }, 30);
+  });
+}
+
+// Get initials from name
+function getInitials(name) {
+  return name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
+}
+
+// ===== Render Honey Badgers Roster =====
+function renderHBRoster() {
+  const container = document.getElementById('hb-roster');
+  container.innerHTML = honeyBadgersRoster.map(p => `
+    <div class="roster-card">
+      <div class="roster-avatar">${getInitials(p.name)}</div>
+      <div class="roster-card-info">
+        <h4>${p.name}</h4>
+        <div class="roster-meta">${p.pos} | ${p.nationality === 'CAN' ? '🇨🇦 Canadian' : '🇺🇸 Import'} | $${p.salary}/game</div>
+        <div class="roster-stat">${p.stats.split('(')[0].trim()}</div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ===== Animate Cap Bar =====
+function animateCapBar() {
+  const totalUsed = honeyBadgersRoster.reduce((sum, p) => sum + p.salary, 0);
+  const pct = Math.min(100, (totalUsed / CEBL_CONFIG.perGameCap) * 100);
+
+  setTimeout(() => {
+    document.getElementById('cap-fill').style.width = pct + '%';
+    document.getElementById('cap-used-label').textContent = '$' + totalUsed.toLocaleString() + ' used';
+  }, 500);
+
+  const details = document.getElementById('cap-details');
+  const canadians = honeyBadgersRoster.filter(p => p.nationality === 'CAN');
+  const imports = honeyBadgersRoster.filter(p => p.nationality !== 'CAN');
+  const remaining = CEBL_CONFIG.perGameCap - totalUsed;
+
+  details.innerHTML = `
+    <div class="cap-detail-item"><span class="cdl">Roster Size</span><span class="cdv">${honeyBadgersRoster.length} / 14</span></div>
+    <div class="cap-detail-item"><span class="cdl">Canadians</span><span class="cdv">${canadians.length} / 6+ min</span></div>
+    <div class="cap-detail-item"><span class="cdl">Imports</span><span class="cdv">${imports.length} / 5 max</span></div>
+    <div class="cap-detail-item"><span class="cdl">Cap Used</span><span class="cdv">$${totalUsed.toLocaleString()}</span></div>
+    <div class="cap-detail-item"><span class="cdl">Cap Remaining</span><span class="cdv" style="color: ${remaining > 0 ? '#81C784' : '#EF9A9A'}">$${remaining.toLocaleString()}</span></div>
+    <div class="cap-detail-item"><span class="cdl">Spots Open</span><span class="cdv">${14 - honeyBadgersRoster.length}</span></div>
+  `;
+}
+
+// ===== Render Scout Targets =====
+function renderScoutTargets() {
+  const container = document.getElementById('scout-targets');
+  container.innerHTML = scoutTargets.map(t => `
+    <div class="scout-card">
+      <div class="scout-card-top">
+        <div class="scout-avatar">${getInitials(t.name)}</div>
+        <div>
+          <div class="scout-name">${t.name}</div>
+          <div class="scout-detail">${t.pos} | ${t.from}</div>
+        </div>
+      </div>
+      <div class="scout-stats">
+        <div class="scout-stat-item">
+          <div class="scout-stat-val">${t.ppg}</div>
+          <div class="scout-stat-lbl">PPG</div>
+        </div>
+        <div class="scout-stat-item">
+          <div class="scout-stat-val">${t.rpg}</div>
+          <div class="scout-stat-lbl">RPG</div>
+        </div>
+        <div class="scout-stat-item">
+          <div class="scout-stat-val">${t.apg}</div>
+          <div class="scout-stat-lbl">APG</div>
+        </div>
+      </div>
+      <div class="scout-tags">
+        <span class="scout-tag fit-${t.fit.toLowerCase()}">${t.fit} Fit</span>
+        <span class="scout-tag ${t.type === 'Canadian' ? 'canadian' : ''}">${t.type === 'Canadian' ? '🇨🇦 Canadian' : '🌍 Import'}</span>
+        ${t.tags.map(tag => `<span class="scout-tag">${tag}</span>`).join('')}
+      </div>
+      <div class="scout-salary">
+        <span>Est. Salary</span>
+        <span class="scout-salary-val">${t.salary}</span>
+      </div>
+      <p style="font-size:0.6875rem; color: var(--gray); margin-top: 0.5rem;">${t.reason}</p>
+    </div>
+  `).join('');
+}
+
+// ===== Render Pro Canadians Table =====
+function renderProTable() {
+  const tbody = document.getElementById('pro-tbody');
+  tbody.innerHTML = canadiansPro.map(p => `
+    <tr data-search="${(p.name + ' ' + p.team + ' ' + p.league + ' ' + p.hometown + ' ' + p.note).toLowerCase()}" data-league="${p.league}" data-pos="${p.pos.charAt(0)}" data-fit="${p.fit}">
+      <td>
+        <div class="player-cell">
+          <div class="player-avatar">${getInitials(p.name)}</div>
+          <div>
+            <div class="player-name">${p.name}</div>
+            <div style="font-size:0.625rem; color: var(--gray)">${p.hometown}</div>
+          </div>
+        </div>
+      </td>
+      <td>${p.pos}</td>
+      <td>${p.age}</td>
+      <td>${p.ht}</td>
+      <td>${p.team}</td>
+      <td>${p.league}</td>
+      <td><strong>${p.ppg}</strong></td>
+      <td>${p.rpg}</td>
+      <td>${p.apg}</td>
+      <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
+      <td style="color: var(--gold); font-weight: 600">${p.salary}</td>
+      <td><span class="character-badge char-${p.character.toLowerCase() === 'good' ? 'good' : 'neutral'}">${p.character === 'Good' ? '✓ ' : ''}${p.character}</span></td>
+    </tr>
+  `).join('');
+}
+
+// ===== Render NCAA Table =====
+function renderNCAA() {
+  const tbody = document.getElementById('ncaa-tbody');
+  tbody.innerHTML = ncaaCanadians.map(p => `
+    <tr data-search="${(p.name + ' ' + p.school + ' ' + p.conf + ' ' + p.hometown + ' ' + p.note).toLowerCase()}" data-pos="${p.pos.charAt(0)}" data-class="${p.classYear}" data-fit="${p.fit}">
+      <td>
+        <div class="player-cell">
+          <div class="player-avatar">${getInitials(p.name)}</div>
+          <div>
+            <div class="player-name">${p.name}</div>
+            <div style="font-size:0.625rem; color: var(--gray)">${p.hometown}</div>
+          </div>
+        </div>
+      </td>
+      <td>${p.pos}</td>
+      <td>${p.ht}</td>
+      <td><strong>${p.school}</strong></td>
+      <td>${p.conf}</td>
+      <td>${p.classYear}</td>
+      <td>${p.hometown}</td>
+      <td><strong>${p.ppg}</strong></td>
+      <td>${p.rpg}</td>
+      <td>${p.apg}</td>
+      <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
+      <td style="font-size:0.6875rem">${p.draftEligible}</td>
+    </tr>
+  `).join('');
+}
+
+// ===== Render Import Table =====
+function renderImports() {
+  const tbody = document.getElementById('import-tbody');
+  tbody.innerHTML = importTargets.map(p => `
+    <tr data-search="${(p.name + ' ' + (p.nationality||'') + ' ' + p.team + ' ' + p.league + ' ' + p.note).toLowerCase()}" data-nat="${p.nationality}" data-pos="${p.pos.charAt(0)}" data-fit="${p.fit}">
+      <td>
+        <div class="player-cell">
+          <div class="player-avatar">${getInitials(p.name)}</div>
+          <div class="player-name">${p.name}</div>
+        </div>
+      </td>
+      <td>${p.nationality === 'USA' ? '🇺🇸 USA' : p.nationality === 'International' ? '🌍 Intl' : '🇨🇦/' + p.nationality}</td>
+      <td>${p.pos}</td>
+      <td>${p.age || '-'}</td>
+      <td>${p.ht || '-'}</td>
+      <td>${p.team}</td>
+      <td>${p.league}</td>
+      <td><strong>${p.ppg}</strong></td>
+      <td>${p.rpg}</td>
+      <td>${p.apg}</td>
+      <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
+      <td style="color: var(--gold); font-weight: 600">${p.salary}</td>
+      <td style="font-size:0.6875rem; max-width: 200px; white-space: normal;">${p.note}</td>
+    </tr>
+  `).join('');
+}
+
+// ===== Render Signings =====
+function renderSignings() {
+  const container = document.getElementById('signings-grid');
+  container.innerHTML = Object.entries(leagueSignings).map(([team, data]) => `
+    <div class="signing-team-section" data-team="${team}">
+      <div class="signing-team-header" onclick="this.parentElement.classList.toggle('collapsed')" style="border-left: 4px solid ${data.color}">
+        <div class="signing-team-logo" style="background: ${data.bg}; border: 1px solid ${data.color}">${data.emoji}</div>
+        <span class="signing-team-name ${team === 'Brampton Honey Badgers' ? 'hb' : ''}">${team}</span>
+        <span class="signing-team-count">${data.players.length} player${data.players.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="signing-players">
+        ${data.players.map(p => `
+          <div class="signing-player">
+            <div class="sp-avatar">${getInitials(p.name)}</div>
+            <div class="sp-info">
+              <div class="sp-name">${p.name}</div>
+              <div class="sp-meta">${p.pos} | ${p.detail}</div>
+            </div>
+            <span class="sp-type ${p.type.includes('New') ? 'type-new' : p.type.includes('Re') ? 'type-re' : 'type-draft'}">${p.type}</span>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+// ===== Filter Tables =====
+function filterTable(type) {
+  let rows, searchVal, filters;
+
+  if (type === 'pro') {
+    rows = document.querySelectorAll('#pro-tbody tr');
+    searchVal = document.getElementById('pro-search').value.toLowerCase();
+    const league = document.getElementById('pro-league-filter').value;
+    const pos = document.getElementById('pro-position-filter').value;
+    const fit = document.getElementById('pro-fit-filter').value;
+    rows.forEach(row => {
+      const match = row.getAttribute('data-search').includes(searchVal)
+        && (!league || row.getAttribute('data-league') === league)
+        && (!pos || row.getAttribute('data-pos') === pos)
+        && (!fit || row.getAttribute('data-fit') === fit);
+      row.style.display = match ? '' : 'none';
+    });
+  } else if (type === 'ncaa') {
+    rows = document.querySelectorAll('#ncaa-tbody tr');
+    searchVal = document.getElementById('ncaa-search').value.toLowerCase();
+    const pos = document.getElementById('ncaa-position-filter').value;
+    const cls = document.getElementById('ncaa-class-filter').value;
+    const fit = document.getElementById('ncaa-fit-filter').value;
+    rows.forEach(row => {
+      const match = row.getAttribute('data-search').includes(searchVal)
+        && (!pos || row.getAttribute('data-pos') === pos)
+        && (!cls || row.getAttribute('data-class') === cls)
+        && (!fit || row.getAttribute('data-fit') === fit);
+      row.style.display = match ? '' : 'none';
+    });
+  } else if (type === 'import') {
+    rows = document.querySelectorAll('#import-tbody tr');
+    searchVal = document.getElementById('import-search').value.toLowerCase();
+    const nat = document.getElementById('import-nat-filter').value;
+    const pos = document.getElementById('import-position-filter').value;
+    rows.forEach(row => {
+      const match = row.getAttribute('data-search').includes(searchVal)
+        && (!nat || row.getAttribute('data-nat') === nat)
+        && (!pos || row.getAttribute('data-pos') === pos);
+      row.style.display = match ? '' : 'none';
+    });
+  } else if (type === 'sign') {
+    const sections = document.querySelectorAll('.signing-team-section');
+    searchVal = document.getElementById('sign-search').value.toLowerCase();
+    const team = document.getElementById('sign-team-filter').value;
+    sections.forEach(section => {
+      const teamName = section.getAttribute('data-team');
+      const teamMatch = !team || teamName === team;
+      const textMatch = !searchVal || teamName.toLowerCase().includes(searchVal) ||
+        section.textContent.toLowerCase().includes(searchVal);
+      section.style.display = (teamMatch && textMatch) ? '' : 'none';
+    });
+  }
+}
+
+// ===== Cap Calculator =====
+function renderCapCalculator() {
+  const container = document.getElementById('calc-slots');
+  const slots = [];
+
+  // Pre-fill with current HB roster
+  honeyBadgersRoster.forEach((p, i) => {
+    slots.push({ num: i + 1, name: p.name, type: p.type, salary: p.salary });
+  });
+
+  // Add empty slots up to 12
+  for (let i = honeyBadgersRoster.length; i < 12; i++) {
+    slots.push({ num: i + 1, name: '', type: 'TBD', salary: 400 });
+  }
+
+  container.innerHTML = slots.map((s, i) => `
+    <div class="calc-slot">
+      <span class="calc-slot-num">${s.num}</span>
+      <input type="text" value="${s.name}" placeholder="Player name..." onchange="updateCalc()" data-idx="${i}">
+      <select onchange="updateCalc()" data-idx="${i}">
+        <option ${s.type === 'Canadian' ? 'selected' : ''}>Canadian</option>
+        <option ${s.type === 'Import' ? 'selected' : ''}>Import</option>
+        <option ${s.type === 'Dev (Off-Cap)' ? 'selected' : ''}>Dev (Off-Cap)</option>
+        <option ${s.type === 'Designated' ? 'selected' : ''}>Designated</option>
+        <option ${s.type === 'TBD' ? 'selected' : ''}>TBD</option>
+      </select>
+      <input type="range" min="400" max="1500" step="50" value="${s.salary}" oninput="this.title='$'+this.value+'/game'; updateCalc()" title="$${s.salary}/game" data-idx="${i}">
+    </div>
+  `).join('');
+
+  updateCalc();
+}
+
+function updateCalc() {
+  const sliders = document.querySelectorAll('.calc-slot input[type="range"]');
+  const selects = document.querySelectorAll('.calc-slot select');
+  let total = 0;
+
+  sliders.forEach((slider, i) => {
+    const type = selects[i].value;
+    if (type !== 'Dev (Off-Cap)' && type !== 'Designated') {
+      total += parseInt(slider.value);
+    }
+  });
+
+  const remaining = CEBL_CONFIG.perGameCap - total;
+  document.getElementById('calc-total-value').textContent = '$' + total.toLocaleString();
+  document.getElementById('calc-remaining-value').textContent = '$' + remaining.toLocaleString();
+  document.getElementById('calc-remaining-value').style.color = remaining >= 0 ? '#81C784' : '#EF9A9A';
+  document.getElementById('calc-bar-fill').style.width = Math.min(100, (total / CEBL_CONFIG.perGameCap) * 100) + '%';
+}
+
+// ===== Initialize =====
+document.addEventListener('DOMContentLoaded', () => {
+  renderHBRoster();
+  renderScoutTargets();
+  renderProTable();
+  renderNCAA();
+  renderImports();
+  renderSignings();
+  renderCapCalculator();
+});
