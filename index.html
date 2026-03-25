@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CEBL Scout AI | Brampton Honey Badgers Scouting Tool</title>
+  <title>CEBL Scout | Brampton Honey Badgers Scouting Tool</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
@@ -16,7 +16,7 @@
       <div class="loader-logo">
         <div class="basketball-pulse"></div>
       </div>
-      <h2>CEBL SCOUT AI</h2>
+      <h2>CEBL SCOUT</h2>
       <p>Loading scouting intelligence...</p>
       <div class="loader-bar"><div class="loader-bar-fill"></div></div>
     </div>
@@ -33,7 +33,7 @@
           </svg>
         </div>
         <div>
-          <h1>CEBL SCOUT <span class="gold">AI</span></h1>
+          <h1>CEBL <span class="gold">SCOUT</span></h1>
           <p class="brand-sub">Brampton Honey Badgers | Scouting Intelligence Platform</p>
         </div>
       </div>
@@ -79,6 +79,23 @@
       </button>
     </div>
   </nav>
+
+  <!-- Team Bar -->
+  <div id="team-bar">
+    <div class="team-bar-inner">
+      <button class="team-chip active" data-team="all" onclick="filterByTeam('all')">All Teams</button>
+      <button class="team-chip hb" data-team="Brampton Honey Badgers" onclick="filterByTeam('Brampton Honey Badgers')"><span class="team-dot" style="background:#D4AF37"></span>Brampton</button>
+      <button class="team-chip" data-team="Calgary Surge" onclick="filterByTeam('Calgary Surge')"><span class="team-dot" style="background:#E31837"></span>Calgary</button>
+      <button class="team-chip" data-team="Edmonton Stingers" onclick="filterByTeam('Edmonton Stingers')"><span class="team-dot" style="background:#FFB81C"></span>Edmonton</button>
+      <button class="team-chip" data-team="Montreal Alliance" onclick="filterByTeam('Montreal Alliance')"><span class="team-dot" style="background:#7B2D8E"></span>Montreal</button>
+      <button class="team-chip" data-team="Niagara River Lions" onclick="filterByTeam('Niagara River Lions')"><span class="team-dot" style="background:#0066CC"></span>Niagara</button>
+      <button class="team-chip" data-team="Ottawa BlackJacks" onclick="filterByTeam('Ottawa BlackJacks')"><span class="team-dot" style="background:#CC0000"></span>Ottawa</button>
+      <button class="team-chip" data-team="Saskatoon Mamba" onclick="filterByTeam('Saskatoon Mamba')"><span class="team-dot" style="background:#00AA00"></span>Saskatoon</button>
+      <button class="team-chip" data-team="Scarborough Shooting Stars" onclick="filterByTeam('Scarborough Shooting Stars')"><span class="team-dot" style="background:#1E90FF"></span>Scarborough</button>
+      <button class="team-chip" data-team="Vancouver Bandits" onclick="filterByTeam('Vancouver Bandits')"><span class="team-dot" style="background:#FF6B35"></span>Vancouver</button>
+      <button class="team-chip" data-team="Winnipeg Sea Bears" onclick="filterByTeam('Winnipeg Sea Bears')"><span class="team-dot" style="background:#003366"></span>Winnipeg</button>
+    </div>
+  </div>
 
   <!-- Main Content -->
   <main id="main-content">
@@ -170,7 +187,7 @@
         <!-- Top Scouting Targets -->
         <div class="panel full-width">
           <div class="panel-header">
-            <h2>AI-Recommended Scouting Targets</h2>
+            <h2>Recommended Scouting Targets</h2>
             <span class="badge">Cap Friendly</span>
           </div>
           <div class="scout-targets" id="scout-targets">
@@ -188,11 +205,16 @@
           <input type="text" id="pro-search" class="search-input" placeholder="Search by name, team, league..." oninput="filterTable('pro')">
           <select id="pro-league-filter" class="filter-select" onchange="filterTable('pro')">
             <option value="">All Leagues</option>
-            <option value="Europe">Europe</option>
-            <option value="NBA G League">G League</option>
-            <option value="Asia">Asia</option>
-            <option value="South America">South America</option>
-            <option value="Australia">Australia</option>
+            <option value="Europe">Europe (All)</option>
+            <option value="Germany">Germany BBL</option>
+            <option value="France">France</option>
+            <option value="Netherlands">Netherlands BNXT</option>
+            <option value="Finland">Finland</option>
+            <option value="Czech">Czech Republic</option>
+            <option value="Lebanon">Lebanon</option>
+            <option value="NZ">New Zealand NBL</option>
+            <option value="CEBL">CEBL / Free Agent</option>
+            <option value="G League">G League</option>
           </select>
           <select id="pro-position-filter" class="filter-select" onchange="filterTable('pro')">
             <option value="">All Positions</option>
@@ -435,7 +457,7 @@
   <footer>
     <div class="footer-inner">
       <div class="footer-brand">
-        <strong>CEBL SCOUT AI</strong> | Built for the Brampton Honey Badgers
+        <strong>CEBL SCOUT</strong> | Built for the Brampton Honey Badgers
       </div>
       <div class="footer-links">
         <span>Data sources: CEBL.ca, RealGM, BasketballBuzz, North Pole Hoops, USBasket, Basketball Reference</span>

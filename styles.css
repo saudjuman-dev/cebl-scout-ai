@@ -172,6 +172,48 @@ body {
 .nav-tab svg { opacity: 0.6; }
 .nav-tab.active svg { opacity: 1; stroke: var(--gold); }
 
+/* ===== Team Bar ===== */
+#team-bar {
+  background: var(--dark-2);
+  border-bottom: 1px solid var(--dark-3);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.team-bar-inner {
+  max-width: 1600px;
+  margin: 0 auto;
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.625rem 2rem;
+  white-space: nowrap;
+}
+.team-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.375rem 0.75rem;
+  border-radius: 20px;
+  background: var(--dark-3);
+  border: 1px solid var(--dark-4);
+  color: var(--gray-light);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+.team-chip:hover { background: var(--dark-4); color: var(--white); }
+.team-chip.active { background: var(--gold-muted); border-color: var(--gold); color: var(--gold); }
+.team-chip.hb { border-color: rgba(212,175,55,0.3); }
+.team-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
 /* ===== Main Content ===== */
 #main-content {
   max-width: 1600px;

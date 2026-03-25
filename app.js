@@ -1,4 +1,4 @@
-// ===== CEBL Scout AI - Application Logic =====
+// ===== CEBL Scout - Application Logic =====
 
 // Loading screen
 window.addEventListener('load', () => {
@@ -241,8 +241,10 @@ function filterTable(type) {
     const pos = document.getElementById('pro-position-filter').value;
     const fit = document.getElementById('pro-fit-filter').value;
     rows.forEach(row => {
+      const rowLeague = row.getAttribute('data-league').toLowerCase();
+      const leagueMatch = !league || rowLeague.includes(league.toLowerCase());
       const match = row.getAttribute('data-search').includes(searchVal)
-        && (!league || row.getAttribute('data-league') === league)
+        && leagueMatch
         && (!pos || row.getAttribute('data-pos') === pos)
         && (!fit || row.getAttribute('data-fit') === fit);
       row.style.display = match ? '' : 'none';
@@ -335,6 +337,24 @@ function updateCalc() {
   document.getElementById('calc-remaining-value').textContent = '$' + remaining.toLocaleString();
   document.getElementById('calc-remaining-value').style.color = remaining >= 0 ? '#81C784' : '#EF9A9A';
   document.getElementById('calc-bar-fill').style.width = Math.min(100, (total / CEBL_CONFIG.perGameCap) * 100) + '%';
+}
+
+// ===== Team Filter (Team Bar) =====
+function filterByTeam(team) {
+  // Update active chip
+  document.querySelectorAll('.team-chip').forEach(c => c.classList.remove('active'));
+  document.querySelector(`.team-chip[data-team="${team}"]`).classList.add('active');
+
+  if (team === 'all') {
+    // Show everything, switch to dashboard
+    switchTab('dashboard');
+    return;
+  }
+
+  // Switch to signings tab and filter to that team
+  switchTab('signings');
+  document.getElementById('sign-team-filter').value = team;
+  filterTable('sign');
 }
 
 // ===== Initialize =====
