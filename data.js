@@ -278,6 +278,8 @@ const leagueSignings = {
     color: "#0066CC", bg: "#001122", emoji: "🦁",
     players: [
       { name: "Elijah Lufile", pos: "F", type: "Re-Signing", detail: "3rd season | From Lebanon Div. A | 14.1 PPG, 10.6 RPG | Double-double machine" },
+      { name: "T.J. Lall", pos: "F", type: "Re-Signing", detail: "3rd season with Niagara | From ZZ Leiden (BNXT Netherlands) | 2024 CEBL champion" },
+      { name: "Nathan Cayo", pos: "F", type: "Re-Signing", detail: "Back-to-back champion (2024, 2025) | 9.8 PPG, 5.5 RPG, 3.0 APG | Montreal native" },
       { name: "Kimbal Mackenzie (HC/GM)", pos: "Coach", type: "New Hire", detail: "Promoted from captain to Head Coach & GM | Replaces Victor Raso (now Sr. Advisor)" }
     ]
   },
@@ -285,15 +287,18 @@ const leagueSignings = {
     color: "#FF6B35", bg: "#1a0d00", emoji: "🏴‍☠️",
     players: [
       { name: "Tyrese Samuel", pos: "F/C", type: "Re-Signing", detail: "2025 Canadian Player of the Year | 21.7 PPG, 10.8 RPG | 65.9% FG" },
-      { name: "Sam Maillet", pos: "G", type: "Re-Signing", detail: "U SPORTS Champion & Finals MVP | Victoria Vikes | Moncton NB native" }
+      { name: "Sam Maillet", pos: "G", type: "Re-Signing", detail: "U SPORTS Champion & Finals MVP | Victoria Vikes | Moncton NB native" },
+      { name: "Tristan Jass", pos: "G", type: "New Signing", detail: "Content creator (5.6M YouTube) | 28 pts in preseason debut | Kenosha WI" }
     ]
   },
   "Winnipeg Sea Bears": {
     color: "#003366", bg: "#000d1a", emoji: "🐻",
     players: [
+      { name: "Xavier Moon", pos: "G", type: "New Signing", detail: "3x CEBL Player of the Year | 23.1 PPG (2021) | 2x CEBL Champion | 28 NBA games (Clippers)" },
       { name: "Emmanuel Akot", pos: "F", type: "Re-Signing", detail: "Winnipeg native | 11.2 PPG, 5.3 RPG, 2.2 APG | Arizona product" },
       { name: "David Walker", pos: "G", type: "New Signing", detail: "From Ottawa BlackJacks | Playoff hero (19 PTS, 4 REB, 3 STL)" },
-      { name: "Fareed Shittu", pos: "F", type: "New Signing", detail: "Canadian forward from Edmonton | 2 years CEBL exp | High-level athlete" }
+      { name: "Fareed Shittu", pos: "F", type: "New Signing", detail: "Canadian forward from Edmonton | 2 years CEBL exp | High-level athlete" },
+      { name: "Isiah Osborne", pos: "G", type: "New Signing", detail: "49 career CEBL games | 10.3 PPG | 2x U SPORTS champion (Carleton) | 2020 championship MVP" }
     ]
   },
   "Ottawa BlackJacks": {
@@ -302,20 +307,22 @@ const leagueSignings = {
       { name: "Christian Rohlehr", pos: "F/C", type: "Re-Signing", detail: "Top shot-blocker | 1.3 BPG (tied 23rd all-time CEBL)" },
       { name: "Justin Harmon", pos: "G", type: "New Signing", detail: "From Salt Lake City Stars (G League) | 11.4 PPG, 50.7% FG, 47.2% 3PT" },
       { name: "Justin Ndjock-Tadjoré", pos: "F", type: "Re-Signing", detail: "3rd campaign | First standard contract | Currently BK Ogre (Estonia-Latvia)" },
-      { name: "James Derouin (GM)", pos: "Front Office", type: "Re-Signed", detail: "Returns as GM for 2nd season" }
+      { name: "Shakur Daniel", pos: "G", type: "Re-Signing", detail: "22 games, 13 starts in 2025 | 3.7 PPG, 2.3 RPG, 1.8 APG | Defensive specialist" }
     ]
   },
   "Montreal Alliance": {
     color: "#7B2D8E", bg: "#0d0011", emoji: "⚜️",
     players: [
       { name: "Kevin Osawe", pos: "F", type: "Re-Signing", detail: "9.3 PPG, 5.5 RPG in 2025 CEBL | 17.2 PPG in Germany | 87.8% FT | Brampton native" },
-      { name: "Keeshawn Barthelemy", pos: "G", type: "New Signing", detail: "Montreal native | Colorado/Oregon product | Score-first PG" }
+      { name: "Keeshawn Barthelemy", pos: "G", type: "New Signing", detail: "Montreal native | Colorado/Oregon product | Cyprus Div. A (2025-26) | Score-first PG" },
+      { name: "Abdullah Shittu", pos: "F", type: "Re-Signing", detail: "Edmonton native | Slovakia, Mongolia, Portugal experience | U of Alberta product" }
     ]
   },
   "Edmonton Stingers": {
     color: "#FFB81C", bg: "#1a1500", emoji: "🐝",
     players: [
-      { name: "Emmanuel Bandoumel", pos: "G", type: "New Signing", detail: "Quebec City native | SMU product | Scoring punch" }
+      { name: "Emmanuel Bandoumel", pos: "G", type: "New Signing", detail: "Quebec City native | SMU product | Scoring punch" },
+      { name: "Elijah Miller", pos: "G", type: "Re-Signing", detail: "8.6 PPG, 3.0 APG in 2025 (14 games) | Returning from ankle injury" }
     ]
   },
   "Calgary Surge": {
@@ -327,7 +334,10 @@ const leagueSignings = {
   "Scarborough Shooting Stars": {
     color: "#1E90FF", bg: "#000d1a", emoji: "⭐",
     players: [
-      { name: "Kyree Walker", pos: "F", type: "Re-Signing", detail: "12.8 PPG, 4.8 RPG | 4th returning 2023 champion | Confirmed 2026" }
+      { name: "Kyree Walker", pos: "F", type: "Re-Signing", detail: "12.8 PPG, 4.8 RPG | 2023 champion returning" },
+      { name: "Cat Barber", pos: "G", type: "Re-Signing", detail: "All-time CEBL leading scorer | All-CEBL First Team" },
+      { name: "Donovan Williams", pos: "G", type: "New Signing", detail: "17.2 PPG Santa Cruz (G League) | 2 NBA games (Hawks) | 10th roster addition" },
+      { name: "Hason Ward", pos: "F", type: "Re-Signing", detail: "Barbados native | 5.5 PPG, 1.5 BPG | 2nd season | Maine Celtics (G League) experience" }
     ]
   },
   "Saskatoon Mamba": {
