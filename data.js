@@ -327,11 +327,7 @@ const leagueSignings = {
   "Scarborough Shooting Stars": {
     color: "#1E90FF", bg: "#000d1a", emoji: "⭐",
     players: [
-      { name: "Kyree Walker", pos: "F", type: "Re-Signing", detail: "12.8 PPG, 4.8 RPG | 4th returning 2023 champion" },
-      { name: "Devoe Joseph", pos: "G", type: "New Signing", detail: "Scarborough native | 23 yrs pro experience | First time playing at home since HS" },
-      { name: "Nick Lewis", pos: "F", type: "New Signing", detail: "Scarborough native | Combined 23 yrs pro exp with Joseph" },
-      { name: "Donovan Williams", pos: "G", type: "New Signing", detail: "17.2 PPG Santa Cruz (G League) | 2 NBA games (Hawks)" },
-      { name: "Tevian Jones", pos: "G/F", type: "New Signing", detail: "NBA Summer League (Pelicans) | 50 G League games (Birmingham)" }
+      { name: "Kyree Walker", pos: "F", type: "Re-Signing", detail: "12.8 PPG, 4.8 RPG | 4th returning 2023 champion | Confirmed 2026" }
     ]
   },
   "Saskatoon Mamba": {
