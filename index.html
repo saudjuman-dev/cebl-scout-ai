@@ -3,25 +3,99 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CEBL Scout | Brampton Honey Badgers Scouting Tool</title>
+  <title>CEBL Scout | GM Intelligence Platform</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏀</text></svg>">
 </head>
 <body>
-  <!-- Password Gate -->
-  <div id="password-gate">
+  <!-- Auth Gate (Login / Register) -->
+  <div id="auth-gate">
     <div class="gate-content">
-      <div class="basketball-pulse"></div>
-      <h2>CEBL <span class="gold">SCOUT</span></h2>
-      <p class="gate-sub">Brampton Honey Badgers | Scouting Intelligence Platform</p>
-      <div class="gate-form">
-        <input type="password" id="gate-password" placeholder="Enter access code..." onkeydown="if(event.key==='Enter')checkPassword()">
-        <button onclick="checkPassword()">Access</button>
+      <div class="gate-logo-row">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Canadian_Elite_Basketball_League_logo.svg/1200px-Canadian_Elite_Basketball_League_logo.svg.png" alt="CEBL" class="gate-cebl-logo" onerror="this.style.display='none'">
       </div>
-      <p id="gate-error" class="gate-error"></p>
-      <p class="gate-note">Authorized personnel only</p>
+      <h2>CEBL <span class="gold">SCOUT</span></h2>
+      <p class="gate-sub">GM Intelligence Platform</p>
+
+      <!-- Login Form -->
+      <div id="auth-login">
+        <div class="gate-form-group">
+          <input type="text" id="login-email" placeholder="Email or username" onkeydown="if(event.key==='Enter')document.getElementById('login-password').focus()">
+          <input type="password" id="login-password" placeholder="Password" onkeydown="if(event.key==='Enter')handleLogin()">
+          <button class="gate-btn primary" onclick="handleLogin()">Sign In</button>
+        </div>
+        <p class="gate-switch">New here? <a href="#" onclick="showRegisterForm();return false">Create a free account</a></p>
+      </div>
+
+      <!-- Register Form -->
+      <div id="auth-register" style="display:none">
+        <div class="gate-form-group">
+          <input type="text" id="reg-name" placeholder="Full name" onkeydown="if(event.key==='Enter')document.getElementById('reg-email').focus()">
+          <input type="email" id="reg-email" placeholder="Email address" onkeydown="if(event.key==='Enter')document.getElementById('reg-password').focus()">
+          <input type="password" id="reg-password" placeholder="Create password (6+ chars)" onkeydown="if(event.key==='Enter')handleRegister()">
+          <button class="gate-btn primary" onclick="handleRegister()">Create Account</button>
+        </div>
+        <p class="gate-switch">Already have an account? <a href="#" onclick="showLoginForm();return false">Sign in</a></p>
+      </div>
+
+      <p id="auth-error" class="gate-error"></p>
+      <p class="gate-note">Built for GMs, Head Coaches & Presidents across the CEBL</p>
+    </div>
+  </div>
+
+  <!-- Welcome Overlay -->
+  <div id="welcome-overlay" class="overlay-screen">
+    <div class="overlay-card welcome-card">
+      <div class="welcome-icon">🏀</div>
+      <h2>Welcome, <span id="welcome-name" class="gold">Scout</span></h2>
+      <p class="welcome-headline">You've entered the most advanced scouting intelligence platform built for the <strong>Canadian Elite Basketball League</strong>.</p>
+      <div class="welcome-features">
+        <div class="wf-item"><span class="wf-icon">📊</span><span>Real-time player databases across 20+ global leagues</span></div>
+        <div class="wf-item"><span class="wf-icon">🇨🇦</span><span>Every Canadian playing pro worldwide — tracked and analyzed</span></div>
+        <div class="wf-item"><span class="wf-icon">🎓</span><span>168+ NCAA D1 Canadian prospects scouted for CEBL fit</span></div>
+        <div class="wf-item"><span class="wf-icon">💰</span><span>Salary cap tools built around CEBL's $8,000/game structure</span></div>
+        <div class="wf-item"><span class="wf-icon">📝</span><span>Live 2026 signings tracker for all 10 CEBL teams</span></div>
+        <div class="wf-item"><span class="wf-icon">🌍</span><span>Import targets from every CEBL-eligible league on earth</span></div>
+      </div>
+      <p class="welcome-note">This platform is designed exclusively for General Managers, Head Coaches, and Presidents who want one portal with all options at their fingertips.</p>
+      <p class="welcome-trial">You have <strong>15 free page views</strong> to explore. Unlimited access is just <strong>$14.99/month</strong>.</p>
+      <button class="gate-btn primary" onclick="closeWelcome()" style="margin-top:1rem">Enter CEBL Scout →</button>
+    </div>
+  </div>
+
+  <!-- Paywall Overlay -->
+  <div id="paywall-overlay" class="overlay-screen">
+    <div class="overlay-card paywall-card">
+      <div class="welcome-icon">🔒</div>
+      <h2>You've used all <span class="gold">15 free views</span></h2>
+      <p style="color:var(--gray); margin-bottom:1.5rem">Unlock unlimited access to CEBL Scout — the league's premier scouting intelligence platform.</p>
+      <div class="pricing-box">
+        <div class="price-option featured">
+          <div class="price-badge">Most Popular</div>
+          <h3>Monthly</h3>
+          <div class="price-amount">$14<span class="price-cents">.99</span><span class="price-period">/mo</span></div>
+          <ul class="price-features">
+            <li>✓ Unlimited player database access</li>
+            <li>✓ All 10 team dashboards</li>
+            <li>✓ Salary cap calculator</li>
+            <li>✓ Live signings tracker</li>
+            <li>✓ Cancel anytime</li>
+          </ul>
+          <button class="gate-btn primary" onclick="openStripeCheckout()">Subscribe — $14.99/mo</button>
+        </div>
+        <div class="price-option">
+          <div class="price-badge save">Save 17%</div>
+          <h3>Annual</h3>
+          <div class="price-amount">$149<span class="price-period">/yr</span></div>
+          <p class="price-subtext">That's $12.42/mo</p>
+          <button class="gate-btn secondary" onclick="openStripeCheckout()">Subscribe — $149/yr</button>
+        </div>
+      </div>
+      <p id="paywall-message" style="color:var(--gray); font-size:0.75rem; margin-top:1rem"></p>
+      <button id="paywall-paid-btn" class="gate-btn gold" onclick="confirmPaid()" style="display:none; margin-top:0.5rem">I've Paid — Activate Access</button>
+      <button class="gate-btn text" onclick="closePaywall()" style="margin-top:0.5rem; opacity:0.5">Maybe later</button>
     </div>
   </div>
 
@@ -49,21 +123,22 @@
         </div>
         <div>
           <h1>CEBL <span class="gold">SCOUT</span></h1>
-          <p class="brand-sub">Brampton Honey Badgers | Scouting Intelligence Platform</p>
+          <p class="brand-sub">GM Intelligence Platform | 2026 Season</p>
         </div>
       </div>
       <div class="header-actions">
+        <div class="salary-cap-badge" id="views-badge">
+          <span class="cap-label">Access</span>
+          <span class="cap-value" id="views-remaining" style="font-size:0.55rem">--</span>
+        </div>
         <div class="salary-cap-badge">
           <span class="cap-label">Per-Game Cap</span>
           <span class="cap-value">$8,000</span>
         </div>
-        <div class="salary-cap-badge">
-          <span class="cap-label">Player Range</span>
-          <span class="cap-value">$400-$1,500</span>
-        </div>
-        <div class="salary-cap-badge" style="font-size:0.6rem; opacity:0.7">
-          <span class="cap-label">Data Status</span>
-          <span class="cap-value" id="last-updated" style="font-size:0.55rem">Auto-refreshes every 5 min</span>
+        <div class="user-menu">
+          <span id="user-display">User</span>
+          <span id="admin-badge" class="admin-tag" style="display:none">ADMIN</span>
+          <button class="logout-btn" onclick="handleLogout()" title="Sign out">✕</button>
         </div>
       </div>
     </div>
@@ -122,7 +197,6 @@
     <!-- DASHBOARD TAB -->
     <section id="tab-dashboard" class="tab-content active">
       <div class="dashboard-grid">
-        <!-- Stats Row -->
         <div class="stat-card gold-accent">
           <div class="stat-icon">🇨🇦</div>
           <div class="stat-info">
@@ -133,7 +207,7 @@
         <div class="stat-card">
           <div class="stat-icon">🌍</div>
           <div class="stat-info">
-            <span class="stat-number" data-count="55">0</span>
+            <span class="stat-number" data-count="35">0</span>
             <span class="stat-label">Canadians Playing Pro (Tracked)</span>
           </div>
         </div>
@@ -152,22 +226,16 @@
           </div>
         </div>
 
-        <!-- Honey Badgers Current Roster -->
         <div class="panel full-width">
           <div class="panel-header">
             <h2>🦡 Brampton Honey Badgers - 2026 Confirmed Roster</h2>
             <span class="badge gold">Your Team</span>
           </div>
-          <div class="roster-grid" id="hb-roster">
-            <!-- Filled by JS -->
-          </div>
+          <div class="roster-grid" id="hb-roster"></div>
         </div>
 
-        <!-- Cap Situation -->
         <div class="panel half-width">
-          <div class="panel-header">
-            <h2>Cap Situation</h2>
-          </div>
+          <div class="panel-header"><h2>Cap Situation</h2></div>
           <div class="cap-visual">
             <div class="cap-bar-container">
               <div class="cap-bar-bg">
@@ -179,17 +247,12 @@
                 <span>$8,000/game</span>
               </div>
             </div>
-            <div class="cap-details" id="cap-details">
-              <!-- Filled by JS -->
-            </div>
+            <div class="cap-details" id="cap-details"></div>
           </div>
         </div>
 
-        <!-- Key Rules -->
         <div class="panel half-width">
-          <div class="panel-header">
-            <h2>CEBL Roster Rules</h2>
-          </div>
+          <div class="panel-header"><h2>CEBL Roster Rules</h2></div>
           <div class="rules-list">
             <div class="rule-item"><span class="rule-num">14</span><span>Max Total Roster</span></div>
             <div class="rule-item"><span class="rule-num">12</span><span>Max Active Roster</span></div>
@@ -203,15 +266,12 @@
           </div>
         </div>
 
-        <!-- Top Scouting Targets -->
         <div class="panel full-width">
           <div class="panel-header">
             <h2>Recommended Scouting Targets</h2>
             <span class="badge">Cap Friendly</span>
           </div>
-          <div class="scout-targets" id="scout-targets">
-            <!-- Filled by JS -->
-          </div>
+          <div class="scout-targets" id="scout-targets"></div>
         </div>
       </div>
     </section>
@@ -227,6 +287,13 @@
             <option value="Europe">Europe (All)</option>
             <option value="Germany">Germany BBL</option>
             <option value="France">France</option>
+            <option value="Spain">Spain</option>
+            <option value="Italy">Italy</option>
+            <option value="Israel">Israel</option>
+            <option value="Serbia">Serbia</option>
+            <option value="Poland">Poland</option>
+            <option value="Portugal">Portugal</option>
+            <option value="Albania">Albania</option>
             <option value="Netherlands">Netherlands BNXT</option>
             <option value="Finland">Finland</option>
             <option value="Czech">Czech Republic</option>
@@ -245,7 +312,6 @@
             <option value="">All Fit Levels</option>
             <option value="High">High Fit</option>
             <option value="Medium">Medium Fit</option>
-            <option value="Low">Low Fit</option>
           </select>
         </div>
       </div>
@@ -253,22 +319,10 @@
         <table class="data-table" id="pro-table">
           <thead>
             <tr>
-              <th>Player</th>
-              <th>Pos</th>
-              <th>Age</th>
-              <th>Ht</th>
-              <th>Current Team</th>
-              <th>League</th>
-              <th>PPG</th>
-              <th>RPG</th>
-              <th>APG</th>
-              <th>CEBL Fit</th>
-              <th>Est. Salary</th>
-              <th>Character</th>
+              <th>Player</th><th>Pos</th><th>Age</th><th>Ht</th><th>Current Team</th><th>League</th><th>PPG</th><th>RPG</th><th>APG</th><th>CEBL Fit</th><th>Est. Salary</th><th>Character</th>
             </tr>
           </thead>
-          <tbody id="pro-tbody">
-          </tbody>
+          <tbody id="pro-tbody"></tbody>
         </table>
       </div>
       <div id="pro-mobile-cards" class="mobile-cards"></div>
@@ -304,22 +358,10 @@
         <table class="data-table" id="ncaa-table">
           <thead>
             <tr>
-              <th>Player</th>
-              <th>Pos</th>
-              <th>Ht</th>
-              <th>School</th>
-              <th>Conference</th>
-              <th>Class</th>
-              <th>Hometown</th>
-              <th>PPG</th>
-              <th>RPG</th>
-              <th>APG</th>
-              <th>CEBL Fit</th>
-              <th>Draft Eligible</th>
+              <th>Player</th><th>Pos</th><th>Ht</th><th>School</th><th>Conference</th><th>Class</th><th>Hometown</th><th>PPG</th><th>RPG</th><th>APG</th><th>CEBL Fit</th><th>Draft Eligible</th>
             </tr>
           </thead>
-          <tbody id="ncaa-tbody">
-          </tbody>
+          <tbody id="ncaa-tbody"></tbody>
         </table>
       </div>
       <div id="ncaa-mobile-cards" class="mobile-cards"></div>
@@ -349,23 +391,10 @@
         <table class="data-table" id="import-table">
           <thead>
             <tr>
-              <th>Player</th>
-              <th>Nationality</th>
-              <th>Pos</th>
-              <th>Age</th>
-              <th>Ht</th>
-              <th>Current Team</th>
-              <th>League</th>
-              <th>PPG</th>
-              <th>RPG</th>
-              <th>APG</th>
-              <th>CEBL Fit</th>
-              <th>Est. Salary</th>
-              <th>Notes</th>
+              <th>Player</th><th>Nationality</th><th>Pos</th><th>Age</th><th>Ht</th><th>Current Team</th><th>League</th><th>PPG</th><th>RPG</th><th>APG</th><th>CEBL Fit</th><th>Est. Salary</th><th>Notes</th>
             </tr>
           </thead>
-          <tbody id="import-tbody">
-          </tbody>
+          <tbody id="import-tbody"></tbody>
         </table>
       </div>
       <div id="import-mobile-cards" class="mobile-cards"></div>
@@ -392,82 +421,31 @@
           </select>
         </div>
       </div>
-      <div class="signings-grid" id="signings-grid">
-        <!-- Filled by JS -->
-      </div>
+      <div class="signings-grid" id="signings-grid"></div>
     </section>
 
     <!-- CAP CALCULATOR TAB -->
     <section id="tab-cap-tools" class="tab-content">
-      <div class="tab-header-row">
-        <h2>Salary Cap Calculator</h2>
-      </div>
+      <div class="tab-header-row"><h2>Salary Cap Calculator</h2></div>
       <div class="cap-calculator">
         <div class="calc-panel">
           <h3>Build Your Roster</h3>
           <p class="calc-desc">Per-game salary cap: <strong>$8,000</strong> for active 12-man roster. Designated Player and up to 3 Dev Players are off-cap.</p>
-          <div class="calc-slots" id="calc-slots">
-            <!-- Filled by JS -->
-          </div>
+          <div class="calc-slots" id="calc-slots"></div>
           <div class="calc-summary">
-            <div class="calc-total">
-              <span>Total Per-Game Salary:</span>
-              <span id="calc-total-value">$0</span>
-            </div>
-            <div class="calc-remaining">
-              <span>Remaining Cap:</span>
-              <span id="calc-remaining-value">$8,000</span>
-            </div>
-            <div class="calc-bar-container">
-              <div class="calc-bar-bg">
-                <div class="calc-bar-fill" id="calc-bar-fill"></div>
-              </div>
-            </div>
+            <div class="calc-total"><span>Total Per-Game Salary:</span><span id="calc-total-value">$0</span></div>
+            <div class="calc-remaining"><span>Remaining Cap:</span><span id="calc-remaining-value">$8,000</span></div>
+            <div class="calc-bar-container"><div class="calc-bar-bg"><div class="calc-bar-fill" id="calc-bar-fill"></div></div></div>
           </div>
         </div>
         <div class="calc-panel">
           <h3>Salary Structure Guide</h3>
           <div class="salary-tiers">
-            <div class="tier">
-              <div class="tier-header">
-                <span class="tier-label">Star / Franchise</span>
-                <span class="tier-range">$1,200 - $1,500/game</span>
-              </div>
-              <div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700)"></div>
-              <p>All-CEBL team caliber, proven scorers, CEBL award winners</p>
-            </div>
-            <div class="tier">
-              <div class="tier-header">
-                <span class="tier-label">Starter / Veteran</span>
-                <span class="tier-range">$800 - $1,200/game</span>
-              </div>
-              <div class="tier-bar" style="width:75%; background: linear-gradient(90deg, #B8860B, #D4AF37)"></div>
-              <p>Experienced pros, reliable starters, international experience</p>
-            </div>
-            <div class="tier">
-              <div class="tier-header">
-                <span class="tier-label">Rotation / Role</span>
-                <span class="tier-range">$500 - $800/game</span>
-              </div>
-              <div class="tier-bar" style="width:50%; background: linear-gradient(90deg, #8B7355, #B8860B)"></div>
-              <p>Solid contributors, U SPORTS standouts, younger pros</p>
-            </div>
-            <div class="tier">
-              <div class="tier-header">
-                <span class="tier-label">Developmental</span>
-                <span class="tier-range">$400 - $500/game</span>
-              </div>
-              <div class="tier-bar" style="width:30%; background: linear-gradient(90deg, #555, #8B7355)"></div>
-              <p>Draft picks, NCAA seniors, first-year pros (up to 3 off-cap)</p>
-            </div>
-            <div class="tier highlight-tier">
-              <div class="tier-header">
-                <span class="tier-label">Designated Player</span>
-                <span class="tier-range">Unlimited (Off-Cap)</span>
-              </div>
-              <div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700, #D4AF37); box-shadow: 0 0 10px rgba(212,175,55,0.5)"></div>
-              <p>One per team. Does NOT count against salary cap. Attract elite talent.</p>
-            </div>
+            <div class="tier"><div class="tier-header"><span class="tier-label">Star / Franchise</span><span class="tier-range">$1,200 - $1,500/game</span></div><div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700)"></div><p>All-CEBL team caliber, proven scorers, CEBL award winners</p></div>
+            <div class="tier"><div class="tier-header"><span class="tier-label">Starter / Veteran</span><span class="tier-range">$800 - $1,200/game</span></div><div class="tier-bar" style="width:75%; background: linear-gradient(90deg, #B8860B, #D4AF37)"></div><p>Experienced pros, reliable starters, international experience</p></div>
+            <div class="tier"><div class="tier-header"><span class="tier-label">Rotation / Role</span><span class="tier-range">$500 - $800/game</span></div><div class="tier-bar" style="width:50%; background: linear-gradient(90deg, #8B7355, #B8860B)"></div><p>Solid contributors, U SPORTS standouts, younger pros</p></div>
+            <div class="tier"><div class="tier-header"><span class="tier-label">Developmental</span><span class="tier-range">$400 - $500/game</span></div><div class="tier-bar" style="width:30%; background: linear-gradient(90deg, #555, #8B7355)"></div><p>Draft picks, NCAA seniors, first-year pros (up to 3 off-cap)</p></div>
+            <div class="tier highlight-tier"><div class="tier-header"><span class="tier-label">Designated Player</span><span class="tier-range">Unlimited (Off-Cap)</span></div><div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700, #D4AF37); box-shadow: 0 0 10px rgba(212,175,55,0.5)"></div><p>One per team. Does NOT count against salary cap. Attract elite talent.</p></div>
           </div>
         </div>
       </div>
@@ -478,19 +456,14 @@
   <!-- Footer -->
   <footer>
     <div class="footer-inner">
-      <div class="footer-brand">
-        <strong>CEBL SCOUT</strong> | Built for the Brampton Honey Badgers
-      </div>
-      <div class="footer-links">
-        <span>Data sources: CEBL.ca, RealGM, BasketballBuzz, North Pole Hoops, USBasket, Basketball Reference</span>
-      </div>
-      <div class="footer-note">
-        Player salaries are estimates based on publicly available CEBL cap structure. Actual salaries may vary.
-      </div>
+      <div class="footer-brand"><strong>CEBL SCOUT</strong> | GM Intelligence Platform</div>
+      <div class="footer-links"><span>Data: CEBL.ca, RealGM, BasketballBuzz, North Pole Hoops, USBasket, Basketball Reference</span></div>
+      <div class="footer-note">Player salaries are estimates based on publicly available CEBL cap structure. Actual salaries may vary.</div>
     </div>
   </footer>
 
   <script src="data.js"></script>
+  <script src="auth.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
