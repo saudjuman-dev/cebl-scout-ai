@@ -400,6 +400,113 @@ body {
 }
 .nav-tab svg { opacity: 0.6; }
 .nav-tab.active svg { opacity: 1; stroke: var(--gold); }
+.admin-nav-tab { border: 1px solid rgba(212,175,55,0.3) !important; }
+.admin-nav-tab.active { background: rgba(212,175,55,0.15) !important; }
+
+/* ===== Admin Console ===== */
+.admin-stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.admin-stat {
+  background: var(--dark-2);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius-sm);
+  padding: 1rem;
+  text-align: center;
+}
+.admin-stat.paid { border-color: rgba(76,175,80,0.3); }
+.admin-stat.warn { border-color: rgba(255,152,0,0.3); }
+.admin-stat.danger { border-color: rgba(229,57,53,0.3); }
+.admin-stat-num {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--gold);
+}
+.admin-stat.paid .admin-stat-num { color: #4CAF50; }
+.admin-stat.warn .admin-stat-num { color: #FF9800; }
+.admin-stat.danger .admin-stat-num { color: #E53935; }
+.admin-stat-lbl { font-size: 0.65rem; color: var(--gray); margin-top: 0.25rem; }
+
+.admin-toolbar {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+.admin-toolbar .search-input { flex: 1; }
+
+.admin-table-wrap { overflow-x: auto; }
+.admin-table { font-size: 0.75rem; }
+.admin-table th { font-size: 0.65rem; }
+.flagged-row { background: rgba(255,152,0,0.05) !important; }
+.blocked-row { background: rgba(229,57,53,0.05) !important; opacity: 0.7; }
+
+.admin-badge-paid {
+  background: rgba(76,175,80,0.2);
+  color: #81C784;
+  font-size: 0.55rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+}
+.admin-badge-free {
+  background: rgba(255,255,255,0.05);
+  color: var(--gray);
+  font-size: 0.55rem;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+.admin-badge-blocked {
+  background: rgba(229,57,53,0.2);
+  color: #EF9A9A;
+  font-size: 0.55rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 4px;
+}
+.admin-badge-flagged {
+  background: rgba(255,152,0,0.2);
+  color: #FFB74D;
+  font-size: 0.55rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 4px;
+  cursor: help;
+}
+
+.admin-actions {
+  display: flex;
+  gap: 4px;
+}
+.admin-act-btn {
+  width: 28px;
+  height: 28px;
+  border: 1px solid var(--dark-4);
+  background: var(--dark-2);
+  border-radius: 4px;
+  color: var(--gray);
+  font-size: 0.65rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+}
+.admin-act-btn:hover { border-color: var(--gold); color: var(--white); }
+.admin-act-btn.grant:hover { border-color: #4CAF50; color: #4CAF50; }
+.admin-act-btn.revoke:hover { border-color: #FF9800; color: #FF9800; }
+.admin-act-btn.block:hover { border-color: #E53935; color: #E53935; }
+.admin-act-btn.unblock:hover { border-color: #4CAF50; color: #4CAF50; }
+.admin-act-btn.clear:hover { border-color: #4CAF50; color: #4CAF50; }
+.admin-act-btn.reset:hover { border-color: #42A5F5; color: #42A5F5; }
 
 /* ===== Team Bar ===== */
 #team-bar {

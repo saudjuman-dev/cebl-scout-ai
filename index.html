@@ -187,6 +187,10 @@
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
         Cap Calculator
       </button>
+      <button class="nav-tab admin-nav-tab" data-tab="admin" onclick="switchTab('admin');renderAdminConsole()" id="admin-tab" style="display:none">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+        Admin
+      </button>
     </div>
   </nav>
 
@@ -464,6 +468,17 @@
             <div class="tier highlight-tier"><div class="tier-header"><span class="tier-label">Designated Player</span><span class="tier-range">Unlimited (Off-Cap)</span></div><div class="tier-bar" style="width:100%; background: linear-gradient(90deg, #D4AF37, #FFD700, #D4AF37); box-shadow: 0 0 10px rgba(212,175,55,0.5)"></div><p>One per team. Does NOT count against salary cap. Attract elite talent.</p></div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <!-- ADMIN CONSOLE TAB -->
+    <section id="tab-admin" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Admin Console</h2>
+        <p class="tab-subtitle">Manage users, permissions, subscriptions & flagged accounts</p>
+      </div>
+      <div id="admin-content">
+        <!-- Rendered by renderAdminConsole() -->
       </div>
     </section>
 

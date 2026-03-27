@@ -1,5 +1,22 @@
-// ===== CEBL Scout - Auth & Usage Tracking =====
-// Uses localStorage for client-side session management
+// ===== Hoops Intelligence - Auth, Session Enforcement & Admin Console =====
+
+// --- Device Fingerprint (simple but effective) ---
+function getDeviceFingerprint() {
+  const canvas = document.createElement('canvas');
+  const ctx = canvas.getContext('2d');
+  ctx.textBaseline = 'top';
+  ctx.font = '14px Arial';
+  ctx.fillText('HI-fp', 2, 2);
+  const canvasHash = canvas.toDataURL().slice(-32);
+  const nav = navigator.userAgent + navigator.language + screen.width + 'x' + screen.height + screen.colorDepth + new Date().getTimezoneOffset();
+  let hash = 0;
+  const str = canvasHash + nav;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return 'fp_' + Math.abs(hash).toString(36);
+}
 
 const AUTH = {
   ADMIN_USER: 'ceblgm',
@@ -7,82 +24,150 @@ const AUTH = {
   FREE_VIEWS: 15,
   PRICE_MONTHLY: 14.99,
   PRICE_ANNUAL: 149,
-  // Replace with your Stripe Payment Link after creating it at dashboard.stripe.com
+  MAX_DEVICES: 2, // max devices per account
   STRIPE_LINK: 'https://buy.stripe.com/test_YOUR_LINK_HERE',
 
+  // --- Storage helpers ---
   getSession() {
-    try {
-      return JSON.parse(localStorage.getItem('cebl_session') || 'null');
-    } catch { return null; }
+    try { return JSON.parse(localStorage.getItem('hi_session') || 'null'); }
+    catch { return null; }
   },
 
   saveSession(data) {
-    localStorage.setItem('cebl_session', JSON.stringify(data));
+    localStorage.setItem('hi_session', JSON.stringify(data));
   },
 
-  getRegistrations() {
-    try {
-      return JSON.parse(localStorage.getItem('cebl_registrations') || '[]');
-    } catch { return []; }
+  getAllUsers() {
+    try { return JSON.parse(localStorage.getItem('hi_users') || '[]'); }
+    catch { return []; }
   },
 
-  addRegistration(name, email, password) {
-    const regs = this.getRegistrations();
-    if (regs.find(r => r.email === email)) return false;
-    regs.push({ name, email, password, created: new Date().toISOString() });
-    localStorage.setItem('cebl_registrations', JSON.stringify(regs));
+  saveAllUsers(users) {
+    localStorage.setItem('hi_users', JSON.stringify(users));
+  },
+
+  findUser(email) {
+    return this.getAllUsers().find(u => u.email === email);
+  },
+
+  updateUser(email, updates) {
+    const users = this.getAllUsers();
+    const idx = users.findIndex(u => u.email === email);
+    if (idx === -1) return false;
+    users[idx] = { ...users[idx], ...updates };
+    this.saveAllUsers(users);
     return true;
   },
 
+  // --- Registration ---
+  register(name, email, password) {
+    const users = this.getAllUsers();
+    if (users.find(u => u.email === email.toLowerCase())) return null;
+    const fp = getDeviceFingerprint();
+    const newUser = {
+      name,
+      email: email.toLowerCase(),
+      password,
+      created: new Date().toISOString(),
+      isPaid: false,
+      isBlocked: false,
+      views: 0,
+      devices: [fp],
+      lastLogin: new Date().toISOString(),
+      lastDevice: fp,
+      loginCount: 1,
+      notes: ''
+    };
+    users.push(newUser);
+    this.saveAllUsers(users);
+    return this.login(email, password);
+  },
+
+  // --- Login ---
   login(emailOrUser, password) {
+    const fp = getDeviceFingerprint();
+
     // Admin check
     if (emailOrUser === this.ADMIN_USER && password === this.ADMIN_PASS) {
       const session = {
         name: 'Admin',
-        email: 'admin@ceblscout.com',
+        email: 'admin@hoopsintelligence.com',
         isAdmin: true,
         isPaid: true,
         views: 0,
+        device: fp,
         loginTime: new Date().toISOString()
       };
       this.saveSession(session);
       return session;
     }
-    // Regular user check
-    const regs = this.getRegistrations();
-    const user = regs.find(r => r.email === emailOrUser && r.password === password);
-    if (user) {
-      const existing = this.getSession();
-      const session = {
-        name: user.name,
-        email: user.email,
-        isAdmin: false,
-        isPaid: existing?.email === user.email ? (existing.isPaid || false) : false,
-        views: existing?.email === user.email ? (existing.views || 0) : 0,
-        loginTime: new Date().toISOString()
-      };
-      this.saveSession(session);
-      return session;
-    }
-    return null;
-  },
 
-  register(name, email, password) {
-    if (this.addRegistration(name, email, password)) {
-      return this.login(email, password);
+    // Regular user check
+    const user = this.findUser(emailOrUser.toLowerCase());
+    if (!user || user.password !== password) return null;
+
+    // Blocked check
+    if (user.isBlocked) {
+      return { blocked: true };
     }
-    return null; // email already exists
+
+    // Device enforcement
+    const knownDevices = user.devices || [];
+    const isKnownDevice = knownDevices.includes(fp);
+
+    if (!isKnownDevice) {
+      if (knownDevices.length >= this.MAX_DEVICES) {
+        // Too many devices — flag as potential sharing
+        this.updateUser(user.email, {
+          flagged: true,
+          flagReason: 'Exceeded device limit (' + (knownDevices.length + 1) + ' devices)',
+          flagDate: new Date().toISOString()
+        });
+        return { deviceLimit: true, maxDevices: this.MAX_DEVICES };
+      }
+      // Add new device
+      knownDevices.push(fp);
+    }
+
+    // Update user record
+    this.updateUser(user.email, {
+      devices: knownDevices,
+      lastLogin: new Date().toISOString(),
+      lastDevice: fp,
+      loginCount: (user.loginCount || 0) + 1
+    });
+
+    // Create session
+    const existing = this.getSession();
+    const session = {
+      name: user.name,
+      email: user.email,
+      isAdmin: false,
+      isPaid: user.isPaid || false,
+      views: existing?.email === user.email ? (existing.views || user.views || 0) : (user.views || 0),
+      device: fp,
+      loginTime: new Date().toISOString()
+    };
+    this.saveSession(session);
+    return session;
   },
 
   logout() {
-    localStorage.removeItem('cebl_session');
+    // Save view count back to user record before logout
+    const session = this.getSession();
+    if (session && !session.isAdmin) {
+      this.updateUser(session.email, { views: session.views || 0 });
+    }
+    localStorage.removeItem('hi_session');
   },
 
   trackView() {
     const session = this.getSession();
-    if (!session || session.isAdmin || session.isPaid) return true; // unlimited
+    if (!session || session.isAdmin || session.isPaid) return true;
     session.views = (session.views || 0) + 1;
     this.saveSession(session);
+    // Also persist to user record
+    this.updateUser(session.email, { views: session.views });
     if (session.views > this.FREE_VIEWS) {
       showPaywall();
       return false;
@@ -98,11 +183,98 @@ const AUTH = {
     return (session.views || 0) <= this.FREE_VIEWS;
   },
 
-  markPaid() {
-    const session = this.getSession();
-    if (session) {
-      session.isPaid = true;
-      this.saveSession(session);
+  markPaid(email) {
+    const target = email || this.getSession()?.email;
+    if (target) {
+      this.updateUser(target, { isPaid: true, paidDate: new Date().toISOString() });
+      const session = this.getSession();
+      if (session && session.email === target) {
+        session.isPaid = true;
+        this.saveSession(session);
+      }
+    }
+  },
+
+  // --- Admin functions ---
+  admin: {
+    getStats() {
+      const users = AUTH.getAllUsers();
+      return {
+        totalUsers: users.length,
+        paidUsers: users.filter(u => u.isPaid).length,
+        freeUsers: users.filter(u => !u.isPaid && !u.isBlocked).length,
+        blockedUsers: users.filter(u => u.isBlocked).length,
+        flaggedUsers: users.filter(u => u.flagged).length,
+        recentSignups: users.filter(u => {
+          const d = new Date(u.created);
+          const now = new Date();
+          return (now - d) < 7 * 24 * 60 * 60 * 1000; // last 7 days
+        }).length,
+        totalViews: users.reduce((s, u) => s + (u.views || 0), 0),
+        monthlyRevenue: users.filter(u => u.isPaid).length * AUTH.PRICE_MONTHLY
+      };
+    },
+
+    getAllUsersForDisplay() {
+      return AUTH.getAllUsers().map(u => ({
+        name: u.name,
+        email: u.email,
+        created: u.created,
+        isPaid: u.isPaid,
+        isBlocked: u.isBlocked,
+        flagged: u.flagged,
+        flagReason: u.flagReason || '',
+        views: u.views || 0,
+        devices: (u.devices || []).length,
+        lastLogin: u.lastLogin,
+        loginCount: u.loginCount || 0,
+        notes: u.notes || ''
+      }));
+    },
+
+    togglePaid(email) {
+      const user = AUTH.findUser(email);
+      if (user) {
+        AUTH.updateUser(email, {
+          isPaid: !user.isPaid,
+          paidDate: !user.isPaid ? new Date().toISOString() : null
+        });
+      }
+    },
+
+    toggleBlocked(email) {
+      const user = AUTH.findUser(email);
+      if (user) {
+        AUTH.updateUser(email, { isBlocked: !user.isBlocked });
+      }
+    },
+
+    clearFlag(email) {
+      AUTH.updateUser(email, { flagged: false, flagReason: '' });
+    },
+
+    resetDevices(email) {
+      AUTH.updateUser(email, { devices: [], flagged: false, flagReason: '' });
+    },
+
+    setNote(email, note) {
+      AUTH.updateUser(email, { notes: note });
+    },
+
+    deleteUser(email) {
+      const users = AUTH.getAllUsers().filter(u => u.email !== email);
+      AUTH.saveAllUsers(users);
+    },
+
+    exportCSV() {
+      const users = AUTH.getAllUsers();
+      const headers = 'Name,Email,Created,Paid,Blocked,Flagged,Views,Devices,Last Login,Logins,Notes';
+      const rows = users.map(u =>
+        [u.name, u.email, u.created, u.isPaid, u.isBlocked, u.flagged || false,
+         u.views || 0, (u.devices || []).length, u.lastLogin, u.loginCount || 0,
+         '"' + (u.notes || '').replace(/"/g, '""') + '"'].join(',')
+      );
+      return headers + '\n' + rows.join('\n');
     }
   }
 };
@@ -134,11 +306,15 @@ function handleLogin() {
     document.getElementById('auth-error').textContent = 'Please fill in all fields.';
     return;
   }
-  const session = AUTH.login(email, pass);
-  if (session) {
-    enterApp(session);
-  } else {
+  const result = AUTH.login(email, pass);
+  if (!result) {
     document.getElementById('auth-error').textContent = 'Invalid credentials. Please try again.';
+  } else if (result.blocked) {
+    document.getElementById('auth-error').textContent = 'This account has been suspended. Contact support.';
+  } else if (result.deviceLimit) {
+    document.getElementById('auth-error').textContent = 'This account is already active on ' + result.maxDevices + ' devices. Each subscription is for individual use only. Please upgrade or contact support.';
+  } else {
+    enterApp(result);
   }
 }
 
@@ -152,6 +328,10 @@ function handleRegister() {
   }
   if (pass.length < 6) {
     document.getElementById('auth-error').textContent = 'Password must be at least 6 characters.';
+    return;
+  }
+  if (!email.includes('@') || !email.includes('.')) {
+    document.getElementById('auth-error').textContent = 'Please enter a valid email address.';
     return;
   }
   const session = AUTH.register(name, email, pass);
@@ -171,13 +351,15 @@ function enterApp(session, isNew) {
   document.getElementById('auth-gate').classList.add('hidden');
   document.getElementById('loading-screen').style.display = 'flex';
 
-  // Set user name in header
   const userEl = document.getElementById('user-display');
   if (userEl) userEl.textContent = session.name;
 
-  // Show admin badge if admin
   const adminBadge = document.getElementById('admin-badge');
   if (adminBadge) adminBadge.style.display = session.isAdmin ? 'inline-block' : 'none';
+
+  // Show admin nav tab for admin users
+  const adminTab = document.getElementById('admin-tab');
+  if (adminTab) adminTab.style.display = session.isAdmin ? 'inline-flex' : 'none';
 
   updateViewCounter();
 
@@ -186,10 +368,9 @@ function enterApp(session, isNew) {
     animateCounters();
     animateCapBar();
 
-    // Show welcome overlay for new signups or first login
-    if (isNew || !localStorage.getItem('cebl_welcomed_' + session.email)) {
+    if (isNew || !localStorage.getItem('hi_welcomed_' + session.email)) {
       showWelcomeOverlay(session);
-      localStorage.setItem('cebl_welcomed_' + session.email, '1');
+      localStorage.setItem('hi_welcomed_' + session.email, '1');
     }
   }, 2200);
 }
@@ -227,9 +408,7 @@ function closePaywall() {
 }
 
 function openStripeCheckout() {
-  // Opens Stripe Payment Link in new tab
   window.open(AUTH.STRIPE_LINK, '_blank');
-  // Show a message
   document.getElementById('paywall-message').textContent =
     'Complete your payment in the new tab. Once confirmed, click "I\'ve Paid" below.';
   document.getElementById('paywall-paid-btn').style.display = 'inline-block';
@@ -242,11 +421,130 @@ function confirmPaid() {
   location.reload();
 }
 
+// ===== Admin Console =====
+
+function renderAdminConsole() {
+  const stats = AUTH.admin.getStats();
+  const users = AUTH.admin.getAllUsersForDisplay();
+
+  const container = document.getElementById('admin-content');
+  if (!container) return;
+
+  container.innerHTML = `
+    <div class="admin-stats-row">
+      <div class="admin-stat"><div class="admin-stat-num">${stats.totalUsers}</div><div class="admin-stat-lbl">Total Users</div></div>
+      <div class="admin-stat paid"><div class="admin-stat-num">${stats.paidUsers}</div><div class="admin-stat-lbl">Paid</div></div>
+      <div class="admin-stat"><div class="admin-stat-num">${stats.freeUsers}</div><div class="admin-stat-lbl">Free</div></div>
+      <div class="admin-stat warn"><div class="admin-stat-num">${stats.flaggedUsers}</div><div class="admin-stat-lbl">Flagged</div></div>
+      <div class="admin-stat danger"><div class="admin-stat-num">${stats.blockedUsers}</div><div class="admin-stat-lbl">Blocked</div></div>
+      <div class="admin-stat"><div class="admin-stat-num">${stats.recentSignups}</div><div class="admin-stat-lbl">This Week</div></div>
+      <div class="admin-stat"><div class="admin-stat-num">${stats.totalViews}</div><div class="admin-stat-lbl">Total Views</div></div>
+      <div class="admin-stat paid"><div class="admin-stat-num">$${stats.monthlyRevenue.toFixed(0)}</div><div class="admin-stat-lbl">Est. MRR</div></div>
+    </div>
+
+    <div class="admin-toolbar">
+      <input type="text" id="admin-search" placeholder="Search users..." oninput="filterAdminUsers()" class="search-input">
+      <button class="gate-btn secondary" onclick="downloadUserCSV()" style="width:auto;padding:0.5rem 1rem;font-size:0.7rem">Export CSV</button>
+    </div>
+
+    <div class="admin-table-wrap">
+      <table class="data-table admin-table" id="admin-users-table">
+        <thead>
+          <tr>
+            <th>User</th>
+            <th>Status</th>
+            <th>Views</th>
+            <th>Devices</th>
+            <th>Logins</th>
+            <th>Last Login</th>
+            <th>Created</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${users.map(u => `
+            <tr class="${u.flagged ? 'flagged-row' : ''} ${u.isBlocked ? 'blocked-row' : ''}" data-search="${(u.name + ' ' + u.email).toLowerCase()}">
+              <td>
+                <div class="player-cell">
+                  <div class="player-avatar" style="${u.isPaid ? 'background:linear-gradient(135deg,#2E7D32,#4CAF50)' : u.isBlocked ? 'background:#555' : ''}">${u.name.split(' ').map(n=>n[0]).join('').substring(0,2).toUpperCase()}</div>
+                  <div>
+                    <div class="player-name">${u.name}</div>
+                    <div style="font-size:0.6rem;color:var(--gray)">${u.email}</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                ${u.isPaid ? '<span class="admin-badge-paid">PAID</span>' : '<span class="admin-badge-free">FREE</span>'}
+                ${u.isBlocked ? '<span class="admin-badge-blocked">BLOCKED</span>' : ''}
+                ${u.flagged ? '<span class="admin-badge-flagged" title="' + u.flagReason + '">⚠ FLAGGED</span>' : ''}
+              </td>
+              <td>${u.views}</td>
+              <td><span style="color:${u.devices > 1 ? '#FF9800' : 'var(--gray)'}">${u.devices}</span></td>
+              <td>${u.loginCount}</td>
+              <td style="font-size:0.65rem;color:var(--gray)">${u.lastLogin ? new Date(u.lastLogin).toLocaleDateString() : '-'}</td>
+              <td style="font-size:0.65rem;color:var(--gray)">${new Date(u.created).toLocaleDateString()}</td>
+              <td>
+                <div class="admin-actions">
+                  <button class="admin-act-btn ${u.isPaid ? 'revoke' : 'grant'}" onclick="adminTogglePaid('${u.email}')" title="${u.isPaid ? 'Revoke paid' : 'Grant paid'}">
+                    ${u.isPaid ? '$ ✕' : '$ ✓'}
+                  </button>
+                  <button class="admin-act-btn ${u.isBlocked ? 'unblock' : 'block'}" onclick="adminToggleBlock('${u.email}')" title="${u.isBlocked ? 'Unblock' : 'Block'}">
+                    ${u.isBlocked ? '🔓' : '🔒'}
+                  </button>
+                  ${u.flagged ? `<button class="admin-act-btn clear" onclick="adminClearFlag('${u.email}')" title="Clear flag">✓</button>` : ''}
+                  <button class="admin-act-btn reset" onclick="adminResetDevices('${u.email}')" title="Reset devices">📱</button>
+                </div>
+              </td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+  `;
+}
+
+function adminTogglePaid(email) {
+  AUTH.admin.togglePaid(email);
+  renderAdminConsole();
+}
+
+function adminToggleBlock(email) {
+  AUTH.admin.toggleBlocked(email);
+  renderAdminConsole();
+}
+
+function adminClearFlag(email) {
+  AUTH.admin.clearFlag(email);
+  renderAdminConsole();
+}
+
+function adminResetDevices(email) {
+  AUTH.admin.resetDevices(email);
+  renderAdminConsole();
+}
+
+function filterAdminUsers() {
+  const q = document.getElementById('admin-search').value.toLowerCase();
+  document.querySelectorAll('#admin-users-table tbody tr').forEach(tr => {
+    tr.style.display = (tr.getAttribute('data-search') || '').includes(q) ? '' : 'none';
+  });
+}
+
+function downloadUserCSV() {
+  const csv = AUTH.admin.exportCSV();
+  const blob = new Blob([csv], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'hoops-intelligence-users-' + new Date().toISOString().slice(0,10) + '.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
 // ===== Auto-Init =====
 document.addEventListener('DOMContentLoaded', () => {
   const session = AUTH.getSession();
   if (session) {
-    // Already logged in
     enterApp(session);
   } else {
     showLoginScreen();
