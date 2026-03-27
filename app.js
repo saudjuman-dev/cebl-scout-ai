@@ -129,6 +129,7 @@ function renderProTable() {
       <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
       <td style="color: var(--gold); font-weight: 600">${p.salary}</td>
       <td><span class="character-badge char-${p.character.toLowerCase() === 'good' ? 'good' : 'neutral'}">${p.character === 'Good' ? '✓ ' : ''}${p.character}</span></td>
+      <td style="font-size:0.6875rem">${p.agent || ''}</td>
     </tr>
   `).join('');
 
@@ -137,7 +138,7 @@ function renderProTable() {
     getInitials(p.name), p.name,
     `${p.pos} | ${p.ht} | ${p.hometown}`,
     [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
-    [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.salary, cls: 'gold'},{text: p.team},{text: '🇨🇦 ' + p.league}],
+    [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.salary, cls: 'gold'},{text: p.team},{text: '🇨🇦 ' + p.league}].concat(p.agent ? [{text: '🤝 ' + p.agent, cls: 'agent-tag'}] : []),
     p.note,
     p.name + ' ' + p.team + ' ' + p.league + ' ' + p.hometown + ' ' + p.note,
     {league: p.league, pos: p.pos.charAt(0), fit: p.fit}
@@ -179,6 +180,7 @@ function renderImports() {
       <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
       <td style="color: var(--gold); font-weight: 600">${p.salary}</td>
       <td style="font-size:0.6875rem; max-width: 200px; white-space: normal;">${p.note}</td>
+      <td style="font-size:0.6875rem">${p.agent || ''}</td>
     </tr>
   `).join('');
 
@@ -189,7 +191,7 @@ function renderImports() {
       getInitials(p.name), p.name,
       `${flag} ${p.nationality} | ${p.pos} | ${p.ht || ''}`,
       [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
-      [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.salary, cls: 'gold'},{text: p.team},{text: p.league}],
+      [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.salary, cls: 'gold'},{text: p.team},{text: p.league}].concat(p.agent ? [{text: '🤝 ' + p.agent, cls: 'agent-tag'}] : []),
       p.note
     );
   }).join('');

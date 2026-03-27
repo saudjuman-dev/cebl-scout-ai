@@ -1309,3 +1309,188 @@ footer {
   .nav-tab svg { width: 18px; height: 18px; }
   .nav-tab { padding: 0.6rem 1rem; }
 }
+
+/* ===== Onboarding Spotlight Tutorial ===== */
+.onboard-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 8000;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+.onboard-overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.onboard-spotlight {
+  position: absolute;
+  box-shadow: 0 0 0 9999px rgba(0,0,0,0.85);
+  border-radius: 12px;
+  z-index: 8001;
+  transition: top 0.4s ease, left 0.4s ease, width 0.4s ease, height 0.4s ease;
+  pointer-events: none;
+}
+
+.onboard-tooltip {
+  position: absolute;
+  z-index: 8002;
+  background: var(--dark);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.5rem;
+  color: var(--white);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+  display: none;
+  animation: onboard-fadein 0.3s ease;
+}
+@keyframes onboard-fadein {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.onboard-tooltip-header {
+  margin-bottom: 0.75rem;
+}
+.onboard-step-count {
+  font-size: 0.65rem;
+  color: var(--gold);
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.onboard-tooltip-header h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  color: var(--white);
+  margin-top: 0.25rem;
+}
+.onboard-tooltip p {
+  font-size: 0.825rem;
+  color: var(--gray-light);
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.onboard-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+.onboard-nav-btns {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.onboard-btn {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.onboard-btn.next {
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  color: var(--black);
+}
+.onboard-btn.next:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 12px var(--gold-glow);
+}
+.onboard-btn.prev {
+  background: var(--dark-3);
+  color: var(--white);
+  border: 1px solid var(--dark-4);
+}
+.onboard-btn.prev:hover {
+  background: var(--dark-4);
+}
+.onboard-btn.skip {
+  background: transparent;
+  color: var(--gray);
+  font-size: 0.7rem;
+}
+.onboard-btn.skip:hover {
+  color: var(--white);
+}
+
+.onboard-dots {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 0.75rem;
+}
+.onboard-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--dark-4);
+  transition: var(--transition);
+}
+.onboard-dot.active {
+  background: var(--gold);
+  box-shadow: 0 0 6px var(--gold-glow);
+}
+
+/* Team Picker */
+.team-picker {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+.team-picker-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.65rem 0.75rem;
+  background: var(--dark-2);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius-sm);
+  color: var(--white);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: left;
+}
+.team-picker-btn:hover {
+  border-color: var(--team-color, var(--gold));
+  background: var(--dark-3);
+  transform: scale(1.03);
+}
+.team-picker-emoji {
+  font-size: 1.25rem;
+}
+.team-picker-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Agent tag in mobile cards */
+.mc-tag.agent-tag {
+  background: rgba(100, 100, 255, 0.15);
+  color: #8888ff;
+}
+
+@media (max-width: 480px) {
+  .team-picker {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.4rem;
+  }
+  .team-picker-btn {
+    font-size: 0.65rem;
+    padding: 0.5rem;
+  }
+  .onboard-tooltip {
+    padding: 1rem;
+  }
+}

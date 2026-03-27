@@ -368,9 +368,8 @@ function enterApp(session, isNew) {
     animateCounters();
     animateCapBar();
 
-    if (isNew || !localStorage.getItem('hi_welcomed_' + session.email)) {
-      showWelcomeOverlay(session);
-      localStorage.setItem('hi_welcomed_' + session.email, '1');
+    if (isNew || !ONBOARDING.hasCompleted()) {
+      ONBOARDING.start();
     }
   }, 2200);
 }
