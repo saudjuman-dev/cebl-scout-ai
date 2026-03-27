@@ -25,7 +25,7 @@ const AUTH = {
   PRICE_MONTHLY: 14.99,
   PRICE_ANNUAL: 149,
   MAX_DEVICES: 2, // max devices per account
-  STRIPE_LINK: 'https://buy.stripe.com/test_YOUR_LINK_HERE',
+  STRIPE_LINK: 'https://buy.stripe.com/14AcN5cOT2Z96lE0FQdIA01',
 
   // --- Storage helpers ---
   getSession() {
