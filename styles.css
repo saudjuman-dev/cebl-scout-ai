@@ -140,11 +140,22 @@ body {
   text-align: center;
 }
 .welcome-icon { font-size: 3rem; margin-bottom: 0.5rem; }
+.welcome-logo { margin-bottom: 1rem; }
+.welcome-logo svg { filter: drop-shadow(0 0 12px rgba(212,175,55,0.4)); }
+.wf-dot {
+  width: 8px;
+  height: 8px;
+  min-width: 8px;
+  border-radius: 50%;
+  background: var(--gold);
+  display: inline-block;
+  margin-right: 0.5rem;
+  box-shadow: 0 0 6px var(--gold-glow);
+}
 .welcome-card h2 { font-family: 'Oswald', sans-serif; font-size: 1.75rem; letter-spacing: 2px; margin-bottom: 0.75rem; }
 .welcome-headline { color: var(--gray-light); font-size: 0.875rem; margin-bottom: 1.5rem; line-height: 1.5; }
 .welcome-features { text-align: left; margin-bottom: 1.5rem; }
-.wf-item { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid var(--dark-3); font-size: 0.8rem; }
-.wf-icon { font-size: 1.25rem; min-width: 2rem; text-align: center; }
+.wf-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 0; border-bottom: 1px solid var(--dark-3); font-size: 0.8rem; }
 .welcome-note { font-size: 0.75rem; color: var(--gray); line-height: 1.5; margin-bottom: 0.75rem; }
 .welcome-trial { font-size: 0.8rem; color: var(--gold); }
 
@@ -461,6 +472,18 @@ body {
 .stat-card:hover { border-color: var(--dark-4); transform: translateY(-2px); }
 .stat-card.gold-accent { border-color: rgba(212,175,55,0.3); background: linear-gradient(135deg, var(--dark-2), rgba(212,175,55,0.05)); }
 .stat-icon { font-size: 2rem; }
+.stat-icon-svg {
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  background: var(--gold-muted);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.stat-icon-svg svg { width: 28px; height: 28px; }
 .stat-number {
   font-family: 'Oswald', sans-serif;
   font-size: 2rem;

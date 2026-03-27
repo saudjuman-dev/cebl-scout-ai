@@ -3,7 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CEBL Scout | GM Intelligence Platform</title>
+  <title>Hoops Intelligence | CEBL GM Scouting Platform</title>
+  <meta name="description" content="The most advanced scouting intelligence platform for CEBL General Managers, Head Coaches and Presidents. Real-time player databases, salary cap tools, and live signings tracker.">
+
+  <!-- Open Graph / Social Sharing -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hoopsintelligence.com">
+  <meta property="og:title" content="Hoops Intelligence — CEBL Scouting Platform">
+  <meta property="og:description" content="The first-of-its-kind GM intelligence tool for the CEBL. Track every Canadian pro worldwide, NCAA D1 prospects, import targets, salary cap tools & live signings across all 10 teams.">
+  <meta property="og:image" content="https://hoopsintelligence.com/og-image.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@hoopsintelligence">
+  <meta name="twitter:title" content="Hoops Intelligence — CEBL Scouting Platform">
+  <meta name="twitter:description" content="The first-of-its-kind GM intelligence tool for the CEBL. Track every Canadian pro worldwide, NCAA prospects, salary cap tools & live signings.">
+  <meta name="twitter:image" content="https://hoopsintelligence.com/og-image.png">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
@@ -48,16 +64,16 @@
   <!-- Welcome Overlay -->
   <div id="welcome-overlay" class="overlay-screen">
     <div class="overlay-card welcome-card">
-      <div class="welcome-icon">🏀</div>
+      <div class="welcome-logo"><svg viewBox="0 0 60 60" fill="none" width="60" height="60"><circle cx="30" cy="30" r="26" stroke="#D4AF37" stroke-width="2.5"/><path d="M12 30h36M30 6c-6 6-6 18-6 24s0 18 6 24M30 6c6 6 6 18 6 24s0 18-6 24" stroke="#D4AF37" stroke-width="1.8"/></svg></div>
       <h2>Welcome, <span id="welcome-name" class="gold">Scout</span></h2>
       <p class="welcome-headline">You've entered the most advanced scouting intelligence platform built for the <strong>Canadian Elite Basketball League</strong>.</p>
       <div class="welcome-features">
-        <div class="wf-item"><span class="wf-icon">📊</span><span>Real-time player databases across 20+ global leagues</span></div>
-        <div class="wf-item"><span class="wf-icon">🇨🇦</span><span>Every Canadian playing pro worldwide — tracked and analyzed</span></div>
-        <div class="wf-item"><span class="wf-icon">🎓</span><span>168+ NCAA D1 Canadian prospects scouted for CEBL fit</span></div>
-        <div class="wf-item"><span class="wf-icon">💰</span><span>Salary cap tools built around CEBL's $8,000/game structure</span></div>
-        <div class="wf-item"><span class="wf-icon">📝</span><span>Live 2026 signings tracker for all 10 CEBL teams</span></div>
-        <div class="wf-item"><span class="wf-icon">🌍</span><span>Import targets from every CEBL-eligible league on earth</span></div>
+        <div class="wf-item"><span class="wf-dot"></span><span>Real-time player databases across 20+ global leagues</span></div>
+        <div class="wf-item"><span class="wf-dot"></span><span>Every Canadian playing pro worldwide — tracked and analyzed</span></div>
+        <div class="wf-item"><span class="wf-dot"></span><span>168+ NCAA D1 Canadian prospects scouted for CEBL fit</span></div>
+        <div class="wf-item"><span class="wf-dot"></span><span>Salary cap tools built around CEBL's $8,000/game structure</span></div>
+        <div class="wf-item"><span class="wf-dot"></span><span>Live 2026 signings tracker for all 10 CEBL teams</span></div>
+        <div class="wf-item"><span class="wf-dot"></span><span>Import targets from every CEBL-eligible league on earth</span></div>
       </div>
       <p class="welcome-note">This platform is designed exclusively for General Managers, Head Coaches, and Presidents who want one portal with all options at their fingertips.</p>
       <p class="welcome-trial">You have <strong>15 free page views</strong> to explore. Unlimited access is just <strong>$14.99/month</strong>.</p>
@@ -68,7 +84,7 @@
   <!-- Paywall Overlay -->
   <div id="paywall-overlay" class="overlay-screen">
     <div class="overlay-card paywall-card">
-      <div class="welcome-icon">🔒</div>
+      <div class="welcome-logo"><svg viewBox="0 0 48 48" fill="none" width="48" height="48"><rect x="8" y="20" width="32" height="22" rx="4" stroke="#D4AF37" stroke-width="2"/><path d="M16 20v-6a8 8 0 0 1 16 0v6" stroke="#D4AF37" stroke-width="2"/><circle cx="24" cy="31" r="3" fill="#D4AF37"/><path d="M24 34v4" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/></svg></div>
       <h2>You've used all <span class="gold">15 free views</span></h2>
       <p style="color:var(--gray); margin-bottom:1.5rem">Unlock unlimited access to CEBL Scout — the league's premier scouting intelligence platform.</p>
       <div class="pricing-box">
@@ -198,28 +214,28 @@
     <section id="tab-dashboard" class="tab-content active">
       <div class="dashboard-grid">
         <div class="stat-card gold-accent">
-          <div class="stat-icon">🇨🇦</div>
+          <div class="stat-icon-svg"><svg viewBox="0 0 32 32" fill="none"><rect x="4" y="6" width="24" height="16" rx="2" stroke="#D4AF37" stroke-width="1.5"/><path d="M16 6v16M12 10l-4 4 4 4M20 10l4 4-4 4" stroke="#D4AF37" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="12" y="22" width="8" height="4" rx="1" fill="#D4AF37" opacity="0.3"/></svg></div>
           <div class="stat-info">
             <span class="stat-number" data-count="168">0</span>
             <span class="stat-label">Canadians in NCAA D1</span>
           </div>
         </div>
         <div class="stat-card">
-          <div class="stat-icon">🌍</div>
+          <div class="stat-icon-svg"><svg viewBox="0 0 32 32" fill="none"><circle cx="16" cy="16" r="11" stroke="#D4AF37" stroke-width="1.5"/><ellipse cx="16" cy="16" rx="5" ry="11" stroke="#D4AF37" stroke-width="1" opacity="0.5"/><path d="M5 16h22" stroke="#D4AF37" stroke-width="1" opacity="0.5"/><circle cx="16" cy="16" r="2" fill="#D4AF37"/></svg></div>
           <div class="stat-info">
             <span class="stat-number" data-count="35">0</span>
             <span class="stat-label">Canadians Playing Pro (Tracked)</span>
           </div>
         </div>
         <div class="stat-card">
-          <div class="stat-icon">🏀</div>
+          <div class="stat-icon-svg"><svg viewBox="0 0 32 32" fill="none"><circle cx="16" cy="16" r="10" stroke="#D4AF37" stroke-width="1.5"/><path d="M16 6c0 0-3 4-3 10s3 10 3 10M16 6c0 0 3 4 3 10s-3 10-3 10M6 16h20" stroke="#D4AF37" stroke-width="1.2"/><path d="M8.5 10h15M8.5 22h15" stroke="#D4AF37" stroke-width="0.8" opacity="0.5"/></svg></div>
           <div class="stat-info">
             <span class="stat-number" data-count="10">0</span>
             <span class="stat-label">CEBL Teams</span>
           </div>
         </div>
         <div class="stat-card">
-          <div class="stat-icon">📝</div>
+          <div class="stat-icon-svg"><svg viewBox="0 0 32 32" fill="none"><rect x="6" y="4" width="16" height="22" rx="2" stroke="#D4AF37" stroke-width="1.5"/><path d="M10 10h8M10 14h8M10 18h5" stroke="#D4AF37" stroke-width="1.2" stroke-linecap="round"/><path d="M18 16l4 4 6-8" stroke="#D4AF37" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
           <div class="stat-info">
             <span class="stat-number" data-count="42">0</span>
             <span class="stat-label">2026 Signings Tracked</span>
@@ -456,7 +472,7 @@
   <!-- Footer -->
   <footer>
     <div class="footer-inner">
-      <div class="footer-brand"><strong>CEBL SCOUT</strong> | GM Intelligence Platform</div>
+      <div class="footer-brand"><strong>HOOPS INTELLIGENCE</strong> | CEBL GM Scouting Platform</div>
       <div class="footer-links"><span>Data: CEBL.ca, RealGM, BasketballBuzz, North Pole Hoops, USBasket, Basketball Reference</span></div>
       <div class="footer-note">Player salaries are estimates based on publicly available CEBL cap structure. Actual salaries may vary.</div>
     </div>
