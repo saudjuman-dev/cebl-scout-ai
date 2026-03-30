@@ -206,7 +206,7 @@ function renderSignings() {
   container.innerHTML = Object.entries(leagueSignings).map(([team, data]) => `
     <div class="signing-team-section" data-team="${team}">
       <div class="signing-team-header" onclick="this.parentElement.classList.toggle('collapsed')" style="border-left: 4px solid ${data.color}">
-        <div class="signing-team-logo" style="background: ${data.bg}; border: 1px solid ${data.color}">${data.emoji}</div>
+        ${typeof teamLogoBadge === 'function' ? teamLogoBadge(team, data.emoji, data.color, data.bg) : `<div class="signing-team-logo" style="background: ${data.bg}; border: 1px solid ${data.color}">${data.emoji}</div>`}
         <span class="signing-team-name ${team === 'Brampton Honey Badgers' ? 'hb' : ''}">${team}</span>
         <span class="signing-team-count">${data.players.length} player${data.players.length !== 1 ? 's' : ''}</span>
       </div>
@@ -632,7 +632,7 @@ function renderTeamStats() {
             const diffColor = diff > 0 ? '#81C784' : '#E57373';
             const emoji = Object.values(leagueSignings).find((_, idx) => Object.keys(leagueSignings)[idx] === name)?.emoji || '';
             return `<tr>
-              <td><div class="team-name-cell"><span class="team-dot-lg" style="background:${t.color}"></span><strong style="color:${t.color}">${i + 1}.</strong> <span class="team-name-text">${name}</span></div></td>
+              <td><div class="team-name-cell">${typeof teamLogoHTML === 'function' ? teamLogoHTML(name, 24, t.color) : `<span class="team-dot-lg" style="background:${t.color}"></span>`}<strong style="color:${t.color}">${i + 1}.</strong> <span class="team-name-text">${name}</span></div></td>
               <td class="win-col">${t.record.wins}</td>
               <td class="loss-col">${t.record.losses}</td>
               <td class="pct-col">${t.record.pct.toFixed(3)}</td>
@@ -918,7 +918,7 @@ function renderElamAnalytics() {
           ${teams.map(([name, t], i) => `
             <tr>
               <td><strong>${i + 1}</strong></td>
-              <td><span class="team-dot-lg" style="background:${t.color}"></span> ${name}</td>
+              <td>${typeof teamLogoHTML === 'function' ? teamLogoHTML(name, 20, t.color) : `<span class="team-dot-lg" style="background:${t.color}"></span>`} ${name}</td>
               <td class="win-col">${t.elamWins}</td>
               <td class="loss-col">${t.elamLosses}</td>
               <td><strong>${(t.elamWinPct * 100).toFixed(1)}%</strong></td>
@@ -1017,7 +1017,7 @@ function renderTargetAnalytics() {
           ${teams.map(([name, t], i) => `
             <tr>
               <td><strong>${i + 1}</strong></td>
-              <td><span class="team-dot-lg" style="background:${t.color}"></span> ${name}</td>
+              <td>${typeof teamLogoHTML === 'function' ? teamLogoHTML(name, 20, t.color) : `<span class="team-dot-lg" style="background:${t.color}"></span>`} ${name}</td>
               <td>${t.attempts}</td>
               <td>${t.made}</td>
               <td><strong>${t.pct}%</strong></td>
