@@ -281,8 +281,7 @@ function filterTable(type) {
 }
 
 // ===== Cap Calculator =====
-function renderCapCalculator() {
-  const container = document.getElementById('calc-slots');
+function getDefaultSlots() {
   const slots = [];
   honeyBadgersRoster.forEach((p, i) => {
     slots.push({ num: i + 1, name: p.name, type: p.type, salary: p.salary });
@@ -290,6 +289,11 @@ function renderCapCalculator() {
   for (let i = honeyBadgersRoster.length; i < 12; i++) {
     slots.push({ num: i + 1, name: '', type: 'TBD', salary: 400 });
   }
+  return slots;
+}
+
+function renderCalcSlots(slots) {
+  const container = document.getElementById('calc-slots');
   container.innerHTML = slots.map((s, i) => `
     <div class="calc-slot">
       <span class="calc-slot-num">${s.num}</span>
@@ -304,7 +308,36 @@ function renderCapCalculator() {
       <input type="range" min="400" max="1500" step="50" value="${s.salary}" oninput="this.title='$'+this.value+'/game'; updateCalc()" title="$${s.salary}/game" data-idx="${i}">
     </div>
   `).join('');
+}
+
+function renderCapCalculator() {
+  // Try loading user's last auto-saved build
+  let slots = getDefaultSlots();
+  if (typeof USER_DATA !== 'undefined') {
+    const autosave = USER_DATA.loadRosterBuild('__autosave');
+    if (autosave && autosave.slots && autosave.slots.length > 0) {
+      slots = autosave.slots;
+    }
+  }
+  renderCalcSlots(slots);
+  renderSavedBuilds();
   updateCalc();
+}
+
+function getCurrentCalcSlots() {
+  const names = document.querySelectorAll('.calc-slot input[type="text"]');
+  const selects = document.querySelectorAll('.calc-slot select');
+  const sliders = document.querySelectorAll('.calc-slot input[type="range"]');
+  const slots = [];
+  names.forEach((el, i) => {
+    slots.push({
+      num: i + 1,
+      name: el.value,
+      type: selects[i].value,
+      salary: parseInt(sliders[i].value)
+    });
+  });
+  return slots;
 }
 
 function updateCalc() {
@@ -322,6 +355,73 @@ function updateCalc() {
   document.getElementById('calc-remaining-value').textContent = '$' + remaining.toLocaleString();
   document.getElementById('calc-remaining-value').style.color = remaining >= 0 ? '#81C784' : '#EF9A9A';
   document.getElementById('calc-bar-fill').style.width = Math.min(100, (total / CEBL_CONFIG.perGameCap) * 100) + '%';
+
+  // Auto-save current build for this user
+  if (typeof USER_DATA !== 'undefined') {
+    USER_DATA.saveRosterBuild('__autosave', getCurrentCalcSlots());
+  }
+}
+
+// Save/Load Roster Builds
+function saveCurrentBuild() {
+  if (typeof USER_DATA === 'undefined') return;
+  const name = prompt('Name this roster build:');
+  if (!name || !name.trim()) return;
+  USER_DATA.saveRosterBuild(name.trim(), getCurrentCalcSlots());
+  renderSavedBuilds();
+}
+
+function loadBuild(name) {
+  if (typeof USER_DATA === 'undefined') return;
+  const build = USER_DATA.loadRosterBuild(name);
+  if (!build || !build.slots) return;
+  renderCalcSlots(build.slots);
+  updateCalc();
+}
+
+function deleteBuild(name) {
+  if (typeof USER_DATA === 'undefined') return;
+  USER_DATA.deleteRosterBuild(name);
+  renderSavedBuilds();
+}
+
+function resetToDefault() {
+  renderCalcSlots(getDefaultSlots());
+  updateCalc();
+}
+
+function renderSavedBuilds() {
+  const container = document.getElementById('saved-builds');
+  if (!container || typeof USER_DATA === 'undefined') return;
+
+  const builds = USER_DATA.getAllRosterBuilds();
+  const buildNames = Object.keys(builds).filter(n => n !== '__autosave');
+
+  if (buildNames.length === 0) {
+    container.innerHTML = '<p class="no-builds">No saved builds yet. Build a roster above and click "Save Build" to save it.</p>';
+    return;
+  }
+
+  container.innerHTML = buildNames.map(name => {
+    const b = builds[name];
+    const filled = b.slots.filter(s => s.name).length;
+    const total = b.slots.reduce((sum, s) => {
+      return (s.type !== 'Dev (Off-Cap)' && s.type !== 'Designated') ? sum + s.salary : sum;
+    }, 0);
+    const savedDate = new Date(b.savedAt).toLocaleDateString();
+    return `
+      <div class="saved-build-card">
+        <div class="sb-info">
+          <div class="sb-name">${name}</div>
+          <div class="sb-meta">${filled} players | $${total.toLocaleString()}/game | Saved ${savedDate}</div>
+        </div>
+        <div class="sb-actions">
+          <button class="sb-btn load" onclick="loadBuild('${name.replace(/'/g, "\\'")}')">Load</button>
+          <button class="sb-btn delete" onclick="deleteBuild('${name.replace(/'/g, "\\'")}')">Delete</button>
+        </div>
+      </div>
+    `;
+  }).join('');
 }
 
 // ===== Team Filter =====

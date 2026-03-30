@@ -1887,3 +1887,56 @@ footer {
   .live-indicator { padding: 0.3rem 0.5rem; }
   .live-text { font-size: 0.6rem; letter-spacing: 1px; }
 }
+
+/* ===== Saved Roster Builds ===== */
+.calc-build-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+.build-btn {
+  padding: 0.6rem 1.2rem;
+  border: 1px solid var(--gold-dark);
+  border-radius: 6px;
+  background: var(--dark-3);
+  color: var(--text);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.build-btn:hover { background: var(--dark-4); border-color: var(--gold); }
+.build-btn.save-btn { background: linear-gradient(135deg, var(--gold-dark), var(--gold)); color: var(--black); }
+.build-btn.save-btn:hover { box-shadow: 0 0 12px rgba(212,175,55,0.4); }
+.build-btn.reset-btn { color: var(--text-dim); }
+
+.saved-build-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  background: var(--dark-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  transition: border-color 0.2s;
+}
+.saved-build-card:hover { border-color: var(--gold-dark); }
+.sb-info { flex: 1; min-width: 0; }
+.sb-name { font-weight: 600; color: var(--text); margin-bottom: 0.15rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sb-meta { font-size: 0.75rem; color: var(--text-dim); }
+.sb-actions { display: flex; gap: 0.5rem; margin-left: 0.75rem; flex-shrink: 0; }
+.sb-btn {
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--dark-3);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.sb-btn.load { color: var(--gold); border-color: var(--gold-dark); }
+.sb-btn.load:hover { background: var(--gold-dark); color: var(--black); }
+.sb-btn.delete { color: #e74c3c; border-color: #5a2020; }
+.sb-btn.delete:hover { background: #5a2020; color: #fff; }
+.no-builds { color: var(--text-dim); font-size: 0.85rem; text-align: center; padding: 1.5rem; }

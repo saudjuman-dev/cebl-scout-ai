@@ -460,11 +460,19 @@
           <h3>Build Your Roster</h3>
           <p class="calc-desc">Per-game salary cap: <strong>$8,000</strong> for active 12-man roster. Designated Player and up to 3 Dev Players are off-cap.</p>
           <div class="calc-slots" id="calc-slots"></div>
+          <div class="calc-build-actions">
+            <button class="build-btn save-btn" onclick="saveCurrentBuild()">Save Build</button>
+            <button class="build-btn reset-btn" onclick="resetToDefault()">Reset</button>
+          </div>
           <div class="calc-summary">
             <div class="calc-total"><span>Total Per-Game Salary:</span><span id="calc-total-value">$0</span></div>
             <div class="calc-remaining"><span>Remaining Cap:</span><span id="calc-remaining-value">$8,000</span></div>
             <div class="calc-bar-container"><div class="calc-bar-bg"><div class="calc-bar-fill" id="calc-bar-fill"></div></div></div>
           </div>
+        </div>
+        <div class="calc-panel">
+          <h3>Saved Roster Builds</h3>
+          <div id="saved-builds"></div>
         </div>
         <div class="calc-panel">
           <h3>Salary Structure Guide</h3>

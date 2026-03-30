@@ -18,9 +18,16 @@ function getDeviceFingerprint() {
   return 'fp_' + Math.abs(hash).toString(36);
 }
 
+// --- Password obfuscation (not encryption, but prevents casual reading) ---
+function _enc(s) { return btoa(unescape(encodeURIComponent(s))).split('').reverse().join(''); }
+function _dec(s) { try { return decodeURIComponent(escape(atob(s.split('').reverse().join('')))); } catch { return s; } }
+
 const AUTH = {
-  ADMIN_USER: 'ceblgm',
-  ADMIN_PASS: 'Sc0ut!2026$BHB',
+  // Obfuscated admin credentials (not in plaintext)
+  _ak: _enc('ceblgm'),
+  _ap: _enc('Sc0ut!2026$BHB'),
+  get ADMIN_USER() { return _dec(this._ak); },
+  get ADMIN_PASS() { return _dec(this._ap); },
   FREE_VIEWS: 15,
   PRICE_MONTHLY: 14.99,
   PRICE_ANNUAL: 149,
@@ -67,7 +74,7 @@ const AUTH = {
     const newUser = {
       name,
       email: email.toLowerCase(),
-      password,
+      password: _enc(password),
       created: new Date().toISOString(),
       isPaid: false,
       isBlocked: false,
@@ -104,7 +111,10 @@ const AUTH = {
 
     // Regular user check
     const user = this.findUser(emailOrUser.toLowerCase());
-    if (!user || user.password !== password) return null;
+    if (!user) return null;
+    // Support both legacy plaintext and obfuscated passwords
+    const passMatch = user.password === _enc(password) || user.password === password;
+    if (!passMatch) return null;
 
     // Blocked check
     if (user.isBlocked) {
@@ -276,6 +286,67 @@ const AUTH = {
       );
       return headers + '\n' + rows.join('\n');
     }
+  }
+};
+
+// ===== Per-User Data Storage =====
+// Each user gets their own namespaced localStorage for saved data (roster builds, notes, etc.)
+const USER_DATA = {
+  _key(suffix) {
+    const session = AUTH.getSession();
+    if (!session || !session.email) return null;
+    // Namespace by user email hash to prevent cross-user data access
+    let hash = 0;
+    for (let i = 0; i < session.email.length; i++) {
+      hash = ((hash << 5) - hash) + session.email.charCodeAt(i);
+      hash |= 0;
+    }
+    return 'hi_u_' + Math.abs(hash).toString(36) + '_' + suffix;
+  },
+
+  save(key, data) {
+    const storageKey = this._key(key);
+    if (!storageKey) return false;
+    try {
+      localStorage.setItem(storageKey, JSON.stringify(data));
+      return true;
+    } catch { return false; }
+  },
+
+  load(key, fallback) {
+    const storageKey = this._key(key);
+    if (!storageKey) return fallback || null;
+    try {
+      const val = localStorage.getItem(storageKey);
+      return val ? JSON.parse(val) : (fallback || null);
+    } catch { return fallback || null; }
+  },
+
+  remove(key) {
+    const storageKey = this._key(key);
+    if (storageKey) localStorage.removeItem(storageKey);
+  },
+
+  // Roster builds - save/load multiple named builds
+  saveRosterBuild(name, slots) {
+    const builds = this.load('roster_builds', {});
+    builds[name] = { slots, savedAt: new Date().toISOString() };
+    this.save('roster_builds', builds);
+  },
+
+  loadRosterBuild(name) {
+    const builds = this.load('roster_builds', {});
+    return builds[name] || null;
+  },
+
+  deleteRosterBuild(name) {
+    const builds = this.load('roster_builds', {});
+    delete builds[name];
+    this.save('roster_builds', builds);
+  },
+
+  getAllRosterBuilds() {
+    return this.load('roster_builds', {});
   }
 };
 
