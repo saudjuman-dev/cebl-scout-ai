@@ -28,7 +28,7 @@ const AUTH = {
   _ap: _enc('Sc0ut!2026$BHB'),
   get ADMIN_USER() { return _dec(this._ak); },
   get ADMIN_PASS() { return _dec(this._ap); },
-  PREMIUM_FEATURES: ['cap-tools', 'player-profile', 'medical-history'],
+  PREMIUM_FEATURES: ['cap-tools', 'player-profile', 'medical-history', 'advanced', 'watchlist'],
   PRICE_MONTHLY: 14.99,
   PRICE_ANNUAL: 149,
   MAX_DEVICES: 2, // max devices per account
@@ -424,8 +424,11 @@ function enterApp(session, isNew) {
   updateViewCounter();
 
   // Show/hide PRO badges on premium tabs
-  const proBadge = document.getElementById('cap-pro-badge');
-  if (proBadge) proBadge.style.display = (session.isAdmin || session.isPaid) ? 'none' : 'inline-block';
+  const isPro = session.isAdmin || session.isPaid;
+  ['cap-pro-badge', 'adv-pro-badge', 'watch-pro-badge'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = isPro ? 'none' : 'inline-block';
+  });
 
   setTimeout(() => {
     document.getElementById('loading-screen').classList.add('hidden');
@@ -459,7 +462,9 @@ function showFeatureGate(featureName) {
     const labels = {
       'cap-tools': 'Salary Cap Calculator',
       'player-profile': 'Player Career Profiles',
-      'medical-history': 'Injury & Medical History'
+      'medical-history': 'Injury & Medical History',
+      'advanced': 'Advanced Player Metrics',
+      'watchlist': 'Player Watchlist'
     };
     nameEl.textContent = labels[featureName] || featureName;
   }

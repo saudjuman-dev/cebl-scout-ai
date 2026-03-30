@@ -92,7 +92,8 @@
         <div class="fg-perk"><span class="fg-icon">&#36;</span> Salary Cap Calculator & Roster Builder</div>
         <div class="fg-perk"><span class="fg-icon">&#9733;</span> Full Player Career Profiles & Stats</div>
         <div class="fg-perk"><span class="fg-icon">&#9829;</span> Injury & Medical History Timelines</div>
-        <div class="fg-perk"><span class="fg-icon">&#9776;</span> Save & Compare Roster Builds</div>
+        <div class="fg-perk"><span class="fg-icon">&#10020;</span> Advanced Metrics (TS%, PER, Net Rating)</div>
+        <div class="fg-perk"><span class="fg-icon">&#9776;</span> Player Watchlist & Roster Builds</div>
       </div>
       <div class="feature-gate-pricing">
         <button class="gate-btn primary" onclick="openStripeCheckout()">Go Pro — $14.99/mo</button>
@@ -179,6 +180,34 @@
       <button class="nav-tab" data-tab="team-stats" onclick="switchTab('team-stats')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>
         Team Stats
+      </button>
+      <button class="nav-tab" data-tab="pipeline" onclick="switchTab('pipeline')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        Pipeline
+      </button>
+      <button class="nav-tab" data-tab="elam" onclick="switchTab('elam')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Elam Ending
+        <span class="new-badge">NEW</span>
+      </button>
+      <button class="nav-tab" data-tab="target" onclick="switchTab('target')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+        Target
+        <span class="new-badge">NEW</span>
+      </button>
+      <button class="nav-tab" data-tab="advanced" onclick="switchTab('advanced')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        Advanced
+        <span class="pro-badge" id="adv-pro-badge">PRO</span>
+      </button>
+      <button class="nav-tab" data-tab="compare" onclick="switchTab('compare')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+        Compare
+      </button>
+      <button class="nav-tab" data-tab="watchlist" onclick="switchTab('watchlist')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+        Watchlist
+        <span class="pro-badge" id="watch-pro-badge">PRO</span>
       </button>
       <button class="nav-tab" data-tab="cap-tools" onclick="switchTab('cap-tools')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
@@ -487,6 +516,101 @@
       <div class="team-stats-grid" id="team-stats-grid"></div>
     </section>
 
+    <!-- CANADIAN PIPELINE TAB -->
+    <section id="tab-pipeline" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Canadian Basketball Pipeline</h2>
+        <p class="tab-subtitle">Every Canadian playing professionally worldwide — tracked in real time</p>
+        <div class="filter-row">
+          <input type="text" id="pipeline-search" class="search-input" placeholder="Search by name, team, league, hometown..." oninput="filterPipeline()">
+          <select id="pipeline-tier-filter" class="filter-select" onchange="filterPipeline()">
+            <option value="">All Tiers</option>
+            <option value="NBA">NBA</option>
+            <option value="G League">G League</option>
+            <option value="Europe-Elite">Europe (Elite)</option>
+            <option value="Europe-Top">Europe (Top)</option>
+            <option value="Europe-Mid">Europe (Mid)</option>
+            <option value="Australia">Australia NBL</option>
+            <option value="CEBL">CEBL</option>
+          </select>
+          <select id="pipeline-pos-filter" class="filter-select" onchange="filterPipeline()">
+            <option value="">All Positions</option>
+            <option value="G">Guards</option>
+            <option value="F">Forwards</option>
+            <option value="C">Centers</option>
+          </select>
+        </div>
+      </div>
+      <div class="pipeline-summary" id="pipeline-summary"></div>
+      <div class="pipeline-tiers" id="pipeline-tiers"></div>
+    </section>
+
+    <!-- ELAM ENDING ANALYTICS TAB -->
+    <section id="tab-elam" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Elam Ending Analytics</h2>
+        <p class="tab-subtitle">The CEBL's signature finish — first to the Target Score wins. No clock, no fouling, pure basketball.</p>
+      </div>
+      <div id="elam-content"></div>
+    </section>
+
+    <!-- TARGET SHOT ANALYTICS TAB -->
+    <section id="tab-target" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Target Shot Analytics</h2>
+        <p class="tab-subtitle">Bonus-point scoring zone unique to the CEBL — the strategic edge that separates contenders</p>
+      </div>
+      <div id="target-content"></div>
+    </section>
+
+    <!-- ADVANCED STATS TAB -->
+    <section id="tab-advanced" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Advanced Player Metrics</h2>
+        <p class="tab-subtitle">Beyond the box score — TS%, Usage Rate, Net Rating, PER, and more</p>
+      </div>
+      <div id="advanced-content"></div>
+    </section>
+
+    <!-- PLAYER COMPARE TAB -->
+    <section id="tab-compare" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Player Comparison Tool</h2>
+        <p class="tab-subtitle">Side-by-side statistical comparisons with visual percentile bars</p>
+      </div>
+      <div class="compare-selectors">
+        <div class="compare-col">
+          <label>Player A</label>
+          <select id="compare-player-a" class="filter-select compare-select" onchange="renderComparison()">
+            <option value="">Select a player...</option>
+          </select>
+        </div>
+        <div class="compare-vs">VS</div>
+        <div class="compare-col">
+          <label>Player B</label>
+          <select id="compare-player-b" class="filter-select compare-select" onchange="renderComparison()">
+            <option value="">Select a player...</option>
+          </select>
+        </div>
+      </div>
+      <div id="compare-content"></div>
+    </section>
+
+    <!-- WATCHLIST TAB -->
+    <section id="tab-watchlist" class="tab-content">
+      <div class="tab-header-row">
+        <h2>My Watchlist</h2>
+        <p class="tab-subtitle">Track players you're scouting — get a quick view of your shortlisted targets</p>
+      </div>
+      <div class="watchlist-actions">
+        <select id="watchlist-add-select" class="filter-select" style="flex:1">
+          <option value="">Add a player to your watchlist...</option>
+        </select>
+        <button class="build-btn save-btn" onclick="addToWatchlist()">Add</button>
+      </div>
+      <div id="watchlist-content"></div>
+    </section>
+
     <!-- ADMIN CONSOLE TAB -->
     <section id="tab-admin" class="tab-content">
       <div class="tab-header-row">
@@ -519,6 +643,7 @@
 
   <script src="data.js"></script>
   <script src="career-data.js"></script>
+  <script src="pipeline-data.js"></script>
   <script src="onboarding.js"></script>
   <script src="auth.js"></script>
   <script src="app.js"></script>

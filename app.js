@@ -800,6 +800,453 @@ function addPlayerClickHandlers() {
   });
 }
 
+// ===== CANADIAN PIPELINE =====
+function renderPipeline() {
+  if (typeof canadianPipeline === 'undefined') return;
+  const summary = document.getElementById('pipeline-summary');
+  const tiers = document.getElementById('pipeline-tiers');
+  if (!summary || !tiers) return;
+
+  const nba = canadianPipeline.filter(p => p.tier === 'NBA');
+  const gleague = canadianPipeline.filter(p => p.tier === 'G League');
+  const europeAll = canadianPipeline.filter(p => p.tier.startsWith('Europe'));
+  const aus = canadianPipeline.filter(p => p.tier === 'Australia');
+  const cebl = canadianPipeline.filter(p => p.tier === 'CEBL');
+
+  summary.innerHTML = `
+    <div class="pipeline-stat-row">
+      <div class="pipeline-stat"><div class="ps-num">${canadianPipeline.length}</div><div class="ps-label">Total Canadians Tracked</div></div>
+      <div class="pipeline-stat nba"><div class="ps-num">${nba.length}</div><div class="ps-label">NBA</div></div>
+      <div class="pipeline-stat gleague"><div class="ps-num">${gleague.length}</div><div class="ps-label">G League</div></div>
+      <div class="pipeline-stat europe"><div class="ps-num">${europeAll.length}</div><div class="ps-label">Europe</div></div>
+      <div class="pipeline-stat aus"><div class="ps-num">${aus.length}</div><div class="ps-label">Australia</div></div>
+      <div class="pipeline-stat cebl-tier"><div class="ps-num">${cebl.length}</div><div class="ps-label">CEBL</div></div>
+    </div>
+  `;
+
+  const tierGroups = [
+    { key: 'NBA', label: 'NBA', color: '#C9082A', players: nba },
+    { key: 'G League', label: 'NBA G League', color: '#1D428A', players: gleague },
+    { key: 'Europe', label: 'Europe (All Levels)', color: '#2E7D32', players: europeAll },
+    { key: 'Australia', label: 'Australia NBL', color: '#FFB81C', players: aus },
+    { key: 'CEBL', label: 'CEBL', color: '#D4AF37', players: cebl }
+  ];
+
+  tiers.innerHTML = tierGroups.filter(g => g.players.length > 0).map(g => `
+    <div class="pipeline-tier-section" data-tier="${g.key}">
+      <div class="pt-header" style="border-left:4px solid ${g.color}">
+        <span class="pt-label" style="color:${g.color}">${g.label}</span>
+        <span class="pt-count">${g.players.length} player${g.players.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="pt-players">
+        ${g.players.map(p => `
+          <div class="pt-player" data-search="${(p.name+' '+p.team+' '+p.league+' '+p.hometown+' '+p.note).toLowerCase()}" data-tier="${p.tier}" data-pos="${p.pos.charAt(0)}">
+            <div class="pt-avatar">${getInitials(p.name)}</div>
+            <div class="pt-info">
+              <div class="pt-name">${p.name}</div>
+              <div class="pt-meta">${p.pos} | ${p.age} | ${p.ht} | ${p.hometown}</div>
+            </div>
+            <div class="pt-team-info">
+              <div class="pt-team">${p.team}</div>
+              <div class="pt-league">${p.league} | ${p.country}</div>
+            </div>
+            <div class="pt-stats-mini">
+              <span>${p.ppg} PPG</span>
+              <span>${p.rpg} RPG</span>
+              <span>${p.apg} APG</span>
+            </div>
+            <div class="pt-status ${p.status === 'Active' ? 'active' : 'fa'}">${p.status}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function filterPipeline() {
+  const search = document.getElementById('pipeline-search').value.toLowerCase();
+  const tier = document.getElementById('pipeline-tier-filter').value;
+  const pos = document.getElementById('pipeline-pos-filter').value;
+  document.querySelectorAll('.pt-player').forEach(el => {
+    const matchSearch = !search || (el.getAttribute('data-search') || '').includes(search);
+    const matchTier = !tier || (el.getAttribute('data-tier') || '').includes(tier);
+    const matchPos = !pos || el.getAttribute('data-pos') === pos;
+    el.style.display = (matchSearch && matchTier && matchPos) ? '' : 'none';
+  });
+}
+
+// ===== ELAM ENDING ANALYTICS =====
+function renderElamAnalytics() {
+  if (typeof elamEndingData === 'undefined') return;
+  const container = document.getElementById('elam-content');
+  if (!container) return;
+
+  const ov = elamEndingData.overview;
+  const teams = Object.entries(elamEndingData.teamPerformance).sort((a, b) => b[1].elamWinPct - a[1].elamWinPct);
+  const clutch = elamEndingData.playerClutch;
+
+  container.innerHTML = `
+    <div class="elam-overview">
+      <div class="elam-stat-row">
+        <div class="elam-stat"><div class="es-num">${ov.totalGames2025}</div><div class="es-label">Games with Elam</div></div>
+        <div class="elam-stat"><div class="es-num">${ov.avgElamDuration}</div><div class="es-label">Avg Elam Duration</div></div>
+        <div class="elam-stat"><div class="es-num">${ov.avgElamPossessions}</div><div class="es-label">Avg Possessions</div></div>
+        <div class="elam-stat"><div class="es-num">${ov.comebacksInElam}</div><div class="es-label">Comebacks</div></div>
+        <div class="elam-stat"><div class="es-num">${ov.comebackPct}%</div><div class="es-label">Comeback Rate</div></div>
+      </div>
+      <p class="elam-explainer">${ov.description}</p>
+    </div>
+
+    <h3 class="section-title">Team Elam Performance</h3>
+    <div class="table-container">
+      <table class="data-table elam-table">
+        <thead>
+          <tr><th>Rank</th><th>Team</th><th>Elam W</th><th>Elam L</th><th>Win%</th><th>Avg Margin</th><th>Comebacks</th><th>Elam PPG</th></tr>
+        </thead>
+        <tbody>
+          ${teams.map(([name, t], i) => `
+            <tr>
+              <td><strong>${i + 1}</strong></td>
+              <td><span class="team-dot-lg" style="background:${t.color}"></span> ${name}</td>
+              <td class="win-col">${t.elamWins}</td>
+              <td class="loss-col">${t.elamLosses}</td>
+              <td><strong>${(t.elamWinPct * 100).toFixed(1)}%</strong></td>
+              <td style="color:${t.avgElamMargin > 0 ? '#81C784' : '#E57373'}">${t.avgElamMargin > 0 ? '+' : ''}${t.avgElamMargin}</td>
+              <td>${t.comebacks}</td>
+              <td>${t.elamPPG}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+
+    <h3 class="section-title">Elam Ending Clutch Leaders</h3>
+    <div class="clutch-grid">
+      ${clutch.map((p, i) => `
+        <div class="clutch-card ${i < 3 ? 'top-3' : ''}">
+          <div class="clutch-rank">${i + 1}</div>
+          <div class="clutch-info">
+            <div class="clutch-name">${p.name}</div>
+            <div class="clutch-team">${p.team}</div>
+          </div>
+          <div class="clutch-stats">
+            <div class="clutch-stat"><span class="cs-val">${p.elamPPG}</span><span class="cs-lbl">Elam PPG</span></div>
+            <div class="clutch-stat"><span class="cs-val">${p.elamFGPct}%</span><span class="cs-lbl">Elam FG%</span></div>
+            <div class="clutch-stat"><span class="cs-val">${p.elamGameWinners}</span><span class="cs-lbl">Game Winners</span></div>
+          </div>
+          <div class="clutch-rating">
+            <div class="cr-bar" style="width:${p.clutchRating}%"></div>
+            <span class="cr-val">${p.clutchRating}</span>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+// ===== TARGET SHOT ANALYTICS =====
+function renderTargetAnalytics() {
+  if (typeof targetShotData === 'undefined') return;
+  const container = document.getElementById('target-content');
+  if (!container) return;
+
+  const ov = targetShotData.overview;
+  const teams = Object.entries(targetShotData.teamTargetStats).sort((a, b) => b[1].pct - a[1].pct);
+  const players = targetShotData.playerTargetLeaders;
+  const insights = targetShotData.strategicInsights;
+
+  container.innerHTML = `
+    <div class="target-overview">
+      <div class="target-stat-row">
+        <div class="target-stat"><div class="ts-num">${ov.totalTargetAttempts2025}</div><div class="ts-label">Total Attempts</div></div>
+        <div class="target-stat"><div class="ts-num">${ov.totalTargetMade}</div><div class="ts-label">Total Made</div></div>
+        <div class="target-stat"><div class="ts-num">${ov.leagueTargetPct}%</div><div class="ts-label">League Target %</div></div>
+        <div class="target-stat highlight"><div class="ts-num">${ov.expectedValueTarget}</div><div class="ts-label">EV per Target Att.</div></div>
+        <div class="target-stat"><div class="ts-num">${ov.expectedValue3pt}</div><div class="ts-label">EV per Std 3PT</div></div>
+      </div>
+      <p class="target-explainer">${ov.description}</p>
+    </div>
+
+    <div class="target-insights-grid">
+      ${insights.map(ins => `
+        <div class="target-insight-card">
+          <h4>${ins.title}</h4>
+          <p>${ins.insight}</p>
+        </div>
+      `).join('')}
+    </div>
+
+    <h3 class="section-title">Team Target Shooting Rankings</h3>
+    <div class="table-container">
+      <table class="data-table target-table">
+        <thead>
+          <tr><th>Rank</th><th>Team</th><th>Attempts</th><th>Made</th><th>Target %</th><th>Att/Game</th></tr>
+        </thead>
+        <tbody>
+          ${teams.map(([name, t], i) => `
+            <tr>
+              <td><strong>${i + 1}</strong></td>
+              <td><span class="team-dot-lg" style="background:${t.color}"></span> ${name}</td>
+              <td>${t.attempts}</td>
+              <td>${t.made}</td>
+              <td><strong>${t.pct}%</strong></td>
+              <td>${t.attPerGame}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+
+    <h3 class="section-title">Individual Target Shot Leaders</h3>
+    <div class="target-leaders-grid">
+      ${players.map((p, i) => `
+        <div class="target-leader-card ${i < 3 ? 'top-3' : ''}">
+          <div class="tl-rank">${i + 1}</div>
+          <div class="tl-info">
+            <div class="tl-name">${p.name}</div>
+            <div class="tl-team">${p.team}</div>
+          </div>
+          <div class="tl-stats">
+            <div class="tl-stat"><span class="tls-val">${p.made}/${p.attempts}</span><span class="tls-lbl">Made/Att</span></div>
+            <div class="tl-stat"><span class="tls-val">${p.pct}%</span><span class="tls-lbl">Target %</span></div>
+            <div class="tl-stat"><span class="tls-val">${p.expectedPts}</span><span class="tls-lbl">Exp. Pts</span></div>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+// ===== ADVANCED STATS =====
+function renderAdvancedStats() {
+  if (typeof advancedMetrics === 'undefined') return;
+  const container = document.getElementById('advanced-content');
+  if (!container) return;
+
+  const players = advancedMetrics.players;
+  const glossary = advancedMetrics.glossary;
+
+  // Sort by PER descending
+  const sorted = [...players].sort((a, b) => b.per - a.per);
+
+  function pctBar(val, min, max, good, elite) {
+    const pct = Math.min(100, Math.max(0, ((val - min) / (max - min)) * 100));
+    const color = val >= elite ? '#D4AF37' : val >= good ? '#81C784' : '#FFB74D';
+    return `<div class="adv-bar"><div class="adv-bar-fill" style="width:${pct}%;background:${color}"></div></div>`;
+  }
+
+  container.innerHTML = `
+    <div class="adv-glossary-toggle">
+      <button class="build-btn reset-btn" onclick="document.getElementById('adv-glossary').classList.toggle('show')">Glossary</button>
+    </div>
+    <div id="adv-glossary" class="adv-glossary">
+      ${Object.entries(glossary).map(([key, g]) => `
+        <div class="adv-glossary-item"><strong>${g.name}</strong>: ${g.description}</div>
+      `).join('')}
+    </div>
+
+    <div class="table-container">
+      <table class="data-table adv-table">
+        <thead>
+          <tr>
+            <th>Player</th><th>Team</th><th>Role</th>
+            <th>TS%</th><th>USG%</th><th>AST/TO</th><th>Net Rtg</th><th>PER</th>
+            <th>ORtg</th><th>DRtg</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${sorted.map(p => `
+            <tr>
+              <td><strong class="player-name has-profile" style="cursor:pointer" onclick="openPlayerModal('${p.name}')">${p.name}</strong></td>
+              <td>${p.team}</td>
+              <td><span class="role-badge">${p.role}</span></td>
+              <td><div class="adv-cell">${p.tsPct}%${pctBar(p.tsPct, 48, 62, glossary.tsPct.good, glossary.tsPct.elite)}</div></td>
+              <td><div class="adv-cell">${p.usgRate}%${pctBar(p.usgRate, 14, 35, glossary.usgRate.good, glossary.usgRate.elite)}</div></td>
+              <td><div class="adv-cell">${p.astTov}${pctBar(p.astTov, 0.5, 4, glossary.astTov.good, glossary.astTov.elite)}</div></td>
+              <td style="color:${p.netRtg > 0 ? '#81C784' : '#E57373'}"><strong>${p.netRtg > 0 ? '+' : ''}${p.netRtg}</strong></td>
+              <td><div class="adv-cell"><strong>${p.per}</strong>${pctBar(p.per, 10, 28, glossary.per.good, glossary.per.elite)}</div></td>
+              <td>${p.offRtg}</td>
+              <td>${p.defRtg}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+  `;
+}
+
+// ===== PLAYER COMPARISON TOOL =====
+function populateCompareDropdowns() {
+  if (typeof advancedMetrics === 'undefined') return;
+  const options = advancedMetrics.players.map(p => `<option value="${p.name}">${p.name} (${p.team})</option>`).join('');
+  const base = '<option value="">Select a player...</option>' + options;
+  const a = document.getElementById('compare-player-a');
+  const b = document.getElementById('compare-player-b');
+  if (a) a.innerHTML = base;
+  if (b) b.innerHTML = base;
+}
+
+function renderComparison() {
+  const nameA = document.getElementById('compare-player-a').value;
+  const nameB = document.getElementById('compare-player-b').value;
+  const container = document.getElementById('compare-content');
+  if (!container) return;
+
+  if (!nameA || !nameB) {
+    container.innerHTML = '<p class="no-builds" style="margin-top:2rem">Select two players above to compare their stats side-by-side.</p>';
+    return;
+  }
+
+  const pA = advancedMetrics.players.find(p => p.name === nameA);
+  const pB = advancedMetrics.players.find(p => p.name === nameB);
+  if (!pA || !pB) return;
+
+  const metrics = [
+    { label: 'True Shooting %', key: 'tsPct', suffix: '%', min: 48, max: 62 },
+    { label: 'Usage Rate', key: 'usgRate', suffix: '%', min: 14, max: 35 },
+    { label: 'Assist/Turnover', key: 'astTov', suffix: '', min: 0.5, max: 4 },
+    { label: 'Net Rating', key: 'netRtg', suffix: '', min: -5, max: 12 },
+    { label: 'PER', key: 'per', suffix: '', min: 10, max: 28 },
+    { label: 'Off. Rating', key: 'offRtg', suffix: '', min: 100, max: 120 },
+    { label: 'Def. Rating', key: 'defRtg', suffix: '', min: 100, max: 112, invert: true }
+  ];
+
+  container.innerHTML = `
+    <div class="compare-header">
+      <div class="compare-player-label">${pA.name}<br><span>${pA.team} | ${pA.role}</span></div>
+      <div class="compare-player-label">${pB.name}<br><span>${pB.team} | ${pB.role}</span></div>
+    </div>
+    <div class="compare-bars">
+      ${metrics.map(m => {
+        const valA = pA[m.key];
+        const valB = pB[m.key];
+        const range = m.max - m.min;
+        const pctA = Math.min(100, Math.max(0, ((valA - m.min) / range) * 100));
+        const pctB = Math.min(100, Math.max(0, ((valB - m.min) / range) * 100));
+        const aWins = m.invert ? valA < valB : valA > valB;
+        const bWins = m.invert ? valB < valA : valB > valA;
+        return `
+          <div class="compare-row">
+            <div class="compare-val ${aWins ? 'winner' : ''}">${valA}${m.suffix}</div>
+            <div class="compare-bar-area">
+              <div class="compare-bar-left"><div class="compare-fill-left ${aWins ? 'winner' : ''}" style="width:${pctA}%"></div></div>
+              <div class="compare-label">${m.label}</div>
+              <div class="compare-bar-right"><div class="compare-fill-right ${bWins ? 'winner' : ''}" style="width:${pctB}%"></div></div>
+            </div>
+            <div class="compare-val ${bWins ? 'winner' : ''}">${valB}${m.suffix}</div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+}
+
+// ===== WATCHLIST =====
+function getWatchlist() {
+  if (typeof USER_DATA !== 'undefined') {
+    return USER_DATA.load('watchlist', []);
+  }
+  try { return JSON.parse(localStorage.getItem('hi_watchlist') || '[]'); } catch { return []; }
+}
+
+function saveWatchlist(list) {
+  if (typeof USER_DATA !== 'undefined') {
+    USER_DATA.save('watchlist', list);
+  } else {
+    localStorage.setItem('hi_watchlist', JSON.stringify(list));
+  }
+}
+
+function populateWatchlistDropdown() {
+  const select = document.getElementById('watchlist-add-select');
+  if (!select) return;
+  // Combine all available players
+  const allPlayers = [];
+  if (typeof canadiansPro !== 'undefined') canadiansPro.forEach(p => allPlayers.push(p.name));
+  if (typeof ncaaCanadians !== 'undefined') ncaaCanadians.forEach(p => allPlayers.push(p.name));
+  if (typeof importTargets !== 'undefined') importTargets.forEach(p => allPlayers.push(p.name));
+  if (typeof canadianPipeline !== 'undefined') canadianPipeline.forEach(p => { if (!allPlayers.includes(p.name)) allPlayers.push(p.name); });
+  allPlayers.sort();
+  select.innerHTML = '<option value="">Add a player to your watchlist...</option>' + allPlayers.map(n => `<option value="${n}">${n}</option>`).join('');
+}
+
+function addToWatchlist() {
+  const select = document.getElementById('watchlist-add-select');
+  const name = select.value;
+  if (!name) return;
+  const list = getWatchlist();
+  if (!list.includes(name)) {
+    list.push(name);
+    saveWatchlist(list);
+  }
+  select.value = '';
+  renderWatchlist();
+}
+
+function removeFromWatchlist(name) {
+  const list = getWatchlist().filter(n => n !== name);
+  saveWatchlist(list);
+  renderWatchlist();
+}
+
+function renderWatchlist() {
+  const container = document.getElementById('watchlist-content');
+  if (!container) return;
+  const list = getWatchlist();
+
+  if (list.length === 0) {
+    container.innerHTML = '<p class="no-builds" style="margin-top:1rem">Your watchlist is empty. Add players from the dropdown above to start tracking them.</p>';
+    return;
+  }
+
+  // Look up player data from all sources
+  function findPlayer(name) {
+    if (typeof canadianPipeline !== 'undefined') {
+      const p = canadianPipeline.find(x => x.name === name);
+      if (p) return { name: p.name, pos: p.pos, team: p.team, league: p.league, ppg: p.ppg, rpg: p.rpg, apg: p.apg, note: p.note, hometown: p.hometown || '' };
+    }
+    if (typeof canadiansPro !== 'undefined') {
+      const p = canadiansPro.find(x => x.name === name);
+      if (p) return { name: p.name, pos: p.pos, team: p.team, league: p.league, ppg: p.ppg, rpg: p.rpg, apg: p.apg, note: p.note, hometown: p.hometown || '' };
+    }
+    if (typeof importTargets !== 'undefined') {
+      const p = importTargets.find(x => x.name === name);
+      if (p) return { name: p.name, pos: p.pos, team: p.team, league: p.league, ppg: p.ppg, rpg: p.rpg, apg: p.apg, note: p.note, hometown: '' };
+    }
+    if (typeof ncaaCanadians !== 'undefined') {
+      const p = ncaaCanadians.find(x => x.name === name);
+      if (p) return { name: p.name, pos: p.pos, team: p.school, league: 'NCAA', ppg: p.ppg, rpg: p.rpg, apg: p.apg, note: p.note, hometown: p.hometown || '' };
+    }
+    return { name, pos: '-', team: '-', league: '-', ppg: '-', rpg: '-', apg: '-', note: '', hometown: '' };
+  }
+
+  container.innerHTML = `
+    <div class="watchlist-grid">
+      ${list.map(name => {
+        const p = findPlayer(name);
+        return `
+          <div class="watchlist-card">
+            <div class="wl-header">
+              <div class="wl-avatar">${getInitials(name)}</div>
+              <div class="wl-info">
+                <div class="wl-name" style="cursor:pointer" onclick="openPlayerModal('${name}')">${name}</div>
+                <div class="wl-meta">${p.pos} | ${p.team} | ${p.league}</div>
+              </div>
+              <button class="wl-remove" onclick="removeFromWatchlist('${name.replace(/'/g, "\\'")}')" title="Remove">&times;</button>
+            </div>
+            <div class="wl-stats">
+              <div><span class="wl-stat-val">${p.ppg}</span><span class="wl-stat-lbl">PPG</span></div>
+              <div><span class="wl-stat-val">${p.rpg}</span><span class="wl-stat-lbl">RPG</span></div>
+              <div><span class="wl-stat-val">${p.apg}</span><span class="wl-stat-lbl">APG</span></div>
+            </div>
+            ${p.note ? `<div class="wl-note">${p.note}</div>` : ''}
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+}
+
 // ===== Auto-Refresh =====
 function refreshAllData() {
   renderHBRoster();
@@ -810,6 +1257,13 @@ function refreshAllData() {
   renderSignings();
   renderCapCalculator();
   renderTeamStats();
+  renderPipeline();
+  renderElamAnalytics();
+  renderTargetAnalytics();
+  renderAdvancedStats();
+  populateCompareDropdowns();
+  populateWatchlistDropdown();
+  renderWatchlist();
 
   // Defer click handler attachment to after DOM updates
   requestAnimationFrame(() => addPlayerClickHandlers());
