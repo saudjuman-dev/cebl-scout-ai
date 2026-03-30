@@ -2117,23 +2117,21 @@ footer {
 /* ===== Elam Ending Analytics ===== */
 .elam-overview, .target-overview { margin-bottom: 1.5rem; }
 .elam-stat-row, .target-stat-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 0.75rem;
-  flex-wrap: wrap;
   margin-bottom: 1rem;
 }
 .elam-stat, .target-stat {
-  flex: 1;
-  min-width: 100px;
-  padding: 1rem;
+  padding: 1rem 0.75rem;
   background: var(--dark-2);
   border: 1px solid var(--border);
   border-radius: 10px;
   text-align: center;
 }
 .target-stat.highlight { border-color: var(--gold); background: rgba(212,175,55,0.08); }
-.es-num, .ts-num { font-size: 1.5rem; font-weight: 800; color: var(--text); }
-.es-label, .ts-label { font-size: 0.65rem; color: var(--text-dim); margin-top: 0.25rem; text-transform: uppercase; letter-spacing: 0.5px; }
+.es-num, .ts-num { font-size: 1.4rem; font-weight: 800; color: var(--text); }
+.es-label, .ts-label { font-size: 0.6rem; color: var(--text-dim); margin-top: 0.25rem; text-transform: uppercase; letter-spacing: 0.5px; }
 .elam-explainer, .target-explainer {
   font-size: 0.8rem;
   color: var(--text-dim);
@@ -2143,18 +2141,21 @@ footer {
   border-radius: 8px;
   border-left: 3px solid var(--gold-dark);
 }
+.elam-table { font-size: 0.8rem; }
+.elam-table th, .elam-table td { padding: 0.6rem 0.75rem; white-space: nowrap; }
 
 /* Clutch Grid */
 .clutch-grid, .target-leaders-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   gap: 0.75rem;
 }
 .clutch-card, .target-leader-card {
-  display: flex;
+  display: grid;
+  grid-template-columns: 30px 1fr auto auto;
   align-items: center;
-  gap: 0.6rem;
-  padding: 0.75rem 1rem;
+  gap: 0.75rem;
+  padding: 0.85rem 1rem;
   background: var(--dark-2);
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -2166,11 +2167,9 @@ footer {
   font-size: 1.1rem;
   font-weight: 800;
   color: var(--gold);
-  width: 28px;
   text-align: center;
-  flex-shrink: 0;
 }
-.clutch-info, .tl-info { min-width: 0; flex: 1; }
+.clutch-info, .tl-info { min-width: 0; }
 .clutch-name, .tl-name { font-weight: 600; font-size: 0.85rem; color: var(--text); }
 .clutch-team, .tl-team { font-size: 0.7rem; color: var(--text-dim); }
 .clutch-stats, .tl-stats {
@@ -2182,8 +2181,8 @@ footer {
 .cs-lbl, .tls-lbl { font-size: 0.55rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.3px; }
 .clutch-rating {
   width: 80px;
-  flex-shrink: 0;
   position: relative;
+  padding-top: 16px;
 }
 .cr-bar {
   height: 6px;
@@ -2196,7 +2195,7 @@ footer {
   color: var(--gold);
   position: absolute;
   right: 0;
-  top: -14px;
+  top: 0;
 }
 
 /* Target Insights */
@@ -2441,3 +2440,46 @@ footer {
   .watchlist-grid { grid-template-columns: 1fr; }
   .target-insights-grid { grid-template-columns: 1fr; }
 }
+
+/* ===== DRILL-DOWN EXPANDABLE CARDS ===== */
+
+/* Pipeline player expandable */
+.pt-player { cursor: pointer; position: relative; flex-wrap: wrap; }
+.pt-player::after { content: '▼'; position: absolute; top: 12px; right: 12px; font-size: 0.6rem; color: #555; transition: transform 0.2s; }
+.pt-player.expanded::after { transform: rotate(180deg); }
+.pt-drilldown { display: none; width: 100%; padding: 10px 0 4px 44px; border-top: 1px solid rgba(255,255,255,0.05); margin-top: 8px; }
+.pt-player.expanded .pt-drilldown { display: block; }
+.pt-detail { font-size: 0.78rem; color: #aaa; margin-bottom: 4px; }
+.pt-detail strong { color: #ccc; margin-right: 4px; }
+
+/* Asia / Americas tier stat colors */
+.pipeline-stat.asia-tier .ps-num { color: #E91E63; }
+.pipeline-stat.americas-tier .ps-num { color: #FF6D00; }
+
+/* Clutch card expandable drill-down */
+.clutch-card { cursor: pointer; position: relative; }
+.clutch-card::after { content: '▼'; position: absolute; top: 10px; right: 10px; font-size: 0.55rem; color: #555; transition: transform 0.2s; }
+.clutch-card.expanded::after { transform: rotate(180deg); }
+.clutch-drilldown { display: none; grid-column: 1 / -1; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); margin-top: 8px; }
+.clutch-card.expanded .clutch-drilldown { display: block; }
+
+/* Target leader card expandable */
+.target-leader-card { cursor: pointer; position: relative; }
+.target-leader-card::after { content: '▼'; position: absolute; top: 10px; right: 10px; font-size: 0.55rem; color: #555; transition: transform 0.2s; }
+.target-leader-card.expanded::after { transform: rotate(180deg); }
+.tl-drilldown { display: none; grid-column: 1 / -1; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.06); margin-top: 8px; }
+.target-leader-card.expanded .tl-drilldown { display: block; }
+
+/* Shared drill-down stat row */
+.dd-row { display: flex; gap: 16px; flex-wrap: wrap; }
+.dd-stat { text-align: center; min-width: 60px; }
+.dd-val { display: block; font-size: 0.9rem; font-weight: 700; color: #D4AF37; }
+.dd-lbl { display: block; font-size: 0.65rem; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
+
+/* Elam play type bars */
+.dd-play-types { margin-top: 10px; }
+.dd-pt-label { font-size: 0.7rem; color: #888; text-transform: uppercase; margin-bottom: 6px; }
+.dd-pt-bars { display: flex; flex-direction: column; gap: 4px; }
+.dd-pt-bar { position: relative; height: 18px; background: rgba(255,255,255,0.04); border-radius: 3px; overflow: hidden; }
+.dd-pt-fill { height: 100%; border-radius: 3px; transition: width 0.3s ease; }
+.dd-pt-bar span { position: absolute; top: 1px; left: 8px; font-size: 0.68rem; color: #fff; font-weight: 600; z-index: 1; }

@@ -811,6 +811,8 @@ function renderPipeline() {
   const gleague = canadianPipeline.filter(p => p.tier === 'G League');
   const europeAll = canadianPipeline.filter(p => p.tier.startsWith('Europe'));
   const aus = canadianPipeline.filter(p => p.tier === 'Australia');
+  const asia = canadianPipeline.filter(p => p.tier === 'Asia');
+  const americas = canadianPipeline.filter(p => p.tier === 'Americas');
   const cebl = canadianPipeline.filter(p => p.tier === 'CEBL');
 
   summary.innerHTML = `
@@ -820,6 +822,8 @@ function renderPipeline() {
       <div class="pipeline-stat gleague"><div class="ps-num">${gleague.length}</div><div class="ps-label">G League</div></div>
       <div class="pipeline-stat europe"><div class="ps-num">${europeAll.length}</div><div class="ps-label">Europe</div></div>
       <div class="pipeline-stat aus"><div class="ps-num">${aus.length}</div><div class="ps-label">Australia</div></div>
+      <div class="pipeline-stat asia-tier"><div class="ps-num">${asia.length}</div><div class="ps-label">Asia</div></div>
+      <div class="pipeline-stat americas-tier"><div class="ps-num">${americas.length}</div><div class="ps-label">Americas</div></div>
       <div class="pipeline-stat cebl-tier"><div class="ps-num">${cebl.length}</div><div class="ps-label">CEBL</div></div>
     </div>
   `;
@@ -829,6 +833,8 @@ function renderPipeline() {
     { key: 'G League', label: 'NBA G League', color: '#1D428A', players: gleague },
     { key: 'Europe', label: 'Europe (All Levels)', color: '#2E7D32', players: europeAll },
     { key: 'Australia', label: 'Australia NBL', color: '#FFB81C', players: aus },
+    { key: 'Asia', label: 'Asia (Japan / Korea / Philippines)', color: '#E91E63', players: asia },
+    { key: 'Americas', label: 'Americas (Latin America / Mexico)', color: '#FF6D00', players: americas },
     { key: 'CEBL', label: 'CEBL', color: '#D4AF37', players: cebl }
   ];
 
@@ -840,7 +846,7 @@ function renderPipeline() {
       </div>
       <div class="pt-players">
         ${g.players.map(p => `
-          <div class="pt-player" data-search="${(p.name+' '+p.team+' '+p.league+' '+p.hometown+' '+p.note).toLowerCase()}" data-tier="${p.tier}" data-pos="${p.pos.charAt(0)}">
+          <div class="pt-player" data-search="${(p.name+' '+p.team+' '+p.league+' '+p.hometown+' '+p.note+' '+(p.college||'')).toLowerCase()}" data-tier="${p.tier}" data-pos="${p.pos.charAt(0)}" onclick="this.classList.toggle('expanded')">
             <div class="pt-avatar">${getInitials(p.name)}</div>
             <div class="pt-info">
               <div class="pt-name">${p.name}</div>
@@ -856,6 +862,11 @@ function renderPipeline() {
               <span>${p.apg} APG</span>
             </div>
             <div class="pt-status ${p.status === 'Active' ? 'active' : 'fa'}">${p.status}</div>
+            <div class="pt-drilldown">
+              ${p.college ? `<div class="pt-detail"><strong>College:</strong> ${p.college}</div>` : ''}
+              <div class="pt-detail"><strong>Scouting Note:</strong> ${p.note}</div>
+              <div class="pt-detail"><strong>League:</strong> ${p.league} (${p.country})</div>
+            </div>
           </div>
         `).join('')}
       </div>
@@ -923,7 +934,7 @@ function renderElamAnalytics() {
     <h3 class="section-title">Elam Ending Clutch Leaders</h3>
     <div class="clutch-grid">
       ${clutch.map((p, i) => `
-        <div class="clutch-card ${i < 3 ? 'top-3' : ''}">
+        <div class="clutch-card ${i < 3 ? 'top-3' : ''}" onclick="this.classList.toggle('expanded')">
           <div class="clutch-rank">${i + 1}</div>
           <div class="clutch-info">
             <div class="clutch-name">${p.name}</div>
@@ -937,6 +948,26 @@ function renderElamAnalytics() {
           <div class="clutch-rating">
             <div class="cr-bar" style="width:${p.clutchRating}%"></div>
             <span class="cr-val">${p.clutchRating}</span>
+          </div>
+          <div class="clutch-drilldown">
+            <div class="dd-row">
+              <div class="dd-stat"><span class="dd-val">${p.elamAssists}</span><span class="dd-lbl">Elam AST</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.elamFTA || '-'}</span><span class="dd-lbl">Elam FTA</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.elamFTPct ? p.elamFTPct + '%' : '-'}</span><span class="dd-lbl">Elam FT%</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.elamTov || '-'}</span><span class="dd-lbl">Elam TOV</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.elamPlusMinus || '-'}</span><span class="dd-lbl">+/-</span></div>
+            </div>
+            ${p.playTypes ? `
+            <div class="dd-play-types">
+              <div class="dd-pt-label">Elam Play Type %</div>
+              <div class="dd-pt-bars">
+                <div class="dd-pt-bar"><div class="dd-pt-fill" style="width:${p.playTypes.iso}%;background:#E57373"></div><span>ISO ${p.playTypes.iso}%</span></div>
+                <div class="dd-pt-bar"><div class="dd-pt-fill" style="width:${p.playTypes.pnr}%;background:#64B5F6"></div><span>PnR ${p.playTypes.pnr}%</span></div>
+                <div class="dd-pt-bar"><div class="dd-pt-fill" style="width:${p.playTypes.spot}%;background:#81C784"></div><span>Spot ${p.playTypes.spot}%</span></div>
+                <div class="dd-pt-bar"><div class="dd-pt-fill" style="width:${p.playTypes.transition}%;background:#FFB74D"></div><span>Trans ${p.playTypes.transition}%</span></div>
+              </div>
+            </div>
+            ` : ''}
           </div>
         </div>
       `).join('')}
@@ -1000,7 +1031,7 @@ function renderTargetAnalytics() {
     <h3 class="section-title">Individual Target Shot Leaders</h3>
     <div class="target-leaders-grid">
       ${players.map((p, i) => `
-        <div class="target-leader-card ${i < 3 ? 'top-3' : ''}">
+        <div class="target-leader-card ${i < 3 ? 'top-3' : ''}" onclick="this.classList.toggle('expanded')">
           <div class="tl-rank">${i + 1}</div>
           <div class="tl-info">
             <div class="tl-name">${p.name}</div>
@@ -1010,6 +1041,15 @@ function renderTargetAnalytics() {
             <div class="tl-stat"><span class="tls-val">${p.made}/${p.attempts}</span><span class="tls-lbl">Made/Att</span></div>
             <div class="tl-stat"><span class="tls-val">${p.pct}%</span><span class="tls-lbl">Target %</span></div>
             <div class="tl-stat"><span class="tls-val">${p.expectedPts}</span><span class="tls-lbl">Exp. Pts</span></div>
+          </div>
+          <div class="tl-drilldown">
+            <div class="dd-row">
+              <div class="dd-stat"><span class="dd-val">${p.catchShoot || '-'}%</span><span class="dd-lbl">Catch & Shoot</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.offDribble || '-'}%</span><span class="dd-lbl">Off Dribble</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.contested || '-'}%</span><span class="dd-lbl">Contested</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.open || '-'}%</span><span class="dd-lbl">Open</span></div>
+              <div class="dd-stat"><span class="dd-val">${p.elamTarget || '-'}</span><span class="dd-lbl">Elam Targets</span></div>
+            </div>
           </div>
         </div>
       `).join('')}
