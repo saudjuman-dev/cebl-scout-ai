@@ -1,9 +1,12 @@
 // ===== CEBL Scout - Application Logic =====
 
-// Tab switching with view tracking
+// Tab switching with feature gating
 function switchTab(tabId) {
-  // Track the view for non-admin/non-paid users
-  if (!AUTH.trackView()) return; // paywall shown
+  // Check if this is a premium feature
+  if (!AUTH.canAccessFeature(tabId)) {
+    showFeatureGate(tabId);
+    return;
+  }
 
   document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
@@ -436,6 +439,10 @@ function filterByTeam(team) {
 
 // ===== Player Profile Modal =====
 function openPlayerModal(playerName) {
+  if (!AUTH.canAccessFeature('player-profile')) {
+    showFeatureGate('player-profile');
+    return;
+  }
   const data = playerCareerStats[playerName];
   const modal = document.getElementById('player-modal');
   const content = document.getElementById('player-modal-content');

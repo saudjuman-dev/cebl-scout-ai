@@ -1940,3 +1940,67 @@ footer {
 .sb-btn.delete { color: #e74c3c; border-color: #5a2020; }
 .sb-btn.delete:hover { background: #5a2020; color: #fff; }
 .no-builds { color: var(--text-dim); font-size: 0.85rem; text-align: center; padding: 1.5rem; }
+
+/* ===== PRO Badge & Feature Gate ===== */
+.pro-badge {
+  display: none;
+  font-size: 0.5rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  color: var(--black);
+  margin-left: 0.35rem;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+.feature-gate-card {
+  max-width: 440px;
+  text-align: center;
+}
+.feature-gate-card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+.feature-gate-perks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+  text-align: left;
+}
+.fg-perk {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--dark-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 0.8rem;
+  color: var(--text);
+}
+.fg-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  color: var(--black);
+  font-size: 0.85rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.feature-gate-pricing {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+.feature-gate-pricing .gate-btn {
+  width: 100%;
+}

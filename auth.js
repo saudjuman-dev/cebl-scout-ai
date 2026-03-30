@@ -28,7 +28,7 @@ const AUTH = {
   _ap: _enc('Sc0ut!2026$BHB'),
   get ADMIN_USER() { return _dec(this._ak); },
   get ADMIN_PASS() { return _dec(this._ap); },
-  FREE_VIEWS: 15,
+  PREMIUM_FEATURES: ['cap-tools', 'player-profile', 'medical-history'],
   PRICE_MONTHLY: 14.99,
   PRICE_ANNUAL: 149,
   MAX_DEVICES: 2, // max devices per account
@@ -171,26 +171,15 @@ const AUTH = {
     localStorage.removeItem('hi_session');
   },
 
-  trackView() {
-    const session = this.getSession();
-    if (!session || session.isAdmin || session.isPaid) return true;
-    session.views = (session.views || 0) + 1;
-    this.saveSession(session);
-    // Also persist to user record
-    this.updateUser(session.email, { views: session.views });
-    if (session.views > this.FREE_VIEWS) {
-      showPaywall();
-      return false;
-    }
-    updateViewCounter();
-    return true;
-  },
-
-  canAccess() {
+  isPremium() {
     const session = this.getSession();
     if (!session) return false;
-    if (session.isAdmin || session.isPaid) return true;
-    return (session.views || 0) <= this.FREE_VIEWS;
+    return session.isAdmin || session.isPaid;
+  },
+
+  canAccessFeature(feature) {
+    if (this.isPremium()) return true;
+    return !this.PREMIUM_FEATURES.includes(feature);
   },
 
   markPaid(email) {
@@ -434,6 +423,10 @@ function enterApp(session, isNew) {
 
   updateViewCounter();
 
+  // Show/hide PRO badges on premium tabs
+  const proBadge = document.getElementById('cap-pro-badge');
+  if (proBadge) proBadge.style.display = (session.isAdmin || session.isPaid) ? 'none' : 'inline-block';
+
   setTimeout(() => {
     document.getElementById('loading-screen').classList.add('hidden');
     animateCounters();
@@ -450,13 +443,32 @@ function updateViewCounter() {
   const el = document.getElementById('views-remaining');
   if (!el || !session) return;
   if (session.isAdmin || session.isPaid) {
-    el.textContent = '∞ Unlimited Access';
+    el.textContent = 'PRO — Unlimited Access';
     el.style.color = '#81C784';
   } else {
-    const remaining = Math.max(0, AUTH.FREE_VIEWS - (session.views || 0));
-    el.textContent = remaining + ' / ' + AUTH.FREE_VIEWS + ' free views remaining';
-    el.style.color = remaining <= 3 ? '#EF9A9A' : '#FFD700';
+    el.textContent = 'Free Plan — Upgrade for Pro Tools';
+    el.style.color = '#FFD700';
   }
+}
+
+function showFeatureGate(featureName) {
+  const overlay = document.getElementById('feature-gate-overlay');
+  if (!overlay) return;
+  const nameEl = document.getElementById('gated-feature-name');
+  if (nameEl) {
+    const labels = {
+      'cap-tools': 'Salary Cap Calculator',
+      'player-profile': 'Player Career Profiles',
+      'medical-history': 'Injury & Medical History'
+    };
+    nameEl.textContent = labels[featureName] || featureName;
+  }
+  overlay.classList.add('show');
+}
+
+function closeFeatureGate() {
+  const overlay = document.getElementById('feature-gate-overlay');
+  if (overlay) overlay.classList.remove('show');
 }
 
 function showWelcomeOverlay(session) {
@@ -479,14 +491,22 @@ function closePaywall() {
 
 function openStripeCheckout() {
   window.open(AUTH.STRIPE_LINK, '_blank');
-  document.getElementById('paywall-message').textContent =
-    'Complete your payment in the new tab. Once confirmed, click "I\'ve Paid" below.';
-  document.getElementById('paywall-paid-btn').style.display = 'inline-block';
+  // Update whichever overlay is visible
+  const pwMsg = document.getElementById('paywall-message');
+  const pwBtn = document.getElementById('paywall-paid-btn');
+  const fgMsg = document.getElementById('feature-gate-message');
+  const fgBtn = document.getElementById('feature-gate-paid-btn');
+  const msg = 'Complete your payment in the new tab. Once confirmed, click "I\'ve Paid" below.';
+  if (pwMsg) pwMsg.textContent = msg;
+  if (pwBtn) pwBtn.style.display = 'inline-block';
+  if (fgMsg) fgMsg.textContent = msg;
+  if (fgBtn) fgBtn.style.display = 'inline-block';
 }
 
 function confirmPaid() {
   AUTH.markPaid();
   closePaywall();
+  closeFeatureGate();
   updateViewCounter();
   location.reload();
 }
