@@ -36,12 +36,24 @@ function getInitials(name) {
   return name.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
 }
 
+// Get headshot inner content (img with fallback to initials) for use inside existing avatar divs
+function avatarContent(name) {
+  if (typeof getPlayerHeadshot === 'function') {
+    const url = getPlayerHeadshot(name);
+    if (url) {
+      const initials = getInitials(name);
+      return `<img src="${url}" alt="${name}" class="headshot-img" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" loading="lazy"><span class="headshot-fallback" style="display:none">${initials}</span>`;
+    }
+  }
+  return getInitials(name);
+}
+
 // ===== Render Honey Badgers Roster =====
 function renderHBRoster() {
   const container = document.getElementById('hb-roster');
   container.innerHTML = honeyBadgersRoster.map(p => `
     <div class="roster-card">
-      <div class="roster-avatar">${getInitials(p.name)}</div>
+      <div class="roster-avatar has-headshot">${avatarContent(p.name)}</div>
       <div class="roster-card-info">
         <h4>${p.name}</h4>
         <div class="roster-meta">${p.pos} | ${p.nationality === 'CAN' ? '🇨🇦 Canadian' : p.nationality === 'USA' ? '🇺🇸 Import' : '🌍 Import (' + p.nationality + ')'} | $${p.salary}/game</div>
@@ -82,7 +94,7 @@ function renderScoutTargets() {
   container.innerHTML = scoutTargets.map(t => `
     <div class="scout-card">
       <div class="scout-card-top">
-        <div class="scout-avatar">${getInitials(t.name)}</div>
+        <div class="scout-avatar has-headshot">${avatarContent(t.name)}</div>
         <div>
           <div class="scout-name">${t.name}</div>
           <div class="scout-detail">${t.pos} | ${t.from}</div>
@@ -109,7 +121,7 @@ function mobileCard(avatar, name, sub, stats, tags, note, searchStr, dataAttrs) 
   const attrs = dataAttrs ? Object.entries(dataAttrs).map(([k,v]) => `data-${k}="${v}"`).join(' ') : '';
   return `<div class="mobile-card" data-search="${(searchStr||name+' '+sub+' '+(note||'')).toLowerCase()}" ${attrs}>
     <div class="mobile-card-header">
-      <div class="player-avatar">${avatar}</div>
+      <div class="player-avatar has-headshot">${avatar}</div>
       <div class="mc-info">
         <div class="mc-name">${name}</div>
         <div class="mc-meta">${sub}</div>
@@ -126,7 +138,7 @@ function renderProTable() {
   const tbody = document.getElementById('pro-tbody');
   tbody.innerHTML = canadiansPro.map(p => `
     <tr data-search="${(p.name + ' ' + p.team + ' ' + p.league + ' ' + p.hometown + ' ' + p.note).toLowerCase()}" data-league="${p.league}" data-pos="${p.pos.charAt(0)}" data-fit="${p.fit}">
-      <td><div class="player-cell"><div class="player-avatar">${getInitials(p.name)}</div><div><div class="player-name">${p.name}</div><div style="font-size:0.625rem; color: var(--gray)">${p.hometown}</div></div></div></td>
+      <td><div class="player-cell"><div class="player-avatar has-headshot">${avatarContent(p.name)}</div><div><div class="player-name">${p.name}</div><div style="font-size:0.625rem; color: var(--gray)">${p.hometown}</div></div></div></td>
       <td>${p.pos}</td><td>${p.age}</td><td>${p.ht}</td><td>${p.team}</td><td>${p.league}</td>
       <td><strong>${p.ppg}</strong></td><td>${p.rpg}</td><td>${p.apg}</td>
       <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
@@ -138,7 +150,7 @@ function renderProTable() {
 
   const mc = document.getElementById('pro-mobile-cards');
   if (mc) mc.innerHTML = canadiansPro.map(p => mobileCard(
-    getInitials(p.name), p.name,
+    avatarContent(p.name), p.name,
     `${p.pos} | ${p.ht} | ${p.hometown}`,
     [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
     [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.salary, cls: 'gold'},{text: p.team},{text: '🇨🇦 ' + p.league}].concat(p.agent ? [{text: '🤝 ' + p.agent, cls: 'agent-tag'}] : []),
@@ -153,7 +165,7 @@ function renderNCAA() {
   const tbody = document.getElementById('ncaa-tbody');
   tbody.innerHTML = ncaaCanadians.map(p => `
     <tr data-search="${(p.name + ' ' + p.school + ' ' + p.conf + ' ' + p.hometown + ' ' + p.note).toLowerCase()}" data-pos="${p.pos.charAt(0)}" data-class="${p.classYear}" data-fit="${p.fit}">
-      <td><div class="player-cell"><div class="player-avatar">${getInitials(p.name)}</div><div><div class="player-name">${p.name}</div><div style="font-size:0.625rem; color: var(--gray)">${p.hometown}</div></div></div></td>
+      <td><div class="player-cell"><div class="player-avatar has-headshot">${avatarContent(p.name)}</div><div><div class="player-name">${p.name}</div><div style="font-size:0.625rem; color: var(--gray)">${p.hometown}</div></div></div></td>
       <td>${p.pos}</td><td>${p.ht}</td><td><strong>${p.school}</strong></td><td>${p.conf}</td><td>${p.classYear}</td><td>${p.hometown}</td>
       <td><strong>${p.ppg}</strong></td><td>${p.rpg}</td><td>${p.apg}</td>
       <td><span class="fit-badge fit-${p.fit.toLowerCase()}">${p.fit}</span></td>
@@ -163,7 +175,7 @@ function renderNCAA() {
 
   const mc = document.getElementById('ncaa-mobile-cards');
   if (mc) mc.innerHTML = ncaaCanadians.map(p => mobileCard(
-    getInitials(p.name), p.name,
+    avatarContent(p.name), p.name,
     `${p.pos} | ${p.ht} | ${p.classYear}`,
     [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
     [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.school},{text: p.conf},{text: '🇨🇦 ' + p.hometown}],
@@ -176,7 +188,7 @@ function renderImports() {
   const tbody = document.getElementById('import-tbody');
   tbody.innerHTML = importTargets.map(p => `
     <tr data-search="${(p.name + ' ' + (p.nationality||'') + ' ' + p.team + ' ' + p.league + ' ' + p.note).toLowerCase()}" data-nat="${p.nationality}" data-pos="${p.pos.charAt(0)}" data-fit="${p.fit}">
-      <td><div class="player-cell"><div class="player-avatar">${getInitials(p.name)}</div><div class="player-name">${p.name}</div></div></td>
+      <td><div class="player-cell"><div class="player-avatar has-headshot">${avatarContent(p.name)}</div><div class="player-name">${p.name}</div></div></td>
       <td>${p.nationality === 'USA' ? '🇺🇸 USA' : p.nationality === 'CAN/FRA' ? '🇨🇦🇫🇷 CAN/FRA' : p.nationality === 'NZL' ? '🇳🇿 NZL' : p.nationality === 'BRB' ? '🇧🇧 BRB' : '🌍 ' + p.nationality}</td>
       <td>${p.pos}</td><td>${p.age || '-'}</td><td>${p.ht || '-'}</td><td>${p.team}</td><td>${p.league}</td>
       <td><strong>${p.ppg}</strong></td><td>${p.rpg}</td><td>${p.apg}</td>
@@ -191,7 +203,7 @@ function renderImports() {
   if (mc) mc.innerHTML = importTargets.map(p => {
     const flag = p.nationality === 'USA' ? '🇺🇸' : p.nationality === 'NZL' ? '🇳🇿' : p.nationality === 'AUS' ? '🇦🇺' : p.nationality === 'BRB' ? '🇧🇧' : '🌍';
     return mobileCard(
-      getInitials(p.name), p.name,
+      avatarContent(p.name), p.name,
       `${flag} ${p.nationality} | ${p.pos} | ${p.ht || ''}`,
       [{v:p.ppg,l:'PPG'},{v:p.rpg,l:'RPG'},{v:p.apg,l:'APG'}],
       [{text: p.fit + ' Fit', cls: 'fit-' + p.fit.toLowerCase()},{text: p.salary, cls: 'gold'},{text: p.team},{text: p.league}].concat(p.agent ? [{text: '🤝 ' + p.agent, cls: 'agent-tag'}] : []),
@@ -213,7 +225,7 @@ function renderSignings() {
       <div class="signing-players">
         ${data.players.map(p => `
           <div class="signing-player">
-            <div class="sp-avatar">${getInitials(p.name)}</div>
+            <div class="sp-avatar has-headshot">${avatarContent(p.name)}</div>
             <div class="sp-info">
               <div class="sp-name">${p.name}</div>
               <div class="sp-meta">${p.pos} | ${p.detail}</div>
@@ -847,7 +859,7 @@ function renderPipeline() {
       <div class="pt-players">
         ${g.players.map(p => `
           <div class="pt-player" data-search="${(p.name+' '+p.team+' '+p.league+' '+p.hometown+' '+p.note+' '+(p.college||'')).toLowerCase()}" data-tier="${p.tier}" data-pos="${p.pos.charAt(0)}" onclick="this.classList.toggle('expanded')">
-            <div class="pt-avatar">${getInitials(p.name)}</div>
+            <div class="pt-avatar has-headshot">${avatarContent(p.name)}</div>
             <div class="pt-info">
               <div class="pt-name">${p.name}</div>
               <div class="pt-meta">${p.pos} | ${p.age} | ${p.ht} | ${p.hometown}</div>
@@ -1267,7 +1279,7 @@ function renderWatchlist() {
         return `
           <div class="watchlist-card">
             <div class="wl-header">
-              <div class="wl-avatar">${getInitials(name)}</div>
+              <div class="wl-avatar has-headshot">${avatarContent(name)}</div>
               <div class="wl-info">
                 <div class="wl-name" style="cursor:pointer" onclick="openPlayerModal('${name}')">${name}</div>
                 <div class="wl-meta">${p.pos} | ${p.team} | ${p.league}</div>
