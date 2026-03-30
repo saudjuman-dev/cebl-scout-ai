@@ -5,7 +5,8 @@
       "name": "cebl-scout",
       "runtimeExecutable": "/usr/bin/python3",
       "runtimeArgs": ["-m", "http.server", "3456"],
-      "port": 3456
+      "port": 3456,
+      "cwd": "/Users/saudjuman/cebl-scout-tool"
     }
   ]
 }

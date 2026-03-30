@@ -1449,3 +1449,441 @@ footer {
   .ob-teams { grid-template-columns: 1fr; }
   .ob-team { font-size: 0.65rem; }
 }
+
+/* ===== Live Update Indicator ===== */
+.live-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(76, 175, 80, 0.1);
+  border: 1px solid rgba(76, 175, 80, 0.3);
+  border-radius: var(--radius-sm);
+  padding: 0.4rem 0.75rem;
+  cursor: default;
+}
+.live-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #4CAF50;
+  animation: livePulse 2s ease-in-out infinite;
+  box-shadow: 0 0 6px rgba(76, 175, 80, 0.5);
+}
+@keyframes livePulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 6px rgba(76,175,80,0.5); }
+  50% { opacity: 0.4; box-shadow: 0 0 2px rgba(76,175,80,0.2); }
+}
+.live-text {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #4CAF50;
+}
+.live-indicator.checking .live-dot { background: var(--gold); box-shadow: 0 0 6px var(--gold-glow); animation: none; }
+.live-indicator.checking .live-text { color: var(--gold); }
+.live-indicator.error .live-dot { background: var(--red); box-shadow: 0 0 6px rgba(229,57,53,0.5); animation: none; }
+.live-indicator.error .live-text { color: var(--red); }
+.live-last-update {
+  font-size: 0.55rem;
+  color: var(--gray);
+  margin-left: 0.25rem;
+}
+
+/* ===== Player Profile Modal ===== */
+.player-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9500;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+.player-modal-overlay.show {
+  opacity: 1;
+  visibility: visible;
+}
+.player-modal {
+  background: var(--dark);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius);
+  width: 95%;
+  max-width: 1000px;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  padding: 2rem;
+  animation: modalSlide 0.3s ease;
+}
+@keyframes modalSlide {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.player-modal-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: var(--dark-3);
+  border: 1px solid var(--dark-4);
+  color: var(--white);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 1.25rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+  z-index: 10;
+}
+.player-modal-close:hover { background: var(--red); border-color: var(--red); }
+
+/* Player Profile Header */
+.pm-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--dark-3);
+}
+.pm-avatar {
+  width: 80px;
+  height: 80px;
+  min-width: 80px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--black);
+}
+.pm-info h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.75rem;
+  letter-spacing: 1px;
+  margin-bottom: 0.25rem;
+}
+.pm-bio-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+.pm-bio-item {
+  font-size: 0.75rem;
+  color: var(--gray);
+}
+.pm-bio-item strong {
+  color: var(--white);
+}
+.pm-bio-item .pm-val {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+/* Tab Switcher inside modal */
+.pm-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--dark-3);
+}
+.pm-tab {
+  padding: 0.75rem 1.25rem;
+  background: none;
+  border: none;
+  color: var(--gray);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: var(--transition);
+}
+.pm-tab:hover { color: var(--white); }
+.pm-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+.pm-tab-content { display: none; }
+.pm-tab-content.active { display: block; }
+
+/* Career Stats Table */
+.career-table-wrap {
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+.career-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.75rem;
+}
+.career-table th {
+  background: var(--dark-2);
+  color: var(--gray);
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.6rem 0.5rem;
+  text-align: center;
+  white-space: nowrap;
+  border-bottom: 2px solid var(--dark-4);
+  position: sticky;
+  top: 0;
+}
+.career-table td {
+  padding: 0.5rem 0.5rem;
+  text-align: center;
+  border-bottom: 1px solid var(--dark-3);
+  white-space: nowrap;
+}
+.career-table tr:hover {
+  background: var(--dark-2);
+}
+.career-table .season-col { text-align: left; font-weight: 600; color: var(--gold); }
+.career-table .team-col { text-align: left; }
+.career-table .league-col { font-size: 0.65rem; color: var(--gray); }
+.career-table .highlight-stat { color: var(--gold); font-weight: 700; }
+.career-table .career-avg-row {
+  background: var(--dark-2);
+  font-weight: 700;
+  border-top: 2px solid var(--gold-dark);
+}
+.career-table .career-avg-row td { color: var(--gold); }
+.career-table .nba-row { background: rgba(66, 165, 245, 0.05); }
+.career-table .cebl-row { background: rgba(212, 175, 55, 0.05); }
+
+/* Medical History */
+.medical-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.medical-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+  background: var(--dark-2);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--gray);
+}
+.medical-entry.severity-minor { border-left-color: #81C784; }
+.medical-entry.severity-moderate { border-left-color: #FFB74D; }
+.medical-entry.severity-major { border-left-color: #E57373; }
+.medical-date {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.8rem;
+  color: var(--gold);
+  min-width: 80px;
+}
+.medical-details h4 {
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+}
+.medical-details p {
+  font-size: 0.7rem;
+  color: var(--gray);
+}
+.medical-severity {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.medical-severity.minor { background: rgba(129,199,132,0.2); color: #81C784; }
+.medical-severity.moderate { background: rgba(255,183,77,0.2); color: #FFB74D; }
+.medical-severity.major { background: rgba(229,115,115,0.2); color: #E57373; }
+.medical-games-out {
+  font-size: 0.7rem;
+  color: var(--gray-light);
+  margin-top: 0.25rem;
+}
+.no-medical {
+  text-align: center;
+  padding: 2rem;
+  color: var(--gray);
+  font-size: 0.85rem;
+}
+
+/* ===== Team Stats Page ===== */
+.team-stats-standings {
+  overflow-x: auto;
+  margin-bottom: 2rem;
+}
+.standings-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+}
+.standings-table th {
+  background: var(--dark-2);
+  color: var(--gray);
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.75rem 0.75rem;
+  text-align: center;
+  border-bottom: 2px solid var(--dark-4);
+}
+.standings-table th:first-child { text-align: left; }
+.standings-table td {
+  padding: 0.65rem 0.75rem;
+  text-align: center;
+  border-bottom: 1px solid var(--dark-3);
+}
+.standings-table td:first-child { text-align: left; }
+.standings-table tr:hover { background: var(--dark-2); }
+.standings-table .team-name-cell {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.standings-table .team-dot-lg {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  min-width: 12px;
+}
+.standings-table .team-name-text {
+  font-weight: 600;
+  color: var(--white);
+}
+.standings-table .win-col { color: #81C784; font-weight: 600; }
+.standings-table .loss-col { color: #E57373; }
+.standings-table .pct-col { color: var(--gold); font-weight: 700; }
+.standings-table .leader-cell { font-size: 0.7rem; color: var(--gray-light); text-align: left; }
+.standings-table .best-stat { color: var(--gold); font-weight: 700; }
+
+.team-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+}
+.team-stat-card {
+  background: var(--dark-2);
+  border: 1px solid var(--dark-3);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  transition: var(--transition);
+  border-top: 3px solid var(--gray);
+}
+.team-stat-card:hover { border-color: var(--dark-4); transform: translateY(-2px); }
+.tsc-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+.tsc-emoji { font-size: 1.5rem; }
+.tsc-name {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+.tsc-record {
+  margin-left: auto;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.1rem;
+  color: var(--gold);
+}
+.tsc-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.tsc-stat {
+  text-align: center;
+  padding: 0.5rem 0.25rem;
+  background: var(--dark-3);
+  border-radius: var(--radius-sm);
+}
+.tsc-stat-val {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--white);
+}
+.tsc-stat-lbl {
+  font-size: 0.55rem;
+  color: var(--gray);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.tsc-leaders {
+  border-top: 1px solid var(--dark-3);
+  padding-top: 0.75rem;
+}
+.tsc-leader-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  padding: 0.2rem 0;
+}
+.tsc-leader-label { color: var(--gray); }
+.tsc-leader-val { color: var(--gold); font-weight: 600; }
+
+/* Clickable player rows */
+.data-table tbody tr[data-clickable],
+.mobile-card[data-clickable],
+.roster-card[data-clickable] {
+  cursor: pointer;
+}
+.data-table tbody tr[data-clickable]:hover {
+  background: var(--dark-2) !important;
+  outline: 1px solid var(--gold-dark);
+}
+.mobile-card[data-clickable]:hover,
+.roster-card[data-clickable]:hover {
+  border-color: var(--gold-dark);
+  transform: translateY(-1px);
+}
+.player-name.has-profile {
+  color: var(--gold);
+  text-decoration: underline;
+  text-decoration-color: rgba(212,175,55,0.3);
+  text-underline-offset: 2px;
+}
+
+/* No profile available message */
+.no-profile {
+  text-align: center;
+  padding: 3rem 2rem;
+}
+.no-profile h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+.no-profile p {
+  color: var(--gray);
+  font-size: 0.85rem;
+}
+
+@media (max-width: 768px) {
+  .player-modal { padding: 1.25rem; width: 98%; }
+  .pm-header { flex-direction: column; align-items: center; text-align: center; }
+  .pm-bio-row { justify-content: center; }
+  .pm-avatar { width: 60px; height: 60px; font-size: 1.25rem; }
+  .pm-info h2 { font-size: 1.25rem; }
+  .career-table { font-size: 0.65rem; }
+  .career-table th, .career-table td { padding: 0.4rem 0.3rem; }
+  .tsc-stats { grid-template-columns: repeat(2, 1fr); }
+  .team-stats-grid { grid-template-columns: 1fr; }
+  .live-indicator { padding: 0.3rem 0.5rem; }
+  .live-text { font-size: 0.6rem; letter-spacing: 1px; }
+}

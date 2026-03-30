@@ -334,6 +334,365 @@ function filterByTeam(team) {
   filterTable('sign');
 }
 
+// ===== Player Profile Modal =====
+function openPlayerModal(playerName) {
+  const data = playerCareerStats[playerName];
+  const modal = document.getElementById('player-modal');
+  const content = document.getElementById('player-modal-content');
+
+  if (!data) {
+    content.innerHTML = `
+      <div class="no-profile">
+        <h3>${playerName}</h3>
+        <p>Full career profile coming soon. Check back as we continue to expand our database.</p>
+      </div>`;
+    modal.classList.add('show');
+    document.body.style.overflow = 'hidden';
+    return;
+  }
+
+  const bio = data.bio;
+  const stats = data.careerStats;
+  const medical = data.medicalHistory || [];
+
+  // Calculate career averages
+  const totalGP = stats.reduce((s, r) => s + r.gp, 0);
+  const avgPPG = (stats.reduce((s, r) => s + r.ppg * r.gp, 0) / totalGP).toFixed(1);
+  const avgRPG = (stats.reduce((s, r) => s + r.rpg * r.gp, 0) / totalGP).toFixed(1);
+  const avgAPG = (stats.reduce((s, r) => s + r.apg * r.gp, 0) / totalGP).toFixed(1);
+  const avgSPG = (stats.reduce((s, r) => s + r.spg * r.gp, 0) / totalGP).toFixed(1);
+
+  const initials = playerName.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
+
+  content.innerHTML = `
+    <div class="pm-header">
+      <div class="pm-avatar">${initials}</div>
+      <div class="pm-info">
+        <h2>${playerName}</h2>
+        <div class="pm-bio-row">
+          <span class="pm-bio-item"><strong>Position:</strong> <span class="pm-val">${bio.position}</span></span>
+          <span class="pm-bio-item"><strong>Height:</strong> <span class="pm-val">${bio.height}</span></span>
+          ${bio.weight ? `<span class="pm-bio-item"><strong>Weight:</strong> <span class="pm-val">${bio.weight}</span></span>` : ''}
+          <span class="pm-bio-item"><strong>Age:</strong> <span class="pm-val">${bio.age}</span></span>
+          <span class="pm-bio-item"><strong>Hometown:</strong> <span class="pm-val">${bio.hometown}</span></span>
+        </div>
+        <div class="pm-bio-row" style="margin-top:0.5rem">
+          ${bio.draft ? `<span class="pm-bio-item"><strong>Draft:</strong> <span class="pm-val">${bio.draft}</span></span>` : ''}
+          ${bio.college ? `<span class="pm-bio-item"><strong>College:</strong> <span class="pm-val">${bio.college}</span></span>` : ''}
+        </div>
+      </div>
+    </div>
+
+    <div class="pm-tabs">
+      <button class="pm-tab active" onclick="switchProfileTab(this, 'career')">Career Stats</button>
+      <button class="pm-tab" onclick="switchProfileTab(this, 'shooting')">Shooting</button>
+      <button class="pm-tab" onclick="switchProfileTab(this, 'medical')">Medical History</button>
+    </div>
+
+    <div id="pm-career" class="pm-tab-content active">
+      <div class="career-table-wrap">
+        <table class="career-table">
+          <thead>
+            <tr>
+              <th>Season</th><th>Age</th><th>League</th><th>Team</th><th>GP</th><th>GS</th><th>MPG</th>
+              <th>PPG</th><th>RPG</th><th>APG</th><th>SPG</th><th>BPG</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${stats.map(r => {
+              const rowClass = r.league === 'NBA' ? 'nba-row' : r.league === 'CEBL' ? 'cebl-row' : '';
+              return `<tr class="${rowClass}">
+                <td class="season-col">${r.season}</td>
+                <td>${r.age}</td>
+                <td class="league-col">${r.league}</td>
+                <td class="team-col">${r.team}</td>
+                <td>${r.gp}</td>
+                <td>${r.gs}</td>
+                <td>${r.mpg}</td>
+                <td class="highlight-stat">${r.ppg}</td>
+                <td>${r.rpg}</td>
+                <td>${r.apg}</td>
+                <td>${r.spg}</td>
+                <td>${r.bpg}</td>
+              </tr>`;
+            }).join('')}
+            <tr class="career-avg-row">
+              <td class="season-col">Career</td>
+              <td></td><td></td><td></td>
+              <td>${totalGP}</td><td></td><td></td>
+              <td>${avgPPG}</td><td>${avgRPG}</td><td>${avgAPG}</td><td>${avgSPG}</td><td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="pm-shooting" class="pm-tab-content">
+      <div class="career-table-wrap">
+        <table class="career-table">
+          <thead>
+            <tr>
+              <th>Season</th><th>League</th><th>Team</th><th>GP</th>
+              <th>FG%</th><th>3P%</th><th>FT%</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${stats.map(r => {
+              const rowClass = r.league === 'NBA' ? 'nba-row' : r.league === 'CEBL' ? 'cebl-row' : '';
+              return `<tr class="${rowClass}">
+                <td class="season-col">${r.season}</td>
+                <td class="league-col">${r.league}</td>
+                <td class="team-col">${r.team}</td>
+                <td>${r.gp}</td>
+                <td class="highlight-stat">${r.fgPct != null ? r.fgPct + '%' : '-'}</td>
+                <td>${r.threePct != null ? r.threePct + '%' : '-'}</td>
+                <td>${r.ftPct != null ? r.ftPct + '%' : '-'}</td>
+              </tr>`;
+            }).join('')}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="pm-medical" class="pm-tab-content">
+      ${medical.length > 0 ? `
+        <div class="medical-timeline">
+          ${medical.map(m => `
+            <div class="medical-entry severity-${m.severity.toLowerCase()}">
+              <div class="medical-date">${m.date}</div>
+              <div class="medical-details">
+                <h4>${m.injury} <span class="medical-severity ${m.severity.toLowerCase()}">${m.severity}</span></h4>
+                <div class="medical-games-out">Games missed: <strong>${m.gamesOut}</strong></div>
+                <p>${m.note}</p>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      ` : `<div class="no-medical">No recorded injuries. Clean medical history.</div>`}
+    </div>
+  `;
+
+  modal.classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+
+function closePlayerModal() {
+  document.getElementById('player-modal').classList.remove('show');
+  document.body.style.overflow = '';
+}
+
+function switchProfileTab(btn, tabId) {
+  btn.closest('.pm-tabs').querySelectorAll('.pm-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  btn.closest('.player-modal').querySelectorAll('.pm-tab-content').forEach(c => c.classList.remove('active'));
+  document.getElementById('pm-' + tabId).classList.add('active');
+}
+
+// Close modal on Escape key
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closePlayerModal();
+});
+
+// ===== Render Team Stats =====
+function renderTeamStats() {
+  if (typeof teamStats2025 === 'undefined') return;
+
+  const teams = Object.entries(teamStats2025).sort((a, b) => b[1].record.pct - a[1].record.pct);
+
+  // Find league bests for highlighting
+  const allStats = teams.map(([, t]) => t.stats);
+  const bestPPG = Math.max(...allStats.map(s => s.ppg));
+  const bestFG = Math.max(...allStats.map(s => s.fgPct));
+  const best3P = Math.max(...allStats.map(s => s.threePct));
+  const bestRPG = Math.max(...allStats.map(s => s.rpg));
+
+  // Standings table
+  const standingsEl = document.getElementById('team-standings');
+  if (standingsEl) {
+    standingsEl.innerHTML = `
+      <table class="standings-table">
+        <thead>
+          <tr>
+            <th style="min-width:200px">Team</th><th>W</th><th>L</th><th>PCT</th>
+            <th>PPG</th><th>OPP PPG</th><th>DIFF</th><th>RPG</th><th>APG</th>
+            <th>FG%</th><th>3P%</th><th>FT%</th>
+            <th style="min-width:150px">Scoring Leader</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${teams.map(([name, t], i) => {
+            const diff = (t.stats.ppg - t.stats.oppPpg).toFixed(1);
+            const diffColor = diff > 0 ? '#81C784' : '#E57373';
+            const emoji = Object.values(leagueSignings).find((_, idx) => Object.keys(leagueSignings)[idx] === name)?.emoji || '';
+            return `<tr>
+              <td><div class="team-name-cell"><span class="team-dot-lg" style="background:${t.color}"></span><strong style="color:${t.color}">${i + 1}.</strong> <span class="team-name-text">${name}</span></div></td>
+              <td class="win-col">${t.record.wins}</td>
+              <td class="loss-col">${t.record.losses}</td>
+              <td class="pct-col">${t.record.pct.toFixed(3)}</td>
+              <td class="${t.stats.ppg === bestPPG ? 'best-stat' : ''}">${t.stats.ppg}</td>
+              <td>${t.stats.oppPpg}</td>
+              <td style="color:${diffColor};font-weight:600">${diff > 0 ? '+' : ''}${diff}</td>
+              <td class="${t.stats.rpg === bestRPG ? 'best-stat' : ''}">${t.stats.rpg}</td>
+              <td>${t.stats.apg}</td>
+              <td class="${t.stats.fgPct === bestFG ? 'best-stat' : ''}">${t.stats.fgPct}%</td>
+              <td class="${t.stats.threePct === best3P ? 'best-stat' : ''}">${t.stats.threePct}%</td>
+              <td>${t.stats.ftPct}%</td>
+              <td class="leader-cell">${t.leaders.points}</td>
+            </tr>`;
+          }).join('')}
+        </tbody>
+      </table>
+    `;
+  }
+
+  // Team cards grid
+  const gridEl = document.getElementById('team-stats-grid');
+  if (gridEl) {
+    gridEl.innerHTML = teams.map(([name, t]) => {
+      const emoji = leagueSignings[name]?.emoji || '';
+      return `
+        <div class="team-stat-card" style="border-top-color:${t.color}">
+          <div class="tsc-header">
+            <span class="tsc-emoji">${emoji}</span>
+            <span class="tsc-name" style="color:${t.color}">${name}</span>
+            <span class="tsc-record">${t.record.wins}-${t.record.losses}</span>
+          </div>
+          <div class="tsc-stats">
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.ppg}</div><div class="tsc-stat-lbl">PPG</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.rpg}</div><div class="tsc-stat-lbl">RPG</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.apg}</div><div class="tsc-stat-lbl">APG</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.fgPct}%</div><div class="tsc-stat-lbl">FG%</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.threePct}%</div><div class="tsc-stat-lbl">3PT%</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.spg}</div><div class="tsc-stat-lbl">SPG</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.bpg}</div><div class="tsc-stat-lbl">BPG</div></div>
+            <div class="tsc-stat"><div class="tsc-stat-val">${t.stats.topg}</div><div class="tsc-stat-lbl">TOPG</div></div>
+          </div>
+          <div class="tsc-leaders">
+            <div class="tsc-leader-row"><span class="tsc-leader-label">Points Leader</span><span class="tsc-leader-val">${t.leaders.points}</span></div>
+            <div class="tsc-leader-row"><span class="tsc-leader-label">Rebounds Leader</span><span class="tsc-leader-val">${t.leaders.rebounds}</span></div>
+            <div class="tsc-leader-row"><span class="tsc-leader-label">Assists Leader</span><span class="tsc-leader-val">${t.leaders.assists}</span></div>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+}
+
+// ===== Enhanced Live Update System =====
+let lastUpdateTime = Date.now();
+let updateCheckCount = 0;
+
+function setLiveStatus(status) {
+  const indicator = document.getElementById('live-indicator');
+  if (!indicator) return;
+  indicator.className = 'live-indicator' + (status !== 'live' ? ' ' + status : '');
+  const text = indicator.querySelector('.live-text');
+  if (status === 'checking') text.textContent = 'SYNCING...';
+  else if (status === 'error') text.textContent = 'OFFLINE';
+  else text.textContent = 'LIVE';
+}
+
+function checkForUpdates() {
+  setLiveStatus('checking');
+  updateCheckCount++;
+
+  const script = document.createElement('script');
+  script.src = 'data.js?v=' + Date.now();
+  script.onload = () => {
+    refreshAllData();
+    lastUpdateTime = Date.now();
+    setLiveStatus('live');
+  };
+  script.onerror = () => {
+    setLiveStatus('error');
+    setTimeout(() => setLiveStatus('live'), 5000);
+  };
+  document.head.appendChild(script);
+
+  // Also reload career data
+  const careerScript = document.createElement('script');
+  careerScript.src = 'career-data.js?v=' + Date.now();
+  document.head.appendChild(careerScript);
+}
+
+// ===== Make Player Names Clickable =====
+function addPlayerClickHandlers() {
+  // Check which players have career data
+  const hasProfile = (name) => typeof playerCareerStats !== 'undefined' && playerCareerStats[name];
+
+  // Pro table rows
+  document.querySelectorAll('#pro-tbody tr').forEach(tr => {
+    const nameEl = tr.querySelector('.player-name');
+    if (nameEl) {
+      const name = nameEl.textContent.trim();
+      tr.setAttribute('data-clickable', 'true');
+      tr.onclick = () => openPlayerModal(name);
+      if (hasProfile(name)) nameEl.classList.add('has-profile');
+    }
+  });
+
+  // NCAA table rows
+  document.querySelectorAll('#ncaa-tbody tr').forEach(tr => {
+    const nameEl = tr.querySelector('.player-name');
+    if (nameEl) {
+      const name = nameEl.textContent.trim();
+      tr.setAttribute('data-clickable', 'true');
+      tr.onclick = () => openPlayerModal(name);
+      if (hasProfile(name)) nameEl.classList.add('has-profile');
+    }
+  });
+
+  // Import table rows
+  document.querySelectorAll('#import-tbody tr').forEach(tr => {
+    const nameEl = tr.querySelector('.player-name');
+    if (nameEl) {
+      const name = nameEl.textContent.trim();
+      tr.setAttribute('data-clickable', 'true');
+      tr.onclick = () => openPlayerModal(name);
+      if (hasProfile(name)) nameEl.classList.add('has-profile');
+    }
+  });
+
+  // Mobile cards
+  document.querySelectorAll('.mobile-card .mc-name').forEach(el => {
+    const name = el.textContent.trim();
+    const card = el.closest('.mobile-card');
+    if (card) {
+      card.setAttribute('data-clickable', 'true');
+      card.onclick = () => openPlayerModal(name);
+    }
+  });
+
+  // Roster cards
+  document.querySelectorAll('.roster-card h4').forEach(el => {
+    const name = el.textContent.trim();
+    const card = el.closest('.roster-card');
+    if (card) {
+      card.setAttribute('data-clickable', 'true');
+      card.onclick = () => openPlayerModal(name);
+    }
+  });
+
+  // Scout target cards
+  document.querySelectorAll('.scout-name').forEach(el => {
+    const name = el.textContent.trim();
+    const card = el.closest('.scout-card');
+    if (card) {
+      card.style.cursor = 'pointer';
+      card.onclick = () => openPlayerModal(name);
+    }
+  });
+
+  // Signing player names
+  document.querySelectorAll('.sp-name').forEach(el => {
+    const name = el.textContent.trim();
+    el.style.cursor = 'pointer';
+    el.style.textDecoration = 'underline';
+    el.style.textDecorationColor = 'rgba(212,175,55,0.3)';
+    el.onclick = (e) => { e.stopPropagation(); openPlayerModal(name); };
+  });
+}
+
 // ===== Auto-Refresh =====
 function refreshAllData() {
   renderHBRoster();
@@ -343,17 +702,17 @@ function refreshAllData() {
   renderImports();
   renderSignings();
   renderCapCalculator();
-}
+  renderTeamStats();
 
-function checkForUpdates() {
-  const script = document.createElement('script');
-  script.src = 'data.js?v=' + Date.now();
-  script.onload = () => { refreshAllData(); };
-  document.head.appendChild(script);
+  // Defer click handler attachment to after DOM updates
+  requestAnimationFrame(() => addPlayerClickHandlers());
 }
 
 // ===== Initialize =====
 document.addEventListener('DOMContentLoaded', () => {
   refreshAllData();
-  setInterval(checkForUpdates, 5 * 60 * 1000);
+  // Check for updates every 2 minutes (enhanced live checks)
+  setInterval(checkForUpdates, 2 * 60 * 1000);
+  // Initial status
+  setLiveStatus('live');
 });
