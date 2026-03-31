@@ -31,7 +31,7 @@ const canadianPipeline = [
   { name: "Ryan Nembhard", pos: "G", age: 22, ht: "6'1\"", hometown: "Aurora, ON", team: "Indiana Mad Ants", league: "G League", country: "USA", tier: "G League", ppg: 8.5, rpg: 2.0, apg: 4.5, status: "Active", note: "Andrew's brother. Pacers draft pick.", college: "Creighton" },
   { name: "Josh Primo", pos: "G", age: 22, ht: "6'5\"", hometown: "Toronto, ON", team: "Free Agent", league: "G League", country: "USA", tier: "G League", ppg: 10.0, rpg: 2.5, apg: 2.5, status: "Free Agent", note: "Former Spurs lottery pick.", college: "Alabama" },
   { name: "AJ Lawson", pos: "G", age: 24, ht: "6'6\"", hometown: "Toronto, ON", team: "G League", league: "G League", country: "USA", tier: "G League", ppg: 13.5, rpg: 3.5, apg: 1.5, status: "Active", note: "Athletic scorer. Former Timberwolves.", college: "South Carolina" },
-  { name: "Keon Ambrose-Hylton", pos: "F", age: 24, ht: "6'8\"", hometown: "Toronto, ON", team: "Brampton (CEBL) / G League", league: "G League", country: "Canada", tier: "G League", ppg: 8.0, rpg: 5.0, apg: 1.0, status: "Active", note: "CEBL All-Canadian. Splitting time.", college: "Auburn" },
+  { name: "Keon Ambrose-Hylton", pos: "F", age: 24, ht: "6'8\"", hometown: "Toronto, ON", team: "Brampton Honey Badgers", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 13.7, rpg: 8.1, apg: 1.2, status: "Active", note: "2025 CEBL All-Canadian (Edmonton). Signed Brampton 2026. 64.5 FG%.", college: "Alabama" },
 
   // ==================== EUROPE - EUROLEAGUE / TOP TIER ====================
   { name: "Chris Boucher", pos: "C", age: 33, ht: "6'9\"", hometown: "Montreal, QC", team: "Free Agent", league: "NBA", country: "USA", tier: "NBA", ppg: 2.3, rpg: 2.0, apg: 0.3, status: "Free Agent", note: "2025 EuroLeague champ (Fenerbahce). Celtics Aug 2025, traded to Jazz Feb 2026, waived.", college: "Oregon" },
@@ -93,9 +93,9 @@ const canadianPipeline = [
   { name: "Kalif Young", pos: "C", age: 28, ht: "6'8\"", hometown: "Toronto, ON", team: "Scarborough Shooting Stars", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 9.5, rpg: 7.0, apg: 1.0, status: "Active", note: "Multi-year Scarborough big.", college: "Robert Morris" },
   { name: "Shamiel Stevenson", pos: "G/F", age: 26, ht: "6'5\"", hometown: "Toronto, ON", team: "Brampton Honey Badgers", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 12.0, rpg: 4.5, apg: 1.5, status: "Active", note: "Physical wing. Toronto native.", college: "Pittsburgh / Nevada" },
   { name: "Duane Notice", pos: "G", age: 30, ht: "6'1\"", hometown: "Ajax, ON", team: "Vancouver Bandits", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 8.5, rpg: 2.5, apg: 4.0, status: "Active", note: "Syracuse product. CEBL playmaker.", college: "Syracuse" },
-  { name: "Fardaws Aimaq", pos: "C", age: 25, ht: "6'11\"", hometown: "Vancouver, BC", team: "Niagara River Lions", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 11.0, rpg: 10.5, apg: 1.0, status: "Active", note: "NCAA rebounding leader. Elite rebounder.", college: "Utah Valley / Texas Tech" },
+  { name: "Fardaws Aimaq", pos: "C", age: 27, ht: "6'11\"", hometown: "Vancouver, BC", team: "Lietkabelis Panevėžys", league: "Lithuania LKL / EuroCup", country: "Lithuania", tier: "Europe-Mid", ppg: 10.6, rpg: 7.8, apg: 1.3, status: "Active", note: "2025 Canada AmeriCup. Former NCAA star. Lithuania LKL.", college: "Utah Valley / Texas Tech" },
   { name: "Adika Peter-McNeilly", pos: "G", age: 30, ht: "6'3\"", hometown: "Toronto, ON", team: "Edmonton Stingers", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 10.0, rpg: 3.0, apg: 3.0, status: "Active", note: "6th Man of Year 2021.", college: "Stony Brook" },
-  { name: "Cody John", pos: "G", age: 28, ht: "6'4\"", hometown: "Toronto, ON", team: "Saskatchewan Mamba", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 9.0, rpg: 3.0, apg: 2.5, status: "Active", note: "Multi-year CEBL vet.", college: "Towson" },
+  { name: "Cody John", pos: "G", age: 28, ht: "6'4\"", hometown: "Toronto, ON", team: "Saskatoon Mamba", league: "CEBL", country: "Canada", tier: "CEBL", ppg: 9.0, rpg: 3.0, apg: 2.5, status: "Active", note: "Multi-year CEBL vet.", college: "Towson" },
 ];
 
 // ===== ELAM ENDING ANALYTICS =====
@@ -126,17 +126,17 @@ const elamEndingData = {
   },
   playerClutch: [
     { name: "Sean East II", team: "Edmonton Stingers", elamPPG: 8.5, elamFGPct: 52.1, elamGameWinners: 6, elamAssists: 2.8, clutchRating: 94, elamFTA: 3.2, elamFTPct: 88.5, elamTov: 1.1, elamPlusMinus: "+4.2", playTypes: { iso: 38, pnr: 32, spot: 18, transition: 12 } },
-    { name: "Xavier Moon", team: "Brampton Honey Badgers", elamPPG: 7.8, elamFGPct: 49.5, elamGameWinners: 5, elamAssists: 3.5, clutchRating: 91, elamFTA: 2.8, elamFTPct: 82.0, elamTov: 0.8, elamPlusMinus: "+3.8", playTypes: { iso: 25, pnr: 40, spot: 15, transition: 20 } },
-    { name: "Khalil Ahmad", team: "Edmonton Stingers", elamPPG: 7.2, elamFGPct: 48.0, elamGameWinners: 4, elamAssists: 1.5, clutchRating: 88, elamFTA: 2.5, elamFTPct: 80.0, elamTov: 1.3, elamPlusMinus: "+3.0", playTypes: { iso: 42, pnr: 22, spot: 28, transition: 8 } },
-    { name: "Koby McEwen", team: "Vancouver Bandits", elamPPG: 6.8, elamFGPct: 46.5, elamGameWinners: 4, elamAssists: 2.0, clutchRating: 86, elamFTA: 2.0, elamFTPct: 85.0, elamTov: 1.0, elamPlusMinus: "+2.5", playTypes: { iso: 30, pnr: 35, spot: 22, transition: 13 } },
-    { name: "Trae Bell-Haynes", team: "Ottawa BlackJacks", elamPPG: 6.5, elamFGPct: 47.2, elamGameWinners: 3, elamAssists: 3.2, clutchRating: 85, elamFTA: 1.8, elamFTPct: 78.5, elamTov: 0.7, elamPlusMinus: "+2.0", playTypes: { iso: 15, pnr: 50, spot: 10, transition: 25 } },
-    { name: "Kadre Gray", team: "Ottawa BlackJacks", elamPPG: 6.0, elamFGPct: 45.0, elamGameWinners: 3, elamAssists: 4.0, clutchRating: 84, elamFTA: 2.2, elamFTPct: 75.0, elamTov: 0.9, elamPlusMinus: "+1.8", playTypes: { iso: 20, pnr: 45, spot: 12, transition: 23 } },
+    { name: "Xavier Moon", team: "Saskatoon Mamba", elamPPG: 7.8, elamFGPct: 49.5, elamGameWinners: 5, elamAssists: 3.5, clutchRating: 91, elamFTA: 2.8, elamFTPct: 82.0, elamTov: 0.8, elamPlusMinus: "+3.8", playTypes: { iso: 25, pnr: 40, spot: 15, transition: 20 } },
+    { name: "Khalil Ahmad", team: "Niagara River Lions", elamPPG: 7.2, elamFGPct: 48.0, elamGameWinners: 4, elamAssists: 1.5, clutchRating: 88, elamFTA: 2.5, elamFTPct: 80.0, elamTov: 1.3, elamPlusMinus: "+3.0", playTypes: { iso: 42, pnr: 22, spot: 28, transition: 8 } },
+    { name: "Koby McEwen", team: "Brampton Honey Badgers", elamPPG: 6.8, elamFGPct: 46.5, elamGameWinners: 4, elamAssists: 2.0, clutchRating: 86, elamFTA: 2.0, elamFTPct: 85.0, elamTov: 1.0, elamPlusMinus: "+2.5", playTypes: { iso: 30, pnr: 35, spot: 22, transition: 13 } },
+    { name: "Trae Bell-Haynes", team: "Edmonton Stingers", elamPPG: 6.5, elamFGPct: 47.2, elamGameWinners: 3, elamAssists: 3.2, clutchRating: 85, elamFTA: 1.8, elamFTPct: 78.5, elamTov: 0.7, elamPlusMinus: "+2.0", playTypes: { iso: 15, pnr: 50, spot: 10, transition: 25 } },
+    { name: "Kadre Gray", team: "Scarborough Shooting Stars", elamPPG: 6.0, elamFGPct: 45.0, elamGameWinners: 3, elamAssists: 4.0, clutchRating: 84, elamFTA: 2.2, elamFTPct: 75.0, elamTov: 0.9, elamPlusMinus: "+1.8", playTypes: { iso: 20, pnr: 45, spot: 12, transition: 23 } },
     { name: "Jameer Nelson Jr.", team: "Calgary Surge", elamPPG: 5.8, elamFGPct: 44.5, elamGameWinners: 3, elamAssists: 1.8, clutchRating: 82, elamFTA: 1.5, elamFTPct: 82.0, elamTov: 1.2, elamPlusMinus: "+1.5", playTypes: { iso: 28, pnr: 30, spot: 25, transition: 17 } },
-    { name: "Mitch Creek", team: "Winnipeg Sea Bears", elamPPG: 5.5, elamFGPct: 50.0, elamGameWinners: 5, elamAssists: 1.0, clutchRating: 81, elamFTA: 3.0, elamFTPct: 72.0, elamTov: 0.5, elamPlusMinus: "+3.5", playTypes: { iso: 35, pnr: 15, spot: 10, transition: 40 } },
-    { name: "Marcus Carr", team: "Winnipeg Sea Bears", elamPPG: 5.2, elamFGPct: 43.5, elamGameWinners: 2, elamAssists: 3.0, clutchRating: 79, elamFTA: 1.5, elamFTPct: 80.0, elamTov: 1.5, elamPlusMinus: "+1.0", playTypes: { iso: 22, pnr: 42, spot: 18, transition: 18 } },
-    { name: "Greg Brown III", team: "Scarborough Shooting Stars", elamPPG: 5.0, elamFGPct: 48.5, elamGameWinners: 2, elamAssists: 0.5, clutchRating: 78, elamFTA: 2.0, elamFTPct: 70.0, elamTov: 0.8, elamPlusMinus: "+1.2", playTypes: { iso: 45, pnr: 10, spot: 5, transition: 40 } },
-    { name: "Quinndary Weatherspoon", team: "Scarborough Shooting Stars", elamPPG: 5.5, elamFGPct: 47.0, elamGameWinners: 3, elamAssists: 2.0, clutchRating: 77, elamFTA: 1.8, elamFTPct: 77.0, elamTov: 1.0, elamPlusMinus: "+1.5", playTypes: { iso: 32, pnr: 28, spot: 20, transition: 20 } },
-    { name: "Keon Ambrose-Hylton", team: "Brampton Honey Badgers", elamPPG: 4.8, elamFGPct: 51.0, elamGameWinners: 2, elamAssists: 0.8, clutchRating: 75, elamFTA: 1.2, elamFTPct: 68.0, elamTov: 0.6, elamPlusMinus: "+1.0", playTypes: { iso: 10, pnr: 15, spot: 15, transition: 60 } }
+    { name: "Mitch Creek", team: "Vancouver Bandits", elamPPG: 5.5, elamFGPct: 50.0, elamGameWinners: 5, elamAssists: 1.0, clutchRating: 81, elamFTA: 3.0, elamFTPct: 72.0, elamTov: 0.5, elamPlusMinus: "+3.5", playTypes: { iso: 35, pnr: 15, spot: 10, transition: 40 } },
+    { name: "Marcus Carr", team: "Vancouver Bandits", elamPPG: 5.2, elamFGPct: 43.5, elamGameWinners: 2, elamAssists: 3.0, clutchRating: 79, elamFTA: 1.5, elamFTPct: 80.0, elamTov: 1.5, elamPlusMinus: "+1.0", playTypes: { iso: 22, pnr: 42, spot: 18, transition: 18 } },
+    { name: "Greg Brown III", team: "Calgary Surge", elamPPG: 5.0, elamFGPct: 48.5, elamGameWinners: 2, elamAssists: 0.5, clutchRating: 78, elamFTA: 2.0, elamFTPct: 70.0, elamTov: 0.8, elamPlusMinus: "+1.2", playTypes: { iso: 45, pnr: 10, spot: 5, transition: 40 } },
+    { name: "Quinndary Weatherspoon", team: "Brampton Honey Badgers", elamPPG: 5.5, elamFGPct: 47.0, elamGameWinners: 3, elamAssists: 2.0, clutchRating: 77, elamFTA: 1.8, elamFTPct: 77.0, elamTov: 1.0, elamPlusMinus: "+1.5", playTypes: { iso: 32, pnr: 28, spot: 20, transition: 20 } },
+    { name: "Keon Ambrose-Hylton", team: "Edmonton Stingers", elamPPG: 4.8, elamFGPct: 51.0, elamGameWinners: 2, elamAssists: 0.8, clutchRating: 75, elamFTA: 1.2, elamFTPct: 68.0, elamTov: 0.6, elamPlusMinus: "+1.0", playTypes: { iso: 10, pnr: 15, spot: 15, transition: 60 } }
   ]
 };
 
@@ -168,15 +168,15 @@ const targetShotData = {
   },
   playerTargetLeaders: [
     { name: "Sean East II", team: "Edmonton", attempts: 45, made: 20, pct: 44.4, expectedPts: 2.64, rank: 1, catchShoot: 55, offDribble: 45, contested: 40, open: 60, elamTarget: 8 },
-    { name: "Xavier Moon", team: "Brampton", attempts: 38, made: 15, pct: 39.5, expectedPts: 2.37, rank: 2, catchShoot: 60, offDribble: 40, contested: 35, open: 65, elamTarget: 6 },
-    { name: "Khalil Ahmad", team: "Edmonton", attempts: 35, made: 14, pct: 40.0, expectedPts: 2.40, rank: 3, catchShoot: 42, offDribble: 58, contested: 50, open: 50, elamTarget: 5 },
-    { name: "Marcus Carr", team: "Winnipeg", attempts: 32, made: 12, pct: 37.5, expectedPts: 2.25, rank: 4, catchShoot: 50, offDribble: 50, contested: 45, open: 55, elamTarget: 5 },
-    { name: "Koby McEwen", team: "Vancouver", attempts: 30, made: 11, pct: 36.7, expectedPts: 2.20, rank: 5, catchShoot: 65, offDribble: 35, contested: 30, open: 70, elamTarget: 4 },
-    { name: "Trae Bell-Haynes", team: "Ottawa", attempts: 28, made: 10, pct: 35.7, expectedPts: 2.14, rank: 6, catchShoot: 48, offDribble: 52, contested: 42, open: 58, elamTarget: 3 },
-    { name: "Mitch Creek", team: "Winnipeg", attempts: 26, made: 10, pct: 38.5, expectedPts: 2.31, rank: 7, catchShoot: 70, offDribble: 30, contested: 25, open: 75, elamTarget: 4 },
-    { name: "Kadre Gray", team: "Ottawa", attempts: 24, made: 8, pct: 33.3, expectedPts: 2.00, rank: 8, catchShoot: 52, offDribble: 48, contested: 38, open: 62, elamTarget: 2 },
+    { name: "Xavier Moon", team: "Saskatoon", attempts: 38, made: 15, pct: 39.5, expectedPts: 2.37, rank: 2, catchShoot: 60, offDribble: 40, contested: 35, open: 65, elamTarget: 6 },
+    { name: "Khalil Ahmad", team: "Niagara", attempts: 35, made: 14, pct: 40.0, expectedPts: 2.40, rank: 3, catchShoot: 42, offDribble: 58, contested: 50, open: 50, elamTarget: 5 },
+    { name: "Marcus Carr", team: "Vancouver", attempts: 32, made: 12, pct: 37.5, expectedPts: 2.25, rank: 4, catchShoot: 50, offDribble: 50, contested: 45, open: 55, elamTarget: 5 },
+    { name: "Koby McEwen", team: "Brampton", attempts: 30, made: 11, pct: 36.7, expectedPts: 2.20, rank: 5, catchShoot: 65, offDribble: 35, contested: 30, open: 70, elamTarget: 4 },
+    { name: "Trae Bell-Haynes", team: "Edmonton", attempts: 28, made: 10, pct: 35.7, expectedPts: 2.14, rank: 6, catchShoot: 48, offDribble: 52, contested: 42, open: 58, elamTarget: 3 },
+    { name: "Mitch Creek", team: "Vancouver", attempts: 26, made: 10, pct: 38.5, expectedPts: 2.31, rank: 7, catchShoot: 70, offDribble: 30, contested: 25, open: 75, elamTarget: 4 },
+    { name: "Kadre Gray", team: "Scarborough", attempts: 24, made: 8, pct: 33.3, expectedPts: 2.00, rank: 8, catchShoot: 52, offDribble: 48, contested: 38, open: 62, elamTarget: 2 },
     { name: "Jameer Nelson Jr.", team: "Calgary", attempts: 22, made: 8, pct: 36.4, expectedPts: 2.18, rank: 9, catchShoot: 58, offDribble: 42, contested: 35, open: 65, elamTarget: 3 },
-    { name: "Greg Brown III", team: "Scarborough", attempts: 20, made: 7, pct: 35.0, expectedPts: 2.10, rank: 10, catchShoot: 40, offDribble: 60, contested: 55, open: 45, elamTarget: 2 }
+    { name: "Greg Brown III", team: "Calgary", attempts: 20, made: 7, pct: 35.0, expectedPts: 2.10, rank: 10, catchShoot: 40, offDribble: 60, contested: 55, open: 45, elamTarget: 2 }
   ],
   strategicInsights: [
     { title: "Target vs Standard 3PT", insight: "League-wide, a Target attempt yields 1.32 expected points vs 1.05 for a standard 3-pointer. Despite the lower make rate, the +1 bonus makes it the higher-value shot.", icon: "chart" },
@@ -191,17 +191,17 @@ const advancedMetrics = {
   // True Shooting %, Usage Rate, Assist-to-Turnover, Net Rating, PER estimate
   players: [
     { name: "Sean East II", team: "Edmonton Stingers", tsPct: 58.2, usgRate: 31.5, astTov: 2.4, netRtg: 8.5, per: 24.2, offRtg: 115.2, defRtg: 106.7, ortgRank: 2, drtgRank: 8, role: "Primary Creator" },
-    { name: "Xavier Moon", team: "Brampton Honey Badgers", tsPct: 56.8, usgRate: 28.0, astTov: 2.8, netRtg: 7.2, per: 22.5, offRtg: 113.5, defRtg: 106.3, ortgRank: 3, drtgRank: 6, role: "Primary Creator" },
-    { name: "Khalil Ahmad", team: "Edmonton Stingers", tsPct: 55.5, usgRate: 27.2, astTov: 1.5, netRtg: 6.8, per: 21.0, offRtg: 112.8, defRtg: 106.0, ortgRank: 4, drtgRank: 5, role: "Scoring Wing" },
-    { name: "Mitch Creek", team: "Winnipeg Sea Bears", tsPct: 57.5, usgRate: 26.8, astTov: 1.8, netRtg: 9.0, per: 23.0, offRtg: 116.0, defRtg: 107.0, ortgRank: 1, drtgRank: 10, role: "Two-Way Wing" },
-    { name: "Marcus Carr", team: "Winnipeg Sea Bears", tsPct: 54.2, usgRate: 29.5, astTov: 2.6, netRtg: 6.5, per: 20.5, offRtg: 111.5, defRtg: 105.0, ortgRank: 5, drtgRank: 3, role: "Primary Creator" },
-    { name: "Koby McEwen", team: "Vancouver Bandits", tsPct: 55.0, usgRate: 25.8, astTov: 2.2, netRtg: 4.5, per: 19.8, offRtg: 110.2, defRtg: 105.7, ortgRank: 7, drtgRank: 4, role: "Combo Guard" },
-    { name: "Trae Bell-Haynes", team: "Ottawa BlackJacks", tsPct: 53.5, usgRate: 24.5, astTov: 3.0, netRtg: 3.2, per: 18.5, offRtg: 109.0, defRtg: 105.8, ortgRank: 8, drtgRank: 4, role: "Floor General" },
-    { name: "Kadre Gray", team: "Ottawa BlackJacks", tsPct: 52.8, usgRate: 26.0, astTov: 2.5, netRtg: 3.0, per: 18.0, offRtg: 108.5, defRtg: 105.5, ortgRank: 9, drtgRank: 3, role: "Primary Creator" },
+    { name: "Xavier Moon", team: "Saskatoon Mamba", tsPct: 56.8, usgRate: 28.0, astTov: 2.8, netRtg: 7.2, per: 22.5, offRtg: 113.5, defRtg: 106.3, ortgRank: 3, drtgRank: 6, role: "Primary Creator" },
+    { name: "Khalil Ahmad", team: "Niagara River Lions", tsPct: 55.5, usgRate: 27.2, astTov: 1.5, netRtg: 6.8, per: 21.0, offRtg: 112.8, defRtg: 106.0, ortgRank: 4, drtgRank: 5, role: "Scoring Wing" },
+    { name: "Mitch Creek", team: "Vancouver Bandits", tsPct: 57.5, usgRate: 26.8, astTov: 1.8, netRtg: 9.0, per: 23.0, offRtg: 116.0, defRtg: 107.0, ortgRank: 1, drtgRank: 10, role: "Two-Way Wing" },
+    { name: "Marcus Carr", team: "Vancouver Bandits", tsPct: 54.2, usgRate: 29.5, astTov: 2.6, netRtg: 6.5, per: 20.5, offRtg: 111.5, defRtg: 105.0, ortgRank: 5, drtgRank: 3, role: "Primary Creator" },
+    { name: "Koby McEwen", team: "Brampton Honey Badgers", tsPct: 55.0, usgRate: 25.8, astTov: 2.2, netRtg: 4.5, per: 19.8, offRtg: 110.2, defRtg: 105.7, ortgRank: 7, drtgRank: 4, role: "Combo Guard" },
+    { name: "Trae Bell-Haynes", team: "Edmonton Stingers", tsPct: 53.5, usgRate: 24.5, astTov: 3.0, netRtg: 3.2, per: 18.5, offRtg: 109.0, defRtg: 105.8, ortgRank: 8, drtgRank: 4, role: "Floor General" },
+    { name: "Kadre Gray", team: "Scarborough Shooting Stars", tsPct: 52.8, usgRate: 26.0, astTov: 2.5, netRtg: 3.0, per: 18.0, offRtg: 108.5, defRtg: 105.5, ortgRank: 9, drtgRank: 3, role: "Primary Creator" },
     { name: "Jameer Nelson Jr.", team: "Calgary Surge", tsPct: 54.8, usgRate: 23.5, astTov: 1.8, netRtg: 5.5, per: 20.0, offRtg: 110.8, defRtg: 105.3, ortgRank: 6, drtgRank: 2, role: "Two-Way Guard" },
-    { name: "Greg Brown III", team: "Scarborough Shooting Stars", tsPct: 56.0, usgRate: 22.0, astTov: 1.2, netRtg: 4.0, per: 19.0, offRtg: 109.5, defRtg: 105.5, ortgRank: 8, drtgRank: 3, role: "Athletic Wing" },
-    { name: "Quinndary Weatherspoon", team: "Scarborough Shooting Stars", tsPct: 55.2, usgRate: 24.0, astTov: 2.0, netRtg: 5.0, per: 19.5, offRtg: 110.0, defRtg: 105.0, ortgRank: 7, drtgRank: 2, role: "Versatile Wing" },
-    { name: "Keon Ambrose-Hylton", team: "Brampton Honey Badgers", tsPct: 54.0, usgRate: 18.5, astTov: 1.0, netRtg: 3.8, per: 16.5, offRtg: 108.0, defRtg: 104.2, ortgRank: 10, drtgRank: 1, role: "Defensive Forward" },
+    { name: "Greg Brown III", team: "Calgary Surge", tsPct: 56.0, usgRate: 22.0, astTov: 1.2, netRtg: 4.0, per: 19.0, offRtg: 109.5, defRtg: 105.5, ortgRank: 8, drtgRank: 3, role: "Athletic Wing" },
+    { name: "Quinndary Weatherspoon", team: "Brampton Honey Badgers", tsPct: 55.2, usgRate: 24.0, astTov: 2.0, netRtg: 5.0, per: 19.5, offRtg: 110.0, defRtg: 105.0, ortgRank: 7, drtgRank: 2, role: "Versatile Wing" },
+    { name: "Keon Ambrose-Hylton", team: "Edmonton Stingers", tsPct: 54.0, usgRate: 18.5, astTov: 1.0, netRtg: 3.8, per: 16.5, offRtg: 108.0, defRtg: 104.2, ortgRank: 10, drtgRank: 1, role: "Defensive Forward" },
     { name: "Fardaws Aimaq", team: "Niagara River Lions", tsPct: 57.0, usgRate: 20.0, astTov: 0.8, netRtg: 5.2, per: 20.5, offRtg: 109.8, defRtg: 104.6, ortgRank: 8, drtgRank: 1, role: "Rebounding Big" },
     { name: "Prince Oduro", team: "Brampton Honey Badgers", tsPct: 55.5, usgRate: 17.0, astTov: 0.7, netRtg: 4.0, per: 17.0, offRtg: 107.5, defRtg: 103.5, ortgRank: 11, drtgRank: 1, role: "Rim Protector" }
   ],

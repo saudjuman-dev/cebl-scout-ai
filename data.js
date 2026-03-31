@@ -63,7 +63,7 @@ const canadiansPro = [
 
   { name: "Shamiel Stevenson", pos: "G/F", age: 26, ht: "6'5\"", team: "Brampton 2024", league: "CEBL", ppg: 12.0, rpg: 4.5, apg: 1.5, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Former Pittsburgh/Nevada. Physical wing.", agent: "" },
 
-  { name: "Cody John", pos: "G", age: 28, ht: "6'4\"", team: "Saskatchewan", league: "CEBL", ppg: 9.0, rpg: 3.0, apg: 2.5, fit: "Medium", salary: "$700-$900", character: "Good", hometown: "Toronto, ON", note: "Multi-year CEBL vet across multiple teams.", agent: "" },
+  { name: "Cody John", pos: "G", age: 28, ht: "6'4\"", team: "Saskatoon Mamba", league: "CEBL", ppg: 9.0, rpg: 3.0, apg: 2.5, fit: "Medium", salary: "$700-$900", character: "Good", hometown: "Toronto, ON", note: "Multi-year CEBL vet across multiple teams.", agent: "" },
 
   { name: "Duane Notice", pos: "G", age: 30, ht: "6'1\"", team: "Vancouver", league: "CEBL", ppg: 8.5, rpg: 2.5, apg: 4.0, fit: "Medium", salary: "$700-$900", character: "Good", hometown: "Ajax, ON", note: "Syracuse product. Multi-year CEBL playmaker.", agent: "" },
 
@@ -109,7 +109,7 @@ const canadiansPro = [
 
   { name: "Deon Ejim", pos: "F", age: 25, ht: "6'7\"", team: "Calgary", league: "CEBL", ppg: 8.0, rpg: 4.5, apg: 1.0, fit: "Medium", salary: "$600-$800", character: "Good", hometown: "Toronto, ON", note: "Calgary Canadian forward.", agent: "" },
 
-  { name: "Anthony Tsegakele", pos: "F", age: 26, ht: "6'8\"", team: "Saskatchewan", league: "CEBL", ppg: 8.0, rpg: 5.5, apg: 0.8, fit: "Medium", salary: "$600-$800", character: "Good", hometown: "Ottawa, ON", note: "Multi-year Rattlers forward.", agent: "" },
+  { name: "Anthony Tsegakele", pos: "F", age: 26, ht: "6'8\"", team: "Saskatoon Mamba", league: "CEBL", ppg: 8.0, rpg: 5.5, apg: 0.8, fit: "Medium", salary: "$600-$800", character: "Good", hometown: "Ottawa, ON", note: "Multi-year Mamba (formerly Rattlers) forward.", agent: "" },
 
   { name: "Stef Smith", pos: "G", age: 27, ht: "6'2\"", team: "Calgary", league: "CEBL", ppg: 12.0, rpg: 3.0, apg: 3.5, fit: "High", salary: "$900-$1,100", character: "Good", hometown: "Burlington, ON", note: "Vermont product. Signed with G League. Scoring guard.", agent: "" },
 
@@ -157,7 +157,7 @@ const canadiansPro = [
 
   { name: "Lloyd Pandi", pos: "F", age: 26, ht: "6'7\"", team: "Ottawa", league: "CEBL", ppg: 8.5, rpg: 7.0, apg: 1.5, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Ottawa, ON", note: "2024 DPOY. Ottawa's defensive anchor.", agent: "" },
 
-  { name: "Devonte Bandoo", pos: "G", age: 27, ht: "6'3\"", team: "Saskatchewan", league: "CEBL", ppg: 10.0, rpg: 3.0, apg: 3.0, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Brampton, ON", note: "BRAMPTON native. Baylor product. Scoring guard.", agent: "" },
+  { name: "Devonte Bandoo", pos: "G", age: 27, ht: "6'3\"", team: "Saskatoon Mamba", league: "CEBL", ppg: 10.0, rpg: 3.0, apg: 3.0, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Brampton, ON", note: "BRAMPTON native. Baylor product. Scoring guard.", agent: "" },
 
   { name: "Karim Mane", pos: "G", age: 23, ht: "6'5\"", team: "Calgary 2025", league: "CEBL", ppg: 11.0, rpg: 4.0, apg: 3.0, fit: "High", salary: "$900-$1,100", character: "Good", hometown: "Montreal, QC", note: "Former NBA (Raptors camp). Quebec native.", agent: "" },
 
@@ -206,7 +206,7 @@ const canadiansPro = [
 
   { name: "Thomas Kennedy", pos: "C", age: 25, ht: "6'9\"", team: "Cedevita Olimpija", league: "Europe - ABA League / EuroCup", ppg: 10.5, rpg: 7.0, apg: 1.8, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Windsor, ON", note: "Former Bonn captain. Cedevita 2025-26. FIBA & ABA League. Team Canada rep. Playmaking big.", agent: "" },
 
-  { name: "Fardaws Aimaq", pos: "C", age: 24, ht: "6'11\"", team: "European Club", league: "Europe - FIBA Europe Cup", ppg: 12.0, rpg: 10.5, apg: 1.0, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Vancouver, BC", note: "BC native. Former NCAA star (Utah Valley, Texas Tech). Double-double machine. First pro season.", agent: "" },
+  { name: "Fardaws Aimaq", pos: "C", age: 27, ht: "6'11\"", team: "Lietkabelis Panevėžys", league: "Europe - Lithuania LKL / EuroCup", ppg: 10.6, rpg: 7.8, apg: 1.3, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Vancouver, BC", note: "BC native. Former NCAA star (Utah Valley, Texas Tech). 2025 Canada AmeriCup. Lithuania LKL.", agent: "" },
 
   { name: "Javonte Brown-Ferguson", pos: "F/C", age: 24, ht: "6'9\"", team: "Tizona Burgos", league: "Europe - Spain Primera FEB", ppg: 10.5, rpg: 7.2, apg: 0.8, fit: "High", salary: "$600-$800", character: "Good", hometown: "Toronto, ON", note: "Spanish 2nd division. Physical big man. Affordable Canadian talent.", agent: "" },
 
@@ -222,7 +222,7 @@ const canadiansPro = [
 
   { name: "Kyle Alexander", pos: "C", age: 28, ht: "6'11\"", team: "European Club", league: "Europe", ppg: 8.0, rpg: 6.5, apg: 1.0, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Milton, ON", note: "Tennessee product. European leagues career. Rim protection and length.", agent: "" },
 
-  { name: "Kassius Robertson", pos: "G", age: 29, ht: "6'3\"", team: "Valencia Basket area", league: "Europe - Spain", ppg: 11.0, rpg: 2.5, apg: 2.5, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Spanish league. Missouri product. Reliable perimeter scorer.", agent: "" },
+  { name: "Kassius Robertson", pos: "G", age: 29, ht: "6'3\"", team: "Dreamland Gran Canaria", league: "Europe - Spain Liga Endesa / BCL", ppg: 9.8, rpg: 2.5, apg: 2.0, fit: "Medium", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "Signed Jan 2026. Former Lokomotiv Kuban / Joventut Badalona. Missouri product.", agent: "" },
 
   { name: "Eddie Ekiyor", pos: "F/C", age: 28, ht: "6'7\"", team: "Saint-Quentin", league: "Europe - France Betclic Elite", ppg: 7.0, rpg: 3.0, apg: 3.0, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "Ottawa, ON", note: "France Betclic Elite (Pro A). Carleton product, 2x U SPORTS champ, 2019 Final 8 MVP. CEBL DPOY with Niagara.", agent: "" },
 
@@ -286,7 +286,7 @@ const canadiansPro = [
 
   { name: "Michael Foster", pos: "F", age: 23, ht: "6'9\"", team: "Scarborough Shooting Stars", league: "CEBL", ppg: 14.0, rpg: 10.7, apg: 1.5, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "USA", note: "2025 CEBL double-double machine (10.7 RPG). G League Ignite alum. Athletic big man.", agent: "" },
 
-  { name: "Nate Pierre-Louis", pos: "G", age: 27, ht: "6'4\"", team: "Saskatchewan Rattlers", league: "CEBL", ppg: 12.0, rpg: 4.0, apg: 7.9, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "USA", note: "2025 CEBL APG leader (7.9). 14-assist game. Temple product. Floor general.", agent: "" },
+  { name: "Nate Pierre-Louis", pos: "G", age: 27, ht: "6'4\"", team: "Saskatoon Mamba", league: "CEBL", ppg: 12.0, rpg: 4.0, apg: 7.9, fit: "High", salary: "$1,000-$1,200", character: "Good", hometown: "USA", note: "2025 CEBL APG leader (7.9). 14-assist game. Temple product. Floor general.", agent: "" },
 
   { name: "Yuri Collins", pos: "G", age: 24, ht: "5'11\"", team: "Scarborough Shooting Stars", league: "CEBL", ppg: 10.0, rpg: 3.0, apg: 7.8, fit: "High", salary: "$900-$1,100", character: "Good", hometown: "USA", note: "7.8 APG in 2025 CEBL (#3). 13-assist game. Saint Louis product. Elite court vision.", agent: "" },
 
@@ -348,7 +348,7 @@ const importTargets = [
 
   { name: "Williams", nationality: "USA", pos: "F", age: 27, ht: "6'7\"", team: "Scarborough Shooting Stars", league: "CEBL / CBA", ppg: 14.0, rpg: 6.0, apg: 1.5, fit: "High", salary: "$1,000-$1,200", note: "Back from Shanghai Sharks (CBA). Re-signed Scarborough.", agent: "" },
 
-  { name: "Emmanuel Akot", nationality: "USA", pos: "F", age: 26, ht: "6'8\"", team: "Winnipeg Sea Bears", league: "CEBL", ppg: 13.2, rpg: 5.8, apg: 2.5, fit: "High", salary: "$1,000-$1,200", note: "Re-signed with Winnipeg for 2026. Arizona product. Versatile forward.", agent: "" },
+  { name: "Emmanuel Akot", nationality: "CAN", pos: "F", age: 26, ht: "6'8\"", team: "Winnipeg Sea Bears / Leicester Riders", league: "CEBL / UK BBL", ppg: 11.2, rpg: 5.3, apg: 2.2, fit: "High", salary: "$1,000-$1,200", note: "Re-signed Winnipeg 2026 (3rd season). 2025: 11.2/5.3/2.2 in 19 GP. Winter: Leicester Riders (UK). South Sudan intl.", agent: "" },
 
   { name: "Shakur Daniel", nationality: "USA", pos: "G", age: 25, ht: "6'0\"", team: "Ottawa BlackJacks", league: "CEBL / G League", ppg: 3.7, rpg: 2.3, apg: 1.8, fit: "Medium", salary: "$500-$700", note: "Re-signed Ottawa. Defensive specialist. G League experience.", agent: "" },
 
@@ -399,9 +399,9 @@ const importTargets = [
   // === New 2024-2025 CEBL Imports ===
   { name: "Taze Moore", nationality: "USA", pos: "G/F", age: 26, ht: "6'5\"", team: "Vancouver 2024", league: "CEBL", ppg: 20.5, rpg: 5.5, apg: 4.0, fit: "High", salary: "$1,200-$1,500", note: "2024 CEBL MVP. Houston product. Elite two-way player.", agent: "" },
 
-  { name: "Mitch Creek", nationality: "AUS", pos: "F", age: 33, ht: "6'5\"", team: "Vancouver 2025", league: "CEBL", ppg: 22.0, rpg: 7.0, apg: 4.0, fit: "High", salary: "Designated", note: "2025 CEBL MVP. Australian NBL legend. Elite competitor.", agent: "" },
+  { name: "Mitch Creek", nationality: "AUS", pos: "F", age: 33, ht: "6'5\"", team: "Vancouver Bandits / U-BT Cluj-Napoca", league: "CEBL / Romania", ppg: 24.4, rpg: 7.0, apg: 4.0, fit: "High", salary: "Designated", note: "2025 CEBL MVP. 24.4 PPG (2nd in CEBL). 488 total pts (4th all-time single season). Re-signed Vancouver 2026. Winter: Cluj-Napoca (Romania/ABA/EuroCup).", agent: "" },
 
-  { name: "Greg Brown III", nationality: "USA", pos: "F", age: 24, ht: "6'9\"", team: "Calgary 2025", league: "CEBL", ppg: 18.0, rpg: 7.0, apg: 2.5, fit: "High", salary: "$1,200-$1,500", note: "2025 All-CEBL 1st Team. Former NBA (Blazers, Pacers). Texas product.", agent: "" },
+  { name: "Greg Brown III", nationality: "USA", pos: "F", age: 24, ht: "6'9\"", team: "Calgary Surge / AEK Athens", league: "CEBL / Greece", ppg: 19.7, rpg: 8.2, apg: 2.5, fit: "High", salary: "$1,200-$1,500", note: "2025 All-CEBL 1st Team. 19.7 PPG, 8.2 RPG, 1.8 BPG. DPOY runner-up. Former NBA (Blazers, Pacers). Winter: AEK Athens (Greece/BCL).", agent: "" },
 
   { name: "Khyri Thomas", nationality: "USA", pos: "G", age: 27, ht: "6'3\"", team: "Calgary 2025", league: "CEBL", ppg: 15.0, rpg: 3.5, apg: 4.0, fit: "High", salary: "$1,000-$1,200", note: "Former NBA (Pistons). Creighton product. Two-way guard.", agent: "" },
 
