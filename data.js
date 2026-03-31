@@ -202,9 +202,9 @@ const canadiansPro = [
 
   { name: "Jaden Bediako", pos: "C", age: 24, ht: "6'10\"", team: "Free Agent", league: "CEBL", ppg: 8.6, rpg: 8.5, apg: 0.5, fit: "High", salary: "$700-$900", character: "Good", hometown: "Brampton, ON", note: "BRAMPTON native. 2.2 BPG. Rim protector who deters paint attacks.", agent: "" },
 
-  { name: "Trae Bell-Haynes", pos: "G", age: 28, ht: "6'0\"", team: "Casademont Zaragoza", league: "Europe - Spain Liga Endesa", ppg: 10.7, rpg: 2.3, apg: 6.2, fit: "Medium", salary: "$1,000-$1,300", character: "Good", hometown: "Toronto, ON", note: "Team Canada AmeriCup. Veteran PG. UVM legend. Barcelona interest reported.", agent: "" },
+  { name: "Trae Bell-Haynes", pos: "G", age: 30, ht: "6'2\"", team: "Casademont Zaragoza", league: "Europe - Spain Liga Endesa", ppg: 15.6, rpg: 2.1, apg: 4.7, fit: "Medium", salary: "$1,000-$1,300", character: "Good", hometown: "Toronto, ON", note: "Under contract thru 2027. Season-ending hand surgery Jan 2026. Canada intl. UVM legend.", agent: "" },
 
-  { name: "Thomas Kennedy", pos: "C", age: 24, ht: "6'10\"", team: "Telekom Baskets Bonn", league: "Europe - Germany BBL", ppg: 11.8, rpg: 5.8, apg: 1.5, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Toronto, ON", note: "BBL & FIBA Champions League. 71.3% TS rookie year. Team Canada rep. Playmaking big.", agent: "" },
+  { name: "Thomas Kennedy", pos: "C", age: 25, ht: "6'9\"", team: "Cedevita Olimpija", league: "Europe - ABA League / EuroCup", ppg: 10.5, rpg: 7.0, apg: 1.8, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Windsor, ON", note: "Former Bonn captain. Cedevita 2025-26. FIBA & ABA League. Team Canada rep. Playmaking big.", agent: "" },
 
   { name: "Fardaws Aimaq", pos: "C", age: 24, ht: "6'11\"", team: "European Club", league: "Europe - FIBA Europe Cup", ppg: 12.0, rpg: 10.5, apg: 1.0, fit: "High", salary: "$800-$1,000", character: "Good", hometown: "Vancouver, BC", note: "BC native. Former NCAA star (Utah Valley, Texas Tech). Double-double machine. First pro season.", agent: "" },
 
