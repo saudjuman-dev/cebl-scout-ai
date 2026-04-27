@@ -3238,3 +3238,282 @@ footer {
 }
 .tr-player-detail { font-size: 0.72rem; color: #aaa; margin-top: 0.3rem; line-height: 1.4; }
 .tr-empty { color: #888; font-size: 0.85rem; padding: 0.5rem; }
+
+/* ============================================================================
+   ===== TEAM THEME SYSTEM =====
+   ============================================================================ */
+
+/* --- Smooth global color transitions when theme changes --- */
+.theme-transitioning,
+.theme-transitioning * {
+  transition: color 0.5s ease, background-color 0.5s ease, border-color 0.5s ease,
+              box-shadow 0.5s ease, fill 0.5s ease, stroke 0.5s ease !important;
+}
+
+/* --- Theme picker button in header --- */
+.theme-picker-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(212, 175, 55, 0.08);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  background: var(--gold-muted);
+  border-color: var(--gold-glow);
+  color: #ddd;
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+.theme-picker-btn:hover {
+  background: var(--gold-muted);
+  border-color: var(--gold);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px var(--gold-glow);
+}
+.theme-picker-btn #theme-current-emoji { font-size: 1.05rem; }
+.theme-btn-label { font-weight: 500; }
+.theme-btn-label strong { color: var(--gold); font-weight: 700; }
+
+/* --- Theme picker modal --- */
+.theme-picker-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(8px);
+  z-index: 9998;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  animation: theme-fade-in 0.25s ease;
+}
+.theme-picker-overlay.show { display: flex; }
+@keyframes theme-fade-in { from { opacity: 0; } to { opacity: 1; } }
+
+.theme-picker-box {
+  width: min(720px, 100%);
+  background: linear-gradient(180deg, #16161b, #0e0e10);
+  border: 1px solid var(--gold-glow);
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.7), 0 0 60px var(--gold-muted);
+  animation: theme-pop-in 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+@keyframes theme-pop-in {
+  from { transform: scale(0.85) translateY(20px); opacity: 0; }
+  to { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+.theme-picker-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1.2rem;
+}
+.theme-picker-header h3 {
+  font-family: 'Oswald', sans-serif;
+  color: var(--gold);
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  margin: 0 0 0.3rem;
+}
+.theme-picker-header p {
+  color: #999;
+  font-size: 0.82rem;
+  margin: 0;
+}
+.theme-picker-close {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: #aaa;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.theme-picker-close:hover {
+  background: rgba(255, 50, 50, 0.15);
+  color: #ff6464;
+  border-color: rgba(255, 100, 100, 0.4);
+}
+
+.theme-picker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1.2rem;
+}
+
+/* --- Individual team chip --- */
+.theme-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(255, 255, 255, 0.02);
+  border: 2px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 0.85rem 0.6rem 0.7rem;
+  cursor: pointer;
+  font-family: inherit;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+.theme-chip::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, var(--chip-glow), transparent 60%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+.theme-chip:hover {
+  transform: translateY(-3px) scale(1.03);
+  border-color: var(--chip-color);
+  background: rgba(255, 255, 255, 0.04);
+}
+.theme-chip:hover::before { opacity: 0.4; }
+.theme-chip:active { transform: translateY(-1px) scale(1.01); }
+
+.theme-chip.active {
+  border-color: var(--chip-color);
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0 0 0 2px var(--chip-color), 0 6px 20px var(--chip-glow);
+}
+.theme-chip.active::after {
+  content: '✓';
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  color: var(--chip-color);
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.theme-chip-emoji { font-size: 1.6rem; line-height: 1; position: relative; z-index: 1; }
+.theme-chip-name {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.02em;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+.theme-chip-color {
+  width: 32px;
+  height: 6px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  transition: width 0.3s;
+}
+.theme-chip:hover .theme-chip-color { width: 48px; }
+
+.theme-picker-footer {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+.theme-reset-btn {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #aaa;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-family: inherit;
+  transition: all 0.2s;
+}
+.theme-reset-btn:hover {
+  background: var(--gold-muted);
+  color: var(--gold);
+  border-color: var(--gold-glow);
+}
+
+/* --- Header pulse on theme change --- */
+.theme-pulse {
+  animation: theme-brand-pulse 0.8s ease;
+}
+@keyframes theme-brand-pulse {
+  0%   { transform: scale(1); }
+  20%  { transform: scale(1.06); filter: drop-shadow(0 0 12px var(--gold)); }
+  60%  { transform: scale(0.98); }
+  100% { transform: scale(1); filter: none; }
+}
+
+/* --- Subtle entrance animations site-wide for engagement --- */
+.tab-content.active {
+  animation: tab-fade-in 0.3s ease;
+}
+@keyframes tab-fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.stat-card { transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease; }
+.stat-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px var(--gold-glow);
+  border-color: var(--gold);
+}
+
+.lb-card { transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease; }
+.lb-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--gold);
+  box-shadow: 0 6px 20px var(--gold-glow);
+}
+
+.record-card,
+.award-card,
+.legend-card { transition: transform 0.2s ease, border-color 0.2s ease; }
+.record-card:hover,
+.award-card:hover,
+.legend-card:hover {
+  transform: translateX(3px);
+  border-color: var(--gold);
+}
+
+.tr-team-card {
+  transition: transform 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+}
+.tr-team-card:hover {
+  transform: translateX(6px) scale(1.01);
+  box-shadow: 0 6px 20px var(--gold-glow);
+}
+
+/* --- Animated number counter highlight --- */
+.stat-number {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--gold-light), var(--gold));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* --- Live indicator pulse already exists; keep it themed --- */
+.live-dot {
+  background: var(--gold) !important;
+  box-shadow: 0 0 8px var(--gold-glow) !important;
+}
+
+/* --- Mobile: keep theme button visible but compact --- */
+@media (max-width: 720px) {
+  .theme-btn-label { display: none; }
+  .theme-picker-btn { padding: 0.4rem 0.55rem; }
+  .theme-picker-grid { grid-template-columns: repeat(2, 1fr); }
+  .theme-picker-box { padding: 1rem; }
+}

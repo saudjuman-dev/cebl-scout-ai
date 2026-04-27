@@ -133,6 +133,10 @@
         </div>
       </div>
       <div class="header-actions">
+        <button class="theme-picker-btn" onclick="openThemePicker()" title="Choose your team theme">
+          <span id="theme-current-emoji">🦡</span>
+          <span class="theme-btn-label">Theme: <strong id="theme-current-team">Brampton</strong></span>
+        </button>
         <button class="global-search-btn" onclick="openGlobalSearch()" title="Search players, teams, records (Cmd+K)">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
           <span class="gs-text">Search</span>
@@ -686,6 +690,23 @@
     </div>
   </div>
 
+  <!-- Theme Picker Modal -->
+  <div id="theme-picker-modal" class="theme-picker-overlay" onclick="if(event.target===this)closeThemePicker()">
+    <div class="theme-picker-box">
+      <div class="theme-picker-header">
+        <div>
+          <h3>Pick Your Team</h3>
+          <p>Skin the entire site in your CEBL team's colors. Saved automatically.</p>
+        </div>
+        <button class="theme-picker-close" onclick="closeThemePicker()">&times;</button>
+      </div>
+      <div class="theme-picker-grid" id="theme-picker-grid"></div>
+      <div class="theme-picker-footer">
+        <button class="theme-reset-btn" onclick="pickTheme('brampton')">Reset to Default</button>
+      </div>
+    </div>
+  </div>
+
   <!-- Global Search Modal -->
   <div id="global-search-modal" class="global-search-overlay" onclick="if(event.target===this)closeGlobalSearch()">
     <div class="global-search-box">
@@ -709,6 +730,7 @@
     </div>
   </footer>
 
+  <script src="themes.js"></script>
   <script src="data.js"></script>
   <script src="career-data.js"></script>
   <script src="pipeline-data.js"></script>
