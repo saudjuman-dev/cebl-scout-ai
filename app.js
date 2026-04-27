@@ -451,10 +451,8 @@ function filterByTeam(team) {
 
 // ===== Player Profile Modal =====
 function openPlayerModal(playerName) {
-  if (!AUTH.canAccessFeature('player-profile')) {
-    showFeatureGate('player-profile');
-    return;
-  }
+  // Player profiles are now FREE for all users (basic bio + career stats).
+  // Medical history & deep advanced metrics remain premium-gated within the modal.
   const data = playerCareerStats[playerName];
   const modal = document.getElementById('player-modal');
   const content = document.getElementById('player-modal-content');
@@ -574,7 +572,7 @@ function openPlayerModal(playerName) {
     </div>
 
     <div id="pm-medical" class="pm-tab-content">
-      ${medical.length > 0 ? `
+      ${AUTH.canAccessFeature('medical-history') ? (medical.length > 0 ? `
         <div class="medical-timeline">
           ${medical.map(m => `
             <div class="medical-entry severity-${m.severity.toLowerCase()}">
@@ -587,7 +585,14 @@ function openPlayerModal(playerName) {
             </div>
           `).join('')}
         </div>
-      ` : `<div class="no-medical">No recorded injuries. Clean medical history.</div>`}
+      ` : `<div class="no-medical">No recorded injuries. Clean medical history.</div>`) : `
+        <div class="premium-locked">
+          <div class="lock-icon">🔒</div>
+          <h3>Medical History is a Premium Feature</h3>
+          <p>Unlock detailed injury timelines, severity grading, and games-missed tracking for every player.</p>
+          <button class="upgrade-cta" onclick="closePlayerModal();showFeatureGate('medical-history')">View Premium Plans</button>
+        </div>
+      `}
     </div>
   `;
 
@@ -1299,6 +1304,534 @@ function renderWatchlist() {
   `;
 }
 
+// ============================================================================
+// ===== SORTABLE TABLES (universal column sort utility) =====
+// ============================================================================
+function makeTableSortable(tableId) {
+  const table = document.getElementById(tableId);
+  if (!table) return;
+  const headers = table.querySelectorAll('thead th');
+  headers.forEach((th, idx) => {
+    if (th.dataset.sortable === 'false') return;
+    th.classList.add('sortable-th');
+    th.addEventListener('click', () => sortTable(table, idx, th));
+  });
+}
+
+function sortTable(table, colIdx, th) {
+  const tbody = table.querySelector('tbody');
+  if (!tbody) return;
+  const rows = Array.from(tbody.querySelectorAll('tr'));
+  const current = th.dataset.sortDir || 'none';
+  const dir = current === 'asc' ? 'desc' : 'asc';
+
+  // Clear all sort indicators
+  table.querySelectorAll('thead th').forEach(h => {
+    h.dataset.sortDir = 'none';
+    h.classList.remove('sort-asc', 'sort-desc');
+  });
+  th.dataset.sortDir = dir;
+  th.classList.add(dir === 'asc' ? 'sort-asc' : 'sort-desc');
+
+  rows.sort((a, b) => {
+    const aT = (a.children[colIdx]?.innerText || '').trim();
+    const bT = (b.children[colIdx]?.innerText || '').trim();
+    const aN = parseFloat(aT.replace(/[^0-9.\-]/g, ''));
+    const bN = parseFloat(bT.replace(/[^0-9.\-]/g, ''));
+    let cmp;
+    if (!isNaN(aN) && !isNaN(bN) && aT.match(/[0-9]/) && bT.match(/[0-9]/)) {
+      cmp = aN - bN;
+    } else {
+      cmp = aT.localeCompare(bT);
+    }
+    return dir === 'asc' ? cmp : -cmp;
+  });
+  rows.forEach(r => tbody.appendChild(r));
+}
+
+function activateAllSortableTables() {
+  ['pro-table', 'ncaa-table', 'import-table'].forEach(makeTableSortable);
+}
+
+// ============================================================================
+// ===== STAT LEADERBOARDS TAB =====
+// ============================================================================
+function renderLeaderboards() {
+  const c = document.getElementById('leaderboards-content');
+  if (!c || typeof statLeaders2025 === 'undefined') return;
+
+  const cats = [
+    { key: 'ppg', label: 'Points Per Game', icon: '🏀', suffix: '' },
+    { key: 'rpg', label: 'Rebounds Per Game', icon: '💪', suffix: '' },
+    { key: 'apg', label: 'Assists Per Game', icon: '🎯', suffix: '' },
+    { key: 'spg', label: 'Steals Per Game', icon: '🥷', suffix: '' },
+    { key: 'bpg', label: 'Blocks Per Game', icon: '🛡️', suffix: '' },
+    { key: 'fg', label: 'Field Goal %', icon: '🎯', suffix: '%' },
+    { key: 'threePt', label: '3-Point %', icon: '🎯', suffix: '%' },
+    { key: 'ft', label: 'Free Throw %', icon: '🎯', suffix: '%' }
+  ];
+
+  c.innerHTML = `
+    <div class="lb-grid">
+      ${cats.map(cat => {
+        const list = statLeaders2025[cat.key] || [];
+        if (!list.length) return '';
+        return `
+          <div class="lb-card">
+            <div class="lb-card-header">
+              <span class="lb-icon">${cat.icon}</span>
+              <h3>${cat.label}</h3>
+            </div>
+            <div class="lb-list">
+              ${list.slice(0, 10).map(p => `
+                <div class="lb-row">
+                  <span class="lb-rank">${p.rank}</span>
+                  <div class="lb-avatar has-headshot">${avatarContent(p.player)}</div>
+                  <div class="lb-info">
+                    <div class="lb-name" data-player-name="${p.player}">${p.player}</div>
+                    <div class="lb-team">${p.team}</div>
+                  </div>
+                  <div class="lb-value">${p.value}${cat.suffix}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+
+  requestAnimationFrame(() => addPlayerClickHandlers());
+}
+
+// ============================================================================
+// ===== RECORDS BOOK TAB =====
+// ============================================================================
+let currentRecordsTab = 'records';
+
+function switchRecordsTab(btn, view) {
+  currentRecordsTab = view;
+  document.querySelectorAll('.rb-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  renderRecordsContent();
+}
+
+function renderRecordsContent() {
+  const c = document.getElementById('records-content');
+  if (!c) return;
+  if (currentRecordsTab === 'records') c.innerHTML = renderRecordsView();
+  else if (currentRecordsTab === 'awards') c.innerHTML = renderAwardsView();
+  else if (currentRecordsTab === 'legends') c.innerHTML = renderLegendsView();
+  else if (currentRecordsTab === 'timeline') c.innerHTML = renderTimelineView();
+  else if (currentRecordsTab === 'trivia') c.innerHTML = renderTriviaView();
+  requestAnimationFrame(() => addPlayerClickHandlers());
+}
+
+function renderRecordsView() {
+  if (typeof ceblRecords === 'undefined') return '<p>Loading...</p>';
+  const sections = [
+    { key: 'singleGame', label: '⚡ Single-Game Records' },
+    { key: 'singleSeason', label: '📅 Single-Season Records' },
+    { key: 'careerLeaders', label: '👑 Career Leaders' }
+  ];
+  return sections.map(s => `
+    <div class="records-section">
+      <h3 class="records-section-h">${s.label}</h3>
+      <div class="records-grid">
+        ${(ceblRecords[s.key] || []).map(r => `
+          <div class="record-card">
+            <div class="record-value-row">
+              <div class="record-label">${r.record || r.category}</div>
+              <div class="record-value">${r.value}</div>
+            </div>
+            <div class="record-holder">
+              <div class="record-player" data-player-name="${r.player}">${r.player}</div>
+              <div class="record-team">${r.team}${r.date ? ' · ' + r.date : ''}</div>
+            </div>
+            ${r.note ? `<div class="record-note">${r.note}</div>` : ''}
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderAwardsView() {
+  if (typeof ceblAwards === 'undefined') return '<p>Loading...</p>';
+  const years = Object.keys(ceblAwards).sort((a, b) => b - a);
+  const labels = {
+    mvp: '🏆 MVP', runnerUp: '🥈 MVP Runner-Up', dpoy: '🛡️ Defensive Player of Year',
+    canPOTY: '🇨🇦 Canadian Player of Year', rookie: '✨ Rookie of Year',
+    sixthMan: '🔥 6th Man of Year', clutchPOY: '⏱️ Clutch Player of Year',
+    coachOfYear: '🎯 Coach of Year', franchiseOfYear: '🏢 Franchise of Year',
+    champion: '👑 Champion', finalsMVP: '⭐ Finals MVP'
+  };
+  return years.map(yr => `
+    <div class="awards-year">
+      <h3 class="awards-year-h">${yr} Season Awards</h3>
+      <div class="awards-grid">
+        ${Object.entries(ceblAwards[yr]).map(([k, v]) => v && v.player !== '—' && v.player !== 'Various' ? `
+          <div class="award-card">
+            <div class="award-label">${labels[k] || k}</div>
+            <div class="award-player" data-player-name="${v.player}">${v.player}</div>
+            <div class="award-team">${v.team}</div>
+            ${v.stats && v.stats !== '—' ? `<div class="award-stats">${v.stats}</div>` : ''}
+          </div>
+        ` : '').join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderLegendsView() {
+  if (typeof ceblLegends === 'undefined') return '<p>Loading...</p>';
+  return `
+    <div class="legends-grid">
+      ${ceblLegends.map(l => `
+        <div class="legend-card">
+          <div class="legend-avatar has-headshot">${avatarContent(l.player)}</div>
+          <div class="legend-content">
+            <h3 class="legend-name" data-player-name="${l.player}">${l.player}</h3>
+            <div class="legend-team">${l.team} · ${l.years}</div>
+            <div class="legend-achievements"><strong>Achievements:</strong> ${l.achievements}</div>
+            <div class="legend-legacy">"${l.legacy}"</div>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function renderTimelineView() {
+  if (typeof ceblTimeline === 'undefined') return '<p>Loading...</p>';
+  return `
+    <div class="timeline-list">
+      ${ceblTimeline.map(t => `
+        <div class="timeline-item">
+          <div class="timeline-year">${t.year}</div>
+          <div class="timeline-content">
+            <div class="timeline-headline">${t.headline}</div>
+            <div class="timeline-note">${t.note}</div>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function renderTriviaView() {
+  if (typeof ceblTrivia === 'undefined') return '<p>Loading...</p>';
+  const cats = [...new Set(ceblTrivia.map(t => t.category))];
+  return cats.map(cat => `
+    <div class="trivia-section">
+      <h3 class="trivia-cat">${cat}</h3>
+      <div class="trivia-list">
+        ${ceblTrivia.filter(t => t.category === cat).map(t => `
+          <div class="trivia-item impact-${t.impact}">
+            <span class="trivia-bullet">●</span>
+            <span class="trivia-fact">${t.fact}</span>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+// ============================================================================
+// ===== GLOBAL SEARCH (Cmd+K) =====
+// ============================================================================
+function openGlobalSearch() {
+  const m = document.getElementById('global-search-modal');
+  m.classList.add('show');
+  setTimeout(() => document.getElementById('global-search-input').focus(), 50);
+  document.body.style.overflow = 'hidden';
+}
+
+function closeGlobalSearch() {
+  document.getElementById('global-search-modal').classList.remove('show');
+  document.body.style.overflow = '';
+  document.getElementById('global-search-input').value = '';
+  document.getElementById('global-search-results').innerHTML = '<div class="gs-hint">Try searching for "Cat Barber", "Brampton", "MVP", or "Elam"</div>';
+}
+
+function buildGlobalSearchIndex() {
+  const idx = [];
+  // Players from all sources
+  if (typeof canadiansPro !== 'undefined') canadiansPro.forEach(p => idx.push({ type: 'player', name: p.name, sub: `${p.team} · ${p.league}`, action: () => openPlayerByName(p.name), tab: 'canadians-pro' }));
+  if (typeof ncaaCanadians !== 'undefined') ncaaCanadians.forEach(p => idx.push({ type: 'NCAA prospect', name: p.name, sub: `${p.school} · ${p.classYear}`, action: () => switchTab('ncaa-canadians'), tab: 'ncaa-canadians' }));
+  if (typeof importTargets !== 'undefined') importTargets.forEach(p => idx.push({ type: 'import', name: p.name, sub: `${p.team} · ${p.league}`, action: () => openPlayerByName(p.name), tab: 'imports' }));
+  if (typeof canadianPipeline !== 'undefined') canadianPipeline.forEach(p => idx.push({ type: 'pipeline', name: p.name, sub: `${p.team} · ${p.league}`, action: () => switchTab('pipeline'), tab: 'pipeline' }));
+  // Tabs
+  const tabs = [
+    { name: 'Dashboard', sub: 'Honey Badgers home', tab: 'dashboard' },
+    { name: 'Stat Leaders', sub: 'CEBL leaderboards', tab: 'leaderboards' },
+    { name: 'Records Book', sub: 'All-time CEBL records, awards, legends, trivia', tab: 'records' },
+    { name: 'Pipeline', sub: 'Every Canadian pro worldwide', tab: 'pipeline' },
+    { name: 'Elam Ending', sub: 'CEBL signature finish format', tab: 'elam' },
+    { name: 'Target Analytics', sub: 'Bonus-point scoring zone', tab: 'target' },
+    { name: 'Player Compare', sub: 'Side-by-side comparisons', tab: 'compare' },
+    { name: 'Cap Tools', sub: 'Salary cap calculator (Premium)', tab: 'cap-tools' }
+  ];
+  tabs.forEach(t => idx.push({ type: 'page', name: t.name, sub: t.sub, action: () => switchTab(t.tab), tab: t.tab }));
+  // Records & legends as searchable
+  if (typeof ceblLegends !== 'undefined') ceblLegends.forEach(l => idx.push({ type: 'legend', name: l.player, sub: `Legend · ${l.years}`, action: () => { switchTab('records'); setTimeout(() => { const btn = document.querySelector('[data-rb="legends"]'); if (btn) switchRecordsTab(btn, 'legends'); }, 50); }, tab: 'records' }));
+  // Teams
+  const teams = ['Brampton Honey Badgers','Calgary Surge','Edmonton Stingers','Montreal Alliance','Niagara River Lions','Ottawa BlackJacks','Saskatoon Mamba','Scarborough Shooting Stars','Vancouver Bandits','Winnipeg Sea Bears'];
+  teams.forEach(t => idx.push({ type: 'team', name: t, sub: 'CEBL Team · 2026', action: () => switchTab('signings'), tab: 'signings' }));
+  return idx;
+}
+
+let _gsIndex = null;
+function performGlobalSearch(q) {
+  if (!_gsIndex) _gsIndex = buildGlobalSearchIndex();
+  const r = document.getElementById('global-search-results');
+  if (!q || q.length < 1) {
+    r.innerHTML = '<div class="gs-hint">Try searching for "Cat Barber", "Brampton", "MVP", or "Elam"</div>';
+    return;
+  }
+  const ql = q.toLowerCase();
+  const matches = _gsIndex.filter(i => (i.name + ' ' + i.sub).toLowerCase().includes(ql)).slice(0, 25);
+  if (!matches.length) {
+    r.innerHTML = `<div class="gs-hint">No matches for "${q}"</div>`;
+    return;
+  }
+  r.innerHTML = matches.map((m, i) => `
+    <div class="gs-result" data-idx="${i}" onclick="window._gsActions[${i}]();closeGlobalSearch()">
+      <span class="gs-type gs-type-${m.type.replace(/\s/g, '-')}">${m.type}</span>
+      <div class="gs-result-text">
+        <div class="gs-result-name">${m.name}</div>
+        <div class="gs-result-sub">${m.sub}</div>
+      </div>
+    </div>
+  `).join('');
+  window._gsActions = matches.map(m => m.action);
+}
+
+function openPlayerByName(name) {
+  if (typeof playerCareerStats !== 'undefined' && playerCareerStats[name]) {
+    openPlayerModal(name);
+  } else {
+    // Fall back to switching to canadians-pro tab
+    switchTab('canadians-pro');
+  }
+}
+
+// ============================================================================
+// ===== EXPANDED ELAM ENDING DEEP DIVE (richer fan content) =====
+// ============================================================================
+const _origRenderElam = typeof renderElamAnalytics === 'function' ? renderElamAnalytics : null;
+function renderElamAnalyticsRich() {
+  // Run the original first to populate the existing content
+  if (_origRenderElam) _origRenderElam();
+  const c = document.getElementById('elam-content');
+  if (!c) return;
+  // Prepend an explainer section for fans
+  const explainer = `
+    <div class="elam-explainer">
+      <div class="elam-hero">
+        <div class="elam-hero-badge">📚 The Basics</div>
+        <h3>What is the Elam Ending?</h3>
+        <p>Instead of running out the clock, CEBL games end when one team hits a <strong>Target Score</strong> — calculated as the leader's score + 9 points (with the Target Score worked into 4-quarter games at the end of regulation). No clock, no stalling, no intentional fouls. Just basketball.</p>
+      </div>
+      <div class="elam-pillars">
+        <div class="elam-pillar"><div class="elam-pillar-icon">🎯</div><h4>How It Works</h4><p>At first stoppage under 3:00 left in Q4, the clock is turned off. The leading team's score plus 9 = Target Score. First to that number wins.</p></div>
+        <div class="elam-pillar"><div class="elam-pillar-icon">🏀</div><h4>Why It's Awesome</h4><p>No more late-game free-throw parades. Every game ends with a made basket. Pure pressure. Pure execution. It's basketball at its rawest.</p></div>
+        <div class="elam-pillar"><div class="elam-pillar-icon">📊</div><h4>The Strategy</h4><p>Coaches deploy clutch lineups. Defenses bear down. Stars take over. Comebacks become possible — but never automatic. Every possession matters.</p></div>
+        <div class="elam-pillar"><div class="elam-pillar-icon">🌟</div><h4>The Origin</h4><p>Created by educator Nick Elam in 2007, popularized by The Basketball Tournament. The CEBL adopted it in 2020 as its signature ending — the league's defining innovation.</p></div>
+      </div>
+    </div>
+  `;
+  c.insertAdjacentHTML('afterbegin', explainer);
+}
+
+// ============================================================================
+// ===== HOMETOWN MAP (Canadian Pipeline storytelling) =====
+// ============================================================================
+const _origRenderPipeline = typeof renderPipeline === 'function' ? renderPipeline : null;
+function renderPipelineEnhanced() {
+  if (_origRenderPipeline) _origRenderPipeline();
+  // Add hometown summary card to top of pipeline
+  if (typeof canadianPipeline === 'undefined') return;
+  const pipeline = canadianPipeline;
+  const summary = document.getElementById('pipeline-summary');
+  if (!summary) return;
+
+  // Aggregate by hometown province / city
+  const byProvince = {};
+  pipeline.forEach(p => {
+    const town = (p.hometown || '').split(',').map(s => s.trim());
+    const prov = town[1] || 'Unknown';
+    byProvince[prov] = (byProvince[prov] || 0) + 1;
+  });
+  const provincesSorted = Object.entries(byProvince).sort((a,b) => b[1] - a[1]);
+
+  const byTier = {};
+  pipeline.forEach(p => byTier[p.tier] = (byTier[p.tier] || 0) + 1);
+
+  const homeTownsSummary = `
+    <div class="pipeline-stats-row">
+      <div class="ps-card">
+        <div class="ps-num">${pipeline.length}</div>
+        <div class="ps-lbl">Canadians Tracked Worldwide</div>
+      </div>
+      <div class="ps-card">
+        <div class="ps-num">${byTier['NBA'] || 0}</div>
+        <div class="ps-lbl">In the NBA</div>
+      </div>
+      <div class="ps-card">
+        <div class="ps-num">${(byTier['Europe-Elite']||0) + (byTier['Europe-Top']||0) + (byTier['Europe-Mid']||0)}</div>
+        <div class="ps-lbl">In Europe</div>
+      </div>
+      <div class="ps-card">
+        <div class="ps-num">${provincesSorted.length}</div>
+        <div class="ps-lbl">Provinces / Regions</div>
+      </div>
+    </div>
+    <div class="hometown-map-block">
+      <h3>📍 By Hometown — Where Canadian Pros Are From</h3>
+      <div class="hometown-list">
+        ${provincesSorted.slice(0, 12).map(([prov, count]) => `
+          <div class="hometown-chip">
+            <span class="hometown-prov">${prov}</span>
+            <span class="hometown-count">${count}</span>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+  summary.innerHTML = homeTownsSummary + summary.innerHTML;
+}
+
+// ============================================================================
+// ===== TEAM ROSTER PAGES =====
+// ============================================================================
+const CEBL_TEAMS_2026 = [
+  { id: 'brampton', name: 'Brampton Honey Badgers', emoji: '🦡', color: '#D4AF37' },
+  { id: 'calgary', name: 'Calgary Surge', emoji: '⚡', color: '#E31837' },
+  { id: 'edmonton', name: 'Edmonton Stingers', emoji: '🐝', color: '#FFB81C' },
+  { id: 'montreal', name: 'Montreal Alliance', emoji: '⚜️', color: '#7B2D8E' },
+  { id: 'niagara', name: 'Niagara River Lions', emoji: '🦁', color: '#0066CC' },
+  { id: 'ottawa', name: 'Ottawa BlackJacks', emoji: '🃏', color: '#CC0000' },
+  { id: 'saskatoon', name: 'Saskatoon Mamba', emoji: '🐍', color: '#00AA00' },
+  { id: 'scarborough', name: 'Scarborough Shooting Stars', emoji: '⭐', color: '#1E90FF' },
+  { id: 'vancouver', name: 'Vancouver Bandits', emoji: '🏴‍☠️', color: '#FF6B35' },
+  { id: 'winnipeg', name: 'Winnipeg Sea Bears', emoji: '🐻', color: '#003366' }
+];
+
+function renderTeamRosters() {
+  const grid = document.getElementById('team-rosters-grid');
+  if (!grid) return;
+  grid.innerHTML = `
+    <div class="tr-grid">
+      ${CEBL_TEAMS_2026.map(t => {
+        const signings = (typeof leagueSignings !== 'undefined' && leagueSignings[t.name]) ? leagueSignings[t.name].players.length : 0;
+        return `
+          <div class="tr-team-card" style="border-color: ${t.color}40" onclick="renderTeamDetail('${t.name.replace(/'/g, "\\'")}')">
+            <div class="tr-team-emoji" style="background: ${t.color}20">${t.emoji}</div>
+            <div class="tr-team-info">
+              <div class="tr-team-name" style="color: ${t.color}">${t.name}</div>
+              <div class="tr-team-meta">${signings} signed for 2026</div>
+            </div>
+            <div class="tr-arrow">→</div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+}
+
+function renderTeamDetail(teamName) {
+  const detail = document.getElementById('team-roster-detail');
+  if (!detail) return;
+  const team = CEBL_TEAMS_2026.find(t => t.name === teamName);
+  if (!team) return;
+
+  // Aggregate all known players for this team
+  const signings = (typeof leagueSignings !== 'undefined' && leagueSignings[teamName]) ? leagueSignings[teamName].players : [];
+  const proCanadians = (typeof canadiansPro !== 'undefined') ? canadiansPro.filter(p => (p.team || '').toLowerCase().includes(teamName.toLowerCase()) || (teamName.toLowerCase().includes((p.team || '').toLowerCase()) && p.team)) : [];
+  const imports = (typeof importTargets !== 'undefined') ? importTargets.filter(p => (p.team || '').includes(teamName)) : [];
+
+  detail.innerHTML = `
+    <div class="tr-detail" style="border-top: 3px solid ${team.color}">
+      <div class="tr-detail-header">
+        <button class="tr-back-btn" onclick="document.getElementById('team-roster-detail').innerHTML=''">← Back to Teams</button>
+        <h2 style="color: ${team.color}">${team.emoji} ${team.name}</h2>
+      </div>
+
+      <div class="tr-section">
+        <h3 class="tr-h3">📋 2026 Confirmed Signings (${signings.length})</h3>
+        ${signings.length > 0 ? `
+          <div class="tr-roster-grid">
+            ${signings.map(p => `
+              <div class="tr-player-card">
+                <div class="tr-player-avatar has-headshot">${avatarContent(p.name)}</div>
+                <div class="tr-player-info">
+                  <div class="tr-player-name" data-player-name="${p.name}">${p.name}</div>
+                  <div class="tr-player-pos">${p.pos} · <span class="tr-tag">${p.type}</span></div>
+                  <div class="tr-player-detail">${p.detail}</div>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        ` : '<p class="tr-empty">No 2026 signings tracked yet for this team. Check back soon.</p>'}
+      </div>
+
+      ${proCanadians.length > 0 ? `
+        <div class="tr-section">
+          <h3 class="tr-h3">🇨🇦 Canadians On Roster</h3>
+          <div class="tr-roster-grid">
+            ${proCanadians.map(p => `
+              <div class="tr-player-card">
+                <div class="tr-player-avatar has-headshot">${avatarContent(p.name)}</div>
+                <div class="tr-player-info">
+                  <div class="tr-player-name" data-player-name="${p.name}">${p.name}</div>
+                  <div class="tr-player-pos">${p.pos} · ${p.ht} · ${p.hometown}</div>
+                  <div class="tr-player-detail">${p.ppg} PPG · ${p.rpg} RPG · ${p.apg} APG</div>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+
+      ${imports.length > 0 ? `
+        <div class="tr-section">
+          <h3 class="tr-h3">🌍 Import Players</h3>
+          <div class="tr-roster-grid">
+            ${imports.map(p => `
+              <div class="tr-player-card">
+                <div class="tr-player-avatar has-headshot">${avatarContent(p.name)}</div>
+                <div class="tr-player-info">
+                  <div class="tr-player-name" data-player-name="${p.name}">${p.name}</div>
+                  <div class="tr-player-pos">${p.pos} · ${p.nationality}</div>
+                  <div class="tr-player-detail">${p.ppg} PPG · ${p.rpg} RPG · ${p.apg} APG</div>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+    </div>
+  `;
+  // Smooth scroll into view
+  detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  requestAnimationFrame(() => addPlayerClickHandlers());
+}
+
+// ============================================================================
+// ===== INIT EXTENSIONS =====
+// ============================================================================
+function _initEnhancements() {
+  // Replace renderers with enhanced versions
+  if (typeof renderElamAnalytics === 'function') {
+    window.renderElamAnalytics = renderElamAnalyticsRich;
+  }
+  if (typeof renderPipeline === 'function') {
+    window.renderPipeline = renderPipelineEnhanced;
+  }
+}
+_initEnhancements();
+
 // ===== Auto-Refresh =====
 function refreshAllData() {
   renderHBRoster();
@@ -1313,12 +1846,18 @@ function refreshAllData() {
   renderElamAnalytics();
   renderTargetAnalytics();
   renderAdvancedStats();
+  renderLeaderboards();
+  renderRecordsContent();
+  renderTeamRosters();
   populateCompareDropdowns();
   populateWatchlistDropdown();
   renderWatchlist();
 
   // Defer click handler attachment to after DOM updates
-  requestAnimationFrame(() => addPlayerClickHandlers());
+  requestAnimationFrame(() => {
+    addPlayerClickHandlers();
+    activateAllSortableTables();
+  });
 }
 
 // ===== Initialize =====
@@ -1328,4 +1867,19 @@ document.addEventListener('DOMContentLoaded', () => {
   setInterval(checkForUpdates, 2 * 60 * 1000);
   // Initial status
   setLiveStatus('live');
+
+  // Global search keyboard shortcut (Cmd+K / Ctrl+K)
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      openGlobalSearch();
+    } else if (e.key === 'Escape') {
+      const gs = document.getElementById('global-search-modal');
+      if (gs && gs.classList.contains('show')) closeGlobalSearch();
+    }
+  });
+
+  // Wire up search input
+  const gsInput = document.getElementById('global-search-input');
+  if (gsInput) gsInput.addEventListener('input', (e) => performGlobalSearch(e.target.value));
 });

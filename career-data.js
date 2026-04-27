@@ -271,6 +271,197 @@ const playerCareerStats = {
     medicalHistory: [
       { date: "2021-02", injury: "Right foot stress reaction", severity: "Moderate", gamesOut: 6, note: "Managed carefully at Northwestern" }
     ]
+  },
+
+  "Cat Barber": {
+    bio: { position: "Guard", height: "6'2\"", weight: "180 lbs", age: 32, hometown: "Hampton, VA", draft: "Undrafted (2016)", college: "NC State" },
+    careerStats: [
+      { season: "2013-14", age: 19, league: "NCAA", team: "NC State", gp: 33, gs: 33, mpg: 32.0, ppg: 12.0, rpg: 3.0, apg: 4.0, spg: 1.0, bpg: 0.1, fgPct: 39.0, threePct: 30.0, ftPct: 75.0 },
+      { season: "2014-15", age: 20, league: "NCAA", team: "NC State", gp: 35, gs: 35, mpg: 34.0, ppg: 17.0, rpg: 3.2, apg: 5.5, spg: 1.5, bpg: 0.2, fgPct: 43.0, threePct: 33.0, ftPct: 80.0 },
+      { season: "2015-16", age: 21, league: "NCAA", team: "NC State", gp: 32, gs: 32, mpg: 35.0, ppg: 23.5, rpg: 3.5, apg: 4.7, spg: 1.6, bpg: 0.2, fgPct: 45.0, threePct: 34.0, ftPct: 82.0 },
+      { season: "2016-22", age: 22, league: "Various", team: "8 countries (Italy/Israel/Greece/etc.)", gp: 250, gs: 200, mpg: 30.0, ppg: 16.5, rpg: 3.3, apg: 4.5, spg: 1.2, bpg: 0.2, fgPct: 44.0, threePct: 35.0, ftPct: 80.0 },
+      { season: "2023", age: 29, league: "CEBL", team: "Scarborough Shooting Stars", gp: 18, gs: 18, mpg: 32.0, ppg: 19.5, rpg: 3.5, apg: 4.0, spg: 1.4, bpg: 0.2, fgPct: 47.0, threePct: 38.0, ftPct: 82.0 },
+      { season: "2024", age: 30, league: "CEBL", team: "Scarborough Shooting Stars", gp: 20, gs: 20, mpg: 31.0, ppg: 21.0, rpg: 3.5, apg: 4.2, spg: 1.3, bpg: 0.2, fgPct: 48.0, threePct: 39.0, ftPct: 84.0 },
+      { season: "2024-25", age: 31, league: "Portugal Liga Betclic", team: "Sporting CP", gp: 25, gs: 22, mpg: 28.0, ppg: 14.5, rpg: 3.0, apg: 3.8, spg: 1.0, bpg: 0.1, fgPct: 46.0, threePct: 36.0, ftPct: 80.0 },
+      { season: "2025", age: 31, league: "CEBL", team: "Scarborough Shooting Stars", gp: 13, gs: 13, mpg: 28.9, ppg: 19.2, rpg: 3.5, apg: 3.9, spg: 1.2, bpg: 0.2, fgPct: 47.0, threePct: 38.5, ftPct: 82.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Mfiondu Kabengele": {
+    bio: { position: "Center", height: "6'10\"", weight: "250 lbs", age: 28, hometown: "Toronto, ON", draft: "2019 NBA Draft, 1st Round, 27th Pick (LAC)", college: "Florida State" },
+    careerStats: [
+      { season: "2017-19", age: 20, league: "NCAA", team: "Florida State", gp: 65, gs: 25, mpg: 21.0, ppg: 12.5, rpg: 6.0, apg: 0.5, spg: 0.7, bpg: 1.5, fgPct: 50.0, threePct: 32.0, ftPct: 73.0 },
+      { season: "2019-21", age: 22, league: "NBA", team: "LA Clippers / Cleveland", gp: 50, gs: 2, mpg: 9.0, ppg: 3.5, rpg: 2.0, apg: 0.3, spg: 0.2, bpg: 0.4, fgPct: 39.0, threePct: 31.0, ftPct: 70.0 },
+      { season: "2021-23", age: 24, league: "Various", team: "G League / Italy / Spain", gp: 60, gs: 50, mpg: 26.0, ppg: 14.0, rpg: 7.5, apg: 1.0, spg: 0.6, bpg: 1.2, fgPct: 52.0, threePct: 35.0, ftPct: 74.0 },
+      { season: "2024-25", age: 27, league: "ABA League / EuroCup", team: "Dubai Basketball", gp: 30, gs: 30, mpg: 30.0, ppg: 15.4, rpg: 9.7, apg: 1.5, spg: 0.7, bpg: 1.5, fgPct: 56.0, threePct: 36.0, ftPct: 76.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Chris Boucher": {
+    bio: { position: "Forward/Center", height: "6'9\"", weight: "200 lbs", age: 33, hometown: "Montreal, QC", draft: "Undrafted (2017)", college: "Oregon" },
+    careerStats: [
+      { season: "2017-25", age: 24, league: "NBA", team: "Toronto Raptors", gp: 350, gs: 80, mpg: 18.5, ppg: 7.5, rpg: 4.6, apg: 0.8, spg: 0.5, bpg: 0.9, fgPct: 47.0, threePct: 35.0, ftPct: 78.0 },
+      { season: "2024-25", age: 32, league: "EuroLeague", team: "Fenerbahce", gp: 30, gs: 18, mpg: 24.0, ppg: 8.5, rpg: 5.5, apg: 0.8, spg: 0.6, bpg: 1.0, fgPct: 49.0, threePct: 36.0, ftPct: 80.0 },
+      { season: "2025-26", age: 33, league: "NBA", team: "Boston / Utah / FA", gp: 22, gs: 0, mpg: 8.0, ppg: 2.3, rpg: 2.0, apg: 0.3, spg: 0.2, bpg: 0.4, fgPct: 38.0, threePct: 28.0, ftPct: 70.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Shai Gilgeous-Alexander": {
+    bio: { position: "Guard", height: "6'6\"", weight: "200 lbs", age: 27, hometown: "Hamilton, ON", draft: "2018 NBA Draft, 1st Round, 11th Pick (CHA)", college: "Kentucky" },
+    careerStats: [
+      { season: "2017-18", age: 19, league: "NCAA", team: "Kentucky", gp: 37, gs: 24, mpg: 33.7, ppg: 14.4, rpg: 4.1, apg: 5.1, spg: 1.6, bpg: 0.5, fgPct: 48.5, threePct: 40.4, ftPct: 81.7 },
+      { season: "2018-19", age: 20, league: "NBA", team: "LA Clippers", gp: 82, gs: 73, mpg: 26.5, ppg: 10.8, rpg: 2.8, apg: 3.3, spg: 1.2, bpg: 0.5, fgPct: 47.6, threePct: 36.7, ftPct: 80.0 },
+      { season: "2022-23", age: 24, league: "NBA", team: "OKC Thunder", gp: 68, gs: 68, mpg: 35.5, ppg: 31.4, rpg: 4.8, apg: 5.5, spg: 1.6, bpg: 1.0, fgPct: 51.0, threePct: 34.5, ftPct: 90.5 },
+      { season: "2023-24", age: 25, league: "NBA", team: "OKC Thunder", gp: 75, gs: 75, mpg: 34.0, ppg: 30.1, rpg: 5.5, apg: 6.2, spg: 2.0, bpg: 0.9, fgPct: 53.5, threePct: 35.4, ftPct: 87.4 },
+      { season: "2024-25", age: 26, league: "NBA", team: "OKC Thunder", gp: 76, gs: 76, mpg: 35.0, ppg: 32.7, rpg: 5.0, apg: 6.4, spg: 1.7, bpg: 1.0, fgPct: 51.9, threePct: 37.5, ftPct: 89.8 }
+    ],
+    medicalHistory: []
+  },
+
+  "Jamal Murray": {
+    bio: { position: "Guard", height: "6'4\"", weight: "215 lbs", age: 29, hometown: "Kitchener, ON", draft: "2016 NBA Draft, 1st Round, 7th Pick (DEN)", college: "Kentucky" },
+    careerStats: [
+      { season: "2015-16", age: 19, league: "NCAA", team: "Kentucky", gp: 36, gs: 36, mpg: 35.2, ppg: 20.0, rpg: 5.2, apg: 2.2, spg: 1.0, bpg: 0.3, fgPct: 45.4, threePct: 40.8, ftPct: 78.3 },
+      { season: "2019-20", age: 23, league: "NBA", team: "Denver Nuggets", gp: 59, gs: 59, mpg: 32.5, ppg: 18.5, rpg: 4.0, apg: 4.8, spg: 1.0, bpg: 0.3, fgPct: 46.4, threePct: 34.6, ftPct: 88.0 },
+      { season: "2022-23", age: 26, league: "NBA", team: "Denver Nuggets", gp: 65, gs: 65, mpg: 32.6, ppg: 20.0, rpg: 4.0, apg: 6.2, spg: 1.0, bpg: 0.4, fgPct: 45.4, threePct: 39.8, ftPct: 83.4 },
+      { season: "2023-24", age: 27, league: "NBA", team: "Denver Nuggets", gp: 59, gs: 59, mpg: 35.5, ppg: 21.2, rpg: 4.1, apg: 6.5, spg: 1.0, bpg: 0.6, fgPct: 48.1, threePct: 42.5, ftPct: 87.3 },
+      { season: "2024-25", age: 28, league: "NBA", team: "Denver Nuggets", gp: 65, gs: 65, mpg: 32.0, ppg: 21.4, rpg: 4.0, apg: 6.0, spg: 1.0, bpg: 0.4, fgPct: 47.0, threePct: 39.0, ftPct: 86.0 }
+    ],
+    medicalHistory: [
+      { date: "2021-04", injury: "Left ACL tear", severity: "Major", gamesOut: 100, note: "Missed entire 2021-22 NBA season" }
+    ]
+  },
+
+  "Lu Dort": {
+    bio: { position: "Guard/Forward", height: "6'4\"", weight: "215 lbs", age: 26, hometown: "Montréal-Nord, QC", draft: "Undrafted (2019)", college: "Arizona State" },
+    careerStats: [
+      { season: "2018-19", age: 19, league: "NCAA", team: "Arizona State", gp: 34, gs: 34, mpg: 31.0, ppg: 16.1, rpg: 4.3, apg: 2.3, spg: 1.4, bpg: 0.2, fgPct: 40.6, threePct: 31.0, ftPct: 75.4 },
+      { season: "2019-20", age: 20, league: "NBA", team: "OKC Thunder", gp: 36, gs: 25, mpg: 21.5, ppg: 6.8, rpg: 1.9, apg: 0.8, spg: 0.6, bpg: 0.1, fgPct: 39.7, threePct: 29.7, ftPct: 75.0 },
+      { season: "2023-24", age: 24, league: "NBA", team: "OKC Thunder", gp: 79, gs: 79, mpg: 30.6, ppg: 10.9, rpg: 4.0, apg: 1.8, spg: 0.9, bpg: 0.5, fgPct: 41.3, threePct: 39.4, ftPct: 82.7 },
+      { season: "2024-25", age: 25, league: "NBA", team: "OKC Thunder", gp: 71, gs: 71, mpg: 28.0, ppg: 10.3, rpg: 3.9, apg: 1.7, spg: 1.1, bpg: 0.4, fgPct: 42.0, threePct: 37.0, ftPct: 80.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "RJ Barrett": {
+    bio: { position: "Guard/Forward", height: "6'6\"", weight: "210 lbs", age: 25, hometown: "Mississauga, ON", draft: "2019 NBA Draft, 1st Round, 3rd Pick (NYK)", college: "Duke" },
+    careerStats: [
+      { season: "2018-19", age: 18, league: "NCAA", team: "Duke", gp: 38, gs: 38, mpg: 35.2, ppg: 22.6, rpg: 7.6, apg: 4.3, spg: 0.9, bpg: 0.4, fgPct: 45.4, threePct: 30.8, ftPct: 66.5 },
+      { season: "2019-20", age: 19, league: "NBA", team: "New York Knicks", gp: 56, gs: 56, mpg: 30.4, ppg: 14.3, rpg: 5.0, apg: 2.6, spg: 0.9, bpg: 0.3, fgPct: 40.2, threePct: 32.0, ftPct: 61.4 },
+      { season: "2023-24", age: 23, league: "NBA", team: "NYK / TOR", gp: 71, gs: 71, mpg: 32.0, ppg: 18.2, rpg: 6.0, apg: 4.0, spg: 0.7, bpg: 0.4, fgPct: 47.0, threePct: 36.0, ftPct: 73.0 },
+      { season: "2024-25", age: 24, league: "NBA", team: "Toronto Raptors", gp: 67, gs: 67, mpg: 33.5, ppg: 21.5, rpg: 6.4, apg: 5.5, spg: 0.9, bpg: 0.4, fgPct: 46.5, threePct: 35.0, ftPct: 71.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Dillon Brooks": {
+    bio: { position: "Forward", height: "6'7\"", weight: "225 lbs", age: 30, hometown: "Mississauga, ON", draft: "2017 NBA Draft, 2nd Round, 45th Pick (HOU)", college: "Oregon" },
+    careerStats: [
+      { season: "2016-17", age: 21, league: "NCAA", team: "Oregon", gp: 39, gs: 39, mpg: 32.0, ppg: 16.1, rpg: 3.2, apg: 2.7, spg: 0.8, bpg: 0.2, fgPct: 47.5, threePct: 40.4, ftPct: 79.5 },
+      { season: "2017-18", age: 22, league: "NBA", team: "Memphis Grizzlies", gp: 82, gs: 74, mpg: 28.5, ppg: 11.0, rpg: 3.1, apg: 1.6, spg: 0.7, bpg: 0.2, fgPct: 44.0, threePct: 35.6, ftPct: 75.5 },
+      { season: "2022-23", age: 27, league: "NBA", team: "Memphis Grizzlies", gp: 73, gs: 72, mpg: 33.4, ppg: 14.3, rpg: 3.7, apg: 2.6, spg: 0.9, bpg: 0.3, fgPct: 39.6, threePct: 32.6, ftPct: 73.8 },
+      { season: "2024-25", age: 29, league: "NBA", team: "Houston Rockets", gp: 73, gs: 73, mpg: 30.0, ppg: 14.0, rpg: 3.7, apg: 2.0, spg: 0.9, bpg: 0.3, fgPct: 44.0, threePct: 39.0, ftPct: 78.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Andrew Wiggins": {
+    bio: { position: "Forward", height: "6'7\"", weight: "194 lbs", age: 30, hometown: "Toronto, ON", draft: "2014 NBA Draft, 1st Round, 1st Pick (CLE)", college: "Kansas" },
+    careerStats: [
+      { season: "2013-14", age: 19, league: "NCAA", team: "Kansas", gp: 35, gs: 35, mpg: 32.8, ppg: 17.1, rpg: 5.9, apg: 1.5, spg: 1.2, bpg: 1.0, fgPct: 44.8, threePct: 34.1, ftPct: 77.5 },
+      { season: "2014-15", age: 20, league: "NBA", team: "Minnesota T-Wolves", gp: 82, gs: 82, mpg: 36.2, ppg: 16.9, rpg: 4.6, apg: 2.1, spg: 1.0, bpg: 0.6, fgPct: 43.7, threePct: 31.0, ftPct: 76.0 },
+      { season: "2021-22", age: 26, league: "NBA", team: "Golden State Warriors", gp: 73, gs: 73, mpg: 31.9, ppg: 17.2, rpg: 4.5, apg: 2.2, spg: 1.1, bpg: 0.7, fgPct: 46.6, threePct: 39.3, ftPct: 63.3, note: "NBA Champion" },
+      { season: "2024-25", age: 29, league: "NBA", team: "GSW / MIA", gp: 65, gs: 65, mpg: 30.0, ppg: 17.5, rpg: 5.0, apg: 2.5, spg: 1.0, bpg: 0.7, fgPct: 45.0, threePct: 36.0, ftPct: 70.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Brandon Clarke": {
+    bio: { position: "Forward", height: "6'8\"", weight: "210 lbs", age: 29, hometown: "Vancouver, BC", draft: "2019 NBA Draft, 1st Round, 21st Pick (OKC)", college: "Gonzaga" },
+    careerStats: [
+      { season: "2018-19", age: 22, league: "NCAA", team: "Gonzaga", gp: 37, gs: 37, mpg: 28.4, ppg: 16.9, rpg: 8.6, apg: 1.9, spg: 1.2, bpg: 3.2, fgPct: 68.7, threePct: 26.7, ftPct: 69.2 },
+      { season: "2019-20", age: 23, league: "NBA", team: "Memphis Grizzlies", gp: 58, gs: 9, mpg: 22.4, ppg: 12.1, rpg: 5.9, apg: 1.4, spg: 0.5, bpg: 0.9, fgPct: 61.8, threePct: 35.9, ftPct: 75.5 },
+      { season: "2022-23", age: 26, league: "NBA", team: "Memphis Grizzlies", gp: 50, gs: 24, mpg: 23.5, ppg: 10.4, rpg: 5.8, apg: 1.2, spg: 0.5, bpg: 0.9, fgPct: 64.1, threePct: 33.3, ftPct: 71.1 },
+      { season: "2024-25", age: 28, league: "NBA", team: "Memphis Grizzlies", gp: 65, gs: 30, mpg: 23.0, ppg: 9.5, rpg: 5.5, apg: 1.0, spg: 0.5, bpg: 0.8, fgPct: 60.0, threePct: 35.0, ftPct: 70.0 }
+    ],
+    medicalHistory: [
+      { date: "2023-03", injury: "Right Achilles tear", severity: "Major", gamesOut: 50, note: "Major injury, slow recovery" }
+    ]
+  },
+
+  "Bennedict Mathurin": {
+    bio: { position: "Guard/Forward", height: "6'6\"", weight: "210 lbs", age: 23, hometown: "Montréal, QC", draft: "2022 NBA Draft, 1st Round, 6th Pick (IND)", college: "Arizona" },
+    careerStats: [
+      { season: "2021-22", age: 19, league: "NCAA", team: "Arizona", gp: 37, gs: 37, mpg: 32.5, ppg: 17.7, rpg: 5.6, apg: 2.5, spg: 0.7, bpg: 0.4, fgPct: 45.0, threePct: 36.9, ftPct: 75.0 },
+      { season: "2022-23", age: 20, league: "NBA", team: "Indiana Pacers", gp: 78, gs: 1, mpg: 28.5, ppg: 16.7, rpg: 4.1, apg: 1.5, spg: 0.6, bpg: 0.2, fgPct: 41.9, threePct: 32.4, ftPct: 80.4 },
+      { season: "2023-24", age: 21, league: "NBA", team: "Indiana Pacers", gp: 59, gs: 27, mpg: 30.0, ppg: 14.5, rpg: 4.5, apg: 1.7, spg: 0.6, bpg: 0.2, fgPct: 43.9, threePct: 37.4, ftPct: 80.0 },
+      { season: "2024-25", age: 22, league: "NBA", team: "Indiana Pacers", gp: 70, gs: 50, mpg: 30.0, ppg: 16.5, rpg: 4.5, apg: 2.0, spg: 0.7, bpg: 0.3, fgPct: 44.0, threePct: 35.0, ftPct: 82.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Tristan Thompson": {
+    bio: { position: "Center", height: "6'9\"", weight: "238 lbs", age: 34, hometown: "Brampton, ON", draft: "2011 NBA Draft, 1st Round, 4th Pick (CLE)", college: "Texas" },
+    careerStats: [
+      { season: "2010-11", age: 19, league: "NCAA", team: "Texas", gp: 36, gs: 35, mpg: 30.6, ppg: 13.1, rpg: 7.8, apg: 0.6, spg: 0.4, bpg: 2.4, fgPct: 54.6, threePct: 0, ftPct: 48.7 },
+      { season: "2011-12", age: 20, league: "NBA", team: "Cleveland Cavaliers", gp: 60, gs: 22, mpg: 23.7, ppg: 8.2, rpg: 6.5, apg: 0.5, spg: 0.4, bpg: 1.0, fgPct: 43.9, threePct: 0, ftPct: 55.2 },
+      { season: "2015-16", age: 24, league: "NBA", team: "Cleveland Cavaliers", gp: 82, gs: 53, mpg: 28.5, ppg: 7.8, rpg: 9.0, apg: 0.8, spg: 0.5, bpg: 0.7, fgPct: 58.6, threePct: 0, ftPct: 65.5, note: "NBA Champion" },
+      { season: "2024-25", age: 33, league: "NBA", team: "Cleveland Cavaliers", gp: 49, gs: 0, mpg: 13.0, ppg: 4.0, rpg: 3.5, apg: 0.5, spg: 0.3, bpg: 0.3, fgPct: 55.0, threePct: 0, ftPct: 60.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Olivier Sarr": {
+    bio: { position: "Center", height: "7'0\"", weight: "240 lbs", age: 26, hometown: "Bordeaux, France / Toronto, ON", draft: "Undrafted (2021)", college: "Wake Forest / Kentucky" },
+    careerStats: [
+      { season: "2020-21", age: 21, league: "NCAA", team: "Kentucky", gp: 25, gs: 25, mpg: 30.5, ppg: 13.0, rpg: 7.5, apg: 1.8, spg: 0.7, bpg: 1.5, fgPct: 50.0, threePct: 28.0, ftPct: 70.0 },
+      { season: "2021-23", age: 23, league: "NBA / G League", team: "OKC / Toronto / Utah", gp: 50, gs: 0, mpg: 12.0, ppg: 4.5, rpg: 3.0, apg: 0.5, spg: 0.3, bpg: 0.7, fgPct: 50.0, threePct: 30.0, ftPct: 70.0 },
+      { season: "2024-25", age: 25, league: "NBA / G League", team: "Memphis / Hustle", gp: 50, gs: 10, mpg: 18.0, ppg: 9.0, rpg: 5.5, apg: 1.0, spg: 0.5, bpg: 0.9, fgPct: 55.0, threePct: 33.0, ftPct: 75.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Leonard Miller": {
+    bio: { position: "Forward", height: "6'10\"", weight: "210 lbs", age: 22, hometown: "Scarborough, ON", draft: "2023 NBA Draft, 2nd Round, 33rd Pick (MIN)", college: "G League Ignite" },
+    careerStats: [
+      { season: "2022-23", age: 19, league: "G League", team: "Ignite", gp: 25, gs: 20, mpg: 28.0, ppg: 17.4, rpg: 9.8, apg: 1.5, spg: 0.8, bpg: 1.0, fgPct: 53.0, threePct: 31.0, ftPct: 70.0 },
+      { season: "2023-24", age: 20, league: "NBA / G League", team: "Minnesota / Iowa Wolves", gp: 35, gs: 5, mpg: 18.0, ppg: 8.5, rpg: 5.5, apg: 1.0, spg: 0.5, bpg: 0.6, fgPct: 50.0, threePct: 32.0, ftPct: 70.0 },
+      { season: "2024-25", age: 21, league: "NBA / G League", team: "Minnesota / Iowa Wolves", gp: 40, gs: 8, mpg: 22.0, ppg: 11.0, rpg: 6.5, apg: 1.5, spg: 0.7, bpg: 0.7, fgPct: 52.0, threePct: 35.0, ftPct: 75.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Olivier-Maxence Prosper": {
+    bio: { position: "Forward", height: "6'8\"", weight: "230 lbs", age: 23, hometown: "Montreal, QC", draft: "2023 NBA Draft, 1st Round, 24th Pick (DAL)", college: "Marquette" },
+    careerStats: [
+      { season: "2022-23", age: 20, league: "NCAA", team: "Marquette", gp: 35, gs: 30, mpg: 31.0, ppg: 12.5, rpg: 4.7, apg: 1.5, spg: 1.0, bpg: 0.5, fgPct: 51.0, threePct: 33.0, ftPct: 75.0 },
+      { season: "2023-24", age: 21, league: "NBA", team: "Dallas Mavericks", gp: 42, gs: 0, mpg: 7.5, ppg: 2.0, rpg: 0.8, apg: 0.4, spg: 0.2, bpg: 0.1, fgPct: 41.0, threePct: 30.0, ftPct: 65.0 },
+      { season: "2024-25", age: 22, league: "NBA / G League", team: "Dallas / Texas Legends", gp: 50, gs: 3, mpg: 12.5, ppg: 4.5, rpg: 1.8, apg: 0.5, spg: 0.4, bpg: 0.2, fgPct: 45.0, threePct: 33.0, ftPct: 70.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Ryan Nembhard": {
+    bio: { position: "Guard", height: "6'0\"", weight: "175 lbs", age: 22, hometown: "Aurora, ON", draft: "Undrafted (2025)", college: "Creighton / Gonzaga" },
+    careerStats: [
+      { season: "2021-22", age: 18, league: "NCAA", team: "Creighton", gp: 32, gs: 32, mpg: 32.0, ppg: 11.5, rpg: 3.0, apg: 4.0, spg: 1.5, bpg: 0.2, fgPct: 42.0, threePct: 33.0, ftPct: 80.0 },
+      { season: "2024-25", age: 21, league: "NCAA", team: "Gonzaga", gp: 35, gs: 35, mpg: 33.0, ppg: 9.4, rpg: 2.6, apg: 9.8, spg: 1.5, bpg: 0.2, fgPct: 48.0, threePct: 38.0, ftPct: 84.0, note: "Bob Cousy Award winner" },
+      { season: "2025-26", age: 22, league: "NBA / G League", team: "Dallas / Texas Legends", gp: 30, gs: 0, mpg: 10.0, ppg: 3.5, rpg: 1.5, apg: 2.5, spg: 0.6, bpg: 0.1, fgPct: 42.0, threePct: 35.0, ftPct: 78.0 }
+    ],
+    medicalHistory: []
+  },
+
+  "Mychal Mulder": {
+    bio: { position: "Guard", height: "6'4\"", weight: "182 lbs", age: 31, hometown: "Windsor, ON", draft: "Undrafted (2018)", college: "Vincennes / Kentucky" },
+    careerStats: [
+      { season: "2016-17", age: 22, league: "NCAA", team: "Kentucky", gp: 36, gs: 0, mpg: 14.5, ppg: 5.5, rpg: 1.5, apg: 0.8, spg: 0.3, bpg: 0.1, fgPct: 38.0, threePct: 38.0, ftPct: 80.0 },
+      { season: "2019-20", age: 25, league: "NBA", team: "Golden State Warriors", gp: 18, gs: 3, mpg: 22.5, ppg: 9.5, rpg: 2.5, apg: 1.0, spg: 0.5, bpg: 0.1, fgPct: 42.0, threePct: 39.5, ftPct: 80.0 },
+      { season: "2024-25", age: 30, league: "NBA / G League", team: "Multiple / EuroCup", gp: 40, gs: 10, mpg: 22.0, ppg: 11.0, rpg: 2.5, apg: 1.5, spg: 0.5, bpg: 0.1, fgPct: 42.0, threePct: 38.0, ftPct: 82.0 }
+    ],
+    medicalHistory: []
   }
 };
 

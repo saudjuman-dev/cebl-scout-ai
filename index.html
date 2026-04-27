@@ -133,6 +133,11 @@
         </div>
       </div>
       <div class="header-actions">
+        <button class="global-search-btn" onclick="openGlobalSearch()" title="Search players, teams, records (Cmd+K)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <span class="gs-text">Search</span>
+          <span class="gs-kbd">⌘K</span>
+        </button>
         <div class="live-indicator" id="live-indicator" title="Auto-refreshing data">
           <span class="live-dot"></span>
           <span class="live-text">LIVE</span>
@@ -180,6 +185,18 @@
       <button class="nav-tab" data-tab="team-stats" onclick="switchTab('team-stats')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>
         Team Stats
+      </button>
+      <button class="nav-tab" data-tab="team-rosters" onclick="switchTab('team-rosters')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 11l-3 3-3-3"/></svg>
+        Rosters
+      </button>
+      <button class="nav-tab" data-tab="leaderboards" onclick="switchTab('leaderboards')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>
+        Leaders
+      </button>
+      <button class="nav-tab" data-tab="records" onclick="switchTab('records')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="m9 18 3-3 3 3"/><path d="M12 12v6"/></svg>
+        Records
       </button>
       <button class="nav-tab" data-tab="pipeline" onclick="switchTab('pipeline')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
@@ -516,6 +533,41 @@
       <div class="team-stats-grid" id="team-stats-grid"></div>
     </section>
 
+    <!-- TEAM ROSTERS TAB -->
+    <section id="tab-team-rosters" class="tab-content">
+      <div class="tab-header-row">
+        <h2>CEBL Team Rosters</h2>
+        <p class="tab-subtitle">Click any team to see their full 2026 + 2025 roster</p>
+      </div>
+      <div id="team-rosters-grid"></div>
+      <div id="team-roster-detail"></div>
+    </section>
+
+    <!-- STAT LEADERBOARDS TAB -->
+    <section id="tab-leaderboards" class="tab-content">
+      <div class="tab-header-row">
+        <h2>2025 CEBL Stat Leaders</h2>
+        <p class="tab-subtitle">League leaders in every category — who topped the CEBL last season</p>
+      </div>
+      <div id="leaderboards-content"></div>
+    </section>
+
+    <!-- RECORDS BOOK TAB -->
+    <section id="tab-records" class="tab-content">
+      <div class="tab-header-row">
+        <h2>CEBL Records Book</h2>
+        <p class="tab-subtitle">All-time CEBL records, awards, legends &amp; trivia</p>
+        <div class="filter-row" style="margin-top:0.75rem">
+          <button class="rb-tab active" data-rb="records" onclick="switchRecordsTab(this, 'records')">Records</button>
+          <button class="rb-tab" data-rb="awards" onclick="switchRecordsTab(this, 'awards')">Awards</button>
+          <button class="rb-tab" data-rb="legends" onclick="switchRecordsTab(this, 'legends')">Legends</button>
+          <button class="rb-tab" data-rb="timeline" onclick="switchRecordsTab(this, 'timeline')">Timeline</button>
+          <button class="rb-tab" data-rb="trivia" onclick="switchRecordsTab(this, 'trivia')">Trivia</button>
+        </div>
+      </div>
+      <div id="records-content"></div>
+    </section>
+
     <!-- CANADIAN PIPELINE TAB -->
     <section id="tab-pipeline" class="tab-content">
       <div class="tab-header-row">
@@ -634,6 +686,20 @@
     </div>
   </div>
 
+  <!-- Global Search Modal -->
+  <div id="global-search-modal" class="global-search-overlay" onclick="if(event.target===this)closeGlobalSearch()">
+    <div class="global-search-box">
+      <div class="gs-input-wrap">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="text" id="global-search-input" placeholder="Search players, teams, records, leagues..." autocomplete="off" />
+        <span class="gs-esc">ESC</span>
+      </div>
+      <div class="gs-results" id="global-search-results">
+        <div class="gs-hint">Try searching for "Cat Barber", "Brampton", "MVP", or "Elam"</div>
+      </div>
+    </div>
+  </div>
+
   <!-- Footer -->
   <footer>
     <div class="footer-inner">
@@ -646,6 +712,7 @@
   <script src="data.js"></script>
   <script src="career-data.js"></script>
   <script src="pipeline-data.js"></script>
+  <script src="cebl-records.js"></script>
   <script src="team-logos.js"></script>
   <script src="player-headshots.js"></script>
   <script src="onboarding.js"></script>
