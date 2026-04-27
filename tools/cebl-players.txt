@@ -1,0 +1,207 @@
+# CEBL Player Cache List
+# =====================
+# Add player names here, one per line.
+# The cache updater will look up each player on EuroBasket and save their data.
+# Lines starting with # are comments.
+#
+# Format: Full Name (as it appears on EuroBasket)
+# Optional: Add EuroBasket player ID after a pipe: Player Name | 501340
+# The script searches by name, so exact spelling matters.
+# Adding the ID makes lookup faster and more reliable.
+#
+# To add a new player: just add their name to this file.
+# The next cache update (daily at 9:30 AM) will pick them up.
+#
+# Current Brampton Honey Badgers roster + recent CEBL players:
+
+# === Brampton Honey Badgers (2025) ===
+David Muenkat | 501520
+Tegra Izay | 501340
+
+# === Add more players below ===
+# Sean East II
+# Jameer Nelson Jr
+
+# === Brampton Honey Badgers (2025) ===
+Quinndary Weatherspoon
+Koby McEwen
+Prince Oduro
+Jasman Sangha
+Yohann Sam
+Conner Landell
+Mike Demagus
+Ali Sow
+Patrick Emilien
+Amari Kelly
+Taryn Todd
+William Douglas
+Jaylan Gainey
+
+# === Calgary Surge (2025) ===
+Khyri Thomas
+Greg Brown III
+Karim Mane
+Sean Miller-Moore
+Evan Gilyard II
+Caelum Swanton-Rodger
+Jameer Nelson Jr
+Olumide Adelodun
+Trhae Mitchell
+Noah Wharton
+DJ Jackson
+Ben Kamba
+Javonte Brown
+Matt Grace
+William Tong
+Stefan Jankovic
+Tyrelle Miller
+
+# === Edmonton Stingers (2025) ===
+Nick Hornsby
+Aaron Rhooms
+Taye Donald
+Cameron McGriff
+Sean East II
+Devonte Bandoo
+Scottie Lindsey
+Sabry Philip
+Keon Ambrose-Hylton
+Liai Tong
+Jalen Shirley
+Fareed Shittu
+Holt Tomie
+Elijah Miller
+Isiah Osborne
+
+# === Montreal Alliance (2025) ===
+Alain Louis
+Malcolm Duvivier
+Jaheem Joseph
+Tavis Smith
+Blondeau Tchoukuiegno
+Sultan Haider Bhatti
+Quincy Guerrier
+Anthony Walker
+Abdul Mohamed
+Kevin Osawe
+Michael Diggins Jr
+Abdullah Shittu
+Dontay Bassett
+Ben Stevens
+Liam Rietschin
+Nate Tshimanga
+
+# === Niagara River Lions (2025) ===
+Khalil Ahmad
+Kimbal Mackenzie
+Elijah Lufile
+AJ Davis
+Jahvon Blair
+Omari Moore
+Nathan Cayo
+Guillaume Boucard
+Eddie Ekiyor
+Ron Curry
+Leon Ayers
+Keyshawn Bryant
+Josh Morgan
+Ahmed Hill
+Gatluak James
+Charles Robert
+Michael Okeke
+Nathan Charles
+Xavier Ochu
+Connor Vreeken
+Jabs Newby
+
+# === Ottawa BlackJacks (2025) ===
+Deng Adel
+Isaih Moore
+Javonte Smart
+Keevan Veinot
+Matt Coleman III
+Tevin Brown
+Nikola Djogo
+Tyrrel Tate
+Zane Waterman
+Justin Jackson
+Christian Rohlehr
+Ankit Choudhary
+Owen Kenney
+Shakur Daniel
+
+# === Saskatchewan Rattlers (2025) ===
+Takal Molson
+Elisha Ampofo
+Shane Osayande
+Elijah Ifejeh
+Dondre Reddick
+Grant Anticevich
+Deon Ejim
+Anthony Tsegakele
+Jaden Bediako
+Cody John
+Jamir Chaplin
+Nate Pierre-Louis
+Declan Peterson
+Easton Thimm
+Isaac Simon
+
+# === Scarborough Shooting Stars (2025) ===
+Kadre Gray
+Jackson Rowe
+Danilo Djuricic
+Kyree Walker
+Cat Barber
+Kalif Young
+Devoe Joseph
+Nick Lewis
+Donovan Williams
+Tevian Jones
+Hason Ward
+Shamar Givance
+Jaden Campbell
+Koat Thomas
+Terquavion Smith
+Yuri Collins
+Kobe Elvis
+Aaron Best
+Jalen Adaway
+Jayden Coke
+Ammanuel Diressa
+
+# === Vancouver Bandits (2025) ===
+Tristan Jass
+Duane Notice
+Glen Yang
+James Karnik
+Curtis Hollis
+Sam Maillet
+Izaiah Brockington
+Tyrese Samuel
+Kyle Mangas
+Mike Nuga
+Grant Shephard
+Mikyle Malabuyoc
+David Mutabazi
+Majok Gum
+
+# === Winnipeg Sea Bears (2025) ===
+Emmanuel Akot
+Alex Campbell
+Mason Bourcier
+Jaylin Williams
+Solomon Young
+Terry Roberts
+Simi Shittu
+Kyler Filewich
+Geoffrey James
+Mason Kraus
+Brendan Amoyaw
+Shawn Maranan
+Lamar Everd
+Gavin Ashworth
+Nathan Bilamu
+
+Landers Noley II
+Tajh Green

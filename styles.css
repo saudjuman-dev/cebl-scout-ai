@@ -3517,3 +3517,68 @@ footer {
   .theme-picker-grid { grid-template-columns: repeat(2, 1fr); }
   .theme-picker-box { padding: 1rem; }
 }
+
+/* ============================================================================
+   ===== EuroBasket Verified Block (in Player Modal) =====
+   ============================================================================ */
+.eurobasket-block {
+  background: linear-gradient(135deg, rgba(212,175,55,0.08), rgba(0,0,0,0.4));
+  border: 1px solid var(--gold-glow);
+  border-left: 3px solid var(--gold);
+  border-radius: 8px;
+  padding: 0.9rem 1rem;
+  margin: 0.5rem 0 1.2rem;
+  animation: eb-fade-in 0.4s ease;
+}
+@keyframes eb-fade-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.eb-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+.eb-badge {
+  background: var(--gold);
+  color: #000;
+  padding: 0.18rem 0.55rem;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.eb-label { color: #ccc; font-size: 0.8rem; }
+.eb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.4rem 1rem;
+  margin-bottom: 0.7rem;
+}
+.eb-row { display: flex; gap: 0.5rem; align-items: baseline; font-size: 0.78rem; }
+.eb-key { color: var(--gold); font-weight: 600; min-width: 90px; }
+.eb-val { color: #ddd; }
+.eb-history-h {
+  color: var(--gold);
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-top: 0.6rem;
+  margin-bottom: 0.3rem;
+}
+.eb-history { display: flex; flex-direction: column; gap: 2px; }
+.eb-season {
+  display: grid;
+  grid-template-columns: 70px 1fr 80px;
+  gap: 0.6rem;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.76rem;
+  background: rgba(0,0,0,0.2);
+  border-radius: 4px;
+}
+.eb-year { color: var(--gold); font-weight: 600; }
+.eb-team { color: #fff; }
+.eb-league { color: #888; text-align: right; font-family: monospace; font-size: 0.7rem; }

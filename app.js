@@ -462,9 +462,13 @@ function openPlayerModal(playerName) {
       <div class="no-profile">
         <h3>${playerName}</h3>
         <p>Full career profile coming soon. Check back as we continue to expand our database.</p>
+        <div id="eurobasket-injection"></div>
       </div>`;
     modal.classList.add('show');
     document.body.style.overflow = 'hidden';
+    if (typeof injectEuroBasketDataIntoModal === 'function') {
+      injectEuroBasketDataIntoModal(playerName);
+    }
     return;
   }
 
@@ -499,6 +503,8 @@ function openPlayerModal(playerName) {
         </div>
       </div>
     </div>
+
+    <div id="eurobasket-injection"></div>
 
     <div class="pm-tabs">
       <button class="pm-tab active" onclick="switchProfileTab(this, 'career')">Career Stats</button>
@@ -598,6 +604,11 @@ function openPlayerModal(playerName) {
 
   modal.classList.add('show');
   document.body.style.overflow = 'hidden';
+
+  // Lazy-fetch EuroBasket cache to enrich the modal
+  if (typeof injectEuroBasketDataIntoModal === 'function') {
+    injectEuroBasketDataIntoModal(playerName);
+  }
 }
 
 function closePlayerModal() {

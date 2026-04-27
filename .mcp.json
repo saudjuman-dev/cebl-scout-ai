@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "eurobasket": {
+      "command": "node",
+      "args": ["./tools/eurobasket-mcp/index.js"],
+      "env": {
+        "EUROBASKET_EMAIL": "${EUROBASKET_EMAIL}",
+        "EUROBASKET_PASSWORD": "${EUROBASKET_PASSWORD}"
+      }
+    }
+  }
+}

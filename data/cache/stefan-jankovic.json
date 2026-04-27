@@ -1,0 +1,63 @@
+{
+  "fullName": "Stefan Jankovic",
+  "birthdate": "",
+  "birthCity": "storing language!'); } }); }",
+  "height": "",
+  "heightCm": "",
+  "weight": "",
+  "weightKg": "",
+  "position": "",
+  "nationality": "North",
+  "college": "",
+  "highSchool": "",
+  "currentTeam": "TEAM 6",
+  "currentLeague": "EYBL U16-1",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "TEAM 6",
+      "league": "EYBL U16-1"
+    }
+  ],
+  "seasonStats": [
+    {
+      "year": "25-26",
+      "team": "TEAM 6",
+      "league": "EYBL U16-1",
+      "gamesPlayed": 4,
+      "minutes": 90,
+      "ppg": 8.3,
+      "rpg": 2,
+      "apg": 0.8,
+      "spg": 0.8,
+      "bpg": 0,
+      "fgPct": 0.481,
+      "threePct": 0.067,
+      "ftPct": 1,
+      "totalPoints": 33,
+      "totalRebounds": 8,
+      "totalAssists": 3,
+      "totalSteals": 3,
+      "totalBlocks": 0,
+      "twoFgMade": 13,
+      "twoFgAttempted": 27,
+      "threeFgMade": 1,
+      "threeFgAttempted": 15,
+      "ftMade": 4,
+      "ftAttempted": 4,
+      "offRebounds": 3,
+      "defRebounds": 5,
+      "personalFouls": 7,
+      "turnovers": 8,
+      "isCollegiate": false,
+      "highlights": [
+        "Dropped 17 points on 7-for-21 shooting as well as 3 assists in 32 minutes November 28 vs. Vodno Suns"
+      ]
+    }
+  ],
+  "personalInfo": [],
+  "sources": [
+    "https://basketball.eurobasket.com/player/Stefan-Jankovic/812199"
+  ],
+  "cachedAt": "2026-04-17T20:46:43.903Z"
+}

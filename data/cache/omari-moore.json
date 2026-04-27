@@ -1,0 +1,60 @@
+{
+  "fullName": "Omari Moore",
+  "birthdate": "",
+  "birthCity": "storing language!'); } }); }",
+  "height": "6'1\"",
+  "heightCm": "185",
+  "weight": "",
+  "weightKg": "",
+  "position": "Guard",
+  "nationality": "USAClass",
+  "college": "Manhattan",
+  "highSchool": "",
+  "currentTeam": "Manhattan",
+  "currentLeague": "NCAA1",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    }
+  ],
+  "seasonStats": [
+    {
+      "year": "25-26",
+      "team": "Manhattan",
+      "league": "NCAA1",
+      "gamesPlayed": 8,
+      "minutes": 36,
+      "ppg": 1.1,
+      "rpg": 0.9,
+      "apg": 0.3,
+      "spg": 0.3,
+      "bpg": 0.1,
+      "fgPct": 0.25,
+      "threePct": 0.167,
+      "ftPct": 0.4,
+      "totalPoints": 9,
+      "totalRebounds": 7,
+      "totalAssists": 2,
+      "totalSteals": 2,
+      "totalBlocks": 1,
+      "twoFgMade": 2,
+      "twoFgAttempted": 8,
+      "threeFgMade": 1,
+      "threeFgAttempted": 6,
+      "ftMade": 2,
+      "ftAttempted": 5,
+      "offRebounds": 2,
+      "defRebounds": 5,
+      "personalFouls": 6,
+      "turnovers": 2,
+      "isCollegiate": true
+    }
+  ],
+  "personalInfo": [],
+  "sources": [
+    "https://basketball.eurobasket.com/player/Omari-Moore/792765"
+  ],
+  "cachedAt": "2026-04-17T20:53:40.690Z"
+}

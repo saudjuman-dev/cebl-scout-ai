@@ -1,0 +1,60 @@
+{
+  "fullName": "Jaden Campbell",
+  "birthdate": "",
+  "birthCity": "storing language!'); } }); }",
+  "height": "6'4\"",
+  "heightCm": "193",
+  "weight": "",
+  "weightKg": "",
+  "position": "Guard",
+  "nationality": "Canadian",
+  "college": "Lakehead",
+  "highSchool": "",
+  "currentTeam": "Lakehead",
+  "currentLeague": "USPO",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Lakehead",
+      "league": "USPO"
+    }
+  ],
+  "seasonStats": [
+    {
+      "year": "25-26",
+      "team": "Lakehead",
+      "league": "USPO",
+      "gamesPlayed": 4,
+      "minutes": 16,
+      "ppg": 1.5,
+      "rpg": 0,
+      "apg": 0,
+      "spg": 0,
+      "bpg": 0,
+      "fgPct": 0,
+      "threePct": 1,
+      "ftPct": 0,
+      "totalPoints": 6,
+      "totalRebounds": 0,
+      "totalAssists": 0,
+      "totalSteals": 0,
+      "totalBlocks": 0,
+      "twoFgMade": 0,
+      "twoFgAttempted": 0,
+      "threeFgMade": 2,
+      "threeFgAttempted": 2,
+      "ftMade": 0,
+      "ftAttempted": 0,
+      "offRebounds": 0,
+      "defRebounds": 0,
+      "personalFouls": 2,
+      "turnovers": 0,
+      "isCollegiate": true
+    }
+  ],
+  "personalInfo": [],
+  "sources": [
+    "https://basketball.eurobasket.com/player/Jaden-Campbell/811944"
+  ],
+  "cachedAt": "2026-04-17T21:03:16.344Z"
+}

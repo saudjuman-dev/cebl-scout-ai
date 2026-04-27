@@ -18,11 +18,21 @@ A static web app (vanilla JS, HTML, CSS) that serves as a scouting intelligence 
 | `auth.js` | Auth system, session management, admin console, premium feature gating |
 | `data.js` | CEBL scouting data: Canadian pros, NCAA prospects, import targets, team signings |
 | `pipeline-data.js` | Canadian Pipeline Tracker (72 players worldwide), Elam Ending analytics, Target Shot analytics, Advanced Metrics |
-| `career-data.js` | Historical career stats and medical history for key players |
+| `career-data.js` | Historical career stats and medical history (32+ player profiles) |
+| `cebl-records.js` | League records, awards, legends, timeline, trivia, stat leaders |
+| `themes.js` | One-click team theme switcher (10 CEBL teams) |
+| `cache-loader.js` | Runtime EuroBasket cache loader for player profile enrichment |
 | `player-headshots.js` | ESPN CDN headshot URL mapping (36 players) with fallback system |
 | `team-logos.js` | CEBL team logo SVGs |
 | `onboarding.js` | First-time user onboarding flow |
 | `styles.css` | All styling |
+| `data/cache/*.json` | Pre-fetched EuroBasket player JSONs (113 players, build-time generated) |
+| `tools/eurobasket-mcp/` | MCP server that scrapes EuroBasket.com for player data |
+| `tools/cache-updater.js` | Build-time script: refreshes data/cache/ from EuroBasket |
+| `tools/sync-from-cache.js` | Build-time script: reports cache vs static data alignment |
+| `tools/scrapers/` | TypeScript scrapers for Wikipedia, NBA, G-League, EuroBasket public data |
+| `tools/cebl-players.txt` | List of player names for cache-updater to fetch |
+| `.mcp.json` | Claude Code MCP server config (registers eurobasket MCP for this project) |
 | `CNAME` | Custom domain: hoopsintelligence.com |
 
 ## Data Architecture
@@ -32,8 +42,48 @@ There are distinct data categories — understand which file to edit:
 - **CEBL game stats** (Elam Ending, Target Shot, Advanced Metrics) → `pipeline-data.js` — team field reflects the CEBL team the player was on during that season's games
 - **Historical career stats** → `career-data.js` — career-by-season data, never needs team updates for past seasons
 - **Scouting assessments** → `data.js` — fit ratings, salary estimates, scouting notes
+- **EuroBasket-verified bio + winter overseas career** → `data/cache/{slug}.json` — fetched at runtime via `cache-loader.js` to enrich player modal
 
 **Important**: Elam/Target/Advanced data team assignments must match the player's actual CEBL team for the season the stats are from. Cross-reference with `career-data.js` to verify.
+
+## Data Sync Workflow (EuroBasket + scrapers)
+
+This project includes a complete data tooling stack inherited from the BHB ProBally Generator:
+
+### EuroBasket MCP Server (`tools/eurobasket-mcp/`)
+A Model Context Protocol server that scrapes EuroBasket.com for player data. Registered in `.mcp.json` so Claude Code in this project can call:
+- `eurobasket_login(email, password)` — open authenticated session
+- `eurobasket_search(playerName)` — find a player's profile URL
+- `eurobasket_player_profile(url)` — bio (height, weight, birthdate, college, etc.)
+- `eurobasket_career_stats(url)` — full career stats (subscriber-only)
+- `eurobasket_full_player(name, email, password)` — combined call
+
+Requires `EUROBASKET_EMAIL` and `EUROBASKET_PASSWORD` env vars.
+
+### Additional Scrapers (`tools/scrapers/`)
+TypeScript scrapers for sources beyond EuroBasket:
+- **scrapeWikipedia(name)** — Wikipedia bio + college stats
+- **scrapeEuroBasketPublic(name)** — public EuroBasket data (no login)
+- **scrapeGLeague(name)** — NBA G-League API
+- **scrapeNBA(name)** — NBA Stats API
+- **researchPlayer(name)** — Combines all sources into one ScrapedPlayer object
+
+### Cache (`data/cache/*.json`)
+113 pre-fetched player JSONs. The runtime `cache-loader.js` lazy-fetches them when a player modal opens, showing winter team, verified bio, and recent overseas seasons in a "EuroBasket Verified" block.
+
+### Refresh Cycle
+1. **Add players to track**: edit `tools/cebl-players.txt`
+2. **Refresh cache**: `cd /Users/saudjuman/cebl-scout-tool && EUROBASKET_EMAIL=... EUROBASKET_PASSWORD=... node tools/cache-updater.js`
+3. **Audit alignment**: `node tools/sync-from-cache.js` (report only — see matched/missing/orphan)
+4. **Inspect one player**: `node tools/sync-from-cache.js --player "Sean East II"`
+5. **Manually update** static `data.js` / `pipeline-data.js` / `career-data.js` from cache contents (the sync script intentionally does not auto-write — keep human review in the loop)
+
+### Why Build-Time, Not Runtime?
+The CEBL Scout site is static (GitHub Pages). EuroBasket can't be scraped from the browser (CORS + auth). So:
+- Cache JSONs are committed to the repo as static assets
+- The browser fetches them on-demand from `data/cache/`
+- A nightly/weekly local cron (or manual invocation) refreshes them
+- The `tools/daily-cache.sh` script in the source project can be adapted if you want automation
 
 ## Freemium Model
 Controlled by `AUTH.PREMIUM_FEATURES` array in `auth.js:31`.

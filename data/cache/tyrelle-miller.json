@@ -1,0 +1,60 @@
+{
+  "fullName": "Tyrelle Miller",
+  "birthdate": "",
+  "birthCity": "storing language!'); } }); }",
+  "height": "6'0\"",
+  "heightCm": "183",
+  "weight": "",
+  "weightKg": "",
+  "position": "Point guard",
+  "nationality": "Canadian",
+  "college": "McMaster",
+  "highSchool": "",
+  "currentTeam": "McMaster",
+  "currentLeague": "USPO",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "McMaster",
+      "league": "USPO"
+    }
+  ],
+  "seasonStats": [
+    {
+      "year": "23-24",
+      "team": "McMaster",
+      "league": "USPO",
+      "gamesPlayed": 16,
+      "minutes": 183,
+      "ppg": 1.8,
+      "rpg": 1.1,
+      "apg": 1.4,
+      "spg": 0.6,
+      "bpg": 0,
+      "fgPct": 0.346,
+      "threePct": 0.231,
+      "ftPct": 0.333,
+      "totalPoints": 28,
+      "totalRebounds": 17,
+      "totalAssists": 22,
+      "totalSteals": 10,
+      "totalBlocks": 0,
+      "twoFgMade": 9,
+      "twoFgAttempted": 26,
+      "threeFgMade": 3,
+      "threeFgAttempted": 13,
+      "ftMade": 1,
+      "ftAttempted": 3,
+      "offRebounds": 2,
+      "defRebounds": 15,
+      "personalFouls": 18,
+      "turnovers": 20,
+      "isCollegiate": true
+    }
+  ],
+  "personalInfo": [],
+  "sources": [
+    "https://basketball.eurobasket.com/player/Tyrelle-Miller/552477"
+  ],
+  "cachedAt": "2026-04-17T20:46:57.320Z"
+}
