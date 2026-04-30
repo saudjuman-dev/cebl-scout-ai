@@ -107,27 +107,100 @@ async function fetchPage(url, attempts = 3) {
   }
 }
 
+// ---- League code → EuroBasket URL mapping ----
+// EuroBasket uses /Country/League-Name.aspx URLs (verified Apr 2026).
+// Codes here are the same ones used in SCRAPE_LEAGUES env var / cebl-records.
+const LEAGUE_URLS = {
+  // Germany
+  'GER-1': 'https://www.eurobasket.com/Germany/Basketball-Bundesliga.aspx',
+  'GER-2': 'https://www.eurobasket.com/Germany/2-Basketball-Bundesliga-ProA.aspx',
+  'GER-3': 'https://www.eurobasket.com/Germany/2-Basketball-Bundesliga-ProB.aspx',
+  // France
+  'FRA-1': 'https://www.eurobasket.com/france/basketball-betclic-elite.aspx',
+  'FRA-2': 'https://www.eurobasket.com/France/basketball-League-ProB.aspx',
+  'FRA-3': 'https://www.eurobasket.com/France/Nationale-Masculine-1.aspx',
+  // Spain
+  'ESP-1': 'https://www.eurobasket.com/Spain/basketball-Liga-Endesa.aspx',
+  'ESP-2': 'https://www.eurobasket.com/Spain/basketball-Liga-Primera-FEB.aspx',
+  'ESP-3': 'https://www.eurobasket.com/Spain/basketball-Liga-Segunda-FEB.aspx',
+  // Italy
+  'ITA-1': 'https://www.eurobasket.com/Italy/basketball-League-Serie-A.aspx',
+  'ITA-2': 'https://www.eurobasket.com/Italy/basketball-League-Serie-A2.aspx',
+  // Greece
+  'GRE-1': 'https://www.eurobasket.com/Greece/basketball-League-A1.aspx',
+  'GRE-2': 'https://www.eurobasket.com/Greece/basketball-League-A2.aspx',
+  // Turkey
+  'BSL':   'https://www.eurobasket.com/Turkey/basketball-Super-League-BSL.aspx',
+  // Israel
+  'ISR-1': 'https://www.eurobasket.com/Israel/basketball-Premier-League.aspx',
+  'ISR-2': 'https://www.eurobasket.com/Israel/basketball-League-Liga-Leumit.aspx',
+  // Lithuania
+  'LTU-1': 'https://www.eurobasket.com/Lithuania/basketball-League-LKL.aspx',
+  // Poland
+  'POL-1': 'https://www.eurobasket.com/Poland/basketball-League-PLK.aspx',
+  'POL-2': 'https://www.eurobasket.com/Poland/basketball-League-1Liga.aspx',
+  // Portugal
+  'POR-1': 'https://www.eurobasket.com/Portugal/basketball-League-LPB.aspx',
+  // Belgium-Netherlands
+  'BNXT-1': 'https://www.eurobasket.com/Netherlands/basketball-League-BNXT.aspx',
+  // Czech
+  'CZE-1': 'https://www.eurobasket.com/Czech_Republic/basketball-League-NBL.aspx',
+  // Austria
+  'AUT-1': 'https://www.eurobasket.com/Austria/basketball-League-Superliga.aspx',
+  // Croatia
+  'CRO-1': 'https://www.eurobasket.com/Croatia/basketball-League-Premijer-Liga.aspx',
+  // Slovenia
+  'SLO-1': 'https://www.eurobasket.com/Slovenia/basketball-League-Liga-Nova-KBM.aspx',
+  // Bulgaria
+  'BUL-1': 'https://www.eurobasket.com/Bulgaria/basketball-League-NBL.aspx',
+  // Romania
+  'ROM-1': 'https://www.eurobasket.com/Romania/basketball-League-Liga-Nationala.aspx',
+  // Finland
+  'FIN-1': 'https://www.eurobasket.com/Finland/basketball-League-Korisliiga.aspx',
+  // Russia / VTB
+  'VTB-1': 'https://www.eurobasket.com/Russia/basketball-League-VTB-United.aspx',
+  // Australia
+  'AUS-1': 'https://www.eurobasket.com/Australia/basketball-League-NBL.aspx',
+  'AUS-2': 'https://www.eurobasket.com/Australia/basketball-League-NBL1.aspx',
+  // Asia
+  'JPN-1': 'https://www.eurobasket.com/Japan/basketball-League-B1.aspx',
+  'KOR-1': 'https://www.eurobasket.com/South_Korea/basketball-League-KBL.aspx',
+  'PHI-1': 'https://www.eurobasket.com/Philippines/basketball-League-PBA.aspx',
+  // Americas
+  'MEX-1': 'https://www.eurobasket.com/Mexico/basketball-League-LNBP.aspx',
+  'ARG-1': 'https://www.eurobasket.com/Argentina/basketball-League-LNB.aspx',
+  // Lebanon
+  'LBN-1': 'https://www.eurobasket.com/Lebanon/basketball-League-LBL.aspx',
+};
+
 // ---- League → teams ----
 async function getLeagueTeams(leagueCode) {
-  // EuroBasket league pages: try the standard URL pattern
-  const urls = [
-    `https://basketball.eurobasket.com/league/${leagueCode}/teams.aspx`,
-    `https://basketball.eurobasket.com/league/${leagueCode}/`,
-  ];
-  for (const url of urls) {
+  // Try the canonical URL from our mapping first.
+  const candidates = [];
+  if (LEAGUE_URLS[leagueCode]) candidates.push(LEAGUE_URLS[leagueCode]);
+  // Fallback patterns (in case eurobasket reorganizes a URL)
+  candidates.push(`https://basketball.eurobasket.com/league/${leagueCode}/teams.aspx`);
+  candidates.push(`https://basketball.eurobasket.com/league/${leagueCode}/`);
+
+  for (const url of candidates) {
     try {
       const html = await fetchPage(url);
       const $ = cheerio.load(html);
       const teams = [];
       $('a').each((_, el) => {
         const href = $(el).attr('href') || '';
-        if (href.match(/\/team\/[A-Za-z0-9-]+/i)) {
+        if (href.match(/\/team\/[A-Za-z0-9-]+\/\d+/i)) {
           const fullUrl = href.startsWith('http') ? href : `https://basketball.eurobasket.com${href}`;
           const name = $(el).text().trim();
-          if (name && !teams.find(t => t.url === fullUrl)) teams.push({ name, url: fullUrl });
+          if (name && name.length > 1 && !teams.find(t => t.url === fullUrl)) {
+            teams.push({ name, url: fullUrl });
+          }
         }
       });
-      if (teams.length > 0) return teams;
+      if (teams.length > 0) {
+        console.log(`   ✅ Resolved ${leagueCode} via ${url}`);
+        return teams;
+      }
     } catch (e) { /* try next */ }
   }
   return [];
