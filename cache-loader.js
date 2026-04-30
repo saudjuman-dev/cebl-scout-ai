@@ -22,7 +22,8 @@ async function fetchPlayerCache(playerName) {
   if (_cacheStore.has(slug)) return _cacheStore.get(slug);
 
   try {
-    const res = await fetch(`data/cache/${slug}.json`, { cache: 'force-cache' });
+    // Use default cache; browser HTTP cache decides freshness based on server headers.
+    const res = await fetch(`data/cache/${slug}.json`);
     if (!res.ok) {
       _cacheStore.set(slug, null);
       return null;
@@ -45,6 +46,20 @@ async function fetchPlayerCache(playerName) {
   }
 }
 
+// --- Build a freshness label like "Verified 2 days ago" ---
+function _freshnessLabel(iso) {
+  if (!iso) return null;
+  const t = new Date(iso).getTime();
+  if (!t) return null;
+  const ageDays = Math.floor((Date.now() - t) / (1000 * 60 * 60 * 24));
+  if (ageDays === 0) return 'Verified today';
+  if (ageDays === 1) return 'Verified yesterday';
+  if (ageDays < 14) return `Verified ${ageDays} days ago`;
+  if (ageDays < 60) return `Verified ${Math.floor(ageDays / 7)} weeks ago`;
+  if (ageDays < 365) return `Verified ${Math.floor(ageDays / 30)} months ago`;
+  return `Verified ${Math.floor(ageDays / 365)}y ago`;
+}
+
 // --- Render block to inject into player modal ---
 function renderEuroBasketBlock(cache) {
   if (!cache) return '';
@@ -62,12 +77,17 @@ function renderEuroBasketBlock(cache) {
   if (cache.agent) rows.push(['Agent', cache.agent]);
 
   const recentSeasons = (cache.careerHistory || []).slice(-6).reverse();
+  const freshness = _freshnessLabel(cache._lastVerified || cache.cachedAt);
+  const sourceCount = (cache._sources || ['eurobasket.com']).length;
+  const confidence = cache._dataConfidence || (cache.fullName && cache.currentTeam ? 'high' : 'medium');
 
   return `
     <div class="eurobasket-block">
       <div class="eb-header">
         <span class="eb-badge">EuroBasket</span>
         <span class="eb-label">Verified bio + winter career</span>
+        <span class="eb-spacer" style="flex:1"></span>
+        ${freshness ? `<span class="eb-freshness conf-${confidence}" title="Confidence: ${confidence} · ${sourceCount} source${sourceCount>1?'s':''}">⌁ ${freshness}</span>` : ''}
       </div>
       ${rows.length > 0 ? `<div class="eb-grid">
         ${rows.map(([k, v]) => `

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Local macOS launchd schedule — alternative to GitHub Actions.
+  Runs the data refresh weekly on Sundays at 03:00 local time.
+
+  Install:
+    1. Edit the EUROBASKET_EMAIL / EUROBASKET_PASSWORD env values below
+    2. Edit ProgramArguments path if your repo isn't at ~/cebl-scout-tool
+    3. cp tools/scheduling/com.hoopsintelligence.refresh.plist ~/Library/LaunchAgents/
+    4. launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.hoopsintelligence.refresh.plist
+    5. launchctl enable gui/$(id -u)/com.hoopsintelligence.refresh
+
+  Run on demand:
+    launchctl kickstart -k gui/$(id -u)/com.hoopsintelligence.refresh
+
+  Uninstall:
+    launchctl bootout gui/$(id -u)/com.hoopsintelligence.refresh
+    rm ~/Library/LaunchAgents/com.hoopsintelligence.refresh.plist
+
+  Logs:
+    tail -f ~/cebl-scout-tool/tools/scheduling/refresh.log
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.hoopsintelligence.refresh</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>-c</string>
+        <string>cd "$HOME/cebl-scout-tool" &amp;&amp; node tools/cache-updater.js &amp;&amp; node tools/extract-global-pros.js &amp;&amp; node tools/audit-data.js &amp;&amp; node tools/cache-health.js &amp;&amp; git add -A &amp;&amp; git diff --cached --quiet || (git commit -m "Local auto-refresh $(date '+%Y-%m-%d')" &amp;&amp; git push)</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>0</integer>
+        <key>Hour</key>
+        <integer>3</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>EUROBASKET_EMAIL</key>
+        <string>YOUR_EMAIL@example.com</string>
+        <key>EUROBASKET_PASSWORD</key>
+        <string>YOUR_PASSWORD</string>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/USERNAME/cebl-scout-tool/tools/scheduling/refresh.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/USERNAME/cebl-scout-tool/tools/scheduling/refresh.error.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

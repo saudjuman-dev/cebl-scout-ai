@@ -129,6 +129,63 @@ The site has three views, toggled in the header:
 
 Tabs are tagged with `mode-fan`, `mode-gm`, or both classes in `index.html`. CSS in `styles.css` filters via `body[data-audience-mode]`. Saved in `localStorage` as `hi_audience_mode`.
 
+### Automated Data Refresh Pipeline
+
+Two scheduled refresh paths (use either or both):
+
+#### 1. GitHub Actions (recommended — no Mac needs to be on)
+`.github/workflows/data-refresh.yml`
+
+Runs every Sunday at 03:00 UTC + on-demand from the Actions tab. Does:
+1. Refreshes existing player cache via `tools/cache-updater.js`
+2. Optionally bulk-scrapes leagues via `tools/league-scraper.js` (set `SCRAPE_LEAGUES` secret to comma-separated league codes, or pass via workflow_dispatch input)
+3. Regenerates `global-pros.js` via `tools/extract-global-pros.js`
+4. Runs `tools/audit-data.js` and `tools/cache-health.js` (fails the run if critical issues)
+5. Commits + pushes any data changes back to `main`
+6. Uploads audit reports as workflow artifacts (30-day retention)
+
+**Required secrets** (Settings → Secrets and variables → Actions):
+- `EUROBASKET_EMAIL` — eurobasket.com subscriber email
+- `EUROBASKET_PASSWORD` — eurobasket.com password
+- `SCRAPE_LEAGUES` *(optional)* — e.g. `GER-1,FRA-1,ITA-1,BSL,ESP-1`
+
+#### 2. Local launchd (macOS-native, runs on your Mac)
+`tools/scheduling/com.hoopsintelligence.refresh.plist`
+
+Same job as GitHub Actions but runs on your Mac on a weekly schedule. Install instructions are in the plist comments. Edit the email/password and the path placeholders before installing.
+
+### Bulk League Scraping (`tools/league-scraper.js`)
+
+Pulls every team in a EuroBasket league + every player on each team. Saves each as a JSON cache file. Includes:
+- 2.5s rate limiting between requests
+- Retry with exponential backoff on 429 / 5xx
+- Resume support (skips files cached <30 days, unless `--force`)
+- `--dry-run` mode (lists what would be scraped without fetching)
+- Multi-league mode: `--leagues GER-1,FRA-1,BSL`
+
+**Example**:
+```bash
+EUROBASKET_EMAIL=... EUROBASKET_PASSWORD=... \
+  node tools/league-scraper.js --leagues GER-1,FRA-1,ITA-1
+```
+
+After scraping, run:
+```bash
+node tools/extract-global-pros.js   # regenerate global-pros.js
+node tools/cache-health.js          # validate the new files
+```
+
+### Verification Metadata (every cache JSON)
+
+Each `data/cache/{slug}.json` carries:
+- `_lastVerified` — ISO timestamp of last successful scrape
+- `_sources` — array of source domains (e.g. `["eurobasket.com"]`)
+- `_dataConfidence` — `high` (full bio + career), `medium` (partial), or `low` (sparse)
+
+The runtime UI surfaces this as a colored freshness pill in the player profile modal: green for high-confidence, yellow for medium, red for low. The label reads "Verified 2 days ago", "Verified 3 weeks ago", etc.
+
+Backfill script: `node tools/backfill-verification.js` (idempotent — safe to re-run).
+
 ### Why Build-Time, Not Runtime?
 The CEBL Scout site is static (GitHub Pages). EuroBasket can't be scraped from the browser (CORS + auth). So:
 - Cache JSONs are committed to the repo as static assets

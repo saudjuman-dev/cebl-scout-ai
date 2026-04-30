@@ -4538,3 +4538,29 @@ h2, h3 { letter-spacing: -0.005em; }
   .pm-info h2 { font-size: 1.4rem; }
   .pm-avatar { width: 64px; height: 64px; font-size: 1.2rem; }
 }
+
+/* --- Freshness badge in EuroBasket block --- */
+.eb-freshness {
+  font-size: 0.65rem;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  padding: 0.18rem 0.55rem;
+  border-radius: 10px;
+  white-space: nowrap;
+  position: relative;
+}
+.eb-freshness.conf-high {
+  background: rgba(76, 175, 80, 0.12);
+  color: #66BB6A;
+  border: 1px solid rgba(76, 175, 80, 0.35);
+}
+.eb-freshness.conf-medium {
+  background: rgba(255, 200, 0, 0.1);
+  color: #ffc800;
+  border: 1px solid rgba(255, 200, 0, 0.3);
+}
+.eb-freshness.conf-low {
+  background: rgba(244, 67, 54, 0.12);
+  color: #EF5350;
+  border: 1px solid rgba(244, 67, 54, 0.3);
+}

@@ -729,6 +729,10 @@ async function cachePlayer(playerName, eurobasketId) {
       personalInfo,
       sources: [search.url],
       cachedAt: new Date().toISOString(),
+      // Verification metadata
+      _lastVerified: new Date().toISOString(),
+      _sources: ['eurobasket.com'],
+      _dataConfidence: (profile.fullName && (seasons.length > 0 || careerHistory.length > 0)) ? 'high' : 'medium',
     };
 
     fs.writeFileSync(filePath, JSON.stringify(cacheData, null, 2));
