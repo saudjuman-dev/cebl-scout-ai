@@ -43,7 +43,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const CACHE_DIR = path.join(ROOT, 'data', 'cache');
 const USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
-const REQUEST_DELAY = parseInt(process.env.SCRAPE_DELAY_MS || '2500', 10);
+const REQUEST_DELAY = parseInt(process.env.SCRAPE_DELAY_MS || '1800', 10);  // 1.8s default — fits 4000 players in ~2h
 
 // ---- CLI args ----
 const args = process.argv.slice(2);
