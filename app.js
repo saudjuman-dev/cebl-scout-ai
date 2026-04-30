@@ -48,19 +48,78 @@ function avatarContent(name) {
   return getInitials(name);
 }
 
-// ===== Render Honey Badgers Roster =====
+// ===== Get the user's home-team roster (team-aware) =====
+function getHomeTeamRoster() {
+  const homeTeamId = (typeof ONBOARDING !== 'undefined') ? ONBOARDING.getHomeTeam() : null;
+  const teamMeta = homeTeamId && typeof ONBOARDING !== 'undefined'
+    ? ONBOARDING.CEBL_TEAMS.find(t => t.id === homeTeamId) : null;
+
+  // Brampton: rich data from honeyBadgersRoster (per-game salary, character notes)
+  if (!teamMeta || teamMeta.id === 'brampton') {
+    return {
+      teamName: 'Brampton Honey Badgers',
+      emoji: '🦡',
+      isFullData: true,
+      players: typeof honeyBadgersRoster !== 'undefined' ? honeyBadgersRoster : []
+    };
+  }
+
+  // Other teams: pull from leagueSignings (announcement-style data)
+  const signings = typeof leagueSignings !== 'undefined' ? leagueSignings[teamMeta.name] : null;
+  if (!signings) {
+    return { teamName: teamMeta.name, emoji: teamMeta.emoji, isFullData: false, players: [] };
+  }
+
+  return {
+    teamName: teamMeta.name,
+    emoji: teamMeta.emoji,
+    isFullData: false,
+    players: signings.players.map(p => ({
+      name: p.name,
+      pos: p.pos,
+      nationality: '',
+      type: p.type,
+      stats: p.detail,
+      note: p.detail,
+      salary: null
+    }))
+  };
+}
+
+// ===== Render Home Team Roster (was "renderHBRoster") =====
 function renderHBRoster() {
   const container = document.getElementById('hb-roster');
-  container.innerHTML = honeyBadgersRoster.map(p => `
-    <div class="roster-card">
-      <div class="roster-avatar has-headshot">${avatarContent(p.name)}</div>
-      <div class="roster-card-info">
-        <h4>${p.name}</h4>
-        <div class="roster-meta">${p.pos} | ${p.nationality === 'CAN' ? '🇨🇦 Canadian' : p.nationality === 'USA' ? '🇺🇸 Import' : '🌍 Import (' + p.nationality + ')'} | $${p.salary}/game</div>
-        <div class="roster-stat">${p.stats.split('(')[0].trim()}</div>
-      </div>
-    </div>
-  `).join('');
+  if (!container) return;
+  const roster = getHomeTeamRoster();
+
+  // Update the panel header to show the user's team name
+  const headerH2 = container.parentElement?.querySelector('.panel-header h2');
+  if (headerH2) headerH2.innerHTML = `${roster.emoji} ${roster.teamName} — 2026 Confirmed Roster`;
+  const yourTeamBadge = container.parentElement?.querySelector('.badge.gold');
+  if (yourTeamBadge) yourTeamBadge.textContent = 'Your Team';
+
+  if (!roster.players || roster.players.length === 0) {
+    container.innerHTML = `<div class="empty-roster">No 2026 signings on file for ${roster.teamName} yet.<br><span style="opacity:0.7">Check the League Signings tab for the latest league-wide moves.</span></div>`;
+    return;
+  }
+
+  container.innerHTML = roster.players.map(p => {
+    const natLabel = p.nationality === 'CAN' ? '🇨🇦 Canadian'
+                  : p.nationality === 'USA' ? '🇺🇸 Import'
+                  : p.nationality ? '🌍 Import (' + p.nationality + ')'
+                  : (p.type || 'Signing');
+    const salaryStr = p.salary ? ' | $' + p.salary + '/game' : '';
+    const statsStr = p.stats ? (p.stats.split('(')[0].trim() || p.stats) : '';
+    return `
+      <div class="roster-card">
+        <div class="roster-avatar has-headshot">${avatarContent(p.name)}</div>
+        <div class="roster-card-info">
+          <h4>${p.name}</h4>
+          <div class="roster-meta">${p.pos || ''} | ${natLabel}${salaryStr}</div>
+          <div class="roster-stat">${statsStr}</div>
+        </div>
+      </div>`;
+  }).join('');
 }
 
 // ===== Animate Cap Bar =====

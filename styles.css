@@ -3712,3 +3712,384 @@ body[data-audience-mode="all"] .nav-tab { display: inline-flex; }
 .no-profile h3 { color: var(--gold); font-family: 'Oswald', sans-serif; font-size: 1.4rem; margin: 0 0 0.7rem; }
 .np-status { color: #ddd; font-size: 0.95rem; margin: 0 0 0.4rem; }
 .np-detail { color: #888; font-size: 0.78rem; line-height: 1.5; margin: 0 0 1rem; }
+
+/* ============================================================================
+   ===== ROLE / ONBOARDING UI =====
+   ============================================================================ */
+#onboard-root {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+.ob-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(20px) saturate(140%);
+  -webkit-backdrop-filter: blur(20px) saturate(140%);
+}
+.ob-card {
+  position: relative;
+  z-index: 1;
+  background: linear-gradient(180deg, #15151b 0%, #0c0c10 100%);
+  border: 1px solid rgba(212, 175, 55, 0.22);
+  border-radius: 18px;
+  padding: 2rem 2.2rem;
+  max-width: 720px;
+  width: 100%;
+  max-height: 88vh;
+  overflow-y: auto;
+  box-shadow: 0 30px 80px rgba(0,0,0,0.6), 0 0 60px rgba(212,175,55,0.06), inset 0 1px 0 rgba(255,255,255,0.04);
+  animation: ob-pop-in 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.ob-card.wide { max-width: 920px; }
+@keyframes ob-pop-in {
+  from { transform: scale(0.92) translateY(20px); opacity: 0; }
+  to   { transform: scale(1) translateY(0); opacity: 1; }
+}
+.ob-step-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+.ob-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.85rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.5rem;
+  color: #fff;
+  line-height: 1.15;
+}
+.ob-text {
+  color: #aaa;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin: 0 0 1.5rem;
+  max-width: 620px;
+}
+.ob-btns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1.3rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.05);
+}
+.ob-btn {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: #ccc;
+  padding: 0.55rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+.ob-btn:hover { background: rgba(212,175,55,0.1); color: #fff; border-color: rgba(212,175,55,0.4); transform: translateY(-1px); }
+.ob-btn.ob-next {
+  background: linear-gradient(135deg, var(--gold), var(--gold-dark));
+  color: #000;
+  font-weight: 700;
+  border-color: transparent;
+  box-shadow: 0 4px 14px var(--gold-glow);
+}
+.ob-btn.ob-next:hover { transform: translateY(-2px); box-shadow: 0 6px 20px var(--gold-glow); }
+
+/* --- Role pick cards --- */
+.role-picker {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+.role-card {
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+  border: 2px solid rgba(255,255,255,0.06);
+  border-radius: 14px;
+  padding: 1.4rem 1.1rem;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: left;
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+.role-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at top right, var(--gold-glow), transparent 60%);
+  opacity: 0;
+  transition: opacity 0.35s;
+}
+.role-card:hover { transform: translateY(-3px); border-color: var(--gold); box-shadow: 0 10px 30px var(--gold-glow); }
+.role-card:hover::before { opacity: 0.7; }
+.role-icon { font-size: 2.4rem; margin-bottom: 0.6rem; position: relative; }
+.role-name { font-family: 'Oswald', sans-serif; font-size: 1.25rem; color: #fff; margin-bottom: 0.2rem; letter-spacing: 0.02em; position: relative; }
+.role-sub { font-size: 0.78rem; color: #999; margin-bottom: 0.8rem; position: relative; }
+.role-feats { list-style: none; padding: 0; margin: 0; position: relative; }
+.role-feats li {
+  font-size: 0.78rem;
+  color: #ccc;
+  padding: 0.18rem 0 0.18rem 1.1rem;
+  position: relative;
+}
+.role-feats li::before { content: '✓'; position: absolute; left: 0; color: var(--gold); font-weight: 700; }
+
+/* --- Team scout cards --- */
+.team-scout-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+.team-scout-card {
+  position: relative;
+  text-align: left;
+  background: rgba(255,255,255,0.025);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 0.85rem 1rem 1.1rem 1rem;
+  cursor: pointer;
+  font-family: inherit;
+  display: flex;
+  gap: 0.85rem;
+  transition: all 0.22s ease;
+  overflow: hidden;
+}
+.team-scout-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at top right, var(--team-glow), transparent 70%);
+  opacity: 0.4;
+  pointer-events: none;
+}
+.team-scout-card:hover { transform: translateY(-2px); border-color: var(--team-color); box-shadow: 0 10px 25px var(--team-glow); }
+.team-scout-card.selected {
+  border-color: var(--team-color);
+  box-shadow: 0 0 0 2px var(--team-color), 0 8px 25px var(--team-glow);
+}
+.team-scout-card.selected::after { content: '✓'; position: absolute; top: 8px; right: 12px; color: var(--team-color); font-weight: 800; font-size: 1.1rem; }
+.tsc-emoji { font-size: 2.1rem; line-height: 1; flex-shrink: 0; padding-top: 2px; position: relative; }
+.tsc-content { flex: 1; min-width: 0; position: relative; }
+.tsc-name { font-family: 'Oswald', sans-serif; font-size: 1rem; color: #fff; letter-spacing: 0.02em; margin-bottom: 1px; }
+.tsc-city { font-size: 0.7rem; color: #888; margin-bottom: 0.4rem; }
+.tsc-row { display: flex; gap: 0.7rem; align-items: baseline; margin-bottom: 0.4rem; font-size: 0.74rem; color: #ccc; }
+.tsc-record strong { color: var(--team-color); font-family: 'Oswald', sans-serif; }
+.tsc-identity { font-size: 0.72rem; color: #aaa; line-height: 1.45; }
+.tsc-strip { position: absolute; left: 0; bottom: 0; height: 2px; width: 100%; }
+
+/* --- Feature tour cards --- */
+.feature-tour-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+.ft-card {
+  background: linear-gradient(180deg, rgba(212,175,55,0.04), rgba(0,0,0,0.4));
+  border: 1px solid rgba(212,175,55,0.2);
+  border-radius: 10px;
+  padding: 0.95rem;
+  transition: all 0.22s ease;
+}
+.ft-card:hover { transform: translateY(-2px); border-color: var(--gold); box-shadow: 0 8px 20px var(--gold-glow); }
+.ft-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.ft-card h4 { color: var(--gold); font-family: 'Oswald', sans-serif; font-size: 0.95rem; margin: 0 0 0.3rem; letter-spacing: 0.04em; }
+.ft-card p { color: #bbb; font-size: 0.76rem; line-height: 1.5; margin: 0; }
+
+/* --- Rules grid --- */
+.rules-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+.rule-card {
+  background: rgba(255,255,255,0.02);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 10px;
+  padding: 0.85rem;
+  text-align: center;
+  transition: transform 0.2s;
+}
+.rule-card:hover { transform: scale(1.03); }
+.rule-card.hot { background: linear-gradient(180deg, rgba(212,175,55,0.1), rgba(0,0,0,0.5)); border-color: var(--gold-glow); }
+.rc-num { font-family: 'Oswald', sans-serif; font-size: 1.6rem; font-weight: 700; color: var(--gold); line-height: 1; }
+.rc-label { font-size: 0.68rem; color: #ddd; text-transform: uppercase; letter-spacing: 0.06em; margin: 0.4rem 0 0.2rem; font-weight: 600; }
+.rc-desc { font-size: 0.7rem; color: #888; line-height: 1.4; }
+.ob-tip {
+  margin-top: 0.9rem;
+  padding: 0.7rem 0.95rem;
+  background: linear-gradient(135deg, rgba(212,175,55,0.08), rgba(212,175,55,0.02));
+  border-left: 3px solid var(--gold);
+  border-radius: 4px;
+  color: #ddd;
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+.ob-tip strong { color: var(--gold); }
+
+/* --- Done step --- */
+.ob-done {
+  text-align: center;
+  padding: 1.5rem 0 0.5rem;
+  color: var(--gold);
+}
+
+/* --- Settings panel --- */
+.settings-section { margin-bottom: 1.4rem; padding-bottom: 1.2rem; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.settings-section:last-of-type { border-bottom: none; padding-bottom: 0.5rem; }
+.settings-h {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  color: var(--gold);
+  text-transform: uppercase;
+  margin: 0 0 0.7rem;
+}
+.settings-roles {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.settings-role {
+  background: rgba(255,255,255,0.03);
+  border: 1.5px solid rgba(255,255,255,0.08);
+  color: #ccc;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.85rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.22s;
+}
+.settings-role:hover { border-color: var(--gold-glow); color: #fff; }
+.settings-role.selected { background: var(--gold-muted); border-color: var(--gold); color: var(--gold); box-shadow: 0 0 12px var(--gold-glow); }
+
+.settings-btn {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.1);
+  color: #aaa;
+  padding: 0.35rem 0.55rem;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 0.3rem;
+  transition: all 0.2s;
+  font-size: 0.95rem;
+}
+.settings-btn:hover { background: var(--gold-muted); border-color: var(--gold); transform: rotate(35deg); }
+
+/* --- Empty roster placeholder --- */
+.empty-roster {
+  padding: 1.5rem;
+  color: #888;
+  text-align: center;
+  background: rgba(255,255,255,0.02);
+  border: 1px dashed rgba(255,255,255,0.08);
+  border-radius: 10px;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 720px) {
+  .role-picker { grid-template-columns: 1fr; }
+  .team-scout-grid { grid-template-columns: 1fr; }
+  .ob-card { padding: 1.2rem 1rem; }
+  .ob-title { font-size: 1.4rem; }
+}
+
+/* ============================================================================
+   ===== MODERN DESIGN POLISH (sports-brand & tech-leader inspired) =====
+   ============================================================================ */
+
+/* Inter is already loaded — bump body legibility */
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; letter-spacing: -0.005em; }
+
+/* Bolder, more cinematic header brand */
+.brand h1, header h1 {
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
+
+/* Glass morphism on hero panels */
+.panel { backdrop-filter: blur(8px) saturate(115%); -webkit-backdrop-filter: blur(8px) saturate(115%); }
+
+/* Larger, bolder stat numbers (cinematic) */
+.stat-card .stat-number {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  font-size: 2.6rem;
+  line-height: 1;
+}
+.stat-card .stat-label {
+  font-size: 0.68rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: #999;
+  font-weight: 500;
+  margin-top: 0.3rem;
+}
+
+/* Buttery, layered focus state for any keyboard nav */
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Smooth scroll across the app */
+html { scroll-behavior: smooth; }
+
+/* Card depth — subtle stacked shadows like Linear/Stripe */
+.stat-card, .panel, .roster-card, .scout-card, .lb-card, .record-card, .award-card, .legend-card, .tr-team-card, .ft-card, .role-card, .team-scout-card, .rule-card {
+  box-shadow:
+    0 1px 0 rgba(255,255,255,0.04) inset,
+    0 1px 2px rgba(0,0,0,0.3),
+    0 4px 16px rgba(0,0,0,0.25);
+}
+
+/* Hover-elevate any interactive card */
+.stat-card, .roster-card, .scout-card, .lb-card, .record-card, .award-card, .tr-team-card {
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s, border-color 0.25s;
+}
+
+/* Number-tabular alignment for stat tables */
+.stat-card .stat-number, .lb-value, .record-value, .ps-num, .rc-num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Gradient on the live-dot for a more organic feel */
+.live-dot {
+  background: radial-gradient(circle, var(--gold-light), var(--gold)) !important;
+  animation: pulse-dot 1.8s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { box-shadow: 0 0 0 0 var(--gold-glow); }
+  50%      { box-shadow: 0 0 0 8px transparent; }
+}
+
+/* Improve panel header weight */
+.panel-header h2 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
