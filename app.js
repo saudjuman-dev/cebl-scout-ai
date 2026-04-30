@@ -549,9 +549,18 @@ function openPlayerModal(playerName) {
 
   const initials = playerName.split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
 
+  // Sparkline — PPG trend across career
+  const ppgSeries = stats.map(s => s.ppg).filter(v => typeof v === 'number');
+  const sparkHtml = ppgSeries.length >= 2 ? `
+    <div class="sparkline-row">
+      <span style="color:var(--gold);font-weight:600">PPG trend:</span>
+      ${renderSparkline(ppgSeries, { w: 90, h: 24 })}
+      <span>${ppgSeries[0].toFixed(1)} → ${ppgSeries[ppgSeries.length-1].toFixed(1)}</span>
+    </div>` : '';
+
   content.innerHTML = `
     <div class="pm-header">
-      <div class="pm-avatar">${initials}</div>
+      <div class="pm-avatar has-headshot">${avatarContent(playerName)}</div>
       <div class="pm-info">
         <h2>${playerName}</h2>
         <div class="pm-bio-row">
@@ -565,6 +574,7 @@ function openPlayerModal(playerName) {
           ${bio.draft ? `<span class="pm-bio-item"><strong>Draft:</strong> <span class="pm-val">${bio.draft}</span></span>` : ''}
           ${bio.college ? `<span class="pm-bio-item"><strong>College:</strong> <span class="pm-val">${bio.college}</span></span>` : ''}
         </div>
+        ${sparkHtml}
       </div>
     </div>
 
@@ -1790,6 +1800,144 @@ function renderPipelineEnhanced() {
 }
 
 // ============================================================================
+// ===== LIGHT / DARK MODE TOGGLE =====
+// ============================================================================
+function toggleLightMode() {
+  const isLight = document.body.classList.toggle('light-mode');
+  try { localStorage.setItem('hi_light_mode', isLight ? '1' : '0'); } catch (e) {}
+  const icon = document.getElementById('theme-mode-icon');
+  if (icon) icon.textContent = isLight ? '☀️' : '🌙';
+}
+function _initLightMode() {
+  try {
+    if (localStorage.getItem('hi_light_mode') === '1') {
+      document.body.classList.add('light-mode');
+      const icon = document.getElementById('theme-mode-icon');
+      if (icon) icon.textContent = '☀️';
+    }
+  } catch (e) {}
+}
+
+// ============================================================================
+// ===== SPARKLINE renderer — PPG trend across seasons =====
+// ============================================================================
+function renderSparkline(values, opts) {
+  if (!values || values.length < 2) return '';
+  const w = (opts && opts.w) || 70;
+  const h = (opts && opts.h) || 22;
+  const max = Math.max(...values);
+  const min = Math.min(...values);
+  const range = max - min || 1;
+  const stepX = w / (values.length - 1);
+  const pts = values.map((v, i) => `${(i * stepX).toFixed(1)},${(h - ((v - min) / range) * (h - 4) - 2).toFixed(1)}`);
+  const linePath = `M${pts.join(' L')}`;
+  const areaPath = `${linePath} L${w},${h} L0,${h} Z`;
+  const lastPt = pts[pts.length - 1].split(',');
+  return `<span class="sparkline" style="width:${w}px;height:${h}px;display:inline-block">
+    <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+      <path class="area" d="${areaPath}"/>
+      <path class="line" d="${linePath}"/>
+      <circle class="last" cx="${lastPt[0]}" cy="${lastPt[1]}" r="2.5"/>
+    </svg>
+  </span>`;
+}
+
+// ============================================================================
+// ===== GLOBAL PROS — FIBA-emphasis worldwide pro database =====
+// ============================================================================
+let _gpCountriesSeeded = false;
+
+function _populateGpCountryFilter() {
+  if (_gpCountriesSeeded) return;
+  if (typeof GLOBAL_PROS === 'undefined') return;
+  const sel = document.getElementById('gp-country-filter');
+  if (!sel) return;
+  const counts = {};
+  GLOBAL_PROS.forEach(p => counts[p.country] = (counts[p.country] || 0) + 1);
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  sorted.forEach(([country, n]) => {
+    const opt = document.createElement('option');
+    opt.value = country;
+    opt.textContent = `${country} (${n})`;
+    sel.appendChild(opt);
+  });
+  _gpCountriesSeeded = true;
+}
+
+function renderGlobalPros() {
+  if (typeof GLOBAL_PROS === 'undefined') return;
+  _populateGpCountryFilter();
+
+  const search = (document.getElementById('global-pros-search')?.value || '').toLowerCase();
+  const tier   = document.getElementById('gp-tier-filter')?.value || '';
+  const ctry   = document.getElementById('gp-country-filter')?.value || '';
+  const pos    = document.getElementById('gp-pos-filter')?.value || '';
+  const fibaOnly = !!document.getElementById('gp-fiba-only')?.checked;
+
+  const filtered = GLOBAL_PROS.filter(p => {
+    if (tier && p.tier !== tier) return false;
+    if (ctry && p.country !== ctry) return false;
+    if (fibaOnly && !p.fibaEligible) return false;
+    if (pos) {
+      const pp = (p.pos || '').toLowerCase();
+      if (pos === 'Guard'   && !pp.includes('guard'))   return false;
+      if (pos === 'Forward' && !pp.includes('forward')) return false;
+      if (pos === 'Center'  && !pp.includes('center'))  return false;
+    }
+    if (search) {
+      const blob = (p.name + ' ' + p.currentTeam + ' ' + p.country + ' ' + (p.college||'') + ' ' + (p.birthCity||'') + ' ' + p.league).toLowerCase();
+      if (!blob.includes(search)) return false;
+    }
+    return true;
+  });
+
+  // Summary
+  const summary = document.getElementById('global-pros-summary');
+  if (summary) {
+    summary.innerHTML = `
+      <div class="gp-summary">
+        <div class="gp-stat"><div class="gp-stat-num">${filtered.length}</div><div class="gp-stat-lbl">Showing</div></div>
+        <div class="gp-stat"><div class="gp-stat-num">${GLOBAL_PROS.length}</div><div class="gp-stat-lbl">Total in DB</div></div>
+        <div class="gp-stat"><div class="gp-stat-num">${GLOBAL_PROS_STATS ? Object.keys(GLOBAL_PROS_STATS.byCountry || {}).length : '?'}</div><div class="gp-stat-lbl">Countries</div></div>
+        <div class="gp-stat"><div class="gp-stat-num">${GLOBAL_PROS_STATS ? Object.keys(GLOBAL_PROS_STATS.byLeague || {}).length : '?'}</div><div class="gp-stat-lbl">Leagues</div></div>
+      </div>
+    `;
+  }
+
+  const content = document.getElementById('global-pros-content');
+  if (!content) return;
+  if (filtered.length === 0) {
+    content.innerHTML = '<div class="empty-roster">No matching pros.<br><span style="opacity:0.7">Adjust filters or check spelling.</span></div>';
+    return;
+  }
+
+  content.innerHTML = `
+    <div class="gp-grid">
+      ${filtered.map(p => `
+        <div class="gp-card" data-player-name="${p.name}">
+          <div class="gp-avatar has-headshot">${avatarContent(p.name)}</div>
+          <div class="gp-info">
+            <div class="gp-name">${p.name}</div>
+            <div class="gp-meta">${p.pos || '—'}${p.height ? ' · ' + p.height : ''}${p.birthCity ? ' · ' + p.birthCity : ''}</div>
+            <div class="gp-team-line">
+              <span class="gp-team">${p.currentTeam}</span>
+              <span class="gp-league">${p.league}</span>
+            </div>
+            <div class="gp-tags">
+              <span class="gp-tag tier-${(p.tier || '').toLowerCase()}">${p.tier}</span>
+              <span class="gp-tag country">${p.country}</span>
+              ${p.fibaEligible ? '<span class="gp-tag fiba">FIBA</span>' : ''}
+              ${p.college ? `<span class="gp-tag college">${p.college}</span>` : ''}
+            </div>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+  requestAnimationFrame(() => addPlayerClickHandlers());
+}
+
+// ============================================================================
 // ===== AUDIENCE MODE (GM / Fan / All) =====
 // ============================================================================
 function setAudienceMode(mode) {
@@ -1959,6 +2107,7 @@ function refreshAllData() {
   renderLeaderboards();
   renderRecordsContent();
   renderTeamRosters();
+  renderGlobalPros();
   populateCompareDropdowns();
   populateWatchlistDropdown();
   renderWatchlist();
@@ -1973,6 +2122,7 @@ function refreshAllData() {
 // ===== Initialize =====
 document.addEventListener('DOMContentLoaded', () => {
   _initAudienceMode();
+  _initLightMode();
   refreshAllData();
   // Check for updates every 2 minutes (enhanced live checks)
   setInterval(checkForUpdates, 2 * 60 * 1000);

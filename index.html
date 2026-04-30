@@ -133,6 +133,7 @@
         </div>
       </div>
       <div class="header-actions">
+        <button class="theme-mode-toggle" onclick="toggleLightMode()" title="Toggle light / dark mode" id="theme-mode-icon">🌙</button>
         <button class="theme-picker-btn" onclick="openThemePicker()" title="Choose your team theme">
           <span id="theme-current-emoji">🦡</span>
           <span class="theme-btn-label">Theme: <strong id="theme-current-team">Brampton</strong></span>
@@ -200,6 +201,11 @@
       <button class="nav-tab mode-gm" data-tab="imports" onclick="switchTab('imports')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
         Import Targets
+      </button>
+      <button class="nav-tab mode-gm" data-tab="global-pros" onclick="switchTab('global-pros')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/><path d="M2 12h20"/></svg>
+        Global Pros
+        <span class="new-badge">FIBA</span>
       </button>
       <button class="nav-tab mode-gm mode-fan" data-tab="signings" onclick="switchTab('signings')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
@@ -555,6 +561,43 @@
       <div class="team-stats-grid" id="team-stats-grid"></div>
     </section>
 
+    <!-- GLOBAL PROS TAB -->
+    <section id="tab-global-pros" class="tab-content">
+      <div class="tab-header-row">
+        <h2>Global Pros — FIBA Database</h2>
+        <p class="tab-subtitle">Every non-NBA pro we have verified data on. Realistic CEBL import &amp; scouting candidates from leagues worldwide.</p>
+        <div class="filter-row">
+          <input type="text" id="global-pros-search" class="search-input" placeholder="Search by name, team, country, college…" oninput="renderGlobalPros()">
+          <select id="gp-tier-filter" class="filter-select" onchange="renderGlobalPros()">
+            <option value="">All tiers</option>
+            <option value="Elite">Elite (Champions League / EuroCup)</option>
+            <option value="Top">Top (BBL / Pro A / ACB)</option>
+            <option value="Mid">Mid (Pro B / LEB / 2nd-tier)</option>
+            <option value="Development">Development (G League / pro)</option>
+            <option value="College">College (NCAA / NAIA)</option>
+            <option value="CEBL">CEBL</option>
+          </select>
+          <select id="gp-country-filter" class="filter-select" onchange="renderGlobalPros()">
+            <option value="">All countries</option>
+          </select>
+          <select id="gp-pos-filter" class="filter-select" onchange="renderGlobalPros()">
+            <option value="">All positions</option>
+            <option value="Guard">Guards</option>
+            <option value="Forward">Forwards</option>
+            <option value="Center">Centers</option>
+          </select>
+        </div>
+        <div class="filter-row" style="margin-top: 0.4rem">
+          <label class="gp-fiba-toggle">
+            <input type="checkbox" id="gp-fiba-only" onchange="renderGlobalPros()">
+            FIBA-eligible only (excludes top-tier EuroLeague)
+          </label>
+        </div>
+      </div>
+      <div id="global-pros-summary"></div>
+      <div id="global-pros-content"></div>
+    </section>
+
     <!-- TEAM ROSTERS TAB -->
     <section id="tab-team-rosters" class="tab-content">
       <div class="tab-header-row">
@@ -754,6 +797,7 @@
   <script src="career-data.js"></script>
   <script src="pipeline-data.js"></script>
   <script src="cebl-records.js"></script>
+  <script src="global-pros.js"></script>
   <script src="team-logos.js"></script>
   <script src="player-headshots.js"></script>
   <script src="onboarding.js"></script>
