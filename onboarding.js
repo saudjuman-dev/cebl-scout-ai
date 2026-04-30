@@ -15,7 +15,7 @@ const ONBOARDING = {
     { id: 'montreal',     name: 'Montreal Alliance',            color: '#7B2D8E', emoji: '⚜️', city: 'Montréal, QC',         rec2025: '7-13',  identity: 'Quebec\'s team. Strong local Canadian content. Looking for an offensive identity.' },
     { id: 'niagara',      name: 'Niagara River Lions',          color: '#0066CC', emoji: '🦁',  city: 'St. Catharines, ON',    rec2025: '15-9',  identity: 'Back-to-back champions (2024, 2025). Defensive identity. Khalil Ahmad finals MVP.' },
     { id: 'ottawa',       name: 'Ottawa BlackJacks',            color: '#CC0000', emoji: '🃏',  city: 'Ottawa, ON',            rec2025: '12-10', identity: 'Aggressive perimeter defense. Returning Rohlehr, Harmon, Daniel for 2026.' },
-    { id: 'saskatoon',    name: 'Saskatoon Mamba',              color: '#00AA00', emoji: '🐍',  city: 'Saskatoon, SK',         rec2025: '10-12', identity: 'Rebranded Feb 2026 (was Saskatchewan Rattlers). New HC Isaiah Fox (G League).' },
+    { id: 'saskatoon',    name: 'Saskatoon Mamba',              color: '#7B3FBF', emoji: '🐍',  city: 'Saskatoon, SK',         rec2025: '10-12', identity: 'Rebranded Feb 2026 (was Saskatchewan Rattlers) · Mamba Purple · New HC Isaiah Fox.' },
     { id: 'scarborough',  name: 'Scarborough Shooting Stars',   color: '#1E90FF', emoji: '⭐',  city: 'Scarborough, ON',       rec2025: '11-13', identity: '2023 champions. Cat Barber-led offense. Returning core for 2026.' },
     { id: 'vancouver',    name: 'Vancouver Bandits',            color: '#FF6B35', emoji: '🏴‍☠️', city: 'Langley, BC',           rec2025: '19-5',  identity: 'League-best record. MVP Mitch Creek + CanPOY Tyrese Samuel returning.' },
     { id: 'winnipeg',     name: 'Winnipeg Sea Bears',           color: '#003366', emoji: '🐻',  city: 'Winnipeg, MB',          rec2025: '13-11', identity: 'Loaded for 2026: Xavier Moon + Akot + Osborne + Walker. Title window.' }
@@ -80,6 +80,17 @@ const ONBOARDING = {
     `;
   },
 
+  _teamLogo(team) {
+    // Render real team logo with emoji fallback. Uses TEAM_LOGOS from team-logos.js
+    if (typeof getTeamLogo === 'function') {
+      const url = getTeamLogo(team.name);
+      if (url) {
+        return `<img src="${url}" alt="${team.name}" class="tsc-logo-img" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span class="tsc-logo-fallback" style="display:none;background:${team.color}20">${team.emoji}</span>`;
+      }
+    }
+    return `<span class="tsc-logo-fallback" style="background:${team.color}20">${team.emoji}</span>`;
+  },
+
   _renderRoleStep() {
     this._shell(`
       <div class="ob-step-label">Step 1 of 2 · Welcome to Hoops Intelligence</div>
@@ -133,7 +144,7 @@ const ONBOARDING = {
       <div class="team-scout-grid">
         ${this.CEBL_TEAMS.map(t => `
           <button class="team-scout-card ${t.id === currentTeam ? 'selected' : ''}" data-team-id="${t.id}" style="--team-color:${t.color}; --team-glow:${t.color}33" onclick="ONBOARDING._chooseTeam('${t.id}')">
-            <div class="tsc-emoji">${t.emoji}</div>
+            <div class="tsc-logo">${this._teamLogo(t)}</div>
             <div class="tsc-content">
               <div class="tsc-name">${t.name}</div>
               <div class="tsc-city">${t.city}</div>
@@ -317,12 +328,12 @@ const ONBOARDING = {
 
       <div class="settings-section">
         <h4 class="settings-h">Your home team ${currentRole !== 'gm' ? '<small style="color:#888">(applies in any role)</small>' : ''}</h4>
-        <div class="ob-teams team-grid">
+        <div class="settings-team-grid">
           ${this.CEBL_TEAMS.map(t => `
-            <button class="ob-team team-pick ${t.id === currentTeam ? 'selected' : ''}" data-team-id="${t.id}" style="--team-color:${t.color}" onclick="ONBOARDING.setHomeTeam('${t.id}');ONBOARDING._renderSettings()">
-              <span class="ob-team-emoji">${t.emoji}</span>
-              <span class="ob-team-name">${t.name.replace(/^[A-Z][a-z]+ /, '')}</span>
-              <span class="ob-team-strip" style="background:${t.color}"></span>
+            <button class="settings-team-pick ${t.id === currentTeam ? 'selected' : ''}" data-team-id="${t.id}" style="--team-color:${t.color}" onclick="ONBOARDING.setHomeTeam('${t.id}');ONBOARDING._renderSettings()">
+              <span class="stp-logo">${this._teamLogo(t)}</span>
+              <span class="stp-name">${t.name}</span>
+              <span class="stp-strip" style="background:${t.color}"></span>
             </button>
           `).join('')}
         </div>

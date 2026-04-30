@@ -87,11 +87,12 @@ const CEBL_THEMES = {
     short: 'Saskatoon',
     emoji: '🐍',
     colors: {
-      gold: '#00C851',
-      goldLight: '#39E26D',
-      goldDark: '#007E33',
-      goldMuted: 'rgba(0, 200, 81, 0.15)',
-      goldGlow: 'rgba(0, 200, 81, 0.4)'
+      // "Mamba Purple" — official primary color from Feb 2026 rebrand (REAL Studios)
+      gold: '#7B3FBF',
+      goldLight: '#A572E5',
+      goldDark: '#5A2A95',
+      goldMuted: 'rgba(123, 63, 191, 0.18)',
+      goldGlow: 'rgba(123, 63, 191, 0.4)'
     }
   },
   scarborough: {

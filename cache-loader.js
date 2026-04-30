@@ -93,12 +93,26 @@ function renderEuroBasketBlock(cache) {
   `;
 }
 
-// Async hook used by app.js
+// Async hook used by app.js — shows skeleton loader, then real data
 async function injectEuroBasketDataIntoModal(playerName) {
-  const cache = await fetchPlayerCache(playerName);
-  if (!cache) return;
   const target = document.getElementById('eurobasket-injection');
   if (!target) return;
+
+  // Skeleton loader while fetch runs
+  target.innerHTML = `
+    <div class="eb-loading">
+      <div class="eb-loading-h">Verifying with EuroBasket…</div>
+      <div class="skeleton skeleton-line long"></div>
+      <div class="skeleton skeleton-line"></div>
+      <div class="skeleton skeleton-line short"></div>
+    </div>`;
+
+  const cache = await fetchPlayerCache(playerName);
+  if (!cache) {
+    // No cache — clear skeleton, leave empty
+    target.innerHTML = '';
+    return;
+  }
   target.innerHTML = renderEuroBasketBlock(cache);
 }
 

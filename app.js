@@ -14,20 +14,24 @@ function switchTab(tabId) {
   document.querySelector(`[data-tab="${tabId}"]`).classList.add('active');
 }
 
-// Animate stat counters
+// Animate stat counters with ease-out + thousand-separators (cinematic)
 function animateCounters() {
   document.querySelectorAll('.stat-number').forEach(el => {
-    const target = parseInt(el.getAttribute('data-count'));
-    let current = 0;
-    const increment = Math.max(1, Math.floor(target / 40));
-    const timer = setInterval(() => {
-      current += increment;
-      if (current >= target) {
-        current = target;
-        clearInterval(timer);
-      }
-      el.textContent = current;
-    }, 30);
+    const target = parseInt(el.getAttribute('data-count')) || 0;
+    if (!target) return;
+    const fmt = (n) => Math.round(n).toLocaleString();
+    const duration = 1100;        // ms
+    const start = performance.now();
+    function tick(now) {
+      const elapsed = now - start;
+      const t = Math.min(elapsed / duration, 1);
+      // ease-out cubic — fast start, gentle finish
+      const eased = 1 - Math.pow(1 - t, 3);
+      el.textContent = fmt(target * eased);
+      if (t < 1) requestAnimationFrame(tick);
+      else el.textContent = fmt(target);
+    }
+    requestAnimationFrame(tick);
   });
 }
 
