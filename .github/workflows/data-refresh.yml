@@ -50,7 +50,10 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Install scraper deps
+      - name: Install root deps (axios, cheerio for scrapers)
+        run: npm ci
+
+      - name: Install MCP deps
         working-directory: tools/eurobasket-mcp
         run: npm ci
 

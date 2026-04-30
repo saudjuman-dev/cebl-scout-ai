@@ -1,0 +1,19 @@
+{
+  "name": "cebl-scout-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CEBL Scout — Hoops Intelligence platform. Static site with build-time data tooling.",
+  "scripts": {
+    "refresh-cache": "node tools/cache-updater.js",
+    "scrape-league": "node tools/league-scraper.js",
+    "extract-global-pros": "node tools/extract-global-pros.js",
+    "audit": "node tools/audit-data.js",
+    "cache-health": "node tools/cache-health.js",
+    "backfill-verification": "node tools/backfill-verification.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
