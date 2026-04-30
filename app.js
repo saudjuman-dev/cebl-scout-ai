@@ -287,7 +287,7 @@ function renderSignings() {
       </div>
       <div class="signing-players">
         ${data.players.map(p => `
-          <div class="signing-player">
+          <div class="signing-player" data-player-name="${p.name}">
             <div class="sp-avatar has-headshot">${avatarContent(p.name)}</div>
             <div class="sp-info">
               <div class="sp-name">${p.name}</div>
@@ -901,12 +901,22 @@ function addPlayerClickHandlers() {
     }
   });
 
-  // Signing player names
-  document.querySelectorAll('.sp-name').forEach(el => {
-    const name = el.textContent.trim();
+  // Signing player rows (entire row clickable)
+  document.querySelectorAll('.signing-player').forEach(row => {
+    const nameEl = row.querySelector('.sp-name');
+    if (!nameEl) return;
+    const name = nameEl.textContent.trim();
+    row.setAttribute('data-clickable', 'true');
+    row.style.cursor = 'pointer';
+    row.onclick = (e) => { e.stopPropagation(); openPlayerModal(name); };
+  });
+
+  // Universal: any element with data-player-name attribute opens that player
+  document.querySelectorAll('[data-player-name]').forEach(el => {
+    if (el.dataset.clickBound === '1') return;
+    el.dataset.clickBound = '1';
+    const name = el.dataset.playerName;
     el.style.cursor = 'pointer';
-    el.style.textDecoration = 'underline';
-    el.style.textDecorationColor = 'rgba(212,175,55,0.3)';
     el.onclick = (e) => { e.stopPropagation(); openPlayerModal(name); };
   });
 }

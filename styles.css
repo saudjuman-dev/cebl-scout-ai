@@ -4564,3 +4564,32 @@ h2, h3 { letter-spacing: -0.005em; }
   color: #EF5350;
   border: 1px solid rgba(244, 67, 54, 0.3);
 }
+
+/* Clickable player elements — clear visual affordance */
+[data-clickable="true"] {
+  transition: background-color 0.18s ease, transform 0.18s ease;
+}
+[data-clickable="true"]:hover {
+  background-color: rgba(212, 175, 55, 0.06);
+}
+.signing-player[data-clickable="true"]:hover {
+  background-color: rgba(212, 175, 55, 0.08);
+  border-color: var(--gold-glow);
+}
+.signing-player[data-clickable="true"]:hover .sp-name {
+  color: var(--gold);
+}
+.signing-player .sp-name {
+  transition: color 0.15s ease;
+}
+
+[data-player-name] {
+  cursor: pointer;
+}
+.gp-card[data-player-name]:hover .gp-name,
+.legend-card .legend-name[data-player-name]:hover,
+.award-player[data-player-name]:hover,
+.record-player[data-player-name]:hover,
+.lb-name[data-player-name]:hover {
+  color: var(--gold);
+}
