@@ -211,15 +211,24 @@ async function getTeamRoster(teamUrl) {
   const html = await fetchPage(teamUrl);
   const $ = cheerio.load(html);
   const players = [];
+  const seenUrls = new Set();
   $('a').each((_, el) => {
     const href = $(el).attr('href') || '';
-    if (href.match(/\/player\/[A-Za-z0-9-]+/)) {
-      const fullUrl = href.startsWith('http') ? href : `https://basketball.eurobasket.com${href}`;
-      const name = $(el).text().trim();
-      if (name && /^[A-Z][a-z]/.test(name) && !players.find(p => p.url === fullUrl)) {
-        players.push({ name, url: fullUrl });
-      }
-    }
+    // Match /player/Name-Slug/12345 — require numeric ID at end so we don't
+    // pick up roster-management or marketing links.
+    const m = href.match(/\/player\/([A-Za-z0-9-]+)\/(\d+)/);
+    if (!m) return;
+    const fullUrl = href.startsWith('http') ? href : `https://basketball.eurobasket.com${href}`;
+    if (seenUrls.has(fullUrl)) return;
+    seenUrls.add(fullUrl);
+    // The URL slug is the canonical player identifier — e.g. "Sean-East-II"
+    // (anchor text is sometimes garbage from icon fonts or roster numbers).
+    const urlSlug = m[1];
+    const playerId = m[2];
+    // Build a clean display name from URL slug ("sean east ii") just as a hint;
+    // the real fullName will overwrite this after fetchPlayer().
+    const displayName = urlSlug.replace(/-/g, ' ');
+    players.push({ name: displayName, urlSlug, playerId, url: fullUrl });
   });
   return players;
 }
@@ -325,17 +334,23 @@ function shouldSkip(slug) {
         console.log(`   📋 ${team.name}: ${roster.length} players`);
         stats.players += roster.length;
         for (const p of roster) {
-          const slug = slugify(p.name);
-          if (shouldSkip(slug)) { stats.skipped++; continue; }
+          // Use the URL-derived slug (canonical) for the skip check + filename.
+          // Anchor text is often roster numbers or icon-font glyphs, not the name.
+          const urlSlug = (p.urlSlug || '').toLowerCase();
+          if (urlSlug && shouldSkip(urlSlug)) { stats.skipped++; continue; }
           try {
             await sleep(REQUEST_DELAY);
             const cache = await fetchPlayer(p.url);
-            fs.writeFileSync(path.join(CACHE_DIR, `${slug}.json`), JSON.stringify(cache, null, 2));
+            // Prefer slug from the cache.fullName the API gave us (most reliable).
+            // Falls back to URL slug if fullName is empty.
+            const finalSlug = cache.fullName ? slugify(cache.fullName) : urlSlug || slugify(p.name);
+            if (!finalSlug) { stats.errors++; continue; }
+            fs.writeFileSync(path.join(CACHE_DIR, `${finalSlug}.json`), JSON.stringify(cache, null, 2));
             stats.fetched++;
-            if (stats.fetched % 10 === 0) console.log(`      ↳ ${stats.fetched} fetched`);
+            if (stats.fetched % 10 === 0) console.log(`      ↳ ${stats.fetched} fetched (latest: ${cache.fullName || finalSlug})`);
           } catch (e) {
             stats.errors++;
-            console.warn(`      ❌ ${p.name}: ${e.message}`);
+            console.warn(`      ❌ ${p.url}: ${e.message}`);
           }
         }
       } catch (e) {
