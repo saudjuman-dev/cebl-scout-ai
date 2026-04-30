@@ -1,0 +1,94 @@
+{
+  "fullName": "PEDRO BOMBINO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Bombino/474153",
+  "height": "6'9'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Gimnasia Esgr.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gimnasia",
+      "league": "ARG-4"
+    },
+    {
+      "year": "2019",
+      "team": "Gimnasia Esgr.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gimnasia Esgr.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gimnasia",
+      "league": "ARG-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Gimnasia Esgr.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2021",
+      "team": "Colon SF",
+      "league": "ARG-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Union",
+      "league": "ARG-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Union SF",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2022",
+      "team": "Metapan",
+      "league": "ESA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Union SF",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2023",
+      "team": "Toros",
+      "league": "VEN-1"
+    },
+    {
+      "year": "2023",
+      "team": "Guaros",
+      "league": "VEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Union SF",
+      "league": "ARG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Union SF",
+      "league": "ARG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:08.733Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:08.733Z"
+}

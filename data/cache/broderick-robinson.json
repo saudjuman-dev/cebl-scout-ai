@@ -1,0 +1,55 @@
+{
+  "fullName": "BRODERICK ROBINSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Broderick-Robinson/358191",
+  "height": "6'1'",
+  "college": "University of Missouri",
+  "currentTeam": "Braga",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Northwest Kansas Technical College",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Northwest Kansas Technical College",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "UMKC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UMKC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Braga",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Neftci",
+      "league": "AZE-1"
+    },
+    {
+      "year": "2025",
+      "team": "Eastern M.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Braga",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:01:44.446Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:01:44.446Z"
+}

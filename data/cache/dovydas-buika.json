@@ -1,0 +1,64 @@
+{
+  "fullName": "DOVYDAS BUIKA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dovydas-Buika/660337",
+  "height": "6'6'",
+  "currentTeam": "Jonava",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jonava",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:57:18.297Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:57:18.297Z"
+}

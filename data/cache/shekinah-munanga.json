@@ -1,0 +1,59 @@
+{
+  "fullName": "SHEKINAH MUNANGA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Shekinah-Munanga/447838",
+  "height": "6'8'",
+  "currentTeam": "Antibes",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Monaco U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Monaco",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Angers",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Golbey",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Antibes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:29:14.616Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:29:14.616Z"
+}

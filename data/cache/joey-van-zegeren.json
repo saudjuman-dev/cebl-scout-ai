@@ -1,0 +1,89 @@
+{
+  "fullName": "JOEY VAN ZEGEREN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joey-van-Zegeren/185616",
+  "height": "6'10'",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "09-10",
+      "team": "Rotterdam",
+      "league": "NED-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Trier",
+      "league": "GER-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Clinica S.Asp.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Hereda SPablo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:23.706Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:23.706Z"
+}

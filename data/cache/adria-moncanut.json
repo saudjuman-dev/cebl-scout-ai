@@ -1,0 +1,49 @@
+{
+  "fullName": "ADRIA MONCANUT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adria-Moncanut/534944",
+  "height": "6'0'",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Girona",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Girona",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Girona B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Girona B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:05:35.465Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:05:35.465Z"
+}

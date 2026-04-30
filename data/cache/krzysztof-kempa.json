@@ -1,0 +1,45 @@
+{
+  "fullName": "KRZYSZTOF KEMPA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Krzysztof-Kempa/590152",
+  "height": "6'10'",
+  "college": "University National Team",
+  "currentTeam": "Dziki",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "AZS AWF Mick",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Katowice 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "WKK Wroclaw",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Opole",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:41:52.449Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:41:52.449Z"
+}

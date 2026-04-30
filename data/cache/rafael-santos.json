@@ -1,0 +1,64 @@
+{
+  "fullName": "RAFAEL SANTOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Santos/581326",
+  "height": "6'1'",
+  "currentTeam": "Caja 87",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Cordobasket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja MAL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:05:26.762Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:05:26.762Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "ANDREA SAMAT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andrea-Samat/724439",
+  "height": "6'4'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:28.028Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:28.028Z"
+}

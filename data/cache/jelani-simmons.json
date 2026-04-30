@@ -1,0 +1,70 @@
+{
+  "fullName": "JELANI SIMMONS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jelani-Simmons/490557",
+  "height": "6'5'",
+  "college": "University of Southern Indiana",
+  "currentTeam": "Queluz",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "YSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "YSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "S.Indiana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "S.Indiana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "S.Indiana",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "S.Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "TFT",
+      "league": "ADR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "TFT",
+      "league": "MKD-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sudbury Five",
+      "league": "BSL"
+    },
+    {
+      "year": "24-25",
+      "team": "Sudbury Five",
+      "league": "BSL"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:22.909Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:22.909Z"
+}

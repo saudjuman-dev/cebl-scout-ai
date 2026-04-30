@@ -1,0 +1,94 @@
+{
+  "fullName": "JEFFREY SOLARIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jeffrey-Solarin/293579",
+  "height": "6'4'",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Idaho St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Idaho St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Aquimisa Queso",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Aquimisa Queso",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Chantada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Azuqueca",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Murcia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Murcia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Obras",
+      "league": "LAM-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Obras",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2023",
+      "team": "Obras",
+      "league": "ARG-20"
+    },
+    {
+      "year": "2023",
+      "team": "Obras",
+      "league": "LAM-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Obras",
+      "league": "LAM-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Obras",
+      "league": "ARG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:39.964Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:39.964Z"
+}

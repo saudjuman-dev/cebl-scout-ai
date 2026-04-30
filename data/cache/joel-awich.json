@@ -1,0 +1,74 @@
+{
+  "fullName": "JOEL AWICH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Awich/233230",
+  "height": "6'7'",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Cal Poly",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Cal Poly",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Cal Poly",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Cal Poly",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Souffel",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Dax Gamarde",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Quimper",
+      "league": "FRA-3"
+    },
+    {
+      "year": "2024",
+      "team": "Team DRC",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:21.030Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:21.030Z"
+}

@@ -1,0 +1,79 @@
+{
+  "fullName": "PAUL SCRUGGS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Paul-Scruggs/420753",
+  "height": "6'3'",
+  "currentTeam": "Trefl",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Xavier",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Zip Em Up",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Zip Em Up",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "H.Gilboa Galil",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:40:57.195Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:40:57.195Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "DAYVION MCKNIGHT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dayvion-McKnight/557636",
+  "height": "6'0'",
+  "currentTeam": "Siauliai",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "WKU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "WKU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Eberlein Drive",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:53:37.344Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:53:37.344Z"
+}

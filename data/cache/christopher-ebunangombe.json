@@ -1,0 +1,64 @@
+{
+  "fullName": "CHRISTOPHER EBUNANGOMBE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Ebunangombe/643198",
+  "height": "6'6'",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:40:40.880Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:40:40.880Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fullName": "STEFAN SIMANIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stefan-Simanic/451053",
+  "height": "6'10'",
+  "currentTeam": "Siauliai",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Igokea",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Igokea",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Igokea",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Igokea",
+      "league": "BIH-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Igokea",
+      "league": "ADR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Igokea",
+      "league": "BIH-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Celik",
+      "league": "BIH-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Osijek",
+      "league": "ADR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Mladost MG",
+      "league": "BIH-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Metalac VL",
+      "league": "SRB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spars Realway",
+      "league": "BIH-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Borac Wwin",
+      "league": "ADR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Borac Wwin",
+      "league": "BIH-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:53:48.181Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:53:48.181Z"
+}

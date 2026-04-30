@@ -1,0 +1,65 @@
+{
+  "fullName": "ANDREW THELWELL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andrew-Thelwell/558436",
+  "height": "6'3'",
+  "college": "University of Iowa",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Morehead St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Morehead St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Morehead St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Morehead St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Iowa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:15.279Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:15.279Z"
+}

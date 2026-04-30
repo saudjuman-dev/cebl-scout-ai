@@ -1,0 +1,70 @@
+{
+  "fullName": "MICHAEL OGUINE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Oguine/367473",
+  "height": "6'2'",
+  "college": "University of Montana",
+  "currentTeam": "GTK",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Roanne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Gliwice",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "GTK",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:47:40.717Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:47:40.717Z"
+}

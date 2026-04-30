@@ -1,0 +1,90 @@
+{
+  "fullName": "MARCIN WORONIECKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcin-Woroniecki/401995",
+  "height": "6'3'",
+  "college": "University National Team",
+  "currentTeam": "Zastal",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Biofarm 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Biofarm 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Biofarm 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Biofarm",
+      "league": "POL-5"
+    },
+    {
+      "year": "18-19",
+      "team": "Biofarm",
+      "league": "POL-2"
+    },
+    {
+      "year": "19-20",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "20-21",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Anwil",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Zastal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Zastal",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Enea Zastal",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zastal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:43:43.174Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:43:43.174Z"
+}

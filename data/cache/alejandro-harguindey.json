@@ -1,0 +1,54 @@
+{
+  "fullName": "ALEJANDRO HARGUINDEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Harguindey/486467",
+  "height": "6'7'",
+  "currentTeam": "Cartagena",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Rosalia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Godella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Cartagena",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:55:17.379Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:55:17.379Z"
+}

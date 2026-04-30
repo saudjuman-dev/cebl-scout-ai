@@ -1,0 +1,54 @@
+{
+  "fullName": "HECTOR FIGUEROA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hector-Figueroa/517533",
+  "height": "6'5'",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Fuenlabrada",
+      "league": "ESP-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:51.338Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:51.338Z"
+}

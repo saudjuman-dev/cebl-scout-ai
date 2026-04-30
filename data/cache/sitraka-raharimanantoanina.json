@@ -1,0 +1,49 @@
+{
+  "fullName": "SITRAKA RAHARIMANANTOANINA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sitraka-Raharimanantoanina/443792",
+  "height": "6'9'",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Chalon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Chalon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:44.198Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:44.198Z"
+}

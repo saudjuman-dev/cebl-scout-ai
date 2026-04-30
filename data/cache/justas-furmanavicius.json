@@ -1,0 +1,110 @@
+{
+  "fullName": "JUSTAS FURMANAVICIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justas-Furmanavicius/216744",
+  "height": "6'7'",
+  "college": "University of Mississippi",
+  "currentTeam": "Anwil",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Three Rivers",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Three Rivers",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Jonava",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Kastoria",
+      "league": "GRE-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Dzukija Alytus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jonava",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gargzdu",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jonava",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Borac Cacak",
+      "league": "ADR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:09.102Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:09.102Z"
+}

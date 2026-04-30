@@ -1,0 +1,55 @@
+{
+  "fullName": "LAOLU OKE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Laolu-Oke/491416",
+  "height": "6'8'",
+  "college": "University of Denver",
+  "currentTeam": "Champagne",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "MSU Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "MSU Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "MSU Denver",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "MSU Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Randers",
+      "league": "DEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Champagne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:23.448Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:23.448Z"
+}

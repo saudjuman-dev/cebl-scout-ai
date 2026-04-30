@@ -1,0 +1,28 @@
+{
+  "fullName": "DIMITRIOS POULOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitrios-Poulos/780194",
+  "currentTeam": "Promitheas",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Promitheas",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:13:48.034Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:13:48.034Z"
+}

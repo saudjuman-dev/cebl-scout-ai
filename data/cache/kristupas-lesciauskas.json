@@ -1,0 +1,69 @@
+{
+  "fullName": "KRISTUPAS LESCIAUSKAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kristupas-Lesciauskas/617729",
+  "height": "6'3'",
+  "currentTeam": "Neptunas",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Klaipeda-05",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "VKKM",
+      "league": "LTU-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mazeikiai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Neptunas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:58:33.596Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:58:33.596Z"
+}

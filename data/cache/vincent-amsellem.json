@@ -1,0 +1,59 @@
+{
+  "fullName": "VINCENT AMSELLEM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vincent-Amsellem/471393",
+  "height": "6'4'",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Antibes U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Antibes U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:39:09.510Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:39:09.510Z"
+}

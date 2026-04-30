@@ -1,0 +1,69 @@
+{
+  "fullName": "YANNICK NZOSA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yannick-Nzosa/465256",
+  "height": "6'11'",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja MAL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja MAL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Unicaja MAL",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Unicaja MAL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Coosur Real B.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:59:58.149Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:59:58.149Z"
+}

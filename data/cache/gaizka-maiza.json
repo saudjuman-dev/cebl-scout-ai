@@ -1,0 +1,94 @@
+{
+  "fullName": "GAIZKA MAIZA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gaizka-Maiza/335273",
+  "height": "6'3'",
+  "currentTeam": "Gipuzkoa",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Tolosa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "RETAbet Gip.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Baskonia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Huelva CD",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gipuzkoa",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:48:41.147Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:48:41.147Z"
+}

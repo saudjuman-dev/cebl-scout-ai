@@ -1,0 +1,104 @@
+{
+  "fullName": "MEREDIS HOUMOUNOU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Meredis-Houmounou/102635",
+  "height": "6'3'",
+  "currentTeam": "Orleans",
+  "careerHistory": [
+    {
+      "year": "08-09",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "09-10",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "10-11",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "12-13",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "JL Bourg",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orleans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:05.810Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:05.810Z"
+}

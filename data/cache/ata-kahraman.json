@@ -1,0 +1,74 @@
+{
+  "fullName": "ATA KAHRAMAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ata-Kahraman/399840",
+  "height": "6'4'",
+  "currentTeam": "Turk Telekom",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Bahcesehir",
+      "league": "TUR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Bursaspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Bornova",
+      "league": "TUR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Bornova",
+      "league": "TUR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Manisa",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Buyukcekmece",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Buyukcekmece",
+      "league": "TUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:33.802Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:33.802Z"
+}

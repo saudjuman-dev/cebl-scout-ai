@@ -1,0 +1,44 @@
+{
+  "fullName": "YAVUZ KARA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yavuz-Kara/666308",
+  "height": "6'9'",
+  "currentTeam": "Cedi Osman",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bahcesehir",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bahcesehir",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bahcesehir",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bahcesehir Koleji U1",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Cedi Osman",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:02.366Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:02.366Z"
+}

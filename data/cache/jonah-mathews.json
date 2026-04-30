@@ -1,0 +1,95 @@
+{
+  "fullName": "JONAH MATHEWS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonah-Mathews/402301",
+  "height": "6'3'",
+  "college": "College and his older brother",
+  "currentTeam": "Besiktas",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Koping Stars",
+      "league": "SWE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Anwil",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:16:53.532Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:16:53.532Z"
+}

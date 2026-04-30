@@ -1,0 +1,74 @@
+{
+  "fullName": "KEVIN DINAL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Dinal/206041",
+  "height": "6'7'",
+  "currentTeam": "Nantes",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Blois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "JDA Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Nantes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:29:35.092Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:29:35.092Z"
+}

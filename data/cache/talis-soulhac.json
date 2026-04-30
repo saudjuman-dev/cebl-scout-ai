@@ -1,0 +1,54 @@
+{
+  "fullName": "TALIS SOULHAC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Talis-Soulhac/643199",
+  "height": "6'3'",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:36.866Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:36.866Z"
+}

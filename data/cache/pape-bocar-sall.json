@@ -1,0 +1,59 @@
+{
+  "fullName": "PAPE BOCAR SALL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pape-Bocar-Sall/517540",
+  "height": "6'11'",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Azulejos M.",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Igualada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "SESE",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Zentro Basket",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "UE Mataro",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "LBC Cocinas",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:10:25.790Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:10:25.790Z"
+}

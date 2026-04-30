@@ -1,0 +1,54 @@
+{
+  "fullName": "ADRIAN SANCHEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrian-Sanchez/494963",
+  "height": "6'9'",
+  "currentTeam": "Benicarlo",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Zentro Basket",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Zentro Basket",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Zentro Basket 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Ontinet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Universitat Vic",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:02:03.978Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:02:03.978Z"
+}

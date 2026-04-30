@@ -1,0 +1,99 @@
+{
+  "fullName": "MARIO ALVAREZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mario-Alvarez/154426",
+  "height": "6'7'",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Plasencia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "11-12",
+      "team": "Basquet Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Plasencia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Albacete",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Castellon",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Plasencia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Plasencia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Plasencia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Innova Chef Z.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Getafe",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:54.506Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:54.506Z"
+}

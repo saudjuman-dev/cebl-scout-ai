@@ -1,0 +1,24 @@
+{
+  "fullName": "SANTIAGO SILVA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Santiago-Silva/742360",
+  "height": "6'5'",
+  "currentTeam": "FC Porto",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "FC Porto",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:08:22.243Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:08:22.243Z"
+}

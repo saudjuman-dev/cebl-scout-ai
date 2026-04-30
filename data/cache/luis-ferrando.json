@@ -1,0 +1,80 @@
+{
+  "fullName": "LUIS FERRANDO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luis-Ferrando/376612",
+  "height": "6'1'",
+  "college": "University of Mount Olive",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gandia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:42.267Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:42.267Z"
+}

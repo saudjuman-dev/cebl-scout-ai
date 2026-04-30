@@ -1,0 +1,124 @@
+{
+  "fullName": "JAKUB GARBACZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Garbacz/203581",
+  "height": "6'6'",
+  "currentTeam": "Arka",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "11-12",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Kutno",
+      "league": "POL-2"
+    },
+    {
+      "year": "14-15",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "15-16",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Asseco Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco Arka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "BM Slam Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arged BM Stal",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Weissenfels",
+      "league": "GER-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arged BM Stal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arka Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arka",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:42:25.550Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:42:25.550Z"
+}

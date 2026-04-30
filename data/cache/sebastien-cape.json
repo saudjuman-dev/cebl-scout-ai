@@ -1,0 +1,79 @@
+{
+  "fullName": "SEBASTIEN CAPE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sebastien-Cape/242837",
+  "height": "6'1'",
+  "currentTeam": "Saint-Chamond",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Bordeaux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Bordeaux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Lorient",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Lorient",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Rennes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint-Chamond",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:30:18.173Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:30:18.173Z"
+}

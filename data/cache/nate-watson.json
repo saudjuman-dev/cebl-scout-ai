@@ -1,0 +1,104 @@
+{
+  "fullName": "NATE WATSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nate-Watson/425489",
+  "height": "6'10'",
+  "currentTeam": "Panionios",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Providence",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nymburk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nymburk",
+      "league": "CZE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FMP Meridian",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FMP Meridian",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FMP Meridian",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Eberlein Drive",
+      "league": "TBT"
+    },
+    {
+      "year": "2025",
+      "team": "Panionios",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panionios",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panionios",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:08:28.980Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:08:28.980Z"
+}

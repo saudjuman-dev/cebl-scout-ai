@@ -1,0 +1,85 @@
+{
+  "fullName": "RONALDO SEGU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ronaldo-Segu/423030",
+  "height": "6'0'",
+  "college": "University of Buffalo",
+  "currentTeam": "Iraklis",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Psychikou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Borac Cacak",
+      "league": "ADR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bamberg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Bamberg",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bamberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraklis KAE",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraklis KAE",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Ramat Gan",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:15:29.412Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:15:29.412Z"
+}

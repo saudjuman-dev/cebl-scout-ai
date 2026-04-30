@@ -1,0 +1,54 @@
+{
+  "fullName": "BLAZEJ CZAPLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Blazej-Czapla/662651",
+  "height": "6'0'",
+  "currentTeam": "Legia",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Legia",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Legia",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Legia 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Legia",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:56.839Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:56.839Z"
+}

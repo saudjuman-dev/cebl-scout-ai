@@ -1,0 +1,59 @@
+{
+  "fullName": "LUDOVIC DUFEAL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ludovic-Dufeal/475399",
+  "height": "6'8'",
+  "currentTeam": "Saint-Chamond",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gardner-Webb",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint-Chamond",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:30:07.504Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:30:07.504Z"
+}

@@ -1,0 +1,74 @@
+{
+  "fullName": "KAMEL AMMOUR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kamel-Ammour/158982",
+  "height": "6'8'",
+  "currentTeam": "Aix-Maurienne",
+  "careerHistory": [
+    {
+      "year": "08-09",
+      "team": "St Quentin",
+      "league": "FRA-1"
+    },
+    {
+      "year": "08-09",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:56.918Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:56.918Z"
+}

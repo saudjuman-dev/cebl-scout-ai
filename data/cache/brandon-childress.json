@@ -1,0 +1,104 @@
+{
+  "fullName": "BRANDON CHILDRESS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Childress/402334",
+  "height": "6'0'",
+  "currentTeam": "Bursaspor",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "AVIS Rapla",
+      "league": "EST-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "2021",
+      "team": "AVIS Rapla",
+      "league": "EST-2"
+    },
+    {
+      "year": "21-22",
+      "team": "TalTech Tallinn",
+      "league": "LAES-1"
+    },
+    {
+      "year": "2022",
+      "team": "TalTech Tallinn",
+      "league": "EST-1"
+    },
+    {
+      "year": "2022",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayreuth",
+      "league": "GER-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayreuth",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crailsheim",
+      "league": "GER-1"
+    },
+    {
+      "year": "2024",
+      "team": "Marineros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jonava",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bursaspor",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bursaspor",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:22:42.845Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:22:42.845Z"
+}

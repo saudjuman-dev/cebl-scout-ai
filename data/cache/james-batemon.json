@@ -1,0 +1,85 @@
+{
+  "fullName": "JAMES BATEMON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/James-Batemon/395013",
+  "height": "6'1'",
+  "college": "University High School\n2015",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "N.Dakota St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "N.Dakota St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Z*Fresno Stars",
+      "league": "EST-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Union Tours",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Crailsheim",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Crailsheim",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Brisbane B.",
+      "league": "AUS-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hiopos Forca",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:58:04.107Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:58:04.107Z"
+}

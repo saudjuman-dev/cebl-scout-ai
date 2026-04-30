@@ -1,0 +1,64 @@
+{
+  "fullName": "JAUME LOBO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaume-Lobo/409011",
+  "height": "5'11'",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Sant Adria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Sant Adria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Sant Adria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Avila",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:50:28.300Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:50:28.300Z"
+}

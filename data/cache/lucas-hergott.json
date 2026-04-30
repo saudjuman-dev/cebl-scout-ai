@@ -1,0 +1,69 @@
+{
+  "fullName": "LUCAS HERGOTT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Hergott/334246",
+  "height": "6'7'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "ASVEL",
+      "league": "BCL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "FOS Provence",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "La Rochelle",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:37.868Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:37.868Z"
+}

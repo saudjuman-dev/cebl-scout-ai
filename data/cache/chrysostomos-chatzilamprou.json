@@ -1,0 +1,34 @@
+{
+  "fullName": "CHRYSOSTOMOS CHATZILAMPROU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chrysostomos-Chatzilamprou/744300",
+  "height": "6'7'",
+  "currentTeam": "Aris",
+  "careerHistory": [
+    {
+      "year": "2025",
+      "team": "Aris Midea",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aris",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:10:32.039Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:10:32.039Z"
+}

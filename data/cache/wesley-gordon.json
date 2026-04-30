@@ -1,0 +1,105 @@
+{
+  "fullName": "WESLEY GORDON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wesley-Gordon/259258",
+  "height": "6'9'",
+  "college": "University of Colorado Springs",
+  "currentTeam": "GTK",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Colorado",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Colorado",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Colorado",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Colorado",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Furstenfeld",
+      "league": "AUT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Sopron KC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Rethymno",
+      "league": "GRE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Larissa BC",
+      "league": "GRE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Kormend",
+      "league": "HUN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl Sopot",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Astros",
+      "league": "MEX-2"
+    },
+    {
+      "year": "25-26",
+      "team": "GTK",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:47:37.144Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:47:37.144Z"
+}

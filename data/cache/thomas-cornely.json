@@ -1,0 +1,89 @@
+{
+  "fullName": "THOMAS CORNELY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Thomas-Cornely/228984",
+  "height": "6'3'",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Limoges",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Blois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Blois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Blois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gravelines",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:51.695Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:51.695Z"
+}

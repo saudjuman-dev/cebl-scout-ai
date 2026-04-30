@@ -1,0 +1,84 @@
+{
+  "fullName": "MICHAL CHRABOTA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michal-Chrabota/363334",
+  "height": "6'5'",
+  "currentTeam": "Krosno",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Wisla",
+      "league": "POL-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Wisla",
+      "league": "POL-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Wisla",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Wisla",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Wisla",
+      "league": "POL-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Wisla",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Wisla",
+      "league": "POL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "WKK 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "WKK Wroclaw",
+      "league": "POL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Bytom",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Przemysl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Przemysl",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Miasto Szkla",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Krosno",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:48:20.775Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:48:20.775Z"
+}

@@ -1,0 +1,79 @@
+{
+  "fullName": "JUSTIN JAWORSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Jaworski/441175",
+  "height": "6'3'",
+  "currentTeam": "Bilbao",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Oklahoma City",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Napoli",
+      "league": "ITA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:56:03.028Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:56:03.028Z"
+}

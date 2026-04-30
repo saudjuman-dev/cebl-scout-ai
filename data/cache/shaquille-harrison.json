@@ -1,0 +1,135 @@
+{
+  "fullName": "SHAQUILLE HARRISON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Shaquille-Harrison/266552",
+  "height": "6'4'",
+  "college": "University of Tulsa",
+  "currentTeam": "ASVEL",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Tulsa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Tulsa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Tulsa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Tulsa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Bakersfield",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Bakersfield",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "2019",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Utah Jazz",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Delaware Blue",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Brooklyn",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Portland TB",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:34:01.180Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:34:01.180Z"
+}

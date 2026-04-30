@@ -1,0 +1,105 @@
+{
+  "fullName": "CHEVEZ GOODWIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chevez-Goodwin/402403",
+  "height": "6'9'",
+  "college": "College of Charleston",
+  "currentTeam": "Kolossos",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Charleston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Wofford",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Wofford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Wofford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Showtime",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Aris",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "GER-1"
+    },
+    {
+      "year": "2024",
+      "team": "WoCo Showtime",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hiopos Forca",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Taipei CTBC",
+      "league": "TAI-1"
+    },
+    {
+      "year": "2025",
+      "team": "Aftershocks",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:02:17.935Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:02:17.935Z"
+}

@@ -1,0 +1,79 @@
+{
+  "fullName": "ROBERT FORD III",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Robert-Ford-III/430361",
+  "height": "6'0'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Clackamas",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Clackamas",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Idaho St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Idaho St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Idaho St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Montana St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Montana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Montana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Montana St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Rigas Zelli",
+      "league": "LAT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Rigas Zelli",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:22.006Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:22.006Z"
+}

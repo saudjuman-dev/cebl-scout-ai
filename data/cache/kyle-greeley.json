@@ -1,0 +1,55 @@
+{
+  "fullName": "KYLE GREELEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Greeley/487328",
+  "height": "6'5'",
+  "college": "College All",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Portland St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Portland St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "St.Martin's",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Martin's",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Martin's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Martin's",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "CD Leonesa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:38.711Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:38.711Z"
+}

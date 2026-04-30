@@ -1,0 +1,54 @@
+{
+  "fullName": "ENRIQUE MEDINA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Enrique-Medina/649285",
+  "height": "7'2'",
+  "currentTeam": "SBA",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Regatas",
+      "league": "ARG-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Regatas COR",
+      "league": "ARG-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Regatas",
+      "league": "ARG-4"
+    },
+    {
+      "year": "2024",
+      "team": "Heroes",
+      "league": "VEN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rioverde Clavijo Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Santfeliuenc",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2025",
+      "team": "Guaiqueries",
+      "league": "VEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "SBA",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:01.640Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:01.640Z"
+}

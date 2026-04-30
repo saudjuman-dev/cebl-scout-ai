@@ -1,0 +1,104 @@
+{
+  "fullName": "ALEKSANDAR LANGOVIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aleksandar-Langovic/442346",
+  "height": "6'9'",
+  "currentTeam": "Arriva P.Cukier",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Mega SM",
+      "league": "SRB-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Mega Super",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Mega SM",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Mega SM",
+      "league": "SRB-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Mega Super",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "OKK Beograd",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Mega SM",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "19-20",
+      "team": "OKK Beograd",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Mega Soc.Bet",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Podgorica",
+      "league": "ADR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Podgorica",
+      "league": "MNT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Borac Wwin",
+      "league": "ADR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Borac Wwin",
+      "league": "BIH-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arriva P.Cukier",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:45:42.207Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:45:42.207Z"
+}

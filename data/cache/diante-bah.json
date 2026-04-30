@@ -1,0 +1,49 @@
+{
+  "fullName": "DIANTE BAH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Diante-Bah/507401",
+  "height": "6'9'",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Rowan University",
+      "league": "NCAA3"
+    },
+    {
+      "year": "19-20",
+      "team": "Z*Mexico City",
+      "league": "ESL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Rowan University",
+      "league": "NCAA3"
+    },
+    {
+      "year": "22-23",
+      "team": "Amsterdam",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Slavija Sarajevo",
+      "league": "BIH-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:27.402Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:27.402Z"
+}

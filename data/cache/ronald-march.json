@@ -1,0 +1,115 @@
+{
+  "fullName": "RONALD MARCH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ronald-March/233544",
+  "height": "6'5'",
+  "college": "College Maricopa",
+  "currentTeam": "Mersin Spor",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "HBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Glendale, AZ",
+      "league": "JUCO"
+    },
+    {
+      "year": "14-15",
+      "team": "Philander Smith",
+      "league": "NAIA"
+    },
+    {
+      "year": "15-16",
+      "team": "Philander Smith",
+      "league": "NAIA"
+    },
+    {
+      "year": "15-16",
+      "team": "Philander Smith",
+      "league": "NAIA"
+    },
+    {
+      "year": "2017",
+      "team": "Delhi C.",
+      "league": "IND-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Riviera",
+      "league": "SUI-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2022",
+      "team": "Program for Autism",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2023",
+      "team": "Gigantes",
+      "league": "PUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Prometey",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Prometey",
+      "league": "LAES-1"
+    },
+    {
+      "year": "2024",
+      "team": "Team Diesel",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Ningbo R.",
+      "league": "CHN-1"
+    },
+    {
+      "year": "2025",
+      "team": "Shell Shock",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:23:09.851Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:23:09.851Z"
+}

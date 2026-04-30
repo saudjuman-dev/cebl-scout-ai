@@ -1,0 +1,84 @@
+{
+  "fullName": "SEAN MILLER-MOORE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sean-Miller-Moore/460013",
+  "height": "6'4'",
+  "currentTeam": "Evreux",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Oregon St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "GCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "GCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "GCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Calgary",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "Brampton",
+      "league": "LAM-1"
+    },
+    {
+      "year": "2023",
+      "team": "Calgary",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Calgary",
+      "league": "CEBL"
+    },
+    {
+      "year": "2025",
+      "team": "Calgary",
+      "league": "CEBL"
+    },
+    {
+      "year": "2025",
+      "team": "Los Mochis",
+      "league": "MEX-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Evreux",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:31:42.812Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:31:42.812Z"
+}

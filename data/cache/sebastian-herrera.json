@@ -1,0 +1,109 @@
+{
+  "fullName": "SEBASTIAN HERRERA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sebastian-Herrera/297839",
+  "height": "6'4'",
+  "currentTeam": "Paris",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Univ.Catolica",
+      "league": "CHI-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Trier YG",
+      "league": "GER-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Trier",
+      "league": "GER-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Trier",
+      "league": "GER-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Crailsheim",
+      "league": "GER-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Oldenburg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Telekom Bsk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Telekom Bsk",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Paris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:32:28.888Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:32:28.888Z"
+}

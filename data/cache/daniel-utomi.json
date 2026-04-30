@@ -1,0 +1,95 @@
+{
+  "fullName": "DANIEL UTOMI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Utomi/369286",
+  "height": "6'6'",
+  "college": "University of Akron",
+  "currentTeam": "Dar City",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Karhu",
+      "league": "FIN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Chiusi",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Astana",
+      "league": "VTB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Astana",
+      "league": "KAZ-1"
+    },
+    {
+      "year": "2025",
+      "team": "Guaymas",
+      "league": "MEX-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dar City",
+      "league": "theBAL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:52.234Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:52.234Z"
+}

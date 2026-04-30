@@ -1,0 +1,79 @@
+{
+  "fullName": "JEAN MONTERO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jean-Montero/441251",
+  "height": "6'2'",
+  "currentTeam": "Valencia",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Gran Canaria",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2022",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Coosur Real B.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:52:02.647Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:52:02.647Z"
+}

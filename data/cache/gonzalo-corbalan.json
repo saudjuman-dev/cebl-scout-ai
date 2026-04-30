@@ -1,0 +1,49 @@
+{
+  "fullName": "GONZALO CORBALAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gonzalo-Corbalan/499938",
+  "height": "6'4'",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "LCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Nissan GSant.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Hereda SPablo",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Hereda SPablo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Hereda SPablo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Longevida SP",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:59:48.451Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:59:48.451Z"
+}

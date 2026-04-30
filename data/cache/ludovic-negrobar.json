@@ -1,0 +1,64 @@
+{
+  "fullName": "LUDOVIC NEGROBAR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ludovic-Negrobar/230098",
+  "height": "6'10'",
+  "currentTeam": "Orleans",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Rennes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orleans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:09.923Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:09.923Z"
+}

@@ -1,0 +1,120 @@
+{
+  "fullName": "STEFAN MOODY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stefan-Moody/265846",
+  "height": "5'11'",
+  "college": "College of Liberal Arts",
+  "currentTeam": "Varese",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Kilgore JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "14-15",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Trabzonspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Rethymno",
+      "league": "GRE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "BC Minsk",
+      "league": "FEL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "BC Minsk",
+      "league": "VTB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "DEAC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "DEAC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Larissa BC",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2023",
+      "team": "Trotamundos",
+      "league": "VEN-1"
+    },
+    {
+      "year": "2023",
+      "team": "Program for Autism",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Igokea MTel",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Igokea MTel",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Qingdao E.",
+      "league": "CHN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Merkezefendi",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanjing MK",
+      "league": "CHN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Karsiyaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Varese",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:24:28.655Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:24:28.655Z"
+}

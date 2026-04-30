@@ -1,0 +1,54 @@
+{
+  "fullName": "ADRIAN LATORRE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrian-Latorre/517496",
+  "height": "6'8'",
+  "currentTeam": "Caja 87",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Estepona",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "CB Marbella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "CB Marbella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Eurogaza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:05:16.827Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:05:16.827Z"
+}

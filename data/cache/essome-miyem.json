@@ -1,0 +1,94 @@
+{
+  "fullName": "ESSOME MIYEM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Essome-Miyem/400587",
+  "height": "6'11'",
+  "currentTeam": "Boulazac",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Strasbourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Strasbourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Strasbourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:37:51.825Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:37:51.825Z"
+}

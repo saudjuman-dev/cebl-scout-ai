@@ -1,0 +1,54 @@
+{
+  "fullName": "FELIZARDO AMBROSIO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Felizardo-Ambrosio/66268",
+  "height": "6'8'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "2011",
+      "team": "1 De Agosto",
+      "league": "ACC-1"
+    },
+    {
+      "year": "2014",
+      "team": "1 De Agosto",
+      "league": "ACC-1"
+    },
+    {
+      "year": "2015",
+      "team": "1 De Agosto",
+      "league": "ACC-1"
+    },
+    {
+      "year": "2016",
+      "team": "1 De Agosto",
+      "league": "ACC-1"
+    },
+    {
+      "year": "18-19",
+      "team": "1 De Agosto",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:09.421Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:09.421Z"
+}

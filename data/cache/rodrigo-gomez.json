@@ -1,0 +1,64 @@
+{
+  "fullName": "RODRIGO GOMEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rodrigo-Gomez/434361",
+  "height": "6'9'",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Rio Natura Mo.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Monbus OB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:24.244Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:24.244Z"
+}

@@ -1,0 +1,44 @@
+{
+  "fullName": "ADEMIDE BADMUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ademide-Badmus/565130",
+  "height": "6'7'",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Gardner-Webb",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:00.878Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:00.878Z"
+}

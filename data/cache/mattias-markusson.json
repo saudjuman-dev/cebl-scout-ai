@@ -1,0 +1,94 @@
+{
+  "fullName": "MATTIAS MARKUSSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mattias-Markusson/242539",
+  "height": "7'2'",
+  "currentTeam": "Roanne",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Alvik",
+      "league": "SWE-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Alvik",
+      "league": "SWE-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Jamtland",
+      "league": "SWE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Jamtland",
+      "league": "SWE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Jamtland 2",
+      "league": "SWE-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "BK Opava",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "BK Opava",
+      "league": "CZE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Chalon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "FOS Provence",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Roanne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:21.827Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:21.827Z"
+}

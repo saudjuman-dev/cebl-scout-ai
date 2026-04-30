@@ -1,0 +1,99 @@
+{
+  "fullName": "JAHVON HENRY-BLAIR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jahvon-Henry-Blair/442681",
+  "height": "6'4'",
+  "currentTeam": "Roanne",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lavrio",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "KTP-Basket",
+      "league": "FIN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "2022",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Newfoundland",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "Brampton",
+      "league": "LAM-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "2024",
+      "team": "Guaymas",
+      "league": "MEX-1"
+    },
+    {
+      "year": "2024",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "2025",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Roanne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:13.809Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:13.809Z"
+}

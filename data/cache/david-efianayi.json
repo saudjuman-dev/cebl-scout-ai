@@ -1,0 +1,104 @@
+{
+  "fullName": "DAVID EFIANAYI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Efianayi/336445",
+  "height": "6'2'",
+  "currentTeam": "Petkim",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bakken",
+      "league": "DEN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bakken",
+      "league": "FEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bakken",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Horsens IC",
+      "league": "DEN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "H.Be'er Sheva",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "2023",
+      "team": "Team Overtime",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mersin",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:22:04.808Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:22:04.808Z"
+}

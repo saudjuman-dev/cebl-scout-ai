@@ -1,0 +1,104 @@
+{
+  "fullName": "JOEL AYAYI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Ayayi/368870",
+  "height": "6'4'",
+  "currentTeam": "Paris",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "2021",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Capital C.Go-Go",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Osceola M.",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:31:56.639Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:31:56.639Z"
+}

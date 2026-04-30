@@ -1,0 +1,23 @@
+{
+  "fullName": "DIMITRIOS PANAGOPOULOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitrios-Panagopoulos/780231",
+  "currentTeam": "Panionios",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Panionios",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Panionios",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:11:12.877Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:11:12.877Z"
+}

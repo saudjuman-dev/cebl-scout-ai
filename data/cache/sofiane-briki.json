@@ -1,0 +1,94 @@
+{
+  "fullName": "SOFIANE BRIKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sofiane-Briki/349579",
+  "height": "6'4'",
+  "currentTeam": "Caen",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "ASVEL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "17-18",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "17-18",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "ASVEL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Caen",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:31:33.334Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:31:33.334Z"
+}

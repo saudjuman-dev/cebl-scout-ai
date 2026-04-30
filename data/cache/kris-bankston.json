@@ -1,0 +1,95 @@
+{
+  "fullName": "KRIS BANKSTON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kris-Bankston/451186",
+  "height": "6'9'",
+  "college": "University of Arkansas at Little Rock",
+  "currentTeam": "Turk Telekom",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "UALR",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "UALR",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "UALR",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UALR",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "UALR",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Norfolk St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Norfolk St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Aris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tofas",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:17:37.855Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:17:37.855Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "FILIP GURTATOWSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Filip-Gurtatowski/493586",
+  "height": "6'8'",
+  "currentTeam": "Pelplin",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "OSSM PZKosz",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Polonia Wwa",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Pelplin",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:54.830Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:54.830Z"
+}

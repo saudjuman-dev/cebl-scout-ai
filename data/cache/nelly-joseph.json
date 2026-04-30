@@ -1,0 +1,55 @@
+{
+  "fullName": "NELLY JOSEPH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nelly-Joseph/478692",
+  "height": "6'10'",
+  "college": "University of New Mexico",
+  "currentTeam": "Strasbourg",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Mexico",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Mexico",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Mexico",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2025",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:34:35.884Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:34:35.884Z"
+}

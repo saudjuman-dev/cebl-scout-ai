@@ -1,0 +1,54 @@
+{
+  "fullName": "ROGER FABREGA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Roger-Fabrega/624641",
+  "height": "6'1'",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CD Leonesa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:20.468Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:20.468Z"
+}

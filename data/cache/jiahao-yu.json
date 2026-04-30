@@ -1,0 +1,29 @@
+{
+  "fullName": "JIAHAO YU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jiahao-Yu/580049",
+  "height": "7'3'",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zhejiang",
+      "league": "CHN-1"
+    },
+    {
+      "year": "2024",
+      "team": "Team China",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:59.576Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:59.576Z"
+}

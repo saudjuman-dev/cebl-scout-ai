@@ -1,0 +1,59 @@
+{
+  "fullName": "JOSEP PERIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josep-Peris/466937",
+  "height": "6'4'",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Villarrobledo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Carbajosa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Talavera",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:43.738Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:43.738Z"
+}

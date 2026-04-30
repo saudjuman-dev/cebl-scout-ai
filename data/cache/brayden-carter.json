@@ -1,0 +1,55 @@
+{
+  "fullName": "BRAYDEN CARTER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brayden-Carter/612273",
+  "height": "6'9'",
+  "college": "University of Denver",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Regis Univ.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Regis Univ.",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Regis Univ.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Regis Univ.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Fort Lewis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Fort Lewis",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "MSU Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:34.228Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:34.228Z"
+}

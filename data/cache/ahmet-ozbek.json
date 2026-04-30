@@ -1,0 +1,64 @@
+{
+  "fullName": "AHMET OZBEK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ahmet-Ozbek/627615",
+  "height": "6'3'",
+  "currentTeam": "Besiktas",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Yalova",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:21.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:21.361Z"
+}

@@ -1,0 +1,69 @@
+{
+  "fullName": "ERAL PENN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eral-Penn/450036",
+  "height": "6'7'",
+  "currentTeam": "Czarni",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "LIU Brooklyn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "LIU Brooklyn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "LIU Brooklyn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "LIU Brooklyn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "DePaul",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valcea",
+      "league": "ROM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valcea",
+      "league": "ROM-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:47:01.035Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:47:01.035Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "BADR MOUJIB",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Badr-Moujib/521738",
+  "height": "6'10'",
+  "currentTeam": "Saint-Chamond",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Limoges",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Union Tours",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint-Chamond",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:29:54.191Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:29:54.191Z"
+}

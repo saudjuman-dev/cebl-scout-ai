@@ -1,0 +1,60 @@
+{
+  "fullName": "TYRELL ROBERTS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyrell-Roberts/425681",
+  "height": "5'11'",
+  "college": "University of California at San Diego",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "UCSD",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "UCSD",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "WSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Charleroi",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Charleroi",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Maine Celtics",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Rip City R.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:29.870Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:29.870Z"
+}

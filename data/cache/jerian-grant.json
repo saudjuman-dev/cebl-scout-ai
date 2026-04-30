@@ -1,0 +1,125 @@
+{
+  "fullName": "JERIAN GRANT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jerian-Grant/209725",
+  "height": "6'5'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "NY Knicks",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Capital C.Go-Go",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "AX Armani MI",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "AX Armani MI",
+      "league": "ITA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:03:39.356Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:03:39.356Z"
+}

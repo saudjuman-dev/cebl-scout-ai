@@ -1,0 +1,74 @@
+{
+  "fullName": "TRENTON GIBSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Trenton-Gibson/488434",
+  "height": "6'4'",
+  "currentTeam": "Stal",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Tusculum",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Tusculum",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Tusculum",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Tusculum",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tusculum",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Indiana St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Indiana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Feyenoord",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Feyenoord",
+      "league": "NED-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Willebroek",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Willebroek",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:44:37.538Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:44:37.538Z"
+}

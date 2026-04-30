@@ -1,0 +1,90 @@
+{
+  "fullName": "MARKUS HOWARD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Markus-Howard/337691",
+  "height": "5'11'",
+  "college": "College\nYear",
+  "currentTeam": "Baskonia",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Grand Rapids G.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Bitci Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bitci Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cazoo Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cazoo Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cazoo Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cazoo Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:53:34.384Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:53:34.384Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "MARIOS FYLAKTAKIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marios-Fylaktakis/777341",
+  "height": "6'5'",
+  "currentTeam": "Olympiacos U18",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:14:13.055Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:14:13.055Z"
+}

@@ -1,0 +1,140 @@
+{
+  "fullName": "TYLER CAVANAUGH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyler-Cavanaugh/257810",
+  "height": "6'9'",
+  "college": "College All",
+  "currentTeam": "Bahcesehir",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Utah Jazz",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "2019",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "ALBA Berlin",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Canarias T.",
+      "league": "BCL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Canarias T.",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Canarias T.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bahcesehir",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bahcesehir",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bahcesehir",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bahcesehir",
+      "league": "TUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Bahcesehir",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:17:01.787Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:17:01.787Z"
+}

@@ -1,0 +1,74 @@
+{
+  "fullName": "ALONSO FAURE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alonso-Faure/485146",
+  "height": "6'10'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Pepperdine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:48:52.978Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:48:52.978Z"
+}

@@ -1,0 +1,79 @@
+{
+  "fullName": "ANTHONY DA SILVA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Da-Silva/445564",
+  "height": "6'1'",
+  "currentTeam": "Evreux",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Real Betis",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Betis EP",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Dax Gamarde",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Besancon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Evreux",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:31:57.184Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:31:57.184Z"
+}

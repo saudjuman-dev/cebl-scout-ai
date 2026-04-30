@@ -1,0 +1,65 @@
+{
+  "fullName": "SPENCER LITTLESON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Spencer-Littleson/402508",
+  "height": "6'4'",
+  "college": "college basketball at NCAA Division III Hope",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Duquesne",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Toledo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Toledo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Toledo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "Detroit P.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Limburg United",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:50:00.066Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:50:00.066Z"
+}

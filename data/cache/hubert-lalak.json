@@ -1,0 +1,80 @@
+{
+  "fullName": "HUBERT LALAK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hubert-Lalak/480944",
+  "height": "5'11'",
+  "college": "University National Team",
+  "currentTeam": "Krosno",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "UKS 7 Trefl",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Trefl Sopot",
+      "league": "POL-6"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl",
+      "league": "POL-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Trefl Sopot",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Miasto Szkla",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Miasto Szkla",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Miasto Szkla",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Krosno",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:48:34.266Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:48:34.266Z"
+}

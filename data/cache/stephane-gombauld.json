@@ -1,0 +1,109 @@
+{
+  "fullName": "STEPHANE GOMBAULD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stephane-Gombauld/243434",
+  "height": "6'9'",
+  "currentTeam": "Nancy",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "ASVEL",
+      "league": "FEL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Chartres",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Mladost ZE",
+      "league": "ADR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Mladost ZE",
+      "league": "SRB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dinamo Sassari",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dinamo Sassari",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Unahotels RE",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Unahotels RE",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nancy",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:37:01.458Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:37:01.458Z"
+}

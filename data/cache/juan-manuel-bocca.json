@@ -1,0 +1,39 @@
+{
+  "fullName": "JUAN MANUEL BOCCA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Manuel-Bocca/618677",
+  "height": "6'6'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Obradoiro",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:27.175Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:27.175Z"
+}

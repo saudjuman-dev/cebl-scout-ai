@@ -1,0 +1,65 @@
+{
+  "fullName": "JAVONTE BROWN-FERGUSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javonte-Brown-Ferguson/527381",
+  "height": "7'0'",
+  "college": "University of Connecticut",
+  "currentTeam": "Tangerang",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas A&M",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "URI",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2025",
+      "team": "Calgary",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos T.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2026",
+      "team": "Tangerang",
+      "league": "IDN-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:50.968Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:50.968Z"
+}

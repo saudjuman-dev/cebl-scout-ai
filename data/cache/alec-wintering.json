@@ -1,0 +1,85 @@
+{
+  "fullName": "ALEC WINTERING",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alec-Wintering/302293",
+  "height": "6'0'",
+  "college": "University of Portland",
+  "currentTeam": "Palencia",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Portland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Portland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Portland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Portland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Araberri",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Windmills",
+      "league": "NED-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Levitec Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Valladolid",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2022",
+      "team": "Gaiteros",
+      "league": "VEN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Palencia",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:47:08.681Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:47:08.681Z"
+}

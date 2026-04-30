@@ -1,0 +1,29 @@
+{
+  "fullName": "ROBERTS ROTCENKOVS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Roberts-Rotcenkovs/644235",
+  "height": "6'7'",
+  "currentTeam": "SBA",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "BS Riga 2",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "22-23",
+      "team": "BS Riga",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "25-26",
+      "team": "SBA",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:14.701Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:14.701Z"
+}

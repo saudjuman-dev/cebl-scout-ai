@@ -1,0 +1,44 @@
+{
+  "fullName": "WESLEY ROBINSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wesley-Robinson/627660",
+  "height": "6'7'",
+  "currentTeam": "Queluz",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bloomfield",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Bloomfield",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manhattan",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:18.916Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:18.916Z"
+}

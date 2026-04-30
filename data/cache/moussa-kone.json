@@ -1,0 +1,79 @@
+{
+  "fullName": "MOUSSA KONE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Moussa-Kone/233530",
+  "height": "6'8'",
+  "currentTeam": "Braga",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Wetterbygden",
+      "league": "SWE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Almansa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cantabria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Portimonense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Braga",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:01:33.431Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:01:33.431Z"
+}

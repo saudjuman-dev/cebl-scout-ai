@@ -1,0 +1,79 @@
+{
+  "fullName": "NIKOS ARSENOPOULOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikos-Arsenopoulos/399761",
+  "height": "6'5'",
+  "currentTeam": "AEK",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Olympiacos",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Psychikou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Olympiacos B",
+      "league": "GRE-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ionikos",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ionikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ionikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Povoa",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:12:36.863Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:12:36.863Z"
+}

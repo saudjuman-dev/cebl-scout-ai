@@ -1,0 +1,44 @@
+{
+  "fullName": "SANTIAGO PAZ VAZQUEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Santiago-Paz-Vazquez/621468",
+  "height": "6'7'",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Monbus OB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:21.005Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:21.005Z"
+}

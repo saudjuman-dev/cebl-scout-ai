@@ -1,0 +1,79 @@
+{
+  "fullName": "ROMARO GILL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Romaro-Gill/394979",
+  "height": "7'3'",
+  "currentTeam": "Ourense",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "2021",
+      "team": "Wellington",
+      "league": "NZL-1"
+    },
+    {
+      "year": "2021",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "2022",
+      "team": "Sharks",
+      "league": "NZL-1"
+    },
+    {
+      "year": "2023",
+      "team": "Sharks",
+      "league": "NZL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Ourense",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:35.059Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:35.059Z"
+}

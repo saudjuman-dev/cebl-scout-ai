@@ -1,0 +1,99 @@
+{
+  "fullName": "GREG GANTT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Greg-Gantt/187585",
+  "height": "6'2'",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "11-12",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Austin Toros",
+      "league": "G League"
+    },
+    {
+      "year": "14-15",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Magia Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Carramimbre",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Carramimbre",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Clinica S.Asp.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ourense",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Valladolid",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:36.953Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:36.953Z"
+}

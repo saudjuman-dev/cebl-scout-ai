@@ -1,0 +1,99 @@
+{
+  "fullName": "CAMERON YOUNG",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Young/363757",
+  "height": "6'5'",
+  "currentTeam": "Karsiyaka",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Arizona W. CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Arizona W. CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Quinnipiac",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Quinnipiac",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Quinnipiac",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "S.Bernardo-Cinelandia Cantu",
+      "league": "ITA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cherkasy",
+      "league": "UKR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Memphis H.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Cleveland C.",
+      "league": "G League"
+    },
+    {
+      "year": "2022",
+      "team": "Cleveland C.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Herd That",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Z*G League Ignite",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Z*In the Lab",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Runa Basket",
+      "league": "VTB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel Haifa",
+      "league": "ISR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Central",
+      "league": "LEB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Karsiyaka",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:24:25.571Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:24:25.571Z"
+}

@@ -1,0 +1,74 @@
+{
+  "fullName": "LUCAS CAPALBO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Capalbo/443853",
+  "height": "5'9'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Odessa JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Malvin",
+      "league": "URU-1"
+    },
+    {
+      "year": "2020",
+      "team": "25 de Agosto",
+      "league": "URU-2"
+    },
+    {
+      "year": "2021",
+      "team": "Malvin",
+      "league": "URU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Malvin",
+      "league": "URU-1"
+    },
+    {
+      "year": "2022",
+      "team": "Cordon",
+      "league": "URU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Malvin",
+      "league": "URU-1"
+    },
+    {
+      "year": "2023",
+      "team": "Malvin",
+      "league": "LSA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Malvin",
+      "league": "URU-1"
+    },
+    {
+      "year": "2024",
+      "team": "Centauros de Portuguesa Margarita",
+      "league": "VEN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Malvin",
+      "league": "URU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:20.363Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:20.363Z"
+}

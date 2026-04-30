@@ -1,0 +1,24 @@
+{
+  "fullName": "GEORGIOS VETOULAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Georgios-Vetoulas/828381",
+  "height": "6'1'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:15:01.209Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:15:01.209Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fullName": "DAMIEN BOUQUET",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Damien-Bouquet/284153",
+  "height": "6'6'",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Charleville-M.",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Charleville-M.",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nanterre",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Chalon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Chalon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "FOS Provence",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "FOS Provence",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:40.600Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:40.600Z"
+}

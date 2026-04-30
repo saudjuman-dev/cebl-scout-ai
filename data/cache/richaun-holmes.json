@@ -1,0 +1,99 @@
+{
+  "fullName": "RICHAUN HOLMES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Richaun-Holmes/250535",
+  "height": "6'9'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "BGSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "BGSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "BGSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Philadelphia 76",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "Delaware 87ers",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Philadelphia 76",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Philadelphia 76",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:09:34.162Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:09:34.162Z"
+}

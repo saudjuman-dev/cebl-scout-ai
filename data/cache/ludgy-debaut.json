@@ -1,0 +1,74 @@
+{
+  "fullName": "LUDGY DEBAUT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ludgy-Debaut/453536",
+  "height": "7'0'",
+  "currentTeam": "Melilla",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "NW Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "NW Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Montreal",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2024",
+      "team": "Llaneros",
+      "league": "VEN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Melilla",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:55:39.909Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:55:39.909Z"
+}

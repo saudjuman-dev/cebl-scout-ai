@@ -1,0 +1,70 @@
+{
+  "fullName": "BERNAT VANACLOCHA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bernat-Vanaclocha/376634",
+  "height": "6'11'",
+  "college": "University of Galway",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Polk State CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Polk State CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Alginet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Leitershofen",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:51.973Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:51.973Z"
+}

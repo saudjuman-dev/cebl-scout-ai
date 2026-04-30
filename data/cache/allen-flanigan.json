@@ -1,0 +1,45 @@
+{
+  "fullName": "ALLEN FLANIGAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Allen-Flanigan/422136",
+  "height": "6'6'",
+  "college": "University of Mississippi",
+  "currentTeam": "FC Porto",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:08:19.171Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:08:19.171Z"
+}

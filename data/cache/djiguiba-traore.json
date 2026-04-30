@@ -1,0 +1,54 @@
+{
+  "fullName": "DJIGUIBA TRAORE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Djiguiba-Traore/623020",
+  "height": "6'8'",
+  "currentTeam": "Saint Quentin",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:40:12.671Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:40:12.671Z"
+}

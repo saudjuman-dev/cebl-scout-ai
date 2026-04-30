@@ -1,0 +1,49 @@
+{
+  "fullName": "NIANG FALLOU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Niang-Fallou/448051",
+  "height": "6'8'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Nautico SC",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Nautico Ten.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Nautico Ten.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Nautico Ten.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Monbus OB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:30.378Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:30.378Z"
+}

@@ -1,0 +1,44 @@
+{
+  "fullName": "ASIER GONZALEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Asier-Gonzalez/522571",
+  "height": "6'9'",
+  "currentTeam": "Estudiantes",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Getxo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Getxo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:47:57.531Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:47:57.531Z"
+}

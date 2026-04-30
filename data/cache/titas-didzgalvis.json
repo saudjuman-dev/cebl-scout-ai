@@ -1,0 +1,44 @@
+{
+  "fullName": "TITAS DIDZGALVIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Titas-Didzgalvis/633620",
+  "height": "5'11'",
+  "currentTeam": "Juventus",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Juventus",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Utenos",
+      "league": "LTU-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Juventus",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:59:03.206Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:59:03.206Z"
+}

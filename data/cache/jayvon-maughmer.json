@@ -1,0 +1,59 @@
+{
+  "fullName": "JAYVON MAUGHMER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jayvon-Maughmer/509579",
+  "height": "6'6'",
+  "currentTeam": "Zastal",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Cedarville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Cedarville",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cedarville",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Liberty",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zastal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:43:18.715Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:43:18.715Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "YASMIN MAMBO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yasmin-Mambo/482417",
+  "height": "6'9'",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:33.501Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:33.501Z"
+}

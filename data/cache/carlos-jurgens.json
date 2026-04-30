@@ -1,0 +1,84 @@
+{
+  "fullName": "CARLOS JURGENS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Jurgens/318741",
+  "height": "6'5'",
+  "currentTeam": "Ourense",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "G4S Noorteliiga",
+      "league": "EST-1"
+    },
+    {
+      "year": "16-17",
+      "team": "G4S Noorteliiga",
+      "league": "EST-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Tallinn Kalev",
+      "league": "BBBL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "ORU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "ORU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "ORU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "ORU",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "ORU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "ORU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "ORU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "TalTech Tallinn",
+      "league": "EST-1"
+    },
+    {
+      "year": "24-25",
+      "team": "TalTech Tallinn",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ourense",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:49.154Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:49.154Z"
+}

@@ -1,0 +1,94 @@
+{
+  "fullName": "ONDREJ HUSTAK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ondrej-Hustak/514830",
+  "height": "6'11'",
+  "currentTeam": "King",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Brno",
+      "league": "CZE-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Brno",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Mmcite1 Brno",
+      "league": "CZE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Brno 2",
+      "league": "CZE-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Zentro Basket",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Zentro Basket 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Basket Brno",
+      "league": "CZE-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Basket Brno",
+      "league": "CZE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Manresa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ZA Enamora",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Motor Munich Cadi Manresa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "King",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:39:21.601Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:39:21.601Z"
+}

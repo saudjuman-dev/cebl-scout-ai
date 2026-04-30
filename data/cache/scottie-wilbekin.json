@@ -1,0 +1,150 @@
+{
+  "fullName": "SCOTTIE WILBEKIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Scottie-Wilbekin/208118",
+  "height": "6'2'",
+  "college": "University of Florida",
+  "currentTeam": "Fenerbahce",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "11-12",
+      "team": "Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "AEK Athens",
+      "league": "GRE-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Cairns Taipans",
+      "league": "AUS-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Darussafaka",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Darussafaka",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Darussafaka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Macc. Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Macc. Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Macc. Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Macc. Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:26:08.316Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:26:08.316Z"
+}

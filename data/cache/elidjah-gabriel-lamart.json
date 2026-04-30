@@ -1,0 +1,49 @@
+{
+  "fullName": "ELIDJAH-GABRIEL LAMART",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elidjah-Gabriel-Lamart/623019",
+  "height": "6'6'",
+  "currentTeam": "Denain-Voltaire",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Denain-Voltaire",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:26.901Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:26.901Z"
+}

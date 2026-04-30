@@ -1,0 +1,90 @@
+{
+  "fullName": "ANTHONY COWAN JR.",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Cowan-Jr/398655",
+  "height": "6'0'",
+  "college": "College Prep\n2016",
+  "currentTeam": "Mersin Spor",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Memphis H.",
+      "league": "G League"
+    },
+    {
+      "year": "2021",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Promitheas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Promitheas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolves Vilnius",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolves Vilnius",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:23:23.301Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:23:23.301Z"
+}

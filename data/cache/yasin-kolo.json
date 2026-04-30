@@ -1,0 +1,120 @@
+{
+  "fullName": "YASIN KOLO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yasin-Kolo/185375",
+  "height": "6'10'",
+  "college": "University of Hartford",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Hartford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Bellarmine",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "Bellarmine",
+      "league": "NCAA2"
+    },
+    {
+      "year": "16-17",
+      "team": "Tuebingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Artland",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Panthers Schwenninge",
+      "league": "GER-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Itzehoe",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Toyoda",
+      "league": "JPN-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rioverde Clavijo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Veertien Mie",
+      "league": "JPN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:23.337Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:23.337Z"
+}

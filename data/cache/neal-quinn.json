@@ -1,0 +1,55 @@
+{
+  "fullName": "NEAL QUINN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Neal-Quinn/523139",
+  "height": "7'0'",
+  "college": "University of Richmond",
+  "currentTeam": "Gravelines",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lafayette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Richmond",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Richmond",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:39:37.190Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:39:37.190Z"
+}

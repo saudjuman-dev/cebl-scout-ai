@@ -1,0 +1,84 @@
+{
+  "fullName": "GEORGIOS KAMPERIDIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Georgios-Kamperidis/439938",
+  "height": "6'5'",
+  "currentTeam": "Karditsas",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Ase Doukas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "PAOK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "PAOK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Karditsas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:07:29.704Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:07:29.704Z"
+}

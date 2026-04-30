@@ -1,0 +1,64 @@
+{
+  "fullName": "ROSAIRE MALONGA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rosaire-Malonga/386489",
+  "height": "6'2'",
+  "currentTeam": "Rouen",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Kaysersberg",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Angers",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Angers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleville-M.",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Rouen",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:30:41.247Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:30:41.247Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "WALYN NAPPER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Walyn-Napper/501208",
+  "height": "6'1'",
+  "college": "College of Central Florida",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Dodge City",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Southern Miss",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Southern Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:37.587Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:37.587Z"
+}

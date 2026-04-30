@@ -1,0 +1,29 @@
+{
+  "fullName": "AKOI YUOT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Akoi-Yuot/630862",
+  "height": "6'8'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "SAIT",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:53.216Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:53.216Z"
+}

@@ -1,0 +1,54 @@
+{
+  "fullName": "VICTOR QUINONES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Victor-Quinones/631120",
+  "height": "6'7'",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Iowa Wesleyan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iowa Wesleyan",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Iowa Wesleyan",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Iowa Wesleyan",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Iowa Wesleyan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Faulkner",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Faulkner",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:48.656Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:48.656Z"
+}

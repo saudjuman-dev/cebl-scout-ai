@@ -1,0 +1,60 @@
+{
+  "fullName": "LUKE BARRETT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luke-Barrett/566067",
+  "height": "6'6'",
+  "college": "College of California",
+  "currentTeam": "Arka",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SMC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "SMC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SMC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Arka",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:42:14.461Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:42:14.461Z"
+}

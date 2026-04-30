@@ -1,0 +1,55 @@
+{
+  "fullName": "JAMARII THOMAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jamarii-Thomas/559196",
+  "height": "6'0'",
+  "college": "University of North Carolina Wilmington",
+  "currentTeam": "MKS DG",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "UNCW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "UNCW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UNCW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UNCW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Norfolk St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Apollon",
+      "league": "CYP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:44:22.277Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:44:22.277Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "ILIAS CHAIDEMENOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ilias-Chaidemenos/744298",
+  "height": "6'3'",
+  "currentTeam": "Olympiacos",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:14:04.967Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:14:04.967Z"
+}

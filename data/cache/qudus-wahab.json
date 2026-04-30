@@ -1,0 +1,65 @@
+{
+  "fullName": "QUDUS WAHAB",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Qudus-Wahab/407434",
+  "height": "6'11'",
+  "college": "University of Maryland",
+  "currentTeam": "Cholet",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Maryland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "HV Hoopers",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:35:24.689Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:35:24.689Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "RICARDO GARRIDO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ricardo-Garrido/653050",
+  "height": "6'6'",
+  "currentTeam": "Queluz",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Queluz",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galomar",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:36.744Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:36.744Z"
+}

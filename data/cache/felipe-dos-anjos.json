@@ -1,0 +1,84 @@
+{
+  "fullName": "FELIPE DOS ANJOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Felipe-Dos-Anjos/332956",
+  "height": "7'2'",
+  "currentTeam": "Obradoiro",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "U.Fin. Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "San Pablo BU",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "RETAbet BLB",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "RETAbet BLB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MoraBanc Andorra",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Obradoiro",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:46:14.355Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:46:14.355Z"
+}

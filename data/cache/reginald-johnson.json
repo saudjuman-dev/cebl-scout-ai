@@ -1,0 +1,94 @@
+{
+  "fullName": "REGINALD JOHNSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Reginald-Johnson/266101",
+  "height": "6'2'",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Miami, OH",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Miami, OH",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Hampton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Hampton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Nassjo",
+      "league": "SWE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Kaposvari",
+      "league": "HUN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Budivelnyk",
+      "league": "UKR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Ploiesti CSM",
+      "league": "ROM-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Ploiesti CSM",
+      "league": "ROM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:06.410Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:06.410Z"
+}

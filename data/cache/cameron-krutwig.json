@@ -1,0 +1,85 @@
+{
+  "fullName": "CAMERON KRUTWIG",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Krutwig/431426",
+  "height": "6'9'",
+  "college": "University of Chicago",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Loyola, IL",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Telenet Giants",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Telenet Giants",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Blackwater",
+      "league": "PHI-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ibaraki R.",
+      "league": "JPN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis Se",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:58:14.292Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:58:14.292Z"
+}

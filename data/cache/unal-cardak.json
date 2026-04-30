@@ -1,0 +1,33 @@
+{
+  "fullName": "UNAL CARDAK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Unal-Cardak/666643",
+  "currentTeam": "iLab",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "iLab",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:28:39.569Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:28:39.569Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "MAKAI ASHTON-LANGFORD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Makai-Ashton-Langford/421961",
+  "height": "6'3'",
+  "currentTeam": "Jonava",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Osijek",
+      "league": "CRO-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Osijek",
+      "league": "CRO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manchester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manchester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Jonava",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:36.761Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:36.761Z"
+}

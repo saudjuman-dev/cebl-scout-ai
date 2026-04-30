@@ -1,0 +1,64 @@
+{
+  "fullName": "MAKSYMILIAN LENIEC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maksymilian-Leniec/691830",
+  "height": "6'3'",
+  "currentTeam": "Slask",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Slask 3",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask 3",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Slask II",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Slask",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Slask 3",
+      "league": "POL-3"
+    },
+    {
+      "year": "2025",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask II",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:02.532Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:02.532Z"
+}

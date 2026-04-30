@@ -1,0 +1,44 @@
+{
+  "fullName": "MOHAMED SANKHE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohamed-Sankhe/676332",
+  "height": "6'10'",
+  "currentTeam": "Vichy",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Levallois U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Levallois U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cholet U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Cholet Basket",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vichy",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:26.889Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:26.889Z"
+}

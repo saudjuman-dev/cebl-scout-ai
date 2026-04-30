@@ -1,0 +1,75 @@
+{
+  "fullName": "SIMONAS LUKOSIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Simonas-Lukosius/493184",
+  "height": "6'8'",
+  "college": "University of Cincinnati",
+  "currentTeam": "Rytas",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Vilniaus KM",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bayern",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Dragons",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Bonn/Rh.",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Dragons",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Telekom Bsk",
+      "league": "GER-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Butler",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:52:33.795Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:52:33.795Z"
+}

@@ -1,0 +1,124 @@
+{
+  "fullName": "DAWID SLUPINSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dawid-Slupinski/205483",
+  "height": "6'9'",
+  "currentTeam": "Anwil",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Plock",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Notec",
+      "league": "POL-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Znicz Basket",
+      "league": "POL-2"
+    },
+    {
+      "year": "16-17",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "17-18",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Gliwice",
+      "league": "ALP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gliwice",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gliwice",
+      "league": "ALP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gliwice",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Czarni",
+      "league": "POL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:43:03.836Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:43:03.836Z"
+}

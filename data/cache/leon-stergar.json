@@ -1,0 +1,99 @@
+{
+  "fullName": "LEON STERGAR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leon-Stergar/410261",
+  "height": "6'4'",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Krka",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Krka",
+      "league": "SLO-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Terme Olimia",
+      "league": "SLO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Krka NM",
+      "league": "ADR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kortrijk Spurs",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kortrijk Spurs",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:39:06.827Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:39:06.827Z"
+}

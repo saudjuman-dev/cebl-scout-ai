@@ -1,0 +1,54 @@
+{
+  "fullName": "NEDAS MONTVILA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nedas-Montvila/530439",
+  "height": "6'5'",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:55:32.280Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:55:32.280Z"
+}

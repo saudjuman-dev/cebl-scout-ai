@@ -1,0 +1,49 @@
+{
+  "fullName": "JULIUS DIXON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Julius-Dixon/509519",
+  "height": "6'7'",
+  "currentTeam": "Queluz",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "MWSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "MWSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "MWSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "MWSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:11.342Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:11.342Z"
+}

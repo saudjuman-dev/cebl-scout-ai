@@ -1,0 +1,89 @@
+{
+  "fullName": "BASTIEN PINAULT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bastien-Pinault/273493",
+  "height": "6'5'",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "La Rochelle",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Chalon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boul-Levallois",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:35.823Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:35.823Z"
+}

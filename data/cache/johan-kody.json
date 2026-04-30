@@ -1,0 +1,104 @@
+{
+  "fullName": "JOHAN KODY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Johan-Kody/239464",
+  "height": "6'10'",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Sabadell",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Sabadell",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Lucentum ALC",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Lucentum ALC",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Aquimisa Queso",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Jairis",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gandia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:35.826Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:35.826Z"
+}

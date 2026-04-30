@@ -1,0 +1,59 @@
+{
+  "fullName": "ANTONIOS KARAGIANNIDIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antonios-Karagiannidis/578997",
+  "height": "6'9'",
+  "currentTeam": "Promitheas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "PAOK",
+      "league": "GRE-5"
+    },
+    {
+      "year": "20-21",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Aias Evosmou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Promitheas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Promitheas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:06:45.310Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:06:45.310Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "KENNEDY CLEMENT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kennedy-Clement/479411",
+  "height": "6'7'",
+  "currentTeam": "Lliria",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Selfoss",
+      "league": "ISL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Carbajosa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Selfoss",
+      "league": "ISL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Fjolnir",
+      "league": "ISL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Refitel Lliria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lliria",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:29.482Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:29.482Z"
+}

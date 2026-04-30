@@ -1,0 +1,95 @@
+{
+  "fullName": "SIYANI CHAMBERS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Siyani-Chambers/259341",
+  "height": "6'0'",
+  "college": "University for the 2015",
+  "currentTeam": "Caen",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Wels",
+      "league": "AUT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Giessen 46ers",
+      "league": "GER-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Den Bosch",
+      "league": "NED-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Balkan Botevgrad",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Balkan Botevgrad",
+      "league": "BUL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Boras",
+      "league": "SWE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kormend",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kormend",
+      "league": "HUN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alba",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alba",
+      "league": "HUN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Caen",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:31:18.193Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:31:18.193Z"
+}

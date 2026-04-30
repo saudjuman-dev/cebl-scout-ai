@@ -1,0 +1,65 @@
+{
+  "fullName": "WILLESLEY BUTLER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Willesley-Butler/430801",
+  "height": "6'8'",
+  "college": "University of Alabama at Birmingham",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Pensacola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Pensacola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Levitec Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Umea BSKT",
+      "league": "SWE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Umea BSKT",
+      "league": "SWE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Umea BSKT",
+      "league": "SWE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Toulouse",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:24.297Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:24.297Z"
+}

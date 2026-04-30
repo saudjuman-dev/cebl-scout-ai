@@ -1,0 +1,119 @@
+{
+  "fullName": "MIKOLAJ WITLINSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mikolaj-Witlinski/201667",
+  "height": "6'10'",
+  "currentTeam": "Trefl",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Koszalin",
+      "league": "POL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Asseco Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Asseco Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco Arka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Stelmet Enea",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Stelmet Enea",
+      "league": "VTB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Czarni",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trefl Sopot",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:41:09.865Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:41:09.865Z"
+}

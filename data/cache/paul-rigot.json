@@ -1,0 +1,94 @@
+{
+  "fullName": "PAUL RIGOT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Paul-Rigot/201483",
+  "height": "6'7'",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "11-12",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Orchies",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Monaco",
+      "league": "BCL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Monaco",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Antibes Sharks",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Antibes Sharks",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Blois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:49:41.377Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:49:41.377Z"
+}

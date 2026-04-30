@@ -1,0 +1,59 @@
+{
+  "fullName": "DANIEL ARJOL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Arjol/514771",
+  "height": "6'5'",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Zaragoza",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:15.895Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:15.895Z"
+}

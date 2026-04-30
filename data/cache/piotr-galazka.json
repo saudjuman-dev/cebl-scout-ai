@@ -1,0 +1,39 @@
+{
+  "fullName": "PIOTR GALAZKA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Piotr-Galazka/760551",
+  "height": "6'1'",
+  "currentTeam": "Dziki",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "ENBL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:51:14.349Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:51:14.349Z"
+}

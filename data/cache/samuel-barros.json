@@ -1,0 +1,89 @@
+{
+  "fullName": "SAMUEL BARROS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Samuel-Barros/348142",
+  "height": "6'3'",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Estudiantes Lugo Leyma Natura",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Naron",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Naron",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Cambados",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Tobarra",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Villarrobledo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Tobarra",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:11:30.774Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:11:30.774Z"
+}

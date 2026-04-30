@@ -1,0 +1,44 @@
+{
+  "fullName": "NOJUS RADZIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nojus-Radzius/630963",
+  "height": "6'0'",
+  "currentTeam": "Lietkabelis",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Plunges",
+      "league": "LTU-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Telsiai",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Telsiai",
+      "league": "LTU-2"
+    },
+    {
+      "year": "2025",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:54:29.021Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:54:29.021Z"
+}

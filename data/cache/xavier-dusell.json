@@ -1,0 +1,55 @@
+{
+  "fullName": "XAVIER DUSELL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Xavier-DuSell/424416",
+  "height": "6'5'",
+  "college": "University of Wyoming",
+  "currentTeam": "Aix-Maurienne",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wyoming",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fresno St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nevada",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Liepaja",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:28:21.150Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:28:21.150Z"
+}

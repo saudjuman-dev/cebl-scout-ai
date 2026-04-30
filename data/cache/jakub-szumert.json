@@ -1,0 +1,54 @@
+{
+  "fullName": "JAKUB SZUMERT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Szumert/548981",
+  "height": "6'9'",
+  "currentTeam": "Zastal",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Hutnik Wwa",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Munich",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Energa Wwa",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "NGST",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "AMW Flota",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Suzuki Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arka Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zastal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:43:22.424Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:43:22.424Z"
+}

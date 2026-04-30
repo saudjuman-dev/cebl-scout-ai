@@ -1,0 +1,104 @@
+{
+  "fullName": "PABLO HERNANDEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Hernandez/314789",
+  "height": "6'7'",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Rosalia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Rosalia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "MBU",
+      "league": "NAIA"
+    },
+    {
+      "year": "15-16",
+      "team": "MBU",
+      "league": "NAIA"
+    },
+    {
+      "year": "16-17",
+      "team": "MBU",
+      "league": "NAIA"
+    },
+    {
+      "year": "17-18",
+      "team": "MBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "MBU",
+      "league": "NAIA"
+    },
+    {
+      "year": "18-19",
+      "team": "MBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "MBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "MBU",
+      "league": "NAIA"
+    },
+    {
+      "year": "19-20",
+      "team": "Thor AK",
+      "league": "ISL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Thor Thorl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Thor Thorl",
+      "league": "ISL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:52.889Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:52.889Z"
+}

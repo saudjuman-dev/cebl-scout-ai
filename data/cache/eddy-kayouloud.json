@@ -1,0 +1,54 @@
+{
+  "fullName": "EDDY KAYOULOUD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eddy-Kayouloud/350130",
+  "height": "6'7'",
+  "currentTeam": "Champagne",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Cent Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Cent Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cent Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cent Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cent Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Champagne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:44.067Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:44.067Z"
+}

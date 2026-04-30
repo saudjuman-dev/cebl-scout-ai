@@ -1,0 +1,84 @@
+{
+  "fullName": "DANIELIUS LAVRINOVICIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Danielius-Lavrinovicius/368742",
+  "height": "6'9'",
+  "currentTeam": "Lietkabelis",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Artland",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Artland",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "2025",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:57:56.512Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:57:56.512Z"
+}

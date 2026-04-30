@@ -1,0 +1,54 @@
+{
+  "fullName": "MIGUEL MONTEIRO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Monteiro/479105",
+  "height": "5'10'",
+  "currentTeam": "Ovarense",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Esgueira",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Esgueira",
+      "league": "POR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ovarense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:04.225Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:04.225Z"
+}

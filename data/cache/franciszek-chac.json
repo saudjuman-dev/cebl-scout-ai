@@ -1,0 +1,49 @@
+{
+  "fullName": "FRANCISZEK CHAC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Franciszek-Chac/621744",
+  "height": "6'2'",
+  "currentTeam": "Trefl",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Energa Kotwica",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Bears Trefl",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Trefl",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "UG Trefl",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:07.374Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:07.374Z"
+}

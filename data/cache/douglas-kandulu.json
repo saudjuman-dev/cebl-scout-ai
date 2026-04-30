@@ -1,0 +1,39 @@
+{
+  "fullName": "DOUGLAS KANDULU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Douglas-Kandulu/549837",
+  "height": "7'3'",
+  "currentTeam": "Lliria",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Matero Magic",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alfinden ZR",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2024",
+      "team": "Matero Magic",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Refitel Lliria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lliria",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:11.308Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:11.308Z"
+}

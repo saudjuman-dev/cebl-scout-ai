@@ -1,0 +1,105 @@
+{
+  "fullName": "DAVID DEJULIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-DeJulius/420638",
+  "height": "6'0'",
+  "college": "University of Michigan",
+  "currentTeam": "Murcia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cincinnati",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cincinnati",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Goettingen",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Goettingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Aris Midea",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Macc. Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bursaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Aris Midea",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:51:29.935Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:51:29.935Z"
+}

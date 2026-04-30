@@ -1,0 +1,79 @@
+{
+  "fullName": "MICHAL PLUTA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michal-Pluta/536674",
+  "height": "6'4'",
+  "currentTeam": "Stal",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arka II",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Arged BM Stal",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Stal Ostrow 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Zastal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Astoria",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Zastal",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Zastal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Zastal",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Enea Zastal",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:44:54.894Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:44:54.894Z"
+}

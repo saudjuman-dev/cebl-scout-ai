@@ -1,0 +1,39 @@
+{
+  "fullName": "MICHAEL ENABULELE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Enabulele/660385",
+  "height": "6'7'",
+  "currentTeam": "Lliria",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Agora Portals",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Joventut",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Inca",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lliria",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:04.316Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:04.316Z"
+}

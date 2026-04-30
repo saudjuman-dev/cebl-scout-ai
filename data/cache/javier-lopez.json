@@ -1,0 +1,79 @@
+{
+  "fullName": "JAVIER LOPEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javier-Lopez/394561",
+  "height": "6'3'",
+  "currentTeam": "Cartagena",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cartagena",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:55:23.780Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:55:23.780Z"
+}

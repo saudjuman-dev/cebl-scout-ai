@@ -1,0 +1,50 @@
+{
+  "fullName": "TEOTONIO DO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Teotonio-Do/251434",
+  "height": "6'10'",
+  "college": "University of Arkansas Fort Smith",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "UAFS",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2015",
+      "team": "P.Luanda",
+      "league": "ACC-1"
+    },
+    {
+      "year": "2017",
+      "team": "Libolo",
+      "league": "ACC-1"
+    },
+    {
+      "year": "23-24",
+      "team": "P.Luanda",
+      "league": "ANG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galomar",
+      "league": "POR-1"
+    },
+    {
+      "year": "2025",
+      "team": "CRB",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:51.673Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:51.673Z"
+}

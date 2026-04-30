@@ -1,0 +1,84 @@
+{
+  "fullName": "SAMUEL IDOWU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Samuel-Idowu/370750",
+  "height": "6'8'",
+  "currentTeam": "Poitiers",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "St.Peter's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "St.Peter's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "St.Peter's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "St.Peter's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Leeuwarden",
+      "league": "NED-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Naestved",
+      "league": "DEN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Yoast Utd",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Leicester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Leicester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "2024",
+      "team": "Takeover BC",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-20"
+    },
+    {
+      "year": "2025",
+      "team": "Takeover BC",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:23:32.752Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:23:32.752Z"
+}

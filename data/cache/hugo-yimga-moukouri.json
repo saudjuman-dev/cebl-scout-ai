@@ -1,0 +1,49 @@
+{
+  "fullName": "HUGO YIMGA-MOUKOURI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Yimga-Moukouri/698035",
+  "height": "6'9'",
+  "currentTeam": "Nanterre",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:32:33.894Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:32:33.894Z"
+}

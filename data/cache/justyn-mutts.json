@@ -1,0 +1,80 @@
+{
+  "fullName": "JUSTYN MUTTS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justyn-Mutts/429641",
+  "height": "6'7'",
+  "college": "University of Delaware",
+  "currentTeam": "Chalon/Saone",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "High Point",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Delaware",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Chiba Jets",
+      "league": "EASL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Shinshu BW",
+      "league": "JPN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Chiba Jets",
+      "league": "JPN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Chiba Jets",
+      "league": "EASL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel Afula",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chalon/Saone",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chalon/Saone",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:36:20.232Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:36:20.232Z"
+}

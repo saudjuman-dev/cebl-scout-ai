@@ -1,0 +1,84 @@
+{
+  "fullName": "JUAN HIERREZUELO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Hierrezuelo/387864",
+  "height": "6'10'",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "San Lorenzo",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2017",
+      "team": "San Lorenzo",
+      "league": "ARG-1"
+    },
+    {
+      "year": "17-18",
+      "team": "San Lorenzo",
+      "league": "ARG-1"
+    },
+    {
+      "year": "18-19",
+      "team": "San Lorenzo",
+      "league": "LAM-1"
+    },
+    {
+      "year": "18-19",
+      "team": "San Lorenzo",
+      "league": "ARG-4"
+    },
+    {
+      "year": "18-19",
+      "team": "San Lorenzo",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2019",
+      "team": "Salta Basket",
+      "league": "LSA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Salta Basket",
+      "league": "ARG-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:09.395Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:09.395Z"
+}

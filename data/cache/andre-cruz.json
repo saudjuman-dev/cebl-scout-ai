@@ -1,0 +1,70 @@
+{
+  "fullName": "ANDRE CRUZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andre-Cruz/542595",
+  "height": "6'7'",
+  "college": "University of Incarnate Word",
+  "currentTeam": "Sporting",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Academia",
+      "league": "POR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Belenenses",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "W.Wyoming",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "UIW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sporting",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sporting",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:08:40.106Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:08:40.106Z"
+}

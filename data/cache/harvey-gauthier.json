@@ -1,0 +1,54 @@
+{
+  "fullName": "HARVEY GAUTHIER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Harvey-Gauthier/521737",
+  "height": "6'1'",
+  "currentTeam": "Roanne",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Rennes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Roanne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Roanne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:29.781Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:29.781Z"
+}

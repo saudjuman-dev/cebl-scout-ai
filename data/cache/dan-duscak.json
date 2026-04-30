@@ -1,0 +1,104 @@
+{
+  "fullName": "DAN DUSCAK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dan-Duscak/444936",
+  "height": "6'2'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cedevita Olim.",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cedevita Olim.",
+      "league": "ADR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cedevita Olim.",
+      "league": "SLO-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nutrisp.Ilirija",
+      "league": "ALP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cedevita Olim.",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nutrisp.Ilirija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cedevita Olim.",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cedevita Olim.",
+      "league": "SLO-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:49:18.875Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:49:18.875Z"
+}

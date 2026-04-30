@@ -1,0 +1,99 @@
+{
+  "fullName": "MARTYNAS PACEVICIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Martynas-Pacevicius/272374",
+  "height": "6'9'",
+  "currentTeam": "Neptunas",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Vytis",
+      "league": "LTU-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Jonava",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Jonava",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Jonava",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Perlas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Rytas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Atomeromu",
+      "league": "HUN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Rytas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Neptunas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Neptunas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:58:14.845Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:58:14.845Z"
+}

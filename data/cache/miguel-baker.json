@@ -1,0 +1,49 @@
+{
+  "fullName": "MIGUEL BAKER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Baker/524436",
+  "height": "6'7'",
+  "currentTeam": "Imortal",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Illiabum Clube",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Imortal U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Imortal U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Imortal U23",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:05:22.588Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:05:22.588Z"
+}

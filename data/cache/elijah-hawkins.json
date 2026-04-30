@@ -1,0 +1,70 @@
+{
+  "fullName": "ELIJAH HAWKINS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elijah-Hawkins/499637",
+  "height": "5'11'",
+  "college": "University of Minnesota",
+  "currentTeam": "Start",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Howard",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Howard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Howard",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Howard",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Howard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Minnesota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Atomeromu",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:28.871Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:28.871Z"
+}

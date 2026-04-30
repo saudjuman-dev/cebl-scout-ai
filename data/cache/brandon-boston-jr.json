@@ -1,0 +1,75 @@
+{
+  "fullName": "BRANDON BOSTON JR.",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Boston-Jr/427965",
+  "height": "6'6'",
+  "college": "University of Kentucky",
+  "currentTeam": "Fenerbahce",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Kentucky",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "LA Clippers",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "LA Clippers",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:26:36.350Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:26:36.350Z"
+}

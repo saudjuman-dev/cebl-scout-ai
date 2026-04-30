@@ -1,0 +1,100 @@
+{
+  "fullName": "MIKE FOFANA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mike-Fofana/404348",
+  "height": "6'9'",
+  "college": "University of Tennessee at Martin",
+  "currentTeam": "Braga",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "UT Martin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UT Martin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sporting CP",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "2023",
+      "team": "ABC",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Feurs",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "2024",
+      "team": "AS Douanes",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Espanol O.",
+      "league": "LSA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Espanol O.",
+      "league": "CHI-20"
+    },
+    {
+      "year": "2025",
+      "team": "FUS Rabat",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Team 901",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Braga",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:01:13.716Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:01:13.716Z"
+}

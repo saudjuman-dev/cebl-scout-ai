@@ -1,0 +1,135 @@
+{
+  "fullName": "JORDAN BARNETT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Barnett/333480",
+  "height": "6'7'",
+  "college": "University of Texas",
+  "currentTeam": "Dijon",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Fort Wayne MA",
+      "league": "G League"
+    },
+    {
+      "year": "18-19",
+      "team": "Wisconsin H.",
+      "league": "G League"
+    },
+    {
+      "year": "2019",
+      "team": "San Antonio S.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Giessen 46ers",
+      "league": "GER-1"
+    },
+    {
+      "year": "19-20",
+      "team": "San Antonio S.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Vechta",
+      "league": "GER-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Vechta",
+      "league": "GER-20"
+    },
+    {
+      "year": "21-22",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2022",
+      "team": "DaGuys STL",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Sopron KC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2023",
+      "team": "DaGuys STL",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Alba",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alba",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2024",
+      "team": "DaGuys STL",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "DaGuys STL",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:38:07.764Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:38:07.764Z"
+}

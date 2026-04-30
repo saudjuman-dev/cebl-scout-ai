@@ -1,0 +1,74 @@
+{
+  "fullName": "ANDER URDIAIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ander-Urdiain/408381",
+  "height": "6'8'",
+  "currentTeam": "Palma BM",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Levitec Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Pardinyes-L.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Levitec Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Penas Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Huelva CD",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma BM",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:54:22.000Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:54:22.000Z"
+}

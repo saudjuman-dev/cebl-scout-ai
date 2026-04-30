@@ -1,0 +1,49 @@
+{
+  "fullName": "CHRISTOPHER DAUBY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Dauby/478083",
+  "height": "6'4'",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Dax Gamarde",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Loon-Plage",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:30.458Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:30.458Z"
+}

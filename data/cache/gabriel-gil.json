@@ -1,0 +1,59 @@
+{
+  "fullName": "GABRIEL GIL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gabriel-Gil/517534",
+  "height": "6'7'",
+  "currentTeam": "Burgos T.",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Fuenlabrada",
+      "league": "ESP-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Dist.Olimpico",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Alcala",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos T.",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:54:05.344Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:54:05.344Z"
+}

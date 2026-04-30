@@ -1,0 +1,74 @@
+{
+  "fullName": "KILLIAN MALWAYA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Killian-Malwaya/543428",
+  "height": "6'6'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Champagne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:01.299Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:01.299Z"
+}

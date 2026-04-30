@@ -1,0 +1,100 @@
+{
+  "fullName": "MIKYLE MCINTOSH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mikyle-McIntosh/225302",
+  "height": "6'7'",
+  "college": "University of Oregon",
+  "currentTeam": "Oliveirense",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Illinois St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Illinois St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Illinois St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Anyang KGC",
+      "league": "KOR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "2019",
+      "team": "Indiana P.",
+      "league": "NBA"
+    },
+    {
+      "year": "2019",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "19-20",
+      "team": "Oostende",
+      "league": "BEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Oostende",
+      "league": "BCL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Indiana P.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tasmania JJ",
+      "league": "AUS-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Saga B.",
+      "league": "JPN-2"
+    },
+    {
+      "year": "23-24",
+      "team": "College Park S.",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Vancouver",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:26.999Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:26.999Z"
+}

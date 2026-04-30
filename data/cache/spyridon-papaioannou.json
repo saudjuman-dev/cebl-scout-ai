@@ -1,0 +1,29 @@
+{
+  "fullName": "SPYRIDON PAPAIOANNOU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Spyridon-Papaioannou/780190",
+  "height": "6'5'",
+  "currentTeam": "Olympiacos U18",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:14:10.607Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:14:10.607Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "JAIDEN DELAIRE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaiden-Delaire/491378",
+  "height": "6'9'",
+  "college": "University of San Diego",
+  "currentTeam": "GTK",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "San Diego",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UCSD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Maine Celtics",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "L Lions",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "L Lions",
+      "league": "ENG-20"
+    },
+    {
+      "year": "2025",
+      "team": "X-Rayted",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "GTK",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:47:33.806Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:47:33.806Z"
+}

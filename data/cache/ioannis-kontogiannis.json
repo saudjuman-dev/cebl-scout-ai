@@ -1,0 +1,29 @@
+{
+  "fullName": "IOANNIS KONTOGIANNIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ioannis-Kontogiannis/780234",
+  "height": "6'1'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Panionios",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:15:09.238Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:15:09.238Z"
+}

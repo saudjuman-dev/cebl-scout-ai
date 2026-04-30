@@ -1,0 +1,39 @@
+{
+  "fullName": "MARIOS GIANNIKOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marios-Giannikos/734237",
+  "height": "6'5'",
+  "currentTeam": "Iraklis",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Aris Thessaloniki U1",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Aris Thessaloniki U1",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Aris Thessaloniki U1",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraklis KAE",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraklis KAE",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:15:38.572Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:15:38.572Z"
+}

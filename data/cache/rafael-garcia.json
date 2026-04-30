@@ -1,0 +1,59 @@
+{
+  "fullName": "RAFAEL GARCIA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Garcia/449569",
+  "height": "6'1'",
+  "currentTeam": "SBA",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Culleredo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Monbus OB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Moron",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Huelva CD",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "SBA",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:08.538Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:08.538Z"
+}

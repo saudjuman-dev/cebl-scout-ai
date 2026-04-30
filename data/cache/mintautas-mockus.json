@@ -1,0 +1,70 @@
+{
+  "fullName": "MINTAUTAS MOCKUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mintautas-Mockus/493950",
+  "height": "6'7'",
+  "college": "University of Central Florida",
+  "currentTeam": "Juventus",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Klaipeda",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Klaipeda",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "VKKM",
+      "league": "LTU-6"
+    },
+    {
+      "year": "21-22",
+      "team": "Kretinga",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UIW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Juventus",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:58:59.785Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:58:59.785Z"
+}

@@ -1,0 +1,135 @@
+{
+  "fullName": "VINCENT POIRIER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vincent-Poirier/252470",
+  "height": "7'0'",
+  "college": "University National Team",
+  "currentTeam": "Anadolu Efes",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Paris-Levallois",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Paris-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Paris-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Paris-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kirolbet Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kirolbet Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Maine C.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Philadelphia 76",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:18:35.458Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:18:35.458Z"
+}

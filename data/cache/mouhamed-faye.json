@@ -1,0 +1,59 @@
+{
+  "fullName": "MOUHAMED FAYE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mouhamed-Faye/654828",
+  "height": "6'9'",
+  "currentTeam": "Paris",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Reggio Emilia",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Reggio Emilia",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Zadar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "NGST",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Unahotels RE",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Unahotels RE",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Unahotels RE",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:32:20.890Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:32:20.890Z"
+}

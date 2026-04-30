@@ -1,0 +1,79 @@
+{
+  "fullName": "MAXIMILIANO ANDREATTA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maximiliano-Andreatta/362474",
+  "height": "6'11'",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Regatas COR",
+      "league": "ARG-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Regatas COR",
+      "league": "ARG-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Regatas COR",
+      "league": "ARG-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Harcum CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Harcum CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Gannon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "San Martin",
+      "league": "ARG-1"
+    },
+    {
+      "year": "21-22",
+      "team": "San Martin",
+      "league": "ARG-4"
+    },
+    {
+      "year": "21-22",
+      "team": "San Martin",
+      "league": "ARG-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Comunicaciones",
+      "league": "ARG-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cordoba CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Elche",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:33.404Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:33.404Z"
+}

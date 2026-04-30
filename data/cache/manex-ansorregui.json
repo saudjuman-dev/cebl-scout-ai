@@ -1,0 +1,44 @@
+{
+  "fullName": "MANEX ANSORREGUI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Manex-Ansorregui/528416",
+  "height": "6'5'",
+  "currentTeam": "Gipuzkoa",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gipuzkoa",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:48:23.250Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:48:23.250Z"
+}

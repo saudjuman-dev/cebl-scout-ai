@@ -1,0 +1,84 @@
+{
+  "fullName": "LYSANDER BRACEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lysander-Bracey/394939",
+  "height": "6'4'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Brunswick",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Hampton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Hampton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Hampton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Barsy Atyrau",
+      "league": "KAZ-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Barsy Atyrau",
+      "league": "EAEU-1"
+    },
+    {
+      "year": "2021",
+      "team": "Sabios",
+      "league": "COL-1"
+    },
+    {
+      "year": "2022",
+      "team": "Corsarios",
+      "league": "COL-1"
+    },
+    {
+      "year": "2022",
+      "team": "Pioneros",
+      "league": "VEN-1"
+    },
+    {
+      "year": "2022",
+      "team": "Cimarrones",
+      "league": "COL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:34.215Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:34.215Z"
+}

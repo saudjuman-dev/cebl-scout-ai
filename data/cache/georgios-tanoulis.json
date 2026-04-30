@@ -1,0 +1,74 @@
+{
+  "fullName": "GEORGIOS TANOULIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Georgios-Tanoulis/517818",
+  "height": "6'11'",
+  "currentTeam": "Greece",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "PAOK",
+      "league": "GRE-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Promitheas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Promitheas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Promitheas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Olympiacos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Maroussi",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Maroussi",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:10:40.200Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:10:40.200Z"
+}

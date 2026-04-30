@@ -1,0 +1,85 @@
+{
+  "fullName": "NOJUS MINEIKIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nojus-Mineikis/420238",
+  "height": "6'7'",
+  "college": "University National Team",
+  "currentTeam": "Gargzdu",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jonava",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jonava",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Siauliai",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jonava",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mazeikiai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gargzdu",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:54:34.230Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:54:34.230Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "CHRIS PAYTON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chris-Payton/499414",
+  "height": "6'8'",
+  "college": "University of Pittsburgh",
+  "currentTeam": "Kilsyth C.",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Pittsburgh",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kent St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Kent St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kent St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kent St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "PVSK-Veolia",
+      "league": "HUN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Petrolina AEK",
+      "league": "CYP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ormanspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bora",
+      "league": "KOS-1"
+    },
+    {
+      "year": "2026",
+      "team": "Kilsyth Cobras",
+      "league": "AUS-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:29:49.408Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:29:49.408Z"
+}

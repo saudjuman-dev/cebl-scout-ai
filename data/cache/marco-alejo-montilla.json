@@ -1,0 +1,54 @@
+{
+  "fullName": "MARCO ALEJO MONTILLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marco-Alejo-Montilla/483860",
+  "height": "6'5'",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Refitel Lliria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Refitel Lliria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:55.163Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:55.163Z"
+}

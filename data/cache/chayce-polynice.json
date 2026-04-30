@@ -1,0 +1,50 @@
+{
+  "fullName": "CHAYCE POLYNICE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chayce-Polynice/521093",
+  "height": "6'11'",
+  "college": "College of Southern Idaho",
+  "currentTeam": "Cartagena",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "S.Idaho JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "S.Idaho JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "S.Idaho JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "LBSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "LBSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Seattle SH",
+      "league": "TBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Cartagena",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:55:20.663Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:55:20.663Z"
+}

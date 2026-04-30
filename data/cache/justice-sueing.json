@@ -1,0 +1,75 @@
+{
+  "fullName": "JUSTICE SUEING",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justice-Sueing/420768",
+  "height": "6'6'",
+  "college": "University of California",
+  "currentTeam": "Benfica",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "OKC Thunder",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Telenet Giants",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:00:47.967Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:00:47.967Z"
+}

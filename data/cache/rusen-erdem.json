@@ -1,0 +1,49 @@
+{
+  "fullName": "RUSEN ERDEM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rusen-Erdem/626422",
+  "height": "6'1'",
+  "currentTeam": "Haremspor",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Galatasaray",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Galatasaray",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Galatasaray",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Galatasaray",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Galatasaray",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Haremspor",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:29:05.320Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:29:05.320Z"
+}

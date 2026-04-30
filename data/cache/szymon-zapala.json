@@ -1,0 +1,94 @@
+{
+  "fullName": "SZYMON ZAPALA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Szymon-Zapala/445428",
+  "height": "7'0'",
+  "currentTeam": "Trefl",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "SMS PZKosz",
+      "league": "BBBL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "SMS PZKosz",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Trefl",
+      "league": "POL-5"
+    },
+    {
+      "year": "18-19",
+      "team": "Trefl Sopot",
+      "league": "POL-6"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl",
+      "league": "POL-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Utah St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:41:13.055Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:41:13.055Z"
+}

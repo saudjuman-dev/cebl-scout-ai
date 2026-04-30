@@ -1,0 +1,49 @@
+{
+  "fullName": "ADRIAN BYRD-JELINEK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrian-Byrd-Jelinek/472613",
+  "height": "6'6'",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "San Diego CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Academy of Art",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Academy of Art",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Academy of Art",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Academy of Art",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Solares",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "LBC Cocinas",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:10:35.899Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:10:35.899Z"
+}

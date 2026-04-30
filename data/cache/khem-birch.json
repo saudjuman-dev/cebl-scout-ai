@@ -1,0 +1,115 @@
+{
+  "fullName": "KHEM BIRCH",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Khem-Birch/201463",
+  "height": "6'10'",
+  "college": "University of Pittsburgh",
+  "currentTeam": "Fenerbahce",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Pittsburgh",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Sioux Falls",
+      "league": "G League"
+    },
+    {
+      "year": "15-16",
+      "team": "Usak",
+      "league": "TUR-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Olympiacos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Osceola M.",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Girona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:16:06.306Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:16:06.306Z"
+}

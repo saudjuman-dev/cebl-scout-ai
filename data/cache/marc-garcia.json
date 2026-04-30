@@ -1,0 +1,109 @@
+{
+  "fullName": "MARC GARCIA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marc-Garcia/255773",
+  "height": "6'6'",
+  "currentTeam": "Gornik",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Real Betis EP",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Barca 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Fuenlabrada",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Hereda SPablo",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Hereda SPablo",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gornik",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:45:33.790Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:45:33.790Z"
+}

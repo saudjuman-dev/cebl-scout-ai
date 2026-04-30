@@ -1,0 +1,114 @@
+{
+  "fullName": "WILLY HERNANGOMEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Willy-Hernangomez/203599",
+  "height": "6'11'",
+  "currentTeam": "Barca",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "Cajasol Sevilla",
+      "league": "ESP-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Balonc. Sevilla",
+      "league": "ESP-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Balonc. Sevilla",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "NY Knicks",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Charlotte H.",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "NY Knicks",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Charlotte H.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:52:33.202Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:52:33.202Z"
+}

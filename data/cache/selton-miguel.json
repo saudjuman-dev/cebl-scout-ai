@@ -1,0 +1,60 @@
+{
+  "fullName": "SELTON MIGUEL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Selton-Miguel/368301",
+  "height": "6'4'",
+  "college": "University of Kansas State",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Kansas St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Kansas St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "S.Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "S.Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Utah Jazz",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:55:42.625Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:55:42.625Z"
+}

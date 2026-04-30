@@ -1,0 +1,34 @@
+{
+  "fullName": "JOKUBAS SABLINSKAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jokubas-Sablinskas/718184",
+  "height": "6'9'",
+  "currentTeam": "Zalgiris",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris II",
+      "league": "LTU-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:00:00.333Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:00:00.333Z"
+}

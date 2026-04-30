@@ -1,0 +1,44 @@
+{
+  "fullName": "LASHON LINDSEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lashon-Lindsey/533808",
+  "height": "6'8'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Slippery Rock",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Slippery Rock",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Slippery Rock",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Slippery Rock",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Queluz",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:57.086Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:57.086Z"
+}

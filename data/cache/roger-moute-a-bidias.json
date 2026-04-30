@@ -1,0 +1,80 @@
+{
+  "fullName": "ROGER MOUTE A BIDIAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Roger-Moute-a-Bidias/301860",
+  "height": "6'7'",
+  "college": "University of California",
+  "currentTeam": "Challans",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "18-19",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Amsterdam",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Challans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:33:15.813Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:33:15.813Z"
+}

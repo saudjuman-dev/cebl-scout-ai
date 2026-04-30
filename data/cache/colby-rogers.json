@@ -1,0 +1,45 @@
+{
+  "fullName": "COLBY ROGERS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Colby-Rogers/420890",
+  "height": "6'3'",
+  "college": "University of Memphis",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Cal Poly",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cal Poly",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Siena",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wichita St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:47.291Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:47.291Z"
+}

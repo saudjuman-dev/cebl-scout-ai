@@ -1,0 +1,119 @@
+{
+  "fullName": "MIGUEL GONZALEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Gonzalez/363922",
+  "height": "6'8'",
+  "currentTeam": "Zaragoza",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Mywigo Vallad.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Valladolid FB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Brico Depot CV",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Comercial Ulsa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Vitoria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kirolbet Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Baskonia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Kirolbet Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Kirolbet Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Kirolbet Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Canoe",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:58:46.076Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:58:46.076Z"
+}

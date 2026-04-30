@@ -1,0 +1,99 @@
+{
+  "fullName": "BENJAMIN SENE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Benjamin-Sene/203554",
+  "height": "6'2'",
+  "currentTeam": "Nanterre",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Sluc Nancy",
+      "league": "FEL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Sluc Nancy",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Sluc Nancy",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanterre",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:32:47.726Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:32:47.726Z"
+}

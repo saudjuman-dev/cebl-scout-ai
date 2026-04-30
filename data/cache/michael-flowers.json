@@ -1,0 +1,110 @@
+{
+  "fullName": "MICHAEL FLOWERS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Flowers/431106",
+  "height": "6'1'",
+  "college": "University of South Alabama",
+  "currentTeam": "Petkim",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "WSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "2023",
+      "team": "Ottawa",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Telenet Giants",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Telenet Giants",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "2025",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Heidelberg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:22:23.009Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:22:23.009Z"
+}

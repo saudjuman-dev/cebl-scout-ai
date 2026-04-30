@@ -1,0 +1,94 @@
+{
+  "fullName": "CARLOS ALOCEN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Alocen/396663",
+  "height": "6'5'",
+  "currentTeam": "Gran Canaria",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zaragoza",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:59:30.312Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:59:30.312Z"
+}

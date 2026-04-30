@@ -1,0 +1,84 @@
+{
+  "fullName": "ADAM KUNKEL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adam-Kunkel/476984",
+  "height": "6'4'",
+  "currentTeam": "Palencia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Xavier",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Golden SW",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Golden SW",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Capitanes M.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Astana",
+      "league": "VTB-1"
+    },
+    {
+      "year": "2024",
+      "team": "Zip Em Up",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Palencia",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:47:12.536Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:47:12.536Z"
+}

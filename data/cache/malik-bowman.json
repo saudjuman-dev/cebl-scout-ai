@@ -1,0 +1,44 @@
+{
+  "fullName": "MALIK BOWMAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Malik-Bowman/628956",
+  "height": "6'8'",
+  "currentTeam": "Sporting",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Team Overtime",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Kouvot",
+      "league": "FIN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sporting",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sporting",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:08:43.175Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:08:43.175Z"
+}

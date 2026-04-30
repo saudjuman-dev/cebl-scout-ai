@@ -1,0 +1,150 @@
+{
+  "fullName": "LUKAS LEKAVICIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lukas-Lekavicius/202044",
+  "height": "5'11'",
+  "college": "University National Team",
+  "currentTeam": "AEK",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Panathinaikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Panathinaikos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:02:58.251Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:02:58.251Z"
+}

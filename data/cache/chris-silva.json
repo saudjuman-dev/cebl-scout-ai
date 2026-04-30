@@ -1,0 +1,145 @@
+{
+  "fullName": "CHRIS SILVA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chris-Silva/370541",
+  "height": "6'9'",
+  "college": "University of South Carolina",
+  "currentTeam": "AEK",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "S.Carolina",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Sioux Falls S.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "2021",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Iowa W.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "College Park S.",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Quebradillas",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2024",
+      "team": "Mets",
+      "league": "PUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:12:19.526Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:12:19.526Z"
+}

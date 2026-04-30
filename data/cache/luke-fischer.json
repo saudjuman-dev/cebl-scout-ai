@@ -1,0 +1,109 @@
+{
+  "fullName": "LUKE FISCHER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luke-Fischer/302057",
+  "height": "6'11'",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gran Canaria",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Golden Eagles",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Coosur Real B.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2023",
+      "team": "Herd That",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Hereda SPablo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Longevida SP",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2025",
+      "team": "Assembly Ball",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:00:01.399Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:00:01.399Z"
+}

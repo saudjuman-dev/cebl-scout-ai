@@ -1,0 +1,50 @@
+{
+  "fullName": "PAPE DIOP",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pape-Diop/457714",
+  "height": "6'8'",
+  "college": "College of New Rochelle",
+  "currentTeam": "Vichy",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "New Rochelle",
+      "league": "NCAA3"
+    },
+    {
+      "year": "17-18",
+      "team": "Cape Breton",
+      "league": "USPO"
+    },
+    {
+      "year": "18-19",
+      "team": "Tallinna Kalev",
+      "league": "LAT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vichy",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:21.983Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:21.983Z"
+}

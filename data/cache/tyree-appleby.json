@@ -1,0 +1,65 @@
+{
+  "fullName": "TYREE APPLEBY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyree-Appleby/447187",
+  "height": "6'1'",
+  "college": "University of Florida",
+  "currentTeam": "Mykonos",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "CSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "CSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Florida",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mykonos",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:04:30.570Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:04:30.570Z"
+}

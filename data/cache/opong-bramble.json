@@ -1,0 +1,64 @@
+{
+  "fullName": "OPONG BRAMBLE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Opong-Bramble/432000",
+  "height": "6'7'",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "NYIT",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "NYIT",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "NYIT",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "NYIT",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "NYIT",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "CBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Ockelbo",
+      "league": "SWE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Barreirense",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "La Roda",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:12.447Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:12.447Z"
+}

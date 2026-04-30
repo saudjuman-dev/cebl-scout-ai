@@ -1,0 +1,89 @@
+{
+  "fullName": "JON ARAMBURU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jon-Aramburu/202328",
+  "height": "6'10'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Askatuak",
+      "league": "ESP-4"
+    },
+    {
+      "year": "11-12",
+      "team": "Askatuak",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Askatuak",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Fundacion",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Fundacion",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Lucentum ALC",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "HLA Lucentum",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Murcia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Jairis",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:13.068Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:13.068Z"
+}

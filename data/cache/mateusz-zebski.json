@@ -1,0 +1,94 @@
+{
+  "fullName": "MATEUSZ ZEBSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mateusz-Zebski/205505",
+  "height": "6'3'",
+  "currentTeam": "Stal",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "BM Wegiel Stal",
+      "league": "POL-3"
+    },
+    {
+      "year": "11-12",
+      "team": "BM Wegiel Stal",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "BM Slam Stal",
+      "league": "POL-2"
+    },
+    {
+      "year": "14-15",
+      "team": "BM Slam Stal",
+      "league": "POL-2"
+    },
+    {
+      "year": "15-16",
+      "team": "BM Slam Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "BM Slam Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Kutno",
+      "league": "POL-2"
+    },
+    {
+      "year": "18-19",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Enea Astoria",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Enea Astoria",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arged BM Stal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arged Stal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:23.960Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:23.960Z"
+}

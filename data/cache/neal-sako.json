@@ -1,0 +1,109 @@
+{
+  "fullName": "NEAL SAKO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Neal-Sako/441448",
+  "height": "6'11'",
+  "currentTeam": "Valencia",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Levallois U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Levallois U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boul-Levallois",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Champagne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet Basket",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet Basket",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:52:12.311Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:52:12.311Z"
+}

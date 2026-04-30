@@ -1,0 +1,89 @@
+{
+  "fullName": "ZACHARY SELJAAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zachary-Seljaas/366912",
+  "height": "6'8'",
+  "currentTeam": "ASVEL",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Prievidza",
+      "league": "SVK-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Vera",
+      "league": "GEO-1"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Defeat Diabetes",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Wuerzburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wuerzburg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wuerzburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:34:19.706Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:34:19.706Z"
+}

@@ -1,0 +1,104 @@
+{
+  "fullName": "TAJUAN AGEE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tajuan-Agee/429173",
+  "height": "6'9'",
+  "currentTeam": "Bourg",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Tyler JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Tyler JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Balkan Botevgrad",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Balkan Botevgrad",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Balkan Botevgrad",
+      "league": "BUL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Vechta",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "M.Ashdod",
+      "league": "ISR-2"
+    },
+    {
+      "year": "2022",
+      "team": "Taylor Hawks",
+      "league": "NZL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Vechta",
+      "league": "GER-2"
+    },
+    {
+      "year": "2023",
+      "team": "Ft.Wayne Champs",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Gravelines",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "Eurocup-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:33:33.607Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:33:33.607Z"
+}

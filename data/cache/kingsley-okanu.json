@@ -1,0 +1,59 @@
+{
+  "fullName": "KINGSLEY OKANU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kingsley-Okanu/503884",
+  "height": "6'8'",
+  "currentTeam": "Ourense",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "NIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "NIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "GVSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2024",
+      "team": "U.Atletica",
+      "league": "URU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hebraica",
+      "league": "URU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ourense",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:31.752Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:31.752Z"
+}

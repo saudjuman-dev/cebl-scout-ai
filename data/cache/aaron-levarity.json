@@ -1,0 +1,84 @@
+{
+  "fullName": "AARON LEVARITY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aaron-Levarity/406497",
+  "height": "6'8'",
+  "currentTeam": "Roanne",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Milligan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Milligan",
+      "league": "NAIA"
+    },
+    {
+      "year": "17-18",
+      "team": "Milligan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Milligan",
+      "league": "NAIA"
+    },
+    {
+      "year": "18-19",
+      "team": "Milligan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Milligan",
+      "league": "NAIA"
+    },
+    {
+      "year": "20-21",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Lyon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Roanne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:00.686Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:00.686Z"
+}

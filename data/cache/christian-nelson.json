@@ -1,0 +1,24 @@
+{
+  "fullName": "CHRISTIAN NELSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christian-Nelson/521795",
+  "height": "6'7'",
+  "currentTeam": "Denain-Voltaire",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Levallois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Denain-Voltaire",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:20.854Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:20.854Z"
+}

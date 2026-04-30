@@ -1,0 +1,80 @@
+{
+  "fullName": "MARK TIKHONENKO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mark-Tikhonenko/323960",
+  "height": "6'10'",
+  "college": "University of North Texas",
+  "currentTeam": "Jaen CB",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "N.Texas",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "N.Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "SHSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Chattanooga",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Chattanooga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Astana",
+      "league": "KAZ-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Astana",
+      "league": "VTB-1"
+    },
+    {
+      "year": "22-23",
+      "team": "MBA Moscow",
+      "league": "VTB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "UNICS Kazan",
+      "league": "VTB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Irkut Irkutsk",
+      "league": "RUS-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:11:11.061Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:11:11.061Z"
+}

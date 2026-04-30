@@ -1,0 +1,74 @@
+{
+  "fullName": "PABLO CORDOBA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Cordoba/378210",
+  "height": "6'2'",
+  "currentTeam": "Melilla",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Estudiantes Lugo Leyma Natura",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Estudiantes Lugo Leyma Natura",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "C.Candelas BL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Estudiantes Lugo Leyma Natura",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Melilla",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:55:43.034Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:55:43.034Z"
+}

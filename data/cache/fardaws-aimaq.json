@@ -1,0 +1,80 @@
+{
+  "fullName": "FARDAWS AIMAQ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Fardaws-Aimaq/410481",
+  "height": "6'11'",
+  "college": "University of California",
+  "currentTeam": "Lietkabelis",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Mercer",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Utah Valley",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Szolnok",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Szolnok",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ghosthawks",
+      "league": "TAI-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:57:42.766Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:57:42.766Z"
+}

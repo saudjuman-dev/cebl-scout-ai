@@ -1,0 +1,99 @@
+{
+  "fullName": "LUKA NIKOLIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luka-Nikolic/172833",
+  "height": "6'10'",
+  "currentTeam": "Challans",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Vrsac",
+      "league": "SRB-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Radnik B.",
+      "league": "BIH-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Guadalajara",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Clavijo Logrono",
+      "league": "ESP-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "HLA Lucentum",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Graz",
+      "league": "ALP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Graz",
+      "league": "AUT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Lorient",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Toulouse",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Challans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:33:02.433Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:33:02.433Z"
+}

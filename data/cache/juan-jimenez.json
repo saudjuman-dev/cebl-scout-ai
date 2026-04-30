@@ -1,0 +1,84 @@
+{
+  "fullName": "JUAN JIMENEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Jimenez/342049",
+  "height": "6'8'",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Clinicas Rincon",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "CB Marbella la Canada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Marbella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "CB Marbella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Carbajosa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:36.910Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:36.910Z"
+}

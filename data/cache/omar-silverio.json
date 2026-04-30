@@ -1,0 +1,80 @@
+{
+  "fullName": "OMAR SILVERIO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Omar-Silverio/474339",
+  "height": "6'3'",
+  "college": "University of Rhode Island",
+  "currentTeam": "Estudiantes",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Hofstra",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Soles",
+      "league": "MEX-2"
+    },
+    {
+      "year": "23-24",
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "2024",
+      "team": "Cocodrilos",
+      "league": "VEN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Coviran Granada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Surne Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Metros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:47:46.731Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:47:46.731Z"
+}

@@ -1,0 +1,114 @@
+{
+  "fullName": "LEYTON HAMMONDS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leyton-Hammonds/300324",
+  "height": "6'8'",
+  "currentTeam": "Promitheas",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "OK State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "OK State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "OK State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "OK State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Nokia",
+      "league": "FIN-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kormend",
+      "league": "ALP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kormend",
+      "league": "HUN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Asseco Arka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Enisey",
+      "league": "VTB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Yokohama BC",
+      "league": "JPN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gaziantep",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gaziantep",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "JDA Dijon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "JDA Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2025",
+      "team": "Aftershocks",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:07:01.482Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:07:01.482Z"
+}

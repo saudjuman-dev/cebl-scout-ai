@@ -1,0 +1,44 @@
+{
+  "fullName": "NARCISSE NGOY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Narcisse-Ngoy/653236",
+  "height": "7'1'",
+  "currentTeam": "Poitiers",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Paris U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:23:12.984Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:23:12.984Z"
+}

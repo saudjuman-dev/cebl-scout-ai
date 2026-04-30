@@ -1,0 +1,114 @@
+{
+  "fullName": "TREVION WILLIAMS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Trevion-Williams/474378",
+  "height": "6'9'",
+  "currentTeam": "Bahcesehir",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Purdue",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Capital C.Go-Go",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Macc. Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "Bahcesehir",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:17:05.080Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:17:05.080Z"
+}

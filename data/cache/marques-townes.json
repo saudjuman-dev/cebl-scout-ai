@@ -1,0 +1,125 @@
+{
+  "fullName": "MARQUES TOWNES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marques-Townes/336425",
+  "height": "6'3'",
+  "college": "University of Chicago",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "FDU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "FDU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Kalev/Cramo",
+      "league": "EST-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Kalev/Cramo",
+      "league": "VTB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2021",
+      "team": "Kalev/Cramo",
+      "league": "EST-2"
+    },
+    {
+      "year": "21-22",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Union Tours",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Duna Aszfalt",
+      "league": "HUN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crailsheim",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Opava",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Opava",
+      "league": "CZE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crailsheim",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Anorthosis",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Peja",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:48:59.736Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:48:59.736Z"
+}

@@ -1,0 +1,54 @@
+{
+  "fullName": "ATAKAN BICER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Atakan-Bicer/598606",
+  "height": "6'10'",
+  "currentTeam": "Turk Telekom",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Turk Telekom",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Turk Telekom",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:40.863Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:40.863Z"
+}

@@ -1,0 +1,115 @@
+{
+  "fullName": "SPENCER SVEJCAR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Spencer-Svejcar/332118",
+  "height": "6'3'",
+  "college": "University of Alaska at Anchorage",
+  "currentTeam": "Cartagena",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Laramie CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "14-15",
+      "team": "Laramie CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Alaska-Anch.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Alaska-Anch.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "16-17",
+      "team": "Alaska-Anch.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Alaska-Anch.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "17-18",
+      "team": "SLUNETA Usti n/L",
+      "league": "ALP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "SLUNETA Usti n/L",
+      "league": "CZE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "SLUNETA Usti n/L",
+      "league": "ALP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "SLUNETA Usti n/L",
+      "league": "CZE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "SLUNETA Usti n/L",
+      "league": "ALP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "SLUNETA Usti n/L",
+      "league": "CZE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "SLUNETA Usti n/L",
+      "league": "CZE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "SLUNETA Usti n/L",
+      "league": "ALP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "SLUNETA Usti n/L",
+      "league": "CZE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Usti n/Labem",
+      "league": "CZE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nymburk",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nymburk",
+      "league": "CZE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pardubice",
+      "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cartagena",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:54:59.287Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:54:59.287Z"
+}

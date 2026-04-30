@@ -1,0 +1,45 @@
+{
+  "fullName": "ETHAN GARITA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ethan-Garita/626228",
+  "height": "6'9'",
+  "college": "University of Pennsylvania",
+  "currentTeam": "Esgueira",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Lincoln, PA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lincoln, PA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lincoln, PA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lincoln, PA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lincoln, PA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:04:03.868Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:04:03.868Z"
+}

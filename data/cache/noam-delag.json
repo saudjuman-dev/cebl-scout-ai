@@ -1,0 +1,29 @@
+{
+  "fullName": "NOAM DELAG",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noam-Delag/748228",
+  "height": "5'7'",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Paris U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:40:53.781Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:40:53.781Z"
+}

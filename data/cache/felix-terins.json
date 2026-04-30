@@ -1,0 +1,104 @@
+{
+  "fullName": "FELIX TERINS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Felix-Terins/372645",
+  "height": "6'2'",
+  "currentTeam": "Burgos T.",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Haga BG",
+      "league": "SWE-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Nassjo",
+      "league": "SWE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nassjo",
+      "league": "SWE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zwolle",
+      "league": "NED-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zwolle",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Norrkoping",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Norrkoping",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Levice",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Levice",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Levice",
+      "league": "SVK-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Benfica Lisboa",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos T.",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:54.495Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:54.495Z"
+}

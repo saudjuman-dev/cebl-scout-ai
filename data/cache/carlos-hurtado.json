@@ -1,0 +1,54 @@
+{
+  "fullName": "CARLOS HURTADO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Hurtado/514857",
+  "height": "6'0'",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Murcia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Archena",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Archena",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:58.422Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:58.422Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "PAULO VIEIRA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Paulo-Vieira/342340",
+  "height": "6'4'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:15.824Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:15.824Z"
+}

@@ -1,0 +1,54 @@
+{
+  "fullName": "TIMOTHY FINKE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Timothy-Finke/420664",
+  "height": "6'6'",
+  "currentTeam": "Ovarense",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "GCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Wright St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wright St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Wright St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wright St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Umea BSKT",
+      "league": "SWE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nymburk",
+      "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ovarense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:17.490Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:17.490Z"
+}

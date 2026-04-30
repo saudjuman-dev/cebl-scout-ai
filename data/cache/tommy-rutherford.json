@@ -1,0 +1,95 @@
+{
+  "fullName": "TOMMY RUTHERFORD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tommy-Rutherford/407185",
+  "height": "6'9'",
+  "college": "University of California",
+  "currentTeam": "Jonava",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Racing",
+      "league": "LUX-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Starwings",
+      "league": "SUI-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Leiden",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Leiden",
+      "league": "NED-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Leiden",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Motor City C.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Eberlein Drive",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Kalev/Cramo",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kalev/Cramo",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jonava",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:50.838Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:50.838Z"
+}

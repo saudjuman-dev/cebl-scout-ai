@@ -1,0 +1,110 @@
+{
+  "fullName": "TARIQ OWENS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tariq-Owens/342233",
+  "height": "6'10'",
+  "college": "University of Tennessee",
+  "currentTeam": "Dijon",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "St.John's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "St.John's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bakersfield",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "2021",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Air Raiders",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "OpenjobMetis",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Air Raiders",
+      "league": "TBT"
+    },
+    {
+      "year": "2023",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Napoli",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Purple Reign",
+      "league": "TBT"
+    },
+    {
+      "year": "2024",
+      "team": "Metros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vanoli Cremona",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:38:10.989Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:38:10.989Z"
+}

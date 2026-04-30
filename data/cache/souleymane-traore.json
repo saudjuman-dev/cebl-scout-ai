@@ -1,0 +1,59 @@
+{
+  "fullName": "SOULEYMANE TRAORE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Souleymane-Traore/485178",
+  "height": "6'11'",
+  "currentTeam": "SBA",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Betanzos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "ZA Enamora",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "SBA",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:58:17.795Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:58:17.795Z"
+}

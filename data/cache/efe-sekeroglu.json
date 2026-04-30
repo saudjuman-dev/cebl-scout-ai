@@ -1,0 +1,39 @@
+{
+  "fullName": "EFE SEKEROGLU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Efe-Sekeroglu/597568",
+  "height": "6'10'",
+  "currentTeam": "Cedi Osman",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Galatasaray",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "OKBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "OKBU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "OKBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cedi Osman",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:29:08.282Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:29:08.282Z"
+}

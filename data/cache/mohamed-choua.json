@@ -1,0 +1,49 @@
+{
+  "fullName": "MOHAMED CHOUA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohamed-Choua/370227",
+  "height": "6'8'",
+  "currentTeam": "Rouen",
+  "careerHistory": [
+    {
+      "year": "2016",
+      "team": "AS Sale",
+      "league": "ACC-1"
+    },
+    {
+      "year": "18-19",
+      "team": "AS Sale",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Angers",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Rouen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rouen",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:30:30.473Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:30:30.473Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "MATTHEW ELLIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matthew-Ellis/531324",
+  "height": "6'7'",
+  "college": "University of Calgary",
+  "currentTeam": "Braga",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Victoria",
+      "league": "USPO"
+    },
+    {
+      "year": "21-22",
+      "team": "Victoria",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Galitos-Barreiro",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hemel",
+      "league": "ENG-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Braga",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:01:30.067Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:01:30.067Z"
+}

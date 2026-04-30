@@ -1,0 +1,75 @@
+{
+  "fullName": "DOVYDAS ROMANCENKO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dovydas-Romancenko/385317",
+  "height": "6'9'",
+  "college": "University National Team",
+  "currentTeam": "Siauliai",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Bordeaux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Gargzdu",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Siauliai",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:53:45.211Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:53:45.211Z"
+}

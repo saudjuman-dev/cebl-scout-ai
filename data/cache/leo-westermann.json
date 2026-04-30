@@ -1,0 +1,184 @@
+{
+  "fullName": "LEO WESTERMANN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leo-Westermann/130734",
+  "height": "6'6'",
+  "currentTeam": "Obradoiro",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "ASVEL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "10-11",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "11-12",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "11-12",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "11-12",
+      "team": "ASVEL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Partizan",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Partizan",
+      "league": "ADR-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Partizan",
+      "league": "SRB-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Partizan",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Partizan",
+      "league": "ADR-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Limoges",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Limoges",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Limoges",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Limoges",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "17-18",
+      "team": "PBC CSKA",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "PBC CSKA",
+      "league": "VTB-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Monaco",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Monaco",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Monbus OB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crailsheim",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Obradoiro",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:46:18.215Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:46:18.215Z"
+}

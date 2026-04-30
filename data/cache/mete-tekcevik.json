@@ -1,0 +1,59 @@
+{
+  "fullName": "METE TEKCEVIK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mete-Tekcevik/486557",
+  "height": "6'2'",
+  "currentTeam": "Turk Telekom",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Bursaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "TED Kolejliler",
+      "league": "TUR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "TED Kolejliler",
+      "league": "TUR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Kocaeli",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kocaeli",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:37.550Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:37.550Z"
+}

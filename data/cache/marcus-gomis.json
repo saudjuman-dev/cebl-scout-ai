@@ -1,0 +1,54 @@
+{
+  "fullName": "MARCUS GOMIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcus-Gomis/483175",
+  "height": "6'0'",
+  "currentTeam": "Poitiers",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:23:25.115Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:23:25.115Z"
+}

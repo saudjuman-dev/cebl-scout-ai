@@ -1,0 +1,109 @@
+{
+  "fullName": "KENNY CHERY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kenny-Chery/202107",
+  "height": "5'11'",
+  "currentTeam": "Juventus",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Baylor",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Baylor",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Alba",
+      "league": "HUN-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Real Betis EP",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2020",
+      "team": "Germani BR",
+      "league": "ITA-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Germani BR",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Germani BR",
+      "league": "ITA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Avtodor Saratov",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Avtodor Saratov",
+      "league": "VTB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Girona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Joventut BDL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Juventus",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:18.279Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:18.279Z"
+}

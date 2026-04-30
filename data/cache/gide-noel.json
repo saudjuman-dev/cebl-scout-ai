@@ -1,0 +1,84 @@
+{
+  "fullName": "GIDE NOEL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gide-Noel/170268",
+  "height": "6'7'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Orchies",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Saint Vallier",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Saint Vallier",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:47.195Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:47.195Z"
+}

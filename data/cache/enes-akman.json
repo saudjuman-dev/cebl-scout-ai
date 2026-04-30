@@ -1,0 +1,33 @@
+{
+  "fullName": "ENES AKMAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Enes-Akman/713529",
+  "currentTeam": "Tofas",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tofas",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Tofas",
+      "league": "BCLJ-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:30:05.203Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:30:05.203Z"
+}

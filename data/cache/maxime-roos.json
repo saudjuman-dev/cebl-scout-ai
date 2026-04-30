@@ -1,0 +1,74 @@
+{
+  "fullName": "MAXIME ROOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maxime-Roos/303834",
+  "height": "6'8'",
+  "currentTeam": "Roanne",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Paris-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Levallois",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boul-Levallois",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Roanne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Roanne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:20:52.583Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:20:52.583Z"
+}

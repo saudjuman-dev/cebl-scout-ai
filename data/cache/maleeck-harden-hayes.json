@@ -1,0 +1,70 @@
+{
+  "fullName": "MALEECK HARDEN-HAYES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maleeck-Harden-Hayes/522174",
+  "height": "6'7'",
+  "college": "University of North Carolina Wilmington",
+  "currentTeam": "Sporting",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "NDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "NDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "NDSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "NDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UNCW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UNCW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UNCW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UNCW",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Galomar",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sporting",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sporting",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:03:04.195Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:03:04.195Z"
+}

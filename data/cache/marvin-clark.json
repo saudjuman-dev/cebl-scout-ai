@@ -1,0 +1,119 @@
+{
+  "fullName": "MARVIN CLARK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marvin-Clark/333319",
+  "height": "6'7'",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "St.John's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "St.John's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Willebroek",
+      "league": "BEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Willebroek",
+      "league": "BEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Champagne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Falco",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Falco",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2022",
+      "team": "Abejas",
+      "league": "MEX-2"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Porto",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Porto",
+      "league": "POR-1"
+    },
+    {
+      "year": "2023",
+      "team": "Dorados",
+      "league": "MEX-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hapoel Haifa",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Falco",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Falco",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:58.474Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:58.474Z"
+}

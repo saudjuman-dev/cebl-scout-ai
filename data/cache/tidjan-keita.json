@@ -1,0 +1,74 @@
+{
+  "fullName": "TIDJAN KEITA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tidjan-Keita/336146",
+  "height": "6'10'",
+  "currentTeam": "Champagne",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Bakersfield",
+      "league": "G League"
+    },
+    {
+      "year": "18-19",
+      "team": "Golbey",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Coburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "2022",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "H.Be'er Sheva",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Blois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Champagne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:40.346Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:40.346Z"
+}

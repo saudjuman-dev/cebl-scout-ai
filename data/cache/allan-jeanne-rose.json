@@ -1,0 +1,49 @@
+{
+  "fullName": "ALLAN JEANNE-ROSE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Allan-Jeanne-Rose/498454",
+  "height": "6'7'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:43.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:43.361Z"
+}

@@ -1,0 +1,89 @@
+{
+  "fullName": "ANTHONY DURHAM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Durham/337960",
+  "height": "6'3'",
+  "currentTeam": "Roanne",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Rider",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Rider",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Rider",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Rider",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Rider",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Geosan Kolin",
+      "league": "CZE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Paralimni",
+      "league": "CYP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Targu Jiu",
+      "league": "ROM-1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Big 5",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Sodertalje",
+      "league": "SWE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Szolnok",
+      "league": "HUN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "NKA Pecs",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint-Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Roanne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:30:14.793Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:30:14.793Z"
+}

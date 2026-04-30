@@ -1,0 +1,59 @@
+{
+  "fullName": "ROBERT COSIALLS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Robert-Cosialls/474924",
+  "height": "6'8'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Girona",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Girona",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Girona",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Girona",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:48:49.511Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:48:49.511Z"
+}

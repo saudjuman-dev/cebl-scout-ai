@@ -1,0 +1,94 @@
+{
+  "fullName": "TROY SAV",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Troy-Sav/433043",
+  "height": "6'9'",
+  "currentTeam": "Petkim",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Yalovaspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Darussafaka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Darussafaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Darussafaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Konyaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Manisa",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Petkim",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:22:19.460Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:22:19.460Z"
+}

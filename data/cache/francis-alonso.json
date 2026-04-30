@@ -1,0 +1,110 @@
+{
+  "fullName": "FRANCIS ALONSO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francis-Alonso/255766",
+  "height": "6'3'",
+  "college": "University of North Carolina at Greensboro",
+  "currentTeam": "Rio Breogan",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Clinicas Rincon",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Clinicas Rincon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "UNCG",
+      "league": "NCAA2"
+    },
+    {
+      "year": "16-17",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja MAL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja MAL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Unicaja MAL",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Unicaja MAL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rio Breogan",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:56:43.665Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:56:43.665Z"
+}

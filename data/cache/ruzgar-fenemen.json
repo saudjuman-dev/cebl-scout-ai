@@ -1,0 +1,49 @@
+{
+  "fullName": "RUZGAR FENEMEN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ruzgar-Fenemen/722605",
+  "height": "6'1'",
+  "currentTeam": "Anadolu Efes",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Anka Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes Istanbu",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:25:55.720Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:25:55.720Z"
+}

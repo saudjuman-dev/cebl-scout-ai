@@ -1,0 +1,94 @@
+{
+  "fullName": "KENNY GOINS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kenny-Goins/370776",
+  "height": "6'7'",
+  "currentTeam": "Trefl",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Control Trapani",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lavrio",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Atomeromu",
+      "league": "HUN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "2023",
+      "team": "Correcaminos",
+      "league": "MEX-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2025",
+      "team": "Jets",
+      "league": "NZL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:40:53.941Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:40:53.941Z"
+}

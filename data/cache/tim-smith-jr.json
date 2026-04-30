@@ -1,0 +1,50 @@
+{
+  "fullName": "TIM SMITH JR.",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tim-Smith-Jr/505676",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             TIM SMITH JR",
+  "currentTeam": "Koblenz",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "California, PA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Walsh",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Walsh",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Walsh",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Koblenz",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:17:45.739Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:17:45.739Z"
+}

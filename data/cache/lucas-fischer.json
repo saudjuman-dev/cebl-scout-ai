@@ -1,0 +1,54 @@
+{
+  "fullName": "LUCAS FISCHER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Fischer/573778",
+  "height": "6'4'",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanterre",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:40:37.872Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:40:37.872Z"
+}

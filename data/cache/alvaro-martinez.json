@@ -1,0 +1,64 @@
+{
+  "fullName": "ALVARO MARTINEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alvaro-Martinez/482821",
+  "height": "6'7'",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Zaragoza",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Nissan GSant.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Talavera",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:20.228Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:20.228Z"
+}

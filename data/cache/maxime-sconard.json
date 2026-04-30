@@ -1,0 +1,64 @@
+{
+  "fullName": "MAXIME SCONARD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maxime-Sconard/532661",
+  "height": "6'4'",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Gravelines U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Gravelines U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gravelines U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Blois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Blois",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Blois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:51.178Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:51.178Z"
+}

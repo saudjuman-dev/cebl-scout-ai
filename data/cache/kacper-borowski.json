@@ -1,0 +1,134 @@
+{
+  "fullName": "KACPER BOROWSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kacper-Borowski/201628",
+  "height": "6'9'",
+  "currentTeam": "Anwil",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "11-12",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Turow Zgorzelec",
+      "league": "POL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Turow Zgorzelec",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Start Lublin II",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Start Lublin",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Start Lublin",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pszcz.Start",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pszcz.Start",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "AZS UMCS",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "King",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "King",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:42:56.895Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:42:56.895Z"
+}

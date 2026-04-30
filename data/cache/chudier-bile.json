@@ -1,0 +1,74 @@
+{
+  "fullName": "CHUDIER BILE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chudier-Bile/430766",
+  "height": "6'7'",
+  "currentTeam": "Hyeres-Toulon",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Otero JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Otero JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "NSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Greensboro S.",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "ABC",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kvarner 2010",
+      "league": "CRO-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Kvarner 2010",
+      "league": "CRO-1"
+    },
+    {
+      "year": "2025",
+      "team": "Ahly Benghazi",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:43.598Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:43.598Z"
+}

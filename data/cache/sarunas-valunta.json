@@ -1,0 +1,79 @@
+{
+  "fullName": "SARUNAS VALUNTA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sarunas-Valunta/420248",
+  "height": "6'4'",
+  "currentTeam": "Jurbarkas",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "P.Zvaigzdes",
+      "league": "BAL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Rytas",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Delikatesas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Delikatesas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Vilkaviskis",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Vilkaviskis",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Mazeikiai",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Palanga",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mazeikiai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jurbarkas",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:58:49.599Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:58:49.599Z"
+}

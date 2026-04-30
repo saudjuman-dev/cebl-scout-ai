@@ -1,0 +1,79 @@
+{
+  "fullName": "MIKEL SANZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mikel-Sanz/375843",
+  "height": "6'7'",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Easo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Easo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Easo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Cantabria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hiopos Forca",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:58:20.158Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:58:20.158Z"
+}

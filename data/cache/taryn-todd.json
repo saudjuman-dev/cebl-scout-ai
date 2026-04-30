@@ -1,0 +1,65 @@
+{
+  "fullName": "TARYN TODD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Taryn-Todd/441241",
+  "height": "6'4'",
+  "college": "College Prep\n2019",
+  "currentTeam": "H.Be'er Sheva",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "TCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "N.Mexico",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "N.Mexico",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NW Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Arkansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arkansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Vellaznimi",
+      "league": "AlKo-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vellaznimi",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:58:46.454Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:58:46.454Z"
+}

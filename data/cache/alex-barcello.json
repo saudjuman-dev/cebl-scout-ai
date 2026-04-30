@@ -1,0 +1,105 @@
+{
+  "fullName": "ALEX BARCELLO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alex-Barcello/420734",
+  "height": "6'2'",
+  "college": "University of Arizona",
+  "currentTeam": "Obradoiro",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Arizona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Arizona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "BYU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "BYU",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "BYU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "BYU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Oostende",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Oostende",
+      "league": "BEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Oostende",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Monbus OB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Heidelberg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Obradoiro",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:46:21.723Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:46:21.723Z"
+}

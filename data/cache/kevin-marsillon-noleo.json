@@ -1,0 +1,59 @@
+{
+  "fullName": "KEVIN MARSILLON-NOLEO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Marsillon-Noleo/490548",
+  "height": "6'7'",
+  "currentTeam": "Nancy",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Nancy",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:36:55.230Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:36:55.230Z"
+}

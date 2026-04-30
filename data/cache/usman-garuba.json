@@ -1,0 +1,109 @@
+{
+  "fullName": "USMAN GARUBA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Usman-Garuba/396668",
+  "height": "6'8'",
+  "currentTeam": "Real Madrid",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2021",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:50:59.134Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:50:59.134Z"
+}

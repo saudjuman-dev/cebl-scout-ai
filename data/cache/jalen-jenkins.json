@@ -1,0 +1,104 @@
+{
+  "fullName": "JALEN JENKINS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Jenkins/265862",
+  "height": "6'7'",
+  "currentTeam": "Ovarense",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "GMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "GMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "GMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "GMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Uppsala",
+      "league": "SWE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "KR Reykjavik",
+      "league": "FEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "KR Reykjavik",
+      "league": "ISL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Rilski",
+      "league": "FEL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Rilski",
+      "league": "BUL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Telenet Giants",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Colo Colo",
+      "league": "CHI-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trouville",
+      "league": "URU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gimnasia Esgr.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ovarense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:01:53.689Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:01:53.689Z"
+}

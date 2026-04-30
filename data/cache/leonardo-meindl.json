@@ -1,0 +1,140 @@
+{
+  "fullName": "LEONARDO MEINDL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leonardo-Meindl/155176",
+  "height": "6'7'",
+  "college": "University National Team",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "2011",
+      "team": "Vivo/Franca",
+      "league": "BRA-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Vivo/Franca",
+      "league": "BRA-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Vivo/Franca",
+      "league": "BRA-1"
+    },
+    {
+      "year": "2013",
+      "team": "Vivo/Franca",
+      "league": "BRA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Vivo/Franca",
+      "league": "BRA-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Vivo/Franca",
+      "league": "BRA-1"
+    },
+    {
+      "year": "2015",
+      "team": "Bauru",
+      "league": "BRA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Bauru",
+      "league": "BRA-1"
+    },
+    {
+      "year": "2016",
+      "team": "Bauru",
+      "league": "LAM-1"
+    },
+    {
+      "year": "2016",
+      "team": "Bauru",
+      "league": "BRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Bauru",
+      "league": "BRA-1"
+    },
+    {
+      "year": "2017",
+      "team": "Franca",
+      "league": "BRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Sesi/Franca",
+      "league": "BRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Paulistano",
+      "league": "LAM-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Paulistano",
+      "league": "BRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Sao Paulo",
+      "league": "BRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2022",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Cluj Napoca",
+      "league": "ROM-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Cluj Napoca",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cluj Napoca",
+      "league": "ROM-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alvark Tokyo",
+      "league": "JPN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Alvark Tokyo",
+      "league": "JPN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:59:39.557Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:59:39.557Z"
+}

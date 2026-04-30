@@ -1,0 +1,80 @@
+{
+  "fullName": "KEONDRE KENNEDY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Keondre-Kennedy/503707",
+  "height": "6'6'",
+  "college": "College Park",
+  "currentTeam": "Kolossos",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Labette CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Reale Mutua TO",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Spartak",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Spartak",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:02:11.729Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:02:11.729Z"
+}

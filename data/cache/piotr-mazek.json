@@ -1,0 +1,29 @@
+{
+  "fullName": "PIOTR MAZEK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Piotr-Mazek/794731",
+  "height": "6'5'",
+  "currentTeam": "Start",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Lublin 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Start Lublin",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:39.837Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:39.837Z"
+}

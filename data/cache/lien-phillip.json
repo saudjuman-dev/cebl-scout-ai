@@ -1,0 +1,90 @@
+{
+  "fullName": "LIEN PHILLIP",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lien-Phillip/183002",
+  "height": "6'8'",
+  "college": "University of Windsor",
+  "currentTeam": "Denain-Voltaire",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Windsor",
+      "league": "USPO"
+    },
+    {
+      "year": "11-12",
+      "team": "Windsor",
+      "league": "USPO"
+    },
+    {
+      "year": "12-13",
+      "team": "Windsor",
+      "league": "USPO"
+    },
+    {
+      "year": "13-14",
+      "team": "Windsor",
+      "league": "USPO"
+    },
+    {
+      "year": "14-15",
+      "team": "Bordeaux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "2015",
+      "team": "Kalamunda ES",
+      "league": "AUS-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Vitre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Quimper",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Denain-Voltaire",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:03.673Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:03.673Z"
+}

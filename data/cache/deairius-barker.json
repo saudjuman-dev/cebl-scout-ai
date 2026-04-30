@@ -1,0 +1,50 @@
+{
+  "fullName": "DEAIRIUS BARKER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Deairius-Barker/596614",
+  "height": "6'0'",
+  "college": "University of Charleston",
+  "currentTeam": "Esgueira",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "NDC",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "NDC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "NDC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "NDC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Charleston",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Central Mo.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:03:57.937Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:03:57.937Z"
+}

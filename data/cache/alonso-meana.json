@@ -1,0 +1,80 @@
+{
+  "fullName": "ALONSO MEANA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alonso-Meana/417737",
+  "height": "5'11'",
+  "college": "University of Illinois at Springfield",
+  "currentTeam": "Lliria",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "U.Fin. Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "U.Fin. Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Oviedo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "UIS",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UIS",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Talavera",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lliria",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:18.137Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:18.137Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "DEANDRE GHOLSTON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/DeAndre-Gholston/442313",
+  "height": "6'5'",
+  "college": "University of Wisconsin",
+  "currentTeam": "Cholet",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Kent St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Tallahassee",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Milwaukee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Milwaukee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Show Me Squad",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "OSE Lions",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2024",
+      "team": "Ft.Wayne Champs",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:35:34.313Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:35:34.313Z"
+}

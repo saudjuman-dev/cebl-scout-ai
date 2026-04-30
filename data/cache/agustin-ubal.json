@@ -1,0 +1,89 @@
+{
+  "fullName": "AGUSTIN UBAL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Agustin-Ubal/519017",
+  "height": "6'6'",
+  "currentTeam": "Manresa",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Barcelona 2",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Rio Breogan",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Palencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Coviran Granada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2025",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:57:28.255Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:57:28.255Z"
+}

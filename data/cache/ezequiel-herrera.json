@@ -1,0 +1,59 @@
+{
+  "fullName": "EZEQUIEL HERRERA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ezequiel-Herrera/446168",
+  "height": "6'1'",
+  "currentTeam": "Lliria",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Paterna",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Paterna",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Paterna",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Avila",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Avila",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lliria",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:14.799Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:14.799Z"
+}

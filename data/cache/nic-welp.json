@@ -1,0 +1,45 @@
+{
+  "fullName": "NIC WELP",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nic-Welp/564517",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             NIC WELP basketball profile    Uniform",
+  "currentTeam": "Crailsheim",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "WWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "WWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "WWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "CSUSB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Crailsheim",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:10:18.252Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:10:18.252Z"
+}

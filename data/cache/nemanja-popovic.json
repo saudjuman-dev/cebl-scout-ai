@@ -1,0 +1,104 @@
+{
+  "fullName": "NEMANJA POPOVIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nemanja-Popovic/442645",
+  "height": "6'9'",
+  "currentTeam": "King",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Crvena zvezda",
+      "league": "SRB-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Crvena zvezda",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Crvena zvezda",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Crvena zvezda",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zarkovo",
+      "league": "SRB-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Crvena zvezda",
+      "league": "SRB-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Crvena zvezda",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "FMP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "OKK Beograd",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "FMP",
+      "league": "ADR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "FMP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Vojvodina NS",
+      "league": "ADR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Vojvodina NS",
+      "league": "SRB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Crvena Zvezda",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mega MIS",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mega MIS",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vrsac",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "King",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:39:02.687Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:39:02.687Z"
+}

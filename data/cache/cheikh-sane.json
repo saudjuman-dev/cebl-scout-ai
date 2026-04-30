@@ -1,0 +1,104 @@
+{
+  "fullName": "CHEIKH SANE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cheikh-Sane/179039",
+  "height": "6'10'",
+  "currentTeam": "Aix-Maurienne",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Marshall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Marshall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Naestved",
+      "league": "DEN-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Naestved",
+      "league": "DEN-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Koroivos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Saitama",
+      "league": "JPN-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Horsens IC",
+      "league": "DEN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nyon",
+      "league": "SUI-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Starwings",
+      "league": "SUI-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Fribourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fribourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fribourg",
+      "league": "SUI-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fribourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fribourg",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fribourg",
+      "league": "SUI-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:28:17.581Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:28:17.581Z"
+}

@@ -1,0 +1,79 @@
+{
+  "fullName": "LORENZO THIROUARD-SAMSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lorenzo-Thirouard-Samson/400588",
+  "height": "6'6'",
+  "currentTeam": "Orleans",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boul-Levallois",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Levallois U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orleans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:23:45.991Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:23:45.991Z"
+}

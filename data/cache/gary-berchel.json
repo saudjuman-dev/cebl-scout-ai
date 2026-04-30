@@ -1,0 +1,64 @@
+{
+  "fullName": "GARY BERCHEL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gary-Berchel/441510",
+  "height": "6'8'",
+  "currentTeam": "Challans",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Union Tours",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Vitre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Challans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:59.113Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:59.113Z"
+}

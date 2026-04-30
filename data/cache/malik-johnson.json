@@ -1,0 +1,89 @@
+{
+  "fullName": "MALIK JOHNSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Malik-Johnson/402486",
+  "height": "5'10'",
+  "currentTeam": "Juventus",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Vevey Riviera",
+      "league": "SUI-2"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Fully Loaded",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Vevey Riviera",
+      "league": "SUI-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bamberg",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Bamberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trepca",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trepca",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trepca",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Juventus",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Juventus",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:21.859Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:21.859Z"
+}

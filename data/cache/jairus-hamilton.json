@@ -1,0 +1,85 @@
+{
+  "fullName": "JAIRUS HAMILTON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jairus-Hamilton/424685",
+  "height": "6'8'",
+  "college": "College\nYear",
+  "currentTeam": "Krosno",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Maryland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "WKU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "WKU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "M.Raanana",
+      "league": "ISR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Balkan Botevgrad",
+      "league": "BUL-1"
+    },
+    {
+      "year": "2025",
+      "team": "HV Hoopers",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Krosno",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:48:24.174Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:48:24.174Z"
+}

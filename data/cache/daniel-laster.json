@@ -1,0 +1,94 @@
+{
+  "fullName": "DANIEL LASTER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Laster/370767",
+  "height": "6'7'",
+  "currentTeam": "Stal",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "T71",
+      "league": "LUX-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Stella Azzurra",
+      "league": "ITA-2"
+    },
+    {
+      "year": "2021",
+      "team": "Los Prados",
+      "league": "DOM-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    },
+    {
+      "year": "2022",
+      "team": "Soles",
+      "league": "MEX-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Circus BR",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Metros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Toyoda",
+      "league": "JPN-3"
+    },
+    {
+      "year": "2024",
+      "team": "Titanes",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ploiesti CSM",
+      "league": "ROM-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:44:30.894Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:44:30.894Z"
+}

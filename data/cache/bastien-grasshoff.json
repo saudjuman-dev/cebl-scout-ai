@@ -1,0 +1,49 @@
+{
+  "fullName": "BASTIEN GRASSHOFF",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bastien-Grasshoff/700258",
+  "height": "6'4'",
+  "currentTeam": "Le Mans",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:36:15.063Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:36:15.063Z"
+}

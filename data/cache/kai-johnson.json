@@ -1,0 +1,45 @@
+{
+  "fullName": "KAI JOHNSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kai-Johnson/596872",
+  "height": "6'4'",
+  "college": "University of Montana",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "WWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "WWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "WWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Montana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:30.196Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:30.196Z"
+}

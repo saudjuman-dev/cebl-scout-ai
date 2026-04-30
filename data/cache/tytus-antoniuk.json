@@ -1,0 +1,34 @@
+{
+  "fullName": "TYTUS ANTONIUK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tytus-Antoniuk/710283",
+  "height": "6'1'",
+  "currentTeam": "Legia 2",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Znicz Basket",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Legia 2",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:53.743Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:53.743Z"
+}

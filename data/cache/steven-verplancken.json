@@ -1,0 +1,74 @@
+{
+  "fullName": "STEVEN VERPLANCKEN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Steven-Verplancken/407275",
+  "height": "6'4'",
+  "currentTeam": "Champagne",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Gistel Oostende",
+      "league": "BEL-2"
+    },
+    {
+      "year": "19-20",
+      "team": "GSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "SIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SIU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "SIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Weber St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Soles",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Haukar",
+      "league": "ISL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Champagne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:47.928Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:47.928Z"
+}

@@ -1,0 +1,44 @@
+{
+  "fullName": "DANIELIUS KASPARAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Danielius-Kasparas/584110",
+  "height": "6'8'",
+  "currentTeam": "Rytas",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "VKM",
+      "league": "LTU-6"
+    },
+    {
+      "year": "21-22",
+      "team": "VKM",
+      "league": "LTU-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Rytas 2",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Rytas 2",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas 2",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:59:29.432Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:59:29.432Z"
+}

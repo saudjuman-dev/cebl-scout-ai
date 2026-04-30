@@ -1,0 +1,54 @@
+{
+  "fullName": "ALJAZ KUNC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aljaz-Kunc/475749",
+  "height": "6'9'",
+  "currentTeam": "Arriva P.Cukier",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "WSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "WSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "WSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Arriva TP",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arriva P.Cukier",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arriva P.Cukier",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:45:45.516Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:45:45.516Z"
+}

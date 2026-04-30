@@ -1,0 +1,105 @@
+{
+  "fullName": "KJ JACKSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/KJ-Jackson/414511",
+  "height": "6'2'",
+  "college": "University of Maryland",
+  "currentTeam": "PAOK",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Temple JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Temple JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Sibiu",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Sibiu",
+      "league": "ROM-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Sibiu",
+      "league": "ROM-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Steaua B.",
+      "league": "ROM-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Steaua B.",
+      "league": "ROM-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Kobrat",
+      "league": "FIN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "2024",
+      "team": "Titanes",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sopron KC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "GTK",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:11:23.313Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:11:23.313Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fullName": "ALEJANDRO JORDA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Jorda/309076",
+  "height": "6'4'",
+  "currentTeam": "Alicante",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Lucentum ALC",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Multiopticas Baza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Lucentum ALC",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Benidorm",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Almansa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Caceres",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alicante",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:50:55.425Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:50:55.425Z"
+}

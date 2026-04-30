@@ -1,0 +1,94 @@
+{
+  "fullName": "QUINTON ROSE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Quinton-Rose/393785",
+  "height": "6'8'",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "2022",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Broad Street B.",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Delaware Blue",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Rip City R.",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Guaymas",
+      "league": "MEX-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Valley S.",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Jets",
+      "league": "NZL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:54.412Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:54.412Z"
+}

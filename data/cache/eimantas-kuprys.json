@@ -1,0 +1,28 @@
+{
+  "fullName": "EIMANTAS KUPRYS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eimantas-Kuprys/751760",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:59:44.014Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:59:44.014Z"
+}

@@ -1,0 +1,115 @@
+{
+  "fullName": "WESLEY VAN BECK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wesley-Van-Beck/336498",
+  "height": "6'4'",
+  "college": "University of Houston",
+  "currentTeam": "Tenerife",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "2020",
+      "team": "Tigrillos",
+      "league": "COL-1"
+    },
+    {
+      "year": "2021",
+      "team": "Tigrillos",
+      "league": "COL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Kalev/Cramo",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kalev/Cramo",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kalev/Cramo",
+      "league": "LAES-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kalev/Cramo",
+      "league": "EST-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Chemnitz",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Chemnitz",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Chemnitz",
+      "league": "GER-1"
+    },
+    {
+      "year": "2024",
+      "team": "Forever Coogs",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Petkim",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tenerife",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tenerife",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:54:49.948Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:54:49.948Z"
+}

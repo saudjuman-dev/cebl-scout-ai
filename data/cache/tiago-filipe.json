@@ -1,0 +1,49 @@
+{
+  "fullName": "TIAGO FILIPE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tiago-Filipe/617919",
+  "height": "6'7'",
+  "currentTeam": "Benfica",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Benfica Lisboa",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:09:05.983Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:09:05.983Z"
+}

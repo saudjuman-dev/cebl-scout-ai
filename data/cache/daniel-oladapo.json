@@ -1,0 +1,70 @@
+{
+  "fullName": "DANIEL OLADAPO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Oladapo/498219",
+  "height": "6'8'",
+  "college": "University of Pittsburgh",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Oakland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Oakland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Pittsburgh",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NCCU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "NCCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "AZS AWF Mick",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "BAL Weert",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Otef Darom",
+      "league": "ISR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:12.131Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:12.131Z"
+}

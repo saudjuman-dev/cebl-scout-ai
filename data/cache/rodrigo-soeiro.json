@@ -1,0 +1,54 @@
+{
+  "fullName": "RODRIGO SOEIRO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rodrigo-Soeiro/254162",
+  "height": "6'7'",
+  "currentTeam": "Ovarense",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ovarense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:07.653Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:07.653Z"
+}

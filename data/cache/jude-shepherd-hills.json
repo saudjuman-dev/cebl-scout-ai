@@ -1,0 +1,30 @@
+{
+  "fullName": "JUDE SHEPHERD-HILLS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jude-Shepherd-Hills/552347",
+  "height": "6'5'",
+  "college": "University of Saskatchewan",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Saskatchewan",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Briercrest",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:22.742Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:22.742Z"
+}

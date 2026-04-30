@@ -1,0 +1,84 @@
+{
+  "fullName": "MOSES GREENWOOD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Moses-Greenwood/370650",
+  "height": "6'7'",
+  "currentTeam": "Hyeres-Toulon",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Charleroi",
+      "league": "FEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Charleroi",
+      "league": "BEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Kouvot",
+      "league": "FIN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Novosibirsk",
+      "league": "RUS-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Comunicaciones",
+      "league": "ARG-1"
+    },
+    {
+      "year": "21-22",
+      "team": "T71",
+      "league": "LUX-1"
+    },
+    {
+      "year": "22-23",
+      "team": "T71",
+      "league": "LUX-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:28:34.324Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:28:34.324Z"
+}

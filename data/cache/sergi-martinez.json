@@ -1,0 +1,94 @@
+{
+  "fullName": "SERGI MARTINEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergi-Martinez/335476",
+  "height": "6'8'",
+  "currentTeam": "Girona",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Barca 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Barcelona 2",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Barcelona 2",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Girona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Girona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Girona",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:56:11.628Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:56:11.628Z"
+}

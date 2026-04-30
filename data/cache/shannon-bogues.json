@@ -1,0 +1,89 @@
+{
+  "fullName": "SHANNON BOGUES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Shannon-Bogues/389818",
+  "height": "6'3'",
+  "currentTeam": "Le Mans",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "McLennan CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "McLennan CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "SF Austin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "SF Austin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Wisconsin H.",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "Gliwice",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Capital C.Go-Go",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Apollon LMS",
+      "league": "CYP-1"
+    },
+    {
+      "year": "2022",
+      "team": "Sideline Cancer",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Massagno",
+      "league": "SUI-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Duna Aszfalt",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2024",
+      "team": "Zip Em Up",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:36:11.535Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:36:11.535Z"
+}

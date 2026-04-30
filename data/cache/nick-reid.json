@@ -1,0 +1,50 @@
+{
+  "fullName": "NICK REID",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nick-Reid/578216",
+  "height": "6'7'",
+  "college": "College All",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Emporia St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Emporia St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:45.673Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:45.673Z"
+}

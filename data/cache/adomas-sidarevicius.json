@@ -1,0 +1,94 @@
+{
+  "fullName": "ADOMAS SIDAREVICIUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adomas-Sidarevicius/427239",
+  "height": "6'3'",
+  "currentTeam": "Jonava",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "KTU",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Perkunas",
+      "league": "LTU-6"
+    },
+    {
+      "year": "18-19",
+      "team": "Zalgiris",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zalgiris III",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Jonava",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Jonava",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "NH Ostrava",
+      "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jonava",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:39.940Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:39.940Z"
+}

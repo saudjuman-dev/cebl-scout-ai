@@ -1,0 +1,94 @@
+{
+  "fullName": "SERGIO DE LARREA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-de-Larrea/595222",
+  "height": "6'6'",
+  "currentTeam": "Valencia",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Godella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2023",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Godella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:52:05.650Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:52:05.650Z"
+}

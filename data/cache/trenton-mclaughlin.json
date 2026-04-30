@@ -1,0 +1,45 @@
+{
+  "fullName": "TRENTON MCLAUGHLIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Trenton-McLaughlin/608184",
+  "height": "6'6'",
+  "college": "College All",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NAU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:55:25.330Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:55:25.330Z"
+}

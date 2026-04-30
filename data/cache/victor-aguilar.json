@@ -1,0 +1,74 @@
+{
+  "fullName": "VICTOR AGUILAR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Victor-Aguilar/353110",
+  "height": "6'1'",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Andorra II",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Andorra II",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Miraflores BRG",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "San Pablo BU",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:58.442Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:58.442Z"
+}

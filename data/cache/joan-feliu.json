@@ -1,0 +1,59 @@
+{
+  "fullName": "JOAN FELIU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joan-Feliu/482822",
+  "height": "6'1'",
+  "currentTeam": "Palma BM",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Palma Air Eur.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Consell Air Eu.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Consell Air Eu.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma BM",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:54:49.949Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:54:49.949Z"
+}

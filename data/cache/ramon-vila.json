@@ -1,0 +1,85 @@
+{
+  "fullName": "RAMON VILA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ramon-Vila/272244",
+  "height": "6'9'",
+  "college": "University of Tennessee at Chattanooga",
+  "currentTeam": "Burgos T.",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Barcelona 2",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "ASU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Chattanooga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Chattanooga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Levitec Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Coviran Granada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Coviran Granada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos T.",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:54:08.658Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:54:08.658Z"
+}

@@ -1,0 +1,69 @@
+{
+  "fullName": "JOSEP CERA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josep-Cera/496850",
+  "height": "6'2'",
+  "currentTeam": "Ponferrada",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Zaragoza",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Salesianos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Ourense",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ibersol Tarrag.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:08:35.001Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:08:35.001Z"
+}

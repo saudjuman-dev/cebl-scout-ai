@@ -1,0 +1,79 @@
+{
+  "fullName": "ARCHANGE IZAW-BOLAVIE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Archange-Izaw-Bolavie/528935",
+  "height": "6'11'",
+  "currentTeam": "Manresa",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Basic-Fit BR",
+      "league": "FEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Basic-Fit BR",
+      "league": "BEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Spirou B",
+      "league": "BEL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Charleroi",
+      "league": "BEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Charleroi",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Charleroi",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Charleroi",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleroi",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleroi",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "2025",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma BM",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:54:28.689Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:54:28.689Z"
+}

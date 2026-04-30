@@ -1,0 +1,84 @@
+{
+  "fullName": "JAHVAUGHN POWELL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jahvaughn-Powell/358629",
+  "height": "6'0'",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Tallahassee",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Tallahassee",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Nicholls",
+      "league": "NCAA2"
+    },
+    {
+      "year": "16-17",
+      "team": "Nicholls",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Nicholls",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Alcobendas",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Carbajosa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "ZA Enamora",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:22.868Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:22.868Z"
+}

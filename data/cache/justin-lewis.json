@@ -1,0 +1,75 @@
+{
+  "fullName": "JUSTIN LEWIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Lewis/423084",
+  "height": "6'7'",
+  "college": "College High School\n2017",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Marquette",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Calgary",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Delaware Blue",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:39:00.298Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:39:00.298Z"
+}

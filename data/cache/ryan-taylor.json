@@ -1,0 +1,135 @@
+{
+  "fullName": "RYAN TAYLOR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ryan-Taylor/345068",
+  "height": "6'6'",
+  "college": "University of Evansville",
+  "currentTeam": "Kolossos",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Evansville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Evansville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "2021",
+      "team": "Golden SW",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraklis",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Z*London L.",
+      "league": "NBLC"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Ohio 1804",
+      "league": "TBT"
+    },
+    {
+      "year": "2022",
+      "team": "Rams",
+      "league": "NZL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Apollon Patras",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Germani BR",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Germani BR",
+      "league": "ITA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Juventus",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "2024",
+      "team": "Eberlein Drive",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Anwil",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gornik",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:45:37.041Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:45:37.041Z"
+}

@@ -1,0 +1,90 @@
+{
+  "fullName": "JOAO CARDOSO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joao-Cardoso/435801",
+  "height": "6'8'",
+  "college": "University National Team",
+  "currentTeam": "Manisa",
+  "careerHistory": [
+    {
+      "year": "2019",
+      "team": "Pinheiros",
+      "league": "BRA-4"
+    },
+    {
+      "year": "2019",
+      "team": "Pinheiros",
+      "league": "LSA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Pinheiros",
+      "league": "BRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Crn Dream",
+      "league": "MKD-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cearense",
+      "league": "BRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "MZT Skopje II",
+      "league": "MKD-1"
+    },
+    {
+      "year": "2022",
+      "team": "Corinthians",
+      "league": "BRA-3"
+    },
+    {
+      "year": "2022",
+      "team": "Corinthians",
+      "league": "BRA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Corinthians",
+      "league": "BRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Capitanes M.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Nacional",
+      "league": "URU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Memphis H.",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Manisa",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:23:41.931Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:23:41.931Z"
+}

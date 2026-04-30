@@ -1,0 +1,39 @@
+{
+  "fullName": "NIKOLAOS TZIALLAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikolaos-Tziallas/734262",
+  "height": "6'1'",
+  "currentTeam": "Peristeri",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Peristeri",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:12:03.939Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:12:03.939Z"
+}

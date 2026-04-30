@@ -1,0 +1,84 @@
+{
+  "fullName": "SANDER HOLLANDERS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sander-Hollanders/441159",
+  "height": "6'5'",
+  "currentTeam": "Girona",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "BAL Weert",
+      "league": "NED-1"
+    },
+    {
+      "year": "18-19",
+      "team": "BAL Weert",
+      "league": "NED-1"
+    },
+    {
+      "year": "19-20",
+      "team": "BAL Weert",
+      "league": "NED-1"
+    },
+    {
+      "year": "20-21",
+      "team": "BAL Weert",
+      "league": "NED-1"
+    },
+    {
+      "year": "21-22",
+      "team": "BAL Weert",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Groningen",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Groningen",
+      "league": "NED-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Groningen",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Groningen",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Groningen",
+      "league": "NED-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleroi",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleroi",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Girona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Alicante",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:50:58.568Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:50:58.568Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "ABDOU THIAM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Abdou-Thiam/409206",
+  "height": "6'11'",
+  "currentTeam": "Coruna",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Betanzos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Betanzos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Betanzos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Coruna",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:45:50.950Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:45:50.950Z"
+}

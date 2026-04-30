@@ -1,0 +1,75 @@
+{
+  "fullName": "IGNAS SARGIUNAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ignas-Sargiunas/351794",
+  "height": "6'5'",
+  "college": "University of Georgia",
+  "currentTeam": "Rytas",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayreuth",
+      "league": "GER-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayreuth",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rytas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rytas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:52:17.746Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:52:17.746Z"
+}

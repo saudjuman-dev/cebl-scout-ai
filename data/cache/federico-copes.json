@@ -1,0 +1,64 @@
+{
+  "fullName": "FEDERICO COPES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Federico-Copes/461005",
+  "height": "6'7'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Los Indios",
+      "league": "ARG-3"
+    },
+    {
+      "year": "2019",
+      "team": "Platense",
+      "league": "ARG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Platense",
+      "league": "ARG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Platense",
+      "league": "ARG-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Platense",
+      "league": "ARG-1"
+    },
+    {
+      "year": "21-22",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Godella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:49:03.916Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:49:03.916Z"
+}

@@ -1,0 +1,49 @@
+{
+  "fullName": "NATHAN SOLIMAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nathan-Soliman/705975",
+  "height": "6'9'",
+  "currentTeam": "Nantes",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pole France",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:53.244Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:53.244Z"
+}

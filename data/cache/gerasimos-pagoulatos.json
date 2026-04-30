@@ -1,0 +1,29 @@
+{
+  "fullName": "GERASIMOS PAGOULATOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gerasimo-Pagoulatos/744306",
+  "height": "6'7'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Papagou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:14:47.897Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:14:47.897Z"
+}

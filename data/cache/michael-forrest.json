@@ -1,0 +1,84 @@
+{
+  "fullName": "MICHAEL FORREST",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Forrest/475817",
+  "height": "6'1'",
+  "currentTeam": "Murcia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "FAU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Team DRC",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Monthey",
+      "league": "SUI-1"
+    },
+    {
+      "year": "2024",
+      "team": "Florida TNT",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2025",
+      "team": "Madd Katts",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:51:43.374Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:51:43.374Z"
+}

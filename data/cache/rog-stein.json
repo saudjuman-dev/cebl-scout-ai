@@ -1,0 +1,54 @@
+{
+  "fullName": "ROG STEIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rog-Stein/453635",
+  "height": "6'6'",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "LSSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "LSSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Indiana Tech",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Indiana Tech",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Indiana Tech",
+      "league": "NAIA"
+    },
+    {
+      "year": "23-24",
+      "team": "Galitos-Barreiro",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:31.288Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:31.288Z"
+}

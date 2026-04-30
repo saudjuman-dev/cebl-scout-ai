@@ -1,0 +1,75 @@
+{
+  "fullName": "JORDAN SHEPHERD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Shepherd/402157",
+  "height": "6'4'",
+  "college": "University of Oklahoma",
+  "currentTeam": "Vichy",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Oklahoma",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Oklahoma",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Charlotte",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "California",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Uppsala",
+      "league": "SWE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "AEL",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "AEL",
+      "league": "CYP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vichy",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:39.218Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:39.218Z"
+}

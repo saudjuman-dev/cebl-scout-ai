@@ -1,0 +1,99 @@
+{
+  "fullName": "JAIME PRADILLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaime-Pradilla/401930",
+  "height": "6'8'",
+  "currentTeam": "Valencia",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:51:59.456Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:51:59.456Z"
+}

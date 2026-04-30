@@ -1,0 +1,119 @@
+{
+  "fullName": "EVAN FOURNIER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Evan-Fournier/130723",
+  "height": "6'6'",
+  "currentTeam": "Olympiacos",
+  "careerHistory": [
+    {
+      "year": "09-10",
+      "team": "Nanterre",
+      "league": "FRA-2"
+    },
+    {
+      "year": "10-11",
+      "team": "Poitiers",
+      "league": "FRA-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Poitiers",
+      "league": "FRA-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "13-14",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "14-15",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "15-16",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "NY Knicks",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "NY Knicks",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Detroit P.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "NY Knicks",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Olympiacos",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:01:46.323Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:01:46.323Z"
+}

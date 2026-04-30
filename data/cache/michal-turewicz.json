@@ -1,0 +1,64 @@
+{
+  "fullName": "MICHAL TUREWICZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michal-Turewicz/637541",
+  "height": "6'7'",
+  "currentTeam": "Start",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "AZS UMCS",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Pszcz.Start",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Start Lublin",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS Start 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "P.Cukier Start",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Start Lublin",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS Start 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lublin 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:49.668Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:49.668Z"
+}

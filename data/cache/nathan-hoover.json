@@ -1,0 +1,104 @@
+{
+  "fullName": "NATHAN HOOVER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nathan-Hoover/399097",
+  "height": "6'4'",
+  "currentTeam": "Melilla",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Wofford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Wofford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Wofford",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Wofford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Wofford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Borisfen",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Borisfen",
+      "league": "BLR-1"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Jackson UD",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2023",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Instituto Cordoba",
+      "league": "LSA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Instituto Cordoba",
+      "league": "ARG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Valladolid",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2025",
+      "team": "Indios",
+      "league": "MEX-3"
+    },
+    {
+      "year": "2025",
+      "team": "Panteras",
+      "league": "MEX-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Penarol",
+      "league": "ARG-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:55:54.117Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:55:54.117Z"
+}

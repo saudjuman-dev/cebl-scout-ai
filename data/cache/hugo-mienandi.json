@@ -1,0 +1,64 @@
+{
+  "fullName": "HUGO MIENANDI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Mienandi/505359",
+  "height": "6'7'",
+  "currentTeam": "Nantes",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Angers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Nantes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:35.783Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:35.783Z"
+}

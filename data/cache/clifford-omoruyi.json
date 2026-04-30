@@ -1,0 +1,75 @@
+{
+  "fullName": "CLIFFORD OMORUYI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Clifford-Omoruyi/505706",
+  "height": "6'11'",
+  "college": "University of Alabama",
+  "currentTeam": "PAOK",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Galatasaray",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galatasaray",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:05:13.710Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:05:13.710Z"
+}

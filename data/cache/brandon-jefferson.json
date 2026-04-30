@@ -1,0 +1,140 @@
+{
+  "fullName": "BRANDON JEFFERSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Jefferson/215891",
+  "height": "5'9'",
+  "college": "University of Denver",
+  "currentTeam": "Karditsas",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "MSU Denver",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "MSU Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "14-15",
+      "team": "KTP-Basket",
+      "league": "FIN-1"
+    },
+    {
+      "year": "14-15",
+      "team": "KTP-Basket",
+      "league": "FEL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Phoenix",
+      "league": "GER-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Union Olimpija",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Union Olimpija",
+      "league": "ADR-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Union Olimpija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Lighthouse TR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Strasbourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Pau-Orthez",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2022",
+      "team": "Bleed Green",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Tianjin P.",
+      "league": "CHN-1"
+    },
+    {
+      "year": "2023",
+      "team": "Bleed Green",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Dinamo Sassari",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dinamo Sassari",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Bleed Green",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2025",
+      "team": "Team Diesel",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Karditsas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:07:26.540Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:07:26.540Z"
+}

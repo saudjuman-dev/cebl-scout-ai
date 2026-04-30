@@ -1,0 +1,49 @@
+{
+  "fullName": "GARMINE KANDE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Garmine-Kande/401210",
+  "height": "6'9'",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:16.542Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:16.542Z"
+}

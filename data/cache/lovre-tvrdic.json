@@ -1,0 +1,44 @@
+{
+  "fullName": "LOVRE TVRDIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lovre-Tvrdic/497342",
+  "height": "6'5'",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Alkar",
+      "league": "CRO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Alkar",
+      "league": "CRO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Kastela",
+      "league": "CRO-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Killorglin",
+      "league": "IRL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:45.759Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:45.759Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fullName": "SZYMON NOWICKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Szymon-Nowicki/538213",
+  "height": "6'8'",
+  "currentTeam": "Trefl",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Asseco",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arka II",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Arka II",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "GAK",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask 3",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Slask II",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Slask II",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trefl",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:04.734Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:04.734Z"
+}

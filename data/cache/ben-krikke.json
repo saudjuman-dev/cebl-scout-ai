@@ -1,0 +1,80 @@
+{
+  "fullName": "BEN KRIKKE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ben-Krikke/441246",
+  "height": "6'9'",
+  "college": "University of Iowa",
+  "currentTeam": "Jonava",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Valpo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Valpo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Valpo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valpo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Valpo",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Valpo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valpo",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Valpo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Iowa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Edmonton",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2025",
+      "team": "Shield 219",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Jonava",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:33.451Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:33.451Z"
+}

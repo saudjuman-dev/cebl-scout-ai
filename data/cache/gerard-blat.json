@@ -1,0 +1,74 @@
+{
+  "fullName": "GERARD BLAT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gerard-Blat/373349",
+  "height": "6'1'",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Arenys",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Sant Josep",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Sant Adria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Almansa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Almansa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Sindri",
+      "league": "ISL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Albacete",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:49.461Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:49.461Z"
+}

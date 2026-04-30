@@ -1,0 +1,74 @@
+{
+  "fullName": "HUGO ROBINEAU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Robineau/441538",
+  "height": "6'4'",
+  "currentTeam": "Boulazac",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet Basket",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:37:38.766Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:37:38.766Z"
+}

@@ -1,0 +1,54 @@
+{
+  "fullName": "JULIAN DABROWSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Julian-Dabrowski/701225",
+  "height": "6'9'",
+  "currentTeam": "Legia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Legia",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Legia 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Legia",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:50.546Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:50.546Z"
+}

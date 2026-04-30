@@ -1,0 +1,49 @@
+{
+  "fullName": "CHAUNCE JENKINS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chaunce-Jenkins/564108",
+  "height": "6'4'",
+  "currentTeam": "Vitoria SC",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Wichita St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Wichita St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wichita St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:05:47.038Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:05:47.038Z"
+}

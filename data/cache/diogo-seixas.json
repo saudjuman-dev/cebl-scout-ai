@@ -1,0 +1,49 @@
+{
+  "fullName": "DIOGO SEIXAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Diogo-Seixas/524435",
+  "height": "6'8'",
+  "currentTeam": "Ourense",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cent Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ourense",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:52:45.824Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:52:45.824Z"
+}

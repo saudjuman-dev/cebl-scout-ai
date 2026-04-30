@@ -1,0 +1,64 @@
+{
+  "fullName": "EDDIE EKIYOR",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eddie-Ekiyor/333049",
+  "height": "6'9'",
+  "currentTeam": "Saint Quentin",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Carleton",
+      "league": "USPO"
+    },
+    {
+      "year": "17-18",
+      "team": "Carleton",
+      "league": "USPO"
+    },
+    {
+      "year": "18-19",
+      "team": "Carleton",
+      "league": "USPO"
+    },
+    {
+      "year": "21-22",
+      "team": "Akhaltsikhe",
+      "league": "GEO-1"
+    },
+    {
+      "year": "22-23",
+      "team": "M.Ma'ale Adum.",
+      "league": "ISR-2"
+    },
+    {
+      "year": "2023",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:39:52.339Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:39:52.339Z"
+}

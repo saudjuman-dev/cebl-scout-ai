@@ -1,0 +1,94 @@
+{
+  "fullName": "BRIAN VAZQUEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brian-Vazquez/601023",
+  "height": "6'3'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "2020",
+      "team": "Capitanes",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Santa Tecla",
+      "league": "ESA-2"
+    },
+    {
+      "year": "2021",
+      "team": "Atleticos",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Humacao",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Guayama",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Capitanes",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Santa Tecla",
+      "league": "ESA-2"
+    },
+    {
+      "year": "2022",
+      "team": "Capitanes",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2022",
+      "team": "UNI Basket",
+      "league": "NIC-1"
+    },
+    {
+      "year": "2022",
+      "team": "Santa Tecla",
+      "league": "ESA-2"
+    },
+    {
+      "year": "2023",
+      "team": "Toros",
+      "league": "COL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Toros Del Valle",
+      "league": "COL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Diablos",
+      "league": "VEN-1"
+    },
+    {
+      "year": "2024",
+      "team": "Piratas",
+      "league": "COL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:53:16.832Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:53:16.832Z"
+}

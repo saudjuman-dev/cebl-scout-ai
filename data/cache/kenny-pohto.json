@@ -1,0 +1,50 @@
+{
+  "fullName": "KENNY POHTO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kenny-Pohto/475392",
+  "height": "6'11'",
+  "college": "University of California Santa Barbara",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Wichita St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wichita St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wichita St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCSB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCSB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "NKA Pecs",
+      "league": "HUN-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:55:35.299Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:55:35.299Z"
+}

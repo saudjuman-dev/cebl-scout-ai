@@ -1,0 +1,49 @@
+{
+  "fullName": "ILIAN MOUNGALLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ilian-Moungalla/709411",
+  "height": "6'5'",
+  "currentTeam": "Paris",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Paris U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paris U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Evreux",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:15.495Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:15.495Z"
+}

@@ -1,0 +1,105 @@
+{
+  "fullName": "IGNAS VAITKUS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ignas-Vaitkus/221203",
+  "height": "6'5'",
+  "college": "University National Team",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Pakruojis",
+      "league": "LTU-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Mazeikiai",
+      "league": "LTU-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Mazeikiai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Silute",
+      "league": "LTU-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Vytis",
+      "league": "LTU-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Nevezis",
+      "league": "BAL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Siauliai",
+      "league": "BAL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:55:14.027Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:55:14.027Z"
+}

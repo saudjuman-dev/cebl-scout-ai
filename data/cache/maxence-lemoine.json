@@ -1,0 +1,44 @@
+{
+  "fullName": "MAXENCE LEMOINE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maxence-Lemoine/662767",
+  "height": "6'2'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Strasbourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Strasbourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "NGT Dubai",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:18.886Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:18.886Z"
+}

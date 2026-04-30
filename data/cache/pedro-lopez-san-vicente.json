@@ -1,0 +1,84 @@
+{
+  "fullName": "PEDRO LOPEZ-SAN VICENTE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Lopez-San-Vicente/629030",
+  "height": "6'8'",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Gran Canaria",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Denver",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Denver",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Denver",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Denver",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:44.734Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:44.734Z"
+}

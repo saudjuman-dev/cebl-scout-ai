@@ -1,0 +1,60 @@
+{
+  "fullName": "MOHAMMED ABDULSALAM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohammed-Abdulsalam/420700",
+  "height": "6'9'",
+  "college": "University of North Carolina at Greensboro",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alcala",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Getafe",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:57.571Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:57.571Z"
+}

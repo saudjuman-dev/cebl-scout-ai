@@ -1,0 +1,44 @@
+{
+  "fullName": "LUCAS THEVENARD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Thevenard/479622",
+  "height": "6'8'",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Quimper",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:27.352Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:27.352Z"
+}

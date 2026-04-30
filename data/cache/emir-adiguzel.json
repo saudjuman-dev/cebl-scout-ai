@@ -1,0 +1,79 @@
+{
+  "fullName": "EMIR ADIGUZEL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emir-Adiguzel/490104",
+  "height": "6'4'",
+  "currentTeam": "Besiktas",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Bandirma",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Bandirma",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Besiktas",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sigortam.net",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Bordo",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:27:24.778Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:27:24.778Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "FRANCOIS WIBAUT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francois-Wibaut/543430",
+  "height": "6'6'",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Lyon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:02.512Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:02.512Z"
+}

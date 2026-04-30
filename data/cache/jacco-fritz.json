@@ -1,0 +1,64 @@
+{
+  "fullName": "JACCO FRITZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jacco-Fritz/369105",
+  "height": "6'10'",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "BAL Weert",
+      "league": "NED-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gistel Oostende",
+      "league": "BEL-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Den Helder",
+      "league": "NED-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Den Helder",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:59:47.768Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:59:47.768Z"
+}

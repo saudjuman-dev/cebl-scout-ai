@@ -1,0 +1,44 @@
+{
+  "fullName": "THEODOROS PAPANIKOLAOU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Theodoros-Papanikolaou/744299",
+  "height": "6'6'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:14:42.917Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:14:42.917Z"
+}

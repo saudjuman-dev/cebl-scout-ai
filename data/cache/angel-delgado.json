@@ -1,0 +1,109 @@
+{
+  "fullName": "ANGEL DELGADO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Angel-Delgado/226298",
+  "height": "6'11'",
+  "currentTeam": "Trabzonspor",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Sioux Falls S.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Hapoel Holon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Hapoel Holon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Estudiantes",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2022",
+      "team": "Reales",
+      "league": "DOM-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Karsiyaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Karsiyaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trabzonspor",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:18:54.455Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:18:54.455Z"
+}

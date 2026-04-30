@@ -1,0 +1,104 @@
+{
+  "fullName": "JORGE TEJERA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jorge-Tejera/219405",
+  "height": "6'7'",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Casvi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "11-12",
+      "team": "Casvi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Casvi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Azuqueca",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Azuqueca",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Hagen BG",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Alcobendas",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Talavera",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Getafe",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:01:16.927Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:01:16.927Z"
+}

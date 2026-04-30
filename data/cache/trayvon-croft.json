@@ -1,0 +1,55 @@
+{
+  "fullName": "TRAYVON CROFT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Trayvon-Croft/431442",
+  "height": "6'1'",
+  "college": "University of Northern Iowa",
+  "currentTeam": "Rouen",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Iowa Central",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Parkside",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Parkside",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Parkside",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Rustavi",
+      "league": "GEO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "2024",
+      "team": "Sweet Home Alabama",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Rouen",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:30:37.412Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:30:37.412Z"
+}

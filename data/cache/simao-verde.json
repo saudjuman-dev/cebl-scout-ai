@@ -1,0 +1,39 @@
+{
+  "fullName": "SIMAO VERDE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Simao-Verde/502195",
+  "height": "5'10'",
+  "currentTeam": "Vitoria SC",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Illiabum Clube",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Mercyhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Mercyhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Braga",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:05.204Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:05.204Z"
+}

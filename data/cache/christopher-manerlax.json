@@ -1,0 +1,49 @@
+{
+  "fullName": "CHRISTOPHER MANERLAX",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Manerlax/483092",
+  "height": "6'9'",
+  "currentTeam": "Nantes",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Chalon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Les Sables",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Les Sables",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Nantes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:56.852Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:56.852Z"
+}

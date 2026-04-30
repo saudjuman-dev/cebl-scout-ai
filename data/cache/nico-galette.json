@@ -1,0 +1,50 @@
+{
+  "fullName": "NICO GALETTE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nico-Galette/580442",
+  "height": "6'6'",
+  "college": "University\nYear",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Sacred Heart",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sacred Heart",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Sacred Heart",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sacred Heart",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "YSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "X-Rayted",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:50:21.569Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:50:21.569Z"
+}

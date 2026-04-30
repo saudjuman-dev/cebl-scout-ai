@@ -1,0 +1,75 @@
+{
+  "fullName": "IFE JOSH AJAYI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ife-Josh-Ajayi/370535",
+  "height": "6'7'",
+  "college": "University of South Alabama",
+  "currentTeam": "Cantu",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Balikesir BBS",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Frankfurt",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Reale Mutua TO",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantu",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:49:22.693Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:49:22.693Z"
+}

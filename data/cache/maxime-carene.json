@@ -1,0 +1,104 @@
+{
+  "fullName": "MAXIME CARENE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maxime-Carene/400582",
+  "height": "6'10'",
+  "currentTeam": "Evreux",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "La Rochelle",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Limburg B",
+      "league": "BEL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Limburg United",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Easo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Texas L.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Kapfenberg",
+      "league": "AUT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Evreux",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:04.824Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:04.824Z"
+}

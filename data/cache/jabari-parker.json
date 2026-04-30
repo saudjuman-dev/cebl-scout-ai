@@ -1,0 +1,114 @@
+{
+  "fullName": "JABARI PARKER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jabari-Parker/225951",
+  "height": "6'8'",
+  "currentTeam": "Joventut",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "15-16",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:54:04.327Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:54:04.327Z"
+}

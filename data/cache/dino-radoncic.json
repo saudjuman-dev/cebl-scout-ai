@@ -1,0 +1,119 @@
+{
+  "fullName": "DINO RADONCIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dino-Radoncic/194642",
+  "height": "6'8'",
+  "currentTeam": "Coruna",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "UCAM",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "San Pablo BU",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Canarias T.",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayern",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayern",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Betis Se",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Coruna",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:45:46.478Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:45:46.478Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fullName": "NOAH THOMASSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noah-Thomasson/525077",
+  "height": "6'3'",
+  "college": "University of Georgia",
+  "currentTeam": "Arriva P.Cukier",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "HBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Butler CC, KS",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Niagara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Niagara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Niagara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mornar Bar",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arriva P.Cukier",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:45:56.378Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:45:56.378Z"
+}

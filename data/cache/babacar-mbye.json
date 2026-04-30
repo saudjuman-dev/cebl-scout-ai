@@ -1,0 +1,54 @@
+{
+  "fullName": "BABACAR MBYE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Babacar-Mbye/497662",
+  "height": "7'0'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "SBA U17",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boulazac U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:31.112Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:31.112Z"
+}

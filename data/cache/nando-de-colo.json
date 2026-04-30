@@ -1,0 +1,229 @@
+{
+  "fullName": "NANDO DE COLO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nando-De-Colo/100619",
+  "height": "6'5'",
+  "currentTeam": "ASVEL",
+  "careerHistory": [
+    {
+      "year": "06-07",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "07-08",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Cholet Basket",
+      "league": "FEL-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Cholet Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "09-10",
+      "team": "PE Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "09-10",
+      "team": "PE Valencia",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "09-10",
+      "team": "PE Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "10-11",
+      "team": "PE Valencia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "10-11",
+      "team": "PE Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Austin Toros",
+      "league": "G League"
+    },
+    {
+      "year": "12-13",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "13-14",
+      "team": "Austin Toros",
+      "league": "G League"
+    },
+    {
+      "year": "13-14",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "13-14",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "14-15",
+      "team": "PBC CSKA",
+      "league": "VTB-1"
+    },
+    {
+      "year": "14-15",
+      "team": "PBC CSKA",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "PBC CSKA",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "PBC CSKA",
+      "league": "VTB-1"
+    },
+    {
+      "year": "16-17",
+      "team": "PBC CSKA",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "PBC CSKA",
+      "league": "VTB-1"
+    },
+    {
+      "year": "17-18",
+      "team": "PBC CSKA",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "PBC CSKA",
+      "league": "VTB-1"
+    },
+    {
+      "year": "18-19",
+      "team": "PBC CSKA",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "PBC CSKA",
+      "league": "VTB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:26:05.237Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:26:05.237Z"
+}

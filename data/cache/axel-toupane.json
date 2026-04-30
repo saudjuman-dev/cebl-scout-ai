@@ -1,0 +1,174 @@
+{
+  "fullName": "AXEL TOUPANE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Axel-Toupane/172024",
+  "height": "6'7'",
+  "currentTeam": "ASCVD",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Strasbourg",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Strasbourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Strasbourg",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Strasbourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "15-16",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Olympiacos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja MAL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Taiwan Beer L.",
+      "league": "TAI-1"
+    },
+    {
+      "year": "2025",
+      "team": "Homentmen",
+      "league": "LEB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
+      "league": "POR-1"
+    },
+    {
+      "year": "2026",
+      "team": "ASCVD",
+      "league": "theBAL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:08:13.426Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:08:13.426Z"
+}

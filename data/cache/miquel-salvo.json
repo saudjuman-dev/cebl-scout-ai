@@ -1,0 +1,109 @@
+{
+  "fullName": "MIQUEL SALVO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miquel-Salvo/302616",
+  "height": "6'9'",
+  "currentTeam": "Gran Canaria",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Charleroi",
+      "league": "BEL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Cornella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "CB Tarragona",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "U.Fin. Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "San Pablo BU",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Hereda SPablo",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Hereda SPablo",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:59:27.492Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:59:27.492Z"
+}

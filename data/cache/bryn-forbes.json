@@ -1,0 +1,109 @@
+{
+  "fullName": "BRYN FORBES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bryn-Forbes/265750",
+  "height": "6'3'",
+  "currentTeam": "Aris",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "CSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "CSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "San Antonio",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "2025",
+      "team": "Mets",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Aguada",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Aris Midea",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valcea",
+      "league": "ROM-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:10:04.693Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:10:04.693Z"
+}

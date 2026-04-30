@@ -1,0 +1,85 @@
+{
+  "fullName": "MATAS REPSYS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matas-Repsys/479372",
+  "height": "6'9'",
+  "college": "University National Team",
+  "currentTeam": "Jonava",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Zalgiris",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zalgiris III",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zalgiris III",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "VKKM",
+      "league": "LTU-6"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jonava",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:56:54.594Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:56:54.594Z"
+}

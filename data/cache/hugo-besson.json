@@ -1,0 +1,99 @@
+{
+  "fullName": "HUGO BESSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Besson/441430",
+  "height": "6'3'",
+  "currentTeam": "Tofas",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "NZL Breakers",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2022",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Itelyum Varese",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FMP Meridian",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Itelyum Varese",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Manisa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manisa",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tofas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tofas",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:21:27.828Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:21:27.828Z"
+}

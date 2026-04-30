@@ -1,0 +1,44 @@
+{
+  "fullName": "OSMAN NURVEREN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Osman-Nurveren/666642",
+  "height": "6'11'",
+  "currentTeam": "Bursaspor",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bursaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bursaspor",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bursaspor",
+      "league": "TUR-4"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:28:37.076Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:28:37.076Z"
+}

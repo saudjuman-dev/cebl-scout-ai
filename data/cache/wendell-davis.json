@@ -1,0 +1,79 @@
+{
+  "fullName": "WENDELL DAVIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wendell-Davis/307322",
+  "height": "6'5'",
+  "currentTeam": "Denain-Voltaire",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Ashland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "14-15",
+      "team": "Ashland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "Ashland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "Ashland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "17-18",
+      "team": "Ashland",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Pardinyes-L.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Pardinyes-L.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Denain-Voltaire",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:24:59.816Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:24:59.816Z"
+}

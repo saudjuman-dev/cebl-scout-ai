@@ -1,0 +1,70 @@
+{
+  "fullName": "GREGORY PARHAM",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gregory-Parham/451144",
+  "height": "6'4'",
+  "college": "University of South Alabama",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "VMI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "VMI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "VMI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "VMI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "USA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kavkasia",
+      "league": "GEO-1"
+    },
+    {
+      "year": "2024",
+      "team": "Dream 34",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Queluz",
+      "league": "POR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Red Rose Thunder",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:48:56.611Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:48:56.611Z"
+}

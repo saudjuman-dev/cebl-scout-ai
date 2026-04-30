@@ -1,0 +1,55 @@
+{
+  "fullName": "JOSH MBALLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josh-Mballa/399915",
+  "height": "6'7'",
+  "college": "University of Buffalo",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Valladolid",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:06.222Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:06.222Z"
+}

@@ -1,0 +1,70 @@
+{
+  "fullName": "BRYCE NZE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bryce-Nze/402357",
+  "height": "6'8'",
+  "college": "University of Wisconsin",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Milwaukee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Milwaukee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Butler",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Chernomorets",
+      "league": "BUL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:21:40.518Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:21:40.518Z"
+}

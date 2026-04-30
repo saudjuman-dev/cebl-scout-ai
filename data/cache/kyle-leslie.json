@@ -1,0 +1,59 @@
+{
+  "fullName": "KYLE LESLIE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Leslie/533895",
+  "height": "6'7'",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Davis & Elkins",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Davis & Elkins",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "SE Oklahoma",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "SE Oklahoma",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "SE Oklahoma",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2024",
+      "team": "Townsville H.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lusitania",
+      "league": "POR-2"
+    },
+    {
+      "year": "2025",
+      "team": "Illawarra H. 2",
+      "league": "AUS-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:07:55.114Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:07:55.114Z"
+}

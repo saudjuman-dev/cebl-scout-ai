@@ -1,0 +1,44 @@
+{
+  "fullName": "MYLES FOSTER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Myles-Foster/565063",
+  "height": "6'7'",
+  "currentTeam": "Oliveirense",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Monmouth",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Monmouth",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Monmouth",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Illinois St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Clemson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:50.395Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:50.395Z"
+}

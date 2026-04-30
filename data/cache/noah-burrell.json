@@ -1,0 +1,74 @@
+{
+  "fullName": "NOAH BURRELL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noah-Burrell/257364",
+  "height": "6'4'",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Meyrin",
+      "league": "SUI-2"
+    },
+    {
+      "year": "16-17",
+      "team": "JDA Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "17-18",
+      "team": "JDA Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "La Charite",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Les Sables",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Vitre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Poissy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Quimper",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:32:46.984Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:32:46.984Z"
+}

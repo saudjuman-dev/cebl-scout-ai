@@ -1,0 +1,70 @@
+{
+  "fullName": "DAE DAE GRANT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dae-Dae-Grant/522395",
+  "height": "6'2'",
+  "college": "University of Duquesne",
+  "currentTeam": "Promitheas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Miami, OH",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Miami, OH",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Miami, OH",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Duquesne",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Duquesne",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rio Breogan",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Feniks 2010",
+      "league": "MKD-1"
+    },
+    {
+      "year": "2025",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trabzonspor",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:07:08.040Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:07:08.040Z"
+}

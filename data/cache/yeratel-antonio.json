@@ -1,0 +1,24 @@
+{
+  "fullName": "YERATEL ANTONIO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yeratel-Antonio/753588",
+  "height": "6'8'",
+  "currentTeam": "Esgueira",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Esgueira",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:04:07.581Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:04:07.581Z"
+}

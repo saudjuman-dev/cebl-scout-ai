@@ -1,0 +1,44 @@
+{
+  "fullName": "NATHAN BILAMU",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nathan-Bilamu/552557",
+  "height": "6'5'",
+  "currentTeam": "Esgueira",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Lakehead",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "Lakehead",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Lakehead",
+      "league": "USPO"
+    },
+    {
+      "year": "24-25",
+      "team": "Lakehead",
+      "league": "USPO"
+    },
+    {
+      "year": "2025",
+      "team": "Winnipeg",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:03:49.888Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:03:49.888Z"
+}

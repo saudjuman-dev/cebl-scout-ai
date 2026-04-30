@@ -1,0 +1,104 @@
+{
+  "fullName": "ANGELO WARNER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Angelo-Warner/233813",
+  "height": "6'2'",
+  "currentTeam": "Boulazac",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2017",
+      "team": "Fer.Beira",
+      "league": "ACC-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Vogosca",
+      "league": "BIH-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Sopron KC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Germani BR",
+      "league": "ITA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Germani BR",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Szolnok",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Szolnok",
+      "league": "HUN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "BC Minsk",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "BC Minsk",
+      "league": "VTB-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Enisey",
+      "league": "VTB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:37:42.142Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:37:42.142Z"
+}

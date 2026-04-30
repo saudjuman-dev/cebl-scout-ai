@@ -1,0 +1,44 @@
+{
+  "fullName": "SEAN CLANCEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sean-Clancey/682765",
+  "height": "6'2'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Highland, IL",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Keyano",
+      "league": "NAIA"
+    },
+    {
+      "year": "23-24",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting L.",
+      "league": "ANG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:48.804Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:48.804Z"
+}

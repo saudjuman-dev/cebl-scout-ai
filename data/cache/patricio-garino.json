@@ -1,0 +1,109 @@
+{
+  "fullName": "PATRICIO GARINO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Patricio-Garino/179340",
+  "height": "6'7'",
+  "currentTeam": "Estudiantes",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Orlando Magic",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kirolbet Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kirolbet Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Kirolbet Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Kirolbet Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Girona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:47:33.033Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:47:33.033Z"
+}

@@ -1,0 +1,74 @@
+{
+  "fullName": "MELVIN AJINCA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Melvin-Ajinca/528291",
+  "height": "6'8'",
+  "currentTeam": "ASVEL",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "St Quentin",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:34:07.618Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:34:07.618Z"
+}

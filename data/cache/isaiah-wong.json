@@ -1,0 +1,100 @@
+{
+  "fullName": "ISAIAH WONG",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Wong/423324",
+  "height": "6'4'",
+  "college": "University of Miami",
+  "currentTeam": "Gran Canaria",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Miami, FL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Miami, FL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Miami, FL",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Miami, FL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Miami, FL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Indiana P.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Indiana MA",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Indiana Pacers",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Greensboro S.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Charlotte H.",
+      "league": "NBA"
+    },
+    {
+      "year": "2025",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:59:17.318Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:59:17.318Z"
+}

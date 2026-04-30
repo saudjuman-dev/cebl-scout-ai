@@ -1,0 +1,29 @@
+{
+  "fullName": "MIGUEL FONSECA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Fonseca/686015",
+  "height": "6'5'",
+  "currentTeam": "Oliveirense",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:47.499Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:47.499Z"
+}

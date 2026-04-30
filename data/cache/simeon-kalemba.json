@@ -1,0 +1,54 @@
+{
+  "fullName": "SIMEON KALEMBA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Simeon-Kalemba/582429",
+  "height": "6'7'",
+  "currentTeam": "Denain-Voltaire",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Reims U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Saint Vallier",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Denain-Voltaire",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:25:17.545Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:25:17.545Z"
+}

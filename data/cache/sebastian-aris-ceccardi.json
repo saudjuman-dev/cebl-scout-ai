@@ -1,0 +1,104 @@
+{
+  "fullName": "SEBASTIAN ARIS CECCARDI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sebastian-Aris-Ceccardi/227939",
+  "height": "6'3'",
+  "currentTeam": "Alicante",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Bakken",
+      "league": "FEL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Bakken",
+      "league": "DEN-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Bakken",
+      "league": "DEN-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Bakken",
+      "league": "FEL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Bakken",
+      "league": "FEL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Bakken",
+      "league": "DEN-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Malbas",
+      "league": "SWE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "2022",
+      "team": "Saskatchewan",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "Kaposvari",
+      "league": "HUN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Melilla",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:01.031Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:01.031Z"
+}

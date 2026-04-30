@@ -1,0 +1,119 @@
+{
+  "fullName": "MARTIN KRAMPELJ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Martin-Krampelj/201727",
+  "height": "6'9'",
+  "currentTeam": "Bilbao",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Krka mladi",
+      "league": "SLO-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Cedevita Olim.",
+      "league": "SLO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Gliwice",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sioux Falls S.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Aguada",
+      "league": "URU-1"
+    },
+    {
+      "year": "2022",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Givova Scafati",
+      "league": "ITA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Astana",
+      "league": "WASL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Iwate",
+      "league": "JPN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Yalovaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:55:53.918Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:55:53.918Z"
+}

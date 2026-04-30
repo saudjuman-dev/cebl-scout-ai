@@ -1,0 +1,38 @@
+{
+  "fullName": "KEREM SOYUCAYLI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kerem-Soyucayli/666354",
+  "currentTeam": "Petkim",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Manisa",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Manisa",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Aliaga Petkim",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:28:10.961Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:28:10.961Z"
+}

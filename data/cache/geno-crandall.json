@@ -1,0 +1,105 @@
+{
+  "fullName": "GENO CRANDALL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Geno-Crandall/343335",
+  "height": "6'3'",
+  "college": "University of North Dakota",
+  "currentTeam": "Benfica",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "N.Dakota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "N.Dakota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "N.Dakota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Svitavy",
+      "league": "CZE-1"
+    },
+    {
+      "year": "2020",
+      "team": "Leicester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Leicester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Leicester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Leicester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Goettingen",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Goettingen",
+      "league": "GER-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Goettingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Oldenburg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:00:39.353Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:00:39.353Z"
+}

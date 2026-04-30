@@ -1,0 +1,94 @@
+{
+  "fullName": "JORDAN RATTON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Ratton/444490",
+  "height": "6'8'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Monaco U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Monaco U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Monaco U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Monaco",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Monaco",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Monaco U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Monaco",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Monaco U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Monaco",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Merelbeke",
+      "league": "BEL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Artland",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:23:28.872Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:23:28.872Z"
+}

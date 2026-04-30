@@ -1,0 +1,79 @@
+{
+  "fullName": "MLADEN VUJIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mladen-Vujic/442368",
+  "height": "6'9'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Zarkovo",
+      "league": "SRB-2"
+    },
+    {
+      "year": "18-19",
+      "team": "OKK Beograd",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "OKK Beograd",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "OKK Beograd",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Vojvodina NS",
+      "league": "SRB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Mega Mozzart",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Mega Mozzart",
+      "league": "SRB-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Podgorica",
+      "league": "ADR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Podgorica",
+      "league": "MNT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lille Metropole",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Giessen 46ers",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Giessen 46ers",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:26:50.461Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:26:50.461Z"
+}

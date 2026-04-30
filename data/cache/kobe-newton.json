@@ -1,0 +1,50 @@
+{
+  "fullName": "KOBE NEWTON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kobe-Newton/570459",
+  "height": "6'2'",
+  "college": "University of Wyoming",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Fullerton JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Fullerton JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wyoming",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wyoming",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:56:40.381Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:56:40.381Z"
+}

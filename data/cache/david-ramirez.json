@@ -1,0 +1,54 @@
+{
+  "fullName": "DAVID RAMIREZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Ramirez/600349",
+  "height": "6'5'",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Real Canoe",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Zentro Basket 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Aridane",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Pas Pielagos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:11:54.228Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:11:54.228Z"
+}

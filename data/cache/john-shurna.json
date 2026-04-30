@@ -1,0 +1,140 @@
+{
+  "fullName": "JOHN SHURNA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/John-Shurna/163443",
+  "height": "6'9'",
+  "college": "College All",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "11-12",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "13-14",
+      "team": "FIATC Joventut",
+      "league": "ESP-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Cedevita ZG",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Cedevita ZG",
+      "league": "ADR-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Cedevita ZG",
+      "league": "CRO-1"
+    },
+    {
+      "year": "17-18",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "17-18",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T19:58:00.814Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T19:58:00.814Z"
+}

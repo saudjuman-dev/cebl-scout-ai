@@ -1,0 +1,49 @@
+{
+  "fullName": "ANIL ALYANAK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anil-Alyanak/737412",
+  "height": "6'9'",
+  "currentTeam": "Mersin Spor",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Mersin",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mersin Spor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Dubai Basketball Aca",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "NGT Abu Dhabi",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Mersin Spor",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:29:26.984Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:29:26.984Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "AURELE BRENA-CHEMILLE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aurele-Brena-Chemille/541465",
+  "height": "6'4'",
+  "currentTeam": "Poitiers",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "CFBB Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Angers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:23:17.177Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:23:17.177Z"
+}

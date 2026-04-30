@@ -1,0 +1,64 @@
+{
+  "fullName": "JD MUILA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/JD-Muila/503615",
+  "height": "6'8'",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "SIU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "SIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "SIU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "SIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Froya Basket",
+      "league": "NOR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Den Helder",
+      "league": "NED-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Den Helder",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:55:21.882Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:55:21.882Z"
+}

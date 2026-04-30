@@ -1,0 +1,130 @@
+{
+  "fullName": "KYLE ALEXANDER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Alexander/366758",
+  "height": "6'10'",
+  "college": "University of Tennessee",
+  "currentTeam": "Turk Telekom",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Sioux Falls S.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2021",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2022",
+      "team": "Portland TB",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Scarborough",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2023",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Hapoel TA",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hapoel TA",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:17:41.209Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:17:41.209Z"
+}

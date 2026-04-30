@@ -1,0 +1,49 @@
+{
+  "fullName": "ANTONIO MENDES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antonio-Mendes/338660",
+  "height": "6'8'",
+  "currentTeam": "Vitoria SC",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Martigny",
+      "league": "SUI-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Queluz",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Electrico FC",
+      "league": "POR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Belenenses",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "San Fernando",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:05:57.778Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:05:57.778Z"
+}

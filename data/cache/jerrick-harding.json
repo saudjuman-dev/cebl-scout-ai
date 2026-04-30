@@ -1,0 +1,99 @@
+{
+  "fullName": "JERRICK HARDING",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jerrick-Harding/413980",
+  "height": "6'1'",
+  "currentTeam": "Rytas",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nymburk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nymburk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nymburk",
+      "league": "CZE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nymburk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nymburk",
+      "league": "CZE-1"
+    },
+    {
+      "year": "2022",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Manresa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MoraBanc Andorra",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rytas",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:52:21.915Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:52:21.915Z"
+}

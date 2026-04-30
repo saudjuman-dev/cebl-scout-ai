@@ -1,0 +1,49 @@
+{
+  "fullName": "ALAN GARCIA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alan-Garcia/711749",
+  "height": "6'6'",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona U18 tea",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:57:06.223Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:57:06.223Z"
+}

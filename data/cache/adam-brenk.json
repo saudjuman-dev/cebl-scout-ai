@@ -1,0 +1,104 @@
+{
+  "fullName": "ADAM BRENK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adam-Brenk/227838",
+  "height": "6'4'",
+  "currentTeam": "Arriva P.Cukier",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "14-15",
+      "team": "AZS PG",
+      "league": "POL-3"
+    },
+    {
+      "year": "15-16",
+      "team": "SKK Siedlce",
+      "league": "POL-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Leszno",
+      "league": "POL-2"
+    },
+    {
+      "year": "17-18",
+      "team": "AZS PG",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Polpharma",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Polpharma",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Opole",
+      "league": "POL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arriva P.Cukier",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:46:13.522Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:46:13.522Z"
+}

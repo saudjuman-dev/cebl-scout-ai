@@ -1,0 +1,49 @@
+{
+  "fullName": "FARUK BIBEROVIC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Faruk-Biberovic/666325",
+  "height": "6'9'",
+  "currentTeam": "Fenerbahce",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Fenerbahce",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Fenerbahce",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Fenerbahce 2",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce 2",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce 2",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:26:19.472Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:26:19.472Z"
+}

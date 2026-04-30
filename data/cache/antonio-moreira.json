@@ -1,0 +1,64 @@
+{
+  "fullName": "ANTONIO MOREIRA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antonio-Moreira/259322",
+  "height": "6'5'",
+  "currentTeam": "Braga",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Imortal",
+      "league": "POR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Galomar",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Galomar",
+      "league": "POR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Huelva",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Madeira",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Madeira",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Braga",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:01:41.082Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:01:41.082Z"
+}

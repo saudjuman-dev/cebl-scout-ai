@@ -1,0 +1,29 @@
+{
+  "fullName": "CARLOS MIJARES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Mijares/650353",
+  "height": "6'3'",
+  "currentTeam": "Oliveirense",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Diablos",
+      "league": "VEN-1"
+    },
+    {
+      "year": "2024",
+      "team": "Pioneros",
+      "league": "VEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:44.134Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:44.134Z"
+}

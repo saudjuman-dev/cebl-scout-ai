@@ -1,0 +1,114 @@
+{
+  "fullName": "EMMANUEL WEMBI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emmanuel-Wembi/396790",
+  "height": "6'9'",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Catawba Valley",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Catawba Valley",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Lenoir-Rhyne",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Lenoir-Rhyne",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Lenoir-Rhyne",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Alkar",
+      "league": "CRO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Tartu Ulikoo",
+      "league": "EST-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Tallinna Kalev",
+      "league": "EST-1"
+    },
+    {
+      "year": "2021",
+      "team": "Tartu Ulikoo",
+      "league": "EST-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tartu Ulikoo",
+      "league": "LAES-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tartu Ulikoo",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "2022",
+      "team": "Tartu Ulikoo",
+      "league": "EST-1"
+    },
+    {
+      "year": "22-23",
+      "team": "BK Ventspils",
+      "league": "LAES-1"
+    },
+    {
+      "year": "22-23",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "BK Ventspils",
+      "league": "LAT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Libertadores de Queretaro",
+      "league": "MEX-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis Se",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2024",
+      "team": "Mineros",
+      "league": "MEX-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Longevida SP",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:50:07.286Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:50:07.286Z"
+}

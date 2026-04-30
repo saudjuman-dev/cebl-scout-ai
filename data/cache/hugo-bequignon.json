@@ -1,0 +1,49 @@
+{
+  "fullName": "HUGO BEQUIGNON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Bequignon/521651",
+  "height": "6'4'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Blois",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Blois",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Vitre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Vitre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Tours",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:04.560Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:04.560Z"
+}

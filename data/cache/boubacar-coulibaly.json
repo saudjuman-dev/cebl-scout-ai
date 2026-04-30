@@ -1,0 +1,55 @@
+{
+  "fullName": "BOUBACAR COULIBALY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Boubacar-Coulibaly/526623",
+  "height": "6'10'",
+  "college": "University of Southern California",
+  "currentTeam": "Alicante",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Pepperdine",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Pepperdine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pepperdine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pepperdine",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Pepperdine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Alicante",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:51:02.023Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:51:02.023Z"
+}

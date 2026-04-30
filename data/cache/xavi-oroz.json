@@ -1,0 +1,99 @@
+{
+  "fullName": "XAVI OROZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Xavi-Oroz/255770",
+  "height": "6'4'",
+  "currentTeam": "Palencia",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Gipuzkoa SSe.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "RETAbet Gip.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "RETAbet Gip.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Coviran Granada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Palencia",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:47:23.501Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:47:23.501Z"
+}

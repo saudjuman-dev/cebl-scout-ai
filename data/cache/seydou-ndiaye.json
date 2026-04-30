@@ -1,0 +1,49 @@
+{
+  "fullName": "SEYDOU NDIAYE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Seydou-Ndiaye/573246",
+  "height": "6'5'",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Union Tours",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Union Tours",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Mulhouse",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:10.540Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:10.540Z"
+}

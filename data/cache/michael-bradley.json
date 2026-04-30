@@ -1,0 +1,54 @@
+{
+  "fullName": "MICHAEL BRADLEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Bradley/535295",
+  "height": "6'1'",
+  "currentTeam": "Queluz",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Mercyhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Mercyhurst",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Mercyhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Mercyhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Mercyhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "NKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:06:26.716Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:06:26.716Z"
+}

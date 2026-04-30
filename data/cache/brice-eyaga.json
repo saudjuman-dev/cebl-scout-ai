@@ -1,0 +1,39 @@
+{
+  "fullName": "BRICE EYAGA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brice-Eyaga/531051",
+  "height": "6'9'",
+  "currentTeam": "Vichy",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Manga",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "FAP",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vichy",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:30.769Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:30.769Z"
+}

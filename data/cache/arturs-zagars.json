@@ -1,0 +1,104 @@
+{
+  "fullName": "ARTURS ZAGARS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Arturs-Zagars/349231",
+  "height": "6'3'",
+  "currentTeam": "Fenerbahce",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Arenys",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Joventut",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Divina Joventut",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Divina Joventut",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Joventut BDL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    },
+    {
+      "year": "2022",
+      "team": "Washington W.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wolves Vilnius",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wolves Vilnius",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:26:12.474Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:26:12.474Z"
+}

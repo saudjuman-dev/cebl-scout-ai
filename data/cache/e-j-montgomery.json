@@ -1,0 +1,65 @@
+{
+  "fullName": "E.J. MONTGOMERY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/EJ-Montgomery/364941",
+  "height": "6'10'",
+  "college": "college\nYear",
+  "currentTeam": "MKS DG",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Kentucky",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Kentucky",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "2021",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Sopron KC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Aomori W.",
+      "league": "JPN-2"
+    },
+    {
+      "year": "2023",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Aomori W.",
+      "league": "JPN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Birmingham S.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:50:40.828Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:50:40.828Z"
+}

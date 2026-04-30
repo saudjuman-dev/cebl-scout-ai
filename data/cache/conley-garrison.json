@@ -1,0 +1,69 @@
+{
+  "fullName": "CONLEY GARRISON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Conley-Garrison/453367",
+  "height": "6'1'",
+  "currentTeam": "Zastal",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Drury",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Drury",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Drury",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Drury",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Furman",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Furman",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Mons-Hainaut",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mons-Hainaut",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mons-Hainaut",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zastal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:43:25.821Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:43:25.821Z"
+}

@@ -1,0 +1,65 @@
+{
+  "fullName": "COURTNEY RAMEY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Courtney-Ramey/436886",
+  "height": "6'3'",
+  "college": "University of Texas",
+  "currentTeam": "Arka",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arizona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Weissenfels",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "P.Cukier Start",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PGE Start",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:46:38.893Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:46:38.893Z"
+}

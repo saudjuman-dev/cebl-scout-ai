@@ -1,0 +1,99 @@
+{
+  "fullName": "JAKUB URBANIAK",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Urbaniak/514766",
+  "height": "6'9'",
+  "currentTeam": "Slask",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Sojky P.",
+      "league": "CZE-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Fio Jindrichuv",
+      "league": "CZE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sojky P.",
+      "league": "CZE-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Pelhrimov",
+      "league": "CZE-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl Sopot",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2025",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:40:15.657Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:40:15.657Z"
+}

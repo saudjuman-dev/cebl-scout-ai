@@ -1,0 +1,79 @@
+{
+  "fullName": "EMRE TANISAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emre-Tanisan/368720",
+  "height": "6'9'",
+  "currentTeam": "Merkezefendi",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Tofas Gelisim",
+      "league": "RUS-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Bursaspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Balikesir BBS",
+      "league": "TUR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Gemlik",
+      "league": "TUR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tofas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tofas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Petkim",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mersin",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Merkezefendi",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:20:58.553Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:20:58.553Z"
+}

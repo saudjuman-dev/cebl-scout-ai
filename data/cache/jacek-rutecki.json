@@ -1,0 +1,74 @@
+{
+  "fullName": "JACEK RUTECKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jacek-Rutecki/642093",
+  "height": "6'4'",
+  "currentTeam": "Stal",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Stal Ostrow 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Stal Ostrow 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Arged BM Stal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Stal Ostrow",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Stal Ostrow 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arged Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Stal Ostrow",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Stal Ostrow 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pleszew",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:44:47.510Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:44:47.510Z"
+}

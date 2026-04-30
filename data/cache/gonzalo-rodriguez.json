@@ -1,0 +1,59 @@
+{
+  "fullName": "GONZALO RODRIGUEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gonzalo-Rodriguez/604082",
+  "height": "6'4'",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Tormes",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Casablanca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Alfinden ZR",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Huerva",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:00:07.489Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:00:07.489Z"
+}

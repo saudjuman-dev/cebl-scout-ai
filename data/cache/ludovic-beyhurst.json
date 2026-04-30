@@ -1,0 +1,124 @@
+{
+  "fullName": "LUDOVIC BEYHURST",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ludovic-Beyhurst/297213",
+  "height": "5'8'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Strasbourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Strasbourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Strasbourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Strasbourg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Podgorica",
+      "league": "ADR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Podgorica",
+      "league": "MNT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:13.481Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:13.481Z"
+}

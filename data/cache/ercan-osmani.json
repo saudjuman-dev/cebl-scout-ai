@@ -1,0 +1,89 @@
+{
+  "fullName": "ERCAN OSMANI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ercan-Osmani/448164",
+  "height": "7'0'",
+  "currentTeam": "Anadolu Efes",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Bandirma BK",
+      "league": "TUR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Banvit",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Banvit",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bandirma BK Balikesir",
+      "league": "TUR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Darussafaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Anadolu Efes",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:18:14.583Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:18:14.583Z"
+}

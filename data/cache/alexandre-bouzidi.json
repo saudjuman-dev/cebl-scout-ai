@@ -1,0 +1,64 @@
+{
+  "fullName": "ALEXANDRE BOUZIDI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alexandre-Bouzidi/549220",
+  "height": "6'6'",
+  "currentTeam": "Vichy",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Roanne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vichy",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:22:55.696Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:22:55.696Z"
+}

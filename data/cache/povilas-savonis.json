@@ -1,0 +1,24 @@
+{
+  "fullName": "POVILAS SAVONIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Povilas-Savonis/718181",
+  "height": "6'5'",
+  "currentTeam": "Zalgiris",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:59:37.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:59:37.361Z"
+}

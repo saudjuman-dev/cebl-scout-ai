@@ -1,0 +1,94 @@
+{
+  "fullName": "GIORGOS FILLIOS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giorgos-Fillios/479342",
+  "height": "6'5'",
+  "currentTeam": "PAOK",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Iraklis",
+      "league": "GRE-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraklis",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Aris",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Aris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Aris Midea",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "AEK Betsson",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Aris Midea",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T20:05:17.792Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T20:05:17.792Z"
+}

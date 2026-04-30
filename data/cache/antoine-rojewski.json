@@ -1,0 +1,54 @@
+{
+  "fullName": "ANTOINE ROJEWSKI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antoine-Rojewski/477830",
+  "height": "6'5'",
+  "currentTeam": "Caen",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "JDA Dijon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "JDA Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Loon-Plage",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Caen",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:31:14.514Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:31:14.514Z"
+}

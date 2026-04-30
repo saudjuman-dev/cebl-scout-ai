@@ -1,0 +1,44 @@
+{
+  "fullName": "GUILLAUME GROTZINGER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Guillaume-Grotzinger/585211",
+  "height": "6'3'",
+  "currentTeam": "Champagne",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nancy U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Nancy U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Champagne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Champagne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:27:30.547Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:27:30.547Z"
+}

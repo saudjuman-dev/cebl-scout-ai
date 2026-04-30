@@ -1,0 +1,49 @@
+{
+  "fullName": "SIDNEY CORREIA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sidney-Correia/530653",
+  "height": "6'9'",
+  "currentTeam": "Moron",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Braga",
+      "league": "POR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Moron",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:06:50.003Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:06:50.003Z"
+}

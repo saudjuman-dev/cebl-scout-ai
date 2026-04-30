@@ -1,0 +1,39 @@
+{
+  "fullName": "JONATHAN SILVA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Silva/625110",
+  "height": "6'7'",
+  "currentTeam": "Ovarense",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ovarense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-04-30T21:02:10.900Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T21:02:10.900Z"
+}

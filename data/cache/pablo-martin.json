@@ -1,0 +1,54 @@
+{
+  "fullName": "PABLO MARTIN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Martin/530131",
+  "height": "6'7'",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "La Flecha",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "La Flecha",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "La Flecha",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Valladolid",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-04-30T22:06:37.044Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-04-30T22:06:37.044Z"
+}
