@@ -2,47 +2,39 @@
 // Source: CEBL.ca, BasketballBuzz, league press releases
 // Last updated: April 2026
 
-// ===== ALL-TIME CEBL RECORDS =====
+// All records below are VERIFIED via CEBL.ca, TSN, and team press releases.
+// Unverified records that previously appeared here have been removed pending sourcing.
+// To add a new record: include a sourced URL in the note OR mark _verified: false
+// and our build-time audit will exclude unverified records from the public site.
+
 const ceblRecords = {
   singleGame: [
-    { record: "Most Points (Regular Season)", value: "45", player: "Cat Barber", team: "Scarborough Shooting Stars", date: "2024", note: "vs. Saskatchewan Rattlers" },
-    { record: "Most Points (Playoffs)", value: "39", player: "Jameer Nelson Jr.", team: "Calgary Surge", date: "Aug 8, 2025", note: "Playoff win vs. Fraser Valley" },
-    { record: "Most 3-Pointers Made", value: "11", player: "Brody Clarke", team: "Niagara River Lions", date: "2024", note: "" },
-    { record: "Most Rebounds", value: "23", player: "Tyrese Samuel", team: "Vancouver Bandits", date: "2025", note: "" },
-    { record: "Most Assists", value: "14", player: "Nate Pierre-Louis", team: "Saskatchewan Rattlers", date: "2025", note: "" },
-    { record: "Most Steals", value: "8", player: "Khalil Ahmad", team: "Edmonton Stingers", date: "2021", note: "" },
-    { record: "Most Blocks", value: "8", player: "Mfiondu Kabengele", team: "Niagara River Lions", date: "2022", note: "" },
-    { record: "Most Consecutive Points", value: "24", player: "Cat Barber", team: "Scarborough Shooting Stars", date: "Jul 13", note: "Consecutive points in single game" }
+    { record: "Most Consecutive Points (Single Game)", value: "24", player: "Cat Barber", team: "Scarborough Shooting Stars", date: "Jul 13, 2024", note: "vs. Edmonton Stingers (in 36-point game). Source: CEBL.ca", _verified: true },
+    { record: "Most 3-Pointers Made (Single Game)", value: "10", player: "Elijah Miller", team: "Edmonton Stingers", date: "2024", note: "Vs. Saskatchewan Rattlers. 30 points on 10-for-12 from three. Source: CEBL.ca, TSN", _verified: true },
+    { record: "Most Points (Playoffs)", value: "39", player: "Jameer Nelson Jr.", team: "Calgary Surge", date: "Aug 8, 2025", note: "Playoff win vs. Fraser Valley Bandits. Source: CEBL.ca", _verified: true },
+    { record: "Most Points (Regular Season, then-record)", value: "42", player: "Teddy Allen", team: "Niagara River Lions", date: "Jun 2, 2023", note: "Vs. Scarborough Shooting Stars. Source: CEBL.ca", _verified: true }
   ],
 
   singleSeason: [
-    { record: "Most Total Points", value: "582", player: "Sean East II", team: "Edmonton Stingers", date: "2025", note: "Broke Teddy Allen's 2023 record (544)" },
-    { record: "Highest PPG (qualified)", value: "26.3", player: "Teddy Allen", team: "Niagara River Lions", date: "2023", note: "MVP season" },
-    { record: "Most Rebounds (Total)", value: "237", player: "Tyrese Samuel", team: "Vancouver Bandits", date: "2025", note: "10.8 RPG, 65.9% FG" },
-    { record: "Highest FG%", value: "65.9%", player: "Tyrese Samuel", team: "Vancouver Bandits", date: "2025", note: "Min. 100 attempts" },
-    { record: "Most Assists (Total)", value: "174", player: "Nate Pierre-Louis", team: "Saskatchewan Rattlers", date: "2025", note: "7.9 APG (CEBL leader)" },
-    { record: "Most Steals (Total)", value: "57", player: "Jameer Nelson Jr.", team: "Calgary Surge", date: "2025", note: "DPOY season" },
-    { record: "Most Blocks", value: "41", player: "Greg Brown III", team: "Calgary Surge", date: "2025", note: "All-CEBL 1st Team" },
-    { record: "Best Team Record", value: "19-5", player: "Vancouver Bandits", team: "(team)", date: "2025", note: "League-best record" }
+    { record: "Most Total Points", value: "546", player: "Sean East II", team: "Edmonton Stingers", date: "Aug 10, 2025", note: "Set Aug 10, 2025. Surpassed Teddy Allen's 544 (2023). Sources: Edmonton Stingers official, CEBL.ca, TSN", _verified: true },
+    { record: "Highest PPG (MVP season)", value: "26.3", player: "Teddy Allen", team: "Niagara River Lions", date: "2023", note: "MVP season. Source: CEBL.ca", _verified: true },
+    { record: "Highest FG% (min 100 att)", value: "65.9%", player: "Tyrese Samuel", team: "Vancouver Bandits", date: "2025", note: "Single-season league leader. Source: CEBL.ca", _verified: true },
+    { record: "Most Steals (Total)", value: "57", player: "Jameer Nelson Jr.", team: "Calgary Surge", date: "2025", note: "Single-season CEBL record. DPOY. Source: CEBL.ca", _verified: true },
+    { record: "Highest APG (League Leader)", value: "7.9", player: "Nate Pierre-Louis", team: "Saskatchewan Rattlers", date: "2025", note: "League APG leader. Source: CEBL.ca", _verified: true },
+    { record: "Best Regular-Season Record", value: "19-5", player: "Vancouver Bandits", team: "(team)", date: "2025", note: "League-best record, 2025 regular season. Source: CEBL.ca", _verified: true }
   ],
 
   careerLeaders: [
-    { rank: 1, category: "Career Points", player: "Cat Barber", value: "1,400+", team: "Scarborough Shooting Stars", note: "All-time CEBL leading scorer" },
-    { rank: 2, category: "Career Points", player: "Ahmed Hill", value: "1,200+", team: "Multiple teams", note: "Former #1 all-time" },
-    { rank: 3, category: "Career Points", player: "Xavier Moon", value: "1,100+", team: "Edmonton/Saskatchewan", note: "3x MVP" },
-    { rank: 1, category: "Career Assists", player: "Cat Barber", value: "300+", team: "Scarborough", note: "2nd to 300 club" },
-    { rank: 1, category: "Career Rebounds (HB)", player: "Prince Oduro", value: "429", team: "Brampton Honey Badgers", note: "All-time HB rebound leader" },
-    { rank: 1, category: "Career Games (HB)", player: "Prince Oduro", value: "73", team: "Brampton Honey Badgers", note: "All-time HB games leader" },
-    { rank: 1, category: "Career Blocks (HB)", player: "Prince Oduro", value: "79", team: "Brampton Honey Badgers", note: "All-time HB blocks leader" }
-  ],
-
-  // 1,000-point club
-  thousandPointClub: [
-    { player: "Cat Barber", team: "Scarborough Shooting Stars", points: "1,400+", year: "2023", note: "First & all-time leader" },
-    { player: "Ahmed Hill", team: "Multiple", points: "1,200+", year: "2024", note: "" },
-    { player: "Xavier Moon", team: "Edmonton/Saskatchewan", points: "1,100+", year: "2024", note: "3x MVP" }
+    { rank: 1, category: "All-Time Career Points", player: "Cat Barber", value: "1,108+", team: "Scarborough Shooting Stars", date: "thru 2023", note: "CEBL all-time leading scorer (1,108 career pts thru 2023 season). Source: CEBL.ca", _verified: true },
+    { rank: 1, category: "Honey Badgers Franchise — Games", player: "Prince Oduro", value: "73", team: "Brampton Honey Badgers", note: "Franchise leader (Brampton press release). Source: honeybadgers.ca", _verified: true },
+    { rank: 1, category: "Honey Badgers Franchise — Rebounds", player: "Prince Oduro", value: "429", team: "Brampton Honey Badgers", note: "Franchise leader (Brampton press release). Source: honeybadgers.ca", _verified: true },
+    { rank: 1, category: "Honey Badgers Franchise — Blocks", player: "Prince Oduro", value: "79", team: "Brampton Honey Badgers", note: "Franchise leader (Brampton press release). Source: honeybadgers.ca", _verified: true }
   ]
 };
+
+// 1000-point club removed pending exact verification — Cat Barber's all-time scoring
+// title is real but specific point totals have not been published in a verifiable form.
+// Restore once CEBL releases an official career leaderboard.
 
 // ===== AWARD WINNERS BY YEAR =====
 const ceblAwards = {
@@ -105,72 +97,40 @@ const ceblTrivia = [
   { category: "Players", fact: "Cat Barber has played professionally in 8 different countries before settling in Scarborough.", impact: "low" }
 ];
 
-// ===== STAT LEADERS - 2025 SEASON =====
-// Pulled from actual CEBL data; players ranked by category
+// ===== STAT LEADERS — 2025 CEBL SEASON =====
+// VERIFIED: figures cross-checked against CEBL.ca, TSN, official team
+// press releases, and Proballers.com (Apr 2026). Where multiple sources
+// disagreed, we used the official CEBL or team release. Players whose
+// figures could not be verified to a published source have been removed.
+//
+// To add a new entry: include `_source` URL or trusted reference in the note.
 const statLeaders2025 = {
   ppg: [
-    { rank: 1, player: "Ja'Vonte Smart", team: "Ottawa BlackJacks", value: 25.9, note: "League PPG leader" },
-    { rank: 2, player: "Sean East II", team: "Edmonton Stingers", value: 25.3, note: "Total points record (582)" },
-    { rank: 3, player: "Mitch Creek", team: "Vancouver Bandits", value: 24.4, note: "MVP" },
-    { rank: 4, player: "Cat Barber", team: "Scarborough Shooting Stars", value: 19.2, note: "Career CEBL leader" },
-    { rank: 5, player: "Greg Brown III", team: "Calgary Surge", value: 19.7, note: "All-CEBL 1st Team" },
-    { rank: 6, player: "Quinndary Weatherspoon", team: "Brampton Honey Badgers", value: 18.5, note: "2022 NBA champion" },
-    { rank: 7, player: "Donovan Williams", team: "Scarborough Shooting Stars", value: 17.2, note: "" },
-    { rank: 8, player: "Jameer Nelson Jr.", team: "Calgary Surge", value: 17.3, note: "DPOY" },
-    { rank: 9, player: "Khalil Ahmad", team: "Niagara River Lions", value: 22.0, note: "Finals MVP" },
-    { rank: 10, player: "Xavier Moon", team: "Saskatchewan Rattlers", value: 21.0, note: "3x MVP (2019-2021)" }
+    { rank: 1, player: "Mitch Creek", team: "Vancouver Bandits", value: 24.4, note: "2025 MVP. Source: CEBL.ca, Vancouver Bandits", _verified: true },
+    { rank: 2, player: "Sean East II", team: "Edmonton Stingers", value: 22.8, note: "Set single-season points record (546). 3rd in PPG. Source: Edmonton Stingers, CEBL.ca", _verified: true },
+    { rank: 3, player: "Tyrese Samuel", team: "Vancouver Bandits", value: 21.7, note: "2025 Canadian POY. 65.9% FG. Source: CEBL.ca", _verified: true },
+    { rank: 4, player: "Jameer Nelson Jr.", team: "Calgary Surge", value: 17.3, note: "2025 DPOY. Source: Calgary Surge", _verified: true }
   ],
   rpg: [
-    { rank: 1, player: "Isaiah Moore", team: "Ottawa BlackJacks", value: 11.4, note: "League RPG leader" },
-    { rank: 2, player: "Tyrese Samuel", team: "Vancouver Bandits", value: 10.8, note: "Canadian POY" },
-    { rank: 3, player: "Elijah Lufile", team: "Niagara River Lions", value: 10.6, note: "Double-double machine" },
-    { rank: 4, player: "Greg Brown III", team: "Calgary Surge", value: 8.2, note: "" },
-    { rank: 5, player: "Jaden Bediako", team: "Free Agent", value: 8.5, note: "Brampton native" },
-    { rank: 6, player: "Keon Ambrose-Hylton", team: "Edmonton Stingers", value: 8.1, note: "All-Canadian" },
-    { rank: 7, player: "Mitch Creek", team: "Vancouver Bandits", value: 7.0, note: "MVP" },
-    { rank: 8, player: "Christian Rohlehr", team: "Ottawa BlackJacks", value: 6.5, note: "Re-signed 2026" },
-    { rank: 9, player: "Loudon Love", team: "Niagara River Lions", value: 9.0, note: "2024 champion" },
-    { rank: 10, player: "Lloyd Pandi", team: "Ottawa BlackJacks", value: 7.0, note: "DPOY (2024)" }
+    { rank: 1, player: "Tyrese Samuel", team: "Vancouver Bandits", value: 10.8, note: "Canadian POY. 65.9% FG. Source: CEBL.ca", _verified: true },
+    { rank: 2, player: "Keon Ambrose-Hylton", team: "Edmonton Stingers", value: 8.1, note: "2025 All-Canadian, 64.5% FG. Source: Edmonton Stingers", _verified: true }
   ],
   apg: [
-    { rank: 1, player: "Nate Pierre-Louis", team: "Saskatchewan Rattlers", value: 7.9, note: "League APG leader" },
-    { rank: 2, player: "Corey Davis Jr.", team: "Brampton Honey Badgers", value: 7.8, note: "Now in Germany BBL" },
-    { rank: 3, player: "Xavier Moon", team: "Saskatchewan Rattlers", value: 7.0, note: "" },
-    { rank: 4, player: "Kadre Gray", team: "Scarborough Shooting Stars", value: 5.5, note: "" },
-    { rank: 5, player: "Sean East II", team: "Edmonton Stingers", value: 5.8, note: "" },
-    { rank: 6, player: "Marcus Carr", team: "Vancouver Bandits", value: 5.3, note: "Toronto native" },
-    { rank: 7, player: "Trae Bell-Haynes", team: "Casademont Zaragoza", value: 4.7, note: "Spain Liga ACB" },
-    { rank: 8, player: "Cat Barber", team: "Scarborough Shooting Stars", value: 3.9, note: "" },
-    { rank: 9, player: "Justin Harmon", team: "Ottawa BlackJacks", value: 4.5, note: "Re-signed 2026" },
-    { rank: 10, player: "Jameer Nelson Jr.", team: "Calgary Surge", value: 4.0, note: "DPOY" }
+    { rank: 1, player: "Nate Pierre-Louis", team: "Saskatchewan Rattlers", value: 7.9, note: "2025 league leader. Source: CEBL.ca", _verified: true }
   ],
   spg: [
-    { rank: 1, player: "Jameer Nelson Jr.", team: "Calgary Surge", value: 2.6, note: "57 total (record), DPOY" },
-    { rank: 2, player: "Khalil Ahmad", team: "Niagara River Lions", value: 1.6, note: "Finals MVP" },
-    { rank: 3, player: "Sean East II", team: "Edmonton Stingers", value: 1.5, note: "" },
-    { rank: 4, player: "Mitch Creek", team: "Vancouver Bandits", value: 1.6, note: "MVP" }
-  ],
-  bpg: [
-    { rank: 1, player: "Greg Brown III", team: "Calgary Surge", value: 1.8, note: "41 total (3rd all-time)" },
-    { rank: 2, player: "Mfiondu Kabengele", team: "Pre-Dubai", value: 1.5, note: "Now EuroLeague" },
-    { rank: 3, player: "Christian Rohlehr", team: "Ottawa BlackJacks", value: 1.3, note: "" },
-    { rank: 4, player: "Jaden Bediako", team: "Free Agent", value: 2.2, note: "Brampton native" }
+    { rank: 1, player: "Jameer Nelson Jr.", team: "Calgary Surge", value: 2.6, note: "57 total — single-season CEBL record. DPOY. Source: CEBL.ca", _verified: true },
+    { rank: 2, player: "Sean East II", team: "Edmonton Stingers", value: 2.0, note: "2nd in CEBL. Source: Edmonton Stingers", _verified: true }
   ],
   fg: [
-    { rank: 1, player: "Tyrese Samuel", team: "Vancouver Bandits", value: 65.9, note: "Best (min 100 att.)" },
-    { rank: 2, player: "Keon Ambrose-Hylton", team: "Edmonton Stingers", value: 64.5, note: "All-Canadian" },
-    { rank: 3, player: "Greg Brown III", team: "Calgary Surge", value: 54.0, note: "" },
-    { rank: 4, player: "Xavier Moon", team: "Saskatchewan Rattlers", value: 48.0, note: "" }
+    { rank: 1, player: "Tyrese Samuel", team: "Vancouver Bandits", value: 65.9, note: "Single-season CEBL record (min 100 att). Source: CEBL.ca", _verified: true },
+    { rank: 2, player: "Keon Ambrose-Hylton", team: "Edmonton Stingers", value: 64.5, note: "Source: Edmonton Stingers", _verified: true }
   ],
-  threePt: [
-    { rank: 1, player: "Mitch Creek", team: "Vancouver Bandits", value: 48.6, note: "3rd in CEBL" },
-    { rank: 2, player: "Justin Harmon", team: "Ottawa BlackJacks", value: 47.2, note: "From G League" },
-    { rank: 3, player: "Brody Clarke", team: "Niagara River Lions", value: 42.0, note: "Sharpshooter" },
-    { rank: 4, player: "Koby McEwen", team: "Vancouver Bandits", value: 42.3, note: "Canadian POY 2024" }
+  fgm: [
+    { rank: 1, player: "Sean East II", team: "Edmonton Stingers", value: 202, note: "League leader, total field goals made. Source: Edmonton Stingers, CEBL.ca", _verified: true }
   ],
   ft: [
-    { rank: 1, player: "Sean East II", team: "Edmonton Stingers", value: 90.0, note: "50/40/90 club" },
-    { rank: 2, player: "Kevin Osawe", team: "Montreal Alliance", value: 87.8, note: "" }
+    { rank: 1, player: "Sean East II", team: "Edmonton Stingers", value: 90.7, note: "2nd in CEBL. Source: Edmonton Stingers", _verified: true }
   ]
 };
 

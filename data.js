@@ -236,7 +236,7 @@ const canadiansPro = [
 
   { name: "Kur Jongkuch", pos: "F", age: 25, ht: "6'8\"", team: "Vancouver Bandits", league: "CEBL", ppg: 9.5, rpg: 6.0, apg: 1.0, fit: "High", salary: "$700-$900", character: "Good", hometown: "London, ON", note: "Team Canada call-up in 2025. Born in South Sudan. Physical forward.", agent: "" },
 
-  { name: "Justin Ndjock-Tadjore", pos: "F", age: 25, ht: "6'8\"", team: "BK Ogre (Estonia-Latvia)", league: "Europe - Estonian-Latvian BBL", ppg: 10.0, rpg: 5.5, apg: 1.0, fit: "High", salary: "$600-$800", character: "Good", hometown: "Ottawa, ON", note: "Signed Ottawa BlackJacks for 2026. 3rd CEBL campaign. Estonian-Latvian league.", agent: "" },
+  { name: "Justin Ndjock-Tadjoré", pos: "F", age: 25, ht: "6'8\"", team: "BK Ogre (Estonia-Latvia)", league: "Europe - Estonian-Latvian BBL", ppg: 10.0, rpg: 5.5, apg: 1.0, fit: "High", salary: "$600-$800", character: "Good", hometown: "Ottawa, ON", note: "Signed Ottawa BlackJacks for 2026. 3rd CEBL campaign. Estonian-Latvian league.", agent: "" },
 
   { name: "Devoe Joseph", pos: "G", age: 32, ht: "6'4\"", team: "Scarborough Shooting Stars", league: "CEBL", ppg: 11.5, rpg: 3.5, apg: 3.0, fit: "Medium", salary: "$900-$1,100", character: "Good", hometown: "Scarborough, ON", note: "23 years pro experience. Scarborough native. Playing at home for first time since HS.", agent: "" },
 
@@ -356,7 +356,7 @@ const importTargets = [
 
   { name: "Ja'Vonte Smart", nationality: "USA", pos: "G", age: 25, ht: "6'4\"", team: "Free Agent (2025 Ottawa)", league: "CEBL", ppg: 25.9, rpg: 3.5, apg: 5.0, fit: "High", salary: "$1,200-$1,500", note: "2025 CEBL PPG leader (25.9). LSU product. Elite scorer available for signing.", agent: "" },
 
-  { name: "Isaih Moore", nationality: "USA", pos: "C", age: 25, ht: "6'10\"", team: "Free Agent (2025 Ottawa)", league: "CEBL", ppg: 14.0, rpg: 11.4, apg: 1.5, fit: "High", salary: "$900-$1,100", note: "2025 CEBL RPG leader (11.4). Dominant rebounder. NC State product.", agent: "" },
+  { name: "Isaiah Moore", nationality: "USA", pos: "C", age: 25, ht: "6'10\"", team: "Free Agent (2025 Ottawa)", league: "CEBL", ppg: 14.0, rpg: 11.4, apg: 1.5, fit: "High", salary: "$900-$1,100", note: "2025 CEBL RPG leader (11.4). Dominant rebounder. NC State product.", agent: "" },
 
   { name: "Corey Davis Jr.", nationality: "USA", pos: "G", age: 27, ht: "6'1\"", team: "Niners Chemnitz (Germany BBL)", league: "Europe - Germany BBL", ppg: 15.5, rpg: 3.0, apg: 7.8, fit: "High", salary: "$1,000-$1,200", note: "2025 CEBL APG leader (7.8). Signed with Niners Chemnitz (Germany BBL) post-CEBL. Houston product.", agent: "" },
 
@@ -397,7 +397,7 @@ const importTargets = [
   { name: "Jackson", nationality: "USA", pos: "G", age: 25, ht: "6'3\"", team: "Ottawa BlackJacks", league: "CEBL", ppg: 10.5, rpg: 2.8, apg: 3.5, fit: "Medium", salary: "$700-$900", note: "Welcomed back by Ottawa for 2026.", agent: "" },
 
   // === New 2024-2025 CEBL Imports ===
-  { name: "Taze Moore", nationality: "USA", pos: "G/F", age: 26, ht: "6'5\"", team: "Vancouver 2024", league: "CEBL", ppg: 20.5, rpg: 5.5, apg: 4.0, fit: "High", salary: "$1,200-$1,500", note: "2024 CEBL MVP. Houston product. Elite two-way player.", agent: "" },
+  { name: "Tazé Moore", nationality: "USA", pos: "G/F", age: 26, ht: "6'5\"", team: "Vancouver 2024", league: "CEBL", ppg: 20.5, rpg: 5.5, apg: 4.0, fit: "High", salary: "$1,200-$1,500", note: "2024 CEBL MVP. Houston product. Elite two-way player.", agent: "" },
 
   { name: "Mitch Creek", nationality: "AUS", pos: "F", age: 33, ht: "6'5\"", team: "Vancouver Bandits / U-BT Cluj-Napoca", league: "CEBL / Romania", ppg: 24.4, rpg: 7.0, apg: 4.0, fit: "High", salary: "Designated", note: "2025 CEBL MVP. 24.4 PPG (2nd in CEBL). 488 total pts (4th all-time single season). Re-signed Vancouver 2026. Winter: Cluj-Napoca (Romania/ABA/EuroCup).", agent: "" },
 

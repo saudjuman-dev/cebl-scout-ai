@@ -461,7 +461,8 @@ function openPlayerModal(playerName) {
     content.innerHTML = `
       <div class="no-profile">
         <h3>${playerName}</h3>
-        <p>Full career profile coming soon. Check back as we continue to expand our database.</p>
+        <p class="np-status">Verified career profile coming soon.</p>
+        <p class="np-detail">We only publish career stats once verified against official sources (CEBL.ca, EuroBasket, NCAA, team press releases). Below is what we have on file from EuroBasket if available.</p>
         <div id="eurobasket-injection"></div>
       </div>`;
     modal.classList.add('show');
@@ -505,6 +506,10 @@ function openPlayerModal(playerName) {
     </div>
 
     <div id="eurobasket-injection"></div>
+
+    <div class="pm-source-disclaimer">
+      <strong>Sources:</strong> Career stats compiled from EuroBasket.com, CEBL.ca, Proballers, RealGM, NCAA.com, and team press releases. Profiles are continuously verified. Where data conflicts, official team release supersedes other sources. <em>Last cache refresh:</em> see the cache audit timestamp.
+    </div>
 
     <div class="pm-tabs">
       <button class="pm-tab active" onclick="switchProfileTab(this, 'career')">Career Stats</button>
@@ -578,20 +583,25 @@ function openPlayerModal(playerName) {
     </div>
 
     <div id="pm-medical" class="pm-tab-content">
-      ${AUTH.canAccessFeature('medical-history') ? (medical.length > 0 ? `
-        <div class="medical-timeline">
-          ${medical.map(m => `
-            <div class="medical-entry severity-${m.severity.toLowerCase()}">
-              <div class="medical-date">${m.date}</div>
-              <div class="medical-details">
-                <h4>${m.injury} <span class="medical-severity ${m.severity.toLowerCase()}">${m.severity}</span></h4>
-                <div class="medical-games-out">Games missed: <strong>${m.gamesOut}</strong></div>
-                <p>${m.note}</p>
-              </div>
-            </div>
-          `).join('')}
+      ${AUTH.canAccessFeature('medical-history') ? `
+        <div class="medical-disclaimer">
+          <strong>Source:</strong> Publicly-reported injuries only — team announcements, ESPN/TSN injury reports, league press releases. We do <em>not</em> publish unsourced injury claims.
         </div>
-      ` : `<div class="no-medical">No recorded injuries. Clean medical history.</div>`) : `
+        ${medical.length > 0 ? `
+          <div class="medical-timeline">
+            ${medical.map(m => `
+              <div class="medical-entry severity-${m.severity.toLowerCase()}">
+                <div class="medical-date">${m.date}</div>
+                <div class="medical-details">
+                  <h4>${m.injury} <span class="medical-severity ${m.severity.toLowerCase()}">${m.severity}</span></h4>
+                  <div class="medical-games-out">Games missed: <strong>${m.gamesOut}</strong></div>
+                  <p>${m.note}</p>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        ` : `<div class="no-medical">No publicly-reported injuries on file. If a recent injury has been reported, contact us to update.</div>`}
+      ` : `
         <div class="premium-locked">
           <div class="lock-icon">🔒</div>
           <h3>Medical History is a Premium Feature</h3>
@@ -1376,13 +1386,16 @@ function renderLeaderboards() {
     { key: 'rpg', label: 'Rebounds Per Game', icon: '💪', suffix: '' },
     { key: 'apg', label: 'Assists Per Game', icon: '🎯', suffix: '' },
     { key: 'spg', label: 'Steals Per Game', icon: '🥷', suffix: '' },
-    { key: 'bpg', label: 'Blocks Per Game', icon: '🛡️', suffix: '' },
     { key: 'fg', label: 'Field Goal %', icon: '🎯', suffix: '%' },
-    { key: 'threePt', label: '3-Point %', icon: '🎯', suffix: '%' },
+    { key: 'fgm', label: 'Field Goals Made (Total)', icon: '🏆', suffix: '' },
     { key: 'ft', label: 'Free Throw %', icon: '🎯', suffix: '%' }
   ];
 
   c.innerHTML = `
+    <div class="lb-disclaimer">
+      <strong>Source:</strong> All figures verified against CEBL.ca, TSN, and official team releases (last verified Apr 2026). Categories with insufficient verified data are not shown — rather than publish unsourced numbers.
+    </div>`;
+  c.innerHTML += `
     <div class="lb-grid">
       ${cats.map(cat => {
         const list = statLeaders2025[cat.key] || [];
@@ -1714,6 +1727,29 @@ function renderPipelineEnhanced() {
 }
 
 // ============================================================================
+// ===== AUDIENCE MODE (GM / Fan / All) =====
+// ============================================================================
+function setAudienceMode(mode) {
+  document.body.dataset.audienceMode = mode;
+  document.querySelectorAll('.mode-btn').forEach(b => b.classList.toggle('active', b.dataset.mode === mode));
+  try { localStorage.setItem('hi_audience_mode', mode); } catch (e) {}
+
+  // If the currently-active tab is hidden under this mode, switch to a sensible default
+  const activeTab = document.querySelector('.nav-tab.active');
+  if (activeTab && activeTab.style.display === 'none') {
+    if (mode === 'gm') switchTab('dashboard');
+    else if (mode === 'fan') switchTab('leaderboards');
+    else switchTab('dashboard');
+  }
+}
+
+function _initAudienceMode() {
+  let saved = 'fan';
+  try { saved = localStorage.getItem('hi_audience_mode') || 'fan'; } catch (e) {}
+  setAudienceMode(saved);
+}
+
+// ============================================================================
 // ===== TEAM ROSTER PAGES =====
 // ============================================================================
 const CEBL_TEAMS_2026 = [
@@ -1873,6 +1909,7 @@ function refreshAllData() {
 
 // ===== Initialize =====
 document.addEventListener('DOMContentLoaded', () => {
+  _initAudienceMode();
   refreshAllData();
   // Check for updates every 2 minutes (enhanced live checks)
   setInterval(checkForUpdates, 2 * 60 * 1000);

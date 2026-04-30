@@ -163,74 +163,91 @@
     </div>
   </header>
 
+  <!-- Audience Mode Switcher -->
+  <div id="mode-switcher">
+    <div class="mode-switcher-inner">
+      <button class="mode-btn" data-mode="all" onclick="setAudienceMode('all')">
+        <span class="mode-icon">⚡</span> All Tools
+      </button>
+      <button class="mode-btn" data-mode="gm" onclick="setAudienceMode('gm')">
+        <span class="mode-icon">📋</span> GM &amp; Coach View
+        <span class="mode-sub">Roster · Cap · Scouting</span>
+      </button>
+      <button class="mode-btn active" data-mode="fan" onclick="setAudienceMode('fan')">
+        <span class="mode-icon">🏀</span> Fan View
+        <span class="mode-sub">Records · Stories · Pipeline</span>
+      </button>
+    </div>
+  </div>
+
   <!-- Navigation Tabs -->
   <nav id="main-nav">
     <div class="nav-inner">
-      <button class="nav-tab active" data-tab="dashboard" onclick="switchTab('dashboard')">
+      <span class="nav-section-label" data-mode-section="gm">For GMs &amp; Coaches</span>
+      <button class="nav-tab active mode-gm" data-tab="dashboard" onclick="switchTab('dashboard')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
         Dashboard
       </button>
-      <button class="nav-tab" data-tab="canadians-pro" onclick="switchTab('canadians-pro')">
+      <button class="nav-tab mode-gm" data-tab="canadians-pro" onclick="switchTab('canadians-pro')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
         Canadians Pro
       </button>
-      <button class="nav-tab" data-tab="ncaa-canadians" onclick="switchTab('ncaa-canadians')">
+      <button class="nav-tab mode-gm" data-tab="ncaa-canadians" onclick="switchTab('ncaa-canadians')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 3 3 6 3s6-1 6-3v-5"/></svg>
         NCAA D1 Canadians
       </button>
-      <button class="nav-tab" data-tab="imports" onclick="switchTab('imports')">
+      <button class="nav-tab mode-gm" data-tab="imports" onclick="switchTab('imports')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
         Import Targets
       </button>
-      <button class="nav-tab" data-tab="signings" onclick="switchTab('signings')">
+      <button class="nav-tab mode-gm mode-fan" data-tab="signings" onclick="switchTab('signings')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
         League Signings
       </button>
-      <button class="nav-tab" data-tab="team-stats" onclick="switchTab('team-stats')">
+      <button class="nav-tab mode-gm" data-tab="team-stats" onclick="switchTab('team-stats')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>
         Team Stats
       </button>
-      <button class="nav-tab" data-tab="team-rosters" onclick="switchTab('team-rosters')">
+      <button class="nav-tab mode-gm mode-fan" data-tab="team-rosters" onclick="switchTab('team-rosters')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 11l-3 3-3-3"/></svg>
         Rosters
       </button>
-      <button class="nav-tab" data-tab="leaderboards" onclick="switchTab('leaderboards')">
+      <span class="nav-section-label" data-mode-section="fan">For Fans</span>
+      <button class="nav-tab mode-fan" data-tab="leaderboards" onclick="switchTab('leaderboards')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>
         Leaders
       </button>
-      <button class="nav-tab" data-tab="records" onclick="switchTab('records')">
+      <button class="nav-tab mode-fan" data-tab="records" onclick="switchTab('records')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="m9 18 3-3 3 3"/><path d="M12 12v6"/></svg>
         Records
       </button>
-      <button class="nav-tab" data-tab="pipeline" onclick="switchTab('pipeline')">
+      <button class="nav-tab mode-gm mode-fan" data-tab="pipeline" onclick="switchTab('pipeline')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
         Pipeline
       </button>
-      <button class="nav-tab" data-tab="elam" onclick="switchTab('elam')">
+      <button class="nav-tab mode-fan" data-tab="elam" onclick="switchTab('elam')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
         Elam Ending
-        <span class="new-badge">NEW</span>
       </button>
-      <button class="nav-tab" data-tab="target" onclick="switchTab('target')">
+      <button class="nav-tab mode-fan" data-tab="target" onclick="switchTab('target')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
         Target
-        <span class="new-badge">NEW</span>
       </button>
-      <button class="nav-tab" data-tab="advanced" onclick="switchTab('advanced')">
+      <button class="nav-tab mode-gm" data-tab="advanced" onclick="switchTab('advanced')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
         Advanced
         <span class="pro-badge" id="adv-pro-badge">PRO</span>
       </button>
-      <button class="nav-tab" data-tab="compare" onclick="switchTab('compare')">
+      <button class="nav-tab mode-gm mode-fan" data-tab="compare" onclick="switchTab('compare')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
         Compare
       </button>
-      <button class="nav-tab" data-tab="watchlist" onclick="switchTab('watchlist')">
+      <button class="nav-tab mode-gm" data-tab="watchlist" onclick="switchTab('watchlist')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
         Watchlist
         <span class="pro-badge" id="watch-pro-badge">PRO</span>
       </button>
-      <button class="nav-tab" data-tab="cap-tools" onclick="switchTab('cap-tools')">
+      <button class="nav-tab mode-gm" data-tab="cap-tools" onclick="switchTab('cap-tools')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
         Cap Calculator
         <span class="pro-badge" id="cap-pro-badge">PRO</span>

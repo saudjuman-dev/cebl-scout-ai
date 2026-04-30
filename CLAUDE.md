@@ -78,6 +78,37 @@ TypeScript scrapers for sources beyond EuroBasket:
 4. **Inspect one player**: `node tools/sync-from-cache.js --player "Sean East II"`
 5. **Manually update** static `data.js` / `pipeline-data.js` / `career-data.js` from cache contents (the sync script intentionally does not auto-write — keep human review in the loop)
 
+### Data Integrity & Public Launch Standards
+
+**ZERO TOLERANCE FOR FABRICATED DATA.** This is a public-facing scouting tool used by GMs, coaches, and fans. Inaccurate data damages credibility and could be defamatory toward real public figures.
+
+Before any commit:
+- Run `node tools/audit-data.js` — must show 0 CRITICAL issues
+- Run `node tools/cache-health.js` — must show 0 CRITICAL issues
+- New career stats must include a verifiable source (CEBL.ca, EuroBasket, NCAA.com, team release)
+- Medical history is the hardest case: only publicly-reported injuries (team announcement, ESPN/TSN, league press release). Never invent.
+- Records (cebl-records.js): each entry must have a `_verified: true` flag and a `note` ending with the source
+
+The audit scripts check:
+1. Cache file slug matches its `fullName` (catches scraper mismatches)
+2. No name typos / near-duplicates across files
+3. No unrealistic stats (PPG > 35 etc.)
+4. Cross-file team consistency
+5. Round-number season stats (signal of fabrication)
+6. Records with vague values like "1,400+"
+7. Empty required fields
+
+**If you add player data, source it. If you can't source it, leave the field empty — never invent.**
+
+### Audience Modes (UX split: GM vs Fan)
+
+The site has three views, toggled in the header:
+- **Fan View** — Leaders, Records (all 5 sub-tabs), Pipeline, Elam, Target, Compare, Signings, Rosters
+- **GM/Coach View** — Dashboard, Canadians Pro, NCAA, Imports, Signings, Team Stats, Rosters, Cap Tools, Advanced, Watchlist, Compare, Pipeline
+- **All Tools** — Everything
+
+Tabs are tagged with `mode-fan`, `mode-gm`, or both classes in `index.html`. CSS in `styles.css` filters via `body[data-audience-mode]`. Saved in `localStorage` as `hi_audience_mode`.
+
 ### Why Build-Time, Not Runtime?
 The CEBL Scout site is static (GitHub Pages). EuroBasket can't be scraped from the browser (CORS + auth). So:
 - Cache JSONs are committed to the repo as static assets

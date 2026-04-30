@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-04-30T01:27:55.936Z",
+  "summary": {
+    "critical": 0,
+    "warning": 24,
+    "info": 1
+  },
+  "issues": {
+    "critical": [],
+    "warning": [
+      "Possible typo: \"Offensive Rating\" vs \"Defensive Rating\"",
+      "Team inconsistency: Koby McEwen → data.js=\"Vancouver/Brampton\", pipeline-data.js=\"Vancouver Bandits\"",
+      "Team inconsistency: Brody Clarke → data.js=\"Edmonton Stingers\", pipeline-data.js=\"Shinshu Brave Warriors\"",
+      "Team inconsistency: Aaron Best → data.js=\"Scarborough\", pipeline-data.js=\"MoraBanc Andorra\"",
+      "Team inconsistency: Jackson Rowe → data.js=\"Ottawa/Scarborough\", pipeline-data.js=\"Scarborough Shooting Stars\"",
+      "Team inconsistency: Kadre Gray → data.js=\"Ottawa/Scarborough\", pipeline-data.js=\"Ottawa BlackJacks\"",
+      "Team inconsistency: Mamadou Gueye → data.js=\"Montreal\", pipeline-data.js=\"Promitheas Patras\"",
+      "Team inconsistency: Simi Shittu → data.js=\"Calgary/Winnipeg\", pipeline-data.js=\"San Lorenzo\"",
+      "Team inconsistency: Karim Mane → data.js=\"Calgary 2025\", pipeline-data.js=\"Raptors 905\"",
+      "Team inconsistency: Marcus Carr → data.js=\"One Wuerzburg Baskets\", pipeline-data.js=\"Vancouver Bandits\"",
+      "Team inconsistency: Conor Morgan → data.js=\"Bahcesehir Koleji Istanbul\", pipeline-data.js=\"Beşiktaş Fibabanka\"",
+      "Team inconsistency: Nathan Bilamu → data.js=\"Winnipeg Sea Bears\", pipeline-data.js=\"Esgueira/Aveiro\"",
+      "Team inconsistency: Mfiondu Kabengele → data.js=\"Reyer Venezia / BC Dubai\", pipeline-data.js=\"Dubai Basketball\"",
+      "Team inconsistency: Kevin Pangos → data.js=\"European Club\", pipeline-data.js=\"Esenler Erokspor\"",
+      "Team inconsistency: Nickeil Alexander-Walker → data.js=\"Free Agent\", pipeline-data.js=\"Minnesota Timberwolves\"",
+      "Team inconsistency: Dalano Banton → data.js=\"Free Agent\", pipeline-data.js=\"Minnesota Timberwolves\"",
+      "Team inconsistency: Mychal Mulder → data.js=\"Free Agent\", pipeline-data.js=\"Boulogne Metropolitans 92\"",
+      "Team inconsistency: Ignas Brazdeikis → data.js=\"European Club\", pipeline-data.js=\"Zalgiris Kaunas\"",
+      "Team inconsistency: Brandon Clarke → data.js=\"Free Agent\", pipeline-data.js=\"Memphis Grizzlies\"",
+      "Team inconsistency: Trey Lyles → data.js=\"Free Agent\", pipeline-data.js=\"Sacramento Kings\"",
+      "Team inconsistency: Quinndary Weatherspoon → data.js=\"Free Agent (2025 Brampton)\", pipeline-data.js=\"Brampton Honey Badgers\"",
+      "Team inconsistency: Xavier Moon → data.js=\"Winnipeg Sea Bears\", pipeline-data.js=\"Saskatoon Mamba\"",
+      "Team inconsistency: Khalil Ahmad → data.js=\"Maccabi Rishon Lezion\", pipeline-data.js=\"Niagara River Lions\"",
+      "1 records use vague values (e.g. \"1,400+\"). Recommend confirming exact figure or flagging as approximate."
+    ],
+    "info": [
+      "27 record values defined; 6 have a year reference"
+    ]
+  }
+}
