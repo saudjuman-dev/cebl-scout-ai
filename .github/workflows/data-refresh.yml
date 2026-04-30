@@ -105,7 +105,14 @@ jobs:
             git commit -m "🤖 Auto-refresh player data ($CHANGED files)" \
                        -m "Triggered by: ${{ github.event_name }}" \
                        -m "Run: ${{ github.run_id }}"
-            git push
+            # Rebase onto any new commits that landed on main during the run
+            # (e.g. if a developer pushed while a long scrape was in progress).
+            # Then retry push up to 3 times in case of further race conditions.
+            for attempt in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $attempt failed, retrying in 10s…"
+              sleep 10
+            done
             echo "✅ Pushed refreshed data"
           fi
 
