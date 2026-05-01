@@ -2203,13 +2203,127 @@ const CEBL_TEAMS_2026 = [
   { id: 'winnipeg', name: 'Winnipeg Sea Bears', emoji: '🐻', color: '#003366' }
 ];
 
+// Loose team-name match: handles "Vancouver/Brampton", "Calgary 2025", etc.
+function _teamMatch(playerTeam, target) {
+  if (!playerTeam || !target) return false;
+  const pt = playerTeam.toLowerCase();
+  const tg = target.toLowerCase();
+  // Slash-separated multi-team strings: split and test each
+  for (const part of pt.split(/[\/,]/).map(s => s.trim())) {
+    if (!part) continue;
+    if (tg.includes(part) || part.includes(tg.split(' ')[0])) return true;
+    // Match by team's distinctive word: "Stingers", "Bandits", "Mamba"…
+    const dist = tg.split(' ').slice(-1)[0];   // last word, e.g. "stingers"
+    if (dist.length > 4 && part.includes(dist)) return true;
+  }
+  return false;
+}
+
+// Relative time: "3 hours ago", "2 days ago"
+function _relTime(iso) {
+  try {
+    const d = new Date(iso);
+    const diff = Date.now() - d.getTime();
+    const sec = Math.floor(diff / 1000);
+    if (sec < 60) return 'just now';
+    const min = Math.floor(sec / 60);
+    if (min < 60) return `${min} min ago`;
+    const hr = Math.floor(min / 60);
+    if (hr < 24) return `${hr} hr ago`;
+    const day = Math.floor(hr / 24);
+    if (day < 7) return `${day} day${day !== 1 ? 's' : ''} ago`;
+    const wk = Math.floor(day / 7);
+    return `${wk} week${wk !== 1 ? 's' : ''} ago`;
+  } catch { return ''; }
+}
+
+// "2026-04-30" → "Apr 30"
+function _shortDate(iso) {
+  if (!iso) return '';
+  const m = iso.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!m) return iso;
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return `${months[parseInt(m[2], 10) - 1]} ${parseInt(m[3], 10)}`;
+}
+
+// Normalize a name for matching across data sources
+function _normName(n) {
+  return (n || '').toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/\b(jr|sr|ii|iii|iv)\.?\b/g, '')
+    .replace(/[^a-z\s]/g, ' ')
+    .replace(/\s+/g, ' ').trim();
+}
+
+// Build fresh 2026 roster for a team, merging:
+//   1) CEBL.ca signings (canonical "is on the team")
+//   2) canadiansPro entries whose current team resolves to this team
+//   3) importTargets whose current team resolves to this team
+//   4) legacy leagueSignings as last fallback
+// Returns array of { name, type, date, pos, ht, hometown, nationality, ppg, rpg, apg, source }
+function getFreshRoster(teamName) {
+  const out = [];
+  const seen = new Set();
+  const fresh = (typeof window !== 'undefined' && window.CEBL_ROSTERS_2026 && window.CEBL_ROSTERS_2026[teamName]) || [];
+
+  // 1) Fresh signings from cebl.ca (newest source of truth)
+  for (const sig of fresh) {
+    const k = _normName(sig.name);
+    if (seen.has(k)) continue;
+    seen.add(k);
+    // Layer in bio from canadiansPro / importTargets if we have it
+    const proHit  = (typeof canadiansPro   !== 'undefined') && canadiansPro.find(p   => _normName(p.name) === k);
+    const impHit  = (typeof importTargets  !== 'undefined') && importTargets.find(p  => _normName(p.name) === k);
+    const bio = proHit || impHit || {};
+    out.push({
+      name: sig.name,
+      type: sig.type,
+      date: sig.date,
+      pos: bio.pos || '',
+      ht: bio.ht || '',
+      hometown: bio.hometown || '',
+      nationality: bio.nationality || (proHit ? 'CAN' : ''),
+      ppg: bio.ppg ?? '',
+      rpg: bio.rpg ?? '',
+      apg: bio.apg ?? '',
+      isCanadian: !!proHit || /\b(ON|QC|BC|AB|MB|SK|NS|NB|NL|PE)\b/.test(bio.hometown || ''),
+      source: 'cebl.ca'
+    });
+  }
+
+  // 4) Legacy fallback only when fresh has nothing
+  if (out.length === 0 && typeof leagueSignings !== 'undefined' && leagueSignings[teamName]) {
+    for (const p of leagueSignings[teamName].players || []) {
+      const k = _normName(p.name);
+      if (seen.has(k)) continue;
+      seen.add(k);
+      out.push({
+        name: p.name,
+        type: p.type || 'Standard Player Contract',
+        date: p.date || '',
+        pos: p.pos || '',
+        ht: '',
+        hometown: '',
+        nationality: '',
+        ppg: '', rpg: '', apg: '',
+        isCanadian: false,
+        source: 'legacy'
+      });
+    }
+  }
+  return out;
+}
+
 function renderTeamRosters() {
   const grid = document.getElementById('team-rosters-grid');
   if (!grid) return;
+  const lastScraped = (typeof window !== 'undefined' && window.CEBL_SIGNINGS_META && window.CEBL_SIGNINGS_META.lastScraped) || null;
+  const freshness = lastScraped ? `<div class="tr-freshness">📡 Live from cebl.ca · last refreshed ${_relTime(lastScraped)}</div>` : '';
   grid.innerHTML = `
+    ${freshness}
     <div class="tr-grid">
       ${CEBL_TEAMS_2026.map(t => {
-        const signings = (typeof leagueSignings !== 'undefined' && leagueSignings[t.name]) ? leagueSignings[t.name].players.length : 0;
+        const signings = getFreshRoster(t.name).length;
         const logoUrl = (typeof getTeamLogo === 'function') ? getTeamLogo(t.name) : null;
         const visual = logoUrl
           ? `<div class="tr-team-logo-wrap" style="background:${t.color}10; border-color:${t.color}40"><img src="${logoUrl}" alt="${t.name}" class="tr-team-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span class="tr-team-emoji-fb" style="display:none">${t.emoji}</span></div>`
@@ -2235,10 +2349,20 @@ function renderTeamDetail(teamName) {
   const team = CEBL_TEAMS_2026.find(t => t.name === teamName);
   if (!team) return;
 
-  // Aggregate all known players for this team
-  const signings = (typeof leagueSignings !== 'undefined' && leagueSignings[teamName]) ? leagueSignings[teamName].players : [];
-  const proCanadians = (typeof canadiansPro !== 'undefined') ? canadiansPro.filter(p => (p.team || '').toLowerCase().includes(teamName.toLowerCase()) || (teamName.toLowerCase().includes((p.team || '').toLowerCase()) && p.team)) : [];
-  const imports = (typeof importTargets !== 'undefined') ? importTargets.filter(p => (p.team || '').includes(teamName)) : [];
+  // Use fresh CEBL.ca-sourced roster as canonical
+  const roster = getFreshRoster(teamName);
+  const signings = roster;
+  // Pull the team's coaching/management adds from the runtime feed
+  const coaches = (typeof window !== 'undefined' && window.CEBL_COACHES_2026 && window.CEBL_COACHES_2026[teamName]) || [];
+  // Players in canadiansPro/importTargets whose roster slot we DIDN'T capture from fresh signings
+  // (Some 2025 holdovers may not have a 2026 transaction yet — keep showing them as legacy.)
+  const rosterNames = new Set(roster.map(r => _normName(r.name)));
+  const proCanadians = (typeof canadiansPro !== 'undefined')
+    ? canadiansPro.filter(p => !rosterNames.has(_normName(p.name)) && _teamMatch(p.team, teamName))
+    : [];
+  const imports = (typeof importTargets !== 'undefined')
+    ? importTargets.filter(p => !rosterNames.has(_normName(p.name)) && _teamMatch(p.team, teamName))
+    : [];
 
   detail.innerHTML = `
     <div class="tr-detail" style="border-top: 3px solid ${team.color}">
@@ -2251,19 +2375,40 @@ function renderTeamDetail(teamName) {
         <h3 class="tr-h3">📋 2026 Confirmed Signings (${signings.length})</h3>
         ${signings.length > 0 ? `
           <div class="tr-roster-grid">
-            ${signings.map(p => `
-              <div class="tr-player-card">
-                <div class="tr-player-avatar has-headshot">${avatarContent(p.name)}</div>
-                <div class="tr-player-info">
-                  <div class="tr-player-name" data-player-name="${p.name}">${p.name}</div>
-                  <div class="tr-player-pos">${p.pos} · <span class="tr-tag">${p.type}</span></div>
-                  <div class="tr-player-detail">${p.detail}</div>
+            ${signings.map(p => {
+              const isDev = /Dev/i.test(p.type);
+              const sub = [p.pos, p.ht, p.hometown].filter(Boolean).join(' · ') || (p.date ? `Signed ${_shortDate(p.date)}` : '');
+              const stats = (p.ppg !== '' && p.rpg !== '' && p.apg !== '') ? `${p.ppg} PPG · ${p.rpg} RPG · ${p.apg} APG` : '';
+              const flag = p.isCanadian ? '🇨🇦 ' : '';
+              return `
+                <div class="tr-player-card">
+                  <div class="tr-player-avatar has-headshot">${avatarContent(p.name)}</div>
+                  <div class="tr-player-info">
+                    <div class="tr-player-name" data-player-name="${p.name}">${flag}${p.name}</div>
+                    <div class="tr-player-pos">${sub} <span class="tr-tag${isDev ? ' tr-tag-dev' : ''}">${isDev ? 'Dev' : 'Standard'}</span></div>
+                    ${stats ? `<div class="tr-player-detail">${stats}</div>` : ''}
+                  </div>
                 </div>
-              </div>
-            `).join('')}
+              `;
+            }).join('')}
           </div>
         ` : '<p class="tr-empty">No 2026 signings tracked yet for this team. Check back soon.</p>'}
       </div>
+
+      ${coaches.length > 0 ? `
+        <div class="tr-section">
+          <h3 class="tr-h3">🎯 Coaching & Management</h3>
+          <div class="tr-coaches-grid">
+            ${coaches.map(c => `
+              <div class="tr-coach-card">
+                <div class="tr-coach-name">${c.name}</div>
+                <div class="tr-coach-role">${c.role}</div>
+                <div class="tr-coach-date">${_shortDate(c.date)}</div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
 
       ${proCanadians.length > 0 ? `
         <div class="tr-section">
@@ -2321,8 +2466,85 @@ function _initEnhancements() {
 }
 _initEnhancements();
 
+// ===== Live Signings Ticker =====
+// Renders a continuously-scrolling marquee of the latest 25 CEBL signings.
+function renderSigningsTicker() {
+  const track = document.getElementById('st-track');
+  if (!track) return;
+  const sigs = (typeof window !== 'undefined' && window.CEBL_SIGNINGS) || [];
+  if (!sigs.length) {
+    track.innerHTML = '<div class="st-loading">No signings available.</div>';
+    return;
+  }
+
+  // Player contracts only (skip generic "Head Coach", "GM" appointments — they have their own card)
+  const players = sigs.filter(s => /Player Contract|Developmental/i.test(s.type));
+  const top = players.slice(0, 25);
+
+  // Team color lookup (matches CEBL_TEAMS_2026)
+  const teamColor = (t) => {
+    const m = (typeof CEBL_TEAMS_2026 !== 'undefined') ? CEBL_TEAMS_2026.find(x => x.name === t) : null;
+    return m ? m.color : '#D4AF37';
+  };
+
+  // Build a single sequence and DUPLICATE it so the marquee loops seamlessly
+  const itemHTML = top.map(s => {
+    const isDev = /Dev/i.test(s.type);
+    const color = teamColor(s.team);
+    const date = _shortDate(s.date);
+    return `
+      <span class="st-item">
+        <span class="st-date">${date}</span>
+        <span class="st-name">${s.player}</span>
+        <span class="st-arrow">→</span>
+        <span class="st-team" style="color:${color}">${s.team}</span>
+        ${isDev ? '<span class="st-dev">DEV</span>' : ''}
+      </span>
+    `;
+  }).join('<span class="st-sep">●</span>');
+
+  track.innerHTML = `<div class="st-flow">${itemHTML}<span class="st-sep">●</span>${itemHTML}</div>`;
+}
+
+// Allow user to pause the ticker on hover (handled in CSS) and click → open Signings tab
+function _initSigningsTicker() {
+  const ticker = document.getElementById('signings-ticker');
+  if (!ticker) return;
+  renderSigningsTicker();
+  ticker.addEventListener('click', () => {
+    if (typeof openTab === 'function') openTab('signings');
+  });
+}
+
+// ===== Apply fresh CEBL signings → enrich canadiansPro/importTargets in place =====
+// Runs once before the first render. Idempotent — safe to call again.
+function applyFreshTeams() {
+  if (typeof window === 'undefined' || typeof window.ceblCurrentTeam !== 'function') return 0;
+  let changed = 0;
+  const enrichArr = (arr) => {
+    if (typeof arr === 'undefined' || !Array.isArray(arr)) return;
+    arr.forEach(p => {
+      const fresh = window.ceblCurrentTeam(p.name);
+      if (fresh && p.team !== fresh) {
+        if (!p._origTeam) p._origTeam = p.team;
+        p.team = fresh;
+        p._teamFresh = true;
+        changed++;
+      }
+    });
+  };
+  enrichArr(typeof canadiansPro !== 'undefined' ? canadiansPro : null);
+  enrichArr(typeof importTargets !== 'undefined' ? importTargets : null);
+  if (changed > 0) console.log(`✅ Applied fresh CEBL teams to ${changed} player records`);
+  return changed;
+}
+applyFreshTeams();
+_initSigningsTicker();
+
 // ===== Auto-Refresh =====
 function refreshAllData() {
+  applyFreshTeams();          // re-apply if signings reload
+  renderSigningsTicker();     // refresh marquee
   renderHBRoster();
   renderScoutTargets();
   renderProTable();

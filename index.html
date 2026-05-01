@@ -399,6 +399,17 @@
   <!-- Main Content -->
   <main id="main-content">
 
+    <!-- LIVE SIGNINGS TICKER (above all tabs) -->
+    <div id="signings-ticker" class="signings-ticker" aria-label="Latest CEBL signings">
+      <div class="st-label">
+        <span class="st-pulse"></span>
+        <span class="st-text">LIVE · CEBL SIGNINGS</span>
+      </div>
+      <div class="st-track" id="st-track">
+        <div class="st-loading">Loading latest signings…</div>
+      </div>
+    </div>
+
     <!-- DASHBOARD TAB -->
     <section id="tab-dashboard" class="tab-content active">
       <div class="dashboard-grid">
@@ -918,6 +929,7 @@
   <script src="pipeline-data.js"></script>
   <script src="cebl-records.js"></script>
   <script src="global-pros.js"></script>
+  <script src="cebl-signings-runtime.js"></script>
   <script src="team-logos.js"></script>
   <script src="player-headshots.js"></script>
   <script src="onboarding.js"></script>

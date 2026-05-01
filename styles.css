@@ -3237,6 +3237,208 @@ footer {
   letter-spacing: 0.04em;
 }
 .tr-player-detail { font-size: 0.72rem; color: #aaa; margin-top: 0.3rem; line-height: 1.4; }
+
+/* Dev contract gets a different chip color */
+.tr-tag-dev {
+  background: rgba(120, 200, 255, 0.13);
+  color: #78c8ff;
+}
+
+/* ========== LIVE SIGNINGS TICKER ========== */
+.signings-ticker {
+  display: flex;
+  align-items: stretch;
+  background: linear-gradient(90deg, #0a0a0a 0%, #131313 100%);
+  border-top: 1px solid rgba(212,175,55,0.18);
+  border-bottom: 1px solid rgba(212,175,55,0.18);
+  height: 36px;
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+  margin-bottom: 1.2rem;
+  user-select: none;
+}
+.signings-ticker:hover .st-flow { animation-play-state: paused; }
+.signings-ticker::before {
+  /* fade right edge */
+  content: '';
+  position: absolute;
+  right: 0; top: 0; bottom: 0;
+  width: 80px;
+  background: linear-gradient(90deg, transparent 0%, #0a0a0a 100%);
+  pointer-events: none;
+  z-index: 2;
+}
+.st-label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: linear-gradient(90deg, #b30000 0%, #780000 100%);
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  padding: 0 0.85rem;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 3;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  box-shadow: 4px 0 12px rgba(0,0,0,0.4);
+}
+.st-pulse {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 8px #fff;
+  animation: pulse-dot 1.6s infinite;
+}
+.st-track {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+.st-flow {
+  display: inline-flex;
+  align-items: center;
+  height: 100%;
+  white-space: nowrap;
+  animation: ticker-scroll 90s linear infinite;
+  padding-left: 1rem;
+  gap: 0.6rem;
+}
+@keyframes ticker-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+.st-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.78rem;
+  color: #ddd;
+  font-weight: 600;
+}
+.st-date {
+  background: rgba(212,175,55,0.12);
+  color: var(--gold);
+  padding: 0.1rem 0.45rem;
+  border-radius: 3px;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.st-name { color: #fff; }
+.st-arrow { color: #666; font-weight: 400; margin: 0 0.05rem; }
+.st-team { font-weight: 700; }
+.st-dev {
+  display: inline-block;
+  background: rgba(120,200,255,0.18);
+  color: #78c8ff;
+  padding: 0.05rem 0.3rem;
+  border-radius: 2px;
+  font-size: 0.6rem;
+  letter-spacing: 0.06em;
+}
+.st-sep { color: rgba(212,175,55,0.35); margin: 0 0.7rem; }
+.st-loading {
+  color: #888;
+  font-size: 0.78rem;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+/* Fan view: warmer colors, slightly bigger */
+body[data-audience-mode="fan"] .signings-ticker {
+  height: 40px;
+  background: linear-gradient(90deg, #1a0d05 0%, #2a1810 100%);
+  border-color: rgba(255,165,90,0.35);
+}
+body[data-audience-mode="fan"] .st-label {
+  background: linear-gradient(90deg, #cc5500 0%, #8a3500 100%);
+}
+body[data-audience-mode="fan"] .st-date {
+  background: rgba(255,165,90,0.18);
+  color: #ffa55a;
+}
+
+/* GM/coach view: tighter, more clinical */
+body[data-audience-mode="gm"] .signings-ticker {
+  height: 32px;
+  background: #060a12;
+  border-color: rgba(80,160,255,0.25);
+}
+body[data-audience-mode="gm"] .st-label {
+  background: #1a3055;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Mobile: shrink ticker */
+@media (max-width: 640px) {
+  .signings-ticker { height: 32px; }
+  .st-label { font-size: 0.6rem; padding: 0 0.55rem; }
+  .st-item { font-size: 0.7rem; }
+  .st-flow { animation-duration: 65s; }
+}
+
+/* "Live from cebl.ca" freshness pill */
+.tr-freshness {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: linear-gradient(90deg, rgba(0,200,80,0.10) 0%, rgba(0,200,80,0.04) 100%);
+  border: 1px solid rgba(0,200,80,0.35);
+  color: #6effa3;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  margin-bottom: 1rem;
+}
+.tr-freshness::before {
+  content: '';
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: #6effa3;
+  box-shadow: 0 0 8px #6effa3;
+  animation: pulse-dot 2s infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%      { opacity: 0.55; transform: scale(0.85); }
+}
+
+/* Coaches & management grid */
+.tr-coaches-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+}
+.tr-coach-card {
+  background: rgba(255,255,255,0.025);
+  border: 1px solid rgba(212,175,55,0.18);
+  border-radius: 8px;
+  padding: 0.7rem 0.85rem;
+  transition: all 0.18s ease;
+}
+.tr-coach-card:hover {
+  background: rgba(212,175,55,0.08);
+  border-color: rgba(212,175,55,0.4);
+  transform: translateY(-1px);
+}
+.tr-coach-name { font-weight: 700; font-size: 0.92rem; color: #fff; }
+.tr-coach-role {
+  font-size: 0.72rem;
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.2rem;
+}
+.tr-coach-date { font-size: 0.68rem; color: #888; margin-top: 0.25rem; }
 .tr-empty { color: #888; font-size: 0.85rem; padding: 0.5rem; }
 
 /* ============================================================================

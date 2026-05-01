@@ -88,6 +88,20 @@ jobs:
       - name: Regenerate global-pros.js
         run: node tools/extract-global-pros.js
 
+      - name: Install Playwright (Chromium) for CEBL signings scraper
+        run: |
+          npm install --no-save playwright@^1.47.0
+          npx playwright install --with-deps chromium
+
+      - name: Scrape CEBL signings from cebl.ca
+        id: signings_step
+        continue-on-error: true     # don't fail the whole run if cebl.ca is down
+        run: |
+          echo "📡 Scraping cebl.ca/transactions…"
+          node tools/scrape-cebl-signings.js
+          echo "🔁 Regenerating cebl-signings-runtime.js"
+          node tools/sync-signings-to-rosters.js
+
       - name: Audit data integrity
         run: |
           node tools/audit-data.js
@@ -98,7 +112,9 @@ jobs:
         run: |
           git config user.name  "Hoops Intelligence Bot"
           git config user.email "actions@github.com"
-          git add data/cache/ global-pros.js tools/audit-report.json tools/cache-health-report.json
+          git add data/cache/ global-pros.js \
+                  data/cebl-signings.json cebl-signings-runtime.js \
+                  tools/audit-report.json tools/cache-health-report.json
           if git diff --cached --quiet; then
             echo "✅ No data changes — nothing to commit"
             echo "committed=false" >> "$GITHUB_OUTPUT"
