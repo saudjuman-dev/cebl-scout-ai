@@ -105,10 +105,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:36.274Z",
+  "_lastVerified": "2026-05-01T02:55:14.817Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:36.274Z"
+  "cachedAt": "2026-04-30T19:55:36.274Z",
+  "nationality": "Swedish",
+  "birthdate": "April 10 2000",
+  "birthCity": "Valsta"
 }

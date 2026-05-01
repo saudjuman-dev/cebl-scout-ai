@@ -96,10 +96,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:52.872Z",
+  "_lastVerified": "2026-05-01T02:33:58.394Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:52.872Z"
+  "cachedAt": "2026-04-30T20:32:52.872Z",
+  "nationality": "USA",
+  "birthdate": "May 12 1997",
+  "birthCity": "Brownsville"
 }

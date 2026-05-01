@@ -60,10 +60,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:25:32.560Z",
+  "_lastVerified": "2026-05-01T02:09:56.596Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:25:32.560Z"
+  "cachedAt": "2026-04-30T21:25:32.560Z",
+  "nationality": "Dutch",
+  "birthdate": "May 19 1998",
+  "birthCity": "Boskoop"
 }

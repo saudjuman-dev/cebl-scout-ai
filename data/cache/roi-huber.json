@@ -116,10 +116,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:44.343Z",
+  "_lastVerified": "2026-05-01T03:12:37.191Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:44.343Z"
+  "cachedAt": "2026-04-30T20:32:44.343Z",
+  "nationality": "Israeli",
+  "birthdate": "February 10 1997",
+  "birthCity": "Kefar Sava"
 }

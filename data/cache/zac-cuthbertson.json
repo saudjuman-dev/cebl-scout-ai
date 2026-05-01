@@ -90,10 +90,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:30.472Z",
+  "_lastVerified": "2026-05-01T03:31:14.063Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:30.472Z"
+  "cachedAt": "2026-04-30T19:36:30.472Z",
+  "nationality": "USA",
+  "birthdate": "December 27 1996",
+  "birthCity": "New Bern"
 }

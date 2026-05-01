@@ -41,10 +41,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:21.617Z",
+  "_lastVerified": "2026-05-01T02:04:26.501Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:21.617Z"
+  "cachedAt": "2026-04-30T19:39:21.617Z",
+  "nationality": "USA",
+  "birthdate": "November 18 2002",
+  "birthCity": "Brookfield"
 }

@@ -166,10 +166,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:44:16.133Z",
+  "_lastVerified": "2026-05-01T03:24:50.330Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:16.133Z"
+  "cachedAt": "2026-04-30T19:44:16.133Z",
+  "nationality": "USA",
+  "birthdate": "November 29 1995",
+  "birthCity": "New York City"
 }

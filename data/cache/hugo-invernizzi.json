@@ -135,10 +135,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:43.491Z",
+  "_lastVerified": "2026-05-01T02:21:18.242Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:43.491Z"
+  "cachedAt": "2026-04-30T19:38:43.491Z",
+  "nationality": "French",
+  "birthdate": "January 7 1993",
+  "birthCity": "Mulhouse"
 }

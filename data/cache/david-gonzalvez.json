@@ -136,10 +136,13 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:14:53.142Z",
+  "_lastVerified": "2026-05-01T02:04:22.265Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:14:53.142Z"
+  "cachedAt": "2026-04-30T22:14:53.142Z",
+  "nationality": "USA",
+  "birthdate": "October 29 1987",
+  "birthCity": "Marietta"
 }

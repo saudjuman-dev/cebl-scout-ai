@@ -91,10 +91,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:29:04.631Z",
+  "_lastVerified": "2026-05-01T02:53:07.542Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:04.631Z"
+  "cachedAt": "2026-04-30T21:29:04.631Z",
+  "nationality": "French",
+  "birthdate": "January 15 1992",
+  "birthCity": "Roubaix"
 }

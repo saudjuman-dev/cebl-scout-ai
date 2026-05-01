@@ -141,10 +141,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:31.755Z",
+  "_lastVerified": "2026-05-01T02:46:11.297Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:31.755Z"
+  "cachedAt": "2026-04-30T19:41:31.755Z",
+  "birthdate": "August 11 1995",
+  "birthCity": "Buenos Aires"
 }

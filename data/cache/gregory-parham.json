@@ -61,10 +61,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:48:56.611Z",
+  "_lastVerified": "2026-05-01T02:19:33.283Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:48:56.611Z"
+  "cachedAt": "2026-04-30T21:48:56.611Z",
+  "nationality": "USA",
+  "birthdate": "January 8 1999",
+  "birthCity": "Richmond"
 }

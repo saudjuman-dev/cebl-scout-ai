@@ -201,10 +201,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:52.521Z",
+  "_lastVerified": "2026-05-01T03:02:49.897Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:52.521Z"
+  "cachedAt": "2026-04-30T19:41:52.521Z",
+  "nationality": "Montenegrin",
+  "birthdate": "February 19 1994",
+  "birthCity": "Podgorica"
 }

@@ -51,10 +51,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:29.870Z",
+  "_lastVerified": "2026-05-01T03:25:36.822Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:29.870Z"
+  "cachedAt": "2026-04-30T21:51:29.870Z",
+  "nationality": "USA",
+  "birthdate": "September 2 1999",
+  "birthCity": "Sacramento"
 }

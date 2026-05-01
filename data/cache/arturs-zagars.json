@@ -95,10 +95,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:26:12.474Z",
+  "_lastVerified": "2026-05-01T01:52:17.246Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:12.474Z"
+  "cachedAt": "2026-04-30T20:26:12.474Z",
+  "nationality": "Latvian",
+  "birthdate": "April 21 2000",
+  "birthCity": "Riga"
 }

@@ -50,10 +50,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:30:55.457Z",
+  "_lastVerified": "2026-05-01T02:22:15.053Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:30:55.457Z"
+  "cachedAt": "2026-04-30T21:30:55.457Z",
+  "nationality": "Nigerian",
+  "birthdate": "June 11 1998",
+  "birthCity": "Boston"
 }

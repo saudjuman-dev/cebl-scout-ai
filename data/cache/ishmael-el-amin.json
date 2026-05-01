@@ -66,10 +66,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:36.872Z",
+  "_lastVerified": "2026-05-01T02:23:36.611Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:36.872Z"
+  "cachedAt": "2026-04-30T19:46:36.872Z",
+  "nationality": "USA",
+  "birthdate": "December 2 1998",
+  "birthCity": "Minneapolis"
 }

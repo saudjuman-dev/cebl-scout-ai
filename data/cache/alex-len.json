@@ -111,10 +111,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:02.738Z",
+  "_lastVerified": "2026-05-01T01:46:49.002Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:02.738Z"
+  "cachedAt": "2026-04-30T19:51:02.738Z",
+  "nationality": "Ukrainian",
+  "birthdate": "June 16 1993",
+  "birthCity": "Antratsit"
 }

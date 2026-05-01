@@ -116,10 +116,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:34.206Z",
+  "_lastVerified": "2026-05-01T02:03:35.846Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:34.206Z"
+  "cachedAt": "2026-04-30T20:35:34.206Z",
+  "nationality": "USA",
+  "birthdate": "September 17 1992",
+  "birthCity": "Clinton"
 }

@@ -126,10 +126,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:12.958Z",
+  "_lastVerified": "2026-05-01T02:06:46.173Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:12.958Z"
+  "cachedAt": "2026-04-30T20:16:12.958Z",
+  "nationality": "USA",
+  "birthdate": "July 7 1995",
+  "birthCity": "Virginia Beach"
 }

@@ -161,10 +161,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:47:24.728Z",
+  "_lastVerified": "2026-05-01T01:44:38.637Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:47:24.728Z"
+  "cachedAt": "2026-04-30T20:47:24.728Z",
+  "nationality": "Latvian",
+  "birthdate": "December 4 1992"
 }

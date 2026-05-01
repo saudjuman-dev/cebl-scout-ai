@@ -75,10 +75,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:21:00.686Z",
+  "_lastVerified": "2026-05-01T01:42:55.887Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:21:00.686Z"
+  "cachedAt": "2026-04-30T21:21:00.686Z",
+  "nationality": "Bahamas",
+  "birthdate": "April 16 1997",
+  "birthCity": "Freeport"
 }

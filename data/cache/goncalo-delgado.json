@@ -85,10 +85,12 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:42.943Z",
+  "_lastVerified": "2026-05-01T02:18:47.087Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:42.943Z"
+  "cachedAt": "2026-04-30T21:04:42.943Z",
+  "nationality": "Portuguese",
+  "birthdate": "January 22 1998"
 }

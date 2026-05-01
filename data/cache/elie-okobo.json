@@ -110,10 +110,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:31:16.545Z",
+  "_lastVerified": "2026-05-01T02:11:24.129Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:16.545Z"
+  "cachedAt": "2026-04-30T19:31:16.545Z",
+  "nationality": "French",
+  "birthdate": "October 23 1997",
+  "birthCity": "Bordeaux"
 }

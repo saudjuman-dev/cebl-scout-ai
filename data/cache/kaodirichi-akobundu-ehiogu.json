@@ -76,10 +76,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:57:41.455Z",
+  "_lastVerified": "2026-05-01T02:37:55.945Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:41.455Z"
+  "cachedAt": "2026-04-30T19:57:41.455Z",
+  "nationality": "Nigerian",
+  "birthdate": "October 7 1999",
+  "birthCity": "Lagos"
 }

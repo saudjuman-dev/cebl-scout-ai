@@ -151,10 +151,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:21.702Z",
+  "_lastVerified": "2026-05-01T03:21:12.746Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:21.702Z"
+  "cachedAt": "2026-04-30T19:54:21.702Z",
+  "birthdate": "September 26 1991",
+  "birthCity": "Vancouver"
 }

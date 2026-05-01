@@ -76,10 +76,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:15:49.690Z",
+  "_lastVerified": "2026-05-01T02:57:47.810Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:15:49.690Z"
+  "cachedAt": "2026-04-30T21:15:49.690Z",
+  "nationality": "USA",
+  "birthdate": "June 18 1997",
+  "birthCity": "Michigan City"
 }

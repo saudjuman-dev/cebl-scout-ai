@@ -86,10 +86,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:23:36.830Z",
+  "_lastVerified": "2026-05-01T02:39:44.717Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:23:36.830Z"
+  "cachedAt": "2026-04-30T21:23:36.830Z",
+  "nationality": "French",
+  "birthdate": "April 20 1994",
+  "birthCity": "Trappes"
 }

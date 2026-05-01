@@ -125,10 +125,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:46:29.156Z",
+  "_lastVerified": "2026-05-01T02:05:59.340Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:46:29.156Z"
+  "cachedAt": "2026-04-30T21:46:29.156Z",
+  "nationality": "Swedish",
+  "birthdate": "September 21 1996",
+  "birthCity": "Njurunda"
 }

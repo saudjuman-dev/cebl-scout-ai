@@ -116,10 +116,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:02:30.605Z",
+  "_lastVerified": "2026-05-01T03:03:06.476Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:02:30.605Z"
+  "cachedAt": "2026-04-30T22:02:30.605Z",
+  "nationality": "Montenegrin",
+  "birthdate": "January 22 1991",
+  "birthCity": "Podgorica"
 }

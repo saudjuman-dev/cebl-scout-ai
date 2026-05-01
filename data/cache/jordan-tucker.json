@@ -110,10 +110,12 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:58.003Z",
+  "_lastVerified": "2026-05-01T02:33:40.090Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:58.003Z"
+  "cachedAt": "2026-04-30T20:06:58.003Z",
+  "birthdate": "April 3 1998",
+  "birthCity": "White Plains"
 }

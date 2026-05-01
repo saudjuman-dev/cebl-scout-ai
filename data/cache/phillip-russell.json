@@ -46,10 +46,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:12:43.192Z",
+  "_lastVerified": "2026-05-01T03:08:31.011Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:12:43.192Z"
+  "cachedAt": "2026-04-30T21:12:43.192Z",
+  "nationality": "USA",
+  "birthdate": "February 2 1999",
+  "birthCity": "Saint Louis"
 }

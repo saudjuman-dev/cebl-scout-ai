@@ -85,10 +85,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:05.350Z",
+  "_lastVerified": "2026-05-01T02:42:53.277Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:05.350Z"
+  "cachedAt": "2026-04-30T21:53:05.350Z",
+  "birthdate": "December 20 1993",
+  "birthCity": "New York City"
 }

@@ -96,10 +96,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:56:58.231Z",
+  "_lastVerified": "2026-05-01T03:04:34.213Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:56:58.231Z"
+  "cachedAt": "2026-04-30T20:56:58.231Z",
+  "nationality": "USA",
+  "birthdate": "November 12 1996",
+  "birthCity": "Allen"
 }

@@ -151,10 +151,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:38.002Z",
+  "_lastVerified": "2026-05-01T03:22:15.061Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:38.002Z"
+  "cachedAt": "2026-04-30T19:35:38.002Z",
+  "nationality": "USA",
+  "birthdate": "January 23 1988",
+  "birthCity": "Phoenix"
 }

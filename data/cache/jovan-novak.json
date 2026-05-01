@@ -131,10 +131,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:39:10.622Z",
+  "_lastVerified": "2026-05-01T02:34:59.578Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:39:10.622Z"
+  "cachedAt": "2026-04-30T20:39:10.622Z",
+  "nationality": "Serbian",
+  "birthdate": "November 18 1994",
+  "birthCity": "Vrsac"
 }

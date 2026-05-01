@@ -46,10 +46,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:42.007Z",
+  "_lastVerified": "2026-05-01T01:58:20.771Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:42.007Z"
+  "cachedAt": "2026-04-30T19:45:42.007Z",
+  "nationality": "USA",
+  "birthdate": "May 6 2003",
+  "birthCity": "Baton Rouge"
 }

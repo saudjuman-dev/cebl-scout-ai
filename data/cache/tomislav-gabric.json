@@ -130,10 +130,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:23:50.767Z",
+  "_lastVerified": "2026-05-01T03:22:56.820Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:23:50.767Z"
+  "cachedAt": "2026-04-30T21:23:50.767Z",
+  "nationality": "Croatian",
+  "birthdate": "August 17 1995",
+  "birthCity": "Sibenik"
 }

@@ -135,10 +135,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:03:06.532Z",
+  "_lastVerified": "2026-05-01T01:48:36.004Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:03:06.532Z"
+  "cachedAt": "2026-04-30T20:03:06.532Z",
+  "nationality": "French",
+  "birthdate": "February 7 1997",
+  "birthCity": "Lyon"
 }

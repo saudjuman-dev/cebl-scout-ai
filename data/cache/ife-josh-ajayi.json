@@ -66,10 +66,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:49:22.693Z",
+  "_lastVerified": "2026-05-01T02:21:47.278Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:49:22.693Z"
+  "cachedAt": "2026-04-30T20:49:22.693Z",
+  "birthdate": "December 27 1996",
+  "birthCity": "Abuja"
 }

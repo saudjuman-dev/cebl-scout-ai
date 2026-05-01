@@ -185,10 +185,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:26:42.424Z",
+  "_lastVerified": "2026-05-01T02:38:45.490Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:42.424Z"
+  "cachedAt": "2026-04-30T20:26:42.424Z",
+  "birthdate": "May 26 1995",
+  "birthCity": "Pristina"
 }

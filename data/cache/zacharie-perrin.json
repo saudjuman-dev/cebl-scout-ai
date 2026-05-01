@@ -56,10 +56,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:28.308Z",
+  "_lastVerified": "2026-05-01T03:31:26.665Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:28.308Z"
+  "cachedAt": "2026-04-30T19:28:28.308Z",
+  "nationality": "French",
+  "birthdate": "August 30 2004",
+  "birthCity": "Paris"
 }

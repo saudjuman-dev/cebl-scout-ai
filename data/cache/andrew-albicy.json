@@ -180,10 +180,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:33.931Z",
+  "_lastVerified": "2026-05-01T01:49:38.326Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:33.931Z"
+  "cachedAt": "2026-04-30T19:59:33.931Z",
+  "nationality": "French",
+  "birthdate": "March 21 1990",
+  "birthCity": "Sevres"
 }

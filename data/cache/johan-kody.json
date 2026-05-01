@@ -95,10 +95,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:58:35.826Z",
+  "_lastVerified": "2026-05-01T02:31:33.336Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:58:35.826Z"
+  "cachedAt": "2026-04-30T21:58:35.826Z",
+  "birthdate": "April 3 1993",
+  "birthCity": "Yaounde"
 }

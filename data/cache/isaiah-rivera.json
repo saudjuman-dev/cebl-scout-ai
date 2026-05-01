@@ -46,10 +46,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:55:06.701Z",
+  "_lastVerified": "2026-05-01T02:23:24.118Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:06.701Z"
+  "cachedAt": "2026-04-30T21:55:06.701Z",
+  "nationality": "USA",
+  "birthCity": "Geneseo"
 }

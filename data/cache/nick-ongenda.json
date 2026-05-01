@@ -76,10 +76,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:01.423Z",
+  "_lastVerified": "2026-05-01T03:01:38.966Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:01.423Z"
+  "cachedAt": "2026-04-30T20:32:01.423Z",
+  "nationality": "Canadian",
+  "birthdate": "September 29 2000",
+  "birthCity": "Mississauga"
 }

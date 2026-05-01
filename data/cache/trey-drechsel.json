@@ -95,10 +95,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:57:49.488Z",
+  "_lastVerified": "2026-05-01T03:24:33.352Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:49.488Z"
+  "cachedAt": "2026-04-30T20:57:49.488Z",
+  "nationality": "USA",
+  "birthdate": "July 27 1996",
+  "birthCity": "Woodinville"
 }

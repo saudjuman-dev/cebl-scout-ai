@@ -96,10 +96,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:19.743Z",
+  "_lastVerified": "2026-05-01T03:31:33.233Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:19.743Z"
+  "cachedAt": "2026-04-30T20:33:19.743Z",
+  "nationality": "USA",
+  "birthdate": "November 24 1997",
+  "birthCity": "Hastings"
 }

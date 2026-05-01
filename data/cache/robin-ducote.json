@@ -85,10 +85,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:21.301Z",
+  "_lastVerified": "2026-05-01T03:12:05.719Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:21.301Z"
+  "cachedAt": "2026-04-30T19:38:21.301Z",
+  "nationality": "French",
+  "birthdate": "January 20 2001",
+  "birthCity": "Chene"
 }

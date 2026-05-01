@@ -105,10 +105,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:49.736Z",
+  "_lastVerified": "2026-05-01T02:03:22.888Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:49.736Z"
+  "cachedAt": "2026-04-30T19:56:49.736Z",
+  "nationality": "Croatian",
+  "birthdate": "November 5 2000",
+  "birthCity": "Zagreb"
 }

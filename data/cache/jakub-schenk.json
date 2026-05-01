@@ -140,10 +140,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:41:01.264Z",
+  "_lastVerified": "2026-05-01T02:26:00.797Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:41:01.264Z"
+  "cachedAt": "2026-04-30T20:41:01.264Z",
+  "nationality": "Polish",
+  "birthdate": "July 29 1994"
 }

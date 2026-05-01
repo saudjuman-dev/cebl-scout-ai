@@ -55,10 +55,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:28:50.859Z",
+  "_lastVerified": "2026-05-01T03:02:54.127Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:28:50.859Z"
+  "cachedAt": "2026-04-30T21:28:50.859Z",
+  "nationality": "Serbian",
+  "birthdate": "October 28 1999"
 }

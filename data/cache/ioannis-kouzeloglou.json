@@ -115,10 +115,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:09:58.830Z",
+  "_lastVerified": "2026-05-01T02:22:54.173Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:58.830Z"
+  "cachedAt": "2026-04-30T20:09:58.830Z",
+  "nationality": "Greek",
+  "birthdate": "April 1 1995",
+  "birthCity": "Thessaloniki"
 }

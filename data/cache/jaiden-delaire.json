@@ -76,10 +76,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:47:33.806Z",
+  "_lastVerified": "2026-05-01T02:25:24.580Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:47:33.806Z"
+  "cachedAt": "2026-04-30T20:47:33.806Z",
+  "nationality": "British",
+  "birthdate": "August 31 2000",
+  "birthCity": "North Granby"
 }

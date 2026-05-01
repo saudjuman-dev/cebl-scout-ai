@@ -46,10 +46,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:12.441Z",
+  "_lastVerified": "2026-05-01T02:04:36.891Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:12.441Z"
+  "cachedAt": "2026-04-30T19:30:12.441Z",
+  "nationality": "Dutch",
+  "birthdate": "June 12 2000",
+  "birthCity": "De Lier"
 }

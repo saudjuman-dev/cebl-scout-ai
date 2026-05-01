@@ -45,10 +45,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:10:55.292Z",
+  "_lastVerified": "2026-05-01T02:39:36.201Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:10:55.292Z"
+  "cachedAt": "2026-04-30T22:10:55.292Z",
+  "birthdate": "February 27 1997",
+  "birthCity": "Hightstown"
 }

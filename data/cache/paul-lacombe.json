@@ -200,10 +200,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:44.051Z",
+  "_lastVerified": "2026-05-01T03:07:18.319Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:44.051Z"
+  "cachedAt": "2026-04-30T19:32:44.051Z",
+  "nationality": "French",
+  "birthdate": "June 12 1990",
+  "birthCity": "Venisseux"
 }

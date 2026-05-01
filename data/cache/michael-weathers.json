@@ -86,10 +86,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:54.554Z",
+  "_lastVerified": "2026-05-01T02:56:05.945Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:54.554Z"
+  "cachedAt": "2026-04-30T19:30:54.554Z",
+  "nationality": "USA",
+  "birthdate": "August 5 1997",
+  "birthCity": "Roeland Park"
 }

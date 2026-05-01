@@ -105,10 +105,12 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:15:44.108Z",
+  "_lastVerified": "2026-05-01T03:19:56.466Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:44.108Z"
+  "cachedAt": "2026-04-30T20:15:44.108Z",
+  "birthdate": "January 28 2001",
+  "birthCity": "Zenica"
 }

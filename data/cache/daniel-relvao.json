@@ -85,10 +85,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:09:02.671Z",
+  "_lastVerified": "2026-05-01T02:03:00.775Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:09:02.671Z"
+  "cachedAt": "2026-04-30T21:09:02.671Z",
+  "nationality": "Portuguese",
+  "birthdate": "June 26 1996",
+  "birthCity": "Coimbra"
 }

@@ -41,10 +41,13 @@
       "league": "HUN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:55:35.299Z",
+  "_lastVerified": "2026-05-01T02:39:18.139Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:55:35.299Z"
+  "cachedAt": "2026-04-30T20:55:35.299Z",
+  "nationality": "Swedish",
+  "birthdate": "July 18 2002",
+  "birthCity": "Stockholm"
 }

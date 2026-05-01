@@ -65,10 +65,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:37:38.766Z",
+  "_lastVerified": "2026-05-01T02:21:23.098Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:38.766Z"
+  "cachedAt": "2026-04-30T19:37:38.766Z",
+  "nationality": "French",
+  "birthdate": "February 27 2000",
+  "birthCity": "Cholet"
 }

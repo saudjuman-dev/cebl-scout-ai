@@ -125,10 +125,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:00:29.751Z",
+  "_lastVerified": "2026-05-01T03:05:29.263Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:00:29.751Z"
+  "cachedAt": "2026-04-30T22:00:29.751Z",
+  "nationality": "Spanish",
+  "birthdate": "June 6 1991",
+  "birthCity": "Malaga"
 }

@@ -50,10 +50,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:18.715Z",
+  "_lastVerified": "2026-05-01T02:29:04.640Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:18.715Z"
+  "cachedAt": "2026-04-30T20:43:18.715Z",
+  "nationality": "USA",
+  "birthdate": "October 30 2001",
+  "birthCity": "Chillicothe"
 }

@@ -111,10 +111,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:36:30.190Z",
+  "_lastVerified": "2026-05-01T01:46:16.183Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:36:30.190Z"
+  "cachedAt": "2026-04-30T21:36:30.190Z",
+  "nationality": "Italian",
+  "birthdate": "July 10 1991",
+  "birthCity": "Pesaro"
 }

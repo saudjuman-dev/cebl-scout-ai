@@ -85,10 +85,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:28:30.749Z",
+  "_lastVerified": "2026-05-01T03:20:45.840Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:28:30.749Z"
+  "cachedAt": "2026-04-30T20:28:30.749Z",
+  "nationality": "Turkish",
+  "birthdate": "October 25 1994",
+  "birthCity": "Cesme"
 }

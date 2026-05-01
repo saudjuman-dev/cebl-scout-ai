@@ -270,10 +270,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:24:42.363Z",
+  "_lastVerified": "2026-05-01T03:01:17.172Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:24:42.363Z"
+  "cachedAt": "2026-04-30T20:24:42.363Z",
+  "birthdate": "August 25 1988",
+  "birthCity": "Mostar"
 }

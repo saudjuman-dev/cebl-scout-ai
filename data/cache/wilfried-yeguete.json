@@ -111,10 +111,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:04.088Z",
+  "_lastVerified": "2026-05-01T03:28:54.139Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:04.088Z"
+  "cachedAt": "2026-04-30T19:36:04.088Z",
+  "nationality": "French",
+  "birthdate": "October 16 1991",
+  "birthCity": "Pessac"
 }

@@ -75,10 +75,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:37:28.730Z",
+  "_lastVerified": "2026-05-01T03:21:16.874Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:28.730Z"
+  "cachedAt": "2026-04-30T19:37:28.730Z",
+  "nationality": "French",
+  "birthdate": "May 6 1995",
+  "birthCity": "Montbrison"
 }

@@ -35,10 +35,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:45.759Z",
+  "_lastVerified": "2026-05-01T02:45:46.096Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:45.759Z"
+  "cachedAt": "2026-04-30T21:57:45.759Z",
+  "nationality": "Croatian",
+  "birthdate": "June 14 2000",
+  "birthCity": "Split"
 }

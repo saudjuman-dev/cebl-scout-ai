@@ -105,10 +105,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:11:26.443Z",
+  "_lastVerified": "2026-05-01T03:03:26.648Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:26.443Z"
+  "cachedAt": "2026-04-30T20:11:26.443Z",
+  "nationality": "Greek",
+  "birthdate": "October 4 2000",
+  "birthCity": "Athens"
 }

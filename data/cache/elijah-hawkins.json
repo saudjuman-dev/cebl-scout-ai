@@ -61,10 +61,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:49:28.871Z",
+  "_lastVerified": "2026-05-01T02:11:33.485Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:49:28.871Z"
+  "cachedAt": "2026-04-30T20:49:28.871Z",
+  "nationality": "USA",
+  "birthdate": "July 9 2002",
+  "birthCity": "Washington"
 }

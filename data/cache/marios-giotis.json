@@ -61,10 +61,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:15:19.580Z",
+  "_lastVerified": "2026-05-01T02:50:57.027Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:15:19.580Z"
+  "cachedAt": "2026-04-30T21:15:19.580Z",
+  "nationality": "Greek",
+  "birthdate": "June 29 2002"
 }

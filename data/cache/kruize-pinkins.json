@@ -71,10 +71,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:50.673Z",
+  "_lastVerified": "2026-05-01T02:41:41.628Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:50.673Z"
+  "cachedAt": "2026-04-30T19:48:50.673Z",
+  "nationality": "USA",
+  "birthdate": "January 25 1993"
 }

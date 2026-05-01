@@ -75,10 +75,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:45:57.904Z",
+  "_lastVerified": "2026-05-01T03:16:21.502Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:45:57.904Z"
+  "cachedAt": "2026-04-30T21:45:57.904Z",
+  "nationality": "Senegalese",
+  "birthdate": "November 17 1995"
 }

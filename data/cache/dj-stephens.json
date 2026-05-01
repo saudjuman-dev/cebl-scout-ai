@@ -166,10 +166,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:49.425Z",
+  "_lastVerified": "2026-05-01T02:08:24.476Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:49.425Z"
+  "cachedAt": "2026-04-30T19:58:49.425Z",
+  "nationality": "USA",
+  "birthdate": "December 19 1990",
+  "birthCity": "Frankfurt"
 }

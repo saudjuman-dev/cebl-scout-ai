@@ -196,10 +196,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:52.407Z",
+  "_lastVerified": "2026-05-01T02:32:24.122Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:52.407Z"
+  "cachedAt": "2026-04-30T19:24:52.407Z",
+  "nationality": "German",
+  "birthdate": "February 20 1990"
 }

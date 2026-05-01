@@ -90,10 +90,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:48:30.486Z",
+  "_lastVerified": "2026-05-01T02:57:56.321Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:48:30.486Z"
+  "cachedAt": "2026-04-30T21:48:30.486Z",
+  "nationality": "Spanish",
+  "birthdate": "January 30 1993",
+  "birthCity": "San Sebastian"
 }

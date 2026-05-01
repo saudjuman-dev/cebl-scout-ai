@@ -140,10 +140,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:46:33.181Z",
+  "_lastVerified": "2026-05-01T02:05:28.552Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:46:33.181Z"
+  "cachedAt": "2026-04-30T21:46:33.181Z",
+  "birthdate": "September 9 1990",
+  "birthCity": "Mostar"
 }

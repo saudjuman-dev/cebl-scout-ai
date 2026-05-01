@@ -66,10 +66,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:22.883Z",
+  "_lastVerified": "2026-05-01T03:11:39.540Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:22.883Z"
+  "cachedAt": "2026-04-30T21:03:22.883Z",
+  "nationality": "USA",
+  "birthdate": "August 7 1999",
+  "birthCity": "San Diego"
 }

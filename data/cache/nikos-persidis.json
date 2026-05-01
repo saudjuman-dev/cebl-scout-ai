@@ -121,10 +121,12 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:09.744Z",
+  "_lastVerified": "2026-05-01T03:03:34.181Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:09.744Z"
+  "cachedAt": "2026-04-30T20:05:09.744Z",
+  "nationality": "Greek",
+  "birthdate": "September 8 1995"
 }

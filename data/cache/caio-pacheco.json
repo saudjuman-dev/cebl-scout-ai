@@ -86,10 +86,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:45:37.334Z",
+  "_lastVerified": "2026-05-01T01:57:15.870Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:45:37.334Z"
+  "cachedAt": "2026-04-30T21:45:37.334Z",
+  "nationality": "Brazilian",
+  "birthdate": "February 22 1999",
+  "birthCity": "Rio Claro"
 }

@@ -100,10 +100,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:56:13.767Z",
+  "_lastVerified": "2026-05-01T02:12:30.055Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:56:13.767Z"
+  "cachedAt": "2026-04-30T21:56:13.767Z",
+  "nationality": "USA",
+  "birthdate": "September 9 1992",
+  "birthCity": "Newburgh"
 }

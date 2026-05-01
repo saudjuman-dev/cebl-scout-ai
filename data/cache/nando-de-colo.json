@@ -220,10 +220,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:26:05.237Z",
+  "_lastVerified": "2026-05-01T03:00:10.768Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:05.237Z"
+  "cachedAt": "2026-04-30T20:26:05.237Z",
+  "nationality": "French",
+  "birthdate": "June 23 1987",
+  "birthCity": "Sainte Catherine"
 }

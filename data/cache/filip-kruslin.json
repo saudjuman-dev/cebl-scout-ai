@@ -185,10 +185,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:40:34.751Z",
+  "_lastVerified": "2026-05-01T02:14:40.388Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:34.751Z"
+  "cachedAt": "2026-04-30T19:40:34.751Z",
+  "nationality": "Croatian",
+  "birthdate": "March 18 1989",
+  "birthCity": "Zagreb"
 }

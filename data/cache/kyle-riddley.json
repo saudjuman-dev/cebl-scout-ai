@@ -80,10 +80,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:26:03.495Z",
+  "_lastVerified": "2026-05-01T02:42:20.157Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:26:03.495Z"
+  "cachedAt": "2026-04-30T21:26:03.495Z",
+  "nationality": "USA",
+  "birthdate": "September 10 1996",
+  "birthCity": "Charlotte"
 }

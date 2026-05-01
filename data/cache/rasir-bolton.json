@@ -71,10 +71,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:39.933Z",
+  "_lastVerified": "2026-05-01T03:10:04.004Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:39.933Z"
+  "cachedAt": "2026-04-30T19:46:39.933Z",
+  "nationality": "USA",
+  "birthdate": "September 27 1999",
+  "birthCity": "Petersburg"
 }

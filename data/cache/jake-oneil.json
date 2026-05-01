@@ -61,10 +61,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:13.823Z",
+  "_lastVerified": "2026-05-01T02:25:45.538Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:13.823Z"
+  "cachedAt": "2026-04-30T20:34:13.823Z",
+  "nationality": "USA",
+  "birthCity": "Fruitland"
 }

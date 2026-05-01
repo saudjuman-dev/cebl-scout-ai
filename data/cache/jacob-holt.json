@@ -41,10 +41,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:18.347Z",
+  "_lastVerified": "2026-05-01T02:24:49.568Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:18.347Z"
+  "cachedAt": "2026-04-30T19:29:18.347Z",
+  "nationality": "Canadian",
+  "birthdate": "June 21 2003",
+  "birthCity": "Ladner"
 }

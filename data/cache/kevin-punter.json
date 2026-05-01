@@ -141,10 +141,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:52:40.484Z",
+  "_lastVerified": "2026-05-01T02:39:58.328Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:40.484Z"
+  "cachedAt": "2026-04-30T19:52:40.484Z",
+  "birthdate": "June 25 1993",
+  "birthCity": "Bronx"
 }

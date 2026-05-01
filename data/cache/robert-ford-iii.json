@@ -70,10 +70,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:26:22.006Z",
+  "_lastVerified": "2026-05-01T03:11:49.678Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:26:22.006Z"
+  "cachedAt": "2026-04-30T21:26:22.006Z",
+  "nationality": "USA",
+  "birthdate": "October 25 1999",
+  "birthCity": "Portland"
 }

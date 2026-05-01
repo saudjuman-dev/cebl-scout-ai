@@ -105,10 +105,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:04.344Z",
+  "_lastVerified": "2026-05-01T03:08:43.793Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:04.344Z"
+  "cachedAt": "2026-04-30T19:59:04.344Z",
+  "nationality": "French",
+  "birthdate": "August 16 1992",
+  "birthCity": "Agen"
 }

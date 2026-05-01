@@ -115,10 +115,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:55:27.262Z",
+  "_lastVerified": "2026-05-01T01:45:12.153Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:27.262Z"
+  "cachedAt": "2026-04-30T21:55:27.262Z",
+  "nationality": "Spanish",
+  "birthdate": "March 28 1995",
+  "birthCity": "Madrid"
 }

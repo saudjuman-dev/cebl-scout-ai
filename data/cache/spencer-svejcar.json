@@ -106,10 +106,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:54:59.287Z",
+  "_lastVerified": "2026-05-01T03:18:13.857Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:54:59.287Z"
+  "cachedAt": "2026-04-30T21:54:59.287Z",
+  "birthdate": "November 8 1994",
+  "birthCity": "Denver"
 }

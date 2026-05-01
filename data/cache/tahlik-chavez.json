@@ -60,10 +60,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:41:44.922Z",
+  "_lastVerified": "2026-05-01T03:19:31.324Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:41:44.922Z"
+  "cachedAt": "2026-04-30T20:41:44.922Z",
+  "nationality": "USA",
+  "birthdate": "January 10 2001",
+  "birthCity": "Arlington"
 }

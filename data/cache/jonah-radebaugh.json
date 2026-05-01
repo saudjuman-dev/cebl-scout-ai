@@ -106,10 +106,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:26.781Z",
+  "_lastVerified": "2026-05-01T02:32:10.765Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:26.781Z"
+  "cachedAt": "2026-04-30T19:51:26.781Z",
+  "birthdate": "June 17 1997",
+  "birthCity": "Thornton"
 }

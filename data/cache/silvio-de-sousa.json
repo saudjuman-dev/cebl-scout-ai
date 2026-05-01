@@ -51,10 +51,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:08:08.479Z",
+  "_lastVerified": "2026-05-01T03:17:09.732Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:08:08.479Z"
+  "cachedAt": "2026-04-30T20:08:08.479Z",
+  "nationality": "Angolan",
+  "birthdate": "October 7 1998",
+  "birthCity": "Luanda"
 }

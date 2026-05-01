@@ -71,10 +71,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:20.232Z",
+  "_lastVerified": "2026-05-01T02:37:10.687Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:20.232Z"
+  "cachedAt": "2026-04-30T19:36:20.232Z",
+  "nationality": "USA",
+  "birthdate": "January 4 1999",
+  "birthCity": "Millville"
 }

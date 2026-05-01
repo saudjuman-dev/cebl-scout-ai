@@ -71,10 +71,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:27.002Z",
+  "_lastVerified": "2026-05-01T03:09:20.502Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:27.002Z"
+  "cachedAt": "2026-04-30T19:42:27.002Z",
+  "nationality": "British",
+  "birthdate": "April 1 2003"
 }

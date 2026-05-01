@@ -66,10 +66,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:18:48.415Z",
+  "_lastVerified": "2026-05-01T02:58:51.333Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:18:48.415Z"
+  "cachedAt": "2026-04-30T21:18:48.415Z",
+  "nationality": "Lithuanian",
+  "birthdate": "October 15 1995",
+  "birthCity": "Sakiai"
 }

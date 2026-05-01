@@ -50,10 +50,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:58:51.799Z",
+  "_lastVerified": "2026-05-01T02:35:30.527Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:58:51.799Z"
+  "cachedAt": "2026-04-30T21:58:51.799Z",
+  "nationality": "Spanish",
+  "birthdate": "April 8 2001",
+  "birthCity": "Talavera de La Reina"
 }

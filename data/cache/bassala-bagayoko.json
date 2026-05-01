@@ -60,10 +60,12 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:59.893Z",
+  "_lastVerified": "2026-05-01T01:53:41.847Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:59.893Z"
+  "cachedAt": "2026-04-30T19:55:59.893Z",
+  "nationality": "Mali",
+  "birthdate": "September 10 2006"
 }

@@ -70,10 +70,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:12:36.863Z",
+  "_lastVerified": "2026-05-01T03:03:24.575Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:36.863Z"
+  "cachedAt": "2026-04-30T20:12:36.863Z",
+  "nationality": "Greek",
+  "birthdate": "May 19 2000",
+  "birthCity": "Amaroussio"
 }

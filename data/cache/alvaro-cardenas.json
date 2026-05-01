@@ -55,10 +55,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:41.328Z",
+  "_lastVerified": "2026-05-01T01:48:04.522Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:41.328Z"
+  "cachedAt": "2026-04-30T20:05:41.328Z",
+  "nationality": "Spanish",
+  "birthCity": "Granada"
 }

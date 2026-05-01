@@ -121,10 +121,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:53:08.766Z",
+  "_lastVerified": "2026-05-01T02:38:08.330Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:53:08.766Z"
+  "cachedAt": "2026-04-30T20:53:08.766Z",
+  "nationality": "Latvian",
+  "birthdate": "July 22 1997",
+  "birthCity": "Riga"
 }

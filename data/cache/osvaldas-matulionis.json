@@ -131,10 +131,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:23.916Z",
+  "_lastVerified": "2026-05-01T03:05:40.820Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:23.916Z"
+  "cachedAt": "2026-04-30T21:53:23.916Z",
+  "nationality": "Lithuanian",
+  "birthdate": "August 19 1991",
+  "birthCity": "Siauliai"
 }

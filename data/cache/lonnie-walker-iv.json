@@ -81,10 +81,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:32.828Z",
+  "_lastVerified": "2026-05-01T02:44:57.721Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:32.828Z"
+  "cachedAt": "2026-04-30T20:30:32.828Z",
+  "nationality": "USA",
+  "birthdate": "December 14 1998",
+  "birthCity": "Reading"
 }

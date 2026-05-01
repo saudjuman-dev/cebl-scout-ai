@@ -51,10 +51,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:24:58.024Z",
+  "_lastVerified": "2026-05-01T01:53:11.986Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:24:58.024Z"
+  "cachedAt": "2026-04-30T20:24:58.024Z",
+  "nationality": "Senegalese",
+  "birthdate": "January 18 2001",
+  "birthCity": "Dakar"
 }

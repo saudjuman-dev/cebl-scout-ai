@@ -81,10 +81,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:43.465Z",
+  "_lastVerified": "2026-05-01T02:57:45.469Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:43.465Z"
+  "cachedAt": "2026-04-30T19:39:43.465Z",
+  "birthdate": "February 19 1998",
+  "birthCity": "Houston"
 }

@@ -51,10 +51,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:42.039Z",
+  "_lastVerified": "2026-05-01T03:23:58.145Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:42.039Z"
+  "cachedAt": "2026-04-30T19:24:42.039Z",
+  "nationality": "USA",
+  "birthdate": "November 2 1998",
+  "birthCity": "Rock Island"
 }

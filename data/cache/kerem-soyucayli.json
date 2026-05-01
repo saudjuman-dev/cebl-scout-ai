@@ -29,10 +29,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:28:10.961Z",
+  "_lastVerified": "2026-05-01T02:39:26.572Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:28:10.961Z"
+  "cachedAt": "2026-04-30T20:28:10.961Z",
+  "nationality": "Turkish",
+  "birthdate": "March 14 2006"
 }

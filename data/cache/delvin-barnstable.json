@@ -36,10 +36,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:43.067Z",
+  "_lastVerified": "2026-05-01T02:05:33.586Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:43.067Z"
+  "cachedAt": "2026-04-30T21:03:43.067Z",
+  "nationality": "USA",
+  "birthdate": "July 5 2001",
+  "birthCity": "Sheboygan"
 }

@@ -110,10 +110,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:53.918Z",
+  "_lastVerified": "2026-05-01T02:52:01.590Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:53.918Z"
+  "cachedAt": "2026-04-30T19:55:53.918Z",
+  "nationality": "Slovenian",
+  "birthdate": "March 10 1995",
+  "birthCity": "Ljubljana"
 }

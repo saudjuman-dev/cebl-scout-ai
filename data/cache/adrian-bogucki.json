@@ -100,10 +100,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:59.176Z",
+  "_lastVerified": "2026-05-01T01:44:00.895Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:59.176Z"
+  "cachedAt": "2026-04-30T20:43:59.176Z",
+  "nationality": "Polish",
+  "birthdate": "November 18 1999",
+  "birthCity": "Leszno"
 }

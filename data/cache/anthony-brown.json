@@ -161,10 +161,13 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:22.513Z",
+  "_lastVerified": "2026-05-01T01:50:20.893Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:22.513Z"
+  "cachedAt": "2026-04-30T20:16:22.513Z",
+  "nationality": "USA",
+  "birthdate": "October 10 1992",
+  "birthCity": "Bellflower"
 }

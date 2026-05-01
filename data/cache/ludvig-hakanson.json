@@ -135,10 +135,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:15.550Z",
+  "_lastVerified": "2026-05-01T02:46:59.780Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:15.550Z"
+  "cachedAt": "2026-04-30T19:54:15.550Z",
+  "nationality": "Swedish",
+  "birthdate": "March 22 1996",
+  "birthCity": "Matteus"
 }

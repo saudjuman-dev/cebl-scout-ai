@@ -170,10 +170,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:45:54.719Z",
+  "_lastVerified": "2026-05-01T02:22:30.721Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:45:54.719Z"
+  "cachedAt": "2026-04-30T21:45:54.719Z",
+  "nationality": "Spanish",
+  "birthdate": "April 4 1995",
+  "birthCity": "Medina Gouna"
 }

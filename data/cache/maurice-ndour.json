@@ -126,10 +126,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:41.194Z",
+  "_lastVerified": "2026-05-01T02:54:31.007Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:41.194Z"
+  "cachedAt": "2026-04-30T19:41:41.194Z",
+  "nationality": "Senegalese",
+  "birthdate": "June 18 1992",
+  "birthCity": "Sindia"
 }

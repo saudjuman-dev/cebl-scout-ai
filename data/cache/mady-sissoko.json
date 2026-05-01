@@ -51,10 +51,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:02.377Z",
+  "_lastVerified": "2026-05-01T02:48:11.702Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:02.377Z"
+  "cachedAt": "2026-04-30T19:45:02.377Z",
+  "nationality": "Mali",
+  "birthdate": "December 20 2000",
+  "birthCity": "Bafoulabe"
 }

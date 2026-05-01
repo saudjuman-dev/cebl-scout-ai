@@ -146,10 +146,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:56.457Z",
+  "_lastVerified": "2026-05-01T01:59:25.690Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:56.457Z"
+  "cachedAt": "2026-04-30T20:32:56.457Z",
+  "birthdate": "November 1 1996",
+  "birthCity": "Lanham"
 }

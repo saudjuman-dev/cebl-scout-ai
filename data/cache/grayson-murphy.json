@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:03.839Z",
+  "_lastVerified": "2026-05-01T02:19:13.756Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:03.839Z"
+  "cachedAt": "2026-04-30T19:23:03.839Z",
+  "nationality": "USA",
+  "birthdate": "February 4 1999",
+  "birthCity": "Franklin"
 }

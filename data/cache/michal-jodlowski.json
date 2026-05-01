@@ -75,10 +75,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:47:47.125Z",
+  "_lastVerified": "2026-05-01T02:56:19.606Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:47:47.125Z"
+  "cachedAt": "2026-04-30T20:47:47.125Z",
+  "birthdate": "December 4 1998",
+  "birthCity": "Wroclaw"
 }

@@ -201,10 +201,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:26.228Z",
+  "_lastVerified": "2026-05-01T02:48:19.560Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:26.228Z"
+  "cachedAt": "2026-04-30T19:25:26.228Z",
+  "nationality": "German",
+  "birthdate": "January 29 1990",
+  "birthCity": "Traben-Trarbach"
 }

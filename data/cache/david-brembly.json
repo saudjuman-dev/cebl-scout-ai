@@ -126,10 +126,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:44:43.906Z",
+  "_lastVerified": "2026-05-01T02:03:59.791Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:44:43.906Z"
+  "cachedAt": "2026-04-30T20:44:43.906Z",
+  "birthdate": "February 10 1993",
+  "birthCity": "Cologne"
 }

@@ -71,10 +71,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:09:39.237Z",
+  "_lastVerified": "2026-05-01T01:51:24.044Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:09:39.237Z"
+  "cachedAt": "2026-04-30T21:09:39.237Z",
+  "birthdate": "January 24 2001",
+  "birthCity": "Auckland"
 }

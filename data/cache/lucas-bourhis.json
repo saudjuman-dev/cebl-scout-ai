@@ -65,10 +65,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:25:46.630Z",
+  "_lastVerified": "2026-05-01T02:46:19.564Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:25:46.630Z"
+  "cachedAt": "2026-04-30T21:25:46.630Z",
+  "nationality": "French",
+  "birthdate": "February 9 2000",
+  "birthCity": "Tours"
 }

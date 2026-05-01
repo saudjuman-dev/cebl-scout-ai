@@ -80,10 +80,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:57:28.255Z",
+  "_lastVerified": "2026-05-01T01:44:21.905Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:28.255Z"
+  "cachedAt": "2026-04-30T19:57:28.255Z",
+  "nationality": "Uruguayan",
+  "birthdate": "July 19 2003",
+  "birthCity": "Montevideo"
 }

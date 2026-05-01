@@ -96,10 +96,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:53.575Z",
+  "_lastVerified": "2026-05-01T03:02:41.515Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:53.575Z"
+  "cachedAt": "2026-04-30T19:26:53.575Z",
+  "birthdate": "June 6 1999",
+  "birthCity": "Indianapolis"
 }

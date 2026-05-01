@@ -100,10 +100,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:01.399Z",
+  "_lastVerified": "2026-05-01T02:47:50.947Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:01.399Z"
+  "cachedAt": "2026-04-30T20:00:01.399Z",
+  "birthdate": "October 29 1994",
+  "birthCity": "Germantown"
 }

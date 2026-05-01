@@ -221,10 +221,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:45.160Z",
+  "_lastVerified": "2026-05-01T02:58:39.828Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:45.160Z"
+  "cachedAt": "2026-04-30T19:41:45.160Z",
+  "nationality": "Croatian",
+  "birthdate": "July 21 1989",
+  "birthCity": "Sibenik"
 }

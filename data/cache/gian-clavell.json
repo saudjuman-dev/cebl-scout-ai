@@ -145,10 +145,12 @@
       "league": "ROM-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:12:30.072Z",
+  "_lastVerified": "2026-05-01T02:17:48.540Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:30.072Z"
+  "cachedAt": "2026-04-30T20:12:30.072Z",
+  "birthdate": "November 26 1993",
+  "birthCity": "Caguas"
 }

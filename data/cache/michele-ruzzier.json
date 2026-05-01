@@ -116,10 +116,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:09.548Z",
+  "_lastVerified": "2026-05-01T02:56:46.810Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:09.548Z"
+  "cachedAt": "2026-04-30T19:45:09.548Z",
+  "nationality": "Italian",
+  "birthdate": "February 9 1993",
+  "birthCity": "Trieste"
 }

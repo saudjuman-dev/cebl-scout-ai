@@ -56,10 +56,13 @@
       "league": "IDN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:50.968Z",
+  "_lastVerified": "2026-05-01T02:28:34.767Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:50.968Z"
+  "cachedAt": "2026-04-30T21:53:50.968Z",
+  "nationality": "Canadian",
+  "birthdate": "September 19 2002",
+  "birthCity": "Pickering"
 }

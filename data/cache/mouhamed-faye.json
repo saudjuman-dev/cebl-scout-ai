@@ -50,10 +50,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:20.890Z",
+  "_lastVerified": "2026-05-01T02:59:32.007Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:20.890Z"
+  "cachedAt": "2026-04-30T19:32:20.890Z",
+  "nationality": "Senegalese",
+  "birthdate": "February 5 2005"
 }

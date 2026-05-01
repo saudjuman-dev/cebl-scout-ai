@@ -126,10 +126,12 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:26.292Z",
+  "_lastVerified": "2026-05-01T02:01:19.959Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:26.292Z"
+  "cachedAt": "2026-04-30T20:16:26.292Z",
+  "birthdate": "August 3 1994",
+  "birthCity": "Victoria"
 }

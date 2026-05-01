@@ -95,10 +95,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:56:01.031Z",
+  "_lastVerified": "2026-05-01T03:15:32.204Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:56:01.031Z"
+  "cachedAt": "2026-04-30T21:56:01.031Z",
+  "nationality": "Danish",
+  "birthdate": "December 9 1995",
+  "birthCity": "Viborg"
 }

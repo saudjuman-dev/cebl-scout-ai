@@ -81,10 +81,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:19:27.029Z",
+  "_lastVerified": "2026-05-01T02:19:11.594Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:19:27.029Z"
+  "cachedAt": "2026-04-30T21:19:27.029Z",
+  "birthdate": "August 6 1996",
+  "birthCity": "Brentwood"
 }

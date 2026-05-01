@@ -95,10 +95,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:25:05.027Z",
+  "_lastVerified": "2026-05-01T02:40:08.835Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:05.027Z"
+  "cachedAt": "2026-04-30T20:25:05.027Z",
+  "nationality": "Dutch",
+  "birthdate": "December 29 2001",
+  "birthCity": "Rijswijk"
 }

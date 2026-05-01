@@ -91,10 +91,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:34:57.664Z",
+  "_lastVerified": "2026-05-01T02:53:41.799Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:34:57.664Z"
+  "cachedAt": "2026-04-30T21:34:57.664Z",
+  "nationality": "Italian",
+  "birthdate": "November 24 1993",
+  "birthCity": "Faenza"
 }

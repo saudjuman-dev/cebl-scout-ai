@@ -76,10 +76,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:22:16.760Z",
+  "_lastVerified": "2026-05-01T02:21:35.635Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:16.760Z"
+  "cachedAt": "2026-04-30T19:22:16.760Z",
+  "nationality": "USA",
+  "birthdate": "January 6 1998",
+  "birthCity": "Atlanta"
 }

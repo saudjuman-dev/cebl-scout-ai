@@ -70,10 +70,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:07:53.296Z",
+  "_lastVerified": "2026-05-01T03:11:35.297Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:07:53.296Z"
+  "cachedAt": "2026-04-30T22:07:53.296Z",
+  "birthdate": "December 2 1994",
+  "birthCity": "New Brunswick"
 }

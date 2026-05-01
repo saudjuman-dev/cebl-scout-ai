@@ -56,10 +56,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:24.689Z",
+  "_lastVerified": "2026-05-01T03:09:10.966Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:24.689Z"
+  "cachedAt": "2026-04-30T19:35:24.689Z",
+  "nationality": "Nigerian",
+  "birthdate": "January 30 2000",
+  "birthCity": "Lagos"
 }

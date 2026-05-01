@@ -121,10 +121,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:25.108Z",
+  "_lastVerified": "2026-05-01T03:29:52.974Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:25.108Z"
+  "cachedAt": "2026-04-30T19:32:25.108Z",
+  "birthdate": "January 24 1992",
+  "birthCity": "Tepa"
 }

@@ -86,10 +86,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:44:52.767Z",
+  "_lastVerified": "2026-05-01T01:51:31.965Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:44:52.767Z"
+  "cachedAt": "2026-04-30T21:44:52.767Z",
+  "nationality": "Italian",
+  "birthdate": "January 1 1994",
+  "birthCity": "Potenza"
 }

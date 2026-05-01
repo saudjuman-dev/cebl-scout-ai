@@ -66,10 +66,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:03.176Z",
+  "_lastVerified": "2026-05-01T01:59:46.352Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:03.176Z"
+  "cachedAt": "2026-04-30T20:06:03.176Z",
+  "nationality": "USA",
+  "birthdate": "December 24 1999",
+  "birthCity": "Chicago"
 }

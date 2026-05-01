@@ -56,10 +56,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:50.426Z",
+  "_lastVerified": "2026-05-01T01:51:36.055Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:50.426Z"
+  "cachedAt": "2026-04-30T19:38:50.426Z",
+  "nationality": "USA",
+  "birthdate": "November 17 2000",
+  "birthCity": "Indianapolis"
 }

@@ -91,10 +91,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:20.466Z",
+  "_lastVerified": "2026-05-01T03:24:07.878Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:20.466Z"
+  "cachedAt": "2026-04-30T19:53:20.466Z",
+  "nationality": "USA",
+  "birthdate": "June 12 1998",
+  "birthCity": "Chipley"
 }

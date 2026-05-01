@@ -30,10 +30,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:02:45.259Z",
+  "_lastVerified": "2026-05-01T02:35:15.713Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:02:45.259Z"
+  "cachedAt": "2026-04-30T22:02:45.259Z",
+  "birthdate": "August 23 2001",
+  "birthCity": "Buenos Aires"
 }

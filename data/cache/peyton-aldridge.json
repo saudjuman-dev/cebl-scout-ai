@@ -106,10 +106,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:51.144Z",
+  "_lastVerified": "2026-05-01T03:08:17.059Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:51.144Z"
+  "cachedAt": "2026-04-30T19:45:51.144Z",
+  "nationality": "USA",
+  "birthdate": "November 10 1995",
+  "birthCity": "Leavittsburg"
 }

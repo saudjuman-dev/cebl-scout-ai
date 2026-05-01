@@ -86,10 +86,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:24:17.750Z",
+  "_lastVerified": "2026-05-01T01:58:56.643Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:24:17.750Z"
+  "cachedAt": "2026-04-30T20:24:17.750Z",
+  "nationality": "USA",
+  "birthdate": "October 22 1998",
+  "birthCity": "Riverhead"
 }

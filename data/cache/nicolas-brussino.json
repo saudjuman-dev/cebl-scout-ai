@@ -156,10 +156,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:13.948Z",
+  "_lastVerified": "2026-05-01T03:01:59.134Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:13.948Z"
+  "cachedAt": "2026-04-30T19:59:13.948Z",
+  "nationality": "Argentinian",
+  "birthdate": "March 2 1993",
+  "birthCity": "Canada de Gomez"
 }

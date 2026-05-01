@@ -95,10 +95,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:55:51.932Z",
+  "_lastVerified": "2026-05-01T02:12:41.274Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:55:51.932Z"
+  "cachedAt": "2026-04-30T20:55:51.932Z",
+  "nationality": "Lithuanian",
+  "birthdate": "May 28 2000",
+  "birthCity": "Birzu"
 }

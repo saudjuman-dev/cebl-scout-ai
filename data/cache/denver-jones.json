@@ -46,10 +46,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:06.476Z",
+  "_lastVerified": "2026-05-01T02:05:55.218Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:06.476Z"
+  "cachedAt": "2026-04-30T20:33:06.476Z",
+  "nationality": "USA",
+  "birthdate": "November 2 2000",
+  "birthCity": "New Market"
 }

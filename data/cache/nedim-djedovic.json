@@ -80,10 +80,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:04:55.992Z",
+  "_lastVerified": "2026-05-01T03:01:01.379Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:04:55.992Z"
+  "cachedAt": "2026-04-30T22:04:55.992Z",
+  "birthdate": "February 16 1997",
+  "birthCity": "Munich"
 }

@@ -51,10 +51,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:07.037Z",
+  "_lastVerified": "2026-05-01T01:59:21.548Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:07.037Z"
+  "cachedAt": "2026-04-30T19:35:07.037Z",
+  "birthdate": "November 28 2001",
+  "birthCity": "San Diego"
 }

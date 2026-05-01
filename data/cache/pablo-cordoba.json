@@ -65,10 +65,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:55:43.034Z",
+  "_lastVerified": "2026-05-01T03:06:11.435Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:43.034Z"
+  "cachedAt": "2026-04-30T21:55:43.034Z",
+  "nationality": "Spanish",
+  "birthdate": "October 24 1997",
+  "birthCity": "Madrid"
 }

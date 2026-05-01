@@ -70,10 +70,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:38.417Z",
+  "_lastVerified": "2026-05-01T03:11:37.393Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:38.417Z"
+  "cachedAt": "2026-04-30T21:04:38.417Z",
+  "nationality": "USA",
+  "birthdate": "February 10 2000",
+  "birthCity": "Richmond"
 }

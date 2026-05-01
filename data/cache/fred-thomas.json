@@ -85,10 +85,13 @@
       "league": "FRA-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:14.737Z",
+  "_lastVerified": "2026-05-01T02:15:46.242Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:14.737Z"
+  "cachedAt": "2026-04-30T21:05:14.737Z",
+  "nationality": "USA",
+  "birthdate": "June 13 1993",
+  "birthCity": "Jackson"
 }

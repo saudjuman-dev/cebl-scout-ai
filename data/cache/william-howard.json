@@ -126,10 +126,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:01.765Z",
+  "_lastVerified": "2026-05-01T03:29:10.895Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:01.765Z"
+  "cachedAt": "2026-04-30T20:01:01.765Z",
+  "nationality": "French",
+  "birthdate": "October 25 1993",
+  "birthCity": "Montbrisson"
 }

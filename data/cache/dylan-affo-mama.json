@@ -70,10 +70,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:20:56.262Z",
+  "_lastVerified": "2026-05-01T02:09:50.368Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:20:56.262Z"
+  "cachedAt": "2026-04-30T21:20:56.262Z",
+  "nationality": "French",
+  "birthdate": "July 22 1999",
+  "birthCity": "Argenteuil"
 }

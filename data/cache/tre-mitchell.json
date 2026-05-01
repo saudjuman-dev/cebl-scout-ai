@@ -76,10 +76,13 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:33:37.340Z",
+  "_lastVerified": "2026-05-01T03:24:05.823Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:37.340Z"
+  "cachedAt": "2026-04-30T19:33:37.340Z",
+  "nationality": "USA",
+  "birthdate": "September 24 2000",
+  "birthCity": "Bamberg"
 }

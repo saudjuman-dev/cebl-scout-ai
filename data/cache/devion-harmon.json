@@ -46,10 +46,13 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:15:15.473Z",
+  "_lastVerified": "2026-05-01T02:06:38.219Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:15:15.473Z"
+  "cachedAt": "2026-04-30T22:15:15.473Z",
+  "nationality": "USA",
+  "birthdate": "January 22 2001",
+  "birthCity": "Plano"
 }

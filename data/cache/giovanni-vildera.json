@@ -76,10 +76,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:36:46.460Z",
+  "_lastVerified": "2026-05-01T02:18:31.626Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:36:46.460Z"
+  "cachedAt": "2026-04-30T21:36:46.460Z",
+  "nationality": "Italian",
+  "birthdate": "March 4 1995",
+  "birthCity": "Montebelluna"
 }

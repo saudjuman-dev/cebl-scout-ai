@@ -60,10 +60,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:48:27.119Z",
+  "_lastVerified": "2026-05-01T02:21:49.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:48:27.119Z"
+  "cachedAt": "2026-04-30T21:48:27.119Z",
+  "nationality": "Chilean",
+  "birthdate": "January 24 2000"
 }

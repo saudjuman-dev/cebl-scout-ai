@@ -71,10 +71,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:47.525Z",
+  "_lastVerified": "2026-05-01T01:56:17.075Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:47.525Z"
+  "cachedAt": "2026-04-30T19:43:47.525Z",
+  "nationality": "USA",
+  "birthdate": "April 7 1996",
+  "birthCity": "Ogden"
 }

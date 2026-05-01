@@ -155,10 +155,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:11.682Z",
+  "_lastVerified": "2026-05-01T01:43:18.764Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:11.682Z"
+  "cachedAt": "2026-04-30T19:54:11.682Z",
+  "nationality": "Hungarian",
+  "birthdate": "April 12 1989",
+  "birthCity": "Budapest"
 }

@@ -26,10 +26,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:45.932Z",
+  "_lastVerified": "2026-05-01T02:55:42.067Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:45.932Z"
+  "cachedAt": "2026-04-30T20:33:45.932Z",
+  "nationality": "Israeli",
+  "birthdate": "July 27 2003"
 }

@@ -66,10 +66,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:35.502Z",
+  "_lastVerified": "2026-05-01T01:53:18.288Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:35.502Z"
+  "cachedAt": "2026-04-30T19:24:35.502Z",
+  "nationality": "Senegalese",
+  "birthdate": "September 19 2003",
+  "birthCity": "Ziguinchor"
 }

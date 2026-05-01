@@ -155,10 +155,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:42:18.239Z",
+  "_lastVerified": "2026-05-01T02:37:53.765Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:42:18.239Z"
+  "cachedAt": "2026-04-30T20:42:18.239Z",
+  "nationality": "Polish",
+  "birthdate": "April 17 1989",
+  "birthCity": "Warszawa"
 }

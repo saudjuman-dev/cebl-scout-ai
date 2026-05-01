@@ -95,10 +95,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:51.002Z",
+  "_lastVerified": "2026-05-01T02:07:29.229Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:51.002Z"
+  "cachedAt": "2026-04-30T20:05:51.002Z",
+  "nationality": "Greek",
+  "birthdate": "January 25 1994"
 }

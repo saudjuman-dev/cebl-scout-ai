@@ -135,10 +135,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:25:08.422Z",
+  "_lastVerified": "2026-05-01T02:27:45.999Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:08.422Z"
+  "cachedAt": "2026-04-30T20:25:08.422Z",
+  "nationality": "USA",
+  "birthdate": "May 5 1992",
+  "birthCity": "Tyler"
 }

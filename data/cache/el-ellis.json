@@ -51,10 +51,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:07:42.657Z",
+  "_lastVerified": "2026-05-01T02:11:10.854Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:07:42.657Z"
+  "cachedAt": "2026-04-30T20:07:42.657Z",
+  "nationality": "USA",
+  "birthdate": "December 18 1999",
+  "birthCity": "Durham"
 }

@@ -66,10 +66,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:55:07.625Z",
+  "_lastVerified": "2026-05-01T03:24:40.352Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:55:07.625Z"
+  "cachedAt": "2026-04-30T20:55:07.625Z",
+  "nationality": "USA",
+  "birthdate": "July 7 1998",
+  "birthCity": "Bryan"
 }

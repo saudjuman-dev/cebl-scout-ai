@@ -60,10 +60,13 @@
       "league": "GRE-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:12:16.017Z",
+  "_lastVerified": "2026-05-01T01:47:28.975Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:16.017Z"
+  "cachedAt": "2026-04-30T20:12:16.017Z",
+  "nationality": "Greek",
+  "birthdate": "December 15 1999",
+  "birthCity": "Athens"
 }

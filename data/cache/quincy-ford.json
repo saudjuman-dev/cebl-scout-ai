@@ -115,10 +115,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:46:23.144Z",
+  "_lastVerified": "2026-05-01T03:09:18.407Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:46:23.144Z"
+  "cachedAt": "2026-04-30T20:46:23.144Z",
+  "nationality": "USA",
+  "birthdate": "January 20 1993",
+  "birthCity": "St"
 }

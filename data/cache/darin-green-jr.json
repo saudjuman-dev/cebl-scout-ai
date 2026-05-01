@@ -66,10 +66,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:52.565Z",
+  "_lastVerified": "2026-05-01T02:03:31.156Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:52.565Z"
+  "cachedAt": "2026-04-30T20:33:52.565Z",
+  "nationality": "USA",
+  "birthdate": "January 15 2001",
+  "birthCity": "Tampa"
 }

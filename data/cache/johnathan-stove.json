@@ -101,10 +101,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:20.452Z",
+  "_lastVerified": "2026-05-01T02:31:52.639Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:20.452Z"
+  "cachedAt": "2026-04-30T19:24:20.452Z",
+  "nationality": "USA",
+  "birthdate": "December 23 1995",
+  "birthCity": "Baton Rouge"
 }

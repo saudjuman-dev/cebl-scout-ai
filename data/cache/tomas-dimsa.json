@@ -181,10 +181,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:04:53.396Z",
+  "_lastVerified": "2026-05-01T03:22:39.195Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:53.396Z"
+  "cachedAt": "2026-04-30T20:04:53.396Z",
+  "nationality": "Lithuanian",
+  "birthdate": "January 2 1994",
+  "birthCity": "Kaunas"
 }

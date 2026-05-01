@@ -60,10 +60,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:27:33.591Z",
+  "_lastVerified": "2026-05-01T02:07:27.162Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:27:33.591Z"
+  "cachedAt": "2026-04-30T21:27:33.591Z",
+  "nationality": "French",
+  "birthdate": "December 28 1999",
+  "birthCity": "Autun"
 }

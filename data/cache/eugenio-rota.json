@@ -56,10 +56,12 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:36:15.025Z",
+  "_lastVerified": "2026-05-01T02:12:58.800Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:36:15.025Z"
+  "cachedAt": "2026-04-30T21:36:15.025Z",
+  "nationality": "Italian",
+  "birthdate": "August 13 1999"
 }

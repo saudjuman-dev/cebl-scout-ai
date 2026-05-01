@@ -51,10 +51,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:06.110Z",
+  "_lastVerified": "2026-05-01T02:42:39.333Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:06.110Z"
+  "cachedAt": "2026-04-30T20:06:06.110Z",
+  "nationality": "USA",
+  "birthdate": "February 8 2001",
+  "birthCity": "Burlington"
 }

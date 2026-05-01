@@ -100,10 +100,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:52:12.311Z",
+  "_lastVerified": "2026-05-01T03:00:55.079Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:12.311Z"
+  "cachedAt": "2026-04-30T19:52:12.311Z",
+  "nationality": "French",
+  "birthdate": "August 13 1998",
+  "birthCity": "Aubergenville"
 }

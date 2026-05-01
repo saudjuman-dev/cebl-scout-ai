@@ -61,10 +61,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:57.795Z",
+  "_lastVerified": "2026-05-01T03:29:16.560Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:57.795Z"
+  "cachedAt": "2026-04-30T19:29:57.795Z",
+  "nationality": "USA",
+  "birthdate": "May 25 2000",
+  "birthCity": "Philadelphia"
 }

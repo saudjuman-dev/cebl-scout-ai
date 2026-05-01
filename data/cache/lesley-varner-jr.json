@@ -81,10 +81,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:56:43.645Z",
+  "_lastVerified": "2026-05-01T02:44:06.036Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:56:43.645Z"
+  "cachedAt": "2026-04-30T20:56:43.645Z",
+  "nationality": "USA",
+  "birthdate": "April 29 1998",
+  "birthCity": "Dallas"
 }

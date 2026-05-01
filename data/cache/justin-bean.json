@@ -86,10 +86,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:44.256Z",
+  "_lastVerified": "2026-05-01T02:36:20.120Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:44.256Z"
+  "cachedAt": "2026-04-30T19:21:44.256Z",
+  "nationality": "USA",
+  "birthdate": "November 17 1996",
+  "birthCity": "Moore"
 }

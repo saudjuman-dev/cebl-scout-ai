@@ -145,10 +145,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:17.474Z",
+  "_lastVerified": "2026-05-01T01:51:58.042Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:17.474Z"
+  "cachedAt": "2026-04-30T20:00:17.474Z",
+  "nationality": "Ukrainian",
+  "birthdate": "June 25 1992",
+  "birthCity": "Sofiivka"
 }

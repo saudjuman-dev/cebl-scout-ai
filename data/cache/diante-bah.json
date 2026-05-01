@@ -40,10 +40,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:56:27.402Z",
+  "_lastVerified": "2026-05-01T02:07:07.703Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:56:27.402Z"
+  "cachedAt": "2026-04-30T21:56:27.402Z",
+  "birthdate": "January 20 1997",
+  "birthCity": "Mount Holly"
 }

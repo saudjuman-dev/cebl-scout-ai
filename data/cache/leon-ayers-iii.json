@@ -56,10 +56,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:02:53.957Z",
+  "_lastVerified": "2026-05-01T02:43:37.573Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:02:53.957Z"
+  "cachedAt": "2026-04-30T21:02:53.957Z",
+  "nationality": "USA",
+  "birthdate": "April 11 2000",
+  "birthCity": "Troy"
 }

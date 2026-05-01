@@ -55,10 +55,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:59:29.482Z",
+  "_lastVerified": "2026-05-01T02:39:00.192Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:59:29.482Z"
+  "cachedAt": "2026-04-30T21:59:29.482Z",
+  "nationality": "Spanish",
+  "birthdate": "August 28 2002",
+  "birthCity": "Leganes"
 }

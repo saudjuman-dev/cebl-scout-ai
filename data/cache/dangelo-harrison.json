@@ -131,10 +131,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:44:34.527Z",
+  "_lastVerified": "2026-05-01T02:02:27.955Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:44:34.527Z"
+  "cachedAt": "2026-04-30T21:44:34.527Z",
+  "nationality": "USA",
+  "birthdate": "August 14 1993",
+  "birthCity": "Anchorage"
 }

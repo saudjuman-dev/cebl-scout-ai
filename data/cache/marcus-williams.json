@@ -51,10 +51,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:43.964Z",
+  "_lastVerified": "2026-05-01T02:50:37.453Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:43.964Z"
+  "cachedAt": "2026-04-30T20:34:43.964Z",
+  "nationality": "USA",
+  "birthdate": "July 29 2002",
+  "birthCity": "Dickinson"
 }

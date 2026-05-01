@@ -96,10 +96,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:17.326Z",
+  "_lastVerified": "2026-05-01T03:24:30.939Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:17.326Z"
+  "cachedAt": "2026-04-30T20:35:17.326Z",
+  "nationality": "USA",
+  "birthdate": "October 13 1991",
+  "birthCity": "Huntsville"
 }

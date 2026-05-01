@@ -46,10 +46,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:07:34.228Z",
+  "_lastVerified": "2026-05-01T01:56:12.915Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:07:34.228Z"
+  "cachedAt": "2026-04-30T21:07:34.228Z",
+  "nationality": "USA",
+  "birthdate": "Jan. 6, 2003",
+  "birthCity": "Littleton"
 }

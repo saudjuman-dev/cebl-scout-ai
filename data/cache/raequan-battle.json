@@ -66,10 +66,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:05.890Z",
+  "_lastVerified": "2026-05-01T03:09:33.195Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:05.890Z"
+  "cachedAt": "2026-04-30T19:48:05.890Z",
+  "nationality": "USA",
+  "birthdate": "February 19 2001",
+  "birthCity": "Tulalip Bay"
 }

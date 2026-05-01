@@ -30,10 +30,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:27.175Z",
+  "_lastVerified": "2026-05-01T02:35:19.950Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:27.175Z"
+  "cachedAt": "2026-04-30T21:53:27.175Z",
+  "nationality": "Argentinian",
+  "birthdate": "March 18 2005",
+  "birthCity": "Buenos Aires"
 }

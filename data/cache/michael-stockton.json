@@ -111,10 +111,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:31.969Z",
+  "_lastVerified": "2026-05-01T02:56:03.783Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:31.969Z"
+  "cachedAt": "2026-04-30T19:38:31.969Z",
+  "nationality": "USA",
+  "birthdate": "May 7 1989",
+  "birthCity": "Spokane"
 }

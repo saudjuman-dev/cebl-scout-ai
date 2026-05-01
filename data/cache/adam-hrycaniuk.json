@@ -216,10 +216,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:42:29.184Z",
+  "_lastVerified": "2026-05-01T01:43:20.767Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:42:29.184Z"
+  "cachedAt": "2026-04-30T20:42:29.184Z",
+  "nationality": "Polish",
+  "birthdate": "March 15 1984",
+  "birthCity": "Mysliborz"
 }

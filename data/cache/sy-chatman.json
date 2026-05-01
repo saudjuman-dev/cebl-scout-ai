@@ -56,10 +56,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:39.438Z",
+  "_lastVerified": "2026-05-01T03:19:14.189Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:39.438Z"
+  "cachedAt": "2026-04-30T20:38:39.438Z",
+  "nationality": "USA",
+  "birthdate": "January 1 1998",
+  "birthCity": "Minneapolis"
 }

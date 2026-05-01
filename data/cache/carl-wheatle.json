@@ -76,10 +76,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:07.892Z",
+  "_lastVerified": "2026-05-01T01:58:02.190Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:07.892Z"
+  "cachedAt": "2026-04-30T19:43:07.892Z",
+  "nationality": "British",
+  "birthdate": "March 24 1998",
+  "birthCity": "Lambeth"
 }

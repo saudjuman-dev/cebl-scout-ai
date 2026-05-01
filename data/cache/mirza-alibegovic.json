@@ -106,10 +106,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:28.547Z",
+  "_lastVerified": "2026-05-01T02:58:41.903Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:28.547Z"
+  "cachedAt": "2026-04-30T19:47:28.547Z",
+  "birthdate": "September 25 1992",
+  "birthCity": "Corvallis"
 }

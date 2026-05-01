@@ -100,10 +100,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:28.888Z",
+  "_lastVerified": "2026-05-01T03:15:38.066Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:28.888Z"
+  "cachedAt": "2026-04-30T19:32:28.888Z",
+  "birthdate": "November 1 1997",
+  "birthCity": "Vitacura"
 }

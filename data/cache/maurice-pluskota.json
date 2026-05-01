@@ -101,10 +101,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:13:54.819Z",
+  "_lastVerified": "2026-05-01T02:54:33.097Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:54.819Z"
+  "cachedAt": "2026-04-30T21:13:54.819Z",
+  "nationality": "German",
+  "birthdate": "May 30 1992",
+  "birthCity": "Bremerhaven"
 }

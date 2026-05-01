@@ -75,10 +75,13 @@
       "league": "FRA-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:19.067Z",
+  "_lastVerified": "2026-05-01T03:24:24.730Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:19.067Z"
+  "cachedAt": "2026-04-30T21:05:19.067Z",
+  "nationality": "USA",
+  "birthdate": "July 29 1997",
+  "birthCity": "Lafayette"
 }

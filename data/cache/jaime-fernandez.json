@@ -135,10 +135,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:36.496Z",
+  "_lastVerified": "2026-05-01T02:25:28.657Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:36.496Z"
+  "cachedAt": "2026-04-30T19:54:36.496Z",
+  "nationality": "Spanish",
+  "birthdate": "June 4 1993",
+  "birthCity": "Madrid"
 }

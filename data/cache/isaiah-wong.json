@@ -91,10 +91,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:17.318Z",
+  "_lastVerified": "2026-05-01T02:23:34.568Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:17.318Z"
+  "cachedAt": "2026-04-30T19:59:17.318Z",
+  "nationality": "USA",
+  "birthdate": "January 28 2001",
+  "birthCity": "Trenton"
 }

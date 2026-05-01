@@ -175,10 +175,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:07.128Z",
+  "_lastVerified": "2026-05-01T03:16:13.095Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:07.128Z"
+  "cachedAt": "2026-04-30T19:51:07.128Z",
+  "nationality": "Spanish",
+  "birthdate": "November 15 1987",
+  "birthCity": "Mahon"
 }

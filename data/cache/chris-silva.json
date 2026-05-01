@@ -136,10 +136,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:12:19.526Z",
+  "_lastVerified": "2026-05-01T01:59:44.247Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:19.526Z"
+  "cachedAt": "2026-04-30T20:12:19.526Z",
+  "nationality": "Gabonese",
+  "birthdate": "September 19 1996",
+  "birthCity": "Libreville"
 }

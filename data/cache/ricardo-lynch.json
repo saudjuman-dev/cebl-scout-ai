@@ -71,10 +71,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:19:57.961Z",
+  "_lastVerified": "2026-05-01T03:10:42.850Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:19:57.961Z"
+  "cachedAt": "2026-04-30T21:19:57.961Z",
+  "nationality": "USA",
+  "birthdate": "November 9 1998",
+  "birthCity": "Ft"
 }

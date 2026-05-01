@@ -75,10 +75,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:26:54.273Z",
+  "_lastVerified": "2026-05-01T03:01:09.920Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:26:54.273Z"
+  "cachedAt": "2026-04-30T21:26:54.273Z",
+  "nationality": "USA",
+  "birthdate": "December 15 1998",
+  "birthCity": "Warner Robins"
 }

@@ -115,10 +115,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:58.604Z",
+  "_lastVerified": "2026-05-01T02:44:37.594Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:58.604Z"
+  "cachedAt": "2026-04-30T20:00:58.604Z",
+  "nationality": "Spanish",
+  "birthdate": "February 27 1993",
+  "birthCity": "San Just Devern"
 }

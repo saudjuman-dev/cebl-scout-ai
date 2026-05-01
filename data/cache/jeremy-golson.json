@@ -55,10 +55,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:01:45.270Z",
+  "_lastVerified": "2026-05-01T02:29:49.775Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:01:45.270Z"
+  "cachedAt": "2026-04-30T22:01:45.270Z",
+  "nationality": "USA",
+  "birthdate": "May 1 2000",
+  "birthCity": "West Palm Beach"
 }

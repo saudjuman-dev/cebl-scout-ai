@@ -86,10 +86,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:13:16.321Z",
+  "_lastVerified": "2026-05-01T03:21:33.854Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:16.321Z"
+  "cachedAt": "2026-04-30T21:13:16.321Z",
+  "nationality": "German",
+  "birthdate": "January 26 1993",
+  "birthCity": "Bochum"
 }

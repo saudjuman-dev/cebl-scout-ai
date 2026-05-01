@@ -51,10 +51,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:36.075Z",
+  "_lastVerified": "2026-05-01T02:30:33.799Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:36.075Z"
+  "cachedAt": "2026-04-30T20:30:36.075Z",
+  "nationality": "USA",
+  "birthdate": "April 4 2001",
+  "birthCity": "Covington"
 }

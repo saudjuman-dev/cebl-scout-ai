@@ -105,10 +105,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:57:21.811Z",
+  "_lastVerified": "2026-05-01T02:49:50.250Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:21.811Z"
+  "cachedAt": "2026-04-30T19:57:21.811Z",
+  "nationality": "Latvian",
+  "birthdate": "August 28 2001",
+  "birthCity": "Riga"
 }

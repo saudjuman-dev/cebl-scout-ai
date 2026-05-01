@@ -86,10 +86,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:42:00.869Z",
+  "_lastVerified": "2026-05-01T02:13:53.802Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:42:00.869Z"
+  "cachedAt": "2026-04-30T21:42:00.869Z",
+  "nationality": "Italian",
+  "birthdate": "January 23 1999",
+  "birthCity": "Sassuolo"
 }

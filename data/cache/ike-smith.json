@@ -60,10 +60,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:45:04.086Z",
+  "_lastVerified": "2026-05-01T02:22:12.847Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:45:04.086Z"
+  "cachedAt": "2026-04-30T20:45:04.086Z",
+  "nationality": "USA",
+  "birthdate": "July 5 1997",
+  "birthCity": "Gainesville"
 }

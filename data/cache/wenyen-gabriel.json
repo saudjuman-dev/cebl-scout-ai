@@ -131,10 +131,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:14.977Z",
+  "_lastVerified": "2026-05-01T03:28:31.178Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:14.977Z"
+  "cachedAt": "2026-04-30T19:21:14.977Z",
+  "birthdate": "March 26 1997",
+  "birthCity": "Khartoum"
 }

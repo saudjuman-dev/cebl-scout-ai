@@ -106,10 +106,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:58.491Z",
+  "_lastVerified": "2026-05-01T02:01:11.106Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:58.491Z"
+  "cachedAt": "2026-04-30T20:30:58.491Z",
+  "nationality": "USA",
+  "birthdate": "July 2 1997",
+  "birthCity": "Ashland"
 }

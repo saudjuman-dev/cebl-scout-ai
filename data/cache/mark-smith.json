@@ -91,10 +91,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:37.643Z",
+  "_lastVerified": "2026-05-01T02:51:10.074Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:37.643Z"
+  "cachedAt": "2026-04-30T19:23:37.643Z",
+  "nationality": "USA",
+  "birthdate": "August 16 1999",
+  "birthCity": "Decatur"
 }

@@ -46,10 +46,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:37:12.614Z",
+  "_lastVerified": "2026-05-01T03:05:45.008Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:37:12.614Z"
+  "cachedAt": "2026-04-30T20:37:12.614Z",
+  "nationality": "USA",
+  "birthdate": "January 16 2001",
+  "birthCity": "Buckeye"
 }

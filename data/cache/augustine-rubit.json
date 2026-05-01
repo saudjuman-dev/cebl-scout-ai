@@ -151,10 +151,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:57:46.736Z",
+  "_lastVerified": "2026-05-01T01:52:42.074Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:46.736Z"
+  "cachedAt": "2026-04-30T20:57:46.736Z",
+  "nationality": "USA",
+  "birthdate": "August 14 1989",
+  "birthCity": "Houston"
 }

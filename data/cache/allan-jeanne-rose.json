@@ -40,10 +40,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:26:43.361Z",
+  "_lastVerified": "2026-05-01T01:47:46.305Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:26:43.361Z"
+  "cachedAt": "2026-04-30T21:26:43.361Z",
+  "nationality": "French",
+  "birthdate": "February 18 2000",
+  "birthCity": "Saint Joseph"
 }

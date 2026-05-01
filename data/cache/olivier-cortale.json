@@ -90,10 +90,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:25:06.730Z",
+  "_lastVerified": "2026-05-01T03:04:41.666Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:25:06.730Z"
+  "cachedAt": "2026-04-30T21:25:06.730Z",
+  "nationality": "French",
+  "birthdate": "March 16 1997",
+  "birthCity": "Clamart"
 }

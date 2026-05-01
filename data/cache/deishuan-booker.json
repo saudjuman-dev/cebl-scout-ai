@@ -111,10 +111,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:16.376Z",
+  "_lastVerified": "2026-05-01T02:05:21.374Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:16.376Z"
+  "cachedAt": "2026-04-30T20:33:16.376Z",
+  "nationality": "USA",
+  "birthdate": "December 29 1996",
+  "birthCity": "Las Vegas"
 }

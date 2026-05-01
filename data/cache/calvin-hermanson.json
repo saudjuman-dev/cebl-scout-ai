@@ -61,10 +61,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:49:08.265Z",
+  "_lastVerified": "2026-05-01T01:57:27.214Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:49:08.265Z"
+  "cachedAt": "2026-04-30T21:49:08.265Z",
+  "nationality": "USA",
+  "birthdate": "September 29 1994",
+  "birthCity": "Lake Oswego"
 }

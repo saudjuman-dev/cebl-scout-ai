@@ -91,10 +91,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:03:49.332Z",
+  "_lastVerified": "2026-05-01T02:38:53.958Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:03:49.332Z"
+  "cachedAt": "2026-04-30T20:03:49.332Z",
+  "nationality": "USA",
+  "birthdate": "August 3 1995",
+  "birthCity": "Chicago"
 }

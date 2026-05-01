@@ -75,10 +75,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:52:49.154Z",
+  "_lastVerified": "2026-05-01T01:58:12.511Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:52:49.154Z"
+  "cachedAt": "2026-04-30T21:52:49.154Z",
+  "nationality": "Estonian",
+  "birthdate": "October 27 1998",
+  "birthCity": "Tartu"
 }

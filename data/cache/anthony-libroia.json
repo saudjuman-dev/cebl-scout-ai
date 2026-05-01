@@ -75,10 +75,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:02:13.878Z",
+  "_lastVerified": "2026-05-01T01:50:37.732Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:02:13.878Z"
+  "cachedAt": "2026-04-30T22:02:13.878Z",
+  "birthdate": "February 2 1994",
+  "birthCity": "Bayside"
 }

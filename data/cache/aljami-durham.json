@@ -81,10 +81,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:46.840Z",
+  "_lastVerified": "2026-05-01T01:47:39.283Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:46.840Z"
+  "cachedAt": "2026-04-30T19:47:46.840Z",
+  "nationality": "USA",
+  "birthdate": "September 30 1998",
+  "birthCity": "Lilburn"
 }

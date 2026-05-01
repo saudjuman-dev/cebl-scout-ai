@@ -91,10 +91,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:44.133Z",
+  "_lastVerified": "2026-05-01T02:49:04.648Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:44.133Z"
+  "cachedAt": "2026-04-30T19:23:44.133Z",
+  "nationality": "USA",
+  "birthdate": "April 9 1998",
+  "birthCity": "Matteson"
 }

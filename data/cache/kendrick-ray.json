@@ -141,10 +141,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:04:27.132Z",
+  "_lastVerified": "2026-05-01T02:38:58.150Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:27.132Z"
+  "cachedAt": "2026-04-30T20:04:27.132Z",
+  "nationality": "USA",
+  "birthdate": "January 26 1994",
+  "birthCity": "Bronx"
 }

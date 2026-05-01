@@ -40,10 +40,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:52:45.824Z",
+  "_lastVerified": "2026-05-01T02:08:04.257Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:52:45.824Z"
+  "cachedAt": "2026-04-30T21:52:45.824Z",
+  "nationality": "Portuguese",
+  "birthdate": "May 11 2004",
+  "birthCity": "Lisbon"
 }

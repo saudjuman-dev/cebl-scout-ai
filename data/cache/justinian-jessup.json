@@ -111,10 +111,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:21.298Z",
+  "_lastVerified": "2026-05-01T02:37:03.352Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:21.298Z"
+  "cachedAt": "2026-04-30T19:21:21.298Z",
+  "nationality": "USA",
+  "birthdate": "May 23 1998",
+  "birthCity": "Longmont"
 }

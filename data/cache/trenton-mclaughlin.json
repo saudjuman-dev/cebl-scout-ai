@@ -36,10 +36,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:55:25.330Z",
+  "_lastVerified": "2026-05-01T03:24:12.012Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:55:25.330Z"
+  "cachedAt": "2026-04-30T20:55:25.330Z",
+  "nationality": "USA",
+  "birthdate": "September 27 2001",
+  "birthCity": "Chandler"
 }

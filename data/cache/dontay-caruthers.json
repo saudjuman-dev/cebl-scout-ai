@@ -106,10 +106,13 @@
       "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:51:08.214Z",
+  "_lastVerified": "2026-05-01T02:09:08.517Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:08.214Z"
+  "cachedAt": "2026-04-30T20:51:08.214Z",
+  "nationality": "USA",
+  "birthdate": "June 23 1995",
+  "birthCity": "Rochester"
 }

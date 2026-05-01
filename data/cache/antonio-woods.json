@@ -76,10 +76,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:02:00.642Z",
+  "_lastVerified": "2026-05-01T01:51:05.951Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:02:00.642Z"
+  "cachedAt": "2026-04-30T21:02:00.642Z",
+  "nationality": "USA",
+  "birthdate": "August 20 1995",
+  "birthCity": "Cincinnati"
 }

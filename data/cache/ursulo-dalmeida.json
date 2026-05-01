@@ -56,10 +56,12 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:40:55.584Z",
+  "_lastVerified": "2026-05-01T03:26:09.817Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:40:55.584Z"
+  "cachedAt": "2026-04-30T21:40:55.584Z",
+  "birthdate": "November 1 2001",
+  "birthCity": "Adinhingon"
 }

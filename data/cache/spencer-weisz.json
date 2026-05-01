@@ -91,10 +91,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:35.529Z",
+  "_lastVerified": "2026-05-01T03:18:15.896Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:35.529Z"
+  "cachedAt": "2026-04-30T20:36:35.529Z",
+  "birthdate": "May 31 1995",
+  "birthCity": "Florham Park"
 }

@@ -76,10 +76,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:04.107Z",
+  "_lastVerified": "2026-05-01T02:26:53.736Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:04.107Z"
+  "cachedAt": "2026-04-30T19:58:04.107Z",
+  "nationality": "USA",
+  "birthdate": "April 8 1997",
+  "birthCity": "Milwaukee"
 }

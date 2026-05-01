@@ -100,10 +100,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:14.148Z",
+  "_lastVerified": "2026-05-01T02:14:26.015Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:14.148Z"
+  "cachedAt": "2026-04-30T21:50:14.148Z",
+  "birthdate": "October 20 1997",
+  "birthCity": "Santa Fe"
 }

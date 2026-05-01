@@ -70,10 +70,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:07.801Z",
+  "_lastVerified": "2026-05-01T02:56:01.644Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:07.801Z"
+  "cachedAt": "2026-04-30T19:54:07.801Z",
+  "nationality": "Croatian",
+  "birthdate": "January 26 2006"
 }

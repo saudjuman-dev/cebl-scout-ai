@@ -141,10 +141,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:50.678Z",
+  "_lastVerified": "2026-05-01T03:07:09.845Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:50.678Z"
+  "cachedAt": "2026-04-30T19:43:50.678Z",
+  "birthdate": "May 31 1990",
+  "birthCity": "Perugia"
 }

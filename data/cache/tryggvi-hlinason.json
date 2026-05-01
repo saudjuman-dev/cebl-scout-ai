@@ -100,10 +100,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:43.575Z",
+  "_lastVerified": "2026-05-01T03:24:55.410Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:43.575Z"
+  "cachedAt": "2026-04-30T19:55:43.575Z",
+  "nationality": "Icelandic",
+  "birthdate": "October 28 1997",
+  "birthCity": "Akureyri"
 }

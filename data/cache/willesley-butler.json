@@ -56,10 +56,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:32:24.297Z",
+  "_lastVerified": "2026-05-01T03:29:06.746Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:32:24.297Z"
+  "cachedAt": "2026-04-30T21:32:24.297Z",
+  "birthdate": "December 23 1996",
+  "birthCity": "St"
 }

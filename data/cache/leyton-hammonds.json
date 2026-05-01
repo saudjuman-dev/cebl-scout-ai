@@ -105,10 +105,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:07:01.482Z",
+  "_lastVerified": "2026-05-01T02:44:08.122Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:07:01.482Z"
+  "cachedAt": "2026-04-30T20:07:01.482Z",
+  "nationality": "USA",
+  "birthdate": "September 26 1994"
 }

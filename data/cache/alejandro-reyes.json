@@ -125,10 +125,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:57:18.353Z",
+  "_lastVerified": "2026-05-01T01:45:38.279Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:18.353Z"
+  "cachedAt": "2026-04-30T19:57:18.353Z",
+  "nationality": "Spanish",
+  "birthdate": "December 17 1993",
+  "birthCity": "Caceres"
 }

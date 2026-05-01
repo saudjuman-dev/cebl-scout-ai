@@ -56,10 +56,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:39:33.523Z",
+  "_lastVerified": "2026-05-01T03:09:26.785Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:39:33.523Z"
+  "cachedAt": "2026-04-30T20:39:33.523Z",
+  "nationality": "USA",
+  "birthdate": "June 4 1999",
+  "birthCity": "Plymouth"
 }

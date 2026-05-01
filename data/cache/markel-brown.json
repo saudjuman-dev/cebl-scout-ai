@@ -131,10 +131,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:44:39.030Z",
+  "_lastVerified": "2026-05-01T02:51:14.974Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:39.030Z"
+  "cachedAt": "2026-04-30T19:44:39.030Z",
+  "nationality": "USA",
+  "birthdate": "January 29 1992",
+  "birthCity": "Alexandria"
 }

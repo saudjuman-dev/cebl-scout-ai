@@ -81,10 +81,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:46.097Z",
+  "_lastVerified": "2026-05-01T02:05:06.821Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:46.097Z"
+  "cachedAt": "2026-04-30T20:38:46.097Z",
+  "nationality": "USA",
+  "birthdate": "February 26 2000",
+  "birthCity": "Kansas City"
 }

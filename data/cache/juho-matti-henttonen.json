@@ -81,10 +81,13 @@
       "league": "AUT-2"
     }
   ],
-  "_lastVerified": "2026-04-30T22:13:35.876Z",
+  "_lastVerified": "2026-05-01T02:35:48.665Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:13:35.876Z"
+  "cachedAt": "2026-04-30T22:13:35.876Z",
+  "nationality": "Finnish",
+  "birthdate": "March 19 1996",
+  "birthCity": "Turku"
 }

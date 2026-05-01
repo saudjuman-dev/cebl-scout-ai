@@ -105,10 +105,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:58.605Z",
+  "_lastVerified": "2026-05-01T01:57:23.106Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:58.605Z"
+  "cachedAt": "2026-04-30T20:16:58.605Z",
+  "nationality": "USA",
+  "birthdate": "November 27 1996",
+  "birthCity": "Indian Trails"
 }

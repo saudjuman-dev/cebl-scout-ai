@@ -76,10 +76,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:14.292Z",
+  "_lastVerified": "2026-05-01T01:57:35.476Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:14.292Z"
+  "cachedAt": "2026-04-30T19:58:14.292Z",
+  "nationality": "USA",
+  "birthdate": "December 21 1998",
+  "birthCity": "Algonquin"
 }

@@ -160,10 +160,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:23:00.429Z",
+  "_lastVerified": "2026-05-01T02:18:40.931Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:00.429Z"
+  "cachedAt": "2026-04-30T20:23:00.429Z",
+  "nationality": "Turkish",
+  "birthdate": "January 8 1991",
+  "birthCity": "Tonya"
 }

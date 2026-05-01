@@ -195,10 +195,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:47:05.025Z",
+  "_lastVerified": "2026-05-01T02:22:43.758Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:05.025Z"
+  "cachedAt": "2026-04-30T21:47:05.025Z",
+  "nationality": "Latvian",
+  "birthdate": "April 18 1993",
+  "birthCity": "Madona"
 }

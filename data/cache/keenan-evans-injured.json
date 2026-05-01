@@ -105,10 +105,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:09:15.140Z",
+  "_lastVerified": "2026-05-01T02:38:34.968Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:15.140Z"
+  "cachedAt": "2026-04-30T20:09:15.140Z",
+  "nationality": "USA",
+  "birthdate": "August 23 1996",
+  "birthCity": "Richardson"
 }

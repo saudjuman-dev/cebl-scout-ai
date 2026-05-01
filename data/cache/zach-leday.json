@@ -126,10 +126,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:33.557Z",
+  "_lastVerified": "2026-05-01T03:31:24.615Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:33.557Z"
+  "cachedAt": "2026-04-30T19:42:33.557Z",
+  "birthdate": "May 30 1994",
+  "birthCity": "Dallas"
 }

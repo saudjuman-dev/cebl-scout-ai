@@ -150,10 +150,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:23.597Z",
+  "_lastVerified": "2026-05-01T02:11:59.203Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:23.597Z"
+  "cachedAt": "2026-04-30T19:55:23.597Z",
+  "birthdate": "July 13 1995",
+  "birthCity": "Luka Zepa"
 }

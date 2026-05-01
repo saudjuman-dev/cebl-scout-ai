@@ -146,10 +146,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:07:55.200Z",
+  "_lastVerified": "2026-05-01T02:25:05.403Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:07:55.200Z"
+  "cachedAt": "2026-04-30T20:07:55.200Z",
+  "nationality": "USA",
+  "birthdate": "June 12 1994",
+  "birthCity": "Birmingham"
 }

@@ -180,10 +180,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:25:38.920Z",
+  "_lastVerified": "2026-05-01T03:12:24.225Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:38.920Z"
+  "cachedAt": "2026-04-30T20:25:38.920Z",
+  "nationality": "French",
+  "birthdate": "February 24 1988",
+  "birthCity": "Pointe-A-Pitre"
 }

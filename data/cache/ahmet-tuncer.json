@@ -130,10 +130,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:19:40.745Z",
+  "_lastVerified": "2026-05-01T01:44:32.362Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:19:40.745Z"
+  "cachedAt": "2026-04-30T20:19:40.745Z",
+  "nationality": "Turkish",
+  "birthdate": "March 23 1993",
+  "birthCity": "Uyrugu"
 }

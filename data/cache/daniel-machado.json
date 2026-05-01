@@ -90,10 +90,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:07:58.766Z",
+  "_lastVerified": "2026-05-01T02:02:49.350Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:07:58.766Z"
+  "cachedAt": "2026-04-30T21:07:58.766Z",
+  "nationality": "Portuguese",
+  "birthdate": "April 11 1990",
+  "birthCity": "Lisboa"
 }

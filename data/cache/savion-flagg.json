@@ -76,10 +76,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:26.830Z",
+  "_lastVerified": "2026-05-01T03:15:11.838Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:26.830Z"
+  "cachedAt": "2026-04-30T19:46:26.830Z",
+  "nationality": "USA",
+  "birthdate": "May 26 1999",
+  "birthCity": "Alvin"
 }

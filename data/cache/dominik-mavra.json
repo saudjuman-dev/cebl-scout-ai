@@ -185,10 +185,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:53.478Z",
+  "_lastVerified": "2026-05-01T02:08:49.986Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:53.478Z"
+  "cachedAt": "2026-04-30T19:56:53.478Z",
+  "nationality": "Croatian",
+  "birthdate": "June 15 1994",
+  "birthCity": "Zadar"
 }

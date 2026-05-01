@@ -76,10 +76,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:49.804Z",
+  "_lastVerified": "2026-05-01T02:23:32.492Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:49.804Z"
+  "cachedAt": "2026-04-30T19:46:49.804Z",
+  "nationality": "USA",
+  "birthdate": "March 26 1998",
+  "birthCity": "Gastonia"
 }

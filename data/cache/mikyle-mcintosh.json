@@ -91,10 +91,12 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:02:26.999Z",
+  "_lastVerified": "2026-05-01T02:58:14.011Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:02:26.999Z"
+  "cachedAt": "2026-04-30T21:02:26.999Z",
+  "birthdate": "July 19 1994",
+  "birthCity": "Toronto"
 }

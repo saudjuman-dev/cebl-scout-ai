@@ -15,10 +15,12 @@
       "league": "GRE-5"
     }
   ],
-  "_lastVerified": "2026-04-30T20:14:20.368Z",
+  "_lastVerified": "2026-05-01T02:40:59.009Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:14:20.368Z"
+  "cachedAt": "2026-04-30T20:14:20.368Z",
+  "nationality": "Greek",
+  "birthdate": "March 25 2009"
 }

@@ -65,10 +65,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:28.220Z",
+  "_lastVerified": "2026-05-01T03:09:16.285Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:28.220Z"
+  "cachedAt": "2026-04-30T19:38:28.220Z",
+  "nationality": "French",
+  "birthdate": "September 11 1999",
+  "birthCity": "La seyne-sur-Mer"
 }

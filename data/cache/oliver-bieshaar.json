@@ -65,10 +65,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:00:04.093Z",
+  "_lastVerified": "2026-05-01T03:04:37.244Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:00:04.093Z"
+  "cachedAt": "2026-04-30T22:00:04.093Z",
+  "nationality": "Dutch",
+  "birthdate": "November 29 2001",
+  "birthCity": "Haarlem"
 }

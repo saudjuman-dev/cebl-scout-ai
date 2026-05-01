@@ -86,10 +86,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:38.724Z",
+  "_lastVerified": "2026-05-01T03:18:42.566Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:38.724Z"
+  "cachedAt": "2026-04-30T19:24:38.724Z",
+  "birthdate": "June 27 1999",
+  "birthCity": "Ajax"
 }

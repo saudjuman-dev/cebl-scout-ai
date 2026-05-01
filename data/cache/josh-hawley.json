@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:29.896Z",
+  "_lastVerified": "2026-05-01T02:34:33.623Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:29.896Z"
+  "cachedAt": "2026-04-30T19:30:29.896Z",
+  "nationality": "USA",
+  "birthdate": "October 28 1996",
+  "birthCity": "Irving"
 }

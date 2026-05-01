@@ -105,10 +105,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:06:01.636Z",
+  "_lastVerified": "2026-05-01T03:08:02.372Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:06:01.636Z"
+  "cachedAt": "2026-04-30T21:06:01.636Z",
+  "nationality": "Portuguese",
+  "birthdate": "March 5 1988",
+  "birthCity": "Barreiro"
 }

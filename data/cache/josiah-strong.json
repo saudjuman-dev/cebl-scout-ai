@@ -70,10 +70,13 @@
       "league": "ADR-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:30.447Z",
+  "_lastVerified": "2026-05-01T02:34:53.286Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:30.447Z"
+  "cachedAt": "2026-04-30T20:06:30.447Z",
+  "nationality": "USA",
+  "birthdate": "September 17 1999",
+  "birthCity": "Brooklyn Park"
 }

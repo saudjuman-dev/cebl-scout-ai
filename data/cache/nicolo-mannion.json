@@ -96,10 +96,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:43.603Z",
+  "_lastVerified": "2026-05-01T03:02:16.334Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:43.603Z"
+  "cachedAt": "2026-04-30T19:42:43.603Z",
+  "birthdate": "March 14 2001",
+  "birthCity": "Siena"
 }

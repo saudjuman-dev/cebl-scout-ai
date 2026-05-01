@@ -90,10 +90,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:55:46.718Z",
+  "_lastVerified": "2026-05-01T01:59:52.529Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:46.718Z"
+  "cachedAt": "2026-04-30T21:55:46.718Z",
+  "nationality": "Spanish",
+  "birthdate": "March 23 1992",
+  "birthCity": "Palmas De Gran Canar"
 }

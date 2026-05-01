@@ -75,10 +75,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:47:12.536Z",
+  "_lastVerified": "2026-05-01T01:43:22.960Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:12.536Z"
+  "cachedAt": "2026-04-30T21:47:12.536Z",
+  "nationality": "USA",
+  "birthdate": "December 9 1999",
+  "birthCity": "Hebron"
 }

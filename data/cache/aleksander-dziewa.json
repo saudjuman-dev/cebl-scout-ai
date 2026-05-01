@@ -91,10 +91,12 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:00:33.201Z",
+  "_lastVerified": "2026-05-01T01:45:56.745Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:00:33.201Z"
+  "cachedAt": "2026-04-30T21:00:33.201Z",
+  "nationality": "Polish",
+  "birthdate": "November 6 1997"
 }

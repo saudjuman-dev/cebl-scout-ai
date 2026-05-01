@@ -96,10 +96,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:18:08.752Z",
+  "_lastVerified": "2026-05-01T02:51:21.139Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:18:08.752Z"
+  "cachedAt": "2026-04-30T21:18:08.752Z",
+  "birthdate": "November 14 1995",
+  "birthCity": "Berlin"
 }

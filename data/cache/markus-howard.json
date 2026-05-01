@@ -81,10 +81,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:34.384Z",
+  "_lastVerified": "2026-05-01T02:51:32.502Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:34.384Z"
+  "cachedAt": "2026-04-30T19:53:34.384Z",
+  "birthdate": "March 3 1999",
+  "birthCity": "Morristown"
 }

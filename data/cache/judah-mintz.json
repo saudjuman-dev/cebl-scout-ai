@@ -41,10 +41,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:23:52.269Z",
+  "_lastVerified": "2026-05-01T02:35:37.870Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:52.269Z"
+  "cachedAt": "2026-04-30T20:23:52.269Z",
+  "nationality": "USA",
+  "birthdate": "July 10 2003",
+  "birthCity": "Fort Washington"
 }

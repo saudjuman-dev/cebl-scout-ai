@@ -126,10 +126,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:36.997Z",
+  "_lastVerified": "2026-05-01T03:16:36.563Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:36.997Z"
+  "cachedAt": "2026-04-30T19:27:36.997Z",
+  "nationality": "USA",
+  "birthdate": "March 24 1993",
+  "birthCity": "Clara City"
 }

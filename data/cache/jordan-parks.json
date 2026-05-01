@@ -126,10 +126,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:48.656Z",
+  "_lastVerified": "2026-05-01T02:33:18.560Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:48.656Z"
+  "cachedAt": "2026-04-30T19:42:48.656Z",
+  "nationality": "USA",
+  "birthdate": "April 6 1994",
+  "birthCity": "Staten Island"
 }

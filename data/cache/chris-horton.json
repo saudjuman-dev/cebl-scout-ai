@@ -111,10 +111,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:15.103Z",
+  "_lastVerified": "2026-05-01T01:59:40.035Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:15.103Z"
+  "cachedAt": "2026-04-30T19:43:15.103Z",
+  "nationality": "USA",
+  "birthdate": "June 29 1994",
+  "birthCity": "Decatur"
 }

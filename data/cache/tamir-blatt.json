@@ -136,10 +136,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:53.161Z",
+  "_lastVerified": "2026-05-01T03:19:43.876Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:53.161Z"
+  "cachedAt": "2026-04-30T20:30:53.161Z",
+  "nationality": "Israeli",
+  "birthdate": "May 4 1997",
+  "birthCity": "Netanya"
 }

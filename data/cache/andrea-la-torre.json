@@ -86,10 +86,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:40:01.698Z",
+  "_lastVerified": "2026-05-01T01:49:10.359Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:40:01.698Z"
+  "cachedAt": "2026-04-30T21:40:01.698Z",
+  "nationality": "Italian",
+  "birthdate": "June 14 1997",
+  "birthCity": "Venice"
 }

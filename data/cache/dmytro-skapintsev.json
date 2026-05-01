@@ -131,10 +131,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:37.309Z",
+  "_lastVerified": "2026-05-01T02:08:39.621Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:37.309Z"
+  "cachedAt": "2026-04-30T20:32:37.309Z",
+  "nationality": "Ukrainian",
+  "birthdate": "May 12 1998",
+  "birthCity": "Cherkassy"
 }

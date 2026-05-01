@@ -96,10 +96,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:00.918Z",
+  "_lastVerified": "2026-05-01T03:02:37.308Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:00.918Z"
+  "cachedAt": "2026-04-30T20:35:00.918Z",
+  "nationality": "USA",
+  "birthdate": "November 21 1997",
+  "birthCity": "Beaumont"
 }

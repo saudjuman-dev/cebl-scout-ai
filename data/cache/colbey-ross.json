@@ -96,10 +96,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:44:52.166Z",
+  "_lastVerified": "2026-05-01T02:01:02.275Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:52.166Z"
+  "cachedAt": "2026-04-30T19:44:52.166Z",
+  "nationality": "USA",
+  "birthdate": "October 22 1998",
+  "birthCity": "Aurora"
 }

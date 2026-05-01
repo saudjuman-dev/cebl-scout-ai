@@ -121,10 +121,13 @@
       "league": "CHN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:11:06.870Z",
+  "_lastVerified": "2026-05-01T02:28:53.514Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:06.870Z"
+  "cachedAt": "2026-04-30T20:11:06.870Z",
+  "nationality": "USA",
+  "birthdate": "December 2 1999",
+  "birthCity": "San Diego"
 }

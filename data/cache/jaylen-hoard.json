@@ -101,10 +101,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:25.232Z",
+  "_lastVerified": "2026-05-01T02:28:55.565Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:25.232Z"
+  "cachedAt": "2026-04-30T20:30:25.232Z",
+  "birthdate": "March 30 1999",
+  "birthCity": "Wattignies"
 }

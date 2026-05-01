@@ -150,10 +150,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:52:09.687Z",
+  "_lastVerified": "2026-05-01T02:06:49.244Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:52:09.687Z"
+  "cachedAt": "2026-04-30T21:52:09.687Z",
+  "birthdate": "January 24 1993",
+  "birthCity": "Groningen"
 }

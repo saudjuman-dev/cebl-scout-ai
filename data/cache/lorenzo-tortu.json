@@ -81,10 +81,12 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:40:36.694Z",
+  "_lastVerified": "2026-05-01T02:45:28.419Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:40:36.694Z"
+  "cachedAt": "2026-04-30T21:40:36.694Z",
+  "nationality": "Italian",
+  "birthdate": "August 5 1992"
 }

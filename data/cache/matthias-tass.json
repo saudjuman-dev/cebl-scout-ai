@@ -121,10 +121,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:50:46.912Z",
+  "_lastVerified": "2026-05-01T02:54:18.215Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:50:46.912Z"
+  "cachedAt": "2026-04-30T20:50:46.912Z",
+  "nationality": "Estonian",
+  "birthdate": "March 23 1999",
+  "birthCity": "Talinn"
 }

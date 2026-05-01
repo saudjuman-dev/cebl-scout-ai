@@ -106,10 +106,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:09:05.331Z",
+  "_lastVerified": "2026-05-01T02:01:33.654Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:05.331Z"
+  "cachedAt": "2026-04-30T20:09:05.331Z",
+  "nationality": "Canadian",
+  "birthdate": "August 20 1991",
+  "birthCity": "Scarborough"
 }

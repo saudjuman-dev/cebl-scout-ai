@@ -146,10 +146,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:03:59.754Z",
+  "_lastVerified": "2026-05-01T03:02:29.066Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:03:59.754Z"
+  "cachedAt": "2026-04-30T20:03:59.754Z",
+  "nationality": "USA",
+  "birthdate": "December 16 1994",
+  "birthCity": "Westerville"
 }

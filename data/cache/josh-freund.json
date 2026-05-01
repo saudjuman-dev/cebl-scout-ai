@@ -71,10 +71,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:53.177Z",
+  "_lastVerified": "2026-05-01T02:34:31.482Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:53.177Z"
+  "cachedAt": "2026-04-30T20:34:53.177Z",
+  "birthdate": "May 14 1997",
+  "birthCity": "Charlotte"
 }

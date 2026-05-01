@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:15.685Z",
+  "_lastVerified": "2026-05-01T01:54:30.800Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:15.685Z"
+  "cachedAt": "2026-04-30T19:26:15.685Z",
+  "nationality": "German",
+  "birthdate": "November 6 2002",
+  "birthCity": "Karlsfeld"
 }

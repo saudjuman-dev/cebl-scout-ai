@@ -86,10 +86,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:34.734Z",
+  "_lastVerified": "2026-05-01T02:06:41.157Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:34.734Z"
+  "cachedAt": "2026-04-30T19:28:34.734Z",
+  "nationality": "USA",
+  "birthdate": "July 18 1998",
+  "birthCity": "Battle Creek"
 }

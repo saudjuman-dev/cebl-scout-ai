@@ -80,10 +80,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:11.535Z",
+  "_lastVerified": "2026-05-01T03:16:48.907Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:11.535Z"
+  "cachedAt": "2026-04-30T19:36:11.535Z",
+  "nationality": "USA",
+  "birthdate": "February 20 1997",
+  "birthCity": "Killeen"
 }

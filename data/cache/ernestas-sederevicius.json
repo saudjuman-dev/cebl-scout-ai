@@ -66,10 +66,13 @@
       "league": "LTU-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:58:56.422Z",
+  "_lastVerified": "2026-05-01T02:12:45.483Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:56.422Z"
+  "cachedAt": "2026-04-30T20:58:56.422Z",
+  "nationality": "Lithuanian",
+  "birthdate": "November 13 1998",
+  "birthCity": "Kazlu Ruda"
 }

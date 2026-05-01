@@ -140,10 +140,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:29:10.528Z",
+  "_lastVerified": "2026-05-01T02:16:28.106Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:10.528Z"
+  "cachedAt": "2026-04-30T21:29:10.528Z",
+  "nationality": "USA",
+  "birthdate": "January 11 1991",
+  "birthCity": "Missouri City"
 }

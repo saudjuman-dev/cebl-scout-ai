@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:57.491Z",
+  "_lastVerified": "2026-05-01T03:29:08.843Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:57.491Z"
+  "cachedAt": "2026-04-30T19:28:57.491Z",
+  "nationality": "USA",
+  "birthdate": "December 8 1996",
+  "birthCity": "Oceanside"
 }

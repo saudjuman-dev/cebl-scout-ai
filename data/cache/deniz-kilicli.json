@@ -140,10 +140,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:29:34.235Z",
+  "_lastVerified": "2026-05-01T02:05:48.963Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:29:34.235Z"
+  "cachedAt": "2026-04-30T20:29:34.235Z",
+  "nationality": "Turkish",
+  "birthdate": "October 23 1990",
+  "birthCity": "Samsun"
 }

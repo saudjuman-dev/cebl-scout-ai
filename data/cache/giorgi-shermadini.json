@@ -195,10 +195,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:29.116Z",
+  "_lastVerified": "2026-05-01T02:18:14.305Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:29.116Z"
+  "cachedAt": "2026-04-30T19:54:29.116Z",
+  "nationality": "Georgian",
+  "birthdate": "April 2 1989",
+  "birthCity": "Mtskheta"
 }

@@ -96,10 +96,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:52:57.963Z",
+  "_lastVerified": "2026-05-01T02:20:30.217Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:57.963Z"
+  "cachedAt": "2026-04-30T20:52:57.963Z",
+  "nationality": "USA",
+  "birthdate": "December 8 1997",
+  "birthCity": "Oak Creek"
 }

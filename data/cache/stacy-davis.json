@@ -111,10 +111,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:43:26.728Z",
+  "_lastVerified": "2026-05-01T03:18:24.217Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:43:26.728Z"
+  "cachedAt": "2026-04-30T21:43:26.728Z",
+  "nationality": "USA",
+  "birthdate": "October 11 1994",
+  "birthCity": "San Diego"
 }

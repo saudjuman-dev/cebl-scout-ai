@@ -120,10 +120,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:14.848Z",
+  "_lastVerified": "2026-05-01T01:59:27.850Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:14.848Z"
+  "cachedAt": "2026-04-30T19:39:14.848Z",
+  "nationality": "USA",
+  "birthdate": "February 14 1990",
+  "birthCity": "Arlington"
 }

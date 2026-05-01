@@ -46,10 +46,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:44:22.277Z",
+  "_lastVerified": "2026-05-01T02:26:47.445Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:44:22.277Z"
+  "cachedAt": "2026-04-30T20:44:22.277Z",
+  "nationality": "USA",
+  "birthdate": "June 26 2002",
+  "birthCity": "Greensboro"
 }

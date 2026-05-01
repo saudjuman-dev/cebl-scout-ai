@@ -91,10 +91,12 @@
       "league": "TUR-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:41:02.497Z",
+  "_lastVerified": "2026-05-01T01:50:39.773Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:41:02.497Z"
+  "cachedAt": "2026-04-30T21:41:02.497Z",
+  "birthdate": "April 13 1994",
+  "birthCity": "Lawrenceville"
 }

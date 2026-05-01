@@ -120,10 +120,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:47:19.862Z",
+  "_lastVerified": "2026-05-01T03:26:49.722Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:19.862Z"
+  "cachedAt": "2026-04-30T21:47:19.862Z",
+  "nationality": "Serbian",
+  "birthdate": "May 4 1996",
+  "birthCity": "Vrbas"
 }

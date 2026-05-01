@@ -160,10 +160,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:45:49.138Z",
+  "_lastVerified": "2026-05-01T02:02:16.650Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:45:49.138Z"
+  "cachedAt": "2026-04-30T20:45:49.138Z",
+  "nationality": "Polish",
+  "birthdate": "June 23 1987",
+  "birthCity": "Piotrkow Trybunalski"
 }

@@ -145,10 +145,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:38.209Z",
+  "_lastVerified": "2026-05-01T01:57:11.731Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:38.209Z"
+  "cachedAt": "2026-04-30T20:05:38.209Z",
+  "nationality": "USA",
+  "birthdate": "February 19 1991",
+  "birthCity": "Winston-Salem"
 }

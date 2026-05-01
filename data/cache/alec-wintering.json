@@ -76,10 +76,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:47:08.681Z",
+  "_lastVerified": "2026-05-01T01:45:18.390Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:08.681Z"
+  "cachedAt": "2026-04-30T21:47:08.681Z",
+  "nationality": "USA",
+  "birthdate": "April 26 1995",
+  "birthCity": "Concord"
 }

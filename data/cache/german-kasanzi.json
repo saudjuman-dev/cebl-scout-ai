@@ -60,10 +60,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:01:09.393Z",
+  "_lastVerified": "2026-05-01T02:17:34.107Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:01:09.393Z"
+  "cachedAt": "2026-04-30T22:01:09.393Z",
+  "birthdate": "June 26 1999",
+  "birthCity": "Alcala de Henares"
 }

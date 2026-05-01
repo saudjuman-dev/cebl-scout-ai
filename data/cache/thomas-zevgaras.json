@@ -66,10 +66,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:13:15.587Z",
+  "_lastVerified": "2026-05-01T03:21:21.082Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:13:15.587Z"
+  "cachedAt": "2026-04-30T20:13:15.587Z",
+  "nationality": "Greek",
+  "birthdate": "January 16 2001",
+  "birthCity": "Karditsa"
 }

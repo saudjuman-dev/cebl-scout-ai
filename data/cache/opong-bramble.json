@@ -55,10 +55,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:12.447Z",
+  "_lastVerified": "2026-05-01T03:05:16.351Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:12.447Z"
+  "cachedAt": "2026-04-30T21:57:12.447Z",
+  "birthdate": "March 11 1997",
+  "birthCity": "Regina"
 }

@@ -96,10 +96,13 @@
       "league": "AZE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:08.647Z",
+  "_lastVerified": "2026-05-01T02:04:38.993Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:08.647Z"
+  "cachedAt": "2026-04-30T20:02:08.647Z",
+  "nationality": "USA",
+  "birthdate": "March 26 1996",
+  "birthCity": "South Holland"
 }

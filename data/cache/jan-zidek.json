@@ -61,10 +61,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:47.241Z",
+  "_lastVerified": "2026-05-01T02:27:27.740Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:47.241Z"
+  "cachedAt": "2026-04-30T21:53:47.241Z",
+  "birthdate": "December 13 1999",
+  "birthCity": "Praha"
 }

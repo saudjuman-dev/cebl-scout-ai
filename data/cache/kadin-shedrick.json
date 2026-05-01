@@ -41,10 +41,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:58.112Z",
+  "_lastVerified": "2026-05-01T02:37:23.443Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:58.112Z"
+  "cachedAt": "2026-04-30T20:31:58.112Z",
+  "nationality": "USA",
+  "birthCity": "Raleigh"
 }

@@ -131,10 +131,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:13.395Z",
+  "_lastVerified": "2026-05-01T02:13:03.822Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:13.395Z"
+  "cachedAt": "2026-04-30T20:33:13.395Z",
+  "nationality": "USA",
+  "birthdate": "September 9 1992",
+  "birthCity": "New Era"
 }

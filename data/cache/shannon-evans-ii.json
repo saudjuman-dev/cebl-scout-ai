@@ -96,10 +96,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:24.209Z",
+  "_lastVerified": "2026-05-01T03:16:50.964Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:24.209Z"
+  "cachedAt": "2026-04-30T20:00:24.209Z",
+  "birthdate": "July 19 1994",
+  "birthCity": "Suffolk"
 }

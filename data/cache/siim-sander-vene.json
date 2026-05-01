@@ -210,10 +210,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:53:41.635Z",
+  "_lastVerified": "2026-05-01T03:17:05.543Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:53:41.635Z"
+  "cachedAt": "2026-04-30T20:53:41.635Z",
+  "nationality": "Estonian",
+  "birthdate": "November 12 1990",
+  "birthCity": "Tartu"
 }

@@ -141,10 +141,12 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:40.539Z",
+  "_lastVerified": "2026-05-01T01:56:58.666Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:40.539Z"
+  "cachedAt": "2026-04-30T20:16:40.539Z",
+  "birthdate": "January 23 1995",
+  "birthCity": "San Diego"
 }

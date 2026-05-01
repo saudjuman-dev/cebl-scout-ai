@@ -50,10 +50,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:04:33.366Z",
+  "_lastVerified": "2026-05-01T02:27:14.529Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:04:33.366Z"
+  "cachedAt": "2026-04-30T22:04:33.366Z",
+  "nationality": "USA",
+  "birthdate": "January 26 2001",
+  "birthCity": "Columbia"
 }

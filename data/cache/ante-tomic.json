@@ -200,10 +200,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:50.061Z",
+  "_lastVerified": "2026-05-01T01:50:14.633Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:50.061Z"
+  "cachedAt": "2026-04-30T19:53:50.061Z",
+  "nationality": "Croatian",
+  "birthdate": "February 17 1987",
+  "birthCity": "Dubrovnik"
 }

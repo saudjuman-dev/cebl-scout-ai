@@ -51,10 +51,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:49:33.229Z",
+  "_lastVerified": "2026-05-01T01:58:14.585Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:33.229Z"
+  "cachedAt": "2026-04-30T19:49:33.229Z",
+  "nationality": "USA",
+  "birthdate": "April 27 1999",
+  "birthCity": "Memphis"
 }

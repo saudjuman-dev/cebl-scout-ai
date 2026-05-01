@@ -126,10 +126,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:01.180Z",
+  "_lastVerified": "2026-05-01T03:16:57.133Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:01.180Z"
+  "cachedAt": "2026-04-30T19:34:01.180Z",
+  "nationality": "USA",
+  "birthdate": "October 6 1993",
+  "birthCity": "Kansas City"
 }

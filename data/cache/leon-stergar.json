@@ -90,10 +90,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:06.827Z",
+  "_lastVerified": "2026-05-01T02:43:46.467Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:06.827Z"
+  "cachedAt": "2026-04-30T19:39:06.827Z",
+  "nationality": "Slovenian",
+  "birthdate": "March 17 2000",
+  "birthCity": "Brezice"
 }

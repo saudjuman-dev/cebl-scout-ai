@@ -95,10 +95,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:26:00.360Z",
+  "_lastVerified": "2026-05-01T01:57:02.782Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:26:00.360Z"
+  "cachedAt": "2026-04-30T21:26:00.360Z",
+  "birthdate": "July 9 1991",
+  "birthCity": "Ames"
 }

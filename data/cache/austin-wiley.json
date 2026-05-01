@@ -76,10 +76,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:20.624Z",
+  "_lastVerified": "2026-05-01T01:52:54.194Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:20.624Z"
+  "cachedAt": "2026-04-30T20:32:20.624Z",
+  "nationality": "USA",
+  "birthdate": "January 8 1999",
+  "birthCity": "Hoover"
 }

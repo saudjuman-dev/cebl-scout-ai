@@ -135,10 +135,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:29:18.626Z",
+  "_lastVerified": "2026-05-01T01:43:06.951Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:18.626Z"
+  "cachedAt": "2026-04-30T21:29:18.626Z",
+  "nationality": "French",
+  "birthdate": "April 3 1991",
+  "birthCity": "Mont-de-Marsan"
 }

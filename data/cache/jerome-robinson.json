@@ -100,10 +100,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:19:44.136Z",
+  "_lastVerified": "2026-05-01T02:30:04.406Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:19:44.136Z"
+  "cachedAt": "2026-04-30T20:19:44.136Z",
+  "nationality": "USA",
+  "birthdate": "February 22 1997",
+  "birthCity": "Raleigh"
 }

@@ -96,10 +96,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:47:37.144Z",
+  "_lastVerified": "2026-05-01T03:28:39.458Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:47:37.144Z"
+  "cachedAt": "2026-04-30T20:47:37.144Z",
+  "nationality": "USA",
+  "birthdate": "July 14 1994",
+  "birthCity": "Colorado Springs"
 }

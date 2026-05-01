@@ -76,10 +76,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:08:18.762Z",
+  "_lastVerified": "2026-05-01T02:33:44.344Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:08:18.762Z"
+  "cachedAt": "2026-04-30T20:08:18.762Z",
+  "nationality": "USA",
+  "birthdate": "August 11 1999",
+  "birthCity": "Port Washington"
 }

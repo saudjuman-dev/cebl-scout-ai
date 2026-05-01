@@ -66,10 +66,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:29:38.318Z",
+  "_lastVerified": "2026-05-01T02:25:13.826Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:38.318Z"
+  "cachedAt": "2026-04-30T21:29:38.318Z",
+  "birthdate": "May 15 1998",
+  "birthCity": "Morganville"
 }

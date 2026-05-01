@@ -46,10 +46,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:17.700Z",
+  "_lastVerified": "2026-05-01T03:05:49.185Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:17.700Z"
+  "cachedAt": "2026-04-30T19:48:17.700Z",
+  "nationality": "Mali",
+  "birthdate": "July 13 2002",
+  "birthCity": "Koulikoro"
 }

@@ -71,10 +71,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:57:42.766Z",
+  "_lastVerified": "2026-05-01T02:13:49.644Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:42.766Z"
+  "cachedAt": "2026-04-30T20:57:42.766Z",
+  "nationality": "Canadian",
+  "birthdate": "January 6 1999",
+  "birthCity": "Vancouver"
 }

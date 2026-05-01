@@ -95,10 +95,12 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:33:33.607Z",
+  "_lastVerified": "2026-05-01T03:19:37.589Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:33.607Z"
+  "cachedAt": "2026-04-30T19:33:33.607Z",
+  "birthdate": "November 12 1997",
+  "birthCity": "Chicago"
 }

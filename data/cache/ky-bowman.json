@@ -96,10 +96,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:00.619Z",
+  "_lastVerified": "2026-05-01T02:41:57.357Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:00.619Z"
+  "cachedAt": "2026-04-30T19:43:00.619Z",
+  "nationality": "USA",
+  "birthdate": "June 16 1998",
+  "birthCity": "Havelock"
 }

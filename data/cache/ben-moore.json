@@ -131,10 +131,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:04:56.599Z",
+  "_lastVerified": "2026-05-01T01:54:04.055Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:56.599Z"
+  "cachedAt": "2026-04-30T20:04:56.599Z",
+  "nationality": "USA",
+  "birthdate": "May 13 1995",
+  "birthCity": "Bolingbrook"
 }

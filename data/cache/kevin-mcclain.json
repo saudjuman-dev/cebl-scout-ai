@@ -76,10 +76,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:57.700Z",
+  "_lastVerified": "2026-05-01T02:39:54.132Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:57.700Z"
+  "cachedAt": "2026-04-30T19:30:57.700Z",
+  "birthdate": "October 21 1996",
+  "birthCity": "Jasper"
 }

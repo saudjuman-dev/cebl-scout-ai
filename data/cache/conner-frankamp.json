@@ -141,10 +141,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:46:52.213Z",
+  "_lastVerified": "2026-05-01T02:01:17.952Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:46:52.213Z"
+  "cachedAt": "2026-04-30T20:46:52.213Z",
+  "birthdate": "July 16 1995",
+  "birthCity": "Wichita"
 }

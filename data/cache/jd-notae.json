@@ -71,10 +71,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:50:18.528Z",
+  "_lastVerified": "2026-05-01T02:29:10.966Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:18.528Z"
+  "cachedAt": "2026-04-30T19:50:18.528Z",
+  "nationality": "USA",
+  "birthdate": "October 27 1998",
+  "birthCity": "Covington"
 }

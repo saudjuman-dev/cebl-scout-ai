@@ -76,10 +76,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:50:05.641Z",
+  "_lastVerified": "2026-05-01T01:43:33.532Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:05.641Z"
+  "cachedAt": "2026-04-30T19:50:05.641Z",
+  "nationality": "Mali",
+  "birthdate": "February 12 2002",
+  "birthCity": "Bamako"
 }

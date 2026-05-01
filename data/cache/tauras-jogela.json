@@ -140,10 +140,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:45:08.079Z",
+  "_lastVerified": "2026-05-01T03:20:07.177Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:45:08.079Z"
+  "cachedAt": "2026-04-30T20:45:08.079Z",
+  "nationality": "Lithuanian",
+  "birthdate": "May 2 1993",
+  "birthCity": "Taurage"
 }

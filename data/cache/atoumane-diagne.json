@@ -75,10 +75,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:17.198Z",
+  "_lastVerified": "2026-05-01T01:52:35.850Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:17.198Z"
+  "cachedAt": "2026-04-30T19:58:17.198Z",
+  "nationality": "Senegalese",
+  "birthdate": "December 31 1998",
+  "birthCity": "Dakar"
 }

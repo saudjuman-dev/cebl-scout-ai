@@ -51,10 +51,12 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:13:44.937Z",
+  "_lastVerified": "2026-05-01T01:54:32.941Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:13:44.937Z"
+  "cachedAt": "2026-04-30T22:13:44.937Z",
+  "nationality": "USA",
+  "birthCity": "Chula Vista"
 }

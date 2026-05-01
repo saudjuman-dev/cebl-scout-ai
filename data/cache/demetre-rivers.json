@@ -101,10 +101,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:59.122Z",
+  "_lastVerified": "2026-05-01T02:05:40.603Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:59.122Z"
+  "cachedAt": "2026-04-30T19:41:59.122Z",
+  "nationality": "USA",
+  "birthdate": "December 7 1995",
+  "birthCity": "Charleston"
 }

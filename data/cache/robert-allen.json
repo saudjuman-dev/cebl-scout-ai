@@ -56,10 +56,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:40:26.387Z",
+  "_lastVerified": "2026-05-01T03:11:42.445Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:40:26.387Z"
+  "cachedAt": "2026-04-30T21:40:26.387Z",
+  "nationality": "USA",
+  "birthdate": "February 24 2000",
+  "birthCity": "Orlando"
 }

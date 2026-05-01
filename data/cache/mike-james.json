@@ -175,10 +175,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:31:28.873Z",
+  "_lastVerified": "2026-05-01T02:57:43.313Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:28.873Z"
+  "cachedAt": "2026-04-30T19:31:28.873Z",
+  "nationality": "USA",
+  "birthdate": "August 18 1990",
+  "birthCity": "Portland"
 }

@@ -161,10 +161,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:37.068Z",
+  "_lastVerified": "2026-05-01T02:06:29.903Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:37.068Z"
+  "cachedAt": "2026-04-30T19:42:37.068Z",
+  "nationality": "USA",
+  "birthdate": "February 28 1991",
+  "birthCity": "Whitmire"
 }

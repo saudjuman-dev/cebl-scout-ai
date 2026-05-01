@@ -71,10 +71,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:20:00.997Z",
+  "_lastVerified": "2026-05-01T01:57:13.775Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:20:00.997Z"
+  "cachedAt": "2026-04-30T21:20:00.997Z",
+  "nationality": "USA",
+  "birthdate": "February 26 1991",
+  "birthCity": "Berlin"
 }

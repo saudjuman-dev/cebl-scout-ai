@@ -106,10 +106,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:37:25.924Z",
+  "_lastVerified": "2026-05-01T02:14:03.263Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:37:25.924Z"
+  "cachedAt": "2026-04-30T21:37:25.924Z",
+  "nationality": "Italian",
+  "birthdate": "March 12 1996",
+  "birthCity": "Reggio Emilia"
 }

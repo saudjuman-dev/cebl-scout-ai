@@ -106,10 +106,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:23.332Z",
+  "_lastVerified": "2026-05-01T02:11:50.903Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:23.332Z"
+  "cachedAt": "2026-04-30T19:51:23.332Z",
+  "nationality": "Romanian",
+  "birthdate": "July 30 1997",
+  "birthCity": "Bucarest"
 }

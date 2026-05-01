@@ -85,10 +85,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:52:42.109Z",
+  "_lastVerified": "2026-05-01T03:09:37.299Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:52:42.109Z"
+  "cachedAt": "2026-04-30T21:52:42.109Z",
+  "nationality": "Portuguese",
+  "birthdate": "November 27 1999"
 }

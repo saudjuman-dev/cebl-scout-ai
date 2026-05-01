@@ -46,10 +46,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:20:36.782Z",
+  "_lastVerified": "2026-05-01T03:08:23.400Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:20:36.782Z"
+  "cachedAt": "2026-04-30T21:20:36.782Z",
+  "nationality": "USA",
+  "birthdate": "August 7 2001",
+  "birthCity": "Columbus"
 }

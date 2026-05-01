@@ -36,10 +36,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:11:51.856Z",
+  "_lastVerified": "2026-05-01T02:31:35.460Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:51.856Z"
+  "cachedAt": "2026-04-30T20:11:51.856Z",
+  "nationality": "USA",
+  "birthCity": "Vernon Hills"
 }

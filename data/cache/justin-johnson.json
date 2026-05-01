@@ -106,10 +106,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:31.693Z",
+  "_lastVerified": "2026-05-01T02:36:38.289Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:31.693Z"
+  "cachedAt": "2026-04-30T21:35:31.693Z",
+  "nationality": "USA",
+  "birthdate": "May 23 1996",
+  "birthCity": "Bowling Green"
 }

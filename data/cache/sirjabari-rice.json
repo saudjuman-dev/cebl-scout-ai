@@ -86,10 +86,13 @@
       "league": "CZE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:36.825Z",
+  "_lastVerified": "2026-05-01T03:17:39.117Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:36.825Z"
+  "cachedAt": "2026-04-30T20:00:36.825Z",
+  "nationality": "USA",
+  "birthdate": "December 28 1998",
+  "birthCity": "Houston"
 }

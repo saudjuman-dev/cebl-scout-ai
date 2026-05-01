@@ -30,10 +30,12 @@
       "league": "ENBL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:51:14.349Z",
+  "_lastVerified": "2026-05-01T03:08:47.993Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:14.349Z"
+  "cachedAt": "2026-04-30T20:51:14.349Z",
+  "nationality": "Polish",
+  "birthdate": "May 25 2009"
 }

@@ -105,10 +105,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:40:19.828Z",
+  "_lastVerified": "2026-05-01T02:11:31.381Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:19.828Z"
+  "cachedAt": "2026-04-30T19:40:19.828Z",
+  "nationality": "Swedish",
+  "birthdate": "July 3 1998",
+  "birthCity": "Malmo"
 }

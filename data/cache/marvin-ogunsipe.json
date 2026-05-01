@@ -96,10 +96,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:10:03.535Z",
+  "_lastVerified": "2026-05-01T02:52:22.574Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:10:03.535Z"
+  "cachedAt": "2026-04-30T21:10:03.535Z",
+  "nationality": "Austrian",
+  "birthdate": "February 26 1996",
+  "birthCity": "Vienna"
 }

@@ -156,10 +156,12 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:38:18.615Z",
+  "_lastVerified": "2026-05-01T01:51:29.171Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:38:18.615Z"
+  "cachedAt": "2026-04-30T21:38:18.615Z",
+  "birthdate": "March 11 1987",
+  "birthCity": "Cordoba"
 }

@@ -146,10 +146,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:56.534Z",
+  "_lastVerified": "2026-05-01T01:48:29.660Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:56.534Z"
+  "cachedAt": "2026-04-30T19:42:56.534Z",
+  "nationality": "Italian",
+  "birthdate": "October 7 1994",
+  "birthCity": "Pisa"
 }

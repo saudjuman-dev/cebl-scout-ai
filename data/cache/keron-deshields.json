@@ -126,10 +126,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:11:10.056Z",
+  "_lastVerified": "2026-05-01T02:39:28.977Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:10.056Z"
+  "cachedAt": "2026-04-30T20:11:10.056Z",
+  "birthdate": "December 4 1992",
+  "birthCity": "Baltimore"
 }

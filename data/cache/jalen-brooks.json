@@ -41,10 +41,13 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:12:38.243Z",
+  "_lastVerified": "2026-05-01T02:26:12.936Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:12:38.243Z"
+  "cachedAt": "2026-04-30T22:12:38.243Z",
+  "nationality": "USA",
+  "birthdate": "August 19 1999",
+  "birthCity": "Shreveport"
 }

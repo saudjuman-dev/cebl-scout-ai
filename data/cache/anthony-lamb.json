@@ -101,10 +101,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:33.877Z",
+  "_lastVerified": "2026-05-01T01:50:35.683Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:33.877Z"
+  "cachedAt": "2026-04-30T20:32:33.877Z",
+  "nationality": "USA",
+  "birthdate": "January 20 1998",
+  "birthCity": "Rochester"
 }

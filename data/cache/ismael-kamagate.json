@@ -80,10 +80,13 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:47.171Z",
+  "_lastVerified": "2026-05-01T02:23:47.147Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:47.171Z"
+  "cachedAt": "2026-04-30T20:16:47.171Z",
+  "nationality": "French",
+  "birthdate": "January 17 2001",
+  "birthCity": "Paris"
 }

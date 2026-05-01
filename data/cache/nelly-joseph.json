@@ -46,10 +46,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:35.884Z",
+  "_lastVerified": "2026-05-01T03:01:07.747Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:35.884Z"
+  "cachedAt": "2026-04-30T19:34:35.884Z",
+  "nationality": "Nigerian",
+  "birthdate": "November 20 2001",
+  "birthCity": "Benin City"
 }

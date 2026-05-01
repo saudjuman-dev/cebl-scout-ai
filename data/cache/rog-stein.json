@@ -45,10 +45,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:07:31.288Z",
+  "_lastVerified": "2026-05-01T03:12:28.463Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:07:31.288Z"
+  "cachedAt": "2026-04-30T21:07:31.288Z",
+  "nationality": "USA",
+  "birthdate": "November 14 1999",
+  "birthCity": "Kalamazoo"
 }

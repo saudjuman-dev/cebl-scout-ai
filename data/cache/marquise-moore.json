@@ -80,10 +80,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:33:25.707Z",
+  "_lastVerified": "2026-05-01T02:51:44.150Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:33:25.707Z"
+  "cachedAt": "2026-04-30T21:33:25.707Z",
+  "nationality": "USA",
+  "birthdate": "December 22 1994",
+  "birthCity": "Queens"
 }

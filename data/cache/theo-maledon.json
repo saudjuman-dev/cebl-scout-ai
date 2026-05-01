@@ -120,10 +120,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:50:55.346Z",
+  "_lastVerified": "2026-05-01T03:20:53.413Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:55.346Z"
+  "cachedAt": "2026-04-30T19:50:55.346Z",
+  "nationality": "French",
+  "birthdate": "June 12 2001",
+  "birthCity": "Rouen"
 }

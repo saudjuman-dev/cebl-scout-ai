@@ -55,10 +55,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:43.251Z",
+  "_lastVerified": "2026-05-01T03:14:16.295Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:43.251Z"
+  "cachedAt": "2026-04-30T21:05:43.251Z",
+  "nationality": "USA",
+  "birthdate": "June 11 1999",
+  "birthCity": "Poughkeepsie"
 }

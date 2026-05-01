@@ -106,10 +106,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:16.948Z",
+  "_lastVerified": "2026-05-01T02:40:54.472Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:16.948Z"
+  "cachedAt": "2026-04-30T19:53:16.948Z",
+  "nationality": "USA",
+  "birthdate": "July 4 1997",
+  "birthCity": "Atlanta"
 }

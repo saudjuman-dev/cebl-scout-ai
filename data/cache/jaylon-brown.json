@@ -121,10 +121,13 @@
       "league": "CHN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:27:58.548Z",
+  "_lastVerified": "2026-05-01T02:28:58.409Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:27:58.548Z"
+  "cachedAt": "2026-04-30T20:27:58.548Z",
+  "nationality": "USA",
+  "birthdate": "September 11 1994",
+  "birthCity": "Fishers"
 }

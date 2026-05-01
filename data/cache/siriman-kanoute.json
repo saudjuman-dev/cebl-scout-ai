@@ -40,10 +40,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:24:01.821Z",
+  "_lastVerified": "2026-05-01T03:17:37.067Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:24:01.821Z"
+  "cachedAt": "2026-04-30T21:24:01.821Z",
+  "nationality": "Mali",
+  "birthdate": "September 25 2001"
 }

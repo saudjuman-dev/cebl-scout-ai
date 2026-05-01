@@ -46,10 +46,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:22:06.222Z",
+  "_lastVerified": "2026-05-01T02:34:38.485Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:22:06.222Z"
+  "cachedAt": "2026-04-30T21:22:06.222Z",
+  "birthdate": "July 30 1999",
+  "birthCity": "Detroit"
 }

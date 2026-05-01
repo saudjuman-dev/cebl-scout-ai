@@ -45,10 +45,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:03.684Z",
+  "_lastVerified": "2026-05-01T03:11:54.946Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:03.684Z"
+  "cachedAt": "2026-04-30T21:05:03.684Z",
+  "nationality": "USA",
+  "birthdate": "July 3 2001",
+  "birthCity": "Prior Lake"
 }

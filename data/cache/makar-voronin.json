@@ -55,10 +55,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:01.831Z",
+  "_lastVerified": "2026-05-01T02:48:30.052Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:01.831Z"
+  "cachedAt": "2026-04-30T21:57:01.831Z",
+  "nationality": "Russian",
+  "birthdate": "April 16 2005",
+  "birthCity": "Madrid"
 }

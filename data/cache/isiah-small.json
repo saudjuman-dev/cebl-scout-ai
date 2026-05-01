@@ -61,10 +61,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:01.382Z",
+  "_lastVerified": "2026-05-01T02:23:40.889Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:01.382Z"
+  "cachedAt": "2026-04-30T20:36:01.382Z",
+  "nationality": "USA",
+  "birthdate": "September 15 1998",
+  "birthCity": "Jersey City"
 }

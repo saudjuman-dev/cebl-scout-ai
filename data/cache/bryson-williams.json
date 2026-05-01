@@ -106,10 +106,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:44:05.635Z",
+  "_lastVerified": "2026-05-01T01:57:00.740Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:05.635Z"
+  "cachedAt": "2026-04-30T19:44:05.635Z",
+  "nationality": "USA",
+  "birthdate": "April 25 1998",
+  "birthCity": "Fresno"
 }

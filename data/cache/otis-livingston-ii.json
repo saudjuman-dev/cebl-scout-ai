@@ -96,10 +96,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:18.086Z",
+  "_lastVerified": "2026-05-01T03:05:47.097Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:18.086Z"
+  "cachedAt": "2026-04-30T19:56:18.086Z",
+  "nationality": "USA",
+  "birthdate": "October 12 1996",
+  "birthCity": "Linden"
 }

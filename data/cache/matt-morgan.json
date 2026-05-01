@@ -126,10 +126,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:14.183Z",
+  "_lastVerified": "2026-05-01T02:53:27.108Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:14.183Z"
+  "cachedAt": "2026-04-30T19:41:14.183Z",
+  "nationality": "USA",
+  "birthdate": "November 7 1997",
+  "birthCity": "Concord"
 }

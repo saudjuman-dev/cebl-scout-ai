@@ -71,10 +71,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:38:41.553Z",
+  "_lastVerified": "2026-05-01T02:03:44.190Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:38:41.553Z"
+  "cachedAt": "2026-04-30T21:38:41.553Z",
+  "nationality": "USA",
+  "birthdate": "March 13 1999",
+  "birthCity": "Powder Springs"
 }

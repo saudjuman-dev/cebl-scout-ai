@@ -121,10 +121,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:24.778Z",
+  "_lastVerified": "2026-05-01T03:08:21.353Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:24.778Z"
+  "cachedAt": "2026-04-30T19:26:24.778Z",
+  "nationality": "USA",
+  "birthdate": "October 24 1992",
+  "birthCity": "Chicago"
 }

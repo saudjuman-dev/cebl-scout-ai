@@ -91,10 +91,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:04.834Z",
+  "_lastVerified": "2026-05-01T03:08:06.579Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:04.834Z"
+  "cachedAt": "2026-04-30T19:28:04.834Z",
+  "nationality": "Finnish",
+  "birthdate": "September 13 2001"
 }

@@ -110,10 +110,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:47:39.719Z",
+  "_lastVerified": "2026-05-01T02:45:34.651Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:39.719Z"
+  "cachedAt": "2026-04-30T21:47:39.719Z",
+  "birthdate": "May 30 1993",
+  "birthCity": "Lithonia"
 }

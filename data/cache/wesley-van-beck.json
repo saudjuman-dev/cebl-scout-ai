@@ -106,10 +106,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:49.948Z",
+  "_lastVerified": "2026-05-01T03:28:47.898Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:49.948Z"
+  "cachedAt": "2026-04-30T19:54:49.948Z",
+  "birthdate": "January 22 1996",
+  "birthCity": "Houston"
 }

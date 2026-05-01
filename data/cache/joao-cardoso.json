@@ -81,10 +81,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:23:41.931Z",
+  "_lastVerified": "2026-05-01T02:30:46.342Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:41.931Z"
+  "cachedAt": "2026-04-30T20:23:41.931Z",
+  "nationality": "Brazilian",
+  "birthdate": "August 28 2000"
 }

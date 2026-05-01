@@ -155,10 +155,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:22:26.514Z",
+  "_lastVerified": "2026-05-01T03:30:59.929Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:26.514Z"
+  "cachedAt": "2026-04-30T20:22:26.514Z",
+  "nationality": "Turkish",
+  "birthdate": "October 8 1992",
+  "birthCity": "Uskudar"
 }

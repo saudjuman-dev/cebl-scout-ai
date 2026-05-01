@@ -61,10 +61,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:22:05.102Z",
+  "_lastVerified": "2026-05-01T02:37:14.840Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:05.102Z"
+  "cachedAt": "2026-04-30T19:22:05.102Z",
+  "birthdate": "September 19 2001",
+  "birthCity": "St"
 }

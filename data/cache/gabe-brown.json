@@ -86,10 +86,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:32.335Z",
+  "_lastVerified": "2026-05-01T02:15:56.538Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:32.335Z"
+  "cachedAt": "2026-04-30T19:34:32.335Z",
+  "nationality": "USA",
+  "birthdate": "March 5 2000",
+  "birthCity": "Ypsilanti"
 }

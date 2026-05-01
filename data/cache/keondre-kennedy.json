@@ -71,10 +71,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:11.729Z",
+  "_lastVerified": "2026-05-01T02:39:22.353Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:11.729Z"
+  "cachedAt": "2026-04-30T20:02:11.729Z",
+  "nationality": "USA",
+  "birthdate": "January 17 2000",
+  "birthCity": "Atlanta"
 }

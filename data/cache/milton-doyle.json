@@ -131,10 +131,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:53.056Z",
+  "_lastVerified": "2026-05-01T02:58:24.387Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:53.056Z"
+  "cachedAt": "2026-04-30T19:46:53.056Z",
+  "nationality": "USA",
+  "birthdate": "October 31 1993",
+  "birthCity": "Chicago"
 }

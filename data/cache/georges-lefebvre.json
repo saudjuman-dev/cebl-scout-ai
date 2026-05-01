@@ -46,10 +46,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:07:44.070Z",
+  "_lastVerified": "2026-05-01T02:16:52.324Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:07:44.070Z"
+  "cachedAt": "2026-04-30T21:07:44.070Z",
+  "nationality": "Canadian",
+  "birthdate": "Jan. 5, 2002",
+  "birthCity": "Montreal"
 }

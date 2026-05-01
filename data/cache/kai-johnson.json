@@ -36,10 +36,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:30.196Z",
+  "_lastVerified": "2026-05-01T02:37:30.707Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:30.196Z"
+  "cachedAt": "2026-04-30T21:57:30.196Z",
+  "nationality": "USA",
+  "birthdate": "April 1 2002",
+  "birthCity": "Olympia"
 }

@@ -61,10 +61,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:13:38.566Z",
+  "_lastVerified": "2026-05-01T01:44:36.584Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:38.566Z"
+  "cachedAt": "2026-04-30T21:13:38.566Z",
+  "nationality": "Canadian",
+  "birthdate": "February 4 2000",
+  "birthCity": "Ottawa"
 }

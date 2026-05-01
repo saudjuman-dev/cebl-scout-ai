@@ -235,10 +235,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:12:26.452Z",
+  "_lastVerified": "2026-05-01T02:58:31.418Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:26.452Z"
+  "cachedAt": "2026-04-30T20:12:26.452Z",
+  "nationality": "Lithuanian",
+  "birthdate": "October 19 1989",
+  "birthCity": "Vilnius"
 }

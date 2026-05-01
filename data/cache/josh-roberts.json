@@ -60,10 +60,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:54:43.449Z",
+  "_lastVerified": "2026-05-01T02:34:42.816Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:54:43.449Z"
+  "cachedAt": "2026-04-30T21:54:43.449Z",
+  "nationality": "USA",
+  "birthdate": "July 15 1999",
+  "birthCity": "Troy"
 }

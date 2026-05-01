@@ -66,10 +66,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:09:55.526Z",
+  "_lastVerified": "2026-05-01T01:50:30.961Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:09:55.526Z"
+  "cachedAt": "2026-04-30T21:09:55.526Z",
+  "nationality": "USA",
+  "birthdate": "May 29 1998",
+  "birthCity": "Kingston"
 }

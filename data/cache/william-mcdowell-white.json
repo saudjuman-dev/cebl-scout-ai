@@ -130,10 +130,13 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:33:30.242Z",
+  "_lastVerified": "2026-05-01T03:29:13.029Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:30.242Z"
+  "cachedAt": "2026-04-30T19:33:30.242Z",
+  "nationality": "Australian",
+  "birthdate": "April 13 1998",
+  "birthCity": "South Brisbane"
 }

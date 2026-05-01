@@ -130,10 +130,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:05:22.600Z",
+  "_lastVerified": "2026-05-01T02:58:22.328Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:05:22.600Z"
+  "cachedAt": "2026-04-30T22:05:22.600Z",
+  "nationality": "Serbian",
+  "birthdate": "June 28 1994",
+  "birthCity": "Cacak"
 }

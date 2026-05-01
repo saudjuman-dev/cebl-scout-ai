@@ -95,10 +95,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:46:13.522Z",
+  "_lastVerified": "2026-05-01T01:43:15.232Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:46:13.522Z"
+  "cachedAt": "2026-04-30T20:46:13.522Z",
+  "nationality": "Polish",
+  "birthdate": "May 8 1995",
+  "birthCity": "Gniezno"
 }

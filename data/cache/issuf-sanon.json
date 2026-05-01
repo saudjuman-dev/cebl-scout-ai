@@ -150,10 +150,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:40:23.593Z",
+  "_lastVerified": "2026-05-01T02:23:51.356Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:40:23.593Z"
+  "cachedAt": "2026-04-30T20:40:23.593Z",
+  "nationality": "Ukrainian",
+  "birthdate": "October 30 1999",
+  "birthCity": "Donetsk"
 }

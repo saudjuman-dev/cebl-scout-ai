@@ -116,10 +116,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:31.563Z",
+  "_lastVerified": "2026-05-01T02:04:32.702Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:31.563Z"
+  "cachedAt": "2026-04-30T19:21:31.563Z",
+  "birthdate": "July 2 1999",
+  "birthCity": "Bronx"
 }

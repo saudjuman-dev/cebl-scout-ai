@@ -66,10 +66,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:19:30.005Z",
+  "_lastVerified": "2026-05-01T02:13:14.252Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:19:30.005Z"
+  "cachedAt": "2026-04-30T21:19:30.005Z",
+  "birthdate": "October 18 1998",
+  "birthCity": "Los Alamitos"
 }

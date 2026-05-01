@@ -115,10 +115,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:10.733Z",
+  "_lastVerified": "2026-05-01T03:16:52.990Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:10.733Z"
+  "cachedAt": "2026-04-30T20:43:10.733Z",
+  "nationality": "USA",
+  "birthdate": "January 30 1997",
+  "birthCity": "Madison"
 }

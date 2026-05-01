@@ -165,10 +165,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:53.378Z",
+  "_lastVerified": "2026-05-01T01:56:39.833Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:53.378Z"
+  "cachedAt": "2026-04-30T19:54:53.378Z",
+  "nationality": "Uruguayan",
+  "birthdate": "August 2 1991",
+  "birthCity": "Montevideo"
 }

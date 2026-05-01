@@ -141,10 +141,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:20.588Z",
+  "_lastVerified": "2026-05-01T02:42:10.059Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:20.588Z"
+  "cachedAt": "2026-04-30T20:00:20.588Z",
+  "birthdate": "August 25 1989",
+  "birthCity": "Evansville"
 }

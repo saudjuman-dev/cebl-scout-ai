@@ -95,10 +95,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:01:53.689Z",
+  "_lastVerified": "2026-05-01T02:26:27.649Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:01:53.689Z"
+  "cachedAt": "2026-04-30T21:01:53.689Z",
+  "nationality": "USA",
+  "birthdate": "September 2 1994",
+  "birthCity": "Yonkers"
 }

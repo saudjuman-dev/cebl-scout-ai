@@ -50,10 +50,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:23.434Z",
+  "_lastVerified": "2026-05-01T02:44:24.682Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:23.434Z"
+  "cachedAt": "2026-04-30T19:36:23.434Z",
+  "nationality": "French",
+  "birthdate": "May 30 1995",
+  "birthCity": "Livry-Gargan"
 }

@@ -41,10 +41,12 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:17:02.555Z",
+  "_lastVerified": "2026-05-01T02:28:48.128Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:17:02.555Z"
+  "cachedAt": "2026-04-30T22:17:02.555Z",
+  "nationality": "USA",
+  "birthCity": "Indianapolis"
 }

@@ -176,10 +176,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:42:10.018Z",
+  "_lastVerified": "2026-05-01T03:08:45.901Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:42:10.018Z"
+  "cachedAt": "2026-04-30T21:42:10.018Z",
+  "nationality": "Italian",
+  "birthdate": "December 9 1988",
+  "birthCity": "Brescia"
 }

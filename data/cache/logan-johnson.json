@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:24.943Z",
+  "_lastVerified": "2026-05-01T02:44:42.592Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:24.943Z"
+  "cachedAt": "2026-04-30T19:29:24.943Z",
+  "nationality": "USA",
+  "birthdate": "October 11 1999",
+  "birthCity": "Mountain View"
 }

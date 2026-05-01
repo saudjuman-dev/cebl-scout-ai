@@ -166,10 +166,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:17.739Z",
+  "_lastVerified": "2026-05-01T01:49:36.249Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:17.739Z"
+  "cachedAt": "2026-04-30T19:46:17.739Z",
+  "birthdate": "March 20 1986",
+  "birthCity": "Buenos Aires"
 }

@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:14.317Z",
+  "_lastVerified": "2026-05-01T03:11:31.161Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:14.317Z"
+  "cachedAt": "2026-04-30T19:28:14.317Z",
+  "nationality": "USA",
+  "birthdate": "August 24 1999",
+  "birthCity": "Irmo"
 }

@@ -61,10 +61,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:22:27.118Z",
+  "_lastVerified": "2026-05-01T01:52:52.129Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:27.118Z"
+  "cachedAt": "2026-04-30T19:22:27.118Z",
+  "nationality": "USA",
+  "birthdate": "September 7 2000",
+  "birthCity": "West Point"
 }

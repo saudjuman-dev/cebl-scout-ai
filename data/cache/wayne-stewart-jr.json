@@ -66,10 +66,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:41:36.184Z",
+  "_lastVerified": "2026-05-01T03:28:27.024Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:41:36.184Z"
+  "cachedAt": "2026-04-30T21:41:36.184Z",
+  "nationality": "USA",
+  "birthdate": "June 1 1996",
+  "birthCity": "Philadelphia"
 }

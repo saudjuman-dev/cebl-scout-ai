@@ -156,10 +156,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:35.348Z",
+  "_lastVerified": "2026-05-01T03:25:44.795Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:35.348Z"
+  "cachedAt": "2026-04-30T21:35:35.348Z",
+  "nationality": "USA",
+  "birthdate": "March 14 1991",
+  "birthCity": "Stringtown"
 }

@@ -60,10 +60,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:04:23.683Z",
+  "_lastVerified": "2026-05-01T02:40:15.108Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:23.683Z"
+  "cachedAt": "2026-04-30T20:04:23.683Z",
+  "nationality": "USA",
+  "birthdate": "July 29 2000",
+  "birthCity": "Mineola"
 }

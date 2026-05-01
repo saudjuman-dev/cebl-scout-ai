@@ -36,10 +36,12 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:19:01.556Z",
+  "_lastVerified": "2026-05-01T03:12:32.653Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:19:01.556Z"
+  "cachedAt": "2026-04-30T22:19:01.556Z",
+  "nationality": "USA",
+  "birthCity": "Fort Lauderdale"
 }

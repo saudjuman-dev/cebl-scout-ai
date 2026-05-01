@@ -151,10 +151,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:41.688Z",
+  "_lastVerified": "2026-05-01T02:27:21.032Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:41.688Z"
+  "cachedAt": "2026-04-30T19:28:41.688Z",
+  "nationality": "German",
+  "birthdate": "February 11 1996",
+  "birthCity": "Oldenburg"
 }

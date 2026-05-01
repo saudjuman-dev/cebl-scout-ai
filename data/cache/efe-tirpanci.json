@@ -90,10 +90,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:29:23.625Z",
+  "_lastVerified": "2026-05-01T02:10:49.778Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:29:23.625Z"
+  "cachedAt": "2026-04-30T20:29:23.625Z",
+  "nationality": "Turkish",
+  "birthdate": "January 1 2000",
+  "birthCity": "Cankaya"
 }

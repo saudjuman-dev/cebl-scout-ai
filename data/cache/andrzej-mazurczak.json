@@ -101,10 +101,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:29.548Z",
+  "_lastVerified": "2026-05-01T01:49:49.790Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:29.548Z"
+  "cachedAt": "2026-04-30T20:43:29.548Z",
+  "birthdate": "December 27 1994",
+  "birthCity": "Norridge"
 }

@@ -116,10 +116,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:44:32.638Z",
+  "_lastVerified": "2026-05-01T03:19:02.124Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:32.638Z"
+  "cachedAt": "2026-04-30T19:44:32.638Z",
+  "nationality": "USA",
+  "birthdate": "April 27 1996",
+  "birthCity": "Manassas"
 }

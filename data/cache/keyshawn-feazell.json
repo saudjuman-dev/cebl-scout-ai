@@ -115,10 +115,13 @@
       "league": "CZE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:36.034Z",
+  "_lastVerified": "2026-05-01T02:40:10.915Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:36.034Z"
+  "cachedAt": "2026-04-30T20:02:36.034Z",
+  "nationality": "USA",
+  "birthdate": "October 23 1998",
+  "birthCity": "Hattiesburg"
 }

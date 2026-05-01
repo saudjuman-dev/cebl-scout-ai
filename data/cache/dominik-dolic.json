@@ -61,10 +61,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:12:20.083Z",
+  "_lastVerified": "2026-05-01T02:08:47.903Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:12:20.083Z"
+  "cachedAt": "2026-04-30T21:12:20.083Z",
+  "nationality": "Croatian",
+  "birthdate": "October 30 2006"
 }

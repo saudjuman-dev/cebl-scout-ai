@@ -126,10 +126,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:06.337Z",
+  "_lastVerified": "2026-05-01T01:43:13.131Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:06.337Z"
+  "cachedAt": "2026-04-30T20:35:06.337Z",
+  "birthdate": "December 10 1994",
+  "birthCity": "Jerusalem"
 }

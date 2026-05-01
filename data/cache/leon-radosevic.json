@@ -206,10 +206,12 @@
       "league": "CRO-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:54.233Z",
+  "_lastVerified": "2026-05-01T02:43:43.796Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:54.233Z"
+  "cachedAt": "2026-04-30T19:48:54.233Z",
+  "birthdate": "February 26 1990",
+  "birthCity": "Sisak"
 }

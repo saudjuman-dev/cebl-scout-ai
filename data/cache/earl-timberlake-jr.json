@@ -46,10 +46,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:02:37.231Z",
+  "_lastVerified": "2026-05-01T02:10:03.809Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:02:37.231Z"
+  "cachedAt": "2026-04-30T21:02:37.231Z",
+  "nationality": "USA",
+  "birthdate": "November 4 2000",
+  "birthCity": "Upper Marlboro"
 }

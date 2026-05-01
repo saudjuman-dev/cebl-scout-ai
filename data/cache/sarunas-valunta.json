@@ -70,10 +70,13 @@
       "league": "LTU-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:58:49.599Z",
+  "_lastVerified": "2026-05-01T03:15:02.856Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:49.599Z"
+  "cachedAt": "2026-04-30T20:58:49.599Z",
+  "nationality": "Lithuanian",
+  "birthdate": "July 25 2000",
+  "birthCity": "Pasvalys"
 }

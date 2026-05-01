@@ -75,10 +75,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:28:01.816Z",
+  "_lastVerified": "2026-05-01T01:55:33.424Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:28:01.816Z"
+  "cachedAt": "2026-04-30T20:28:01.816Z",
+  "nationality": "Turkish",
+  "birthdate": "November 21 2001",
+  "birthCity": "Seyhan"
 }

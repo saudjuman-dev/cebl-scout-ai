@@ -81,10 +81,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:37:29.005Z",
+  "_lastVerified": "2026-05-01T01:46:26.616Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:37:29.005Z"
+  "cachedAt": "2026-04-30T21:37:29.005Z",
+  "nationality": "Italian",
+  "birthdate": "November 8 1994",
+  "birthCity": "Roma"
 }

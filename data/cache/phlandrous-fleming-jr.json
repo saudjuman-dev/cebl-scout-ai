@@ -81,10 +81,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:37:07.400Z",
+  "_lastVerified": "2026-05-01T03:08:33.069Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:07.400Z"
+  "cachedAt": "2026-04-30T19:37:07.400Z",
+  "nationality": "USA",
+  "birthdate": "December 5 1998",
+  "birthCity": "Athens"
 }

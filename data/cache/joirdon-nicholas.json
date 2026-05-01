@@ -86,10 +86,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:27.426Z",
+  "_lastVerified": "2026-05-01T02:31:56.824Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:27.426Z"
+  "cachedAt": "2026-04-30T20:35:27.426Z",
+  "birthdate": "March 29 1999",
+  "birthCity": "Pearland"
 }

@@ -51,10 +51,11 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:09:49.147Z",
+  "_lastVerified": "2026-05-01T02:12:32.955Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:09:49.147Z"
+  "cachedAt": "2026-04-30T22:09:49.147Z",
+  "birthCity": "Raleigh"
 }

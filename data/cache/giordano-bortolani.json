@@ -106,10 +106,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:20.659Z",
+  "_lastVerified": "2026-05-01T02:18:09.035Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:20.659Z"
+  "cachedAt": "2026-04-30T19:48:20.659Z",
+  "nationality": "Italian",
+  "birthdate": "December 2 2000",
+  "birthCity": "Messina"
 }

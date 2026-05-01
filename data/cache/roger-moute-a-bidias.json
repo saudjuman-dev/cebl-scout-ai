@@ -71,10 +71,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:33:15.813Z",
+  "_lastVerified": "2026-05-01T03:12:35.133Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:33:15.813Z"
+  "cachedAt": "2026-04-30T21:33:15.813Z",
+  "nationality": "Cameroonian",
+  "birthdate": "April 22 1995",
+  "birthCity": "Yaounde"
 }

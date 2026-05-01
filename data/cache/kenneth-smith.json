@@ -170,10 +170,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:52:41.458Z",
+  "_lastVerified": "2026-05-01T02:39:06.695Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:41.458Z"
+  "cachedAt": "2026-04-30T20:52:41.458Z",
+  "nationality": "USA",
+  "birthdate": "January 28 1993",
+  "birthCity": "St"
 }

@@ -141,10 +141,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:20:32.467Z",
+  "_lastVerified": "2026-05-01T02:39:56.224Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:20:32.467Z"
+  "cachedAt": "2026-04-30T20:20:32.467Z",
+  "birthdate": "January 26 1993",
+  "birthCity": "Holland Landing"
 }

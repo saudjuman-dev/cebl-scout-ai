@@ -55,10 +55,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:59:47.768Z",
+  "_lastVerified": "2026-05-01T02:24:26.813Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:59:47.768Z"
+  "cachedAt": "2026-04-30T21:59:47.768Z",
+  "nationality": "Dutch",
+  "birthdate": "September 10 2000",
+  "birthCity": "Tiel"
 }

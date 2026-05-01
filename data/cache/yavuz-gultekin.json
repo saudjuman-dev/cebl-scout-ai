@@ -71,10 +71,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:22:32.149Z",
+  "_lastVerified": "2026-05-01T03:30:17.647Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:32.149Z"
+  "cachedAt": "2026-04-30T20:22:32.149Z",
+  "nationality": "Turkish",
+  "birthdate": "July 17 2000",
+  "birthCity": "Karsiyaka"
 }

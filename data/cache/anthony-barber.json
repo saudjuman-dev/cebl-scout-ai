@@ -161,10 +161,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:40:02.795Z",
+  "_lastVerified": "2026-05-01T01:50:18.784Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:02.795Z"
+  "cachedAt": "2026-04-30T19:40:02.795Z",
+  "nationality": "USA",
+  "birthdate": "July 25 1994",
+  "birthCity": "Hampton"
 }

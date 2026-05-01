@@ -91,10 +91,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:23.975Z",
+  "_lastVerified": "2026-05-01T02:06:23.732Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:23.975Z"
+  "cachedAt": "2026-04-30T20:36:23.975Z",
+  "birthdate": "March 23 1996",
+  "birthCity": "Bronx"
 }

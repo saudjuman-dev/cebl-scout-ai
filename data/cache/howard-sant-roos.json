@@ -155,10 +155,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:16.130Z",
+  "_lastVerified": "2026-05-01T02:20:58.256Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:16.130Z"
+  "cachedAt": "2026-04-30T19:51:16.130Z",
+  "nationality": "Cuban",
+  "birthdate": "February 13 1991",
+  "birthCity": "Havana"
 }

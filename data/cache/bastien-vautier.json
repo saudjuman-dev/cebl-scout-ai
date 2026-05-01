@@ -80,10 +80,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:33:57.769Z",
+  "_lastVerified": "2026-05-01T01:53:48.003Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:57.769Z"
+  "cachedAt": "2026-04-30T19:33:57.769Z",
+  "nationality": "French",
+  "birthdate": "November 15 1998",
+  "birthCity": "Noisy-Le-Grand"
 }

@@ -40,10 +40,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:57.237Z",
+  "_lastVerified": "2026-05-01T02:15:05.647Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:57.237Z"
+  "cachedAt": "2026-04-30T19:34:57.237Z",
+  "nationality": "Mali",
+  "birthdate": "January 22 2002",
+  "birthCity": "Bamako"
 }

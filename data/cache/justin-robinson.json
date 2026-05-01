@@ -130,10 +130,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:10.230Z",
+  "_lastVerified": "2026-05-01T02:36:47.903Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:10.230Z"
+  "cachedAt": "2026-04-30T19:32:10.230Z",
+  "nationality": "USA",
+  "birthdate": "October 12 1997",
+  "birthCity": "Manassas"
 }

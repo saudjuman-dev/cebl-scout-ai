@@ -56,10 +56,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:00.066Z",
+  "_lastVerified": "2026-05-01T03:18:08.466Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:00.066Z"
+  "cachedAt": "2026-04-30T21:50:00.066Z",
+  "nationality": "USA",
+  "birthdate": "May 29 1998",
+  "birthCity": "Rochester Hills"
 }

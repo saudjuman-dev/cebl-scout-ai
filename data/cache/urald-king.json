@@ -96,10 +96,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:06.943Z",
+  "_lastVerified": "2026-05-01T03:26:05.571Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:06.943Z"
+  "cachedAt": "2026-04-30T19:25:06.943Z",
+  "nationality": "USA",
+  "birthdate": "July 13 1990",
+  "birthCity": "West Monroe"
 }

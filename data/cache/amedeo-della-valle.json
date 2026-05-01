@@ -156,10 +156,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:48.697Z",
+  "_lastVerified": "2026-05-01T01:48:27.601Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:48.697Z"
+  "cachedAt": "2026-04-30T19:41:48.697Z",
+  "nationality": "Italian",
+  "birthdate": "April 11 1993",
+  "birthCity": "Alba"
 }

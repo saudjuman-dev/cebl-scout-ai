@@ -101,10 +101,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:44:08.946Z",
+  "_lastVerified": "2026-05-01T02:25:26.649Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:08.946Z"
+  "cachedAt": "2026-04-30T19:44:08.946Z",
+  "nationality": "Colombian",
+  "birthdate": "April 27 1997",
+  "birthCity": "Barranquilla"
 }

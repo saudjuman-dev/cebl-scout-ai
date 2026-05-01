@@ -166,10 +166,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:42:17.555Z",
+  "_lastVerified": "2026-05-01T02:06:19.574Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:42:17.555Z"
+  "cachedAt": "2026-04-30T21:42:17.555Z",
+  "nationality": "USA",
+  "birthdate": "October 9 1989",
+  "birthCity": "Los Angeles"
 }

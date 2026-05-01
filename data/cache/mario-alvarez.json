@@ -90,10 +90,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:00:54.506Z",
+  "_lastVerified": "2026-05-01T02:50:45.853Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:00:54.506Z"
+  "cachedAt": "2026-04-30T22:00:54.506Z",
+  "nationality": "Spanish",
+  "birthdate": "September 23 1991",
+  "birthCity": "Plasencia"
 }

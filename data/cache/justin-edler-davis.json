@@ -111,10 +111,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:13.170Z",
+  "_lastVerified": "2026-05-01T02:36:29.762Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:13.170Z"
+  "cachedAt": "2026-04-30T20:06:13.170Z",
+  "nationality": "USA",
+  "birthdate": "February 9 1998",
+  "birthCity": "San Diego"
 }

@@ -115,10 +115,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:40:31.307Z",
+  "_lastVerified": "2026-05-01T02:27:54.509Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:40:31.307Z"
+  "cachedAt": "2026-04-30T20:40:31.307Z",
+  "nationality": "USA",
+  "birthdate": "January 21 1993",
+  "birthCity": "Macon"
 }

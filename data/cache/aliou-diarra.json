@@ -51,10 +51,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:24.863Z",
+  "_lastVerified": "2026-05-01T01:47:37.204Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:24.863Z"
+  "cachedAt": "2026-04-30T19:41:24.863Z",
+  "nationality": "Mali",
+  "birthdate": "December 31 2001"
 }

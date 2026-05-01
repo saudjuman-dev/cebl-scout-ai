@@ -61,10 +61,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:06.999Z",
+  "_lastVerified": "2026-05-01T02:39:24.496Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:06.999Z"
+  "cachedAt": "2026-04-30T21:05:06.999Z",
+  "nationality": "USA",
+  "birthdate": "August 9 2000",
+  "birthCity": "Aurora"
 }

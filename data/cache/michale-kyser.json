@@ -136,10 +136,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:24.653Z",
+  "_lastVerified": "2026-05-01T02:56:40.622Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:24.653Z"
+  "cachedAt": "2026-04-30T19:27:24.653Z",
+  "nationality": "USA",
+  "birthdate": "November 26 1991",
+  "birthCity": "Victoria"
 }

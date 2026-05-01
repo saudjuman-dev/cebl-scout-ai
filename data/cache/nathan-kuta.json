@@ -65,10 +65,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:23:54.327Z",
+  "_lastVerified": "2026-05-01T03:00:35.249Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:23:54.327Z"
+  "cachedAt": "2026-04-30T21:23:54.327Z",
+  "nationality": "Dutch",
+  "birthdate": "April 28 2000"
 }

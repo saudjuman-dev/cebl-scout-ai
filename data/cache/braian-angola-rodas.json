@@ -156,10 +156,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:33:50.172Z",
+  "_lastVerified": "2026-05-01T01:55:44.656Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:50.172Z"
+  "cachedAt": "2026-04-30T19:33:50.172Z",
+  "nationality": "Colombian",
+  "birthdate": "April 6 1994",
+  "birthCity": "Villanueva"
 }

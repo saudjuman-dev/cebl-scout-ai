@@ -76,10 +76,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:49:12.443Z",
+  "_lastVerified": "2026-05-01T03:24:21.760Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:49:12.443Z"
+  "cachedAt": "2026-04-30T20:49:12.443Z",
+  "nationality": "USA",
+  "birthdate": "February 16 1998",
+  "birthCity": "Lapwai"
 }

@@ -106,10 +106,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:49:04.204Z",
+  "_lastVerified": "2026-05-01T02:35:01.688Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:04.204Z"
+  "cachedAt": "2026-04-30T19:49:04.204Z",
+  "nationality": "USA",
+  "birthdate": "June 5 1995",
+  "birthCity": "Lakeville"
 }

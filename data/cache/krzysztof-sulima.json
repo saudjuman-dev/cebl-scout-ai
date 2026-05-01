@@ -140,10 +140,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:36.482Z",
+  "_lastVerified": "2026-05-01T02:41:46.871Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:36.482Z"
+  "cachedAt": "2026-04-30T20:43:36.482Z",
+  "nationality": "Polish",
+  "birthdate": "January 5 1990",
+  "birthCity": "Bialystok"
 }

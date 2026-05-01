@@ -90,10 +90,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:31.234Z",
+  "_lastVerified": "2026-05-01T03:26:16.627Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:31.234Z"
+  "cachedAt": "2026-04-30T19:39:31.234Z",
+  "nationality": "Ivorian",
+  "birthdate": "June 12 1992",
+  "birthCity": "Paris"
 }

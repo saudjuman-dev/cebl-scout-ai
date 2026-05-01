@@ -115,10 +115,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:18:38.979Z",
+  "_lastVerified": "2026-05-01T03:13:51.572Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:18:38.979Z"
+  "cachedAt": "2026-04-30T20:18:38.979Z",
+  "nationality": "USA",
+  "birthdate": "June 23 1999",
+  "birthCity": "Phoenix"
 }

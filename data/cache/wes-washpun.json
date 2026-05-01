@@ -131,10 +131,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:50.520Z",
+  "_lastVerified": "2026-05-01T03:28:35.256Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:50.520Z"
+  "cachedAt": "2026-04-30T21:04:50.520Z",
+  "nationality": "USA",
+  "birthdate": "March 26 1993",
+  "birthCity": "Cedar Rapids"
 }

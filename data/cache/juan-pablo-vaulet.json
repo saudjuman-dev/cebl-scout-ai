@@ -106,10 +106,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:47:50.207Z",
+  "_lastVerified": "2026-05-01T02:35:24.212Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:50.207Z"
+  "cachedAt": "2026-04-30T21:47:50.207Z",
+  "birthdate": "March 22 1996",
+  "birthCity": "Cordoba"
 }

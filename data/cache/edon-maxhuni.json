@@ -106,10 +106,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:24.976Z",
+  "_lastVerified": "2026-05-01T02:10:28.593Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:24.976Z"
+  "cachedAt": "2026-04-30T19:39:24.976Z",
+  "nationality": "Finnish",
+  "birthdate": "March 21 1998",
+  "birthCity": "Hyvinkaa"
 }

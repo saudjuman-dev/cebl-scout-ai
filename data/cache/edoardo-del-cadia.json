@@ -56,10 +56,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:39:58.229Z",
+  "_lastVerified": "2026-05-01T02:10:21.935Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:39:58.229Z"
+  "cachedAt": "2026-04-30T21:39:58.229Z",
+  "nationality": "Italian",
+  "birthdate": "March 10 1999",
+  "birthCity": "Fabriano"
 }

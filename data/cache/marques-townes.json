@@ -116,10 +116,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:48:59.736Z",
+  "_lastVerified": "2026-05-01T02:51:37.782Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:48:59.736Z"
+  "cachedAt": "2026-04-30T21:48:59.736Z",
+  "birthdate": "September 3 1995",
+  "birthCity": "Edison"
 }

@@ -156,10 +156,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:13.200Z",
+  "_lastVerified": "2026-05-01T03:16:59.232Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:13.200Z"
+  "cachedAt": "2026-04-30T19:42:13.200Z",
+  "nationality": "Danish",
+  "birthdate": "June 5 1994",
+  "birthCity": "Overland Park"
 }

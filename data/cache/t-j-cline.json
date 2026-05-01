@@ -121,10 +121,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:46.601Z",
+  "_lastVerified": "2026-05-01T03:19:29.195Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:46.601Z"
+  "cachedAt": "2026-04-30T20:36:46.601Z",
+  "birthdate": "July 22 1994",
+  "birthCity": "Plano"
 }

@@ -106,10 +106,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:10.547Z",
+  "_lastVerified": "2026-05-01T02:26:51.728Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:10.547Z"
+  "cachedAt": "2026-04-30T20:36:10.547Z",
+  "nationality": "USA",
+  "birthdate": "January 16 1998",
+  "birthCity": "Decatur"
 }

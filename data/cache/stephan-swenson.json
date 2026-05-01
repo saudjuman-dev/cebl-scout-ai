@@ -51,10 +51,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:15.079Z",
+  "_lastVerified": "2026-05-01T03:18:57.970Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:15.079Z"
+  "cachedAt": "2026-04-30T21:03:15.079Z",
+  "nationality": "Belgian",
+  "birthdate": "June 30 2002",
+  "birthCity": "Brussels"
 }

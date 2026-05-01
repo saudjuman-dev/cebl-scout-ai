@@ -46,10 +46,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:49.144Z",
+  "_lastVerified": "2026-05-01T01:46:46.922Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:49.144Z"
+  "cachedAt": "2026-04-30T20:38:49.144Z",
+  "birthdate": "August 29 1997",
+  "birthCity": "Bethesda"
 }

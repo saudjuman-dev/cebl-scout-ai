@@ -131,10 +131,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:07:36.420Z",
+  "_lastVerified": "2026-05-01T01:47:02.997Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:07:36.420Z"
+  "cachedAt": "2026-04-30T20:07:36.420Z",
+  "nationality": "Finnish",
+  "birthdate": "January 26 1995",
+  "birthCity": "Kouvola"
 }

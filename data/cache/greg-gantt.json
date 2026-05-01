@@ -90,10 +90,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:36.953Z",
+  "_lastVerified": "2026-05-01T02:19:20.074Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:36.953Z"
+  "cachedAt": "2026-04-30T21:57:36.953Z",
+  "birthdate": "November 12 1991",
+  "birthCity": "Gainesville"
 }

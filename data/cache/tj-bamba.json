@@ -56,10 +56,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:43.732Z",
+  "_lastVerified": "2026-05-01T03:22:13.019Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:43.732Z"
+  "cachedAt": "2026-04-30T19:25:43.732Z",
+  "nationality": "USA",
+  "birthdate": "January 6 2001",
+  "birthCity": "Bronx"
 }

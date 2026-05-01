@@ -111,10 +111,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:15.592Z",
+  "_lastVerified": "2026-05-01T01:59:10.035Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:15.592Z"
+  "cachedAt": "2026-04-30T19:30:15.592Z",
+  "nationality": "USA",
+  "birthdate": "April 10 1996",
+  "birthCity": "Hanover Park"
 }

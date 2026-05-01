@@ -66,10 +66,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:15:01.244Z",
+  "_lastVerified": "2026-05-01T03:00:04.526Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:15:01.244Z"
+  "cachedAt": "2026-04-30T21:15:01.244Z",
+  "nationality": "USA",
+  "birthdate": "March 17 2000",
+  "birthCity": "Birmingham"
 }

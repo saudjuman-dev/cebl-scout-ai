@@ -60,10 +60,12 @@
       "league": "POR-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:26.294Z",
+  "_lastVerified": "2026-05-01T02:47:17.378Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:26.294Z"
+  "cachedAt": "2026-04-30T21:05:26.294Z",
+  "nationality": "Portuguese",
+  "birthdate": "April 29 2004"
 }

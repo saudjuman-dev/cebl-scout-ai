@@ -95,10 +95,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:23:25.916Z",
+  "_lastVerified": "2026-05-01T02:20:13.457Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:25.916Z"
+  "cachedAt": "2026-04-30T20:23:25.916Z",
+  "nationality": "Turkish",
+  "birthdate": "February 14 2000",
+  "birthCity": "Konak"
 }

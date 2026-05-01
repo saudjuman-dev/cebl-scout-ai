@@ -80,10 +80,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:30:14.793Z",
+  "_lastVerified": "2026-05-01T01:50:28.002Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:30:14.793Z"
+  "cachedAt": "2026-04-30T21:30:14.793Z",
+  "nationality": "USA",
+  "birthdate": "August 6 1994",
+  "birthCity": "Philadelphia"
 }

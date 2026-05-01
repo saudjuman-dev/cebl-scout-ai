@@ -140,10 +140,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:15.633Z",
+  "_lastVerified": "2026-05-01T01:59:12.108Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:15.633Z"
+  "cachedAt": "2026-04-30T20:43:15.633Z",
+  "nationality": "USA",
+  "birthdate": "February 1 1993",
+  "birthCity": "Queens"
 }

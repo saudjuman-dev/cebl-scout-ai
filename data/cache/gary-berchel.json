@@ -55,10 +55,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:32:59.113Z",
+  "_lastVerified": "2026-05-01T02:16:35.433Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:32:59.113Z"
+  "cachedAt": "2026-04-30T21:32:59.113Z",
+  "nationality": "French",
+  "birthdate": "August 1 1998",
+  "birthCity": "Les Abymes"
 }

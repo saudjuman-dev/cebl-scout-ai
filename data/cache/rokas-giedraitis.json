@@ -161,10 +161,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:40.221Z",
+  "_lastVerified": "2026-05-01T03:12:39.264Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:40.221Z"
+  "cachedAt": "2026-04-30T19:54:40.221Z",
+  "nationality": "Lithuanian",
+  "birthdate": "August 16 1992",
+  "birthCity": "Taurage"
 }

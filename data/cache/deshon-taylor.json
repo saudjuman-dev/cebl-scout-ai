@@ -86,10 +86,13 @@
       "league": "KOS-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:20:42.564Z",
+  "_lastVerified": "2026-05-01T02:06:21.645Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:20:42.564Z"
+  "cachedAt": "2026-04-30T21:20:42.564Z",
+  "nationality": "USA",
+  "birthdate": "March 17 1996",
+  "birthCity": "Riverside"
 }

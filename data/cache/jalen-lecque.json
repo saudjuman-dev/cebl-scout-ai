@@ -75,10 +75,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:24:51.309Z",
+  "_lastVerified": "2026-05-01T02:26:32.775Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:24:51.309Z"
+  "cachedAt": "2026-04-30T20:24:51.309Z",
+  "nationality": "USA",
+  "birthdate": "June 13 2000",
+  "birthCity": "Teaneck"
 }

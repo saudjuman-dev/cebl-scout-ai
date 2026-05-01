@@ -86,10 +86,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:44:37.892Z",
+  "_lastVerified": "2026-05-01T02:26:15.084Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:44:37.892Z"
+  "cachedAt": "2026-04-30T21:44:37.892Z",
+  "nationality": "USA",
+  "birthdate": "May 5 1993",
+  "birthCity": "Allentown"
 }

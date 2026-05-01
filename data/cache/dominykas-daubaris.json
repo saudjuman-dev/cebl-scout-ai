@@ -35,10 +35,12 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:57:24.562Z",
+  "_lastVerified": "2026-05-01T02:08:56.055Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:24.562Z"
+  "cachedAt": "2026-04-30T20:57:24.562Z",
+  "nationality": "Lithuanian",
+  "birthdate": "August 3 2007"
 }

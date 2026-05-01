@@ -61,10 +61,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:45:24.696Z",
+  "_lastVerified": "2026-05-01T02:31:03.170Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:45:24.696Z"
+  "cachedAt": "2026-04-30T21:45:24.696Z",
+  "nationality": "USA",
+  "birthdate": "November 5 1996",
+  "birthCity": "Scotia"
 }

@@ -45,10 +45,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:22:51.680Z",
+  "_lastVerified": "2026-05-01T02:21:41.876Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:22:51.680Z"
+  "cachedAt": "2026-04-30T21:22:51.680Z",
+  "nationality": "Senegalese",
+  "birthdate": "June 7 2002",
+  "birthCity": "Dakar"
 }

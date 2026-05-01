@@ -90,10 +90,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:52:06.044Z",
+  "_lastVerified": "2026-05-01T02:38:26.593Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:06.044Z"
+  "cachedAt": "2026-04-30T20:52:06.044Z",
+  "nationality": "German",
+  "birthdate": "July 15 2001",
+  "birthCity": "Weiden"
 }

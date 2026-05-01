@@ -90,10 +90,12 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:58:11.475Z",
+  "_lastVerified": "2026-05-01T02:26:56.770Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:11.475Z"
+  "cachedAt": "2026-04-30T20:58:11.475Z",
+  "birthdate": "July 17 1998",
+  "birthCity": "Surrey"
 }

@@ -121,10 +121,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:17.498Z",
+  "_lastVerified": "2026-05-01T02:44:30.968Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:17.498Z"
+  "cachedAt": "2026-04-30T20:34:17.498Z",
+  "birthdate": "March 28 1998",
+  "birthCity": "Lawrence"
 }

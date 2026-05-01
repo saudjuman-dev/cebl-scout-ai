@@ -86,10 +86,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:17:36.785Z",
+  "_lastVerified": "2026-05-01T02:32:19.986Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:36.785Z"
+  "cachedAt": "2026-04-30T21:17:36.785Z",
+  "nationality": "German",
+  "birthdate": "December 12 1996"
 }

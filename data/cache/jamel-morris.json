@@ -130,10 +130,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:54:14.793Z",
+  "_lastVerified": "2026-05-01T02:26:49.589Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:54:14.793Z"
+  "cachedAt": "2026-04-30T20:54:14.793Z",
+  "nationality": "USA",
+  "birthdate": "November 14 1992",
+  "birthCity": "Gahanna"
 }

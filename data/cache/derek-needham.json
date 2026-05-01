@@ -155,10 +155,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:21.914Z",
+  "_lastVerified": "2026-05-01T02:06:05.630Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:21.914Z"
+  "cachedAt": "2026-04-30T19:56:21.914Z",
+  "birthdate": "October 20 1990",
+  "birthCity": "Dalton"
 }

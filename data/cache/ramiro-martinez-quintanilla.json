@@ -35,10 +35,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:02:58.757Z",
+  "_lastVerified": "2026-05-01T03:09:49.097Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:02:58.757Z"
+  "cachedAt": "2026-04-30T22:02:58.757Z",
+  "nationality": "Spanish",
+  "birthdate": "February 1 1993",
+  "birthCity": "Yecla"
 }

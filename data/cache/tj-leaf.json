@@ -66,10 +66,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:42.346Z",
+  "_lastVerified": "2026-05-01T03:22:20.315Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:42.346Z"
+  "cachedAt": "2026-04-30T20:30:42.346Z",
+  "birthdate": "April 30 1997",
+  "birthCity": "Tel-Aviv"
 }

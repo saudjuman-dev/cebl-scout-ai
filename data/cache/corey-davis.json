@@ -121,10 +121,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:56.776Z",
+  "_lastVerified": "2026-05-01T02:01:27.403Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:56.776Z"
+  "cachedAt": "2026-04-30T19:26:56.776Z",
+  "nationality": "USA",
+  "birthdate": "June 4 1997",
+  "birthCity": "Lafayette"
 }

@@ -24,10 +24,12 @@
       "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:12:43.125Z",
+  "_lastVerified": "2026-05-01T03:26:35.035Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:43.125Z"
+  "cachedAt": "2026-04-30T20:12:43.125Z",
+  "nationality": "Greek",
+  "birthdate": "December 1 2008"
 }

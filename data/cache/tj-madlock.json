@@ -36,10 +36,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:10:14.602Z",
+  "_lastVerified": "2026-05-01T03:22:22.426Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:10:14.602Z"
+  "cachedAt": "2026-04-30T21:10:14.602Z",
+  "nationality": "USA",
+  "birthdate": "January 1 2002",
+  "birthCity": "Memphis"
 }

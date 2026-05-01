@@ -41,10 +41,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:21.569Z",
+  "_lastVerified": "2026-05-01T03:01:47.503Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:21.569Z"
+  "cachedAt": "2026-04-30T21:50:21.569Z",
+  "birthdate": "June 22 2002",
+  "birthCity": "Rahway"
 }

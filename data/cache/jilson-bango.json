@@ -35,10 +35,12 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:26:32.602Z",
+  "_lastVerified": "2026-05-01T02:30:29.577Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:32.602Z"
+  "cachedAt": "2026-04-30T20:26:32.602Z",
+  "nationality": "Angolan",
+  "birthdate": "January 6 1999"
 }

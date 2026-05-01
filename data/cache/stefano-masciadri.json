@@ -91,10 +91,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:42:31.543Z",
+  "_lastVerified": "2026-05-01T03:18:49.621Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:42:31.543Z"
+  "cachedAt": "2026-04-30T21:42:31.543Z",
+  "nationality": "Italian",
+  "birthdate": "March 12 1989",
+  "birthCity": "Giussano"
 }

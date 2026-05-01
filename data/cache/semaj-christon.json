@@ -156,10 +156,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:12.455Z",
+  "_lastVerified": "2026-05-01T03:15:56.329Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:12.455Z"
+  "cachedAt": "2026-04-30T19:47:12.455Z",
+  "nationality": "USA",
+  "birthdate": "November 1 1992",
+  "birthCity": "Cincinnati"
 }

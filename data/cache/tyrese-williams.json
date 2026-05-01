@@ -71,10 +71,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:14:10.171Z",
+  "_lastVerified": "2026-05-01T03:25:39.747Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:14:10.171Z"
+  "cachedAt": "2026-04-30T21:14:10.171Z",
+  "nationality": "USA",
+  "birthdate": "March 23 2000",
+  "birthCity": "Beacon"
 }

@@ -101,10 +101,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:31.272Z",
+  "_lastVerified": "2026-05-01T02:24:10.230Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:31.272Z"
+  "cachedAt": "2026-04-30T19:48:31.272Z",
+  "nationality": "French",
+  "birthdate": "February 8 1999",
+  "birthCity": "Lille"
 }

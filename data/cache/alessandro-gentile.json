@@ -181,10 +181,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:41:06.973Z",
+  "_lastVerified": "2026-05-01T01:46:24.493Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:41:06.973Z"
+  "cachedAt": "2026-04-30T21:41:06.973Z",
+  "nationality": "Italian",
+  "birthdate": "November 12 1992",
+  "birthCity": "Maddaloni"
 }

@@ -91,10 +91,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:37:32.165Z",
+  "_lastVerified": "2026-05-01T03:23:32.638Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:32.165Z"
+  "cachedAt": "2026-04-30T19:37:32.165Z",
+  "nationality": "USA",
+  "birthdate": "November 10 1991",
+  "birthCity": "Watts"
 }

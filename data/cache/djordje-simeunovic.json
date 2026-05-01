@@ -120,10 +120,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:58.120Z",
+  "_lastVerified": "2026-05-01T02:08:37.594Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:58.120Z"
+  "cachedAt": "2026-04-30T21:57:58.120Z",
+  "nationality": "Serbian",
+  "birthdate": "April 26 1995",
+  "birthCity": "Krusevac"
 }

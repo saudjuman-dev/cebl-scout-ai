@@ -66,10 +66,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:37:16.319Z",
+  "_lastVerified": "2026-05-01T02:17:40.244Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:37:16.319Z"
+  "cachedAt": "2026-04-30T21:37:16.319Z",
+  "nationality": "Italian",
+  "birthdate": "September 30 1994",
+  "birthCity": "Livorno"
 }

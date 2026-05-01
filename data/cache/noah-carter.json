@@ -46,10 +46,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:49.347Z",
+  "_lastVerified": "2026-05-01T03:03:45.746Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:49.347Z"
+  "cachedAt": "2026-04-30T20:32:49.347Z",
+  "nationality": "USA",
+  "birthCity": "Dubuque"
 }

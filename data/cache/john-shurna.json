@@ -131,10 +131,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:00.814Z",
+  "_lastVerified": "2026-05-01T02:31:46.421Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:00.814Z"
+  "cachedAt": "2026-04-30T19:58:00.814Z",
+  "birthdate": "April 30 1990",
+  "birthCity": "Glen Ellyn"
 }

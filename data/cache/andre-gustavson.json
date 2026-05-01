@@ -61,10 +61,13 @@
       "league": "BNXT-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:19:46.806Z",
+  "_lastVerified": "2026-05-01T01:48:54.445Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:19:46.806Z"
+  "cachedAt": "2026-04-30T22:19:46.806Z",
+  "nationality": "Finnish",
+  "birthdate": "May 7 1999",
+  "birthCity": "Helsinki"
 }

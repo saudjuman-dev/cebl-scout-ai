@@ -136,10 +136,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:17:48.788Z",
+  "_lastVerified": "2026-05-01T02:26:09.327Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:17:48.788Z"
+  "cachedAt": "2026-04-30T20:17:48.788Z",
+  "birthdate": "November 24 1994",
+  "birthCity": "Freeport"
 }

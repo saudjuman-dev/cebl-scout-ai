@@ -81,10 +81,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:55.368Z",
+  "_lastVerified": "2026-05-01T01:42:57.966Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:55.368Z"
+  "cachedAt": "2026-04-30T20:31:55.368Z",
+  "nationality": "USA",
+  "birthdate": "September 24 1998",
+  "birthCity": "Stamford"
 }

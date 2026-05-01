@@ -85,10 +85,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:37:55.252Z",
+  "_lastVerified": "2026-05-01T02:01:55.451Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:55.252Z"
+  "cachedAt": "2026-04-30T19:37:55.252Z",
+  "nationality": "French",
+  "birthdate": "August 1 1996",
+  "birthCity": "Chatenay Malabry"
 }

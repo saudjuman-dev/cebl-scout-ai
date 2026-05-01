@@ -106,10 +106,12 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:06.306Z",
+  "_lastVerified": "2026-05-01T02:40:23.650Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:06.306Z"
+  "cachedAt": "2026-04-30T20:16:06.306Z",
+  "birthdate": "September 28 1992",
+  "birthCity": "Montreal"
 }

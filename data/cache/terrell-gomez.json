@@ -76,10 +76,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:32:34.129Z",
+  "_lastVerified": "2026-05-01T03:20:35.081Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:32:34.129Z"
+  "cachedAt": "2026-04-30T21:32:34.129Z",
+  "birthdate": "February 5 1998",
+  "birthCity": "Los Angeles"
 }

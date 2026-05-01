@@ -85,10 +85,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:40.457Z",
+  "_lastVerified": "2026-05-01T02:53:05.324Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:40.457Z"
+  "cachedAt": "2026-04-30T19:32:40.457Z",
+  "nationality": "French",
+  "birthdate": "November 6 2000",
+  "birthCity": "Chateauroux"
 }

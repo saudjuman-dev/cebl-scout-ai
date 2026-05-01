@@ -190,10 +190,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:21:17.884Z",
+  "_lastVerified": "2026-05-01T01:44:16.597Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:21:17.884Z"
+  "cachedAt": "2026-04-30T21:21:17.884Z",
+  "nationality": "French",
+  "birthdate": "August 7 1988",
+  "birthCity": "Fontenay-Aux-Roses"
 }

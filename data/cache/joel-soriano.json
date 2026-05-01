@@ -66,10 +66,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:47.089Z",
+  "_lastVerified": "2026-05-01T02:31:23.590Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:47.089Z"
+  "cachedAt": "2026-04-30T19:23:47.089Z",
+  "birthdate": "January 30 2000",
+  "birthCity": "Brooklyn"
 }

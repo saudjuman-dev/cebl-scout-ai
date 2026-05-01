@@ -166,10 +166,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:07.887Z",
+  "_lastVerified": "2026-05-01T02:04:04.933Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:07.887Z"
+  "cachedAt": "2026-04-30T19:42:07.887Z",
+  "birthdate": "July 28 1990",
+  "birthCity": "Verona"
 }

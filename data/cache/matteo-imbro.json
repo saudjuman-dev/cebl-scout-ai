@@ -106,10 +106,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:15.178Z",
+  "_lastVerified": "2026-05-01T02:53:46.473Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:15.178Z"
+  "cachedAt": "2026-04-30T21:35:15.178Z",
+  "nationality": "Italian",
+  "birthdate": "February 12 1994",
+  "birthCity": "Agrigento"
 }

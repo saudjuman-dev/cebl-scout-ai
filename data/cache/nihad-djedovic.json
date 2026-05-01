@@ -215,10 +215,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:27.474Z",
+  "_lastVerified": "2026-05-01T03:02:35.219Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:27.474Z"
+  "cachedAt": "2026-04-30T19:55:27.474Z",
+  "birthdate": "January 12 1990",
+  "birthCity": "Visegrad"
 }

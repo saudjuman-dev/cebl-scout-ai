@@ -66,10 +66,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:31:00.688Z",
+  "_lastVerified": "2026-05-01T02:09:42.055Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:00.688Z"
+  "cachedAt": "2026-04-30T19:31:00.688Z",
+  "nationality": "Serbian",
+  "birthdate": "October 20 2000",
+  "birthCity": "Banja Luka"
 }

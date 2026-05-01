@@ -100,10 +100,13 @@
       "league": "ROM-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:10:04.693Z",
+  "_lastVerified": "2026-05-01T01:56:56.562Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:10:04.693Z"
+  "cachedAt": "2026-04-30T20:10:04.693Z",
+  "nationality": "USA",
+  "birthdate": "July 23 1993",
+  "birthCity": "Lansing"
 }

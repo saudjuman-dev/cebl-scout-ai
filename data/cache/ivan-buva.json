@@ -171,10 +171,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:44:03.321Z",
+  "_lastVerified": "2026-05-01T02:24:04.057Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:44:03.321Z"
+  "cachedAt": "2026-04-30T21:44:03.321Z",
+  "nationality": "Croatian",
+  "birthdate": "May 6 1991",
+  "birthCity": "Zagreb"
 }

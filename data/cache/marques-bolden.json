@@ -111,10 +111,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:50.828Z",
+  "_lastVerified": "2026-05-01T02:51:34.599Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:50.828Z"
+  "cachedAt": "2026-04-30T20:36:50.828Z",
+  "birthdate": "April 17 1998",
+  "birthCity": "Dallas"
 }

@@ -115,10 +115,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:04.879Z",
+  "_lastVerified": "2026-05-01T02:32:05.258Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:04.879Z"
+  "cachedAt": "2026-04-30T20:00:04.879Z",
+  "nationality": "Icelandic",
+  "birthdate": "October 27 1996",
+  "birthCity": "Grindavik"
 }

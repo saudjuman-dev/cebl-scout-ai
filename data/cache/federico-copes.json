@@ -55,10 +55,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:49:03.916Z",
+  "_lastVerified": "2026-05-01T02:13:55.850Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:49:03.916Z"
+  "cachedAt": "2026-04-30T21:49:03.916Z",
+  "nationality": "Argentinian",
+  "birthdate": "June 18 2002"
 }

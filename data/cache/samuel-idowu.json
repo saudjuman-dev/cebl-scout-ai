@@ -75,10 +75,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:23:32.752Z",
+  "_lastVerified": "2026-05-01T03:14:35.888Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:23:32.752Z"
+  "cachedAt": "2026-04-30T21:23:32.752Z",
+  "nationality": "British",
+  "birthdate": "April 1 1997"
 }

@@ -125,10 +125,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:20:14.789Z",
+  "_lastVerified": "2026-05-01T02:33:56.259Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:20:14.789Z"
+  "cachedAt": "2026-04-30T20:20:14.789Z",
+  "nationality": "USA",
+  "birthdate": "July 17 1990",
+  "birthCity": "Cincinnati"
 }

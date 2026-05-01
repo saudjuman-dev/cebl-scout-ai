@@ -61,10 +61,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:15:41.732Z",
+  "_lastVerified": "2026-05-01T02:39:08.785Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:15:41.732Z"
+  "cachedAt": "2026-04-30T21:15:41.732Z",
+  "nationality": "French",
+  "birthdate": "January 24 2000",
+  "birthCity": "Les Abymes"
 }

@@ -66,10 +66,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:09.583Z",
+  "_lastVerified": "2026-05-01T01:51:38.112Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:09.583Z"
+  "cachedAt": "2026-04-30T20:16:09.583Z",
+  "nationality": "USA",
+  "birthdate": "June 3 2000",
+  "birthCity": "Richmond"
 }

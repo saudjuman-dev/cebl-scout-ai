@@ -76,10 +76,13 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:19:18.765Z",
+  "_lastVerified": "2026-05-01T01:55:16.809Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:19:18.765Z"
+  "cachedAt": "2026-04-30T22:19:18.765Z",
+  "nationality": "USA",
+  "birthdate": "July 19 1997",
+  "birthCity": "Hazelton"
 }

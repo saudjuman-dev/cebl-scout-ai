@@ -105,10 +105,12 @@
       "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:50:12.091Z",
+  "_lastVerified": "2026-05-01T03:13:38.162Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:12.091Z"
+  "cachedAt": "2026-04-30T19:50:12.091Z",
+  "birthdate": "March 26 1994",
+  "birthCity": "Philadelphia"
 }

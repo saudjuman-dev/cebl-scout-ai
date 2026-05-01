@@ -141,10 +141,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:23:19.881Z",
+  "_lastVerified": "2026-05-01T02:15:25.631Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:19.881Z"
+  "cachedAt": "2026-04-30T20:23:19.881Z",
+  "nationality": "Mexican",
+  "birthdate": "October 3 1989",
+  "birthCity": "Nogales"
 }

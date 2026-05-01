@@ -111,10 +111,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:39.294Z",
+  "_lastVerified": "2026-05-01T01:56:48.188Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:39.294Z"
+  "cachedAt": "2026-04-30T20:36:39.294Z",
+  "nationality": "USA",
+  "birthdate": "July 24 1997",
+  "birthCity": "Stone Mountain"
 }

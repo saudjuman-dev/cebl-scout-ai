@@ -80,10 +80,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:43.364Z",
+  "_lastVerified": "2026-05-01T03:30:02.107Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:43.364Z"
+  "cachedAt": "2026-04-30T19:53:43.364Z",
+  "nationality": "Dutch",
+  "birthdate": "October 16 2002"
 }

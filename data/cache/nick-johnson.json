@@ -131,10 +131,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:59.061Z",
+  "_lastVerified": "2026-05-01T03:01:34.759Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:59.061Z"
+  "cachedAt": "2026-04-30T19:39:59.061Z",
+  "nationality": "USA",
+  "birthdate": "December 22 1992",
+  "birthCity": "Gilbert"
 }

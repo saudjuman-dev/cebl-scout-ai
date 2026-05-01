@@ -66,10 +66,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:41.618Z",
+  "_lastVerified": "2026-05-01T03:14:47.406Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:41.618Z"
+  "cachedAt": "2026-04-30T19:30:41.618Z",
+  "nationality": "USA",
+  "birthdate": "September 7 2000",
+  "birthCity": "Rockwall"
 }

@@ -85,10 +85,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:11.195Z",
+  "_lastVerified": "2026-05-01T03:30:08.300Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:11.195Z"
+  "cachedAt": "2026-04-30T21:51:11.195Z",
+  "birthdate": "August 10 1996",
+  "birthCity": "Ottawa"
 }

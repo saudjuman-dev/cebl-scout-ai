@@ -120,10 +120,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:02.193Z",
+  "_lastVerified": "2026-05-01T02:27:05.091Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:02.193Z"
+  "cachedAt": "2026-04-30T19:55:02.193Z",
+  "nationality": "USA",
+  "birthdate": "August 19 1993",
+  "birthCity": "Augusta"
 }

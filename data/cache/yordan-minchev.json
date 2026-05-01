@@ -151,10 +151,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:03.130Z",
+  "_lastVerified": "2026-05-01T03:30:44.693Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:03.130Z"
+  "cachedAt": "2026-04-30T19:27:03.130Z",
+  "nationality": "Bulgarian",
+  "birthdate": "October 17 1998"
 }

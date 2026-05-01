@@ -70,10 +70,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:03.028Z",
+  "_lastVerified": "2026-05-01T02:36:36.092Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:03.028Z"
+  "cachedAt": "2026-04-30T19:56:03.028Z",
+  "nationality": "USA",
+  "birthdate": "June 21 1999",
+  "birthCity": "Schwenksville"
 }

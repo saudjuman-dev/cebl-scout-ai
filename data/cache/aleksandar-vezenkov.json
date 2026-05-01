@@ -120,10 +120,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:28.471Z",
+  "_lastVerified": "2026-05-01T01:45:52.687Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:28.471Z"
+  "cachedAt": "2026-04-30T20:01:28.471Z",
+  "nationality": "Bulgarian",
+  "birthdate": "August 6 1995",
+  "birthCity": "Nicosia"
 }

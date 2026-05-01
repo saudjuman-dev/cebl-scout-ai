@@ -35,10 +35,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:06:18.916Z",
+  "_lastVerified": "2026-05-01T03:28:45.694Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:06:18.916Z"
+  "cachedAt": "2026-04-30T21:06:18.916Z",
+  "nationality": "USA",
+  "birthdate": "September 20 2002",
+  "birthCity": "Burlington"
 }

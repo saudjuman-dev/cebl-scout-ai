@@ -86,10 +86,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:17:57.093Z",
+  "_lastVerified": "2026-05-01T01:45:44.390Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:57.093Z"
+  "cachedAt": "2026-04-30T21:17:57.093Z",
+  "nationality": "Serbian",
+  "birthdate": "March 5 2002",
+  "birthCity": "Valjevo"
 }

@@ -126,10 +126,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:07.580Z",
+  "_lastVerified": "2026-05-01T01:57:18.853Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:07.580Z"
+  "cachedAt": "2026-04-30T19:58:07.580Z",
+  "birthdate": "August 31 1994",
+  "birthCity": "Burlington"
 }

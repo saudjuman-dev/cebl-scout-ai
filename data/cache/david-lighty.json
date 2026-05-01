@@ -170,10 +170,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:23.243Z",
+  "_lastVerified": "2026-05-01T02:04:30.594Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:23.243Z"
+  "cachedAt": "2026-04-30T19:34:23.243Z",
+  "nationality": "USA",
+  "birthdate": "May 27 1988",
+  "birthCity": "Cleveland"
 }

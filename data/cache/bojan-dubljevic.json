@@ -180,10 +180,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:35.599Z",
+  "_lastVerified": "2026-05-01T01:55:23.030Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:35.599Z"
+  "cachedAt": "2026-04-30T19:58:35.599Z",
+  "nationality": "Montenegrin",
+  "birthdate": "October 24 1991",
+  "birthCity": "Niksic"
 }

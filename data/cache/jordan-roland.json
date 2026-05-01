@@ -61,10 +61,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:16.690Z",
+  "_lastVerified": "2026-05-01T02:33:23.820Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:16.690Z"
+  "cachedAt": "2026-04-30T19:25:16.690Z",
+  "nationality": "USA",
+  "birthdate": "January 15 1997",
+  "birthCity": "Syracuse"
 }

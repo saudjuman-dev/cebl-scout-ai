@@ -46,10 +46,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:18:55.153Z",
+  "_lastVerified": "2026-05-01T03:24:42.441Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:18:55.153Z"
+  "cachedAt": "2026-04-30T21:18:55.153Z",
+  "nationality": "USA",
+  "birthdate": "June 19 2001",
+  "birthCity": "American Fork"
 }

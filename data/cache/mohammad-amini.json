@@ -45,10 +45,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:37:10.739Z",
+  "_lastVerified": "2026-05-01T02:59:07.130Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:10.739Z"
+  "cachedAt": "2026-04-30T19:37:10.739Z",
+  "nationality": "Iranian",
+  "birthdate": "April 25 2005",
+  "birthCity": "Tehran"
 }

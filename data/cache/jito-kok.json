@@ -131,10 +131,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:28:38.179Z",
+  "_lastVerified": "2026-05-01T02:30:35.885Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:28:38.179Z"
+  "cachedAt": "2026-04-30T21:28:38.179Z",
+  "nationality": "Dutch",
+  "birthdate": "March 23 1994",
+  "birthCity": "Wageningen"
 }

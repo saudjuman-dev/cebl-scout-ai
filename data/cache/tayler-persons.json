@@ -125,10 +125,13 @@
       "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:45:52.692Z",
+  "_lastVerified": "2026-05-01T03:20:13.850Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:45:52.692Z"
+  "cachedAt": "2026-04-30T20:45:52.692Z",
+  "nationality": "USA",
+  "birthdate": "August 31 1995",
+  "birthCity": "Kokomo"
 }

@@ -46,10 +46,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:37.190Z",
+  "_lastVerified": "2026-05-01T03:00:52.995Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:37.190Z"
+  "cachedAt": "2026-04-30T19:39:37.190Z",
+  "birthdate": "May 31 2001",
+  "birthCity": "Wyckoff"
 }

@@ -165,10 +165,13 @@
       "league": "theBAL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:08:13.426Z",
+  "_lastVerified": "2026-05-01T01:53:03.559Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:08:13.426Z"
+  "cachedAt": "2026-04-30T21:08:13.426Z",
+  "nationality": "French",
+  "birthdate": "July 23 1992",
+  "birthCity": "Mulhouse"
 }

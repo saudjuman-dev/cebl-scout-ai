@@ -56,10 +56,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:27.957Z",
+  "_lastVerified": "2026-05-01T02:14:05.574Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:27.957Z"
+  "cachedAt": "2026-04-30T21:35:27.957Z",
+  "nationality": "Italian",
+  "birthdate": "August 17 1999",
+  "birthCity": "Mareno di Piave"
 }

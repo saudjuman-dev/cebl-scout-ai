@@ -85,10 +85,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:08.733Z",
+  "_lastVerified": "2026-05-01T03:07:52.931Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:08.733Z"
+  "cachedAt": "2026-04-30T21:53:08.733Z",
+  "nationality": "Cuban",
+  "birthdate": "March 21 2000"
 }

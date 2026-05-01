@@ -171,10 +171,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:28.238Z",
+  "_lastVerified": "2026-05-01T01:49:06.277Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:28.238Z"
+  "cachedAt": "2026-04-30T19:48:28.238Z",
+  "nationality": "Italian",
+  "birthdate": "August 21 1991",
+  "birthCity": "Camposampiero"
 }

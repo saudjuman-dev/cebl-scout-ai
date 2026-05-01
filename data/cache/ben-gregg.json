@@ -55,10 +55,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:54.121Z",
+  "_lastVerified": "2026-05-01T01:53:57.857Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:54.121Z"
+  "cachedAt": "2026-04-30T19:34:54.121Z",
+  "nationality": "USA",
+  "birthdate": "October 14 2002",
+  "birthCity": "Clackamas"
 }

@@ -70,10 +70,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:16.514Z",
+  "_lastVerified": "2026-05-01T03:19:11.982Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:16.514Z"
+  "cachedAt": "2026-04-30T21:51:16.514Z",
+  "nationality": "Icelandic",
+  "birthdate": "August 2 2001",
+  "birthCity": "Reykjavik"
 }

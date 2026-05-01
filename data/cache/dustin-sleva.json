@@ -105,10 +105,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:51:41.668Z",
+  "_lastVerified": "2026-05-01T02:09:46.191Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:41.668Z"
+  "cachedAt": "2026-04-30T20:51:41.668Z",
+  "nationality": "USA",
+  "birthdate": "September 23 1995",
+  "birthCity": "Pittsburgh"
 }

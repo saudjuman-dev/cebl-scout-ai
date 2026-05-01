@@ -45,10 +45,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:08:44.901Z",
+  "_lastVerified": "2026-05-01T02:27:09.290Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:08:44.901Z"
+  "cachedAt": "2026-04-30T22:08:44.901Z",
+  "nationality": "Dutch",
+  "birthdate": "December 15 2001",
+  "birthCity": "Almere"
 }

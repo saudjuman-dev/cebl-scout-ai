@@ -110,10 +110,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:15:21.930Z",
+  "_lastVerified": "2026-05-01T03:21:45.738Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:21.930Z"
+  "cachedAt": "2026-04-30T20:15:21.930Z",
+  "nationality": "Belgian",
+  "birthdate": "January 15 1998"
 }

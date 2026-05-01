@@ -101,10 +101,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:54:36.520Z",
+  "_lastVerified": "2026-05-01T02:09:39.948Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:54:36.520Z"
+  "cachedAt": "2026-04-30T21:54:36.520Z",
+  "nationality": "Georgian",
+  "birthdate": "July 25 1992",
+  "birthCity": "Tbilisi"
 }

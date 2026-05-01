@@ -91,10 +91,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:34.730Z",
+  "_lastVerified": "2026-05-01T02:31:13.129Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:34.730Z"
+  "cachedAt": "2026-04-30T19:29:34.730Z",
+  "nationality": "USA",
+  "birthdate": "August 23 1999",
+  "birthCity": "Muscatine"
 }

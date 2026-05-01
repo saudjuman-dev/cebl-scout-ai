@@ -86,10 +86,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:49.707Z",
+  "_lastVerified": "2026-05-01T01:55:29.285Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:49.707Z"
+  "cachedAt": "2026-04-30T19:25:49.707Z",
+  "nationality": "USA",
+  "birthdate": "November 19 1997",
+  "birthCity": "Shakopee"
 }

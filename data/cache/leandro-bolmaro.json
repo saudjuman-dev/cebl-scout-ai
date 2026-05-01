@@ -121,10 +121,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:42:30.208Z",
+  "_lastVerified": "2026-05-01T02:43:17.804Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:42:30.208Z"
+  "cachedAt": "2026-04-30T19:42:30.208Z",
+  "nationality": "Argentinian",
+  "birthdate": "September 10 2000",
+  "birthCity": "Cordoba"
 }

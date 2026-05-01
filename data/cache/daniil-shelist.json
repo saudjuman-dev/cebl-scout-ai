@@ -60,10 +60,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:49:11.789Z",
+  "_lastVerified": "2026-05-01T02:03:16.712Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:49:11.789Z"
+  "cachedAt": "2026-04-30T21:49:11.789Z",
+  "nationality": "Ukrainian",
+  "birthdate": "August 30 2003"
 }

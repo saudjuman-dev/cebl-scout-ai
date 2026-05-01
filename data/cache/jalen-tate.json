@@ -91,10 +91,13 @@
       "league": "ISR-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:48:37.594Z",
+  "_lastVerified": "2026-05-01T02:26:37.072Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:48:37.594Z"
+  "cachedAt": "2026-04-30T21:48:37.594Z",
+  "nationality": "USA",
+  "birthdate": "June 18 1998",
+  "birthCity": "Pickerington"
 }

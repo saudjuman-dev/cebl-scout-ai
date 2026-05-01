@@ -81,10 +81,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:50.138Z",
+  "_lastVerified": "2026-05-01T03:07:46.731Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:50.138Z"
+  "cachedAt": "2026-04-30T19:47:50.138Z",
+  "nationality": "USA",
+  "birthdate": "January 31 1998",
+  "birthCity": "Fayetteville"
 }

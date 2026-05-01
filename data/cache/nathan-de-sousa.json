@@ -65,10 +65,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:20.964Z",
+  "_lastVerified": "2026-05-01T03:00:31.100Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:20.964Z"
+  "cachedAt": "2026-04-30T19:35:20.964Z",
+  "nationality": "French",
+  "birthdate": "February 21 2003"
 }

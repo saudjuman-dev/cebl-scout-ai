@@ -106,10 +106,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:45.503Z",
+  "_lastVerified": "2026-05-01T02:12:55.838Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:45.503Z"
+  "cachedAt": "2026-04-30T19:59:45.503Z",
+  "birthdate": "May 7 1996",
+  "birthCity": "Milan"
 }

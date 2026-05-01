@@ -61,10 +61,13 @@
       "league": "CZE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:10:52.784Z",
+  "_lastVerified": "2026-05-01T03:28:37.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:10:52.784Z"
+  "cachedAt": "2026-04-30T21:10:52.784Z",
+  "nationality": "USA",
+  "birthdate": "November 3 2000",
+  "birthCity": "Lincoln"
 }

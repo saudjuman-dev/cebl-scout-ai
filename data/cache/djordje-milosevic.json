@@ -115,10 +115,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:27:19.978Z",
+  "_lastVerified": "2026-05-01T02:08:34.751Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:27:19.978Z"
+  "cachedAt": "2026-04-30T21:27:19.978Z",
+  "nationality": "Serbian",
+  "birthdate": "June 20 1993",
+  "birthCity": "Jagodina"
 }

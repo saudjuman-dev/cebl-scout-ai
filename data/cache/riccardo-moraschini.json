@@ -151,10 +151,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:11.201Z",
+  "_lastVerified": "2026-05-01T03:10:51.257Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:11.201Z"
+  "cachedAt": "2026-04-30T19:48:11.201Z",
+  "nationality": "Italian",
+  "birthdate": "January 8 1991",
+  "birthCity": "Cento"
 }

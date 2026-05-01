@@ -40,10 +40,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:06:11.342Z",
+  "_lastVerified": "2026-05-01T02:36:05.309Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:06:11.342Z"
+  "cachedAt": "2026-04-30T21:06:11.342Z",
+  "nationality": "USA",
+  "birthdate": "May 25 2001",
+  "birthCity": "Fayetteville"
 }

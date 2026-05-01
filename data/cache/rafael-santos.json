@@ -55,10 +55,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:05:26.762Z",
+  "_lastVerified": "2026-05-01T03:09:42.785Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:05:26.762Z"
+  "cachedAt": "2026-04-30T22:05:26.762Z",
+  "nationality": "Spanish",
+  "birthdate": "December 11 2003",
+  "birthCity": "Cordoba"
 }

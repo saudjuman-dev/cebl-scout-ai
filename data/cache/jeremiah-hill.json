@@ -125,10 +125,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:33.725Z",
+  "_lastVerified": "2026-05-01T02:29:43.448Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:33.725Z"
+  "cachedAt": "2026-04-30T19:36:33.725Z",
+  "birthdate": "September 4 1995",
+  "birthCity": "Richmond Hill"
 }

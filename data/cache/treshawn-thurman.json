@@ -86,10 +86,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:20:21.848Z",
+  "_lastVerified": "2026-05-01T03:24:17.566Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:20:21.848Z"
+  "cachedAt": "2026-04-30T20:20:21.848Z",
+  "nationality": "USA",
+  "birthdate": "December 5 1995",
+  "birthCity": "San Diego"
 }

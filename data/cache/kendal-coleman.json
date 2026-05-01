@@ -40,10 +40,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:42.243Z",
+  "_lastVerified": "2026-05-01T02:38:49.754Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:42.243Z"
+  "cachedAt": "2026-04-30T20:06:42.243Z",
+  "nationality": "USA",
+  "birthdate": "August 21 2002",
+  "birthCity": "Shreveport"
 }

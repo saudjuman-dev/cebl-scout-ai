@@ -135,10 +135,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:50.682Z",
+  "_lastVerified": "2026-05-01T02:45:38.927Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:50.682Z"
+  "cachedAt": "2026-04-30T19:34:50.682Z",
+  "nationality": "French",
+  "birthdate": "February 11 1992",
+  "birthCity": "Gonesse"
 }

@@ -91,10 +91,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:38:00.595Z",
+  "_lastVerified": "2026-05-01T01:52:59.229Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:38:00.595Z"
+  "cachedAt": "2026-04-30T21:38:00.595Z",
+  "nationality": "USA",
+  "birthdate": "December 15 1993",
+  "birthCity": "Hattiesburg"
 }

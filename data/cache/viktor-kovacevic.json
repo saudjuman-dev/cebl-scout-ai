@@ -76,10 +76,12 @@
       "league": "SVK-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:13:07.544Z",
+  "_lastVerified": "2026-05-01T03:27:19.561Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:07.544Z"
+  "cachedAt": "2026-04-30T21:13:07.544Z",
+  "nationality": "Serbian",
+  "birthCity": "Beograd"
 }

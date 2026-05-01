@@ -130,10 +130,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:19:50.859Z",
+  "_lastVerified": "2026-05-01T03:29:00.460Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:19:50.859Z"
+  "cachedAt": "2026-04-30T20:19:50.859Z",
+  "nationality": "USA",
+  "birthdate": "October 7 1992",
+  "birthCity": "Jacksonville"
 }

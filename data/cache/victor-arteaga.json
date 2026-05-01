@@ -130,10 +130,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:25.446Z",
+  "_lastVerified": "2026-05-01T03:27:06.582Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:25.446Z"
+  "cachedAt": "2026-04-30T21:50:25.446Z",
+  "nationality": "Spanish",
+  "birthdate": "July 7 1992",
+  "birthCity": "Cuenca"
 }

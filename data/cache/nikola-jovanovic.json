@@ -131,10 +131,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:03.769Z",
+  "_lastVerified": "2026-05-01T03:02:52.039Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:03.769Z"
+  "cachedAt": "2026-04-30T19:39:03.769Z",
+  "nationality": "Serbian",
+  "birthdate": "January 6 1994",
+  "birthCity": "Beograd"
 }

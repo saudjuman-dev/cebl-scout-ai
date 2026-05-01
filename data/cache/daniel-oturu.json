@@ -86,10 +86,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:06.528Z",
+  "_lastVerified": "2026-05-01T02:02:58.757Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:06.528Z"
+  "cachedAt": "2026-04-30T20:31:06.528Z",
+  "nationality": "USA",
+  "birthdate": "September 20 1999",
+  "birthCity": "Woodbury"
 }

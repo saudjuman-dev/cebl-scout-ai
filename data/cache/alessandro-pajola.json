@@ -131,10 +131,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:28.113Z",
+  "_lastVerified": "2026-05-01T01:46:32.397Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:28.113Z"
+  "cachedAt": "2026-04-30T19:41:28.113Z",
+  "nationality": "Italian",
+  "birthdate": "September 11 1999",
+  "birthCity": "Ancona"
 }

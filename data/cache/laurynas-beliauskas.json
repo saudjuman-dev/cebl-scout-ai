@@ -126,10 +126,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:49:22.824Z",
+  "_lastVerified": "2026-05-01T02:43:07.404Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:22.824Z"
+  "cachedAt": "2026-04-30T19:49:22.824Z",
+  "nationality": "Lithuanian",
+  "birthdate": "March 2 1997",
+  "birthCity": "Klaipeda"
 }

@@ -85,10 +85,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:49:41.377Z",
+  "_lastVerified": "2026-05-01T03:07:21.128Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:49:41.377Z"
+  "cachedAt": "2026-04-30T21:49:41.377Z",
+  "nationality": "French",
+  "birthdate": "February 10 1995",
+  "birthCity": "Le Mans"
 }

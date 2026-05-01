@@ -91,10 +91,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:18.385Z",
+  "_lastVerified": "2026-05-01T02:53:39.657Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:18.385Z"
+  "cachedAt": "2026-04-30T19:47:18.385Z",
+  "nationality": "Italian",
+  "birthdate": "September 25 1989",
+  "birthCity": "Milano"
 }

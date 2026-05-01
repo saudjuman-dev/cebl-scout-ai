@@ -120,10 +120,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:32:08.259Z",
+  "_lastVerified": "2026-05-01T01:47:26.925Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:32:08.259Z"
+  "cachedAt": "2026-04-30T21:32:08.259Z",
+  "nationality": "French",
+  "birthdate": "September 19 1990",
+  "birthCity": "Blois"
 }

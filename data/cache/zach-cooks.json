@@ -76,10 +76,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:19.987Z",
+  "_lastVerified": "2026-05-01T03:31:18.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:19.987Z"
+  "cachedAt": "2026-04-30T19:23:19.987Z",
+  "nationality": "USA",
+  "birthdate": "March 4 1999",
+  "birthCity": "Lawrenceville"
 }

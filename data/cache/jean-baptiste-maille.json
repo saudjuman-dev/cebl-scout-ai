@@ -90,10 +90,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:01.482Z",
+  "_lastVerified": "2026-05-01T02:29:13.030Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:01.482Z"
+  "cachedAt": "2026-04-30T19:35:01.482Z",
+  "nationality": "French",
+  "birthdate": "November 23 1993",
+  "birthCity": "Le Mans"
 }

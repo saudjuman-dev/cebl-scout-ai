@@ -56,10 +56,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:41:38.193Z",
+  "_lastVerified": "2026-05-01T03:11:26.057Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:41:38.193Z"
+  "cachedAt": "2026-04-30T20:41:38.193Z",
+  "nationality": "USA",
+  "birthdate": "November 29 1999",
+  "birthCity": "Boston"
 }

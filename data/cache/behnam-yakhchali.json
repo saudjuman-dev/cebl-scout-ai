@@ -106,10 +106,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:29.508Z",
+  "_lastVerified": "2026-05-01T01:53:53.341Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:29.508Z"
+  "cachedAt": "2026-04-30T19:25:29.508Z",
+  "nationality": "Iranian",
+  "birthdate": "July 12 1995",
+  "birthCity": "Shahr-E kord"
 }

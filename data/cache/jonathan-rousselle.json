@@ -135,10 +135,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:00:55.255Z",
+  "_lastVerified": "2026-05-01T02:32:38.021Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:55.255Z"
+  "cachedAt": "2026-04-30T20:00:55.255Z",
+  "nationality": "French",
+  "birthdate": "February 7 1990",
+  "birthCity": "Seclin"
 }

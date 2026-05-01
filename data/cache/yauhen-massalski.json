@@ -76,10 +76,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:27:07.645Z",
+  "_lastVerified": "2026-05-01T03:30:15.323Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:27:07.645Z"
+  "cachedAt": "2026-04-30T21:27:07.645Z",
+  "nationality": "Belarusian",
+  "birthdate": "March 25 1999",
+  "birthCity": "Minsk"
 }

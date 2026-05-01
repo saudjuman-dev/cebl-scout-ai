@@ -101,10 +101,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:33.631Z",
+  "_lastVerified": "2026-05-01T03:29:55.051Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:33.631Z"
+  "cachedAt": "2026-04-30T20:31:33.631Z",
+  "nationality": "Israeli",
+  "birthdate": "December 21 2000",
+  "birthCity": "Tel Aviv"
 }

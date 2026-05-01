@@ -121,10 +121,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:42:53.909Z",
+  "_lastVerified": "2026-05-01T02:25:03.238Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:42:53.909Z"
+  "cachedAt": "2026-04-30T21:42:53.909Z",
+  "nationality": "Italian",
+  "birthdate": "May 9 1990",
+  "birthCity": "Torino"
 }

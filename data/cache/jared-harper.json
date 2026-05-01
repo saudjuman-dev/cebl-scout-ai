@@ -111,10 +111,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:27.272Z",
+  "_lastVerified": "2026-05-01T02:27:36.041Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:27.272Z"
+  "cachedAt": "2026-04-30T20:32:27.272Z",
+  "nationality": "USA",
+  "birthdate": "September 14 1997",
+  "birthCity": "Mableton"
 }

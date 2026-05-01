@@ -115,10 +115,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:04.794Z",
+  "_lastVerified": "2026-05-01T03:22:01.862Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:04.794Z"
+  "cachedAt": "2026-04-30T19:53:04.794Z",
+  "nationality": "French",
+  "birthdate": "May 9 1995",
+  "birthCity": "Cannes"
 }

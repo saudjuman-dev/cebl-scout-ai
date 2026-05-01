@@ -110,10 +110,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:31.050Z",
+  "_lastVerified": "2026-05-01T02:40:19.303Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:31.050Z"
+  "cachedAt": "2026-04-30T19:53:31.050Z",
+  "nationality": "Senegalese",
+  "birthdate": "January 15 2002",
+  "birthCity": "Gran Canaria"
 }

@@ -40,10 +40,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:47.038Z",
+  "_lastVerified": "2026-05-01T01:59:07.903Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:47.038Z"
+  "cachedAt": "2026-04-30T21:05:47.038Z",
+  "nationality": "USA",
+  "birthdate": "Apr. 20, 2002",
+  "birthCity": "Newport News"
 }

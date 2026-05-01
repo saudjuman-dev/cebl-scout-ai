@@ -71,10 +71,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:18.324Z",
+  "_lastVerified": "2026-05-01T03:04:43.711Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:18.324Z"
+  "cachedAt": "2026-04-30T19:45:18.324Z",
+  "nationality": "Finnish",
+  "birthdate": "May 2 2000",
+  "birthCity": "Helsinki"
 }

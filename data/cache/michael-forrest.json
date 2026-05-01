@@ -75,10 +75,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:43.374Z",
+  "_lastVerified": "2026-05-01T02:55:48.369Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:43.374Z"
+  "cachedAt": "2026-04-30T19:51:43.374Z",
+  "nationality": "USA",
+  "birthdate": "December 2 1999",
+  "birthCity": "Pompano Beach"
 }

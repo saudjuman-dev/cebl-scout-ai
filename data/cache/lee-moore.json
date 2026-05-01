@@ -96,10 +96,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:10.712Z",
+  "_lastVerified": "2026-05-01T02:43:19.962Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:10.712Z"
+  "cachedAt": "2026-04-30T21:35:10.712Z",
+  "nationality": "USA",
+  "birthdate": "September 8 1995",
+  "birthCity": "Marietta"
 }

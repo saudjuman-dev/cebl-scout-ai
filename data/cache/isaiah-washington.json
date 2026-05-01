@@ -86,10 +86,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:55.727Z",
+  "_lastVerified": "2026-05-01T02:23:30.376Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:55.727Z"
+  "cachedAt": "2026-04-30T19:58:55.727Z",
+  "birthdate": "July 20 1998",
+  "birthCity": "Harlem"
 }

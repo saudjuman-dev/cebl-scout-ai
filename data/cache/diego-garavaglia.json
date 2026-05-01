@@ -66,10 +66,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:50.225Z",
+  "_lastVerified": "2026-05-01T02:07:18.795Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:50.225Z"
+  "cachedAt": "2026-04-30T19:23:50.225Z",
+  "nationality": "Italian",
+  "birthdate": "April 4 2007"
 }

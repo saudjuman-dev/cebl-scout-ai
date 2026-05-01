@@ -131,10 +131,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:40.461Z",
+  "_lastVerified": "2026-05-01T03:08:28.892Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:40.461Z"
+  "cachedAt": "2026-04-30T19:25:40.461Z",
+  "nationality": "German",
+  "birthdate": "June 29 1999",
+  "birthCity": "Mettingen"
 }

@@ -65,10 +65,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:43:07.344Z",
+  "_lastVerified": "2026-05-01T02:23:19.896Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:43:07.344Z"
+  "cachedAt": "2026-04-30T20:43:07.344Z",
+  "nationality": "USA",
+  "birthdate": "April 22 1999",
+  "birthCity": "Newark"
 }

@@ -91,10 +91,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:22:02.180Z",
+  "_lastVerified": "2026-05-01T03:14:07.111Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:02.180Z"
+  "cachedAt": "2026-04-30T19:22:02.180Z",
+  "nationality": "German",
+  "birthdate": "March 22 2000",
+  "birthCity": "Lincoln"
 }

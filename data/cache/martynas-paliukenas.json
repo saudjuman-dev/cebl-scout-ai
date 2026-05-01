@@ -130,10 +130,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:52:37.582Z",
+  "_lastVerified": "2026-05-01T02:52:14.979Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:37.582Z"
+  "cachedAt": "2026-04-30T20:52:37.582Z",
+  "nationality": "Lithuanian",
+  "birthdate": "September 14 1993",
+  "birthCity": "Vilnius"
 }

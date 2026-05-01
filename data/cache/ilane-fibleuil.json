@@ -36,10 +36,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:24:17.368Z",
+  "_lastVerified": "2026-05-01T02:22:20.099Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:24:17.368Z"
+  "cachedAt": "2026-04-30T21:24:17.368Z",
+  "nationality": "French",
+  "birthdate": "June 26 2005",
+  "birthCity": "Massy"
 }

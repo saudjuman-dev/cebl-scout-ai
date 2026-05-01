@@ -60,10 +60,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:59:07.901Z",
+  "_lastVerified": "2026-05-01T01:45:40.324Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:59:07.901Z"
+  "cachedAt": "2026-04-30T21:59:07.901Z",
+  "nationality": "Spanish",
+  "birthdate": "November 4 1998",
+  "birthCity": "Valencia"
 }

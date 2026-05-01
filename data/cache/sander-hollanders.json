@@ -75,10 +75,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:58.568Z",
+  "_lastVerified": "2026-05-01T03:14:49.455Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:58.568Z"
+  "cachedAt": "2026-04-30T21:50:58.568Z",
+  "nationality": "Dutch",
+  "birthdate": "September 13 2001"
 }

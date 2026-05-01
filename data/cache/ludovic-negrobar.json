@@ -55,10 +55,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:24:09.923Z",
+  "_lastVerified": "2026-05-01T02:46:55.136Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:24:09.923Z"
+  "cachedAt": "2026-04-30T21:24:09.923Z",
+  "nationality": "French",
+  "birthdate": "September 1 1991",
+  "birthCity": "Creteil"
 }

@@ -51,10 +51,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:49.059Z",
+  "_lastVerified": "2026-05-01T02:03:37.933Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:49.059Z"
+  "cachedAt": "2026-04-30T20:35:49.059Z",
+  "nationality": "USA",
+  "birthdate": "August 5 2002",
+  "birthCity": "Milwaukee"
 }

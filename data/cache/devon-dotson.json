@@ -91,10 +91,13 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:37.018Z",
+  "_lastVerified": "2026-05-01T02:06:43.206Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:37.018Z"
+  "cachedAt": "2026-04-30T20:16:37.018Z",
+  "nationality": "USA",
+  "birthdate": "August 2 1999",
+  "birthCity": "Charlotte"
 }

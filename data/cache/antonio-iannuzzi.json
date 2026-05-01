@@ -121,10 +121,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:33:39.425Z",
+  "_lastVerified": "2026-05-01T01:50:54.166Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:33:39.425Z"
+  "cachedAt": "2026-04-30T21:33:39.425Z",
+  "nationality": "Italian",
+  "birthdate": "April 21 1991",
+  "birthCity": "Avellino"
 }

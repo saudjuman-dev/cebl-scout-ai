@@ -146,10 +146,13 @@
       "league": "IDN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:14.065Z",
+  "_lastVerified": "2026-05-01T01:58:40.731Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:14.065Z"
+  "cachedAt": "2026-04-30T20:35:14.065Z",
+  "nationality": "USA",
+  "birthdate": "September 6 1996",
+  "birthCity": "Deltona"
 }

@@ -75,10 +75,12 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:53:48.181Z",
+  "_lastVerified": "2026-05-01T03:18:39.656Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:53:48.181Z"
+  "cachedAt": "2026-04-30T20:53:48.181Z",
+  "birthdate": "August 2 2001",
+  "birthCity": "Sarajevo"
 }

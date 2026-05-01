@@ -80,10 +80,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:56.346Z",
+  "_lastVerified": "2026-05-01T03:14:37.986Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:56.346Z"
+  "cachedAt": "2026-04-30T21:51:56.346Z",
+  "nationality": "Spanish",
+  "birthdate": "August 2 1997",
+  "birthCity": "San Cristóbal de La Laguna"
 }

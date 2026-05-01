@@ -111,10 +111,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:21.688Z",
+  "_lastVerified": "2026-05-01T01:46:14.076Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:21.688Z"
+  "cachedAt": "2026-04-30T19:41:21.688Z",
+  "nationality": "Serbian",
+  "birthdate": "August 18 2000",
+  "birthCity": "Beograd"
 }

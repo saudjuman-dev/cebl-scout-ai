@@ -101,10 +101,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:40.872Z",
+  "_lastVerified": "2026-05-01T01:48:33.923Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:40.872Z"
+  "cachedAt": "2026-04-30T20:34:40.872Z",
+  "nationality": "USA",
+  "birthdate": "October 26 1990",
+  "birthCity": "Roswell"
 }

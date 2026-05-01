@@ -86,10 +86,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:31:18.193Z",
+  "_lastVerified": "2026-05-01T03:17:43.292Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:31:18.193Z"
+  "cachedAt": "2026-04-30T21:31:18.193Z",
+  "nationality": "USA",
+  "birthdate": "December 14 1993",
+  "birthCity": "Golden Valley"
 }

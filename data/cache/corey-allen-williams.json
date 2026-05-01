@@ -81,10 +81,13 @@
       "league": "CRO-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:47.050Z",
+  "_lastVerified": "2026-05-01T02:01:25.207Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:47.050Z"
+  "cachedAt": "2026-04-30T21:04:47.050Z",
+  "nationality": "USA",
+  "birthdate": "April 29 1998",
+  "birthCity": "Ypsilanti"
 }

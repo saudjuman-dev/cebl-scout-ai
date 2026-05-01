@@ -165,10 +165,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:39:54.848Z",
+  "_lastVerified": "2026-05-01T03:04:32.113Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:39:54.848Z"
+  "cachedAt": "2026-04-30T20:39:54.848Z",
+  "nationality": "Latvian",
+  "birthdate": "July 20 1993",
+  "birthCity": "Riga"
 }

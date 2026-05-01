@@ -96,10 +96,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:22:36.039Z",
+  "_lastVerified": "2026-05-01T01:52:07.082Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:36.039Z"
+  "cachedAt": "2026-04-30T20:22:36.039Z",
+  "nationality": "Estonian",
+  "birthdate": "May 9 2000",
+  "birthCity": "Pranu"
 }

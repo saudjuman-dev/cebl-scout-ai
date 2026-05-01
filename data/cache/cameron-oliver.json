@@ -126,10 +126,13 @@
       "league": "CHN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:37:23.008Z",
+  "_lastVerified": "2026-05-01T01:57:37.581Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:37:23.008Z"
+  "cachedAt": "2026-04-30T20:37:23.008Z",
+  "nationality": "USA",
+  "birthdate": "July 11 1996",
+  "birthCity": "Oakland"
 }

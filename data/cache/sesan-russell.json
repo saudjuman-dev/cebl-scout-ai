@@ -90,10 +90,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:56:10.573Z",
+  "_lastVerified": "2026-05-01T03:16:34.484Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:56:10.573Z"
+  "cachedAt": "2026-04-30T21:56:10.573Z",
+  "birthdate": "April 26 1999",
+  "birthCity": "London"
 }

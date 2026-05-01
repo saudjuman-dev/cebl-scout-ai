@@ -91,10 +91,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:43:33.861Z",
+  "_lastVerified": "2026-05-01T02:53:54.312Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:43:33.861Z"
+  "cachedAt": "2026-04-30T21:43:33.861Z",
+  "nationality": "Italian",
+  "birthdate": "February 18 1992",
+  "birthCity": "Bologna"
 }

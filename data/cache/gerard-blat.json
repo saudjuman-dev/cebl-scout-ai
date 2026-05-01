@@ -65,10 +65,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:49.461Z",
+  "_lastVerified": "2026-05-01T02:17:22.317Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:49.461Z"
+  "cachedAt": "2026-04-30T21:57:49.461Z",
+  "nationality": "Spanish",
+  "birthdate": "April 14 1997",
+  "birthCity": "Barcelona"
 }

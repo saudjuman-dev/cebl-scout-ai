@@ -156,10 +156,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:40:27.446Z",
+  "_lastVerified": "2026-05-01T01:50:00.196Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:40:27.446Z"
+  "cachedAt": "2026-04-30T20:40:27.446Z",
+  "birthdate": "December 29 1992",
+  "birthCity": "Santo Domingo"
 }

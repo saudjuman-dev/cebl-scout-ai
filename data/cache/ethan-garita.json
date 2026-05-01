@@ -36,10 +36,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:03.868Z",
+  "_lastVerified": "2026-05-01T02:12:53.785Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:03.868Z"
+  "cachedAt": "2026-04-30T21:04:03.868Z",
+  "nationality": "USA",
+  "birthdate": "July 9 2002",
+  "birthCity": "Trenton"
 }

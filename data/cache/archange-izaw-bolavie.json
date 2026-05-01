@@ -70,10 +70,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:54:28.689Z",
+  "_lastVerified": "2026-05-01T01:51:26.078Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:54:28.689Z"
+  "cachedAt": "2026-04-30T21:54:28.689Z",
+  "nationality": "Belgian",
+  "birthdate": "June 27 2001"
 }

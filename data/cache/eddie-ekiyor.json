@@ -55,10 +55,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:39:52.339Z",
+  "_lastVerified": "2026-05-01T02:10:07.917Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:52.339Z"
+  "cachedAt": "2026-04-30T19:39:52.339Z",
+  "birthdate": "May 3 1997",
+  "birthCity": "Ottawa"
 }

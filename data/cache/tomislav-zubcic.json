@@ -276,10 +276,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:21.255Z",
+  "_lastVerified": "2026-05-01T03:22:59.047Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:21.255Z"
+  "cachedAt": "2026-04-30T19:27:21.255Z",
+  "nationality": "Croatian",
+  "birthdate": "January 17 1990",
+  "birthCity": "Zadar"
 }

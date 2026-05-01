@@ -106,10 +106,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:33.952Z",
+  "_lastVerified": "2026-05-01T02:02:10.188Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:33.952Z"
+  "cachedAt": "2026-04-30T19:27:33.952Z",
+  "nationality": "USA",
+  "birthdate": "May 13 1994",
+  "birthCity": "Gardena"
 }

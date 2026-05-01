@@ -125,10 +125,12 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:50.316Z",
+  "_lastVerified": "2026-05-01T03:30:25.814Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:50.316Z"
+  "cachedAt": "2026-04-30T20:16:50.316Z",
+  "nationality": "Turkish",
+  "birthdate": "May 15 1996"
 }

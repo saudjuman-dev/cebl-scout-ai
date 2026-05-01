@@ -150,10 +150,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:19:01.511Z",
+  "_lastVerified": "2026-05-01T03:23:34.786Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:19:01.511Z"
+  "cachedAt": "2026-04-30T20:19:01.511Z",
+  "nationality": "Russian",
+  "birthdate": "August 9 1990",
+  "birthCity": "Sleepy Hollow"
 }

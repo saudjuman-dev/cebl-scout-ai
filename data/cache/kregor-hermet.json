@@ -160,10 +160,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:24.819Z",
+  "_lastVerified": "2026-05-01T02:41:21.957Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:24.819Z"
+  "cachedAt": "2026-04-30T19:38:24.819Z",
+  "nationality": "Estonian",
+  "birthdate": "June 9 1997"
 }

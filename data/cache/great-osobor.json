@@ -61,10 +61,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:54.556Z",
+  "_lastVerified": "2026-05-01T02:19:15.821Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:54.556Z"
+  "cachedAt": "2026-04-30T19:29:54.556Z",
+  "birthdate": "December 13 2002",
+  "birthCity": "Tudela"
 }

@@ -105,10 +105,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:57:09.672Z",
+  "_lastVerified": "2026-05-01T01:52:13.214Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:09.672Z"
+  "cachedAt": "2026-04-30T19:57:09.672Z",
+  "nationality": "Latvian",
+  "birthdate": "January 19 2000",
+  "birthCity": "Cesis"
 }

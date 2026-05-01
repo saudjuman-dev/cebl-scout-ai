@@ -121,10 +121,12 @@
       "league": "CHN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:22:53.572Z",
+  "_lastVerified": "2026-05-01T02:50:26.715Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:53.572Z"
+  "cachedAt": "2026-04-30T20:22:53.572Z",
+  "birthdate": "March 28 1994",
+  "birthCity": "Miami"
 }

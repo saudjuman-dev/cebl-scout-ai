@@ -76,10 +76,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:28.096Z",
+  "_lastVerified": "2026-05-01T02:39:34.092Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:28.096Z"
+  "cachedAt": "2026-04-30T19:35:28.096Z",
+  "nationality": "USA",
+  "birthdate": "October 22 1999",
+  "birthCity": "Madison"
 }

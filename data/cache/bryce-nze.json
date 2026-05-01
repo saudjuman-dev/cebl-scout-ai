@@ -61,10 +61,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:21:40.518Z",
+  "_lastVerified": "2026-05-01T01:56:52.360Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:21:40.518Z"
+  "cachedAt": "2026-04-30T21:21:40.518Z",
+  "birthdate": "March 2 1998",
+  "birthCity": "Hartland"
 }

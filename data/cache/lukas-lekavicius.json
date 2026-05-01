@@ -141,10 +141,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:58.251Z",
+  "_lastVerified": "2026-05-01T02:47:33.712Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:58.251Z"
+  "cachedAt": "2026-04-30T20:02:58.251Z",
+  "nationality": "Lithuanian",
+  "birthdate": "March 30 1994",
+  "birthCity": "Silale"
 }

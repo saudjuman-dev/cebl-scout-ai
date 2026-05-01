@@ -156,10 +156,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:43:00.608Z",
+  "_lastVerified": "2026-05-01T03:13:34.124Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:43:00.608Z"
+  "cachedAt": "2026-04-30T21:43:00.608Z",
+  "nationality": "USA",
+  "birthdate": "April 19 1991",
+  "birthCity": "Queens"
 }

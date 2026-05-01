@@ -70,10 +70,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:29:25.956Z",
+  "_lastVerified": "2026-05-01T03:14:25.316Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:25.956Z"
+  "cachedAt": "2026-04-30T21:29:25.956Z",
+  "birthdate": "March 23 1998",
+  "birthCity": "Douala"
 }

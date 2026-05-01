@@ -76,10 +76,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:44.585Z",
+  "_lastVerified": "2026-05-01T02:38:39.154Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:44.585Z"
+  "cachedAt": "2026-04-30T19:29:44.585Z",
+  "nationality": "USA",
+  "birthdate": "May 16 1997",
+  "birthCity": "Glassboro"
 }

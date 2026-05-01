@@ -110,10 +110,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:33.521Z",
+  "_lastVerified": "2026-05-01T02:38:41.255Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:33.521Z"
+  "cachedAt": "2026-04-30T19:51:33.521Z",
+  "nationality": "USA",
+  "birthdate": "August 3 1995",
+  "birthCity": "Louisville"
 }

@@ -90,10 +90,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:21:27.828Z",
+  "_lastVerified": "2026-05-01T02:21:09.621Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:21:27.828Z"
+  "cachedAt": "2026-04-30T20:21:27.828Z",
+  "nationality": "French",
+  "birthdate": "April 26 2001",
+  "birthCity": "Angers"
 }

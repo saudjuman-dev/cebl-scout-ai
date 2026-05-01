@@ -126,10 +126,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:01.907Z",
+  "_lastVerified": "2026-05-01T01:52:37.918Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:01.907Z"
+  "cachedAt": "2026-04-30T19:47:01.907Z",
+  "nationality": "USA",
+  "birthdate": "May 8 1995",
+  "birthCity": "Durham"
 }

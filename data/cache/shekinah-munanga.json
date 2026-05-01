@@ -50,10 +50,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:29:14.616Z",
+  "_lastVerified": "2026-05-01T03:17:01.369Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:14.616Z"
+  "cachedAt": "2026-04-30T21:29:14.616Z",
+  "birthdate": "December 18 1997",
+  "birthCity": "Kinshasa"
 }

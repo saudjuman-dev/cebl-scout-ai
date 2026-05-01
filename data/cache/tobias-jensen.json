@@ -116,10 +116,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:25.116Z",
+  "_lastVerified": "2026-05-01T03:22:28.701Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:25.116Z"
+  "cachedAt": "2026-04-30T19:23:25.116Z",
+  "nationality": "Danish",
+  "birthdate": "May 8 2004"
 }

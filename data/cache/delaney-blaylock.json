@@ -70,10 +70,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:01:08.913Z",
+  "_lastVerified": "2026-05-01T02:05:30.577Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:01:08.913Z"
+  "cachedAt": "2026-04-30T21:01:08.913Z",
+  "nationality": "USA",
+  "birthdate": "January 17 1997",
+  "birthCity": "Wyoming"
 }

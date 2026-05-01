@@ -96,10 +96,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:34.469Z",
+  "_lastVerified": "2026-05-01T02:47:46.597Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:34.469Z"
+  "cachedAt": "2026-04-30T19:26:34.469Z",
+  "nationality": "Polish",
+  "birthdate": "July 28 1999",
+  "birthCity": "Elk"
 }

@@ -96,10 +96,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:49:26.329Z",
+  "_lastVerified": "2026-05-01T03:10:01.069Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:26.329Z"
+  "cachedAt": "2026-04-30T19:49:26.329Z",
+  "nationality": "USA",
+  "birthdate": "August 15 1994",
+  "birthCity": "Oklahoma City"
 }

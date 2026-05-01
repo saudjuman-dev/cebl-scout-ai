@@ -101,10 +101,12 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:15:19.147Z",
+  "_lastVerified": "2026-05-01T03:20:18.024Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:15:19.147Z"
+  "cachedAt": "2026-04-30T22:15:19.147Z",
+  "nationality": "Finnish",
+  "birthdate": "December 10 1998"
 }

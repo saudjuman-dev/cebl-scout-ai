@@ -66,10 +66,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:17:02.791Z",
+  "_lastVerified": "2026-05-01T02:47:37.095Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:02.791Z"
+  "cachedAt": "2026-04-30T21:17:02.791Z",
+  "nationality": "USA",
+  "birthdate": "April 25 2000",
+  "birthCity": "Olathe"
 }

@@ -65,10 +65,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:02:14.257Z",
+  "_lastVerified": "2026-05-01T02:24:12.329Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:02:14.257Z"
+  "cachedAt": "2026-04-30T21:02:14.257Z",
+  "nationality": "Serbian",
+  "birthdate": "August 26 2002",
+  "birthCity": "Beograd"
 }

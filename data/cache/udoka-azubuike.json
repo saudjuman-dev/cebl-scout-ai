@@ -86,10 +86,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:32.116Z",
+  "_lastVerified": "2026-05-01T03:25:56.110Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:32.116Z"
+  "cachedAt": "2026-04-30T20:36:32.116Z",
+  "nationality": "Nigerian",
+  "birthdate": "September 17 1999",
+  "birthCity": "Lagos"
 }

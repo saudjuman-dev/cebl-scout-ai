@@ -101,10 +101,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:58.732Z",
+  "_lastVerified": "2026-05-01T03:18:10.564Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:58.732Z"
+  "cachedAt": "2026-04-30T19:27:58.732Z",
+  "birthdate": "December 23 1995",
+  "birthCity": "Newark"
 }

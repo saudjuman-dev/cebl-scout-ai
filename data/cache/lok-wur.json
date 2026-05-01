@@ -36,10 +36,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:19:39.006Z",
+  "_lastVerified": "2026-05-01T02:44:51.741Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:19:39.006Z"
+  "cachedAt": "2026-04-30T21:19:39.006Z",
+  "birthdate": "December 12 2000",
+  "birthCity": "Omaha"
 }

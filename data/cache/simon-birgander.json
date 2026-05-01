@@ -110,10 +110,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:46.516Z",
+  "_lastVerified": "2026-05-01T03:17:21.003Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:46.516Z"
+  "cachedAt": "2026-04-30T19:53:46.516Z",
+  "nationality": "Swedish",
+  "birthdate": "October 23 1997",
+  "birthCity": "Kvistofta"
 }

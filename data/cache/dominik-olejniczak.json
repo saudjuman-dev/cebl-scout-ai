@@ -76,10 +76,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:34.627Z",
+  "_lastVerified": "2026-05-01T02:08:52.018Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:34.627Z"
+  "cachedAt": "2026-04-30T19:43:34.627Z",
+  "nationality": "Polish",
+  "birthdate": "July 1 1996",
+  "birthCity": "Torun"
 }

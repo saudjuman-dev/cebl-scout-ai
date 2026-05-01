@@ -140,10 +140,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:42:53.284Z",
+  "_lastVerified": "2026-05-01T02:11:46.591Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:42:53.284Z"
+  "cachedAt": "2026-04-30T20:42:53.284Z",
+  "nationality": "Icelandic",
+  "birthdate": "November 11 1994",
+  "birthCity": "Njardvik"
 }

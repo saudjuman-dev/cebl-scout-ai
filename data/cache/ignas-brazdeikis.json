@@ -106,10 +106,12 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:51:44.978Z",
+  "_lastVerified": "2026-05-01T02:21:51.378Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:44.978Z"
+  "cachedAt": "2026-04-30T20:51:44.978Z",
+  "birthdate": "January 8 1999",
+  "birthCity": "Kaunas"
 }

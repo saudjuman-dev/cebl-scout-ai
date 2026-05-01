@@ -105,10 +105,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:35.028Z",
+  "_lastVerified": "2026-05-01T03:28:02.909Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:35.028Z"
+  "cachedAt": "2026-04-30T21:04:35.028Z",
+  "nationality": "Portuguese",
+  "birthdate": "July 30 1999",
+  "birthCity": "Chortkiv"
 }

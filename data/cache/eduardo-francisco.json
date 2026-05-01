@@ -80,10 +80,13 @@
       "league": "POR-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:08:56.252Z",
+  "_lastVerified": "2026-05-01T02:10:35.947Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:08:56.252Z"
+  "cachedAt": "2026-04-30T21:08:56.252Z",
+  "nationality": "Angolan",
+  "birthdate": "November 5 2003",
+  "birthCity": "ANG"
 }

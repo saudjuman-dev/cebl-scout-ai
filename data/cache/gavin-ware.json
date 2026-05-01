@@ -105,10 +105,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:47.057Z",
+  "_lastVerified": "2026-05-01T02:16:42.662Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:47.057Z"
+  "cachedAt": "2026-04-30T19:38:47.057Z",
+  "nationality": "USA",
+  "birthdate": "October 19 1993",
+  "birthCity": "Starkville"
 }

@@ -45,10 +45,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:55:17.379Z",
+  "_lastVerified": "2026-05-01T01:45:25.646Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:17.379Z"
+  "cachedAt": "2026-04-30T21:55:17.379Z",
+  "nationality": "Spanish",
+  "birthdate": "September 9 2002",
+  "birthCity": "A Coruna"
 }

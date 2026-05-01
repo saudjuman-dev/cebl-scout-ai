@@ -80,10 +80,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:18:14.583Z",
+  "_lastVerified": "2026-05-01T02:12:21.712Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:18:14.583Z"
+  "cachedAt": "2026-04-30T20:18:14.583Z",
+  "nationality": "Albanian",
+  "birthdate": "August 4 1998"
 }

@@ -60,10 +60,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:50.590Z",
+  "_lastVerified": "2026-05-01T02:49:11.659Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:50.590Z"
+  "cachedAt": "2026-04-30T21:05:50.590Z",
+  "nationality": "USA",
+  "birthdate": "April 28 2000",
+  "birthCity": "Wilmington"
 }

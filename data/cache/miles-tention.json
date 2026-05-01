@@ -51,10 +51,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:17:22.410Z",
+  "_lastVerified": "2026-05-01T02:58:18.133Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:22.410Z"
+  "cachedAt": "2026-04-30T21:17:22.410Z",
+  "nationality": "USA",
+  "birthdate": "March 21 1999",
+  "birthCity": "Palo Alto"
 }

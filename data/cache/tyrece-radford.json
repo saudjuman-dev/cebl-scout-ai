@@ -61,10 +61,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:29.715Z",
+  "_lastVerified": "2026-05-01T03:25:28.148Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:29.715Z"
+  "cachedAt": "2026-04-30T20:38:29.715Z",
+  "nationality": "USA",
+  "birthdate": "April 22 1999",
+  "birthCity": "Baton Rouge"
 }

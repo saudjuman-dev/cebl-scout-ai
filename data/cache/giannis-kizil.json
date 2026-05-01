@@ -15,10 +15,12 @@
       "league": "ANGT-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:14:45.384Z",
+  "_lastVerified": "2026-05-01T02:17:57.522Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:14:45.384Z"
+  "cachedAt": "2026-04-30T20:14:45.384Z",
+  "nationality": "Greek",
+  "birthdate": "September 26 2008"
 }

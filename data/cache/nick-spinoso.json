@@ -36,10 +36,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:12:54.309Z",
+  "_lastVerified": "2026-05-01T03:01:43.180Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:12:54.309Z"
+  "cachedAt": "2026-04-30T21:12:54.309Z",
+  "nationality": "USA",
+  "birthdate": "October 13 2002",
+  "birthCity": "New Milford"
 }

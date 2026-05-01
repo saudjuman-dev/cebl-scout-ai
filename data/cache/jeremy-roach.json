@@ -36,10 +36,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:39:27.971Z",
+  "_lastVerified": "2026-05-01T02:29:51.857Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:39:27.971Z"
+  "cachedAt": "2026-04-30T20:39:27.971Z",
+  "nationality": "USA",
+  "birthdate": "November 1 2001",
+  "birthCity": "Washington"
 }

@@ -126,10 +126,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:07.764Z",
+  "_lastVerified": "2026-05-01T02:32:52.799Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:07.764Z"
+  "cachedAt": "2026-04-30T19:38:07.764Z",
+  "nationality": "USA",
+  "birthdate": "December 31 1995",
+  "birthCity": "St"
 }

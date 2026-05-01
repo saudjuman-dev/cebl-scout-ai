@@ -140,10 +140,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:22:39.379Z",
+  "_lastVerified": "2026-05-01T02:42:45.636Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:39.379Z"
+  "cachedAt": "2026-04-30T20:22:39.379Z",
+  "nationality": "Cameroonian",
+  "birthdate": "April 9 1994",
+  "birthCity": "Yaounde"
 }

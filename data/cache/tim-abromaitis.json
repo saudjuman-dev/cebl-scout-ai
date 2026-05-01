@@ -146,10 +146,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:43.359Z",
+  "_lastVerified": "2026-05-01T03:21:41.566Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:43.359Z"
+  "cachedAt": "2026-04-30T19:54:43.359Z",
+  "nationality": "USA",
+  "birthdate": "September 17 1989",
+  "birthCity": "Waterbury"
 }

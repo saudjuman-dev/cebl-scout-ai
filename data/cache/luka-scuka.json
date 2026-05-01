@@ -91,10 +91,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:09.368Z",
+  "_lastVerified": "2026-05-01T02:47:25.806Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:09.368Z"
+  "cachedAt": "2026-04-30T19:30:09.368Z",
+  "nationality": "Slovenian",
+  "birthdate": "May 23 2002",
+  "birthCity": "Sempeter pri Novi Gorici"
 }

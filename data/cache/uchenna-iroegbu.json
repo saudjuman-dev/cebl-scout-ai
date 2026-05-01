@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:03.804Z",
+  "_lastVerified": "2026-05-01T03:25:54.032Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:03.804Z"
+  "cachedAt": "2026-04-30T19:30:03.804Z",
+  "nationality": "Nigerian",
+  "birthdate": "August 20 1996",
+  "birthCity": "Sacramento"
 }

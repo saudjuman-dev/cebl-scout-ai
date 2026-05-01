@@ -120,10 +120,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:09:22.806Z",
+  "_lastVerified": "2026-05-01T02:18:00.674Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:22.806Z"
+  "cachedAt": "2026-04-30T20:09:22.806Z",
+  "nationality": "Greek",
+  "birthdate": "September 22 1993",
+  "birthCity": "Amaroussio"
 }

@@ -141,10 +141,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:30:45.886Z",
+  "_lastVerified": "2026-05-01T02:49:48.155Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:45.886Z"
+  "cachedAt": "2026-04-30T20:30:45.886Z",
+  "nationality": "Brazilian",
+  "birthdate": "November 2 2002",
+  "birthCity": "Tres Coracoes"
 }

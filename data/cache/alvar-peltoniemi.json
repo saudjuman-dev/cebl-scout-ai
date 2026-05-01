@@ -66,10 +66,13 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:14:28.048Z",
+  "_lastVerified": "2026-05-01T01:48:02.330Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:14:28.048Z"
+  "cachedAt": "2026-04-30T22:14:28.048Z",
+  "nationality": "Finnish",
+  "birthdate": "March 1 2001",
+  "birthCity": "Espoo"
 }

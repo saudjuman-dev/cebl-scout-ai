@@ -11,10 +11,12 @@
       "league": "ITA-7"
     }
   ],
-  "_lastVerified": "2026-04-30T19:50:31.104Z",
+  "_lastVerified": "2026-05-01T02:47:05.258Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:31.104Z"
+  "cachedAt": "2026-04-30T19:50:31.104Z",
+  "nationality": "Italian",
+  "birthdate": "January 12 2007"
 }

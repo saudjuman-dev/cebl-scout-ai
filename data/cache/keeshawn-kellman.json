@@ -46,10 +46,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:45.572Z",
+  "_lastVerified": "2026-05-01T02:38:37.070Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:45.572Z"
+  "cachedAt": "2026-04-30T19:24:45.572Z",
+  "birthdate": "August 19 2000",
+  "birthCity": "Pennsburg"
 }

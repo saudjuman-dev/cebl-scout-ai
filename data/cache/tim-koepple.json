@@ -81,10 +81,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:14:55.487Z",
+  "_lastVerified": "2026-05-01T03:21:43.642Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:14:55.487Z"
+  "cachedAt": "2026-04-30T21:14:55.487Z",
+  "nationality": "German",
+  "birthdate": "September 3 2000",
+  "birthCity": "Ulm"
 }

@@ -85,10 +85,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:44.684Z",
+  "_lastVerified": "2026-05-01T02:39:48.951Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:44.684Z"
+  "cachedAt": "2026-04-30T21:50:44.684Z",
+  "nationality": "Danish",
+  "birthdate": "July 17 1993",
+  "birthCity": "Copenhagen"
 }

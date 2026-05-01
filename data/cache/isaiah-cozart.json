@@ -56,10 +56,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:58.047Z",
+  "_lastVerified": "2026-05-01T02:23:13.657Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:58.047Z"
+  "cachedAt": "2026-04-30T19:36:58.047Z",
+  "nationality": "USA",
+  "birthdate": "April 13 2001",
+  "birthCity": "Richmond"
 }

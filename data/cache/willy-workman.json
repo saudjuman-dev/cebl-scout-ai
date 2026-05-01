@@ -91,10 +91,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:19.340Z",
+  "_lastVerified": "2026-05-01T03:29:22.823Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:19.340Z"
+  "cachedAt": "2026-04-30T20:38:19.340Z",
+  "birthdate": "March 14 1990",
+  "birthCity": "Northampton"
 }

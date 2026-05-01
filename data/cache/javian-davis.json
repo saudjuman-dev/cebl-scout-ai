@@ -56,10 +56,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:04:22.365Z",
+  "_lastVerified": "2026-05-01T02:28:08.415Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:22.365Z"
+  "cachedAt": "2026-04-30T21:04:22.365Z",
+  "nationality": "USA",
+  "birthdate": "September 9 1999",
+  "birthCity": "Canton"
 }

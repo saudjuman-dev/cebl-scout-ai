@@ -75,10 +75,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:42.519Z",
+  "_lastVerified": "2026-05-01T02:30:02.302Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:42.519Z"
+  "cachedAt": "2026-04-30T19:59:42.519Z",
+  "nationality": "USA",
+  "birthdate": "November 13 1998",
+  "birthCity": "Weston"
 }

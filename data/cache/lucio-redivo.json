@@ -106,10 +106,12 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:36:11.290Z",
+  "_lastVerified": "2026-05-01T02:46:45.306Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:36:11.290Z"
+  "cachedAt": "2026-04-30T21:36:11.290Z",
+  "birthdate": "February 14 1994",
+  "birthCity": "Bahia"
 }

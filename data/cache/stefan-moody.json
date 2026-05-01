@@ -111,10 +111,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:24:28.655Z",
+  "_lastVerified": "2026-05-01T03:18:34.666Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:24:28.655Z"
+  "cachedAt": "2026-04-30T20:24:28.655Z",
+  "nationality": "USA",
+  "birthdate": "October 6 1993",
+  "birthCity": "Kissimmee"
 }

@@ -71,10 +71,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:53:22.471Z",
+  "_lastVerified": "2026-05-01T01:58:31.214Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:53:22.471Z"
+  "cachedAt": "2026-04-30T20:53:22.471Z",
+  "nationality": "USA",
+  "birthdate": "March 3 2000",
+  "birthCity": "Memphis"
 }

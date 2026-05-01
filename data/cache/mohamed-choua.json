@@ -40,10 +40,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:30:30.473Z",
+  "_lastVerified": "2026-05-01T02:58:55.536Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:30:30.473Z"
+  "cachedAt": "2026-04-30T21:30:30.473Z",
+  "nationality": "Moroccan",
+  "birthdate": "December 25 1992",
+  "birthCity": "Agadir"
 }

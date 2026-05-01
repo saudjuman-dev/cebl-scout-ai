@@ -111,10 +111,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:37:53.462Z",
+  "_lastVerified": "2026-05-01T02:53:31.305Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:37:53.462Z"
+  "cachedAt": "2026-04-30T21:37:53.462Z",
+  "nationality": "USA",
+  "birthdate": "December 19 1992",
+  "birthCity": "Urbandale"
 }

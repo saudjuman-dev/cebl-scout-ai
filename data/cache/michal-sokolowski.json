@@ -150,10 +150,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:24:13.794Z",
+  "_lastVerified": "2026-05-01T02:56:35.229Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:24:13.794Z"
+  "cachedAt": "2026-04-30T20:24:13.794Z",
+  "nationality": "Polish",
+  "birthdate": "December 11 1992",
+  "birthCity": "Warszawa"
 }

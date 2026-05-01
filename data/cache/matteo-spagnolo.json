@@ -105,10 +105,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:38.035Z",
+  "_lastVerified": "2026-05-01T02:54:06.728Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:38.035Z"
+  "cachedAt": "2026-04-30T19:53:38.035Z",
+  "nationality": "Italian",
+  "birthdate": "January 10 2003"
 }

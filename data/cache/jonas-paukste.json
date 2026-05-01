@@ -60,10 +60,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:40.011Z",
+  "_lastVerified": "2026-05-01T02:32:22.011Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:40.011Z"
+  "cachedAt": "2026-04-30T21:51:40.011Z",
+  "nationality": "Lithuanian",
+  "birthdate": "September 10 2000"
 }

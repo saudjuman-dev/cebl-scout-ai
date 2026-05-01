@@ -155,10 +155,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:52:59.241Z",
+  "_lastVerified": "2026-05-01T03:22:45.071Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:59.241Z"
+  "cachedAt": "2026-04-30T19:52:59.241Z",
+  "birthdate": "October 30 1991",
+  "birthCity": "Praha"
 }

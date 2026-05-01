@@ -105,10 +105,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:53:53.545Z",
+  "_lastVerified": "2026-05-01T01:57:33.420Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:53.545Z"
+  "cachedAt": "2026-04-30T19:53:53.545Z",
+  "nationality": "USA",
+  "birthdate": "August 25 1997",
+  "birthCity": "Duncanville"
 }

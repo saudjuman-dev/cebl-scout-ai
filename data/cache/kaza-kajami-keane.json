@@ -106,10 +106,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:19.716Z",
+  "_lastVerified": "2026-05-01T02:38:30.787Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:19.716Z"
+  "cachedAt": "2026-04-30T19:30:19.716Z",
+  "nationality": "Canadian",
+  "birthdate": "January 27 1994",
+  "birthCity": "Ajax"
 }

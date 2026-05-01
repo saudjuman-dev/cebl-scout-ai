@@ -66,10 +66,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:01.169Z",
+  "_lastVerified": "2026-05-01T02:02:29.987Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:01.169Z"
+  "cachedAt": "2026-04-30T20:02:01.169Z",
+  "nationality": "British",
+  "birthdate": "June 16 1998",
+  "birthCity": "London"
 }

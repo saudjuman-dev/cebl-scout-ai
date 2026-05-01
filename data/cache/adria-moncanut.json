@@ -40,10 +40,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:05:35.465Z",
+  "_lastVerified": "2026-05-01T01:43:57.185Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:05:35.465Z"
+  "cachedAt": "2026-04-30T22:05:35.465Z",
+  "nationality": "Spanish",
+  "birthdate": "November 6 2002"
 }

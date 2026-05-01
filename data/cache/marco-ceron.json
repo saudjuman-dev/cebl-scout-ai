@@ -106,10 +106,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:49:39.940Z",
+  "_lastVerified": "2026-05-01T02:49:59.388Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:39.940Z"
+  "cachedAt": "2026-04-30T19:49:39.940Z",
+  "nationality": "Italian",
+  "birthdate": "June 16 1992",
+  "birthCity": "Mirano"
 }

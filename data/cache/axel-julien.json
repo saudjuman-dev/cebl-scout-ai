@@ -126,10 +126,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:14.303Z",
+  "_lastVerified": "2026-05-01T01:53:01.327Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:14.303Z"
+  "cachedAt": "2026-04-30T19:38:14.303Z",
+  "nationality": "French",
+  "birthdate": "July 27 1992",
+  "birthCity": "Saint-Tropez"
 }

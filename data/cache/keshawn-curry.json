@@ -61,10 +61,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:41:42.880Z",
+  "_lastVerified": "2026-05-01T02:39:32.035Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:41:42.880Z"
+  "cachedAt": "2026-04-30T21:41:42.880Z",
+  "nationality": "USA",
+  "birthdate": "December 27 1998",
+  "birthCity": "Jacksonville"
 }

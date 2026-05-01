@@ -96,10 +96,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:50.903Z",
+  "_lastVerified": "2026-05-01T03:13:43.285Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:50.903Z"
+  "cachedAt": "2026-04-30T19:30:50.903Z",
+  "nationality": "USA",
+  "birthdate": "December 29 1996",
+  "birthCity": "St"
 }

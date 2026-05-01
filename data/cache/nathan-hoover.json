@@ -95,10 +95,13 @@
       "league": "ARG-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:55:54.117Z",
+  "_lastVerified": "2026-05-01T03:00:33.139Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:54.117Z"
+  "cachedAt": "2026-04-30T21:55:54.117Z",
+  "nationality": "USA",
+  "birthdate": "May 24 1997",
+  "birthCity": "Memphis"
 }

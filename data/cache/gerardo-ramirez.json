@@ -60,10 +60,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:58:32.140Z",
+  "_lastVerified": "2026-05-01T02:17:29.424Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:58:32.140Z"
+  "cachedAt": "2026-04-30T21:58:32.140Z",
+  "nationality": "Spanish",
+  "birthdate": "January 14 2002",
+  "birthCity": "Telde"
 }

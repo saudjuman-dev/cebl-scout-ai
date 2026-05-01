@@ -71,10 +71,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:19:33.321Z",
+  "_lastVerified": "2026-05-01T02:31:37.952Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:19:33.321Z"
+  "cachedAt": "2026-04-30T20:19:33.321Z",
+  "nationality": "USA",
+  "birthdate": "March 16 1999",
+  "birthCity": "Winston-Salem"
 }

@@ -80,10 +80,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:11:30.774Z",
+  "_lastVerified": "2026-05-01T03:14:31.582Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:11:30.774Z"
+  "cachedAt": "2026-04-30T22:11:30.774Z",
+  "nationality": "Spanish",
+  "birthdate": "August 11 1998",
+  "birthCity": "Ferrol"
 }

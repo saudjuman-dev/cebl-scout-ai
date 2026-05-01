@@ -140,10 +140,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:15:25.981Z",
+  "_lastVerified": "2026-05-01T02:36:57.128Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:25.981Z"
+  "cachedAt": "2026-04-30T20:15:25.981Z",
+  "nationality": "USA",
+  "birthdate": "October 27 1997",
+  "birthCity": "Laurelton"
 }

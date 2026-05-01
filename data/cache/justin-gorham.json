@@ -96,10 +96,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:30.868Z",
+  "_lastVerified": "2026-05-01T02:36:31.894Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:30.868Z"
+  "cachedAt": "2026-04-30T19:43:30.868Z",
+  "nationality": "USA",
+  "birthdate": "August 6 1998",
+  "birthCity": "Columbia"
 }

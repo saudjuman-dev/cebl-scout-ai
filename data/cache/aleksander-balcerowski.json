@@ -130,10 +130,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:05.632Z",
+  "_lastVerified": "2026-05-01T01:45:54.709Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:05.632Z"
+  "cachedAt": "2026-04-30T19:55:05.632Z",
+  "nationality": "Polish",
+  "birthdate": "November 19 2000",
+  "birthCity": "Swidnica"
 }

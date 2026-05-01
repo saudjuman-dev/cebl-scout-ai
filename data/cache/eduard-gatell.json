@@ -100,10 +100,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:00:19.974Z",
+  "_lastVerified": "2026-05-01T02:10:33.888Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:00:19.974Z"
+  "cachedAt": "2026-04-30T22:00:19.974Z",
+  "nationality": "Spanish",
+  "birthdate": "March 17 1989",
+  "birthCity": "Terrassa"
 }

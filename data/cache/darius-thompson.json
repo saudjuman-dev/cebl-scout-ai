@@ -121,10 +121,12 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:52:19.627Z",
+  "_lastVerified": "2026-05-01T02:03:46.341Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:19.627Z"
+  "cachedAt": "2026-04-30T19:52:19.627Z",
+  "birthdate": "May 4 1995",
+  "birthCity": "Murfreesboro"
 }

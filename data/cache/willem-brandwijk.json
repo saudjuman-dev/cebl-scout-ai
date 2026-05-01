@@ -106,10 +106,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:16:25.653Z",
+  "_lastVerified": "2026-05-01T03:29:04.636Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:25.653Z"
+  "cachedAt": "2026-04-30T21:16:25.653Z",
+  "nationality": "Dutch",
+  "birthdate": "July 31 1995",
+  "birthCity": "Voorburg"
 }

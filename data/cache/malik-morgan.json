@@ -80,10 +80,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:33.454Z",
+  "_lastVerified": "2026-05-01T02:49:02.556Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:33.454Z"
+  "cachedAt": "2026-04-30T21:03:33.454Z",
+  "nationality": "USA",
+  "birthdate": "January 31 1994",
+  "birthCity": "New Orleans"
 }

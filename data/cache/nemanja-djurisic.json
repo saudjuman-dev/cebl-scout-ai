@@ -141,10 +141,13 @@
       "league": "JPN-2"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:08.488Z",
+  "_lastVerified": "2026-05-01T03:01:15.050Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:08.488Z"
+  "cachedAt": "2026-04-30T19:28:08.488Z",
+  "nationality": "Montenegrin",
+  "birthdate": "February 23 1992",
+  "birthCity": "Podgorica"
 }

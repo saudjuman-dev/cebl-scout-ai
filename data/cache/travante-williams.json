@@ -116,10 +116,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:35:43.272Z",
+  "_lastVerified": "2026-05-01T03:23:51.889Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:35:43.272Z"
+  "cachedAt": "2026-04-30T19:35:43.272Z",
+  "birthdate": "July 29 1993",
+  "birthCity": "Anchorage"
 }

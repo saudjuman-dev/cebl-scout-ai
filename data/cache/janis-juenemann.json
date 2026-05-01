@@ -61,10 +61,12 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:10:59.900Z",
+  "_lastVerified": "2026-05-01T02:27:29.791Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:10:59.900Z"
+  "cachedAt": "2026-04-30T21:10:59.900Z",
+  "nationality": "Latvian",
+  "birthdate": "June 3 2005"
 }

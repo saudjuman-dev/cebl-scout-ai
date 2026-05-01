@@ -116,10 +116,12 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:13.781Z",
+  "_lastVerified": "2026-05-01T01:48:23.872Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:13.781Z"
+  "cachedAt": "2026-04-30T19:32:13.781Z",
+  "birthdate": "December 14 1989",
+  "birthCity": "Bordeaux"
 }

@@ -35,10 +35,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:26:15.120Z",
+  "_lastVerified": "2026-05-01T02:21:37.751Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:26:15.120Z"
+  "cachedAt": "2026-04-30T21:26:15.120Z",
+  "nationality": "Mali",
+  "birthdate": "October 9 1992",
+  "birthCity": "Sogoniki"
 }

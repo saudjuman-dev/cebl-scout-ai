@@ -91,10 +91,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:32:17.536Z",
+  "_lastVerified": "2026-05-01T02:36:52.995Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:17.536Z"
+  "cachedAt": "2026-04-30T20:32:17.536Z",
+  "nationality": "USA",
+  "birthdate": "March 1 1999",
+  "birthCity": "Buffalo Grove"
 }

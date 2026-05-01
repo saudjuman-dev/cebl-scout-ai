@@ -96,10 +96,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:06.829Z",
+  "_lastVerified": "2026-05-01T01:56:14.989Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:06.829Z"
+  "cachedAt": "2026-04-30T20:05:06.829Z",
+  "nationality": "USA",
+  "birthdate": "January 13 1998",
+  "birthCity": "Somerset"
 }

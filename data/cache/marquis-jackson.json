@@ -80,10 +80,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:53:58.020Z",
+  "_lastVerified": "2026-05-01T02:51:42.062Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:53:58.020Z"
+  "cachedAt": "2026-04-30T21:53:58.020Z",
+  "nationality": "USA",
+  "birthdate": "September 16 1994",
+  "birthCity": "Cleveland"
 }

@@ -151,10 +151,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:32.365Z",
+  "_lastVerified": "2026-05-01T03:30:48.144Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:32.365Z"
+  "cachedAt": "2026-04-30T19:24:32.365Z",
+  "birthdate": "August 8 1985",
+  "birthCity": "Camaguey"
 }

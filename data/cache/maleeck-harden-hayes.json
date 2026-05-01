@@ -61,10 +61,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:04.195Z",
+  "_lastVerified": "2026-05-01T02:48:51.097Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:04.195Z"
+  "cachedAt": "2026-04-30T21:03:04.195Z",
+  "nationality": "USA",
+  "birthdate": "February 23 2001",
+  "birthCity": "Moorhead"
 }

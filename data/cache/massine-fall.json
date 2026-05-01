@@ -105,10 +105,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:02:23.744Z",
+  "_lastVerified": "2026-05-01T02:52:30.939Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:02:23.744Z"
+  "cachedAt": "2026-04-30T22:02:23.744Z",
+  "nationality": "Senegalese",
+  "birthdate": "January 1 1993",
+  "birthCity": "Guediawaye"
 }

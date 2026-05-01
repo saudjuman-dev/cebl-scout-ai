@@ -160,10 +160,12 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:54:21.717Z",
+  "_lastVerified": "2026-05-01T03:03:04.381Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:54:21.717Z"
+  "cachedAt": "2026-04-30T20:54:21.717Z",
+  "birthdate": "April 25 1994",
+  "birthCity": "Cacak"
 }

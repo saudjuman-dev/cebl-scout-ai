@@ -51,10 +51,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:16:29.487Z",
+  "_lastVerified": "2026-05-01T03:20:24.887Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:29.487Z"
+  "cachedAt": "2026-04-30T21:16:29.487Z",
+  "nationality": "USA",
+  "birthdate": "September 13 2001",
+  "birthCity": "Toledo"
 }

@@ -76,10 +76,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:16:33.321Z",
+  "_lastVerified": "2026-05-01T03:10:18.693Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:33.321Z"
+  "cachedAt": "2026-04-30T21:16:33.321Z",
+  "nationality": "USA",
+  "birthdate": "December 3 1998",
+  "birthCity": "Xavier"
 }

@@ -91,10 +91,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:38:35.007Z",
+  "_lastVerified": "2026-05-01T02:36:22.112Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:35.007Z"
+  "cachedAt": "2026-04-30T19:38:35.007Z",
+  "nationality": "USA",
+  "birthdate": "January 23 1996",
+  "birthCity": "Torrance"
 }

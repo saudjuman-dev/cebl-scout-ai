@@ -116,10 +116,13 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:55:50.056Z",
+  "_lastVerified": "2026-05-01T02:20:23.148Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:50.056Z"
+  "cachedAt": "2026-04-30T19:55:50.056Z",
+  "nationality": "Norwegian",
+  "birthdate": "May 27 1997",
+  "birthCity": "Oslo"
 }

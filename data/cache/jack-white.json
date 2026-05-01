@@ -96,10 +96,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:23:13.358Z",
+  "_lastVerified": "2026-05-01T02:24:37.764Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:13.358Z"
+  "cachedAt": "2026-04-30T20:23:13.358Z",
+  "nationality": "Australian",
+  "birthdate": "August 5 1997",
+  "birthCity": "Traralgon"
 }

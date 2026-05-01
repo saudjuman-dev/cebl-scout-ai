@@ -101,10 +101,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:07.169Z",
+  "_lastVerified": "2026-05-01T02:32:56.972Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:07.169Z"
+  "cachedAt": "2026-04-30T21:51:07.169Z",
+  "nationality": "USA",
+  "birthdate": "November 5 1997",
+  "birthCity": "Nashville"
 }

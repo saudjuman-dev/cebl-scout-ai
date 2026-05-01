@@ -91,10 +91,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:41:02.764Z",
+  "_lastVerified": "2026-05-01T02:06:09.827Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:41:02.764Z"
+  "cachedAt": "2026-04-30T19:41:02.764Z",
+  "nationality": "USA",
+  "birthdate": "September 17 1997",
+  "birthCity": "Houston"
 }

@@ -95,10 +95,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:45:30.051Z",
+  "_lastVerified": "2026-05-01T01:53:35.569Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:45:30.051Z"
+  "cachedAt": "2026-04-30T20:45:30.051Z",
+  "nationality": "USA",
+  "birthdate": "December 25 1997",
+  "birthCity": "Willowbrook"
 }

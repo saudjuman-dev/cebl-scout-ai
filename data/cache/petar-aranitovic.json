@@ -110,10 +110,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:27:10.793Z",
+  "_lastVerified": "2026-05-01T03:08:08.676Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:27:10.793Z"
+  "cachedAt": "2026-04-30T21:27:10.793Z",
+  "birthdate": "September 20 1994",
+  "birthCity": "Beograd"
 }

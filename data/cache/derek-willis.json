@@ -116,10 +116,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:17.803Z",
+  "_lastVerified": "2026-05-01T02:06:07.738Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:17.803Z"
+  "cachedAt": "2026-04-30T19:32:17.803Z",
+  "nationality": "USA",
+  "birthdate": "June 21 1995",
+  "birthCity": "Louisville"
 }

@@ -31,10 +31,13 @@
       "league": "GER-8"
     }
   ],
-  "_lastVerified": "2026-04-30T21:19:19.090Z",
+  "_lastVerified": "2026-05-01T02:43:48.509Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:19:19.090Z"
+  "cachedAt": "2026-04-30T21:19:19.090Z",
+  "nationality": "German",
+  "birthdate": "December 2 2008",
+  "birthCity": "German ProA"
 }

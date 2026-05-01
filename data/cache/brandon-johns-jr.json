@@ -51,10 +51,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:11.379Z",
+  "_lastVerified": "2026-05-01T01:56:00.639Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:11.379Z"
+  "cachedAt": "2026-04-30T21:03:11.379Z",
+  "nationality": "USA",
+  "birthdate": "December 14 1999",
+  "birthCity": "East Lansing"
 }

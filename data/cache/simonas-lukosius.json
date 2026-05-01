@@ -66,10 +66,12 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:52:33.795Z",
+  "_lastVerified": "2026-05-01T03:17:25.116Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:33.795Z"
+  "cachedAt": "2026-04-30T20:52:33.795Z",
+  "birthdate": "August 13 2002",
+  "birthCity": "Kaunas"
 }

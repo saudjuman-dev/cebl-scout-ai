@@ -200,10 +200,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:37.066Z",
+  "_lastVerified": "2026-05-01T02:29:17.340Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:37.066Z"
+  "cachedAt": "2026-04-30T21:50:37.066Z",
+  "birthdate": "December 5 1989",
+  "birthCity": "Merksem"
 }

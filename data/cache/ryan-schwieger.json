@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:58:53.068Z",
+  "_lastVerified": "2026-05-01T03:13:45.318Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:53.068Z"
+  "cachedAt": "2026-04-30T20:58:53.068Z",
+  "nationality": "USA",
+  "birthdate": "May 18 1999",
+  "birthCity": "Matthews"
 }

@@ -180,10 +180,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:39.506Z",
+  "_lastVerified": "2026-05-01T02:41:15.679Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:39.506Z"
+  "cachedAt": "2026-04-30T20:01:39.506Z",
+  "nationality": "Greek",
+  "birthdate": "July 31 1990",
+  "birthCity": "Trikala"
 }

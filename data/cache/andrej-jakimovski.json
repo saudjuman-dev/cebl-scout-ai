@@ -66,10 +66,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:54.141Z",
+  "_lastVerified": "2026-05-01T01:49:27.911Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:54.141Z"
+  "cachedAt": "2026-04-30T19:45:54.141Z",
+  "birthdate": "March 18 2001",
+  "birthCity": "Skopje"
 }

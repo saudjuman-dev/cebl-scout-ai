@@ -141,10 +141,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:06.575Z",
+  "_lastVerified": "2026-05-01T01:48:31.783Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:06.575Z"
+  "cachedAt": "2026-04-30T20:01:06.575Z",
+  "nationality": "Ghanian",
+  "birthdate": "February 11 1994",
+  "birthCity": "Accra"
 }

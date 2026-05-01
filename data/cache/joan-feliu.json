@@ -50,10 +50,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:54:49.949Z",
+  "_lastVerified": "2026-05-01T02:30:42.144Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:54:49.949Z"
+  "cachedAt": "2026-04-30T21:54:49.949Z",
+  "nationality": "Spanish",
+  "birthdate": "October 12 1999",
+  "birthCity": "Inca"
 }

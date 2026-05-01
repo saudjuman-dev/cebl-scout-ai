@@ -40,10 +40,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:01:49.761Z",
+  "_lastVerified": "2026-05-01T02:28:41.810Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:01:49.761Z"
+  "cachedAt": "2026-04-30T21:01:49.761Z",
+  "nationality": "USA",
+  "birthdate": "September 12 2000",
+  "birthCity": "Arlington"
 }

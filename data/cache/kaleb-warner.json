@@ -71,10 +71,13 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:13:32.492Z",
+  "_lastVerified": "2026-05-01T02:37:40.070Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:13:32.492Z"
+  "cachedAt": "2026-04-30T22:13:32.492Z",
+  "nationality": "USA",
+  "birthdate": "July 6 1995",
+  "birthCity": "Seattle"
 }

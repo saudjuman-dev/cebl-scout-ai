@@ -66,10 +66,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:30:36.508Z",
+  "_lastVerified": "2026-05-01T01:53:33.375Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:36.508Z"
+  "cachedAt": "2026-04-30T19:30:36.508Z",
+  "nationality": "Swedish",
+  "birthdate": "January 13 2001"
 }

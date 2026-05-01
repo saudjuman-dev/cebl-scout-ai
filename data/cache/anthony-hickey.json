@@ -106,10 +106,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:47:15.247Z",
+  "_lastVerified": "2026-05-01T01:50:33.628Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:47:15.247Z"
+  "cachedAt": "2026-04-30T19:47:15.247Z",
+  "nationality": "USA",
+  "birthdate": "November 22 1992",
+  "birthCity": "Hopkinsville"
 }

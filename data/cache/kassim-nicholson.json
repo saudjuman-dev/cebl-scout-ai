@@ -76,10 +76,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:09.054Z",
+  "_lastVerified": "2026-05-01T02:38:21.175Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:09.054Z"
+  "cachedAt": "2026-04-30T19:26:09.054Z",
+  "nationality": "USA",
+  "birthdate": "May 28 1999",
+  "birthCity": "Jackson"
 }

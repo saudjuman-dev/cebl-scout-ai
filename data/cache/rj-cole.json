@@ -91,10 +91,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:03.913Z",
+  "_lastVerified": "2026-05-01T03:11:28.092Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:03.913Z"
+  "cachedAt": "2026-04-30T19:43:03.913Z",
+  "nationality": "USA",
+  "birthdate": "August 24 1999",
+  "birthCity": "Union"
 }

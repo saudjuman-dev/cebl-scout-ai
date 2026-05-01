@@ -71,10 +71,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:00.767Z",
+  "_lastVerified": "2026-05-01T03:13:40.244Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:00.767Z"
+  "cachedAt": "2026-04-30T19:29:00.767Z",
+  "nationality": "USA",
+  "birthdate": "May 12 1997",
+  "birthCity": "Atlantic"
 }

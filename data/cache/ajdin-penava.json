@@ -115,10 +115,12 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:40:34.634Z",
+  "_lastVerified": "2026-05-01T01:44:49.075Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:40:34.634Z"
+  "cachedAt": "2026-04-30T20:40:34.634Z",
+  "birthdate": "March 11 1997",
+  "birthCity": "Sarajevo"
 }

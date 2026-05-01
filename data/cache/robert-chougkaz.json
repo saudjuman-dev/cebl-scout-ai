@@ -65,10 +65,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:13:08.992Z",
+  "_lastVerified": "2026-05-01T03:11:45.486Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:13:08.992Z"
+  "cachedAt": "2026-04-30T20:13:08.992Z",
+  "nationality": "Greek",
+  "birthCity": "Athens"
 }

@@ -115,10 +115,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:51.793Z",
+  "_lastVerified": "2026-05-01T03:10:12.400Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:51.793Z"
+  "cachedAt": "2026-04-30T19:59:51.793Z",
+  "nationality": "Brazilian",
+  "birthdate": "May 19 1992",
+  "birthCity": "Minas Gerais"
 }

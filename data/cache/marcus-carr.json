@@ -81,10 +81,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:24:04.992Z",
+  "_lastVerified": "2026-05-01T02:50:21.775Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:24:04.992Z"
+  "cachedAt": "2026-04-30T19:24:04.992Z",
+  "nationality": "Canadian",
+  "birthdate": "June 6 1999",
+  "birthCity": "Toronto"
 }

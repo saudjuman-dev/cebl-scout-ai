@@ -61,10 +61,12 @@
       "league": "ENG-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:17:31.854Z",
+  "_lastVerified": "2026-05-01T02:49:55.265Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:17:31.854Z"
+  "cachedAt": "2026-04-30T22:17:31.854Z",
+  "nationality": "USA",
+  "birthCity": "San Antonio"
 }

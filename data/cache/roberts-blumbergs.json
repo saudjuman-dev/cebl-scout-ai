@@ -90,10 +90,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:21:57.918Z",
+  "_lastVerified": "2026-05-01T03:11:57.340Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:21:57.918Z"
+  "cachedAt": "2026-04-30T20:21:57.918Z",
+  "nationality": "Latvian",
+  "birthdate": "April 29 1998",
+  "birthCity": "Ventspils"
 }

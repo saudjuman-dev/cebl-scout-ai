@@ -50,10 +50,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:06:45.310Z",
+  "_lastVerified": "2026-05-01T01:51:07.984Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:45.310Z"
+  "cachedAt": "2026-04-30T20:06:45.310Z",
+  "nationality": "Greek",
+  "birthdate": "April 13 2002"
 }

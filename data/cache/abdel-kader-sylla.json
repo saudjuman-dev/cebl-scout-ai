@@ -125,10 +125,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:33:19.643Z",
+  "_lastVerified": "2026-05-01T01:43:02.153Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:33:19.643Z"
+  "cachedAt": "2026-04-30T21:33:19.643Z",
+  "nationality": "Seychellois",
+  "birthdate": "April 10 1990",
+  "birthCity": "Mahe"
 }

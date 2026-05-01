@@ -56,10 +56,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:04:30.570Z",
+  "_lastVerified": "2026-05-01T03:25:30.232Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:30.570Z"
+  "cachedAt": "2026-04-30T20:04:30.570Z",
+  "nationality": "USA",
+  "birthdate": "September 30 1998",
+  "birthCity": "Little Rock"
 }

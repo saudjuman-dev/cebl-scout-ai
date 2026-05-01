@@ -156,10 +156,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:22:08.566Z",
+  "_lastVerified": "2026-05-01T02:51:56.381Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:08.566Z"
+  "cachedAt": "2026-04-30T19:22:08.566Z",
+  "nationality": "Icelandic",
+  "birthdate": "September 16 1994",
+  "birthCity": "Reykjavik"
 }

@@ -75,10 +75,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:28.191Z",
+  "_lastVerified": "2026-05-01T02:58:33.514Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:28.191Z"
+  "cachedAt": "2026-04-30T19:56:28.191Z",
+  "nationality": "Lithuanian",
+  "birthdate": "February 22 1995",
+  "birthCity": "Alytus"
 }

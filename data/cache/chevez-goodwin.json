@@ -96,10 +96,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:17.935Z",
+  "_lastVerified": "2026-05-01T01:59:19.475Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:17.935Z"
+  "cachedAt": "2026-04-30T20:02:17.935Z",
+  "nationality": "USA",
+  "birthdate": "February 27 1998",
+  "birthCity": "Columbia"
 }

@@ -131,10 +131,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:25:28.077Z",
+  "_lastVerified": "2026-05-01T03:16:46.902Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:28.077Z"
+  "cachedAt": "2026-04-30T20:25:28.077Z",
+  "birthdate": "October 2 1992",
+  "birthCity": "Cincinnati"
 }

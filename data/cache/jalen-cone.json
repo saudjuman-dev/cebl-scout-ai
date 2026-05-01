@@ -46,10 +46,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:31.820Z",
+  "_lastVerified": "2026-05-01T02:26:17.118Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:31.820Z"
+  "cachedAt": "2026-04-30T21:50:31.820Z",
+  "nationality": "USA",
+  "birthCity": "Greensboro"
 }

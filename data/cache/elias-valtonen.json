@@ -91,10 +91,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:09.404Z",
+  "_lastVerified": "2026-05-01T02:11:19.990Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:09.404Z"
+  "cachedAt": "2026-04-30T20:01:09.404Z",
+  "nationality": "Finnish",
+  "birthdate": "June 11 1999",
+  "birthCity": "Eura"
 }

@@ -156,10 +156,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:33.004Z",
+  "_lastVerified": "2026-05-01T02:31:07.862Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:33.004Z"
+  "cachedAt": "2026-04-30T20:38:33.004Z",
+  "birthdate": "November 11 1989",
+  "birthCity": "Springfield"
 }

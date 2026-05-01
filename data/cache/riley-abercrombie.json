@@ -71,10 +71,12 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:47.992Z",
+  "_lastVerified": "2026-05-01T03:11:21.846Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:47.992Z"
+  "cachedAt": "2026-04-30T20:05:47.992Z",
+  "birthdate": "November 11 1999",
+  "birthCity": "Wollongong"
 }

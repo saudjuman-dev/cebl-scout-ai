@@ -80,10 +80,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:23.706Z",
+  "_lastVerified": "2026-05-01T02:31:30.185Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:23.706Z"
+  "cachedAt": "2026-04-30T21:51:23.706Z",
+  "nationality": "Dutch",
+  "birthdate": "December 7 1990",
+  "birthCity": "Hoogeveen"
 }

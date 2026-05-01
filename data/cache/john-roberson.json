@@ -150,10 +150,12 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:28:46.774Z",
+  "_lastVerified": "2026-05-01T02:31:44.239Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:28:46.774Z"
+  "cachedAt": "2026-04-30T21:28:46.774Z",
+  "birthdate": "October 28 1988",
+  "birthCity": "Kansas City"
 }

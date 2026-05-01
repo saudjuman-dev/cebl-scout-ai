@@ -51,10 +51,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:47.011Z",
+  "_lastVerified": "2026-05-01T03:09:06.866Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:47.011Z"
+  "cachedAt": "2026-04-30T20:34:47.011Z",
+  "nationality": "USA",
+  "birthdate": "December 11 1999",
+  "birthCity": "Waxahachie"
 }

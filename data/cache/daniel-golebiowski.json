@@ -85,10 +85,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:44:27.425Z",
+  "_lastVerified": "2026-05-01T02:02:41.162Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:44:27.425Z"
+  "cachedAt": "2026-04-30T20:44:27.425Z",
+  "nationality": "Polish",
+  "birthdate": "February 6 1998",
+  "birthCity": "Szczecin"
 }

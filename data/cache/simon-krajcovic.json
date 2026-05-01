@@ -96,10 +96,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:13:24.081Z",
+  "_lastVerified": "2026-05-01T03:17:23.107Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:24.081Z"
+  "cachedAt": "2026-04-30T21:13:24.081Z",
+  "nationality": "Slovakian",
+  "birthdate": "February 14 1994",
+  "birthCity": "Povazska Bystrica"
 }

@@ -86,10 +86,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:34:27.092Z",
+  "_lastVerified": "2026-05-01T03:01:21.283Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:34:27.092Z"
+  "cachedAt": "2026-04-30T20:34:27.092Z",
+  "birthdate": "July 19 1995",
+  "birthCity": "Rutherglen"
 }

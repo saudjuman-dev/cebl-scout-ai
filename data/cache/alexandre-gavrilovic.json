@@ -151,10 +151,12 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:25:11.922Z",
+  "_lastVerified": "2026-05-01T01:47:13.206Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:11.922Z"
+  "cachedAt": "2026-04-30T20:25:11.922Z",
+  "birthdate": "November 25 1991",
+  "birthCity": "Strasbourg"
 }

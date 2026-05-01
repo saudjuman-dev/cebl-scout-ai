@@ -51,10 +51,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:39.083Z",
+  "_lastVerified": "2026-05-01T01:57:31.343Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:39.083Z"
+  "cachedAt": "2026-04-30T20:31:39.083Z",
+  "nationality": "USA",
+  "birthdate": "March 8 1999",
+  "birthCity": "Chesterfield"
 }

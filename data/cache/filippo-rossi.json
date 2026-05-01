@@ -141,10 +141,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:48.864Z",
+  "_lastVerified": "2026-05-01T02:14:57.382Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:48.864Z"
+  "cachedAt": "2026-04-30T21:35:48.864Z",
+  "nationality": "Italian",
+  "birthdate": "October 26 1991",
+  "birthCity": "Vignola"
 }

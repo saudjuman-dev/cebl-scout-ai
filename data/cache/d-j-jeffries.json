@@ -46,10 +46,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:17:40.868Z",
+  "_lastVerified": "2026-05-01T02:01:59.600Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:40.868Z"
+  "cachedAt": "2026-04-30T21:17:40.868Z",
+  "nationality": "USA",
+  "birthdate": "December 28 1999",
+  "birthCity": "Olive Branch"
 }

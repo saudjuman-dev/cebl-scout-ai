@@ -91,10 +91,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:45:25.223Z",
+  "_lastVerified": "2026-05-01T03:20:15.928Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:25.223Z"
+  "cachedAt": "2026-04-30T19:45:25.223Z",
+  "nationality": "USA",
+  "birthdate": "June 29 1998",
+  "birthCity": "Southaven"
 }

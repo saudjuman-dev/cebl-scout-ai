@@ -130,10 +130,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:52.707Z",
+  "_lastVerified": "2026-05-01T02:37:51.672Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:52.707Z"
+  "cachedAt": "2026-04-30T19:51:52.707Z",
+  "nationality": "USA",
+  "birthdate": "October 5 1994",
+  "birthCity": "Hyattsville"
 }

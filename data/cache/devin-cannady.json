@@ -95,10 +95,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:04:15.923Z",
+  "_lastVerified": "2026-05-01T02:06:31.951Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:15.923Z"
+  "cachedAt": "2026-04-30T20:04:15.923Z",
+  "nationality": "USA",
+  "birthdate": "May 21 1996",
+  "birthCity": "Mishawaka"
 }

@@ -76,10 +76,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:17:13.441Z",
+  "_lastVerified": "2026-05-01T02:23:26.215Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:13.441Z"
+  "cachedAt": "2026-04-30T21:17:13.441Z",
+  "nationality": "USA",
+  "birthdate": "March 23 2000",
+  "birthCity": "Sicklerville"
 }

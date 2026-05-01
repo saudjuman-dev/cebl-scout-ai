@@ -61,10 +61,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:56.862Z",
+  "_lastVerified": "2026-05-01T02:13:21.466Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:56.862Z"
+  "cachedAt": "2026-04-30T19:43:56.862Z",
+  "nationality": "USA",
+  "birthdate": "December 3 2000",
+  "birthCity": "Antioch"
 }

@@ -145,10 +145,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:38.490Z",
+  "_lastVerified": "2026-05-01T02:34:16.889Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:38.490Z"
+  "cachedAt": "2026-04-30T19:56:38.490Z",
+  "nationality": "Argentinian",
+  "birthdate": "January 15 1996",
+  "birthCity": "Cordoba"
 }

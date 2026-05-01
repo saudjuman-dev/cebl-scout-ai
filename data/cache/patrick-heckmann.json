@@ -171,10 +171,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:23:10.451Z",
+  "_lastVerified": "2026-05-01T03:06:50.070Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:10.451Z"
+  "cachedAt": "2026-04-30T19:23:10.451Z",
+  "nationality": "German",
+  "birthdate": "February 27 1992",
+  "birthCity": "Mainz"
 }

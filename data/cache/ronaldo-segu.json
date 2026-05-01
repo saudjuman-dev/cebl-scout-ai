@@ -76,10 +76,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:15:29.412Z",
+  "_lastVerified": "2026-05-01T03:13:10.236Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:29.412Z"
+  "cachedAt": "2026-04-30T20:15:29.412Z",
+  "nationality": "USA",
+  "birthdate": "September 16 1999",
+  "birthCity": "Orlando"
 }

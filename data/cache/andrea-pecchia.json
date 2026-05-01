@@ -76,10 +76,12 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:43:44.576Z",
+  "_lastVerified": "2026-05-01T01:49:17.526Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:43:44.576Z"
+  "cachedAt": "2026-04-30T19:43:44.576Z",
+  "nationality": "Italian",
+  "birthdate": "November 16 1997"
 }

@@ -176,10 +176,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:48:24.484Z",
+  "_lastVerified": "2026-05-01T02:12:37.143Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:24.484Z"
+  "cachedAt": "2026-04-30T19:48:24.484Z",
+  "nationality": "USA",
+  "birthdate": "May 9 1991",
+  "birthCity": "Inglewood"
 }

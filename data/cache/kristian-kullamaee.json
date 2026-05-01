@@ -100,10 +100,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:54:18.492Z",
+  "_lastVerified": "2026-05-01T02:41:35.330Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:54:18.492Z"
+  "cachedAt": "2026-04-30T20:54:18.492Z",
+  "nationality": "Estonian",
+  "birthdate": "May 25 1999",
+  "birthCity": "Tallin"
 }

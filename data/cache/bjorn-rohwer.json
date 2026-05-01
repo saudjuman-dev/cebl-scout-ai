@@ -101,10 +101,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:15:45.815Z",
+  "_lastVerified": "2026-05-01T01:55:05.519Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:15:45.815Z"
+  "cachedAt": "2026-04-30T21:15:45.815Z",
+  "nationality": "German",
+  "birthdate": "August 22 1995",
+  "birthCity": "Rendsburg"
 }

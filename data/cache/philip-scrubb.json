@@ -151,10 +151,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:27:55.515Z",
+  "_lastVerified": "2026-05-01T03:08:26.866Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:27:55.515Z"
+  "cachedAt": "2026-04-30T20:27:55.515Z",
+  "birthdate": "November 27 1992",
+  "birthCity": "Richmond"
 }

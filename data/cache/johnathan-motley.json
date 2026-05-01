@@ -111,10 +111,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:26.061Z",
+  "_lastVerified": "2026-05-01T02:31:50.577Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:26.061Z"
+  "cachedAt": "2026-04-30T20:31:26.061Z",
+  "nationality": "USA",
+  "birthdate": "May 4 1995",
+  "birthCity": "Houston"
 }

@@ -166,10 +166,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:31:14.353Z",
+  "_lastVerified": "2026-05-01T03:26:44.368Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:14.353Z"
+  "cachedAt": "2026-04-30T20:31:14.353Z",
+  "nationality": "Serbian",
+  "birthdate": "January 13 1994",
+  "birthCity": "Kraljevo"
 }

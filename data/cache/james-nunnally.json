@@ -181,10 +181,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:02:47.316Z",
+  "_lastVerified": "2026-05-01T02:26:58.854Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:47.316Z"
+  "cachedAt": "2026-04-30T20:02:47.316Z",
+  "nationality": "USA",
+  "birthdate": "July 14 1990",
+  "birthCity": "San Jose"
 }

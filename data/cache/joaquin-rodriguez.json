@@ -100,10 +100,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:28.917Z",
+  "_lastVerified": "2026-05-01T02:30:56.878Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:28.917Z"
+  "cachedAt": "2026-04-30T19:58:28.917Z",
+  "nationality": "Uruguayan",
+  "birthdate": "June 14 1999"
 }

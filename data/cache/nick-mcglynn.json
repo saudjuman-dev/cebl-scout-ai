@@ -116,10 +116,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:49:30.281Z",
+  "_lastVerified": "2026-05-01T03:01:36.862Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:30.281Z"
+  "cachedAt": "2026-04-30T19:49:30.281Z",
+  "nationality": "USA",
+  "birthdate": "October 6 1996",
+  "birthCity": "Stoughton"
 }

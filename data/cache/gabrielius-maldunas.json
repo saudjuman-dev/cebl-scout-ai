@@ -125,10 +125,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:54:10.886Z",
+  "_lastVerified": "2026-05-01T02:16:16.893Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:54:10.886Z"
+  "cachedAt": "2026-04-30T20:54:10.886Z",
+  "nationality": "Lithuanian",
+  "birthdate": "April 19 1993",
+  "birthCity": "Panevezys"
 }

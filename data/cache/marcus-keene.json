@@ -145,10 +145,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:43.510Z",
+  "_lastVerified": "2026-05-01T02:50:35.024Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:43.510Z"
+  "cachedAt": "2026-04-30T19:34:43.510Z",
+  "nationality": "USA",
+  "birthdate": "May 6 1995",
+  "birthCity": "San Antonio"
 }

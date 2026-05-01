@@ -36,10 +36,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:14:33.232Z",
+  "_lastVerified": "2026-05-01T01:56:09.778Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:14:33.232Z"
+  "cachedAt": "2026-04-30T21:14:33.232Z",
+  "nationality": "USA",
+  "birthdate": "July 30 2001",
+  "birthCity": "Spokane"
 }

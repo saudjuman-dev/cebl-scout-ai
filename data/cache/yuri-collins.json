@@ -86,10 +86,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:36:57.353Z",
+  "_lastVerified": "2026-05-01T03:31:01.997Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:36:57.353Z"
+  "cachedAt": "2026-04-30T20:36:57.353Z",
+  "nationality": "USA",
+  "birthdate": "March 7 2001",
+  "birthCity": "St"
 }

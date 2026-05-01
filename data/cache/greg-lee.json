@@ -66,10 +66,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:40:28.468Z",
+  "_lastVerified": "2026-05-01T02:19:22.180Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:28.468Z"
+  "cachedAt": "2026-04-30T19:40:28.468Z",
+  "nationality": "USA",
+  "birthdate": "February 4 1998",
+  "birthCity": "Rockford"
 }

@@ -106,10 +106,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:34:54.164Z",
+  "_lastVerified": "2026-05-01T03:07:34.099Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:34:54.164Z"
+  "cachedAt": "2026-04-30T21:34:54.164Z",
+  "nationality": "Lithuanian",
+  "birthdate": "August 25 1992",
+  "birthCity": "Kaunas"
 }

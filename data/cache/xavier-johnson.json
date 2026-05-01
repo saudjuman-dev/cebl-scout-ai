@@ -56,10 +56,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:10:07.525Z",
+  "_lastVerified": "2026-05-01T03:29:33.468Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:10:07.525Z"
+  "cachedAt": "2026-04-30T21:10:07.525Z",
+  "nationality": "USA",
+  "birthdate": "March 1 2000",
+  "birthCity": "Germantown"
 }

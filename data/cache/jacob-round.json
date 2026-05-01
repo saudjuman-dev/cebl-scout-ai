@@ -60,10 +60,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:32.915Z",
+  "_lastVerified": "2026-05-01T02:24:53.881Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:32.915Z"
+  "cachedAt": "2026-04-30T21:51:32.915Z",
+  "nationality": "British",
+  "birthdate": "April 3 2000"
 }

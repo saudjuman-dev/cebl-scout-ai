@@ -105,10 +105,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:32:03.394Z",
+  "_lastVerified": "2026-05-01T02:44:01.833Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:03.394Z"
+  "cachedAt": "2026-04-30T19:32:03.394Z",
+  "nationality": "French",
+  "birthdate": "April 27 1996",
+  "birthCity": "Albi"
 }

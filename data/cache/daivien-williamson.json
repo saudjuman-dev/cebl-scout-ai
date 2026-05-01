@@ -51,10 +51,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:18:37.858Z",
+  "_lastVerified": "2026-05-01T02:02:07.367Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:18:37.858Z"
+  "cachedAt": "2026-04-30T21:18:37.858Z",
+  "nationality": "USA",
+  "birthdate": "January 22 2000",
+  "birthCity": "Winston-Salem"
 }

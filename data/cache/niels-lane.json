@@ -46,10 +46,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:05:10.268Z",
+  "_lastVerified": "2026-05-01T03:02:24.820Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:10.268Z"
+  "cachedAt": "2026-04-30T21:05:10.268Z",
+  "nationality": "USA",
+  "birthdate": "October 8 2001",
+  "birthCity": "Freehold"
 }

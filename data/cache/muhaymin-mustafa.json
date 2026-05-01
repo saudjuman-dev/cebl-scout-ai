@@ -95,10 +95,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:25:19.431Z",
+  "_lastVerified": "2026-05-01T02:59:45.014Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:19.431Z"
+  "cachedAt": "2026-04-30T20:25:19.431Z",
+  "nationality": "Turkish",
+  "birthdate": "October 2 1999",
+  "birthCity": "Ortakoy Lefkosa"
 }

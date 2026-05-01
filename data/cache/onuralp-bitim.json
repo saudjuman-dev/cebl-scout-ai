@@ -100,10 +100,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:26:16.001Z",
+  "_lastVerified": "2026-05-01T03:05:13.565Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:16.001Z"
+  "cachedAt": "2026-04-30T20:26:16.001Z",
+  "nationality": "Turkish",
+  "birthdate": "March 31 1999",
+  "birthCity": "Kadikoy"
 }

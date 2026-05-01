@@ -96,10 +96,13 @@
       "league": "ISR-2"
     }
   ],
-  "_lastVerified": "2026-04-30T20:35:09.915Z",
+  "_lastVerified": "2026-05-01T03:28:41.554Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:09.915Z"
+  "cachedAt": "2026-04-30T20:35:09.915Z",
+  "nationality": "USA",
+  "birthdate": "April 15 1997",
+  "birthCity": "Jackson"
 }

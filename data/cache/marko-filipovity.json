@@ -160,10 +160,12 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:08:16.427Z",
+  "_lastVerified": "2026-05-01T02:51:24.149Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:08:16.427Z"
+  "cachedAt": "2026-04-30T21:08:16.427Z",
+  "nationality": "Hungarian",
+  "birthdate": "June 30 1996"
 }

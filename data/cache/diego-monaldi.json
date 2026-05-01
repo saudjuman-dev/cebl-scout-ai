@@ -111,10 +111,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:35:38.951Z",
+  "_lastVerified": "2026-05-01T02:07:20.872Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:35:38.951Z"
+  "cachedAt": "2026-04-30T21:35:38.951Z",
+  "nationality": "Italian",
+  "birthdate": "April 3 1993",
+  "birthCity": "Aprilia"
 }

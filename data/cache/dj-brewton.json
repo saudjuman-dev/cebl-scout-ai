@@ -50,10 +50,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:40:05.446Z",
+  "_lastVerified": "2026-05-01T02:08:13.334Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:40:05.446Z"
+  "cachedAt": "2026-04-30T20:40:05.446Z",
+  "nationality": "USA",
+  "birthdate": "January 15 2000",
+  "birthCity": "Cincinnati"
 }

@@ -61,10 +61,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:16:59.358Z",
+  "_lastVerified": "2026-05-01T01:54:45.855Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:59.358Z"
+  "cachedAt": "2026-04-30T21:16:59.358Z",
+  "nationality": "USA",
+  "birthdate": "August 13 2002",
+  "birthCity": "Savannah"
 }

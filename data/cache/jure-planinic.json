@@ -106,10 +106,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:27:55.675Z",
+  "_lastVerified": "2026-05-01T02:36:09.575Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:55.675Z"
+  "cachedAt": "2026-04-30T19:27:55.675Z",
+  "birthdate": "March 18 2000",
+  "birthCity": "Mostar"
 }

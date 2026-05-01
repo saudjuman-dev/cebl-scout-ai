@@ -40,10 +40,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:59:48.451Z",
+  "_lastVerified": "2026-05-01T02:18:49.218Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:48.451Z"
+  "cachedAt": "2026-04-30T19:59:48.451Z",
+  "nationality": "Argentinian",
+  "birthdate": "March 3 2002",
+  "birthCity": "Las Cruces"
 }

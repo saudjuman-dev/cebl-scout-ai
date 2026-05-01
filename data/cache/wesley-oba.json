@@ -46,10 +46,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:13:51.501Z",
+  "_lastVerified": "2026-05-01T03:28:43.610Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:51.501Z"
+  "cachedAt": "2026-04-30T21:13:51.501Z",
+  "nationality": "British",
+  "birthdate": "September 30 1999",
+  "birthCity": "Manchester"
 }

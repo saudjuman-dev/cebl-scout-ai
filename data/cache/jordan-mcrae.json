@@ -151,10 +151,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:33:24.883Z",
+  "_lastVerified": "2026-05-01T02:33:15.458Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:24.883Z"
+  "cachedAt": "2026-04-30T20:33:24.883Z",
+  "nationality": "USA",
+  "birthdate": "March 28 1991",
+  "birthCity": "Savannah"
 }

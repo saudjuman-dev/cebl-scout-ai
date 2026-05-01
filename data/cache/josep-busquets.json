@@ -95,10 +95,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:56:08.394Z",
+  "_lastVerified": "2026-05-01T02:34:18.980Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:08.394Z"
+  "cachedAt": "2026-04-30T19:56:08.394Z",
+  "nationality": "Spanish",
+  "birthdate": "March 2 1999",
+  "birthCity": "Granollers"
 }

@@ -51,10 +51,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:58:22.926Z",
+  "_lastVerified": "2026-05-01T02:48:34.222Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:22.926Z"
+  "cachedAt": "2026-04-30T20:58:22.926Z",
+  "nationality": "Slovenian",
+  "birthdate": "December 15 1999",
+  "birthCity": "Ljubljana"
 }

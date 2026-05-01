@@ -106,10 +106,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:28:01.599Z",
+  "_lastVerified": "2026-05-01T01:58:50.409Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:01.599Z"
+  "cachedAt": "2026-04-30T19:28:01.599Z",
+  "nationality": "USA",
+  "birthdate": "October 17 1995",
+  "birthCity": "Moreno Valley"
 }

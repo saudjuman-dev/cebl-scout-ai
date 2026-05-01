@@ -121,10 +121,12 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:36.189Z",
+  "_lastVerified": "2026-05-01T02:31:01.099Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:36.189Z"
+  "cachedAt": "2026-04-30T20:38:36.189Z",
+  "birthdate": "January 29 1995",
+  "birthCity": "Entre Rios"
 }

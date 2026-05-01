@@ -21,10 +21,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:07:22.742Z",
+  "_lastVerified": "2026-05-01T02:35:41.039Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:07:22.742Z"
+  "cachedAt": "2026-04-30T21:07:22.742Z",
+  "nationality": "Canadian",
+  "birthdate": "March 23 2001",
+  "birthCity": "Saskatoon"
 }

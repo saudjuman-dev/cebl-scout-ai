@@ -131,10 +131,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:58:32.127Z",
+  "_lastVerified": "2026-05-01T02:06:34.037Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:32.127Z"
+  "cachedAt": "2026-04-30T19:58:32.127Z",
+  "nationality": "USA",
+  "birthdate": "July 3 1995",
+  "birthCity": "Christchurch"
 }

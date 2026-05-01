@@ -81,10 +81,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:47:10.489Z",
+  "_lastVerified": "2026-05-01T02:33:48.600Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:47:10.489Z"
+  "cachedAt": "2026-04-30T20:47:10.489Z",
+  "nationality": "USA",
+  "birthdate": "August 19 1996",
+  "birthCity": "Upper Marlboro"
 }

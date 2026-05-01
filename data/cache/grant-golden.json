@@ -91,10 +91,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:26.985Z",
+  "_lastVerified": "2026-05-01T02:19:05.631Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:26.985Z"
+  "cachedAt": "2026-04-30T19:36:26.985Z",
+  "nationality": "USA",
+  "birthdate": "January 15 1998",
+  "birthCity": "Winchester"
 }

@@ -91,10 +91,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:20:30.297Z",
+  "_lastVerified": "2026-05-01T02:01:49.140Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:20:30.297Z"
+  "cachedAt": "2026-04-30T21:20:30.297Z",
+  "nationality": "USA",
+  "birthdate": "January 28 1997",
+  "birthCity": "Highland Springs"
 }

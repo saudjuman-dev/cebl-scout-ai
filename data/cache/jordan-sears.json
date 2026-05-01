@@ -56,10 +56,13 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:10:49.104Z",
+  "_lastVerified": "2026-05-01T02:33:33.726Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:10:49.104Z"
+  "cachedAt": "2026-04-30T21:10:49.104Z",
+  "nationality": "USA",
+  "birthdate": "September 5 2001",
+  "birthCity": "Port Orange"
 }

@@ -71,10 +71,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:37:06.038Z",
+  "_lastVerified": "2026-05-01T02:37:25.779Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:37:06.038Z"
+  "cachedAt": "2026-04-30T20:37:06.038Z",
+  "nationality": "USA",
+  "birthdate": "June 2 2000",
+  "birthCity": "The Colony"
 }

@@ -35,10 +35,12 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T22:00:00.878Z",
+  "_lastVerified": "2026-05-01T01:43:42.727Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:00:00.878Z"
+  "cachedAt": "2026-04-30T22:00:00.878Z",
+  "birthdate": "July 26 2002",
+  "birthCity": "Lynn"
 }

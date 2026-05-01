@@ -45,10 +45,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:06:26.716Z",
+  "_lastVerified": "2026-05-01T02:55:33.709Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:06:26.716Z"
+  "cachedAt": "2026-04-30T21:06:26.716Z",
+  "nationality": "USA",
+  "birthdate": "March 9 2000",
+  "birthCity": "San Antonio"
 }

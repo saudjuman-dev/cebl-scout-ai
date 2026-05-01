@@ -115,10 +115,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:03:18.888Z",
+  "_lastVerified": "2026-05-01T02:08:07.122Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:03:18.888Z"
+  "cachedAt": "2026-04-30T21:03:18.888Z",
+  "nationality": "Portuguese",
+  "birthdate": "June 24 1994",
+  "birthCity": "Almada"
 }

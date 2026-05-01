@@ -96,10 +96,12 @@
       "league": "NZL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T22:19:50.007Z",
+  "_lastVerified": "2026-05-01T02:10:40.049Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:19:50.007Z"
+  "cachedAt": "2026-04-30T22:19:50.007Z",
+  "nationality": "Finnish",
+  "birthdate": "December 18 2002"
 }

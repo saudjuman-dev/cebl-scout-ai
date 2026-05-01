@@ -96,10 +96,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:00:39.353Z",
+  "_lastVerified": "2026-05-01T02:16:44.712Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:00:39.353Z"
+  "cachedAt": "2026-04-30T21:00:39.353Z",
+  "nationality": "USA",
+  "birthdate": "October 21 1996",
+  "birthCity": "Minneapolis"
 }

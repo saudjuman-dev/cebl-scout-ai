@@ -31,10 +31,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:01:30.067Z",
+  "_lastVerified": "2026-05-01T02:54:13.027Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:01:30.067Z"
+  "cachedAt": "2026-04-30T21:01:30.067Z",
+  "nationality": "Canadian",
+  "birthdate": "August 20 1996",
+  "birthCity": "Calgary"
 }

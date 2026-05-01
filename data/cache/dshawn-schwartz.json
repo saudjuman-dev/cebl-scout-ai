@@ -86,10 +86,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:26:18.822Z",
+  "_lastVerified": "2026-05-01T02:09:34.829Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:18.822Z"
+  "cachedAt": "2026-04-30T19:26:18.822Z",
+  "nationality": "USA",
+  "birthdate": "February 15 1999",
+  "birthCity": "Abilene"
 }

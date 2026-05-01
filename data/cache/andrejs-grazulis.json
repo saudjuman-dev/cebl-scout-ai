@@ -180,10 +180,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:27:43.722Z",
+  "_lastVerified": "2026-05-01T01:49:30.019Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:27:43.722Z"
+  "cachedAt": "2026-04-30T20:27:43.722Z",
+  "nationality": "Latvian",
+  "birthdate": "July 21 1993",
+  "birthCity": "Aizkraukle"
 }

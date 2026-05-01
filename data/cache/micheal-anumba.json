@@ -71,10 +71,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:43:04.152Z",
+  "_lastVerified": "2026-05-01T02:56:44.776Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:43:04.152Z"
+  "cachedAt": "2026-04-30T21:43:04.152Z",
+  "nationality": "Italian",
+  "birthdate": "June 9 1999",
+  "birthCity": "Reggio Amelia"
 }

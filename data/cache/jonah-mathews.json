@@ -86,10 +86,13 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:16:53.532Z",
+  "_lastVerified": "2026-05-01T02:32:07.261Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:53.532Z"
+  "cachedAt": "2026-04-30T20:16:53.532Z",
+  "nationality": "USA",
+  "birthdate": "February 10 1998",
+  "birthCity": "San Franicisco"
 }

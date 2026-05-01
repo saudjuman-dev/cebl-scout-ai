@@ -75,10 +75,13 @@
       "league": "SVK-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:05:44.951Z",
+  "_lastVerified": "2026-05-01T03:28:56.250Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:44.951Z"
+  "cachedAt": "2026-04-30T20:05:44.951Z",
+  "nationality": "USA",
+  "birthdate": "March 9 1998",
+  "birthCity": "Bettendorf"
 }

@@ -95,10 +95,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:28:17.581Z",
+  "_lastVerified": "2026-05-01T01:59:16.274Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:28:17.581Z"
+  "cachedAt": "2026-04-30T21:28:17.581Z",
+  "nationality": "Senegalese",
+  "birthdate": "May 4 1992",
+  "birthCity": "Pikine"
 }

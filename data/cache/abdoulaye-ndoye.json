@@ -75,10 +75,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:34:28.850Z",
+  "_lastVerified": "2026-05-01T01:43:08.987Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:28.850Z"
+  "cachedAt": "2026-04-30T19:34:28.850Z",
+  "nationality": "French",
+  "birthdate": "March 9 1998",
+  "birthCity": "Dunkerque"
 }

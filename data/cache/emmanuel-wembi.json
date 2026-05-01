@@ -105,10 +105,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:50:07.286Z",
+  "_lastVerified": "2026-05-01T02:12:09.344Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:07.286Z"
+  "cachedAt": "2026-04-30T21:50:07.286Z",
+  "birthdate": "October 24 1997",
+  "birthCity": "Charlotte"
 }

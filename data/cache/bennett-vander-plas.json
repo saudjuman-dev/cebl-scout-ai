@@ -71,10 +71,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:41:26.735Z",
+  "_lastVerified": "2026-05-01T01:54:24.577Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:41:26.735Z"
+  "cachedAt": "2026-04-30T20:41:26.735Z",
+  "nationality": "USA",
+  "birthdate": "September 19 1998",
+  "birthCity": "Ripon"
 }

@@ -60,10 +60,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:56:37.188Z",
+  "_lastVerified": "2026-05-01T01:46:55.341Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:56:37.188Z"
+  "cachedAt": "2026-04-30T21:56:37.188Z",
+  "nationality": "Spanish",
+  "birthdate": "March 12 2000",
+  "birthCity": "Lusikiski"
 }

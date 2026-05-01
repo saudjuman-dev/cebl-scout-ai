@@ -105,10 +105,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:04.327Z",
+  "_lastVerified": "2026-05-01T02:24:24.768Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:04.327Z"
+  "cachedAt": "2026-04-30T19:54:04.327Z",
+  "nationality": "USA",
+  "birthdate": "March 15 1995",
+  "birthCity": "Chicago"
 }

@@ -96,10 +96,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:29:41.218Z",
+  "_lastVerified": "2026-05-01T01:46:44.898Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:29:41.218Z"
+  "cachedAt": "2026-04-30T19:29:41.218Z",
+  "nationality": "USA",
+  "birthdate": "August 15 1992",
+  "birthCity": "Ignacio"
 }

@@ -190,10 +190,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:15:50.915Z",
+  "_lastVerified": "2026-05-01T03:02:18.440Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:50.915Z"
+  "cachedAt": "2026-04-30T20:15:50.915Z",
+  "nationality": "Italian",
+  "birthdate": "January 26 1991",
+  "birthCity": "Reggio Emilia"
 }

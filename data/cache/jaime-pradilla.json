@@ -90,10 +90,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:51:59.456Z",
+  "_lastVerified": "2026-05-01T02:25:36.480Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:59.456Z"
+  "cachedAt": "2026-04-30T19:51:59.456Z",
+  "nationality": "Spanish",
+  "birthdate": "January 3 2001",
+  "birthCity": "Zaragoza"
 }

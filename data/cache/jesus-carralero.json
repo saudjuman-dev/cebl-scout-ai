@@ -71,10 +71,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:54:25.614Z",
+  "_lastVerified": "2026-05-01T02:30:16.992Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:54:25.614Z"
+  "cachedAt": "2026-04-30T21:54:25.614Z",
+  "nationality": "Spanish",
+  "birthdate": "July 24 2000",
+  "birthCity": "Malaga"
 }

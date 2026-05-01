@@ -95,10 +95,13 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:45:42.207Z",
+  "_lastVerified": "2026-05-01T01:45:50.604Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:45:42.207Z"
+  "cachedAt": "2026-04-30T20:45:42.207Z",
+  "nationality": "Serbian",
+  "birthdate": "February 19 2001",
+  "birthCity": "Prijepolje"
 }

@@ -120,10 +120,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:56:00.330Z",
+  "_lastVerified": "2026-05-01T02:24:17.600Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:56:00.330Z"
+  "cachedAt": "2026-04-30T20:56:00.330Z",
+  "nationality": "Croatian",
+  "birthdate": "May 29 1996",
+  "birthCity": "Zadar"
 }

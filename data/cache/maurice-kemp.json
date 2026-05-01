@@ -156,10 +156,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:37:27.266Z",
+  "_lastVerified": "2026-05-01T02:54:28.837Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:37:27.266Z"
+  "cachedAt": "2026-04-30T20:37:27.266Z",
+  "nationality": "USA",
+  "birthdate": "February 2 1991",
+  "birthCity": "Miami"
 }

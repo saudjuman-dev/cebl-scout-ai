@@ -151,10 +151,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:18.229Z",
+  "_lastVerified": "2026-05-01T01:49:23.764Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:18.229Z"
+  "cachedAt": "2026-04-30T19:21:18.229Z",
+  "nationality": "German",
+  "birthdate": "July 13 1996",
+  "birthCity": "Halle"
 }

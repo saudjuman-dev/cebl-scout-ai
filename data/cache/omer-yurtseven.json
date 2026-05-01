@@ -105,10 +105,12 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:09:55.880Z",
+  "_lastVerified": "2026-05-01T03:05:02.894Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:55.880Z"
+  "cachedAt": "2026-04-30T20:09:55.880Z",
+  "birthdate": "June 19 1998",
+  "birthCity": "Taskent"
 }

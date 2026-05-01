@@ -156,10 +156,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:53.184Z",
+  "_lastVerified": "2026-05-01T02:49:13.873Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:53.184Z"
+  "cachedAt": "2026-04-30T19:21:53.184Z",
+  "nationality": "German",
+  "birthdate": "April 22 2001",
+  "birthCity": "Berlin"
 }

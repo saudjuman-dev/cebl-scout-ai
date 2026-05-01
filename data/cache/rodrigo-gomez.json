@@ -55,10 +55,13 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-04-30T21:57:24.244Z",
+  "_lastVerified": "2026-05-01T03:12:16.113Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:57:24.244Z"
+  "cachedAt": "2026-04-30T21:57:24.244Z",
+  "nationality": "Spanish",
+  "birthdate": "September 5 1996",
+  "birthCity": "Poio"
 }

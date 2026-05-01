@@ -71,10 +71,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:22:30.291Z",
+  "_lastVerified": "2026-05-01T02:00:58.174Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:30.291Z"
+  "cachedAt": "2026-04-30T19:22:30.291Z",
+  "nationality": "USA",
+  "birthdate": "July 13 2000",
+  "birthCity": "Dallas"
 }

@@ -76,10 +76,13 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:49:44.705Z",
+  "_lastVerified": "2026-05-01T01:56:35.703Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:49:44.705Z"
+  "cachedAt": "2026-04-30T21:49:44.705Z",
+  "nationality": "USA",
+  "birthdate": "April 23 1998",
+  "birthCity": "West Linn"
 }

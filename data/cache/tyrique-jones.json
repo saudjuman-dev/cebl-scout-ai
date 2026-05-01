@@ -110,10 +110,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:43.123Z",
+  "_lastVerified": "2026-05-01T03:25:42.684Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:43.123Z"
+  "cachedAt": "2026-04-30T20:01:43.123Z",
+  "nationality": "USA",
+  "birthdate": "May 3 1997",
+  "birthCity": "Hartford"
 }

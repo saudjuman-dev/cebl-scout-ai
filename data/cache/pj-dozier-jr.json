@@ -116,10 +116,13 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:18:11.618Z",
+  "_lastVerified": "2026-05-01T03:08:52.168Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:18:11.618Z"
+  "cachedAt": "2026-04-30T20:18:11.618Z",
+  "nationality": "USA",
+  "birthdate": "October 25 1996",
+  "birthCity": "Blythewood"
 }

@@ -130,10 +130,13 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:57:00.362Z",
+  "_lastVerified": "2026-05-01T02:57:16.640Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:00.362Z"
+  "cachedAt": "2026-04-30T19:57:00.362Z",
+  "nationality": "Serbian",
+  "birthdate": "January 4 1994",
+  "birthCity": "Kragujevac"
 }

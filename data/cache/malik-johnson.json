@@ -80,10 +80,13 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:56:21.859Z",
+  "_lastVerified": "2026-05-01T02:49:00.455Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:56:21.859Z"
+  "cachedAt": "2026-04-30T20:56:21.859Z",
+  "nationality": "USA",
+  "birthdate": "January 25 1997",
+  "birthCity": "Richmond"
 }

@@ -45,10 +45,13 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T21:06:14.386Z",
+  "_lastVerified": "2026-05-01T02:06:12.684Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:06:14.386Z"
+  "cachedAt": "2026-04-30T21:06:14.386Z",
+  "nationality": "USA",
+  "birthdate": "January 8 1999",
+  "birthCity": "Virginia Beach"
 }

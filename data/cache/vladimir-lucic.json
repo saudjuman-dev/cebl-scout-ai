@@ -236,10 +236,13 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:21:24.827Z",
+  "_lastVerified": "2026-05-01T03:27:59.404Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:21:24.827Z"
+  "cachedAt": "2026-04-30T19:21:24.827Z",
+  "nationality": "Serbian",
+  "birthdate": "June 17 1989",
+  "birthCity": "Beograd"
 }

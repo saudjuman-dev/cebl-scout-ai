@@ -80,10 +80,13 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:21:35.823Z",
+  "_lastVerified": "2026-05-01T01:53:45.922Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:21:35.823Z"
+  "cachedAt": "2026-04-30T21:21:35.823Z",
+  "nationality": "French",
+  "birthdate": "October 18 1993",
+  "birthCity": "Tarbes"
 }

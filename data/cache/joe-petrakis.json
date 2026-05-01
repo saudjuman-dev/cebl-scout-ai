@@ -56,10 +56,13 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:11:55.116Z",
+  "_lastVerified": "2026-05-01T02:31:05.806Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:55.116Z"
+  "cachedAt": "2026-04-30T20:11:55.116Z",
+  "nationality": "USA",
+  "birthdate": "March 28 2001",
+  "birthCity": "Wichita"
 }

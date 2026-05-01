@@ -86,10 +86,12 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:25:37.175Z",
+  "_lastVerified": "2026-05-01T02:44:35.147Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:37.175Z"
+  "cachedAt": "2026-04-30T19:25:37.175Z",
+  "birthdate": "December 10 1999",
+  "birthCity": "Ottawa"
 }

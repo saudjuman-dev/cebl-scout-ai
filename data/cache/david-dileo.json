@@ -80,10 +80,13 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:36:00.737Z",
+  "_lastVerified": "2026-05-01T02:04:12.098Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:36:00.737Z"
+  "cachedAt": "2026-04-30T19:36:00.737Z",
+  "nationality": "USA",
+  "birthdate": "February 28 1997",
+  "birthCity": "Iowa City"
 }

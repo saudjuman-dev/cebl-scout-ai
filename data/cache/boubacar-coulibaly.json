@@ -46,10 +46,12 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:51:02.023Z",
+  "_lastVerified": "2026-05-01T01:55:39.694Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:51:02.023Z"
+  "cachedAt": "2026-04-30T21:51:02.023Z",
+  "nationality": "Mali",
+  "birthCity": "Bamako"
 }

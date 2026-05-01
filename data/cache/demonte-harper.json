@@ -146,10 +146,13 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-04-30T21:42:21.365Z",
+  "_lastVerified": "2026-05-01T02:05:44.759Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:42:21.365Z"
+  "cachedAt": "2026-04-30T21:42:21.365Z",
+  "nationality": "USA",
+  "birthdate": "June 21 1989",
+  "birthCity": "Nashville"
 }

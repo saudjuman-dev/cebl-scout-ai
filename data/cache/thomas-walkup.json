@@ -120,10 +120,13 @@
       "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:01:49.799Z",
+  "_lastVerified": "2026-05-01T03:21:19.074Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:49.799Z"
+  "cachedAt": "2026-04-30T20:01:49.799Z",
+  "nationality": "USA",
+  "birthdate": "December 30 1992",
+  "birthCity": "Pasadena"
 }

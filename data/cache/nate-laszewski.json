@@ -76,10 +76,13 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-04-30T20:38:26.152Z",
+  "_lastVerified": "2026-05-01T03:00:19.155Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:26.152Z"
+  "cachedAt": "2026-04-30T20:38:26.152Z",
+  "nationality": "USA",
+  "birthdate": "July 19 1999",
+  "birthCity": "Jupiter"
 }
