@@ -1754,59 +1754,196 @@ function renderElamAnalyticsRich() {
 // ============================================================================
 // ===== HOMETOWN MAP (Canadian Pipeline storytelling) =====
 // ============================================================================
+
+// Province data — full names + map of cities → province for normalization
+const PROVINCE_INFO = {
+  'ON': { name: 'Ontario', region: 'central', flag: '⚪🟢⚪' },
+  'QC': { name: 'Quebec', region: 'central', flag: '⚜' },
+  'BC': { name: 'British Columbia', region: 'west', flag: '🌲' },
+  'AB': { name: 'Alberta', region: 'west', flag: '🏔' },
+  'SK': { name: 'Saskatchewan', region: 'prairies', flag: '🌾' },
+  'MB': { name: 'Manitoba', region: 'prairies', flag: '🦬' },
+  'NS': { name: 'Nova Scotia', region: 'atlantic', flag: '⚓' },
+  'NB': { name: 'New Brunswick', region: 'atlantic', flag: '🌊' },
+  'NL': { name: 'Newfoundland', region: 'atlantic', flag: '🐟' },
+  'PE': { name: 'Prince Edward Island', region: 'atlantic', flag: '🥔' },
+  'YT': { name: 'Yukon', region: 'north', flag: '❄' },
+  'NT': { name: 'NW Territories', region: 'north', flag: '❄' },
+  'NU': { name: 'Nunavut', region: 'north', flag: '❄' }
+};
+
+// City → province lookup (covers cities we've seen)
+const CITY_TO_PROVINCE = {
+  // Ontario
+  'Toronto': 'ON', 'Mississauga': 'ON', 'Brampton': 'ON', 'Markham': 'ON',
+  'Vaughan': 'ON', 'Richmond Hill': 'ON', 'Burlington': 'ON', 'Oakville': 'ON',
+  'Kitchener': 'ON', 'Waterloo': 'ON', 'Cambridge': 'ON', 'Ottawa': 'ON',
+  'Hamilton': 'ON', 'Windsor': 'ON', 'Sudbury': 'ON', 'Thunder Bay': 'ON',
+  'St. Catharines': 'ON', 'Niagara Falls': 'ON', 'Oshawa': 'ON', 'Whitby': 'ON',
+  'Ajax': 'ON', 'Pickering': 'ON', 'Scarborough': 'ON', 'Etobicoke': 'ON',
+  'North York': 'ON', 'Newmarket': 'ON', 'Aurora': 'ON', 'Kingston': 'ON',
+  'Milton': 'ON', 'Barrie': 'ON', 'Guelph': 'ON',
+  // Quebec
+  'Montreal': 'QC', 'Montréal': 'QC', 'Laval': 'QC', 'Longueuil': 'QC',
+  'Quebec City': 'QC', 'Québec': 'QC',
+  // BC
+  'Vancouver': 'BC', 'Surrey': 'BC', 'Burnaby': 'BC', 'Richmond': 'BC',
+  'Coquitlam': 'BC', 'Langley': 'BC', 'Victoria': 'BC', 'Kelowna': 'BC',
+  'Abbotsford': 'BC', 'Saanich': 'BC',
+  // Alberta
+  'Calgary': 'AB', 'Edmonton': 'AB', 'Lethbridge': 'AB', 'Red Deer': 'AB',
+  // Saskatchewan
+  'Saskatoon': 'SK', 'Regina': 'SK',
+  // Manitoba
+  'Winnipeg': 'MB',
+  // Nova Scotia
+  'Halifax': 'NS', 'Dartmouth': 'NS', 'Sydney': 'NS', 'Antigonish': 'NS',
+  // New Brunswick
+  'Fredericton': 'NB', 'Saint John': 'NB', 'Moncton': 'NB', 'Sackville': 'NB',
+  // Newfoundland & PEI
+  "St. John's": 'NL', 'Charlottetown': 'PE',
+  // Territories
+  'Yellowknife': 'NT', 'Whitehorse': 'YT'
+};
+
+function _normalizeProvince(rawHometown) {
+  if (!rawHometown) return null;
+  const parts = rawHometown.split(',').map(s => s.trim());
+  // Try province code at end ("Toronto, ON")
+  if (parts.length > 1) {
+    const tail = parts[parts.length - 1].toUpperCase();
+    if (PROVINCE_INFO[tail]) return tail;
+    // Province name at end
+    const found = Object.entries(PROVINCE_INFO).find(([code, info]) =>
+      info.name.toLowerCase() === parts[parts.length - 1].toLowerCase());
+    if (found) return found[0];
+  }
+  // Try city → province mapping
+  return CITY_TO_PROVINCE[parts[0]] || null;
+}
+
+// Build combined Canadian dataset (curated pipeline + cache discoveries)
+function _buildCanadianHomeMap() {
+  const players = [];
+  // Source 1: curated canadianPipeline (richest data)
+  if (typeof canadianPipeline !== 'undefined') {
+    canadianPipeline.forEach(p => {
+      const prov = _normalizeProvince(p.hometown);
+      if (prov) players.push({ name: p.name, hometown: p.hometown, province: prov, tier: p.tier, team: p.team, source: 'pipeline' });
+    });
+  }
+  // Source 2: cache-discovered Canadians (from global-pros)
+  if (typeof GLOBAL_PROS !== 'undefined') {
+    GLOBAL_PROS.filter(p => p.isCanadian).forEach(p => {
+      const prov = CITY_TO_PROVINCE[(p.birthCity || '').split(',')[0].trim()] || null;
+      if (prov && !players.find(x => x.name.toLowerCase() === p.name.toLowerCase())) {
+        players.push({ name: p.name, hometown: p.birthCity, province: prov, tier: p.tier, team: p.currentTeam, source: 'cache' });
+      }
+    });
+  }
+  // Aggregate by province
+  const byProvince = {};
+  Object.keys(PROVINCE_INFO).forEach(code => {
+    byProvince[code] = { code, info: PROVINCE_INFO[code], players: [] };
+  });
+  players.forEach(p => byProvince[p.province] && byProvince[p.province].players.push(p));
+  return { players, byProvince };
+}
+
 const _origRenderPipeline = typeof renderPipeline === 'function' ? renderPipeline : null;
 function renderPipelineEnhanced() {
   if (_origRenderPipeline) _origRenderPipeline();
-  // Add hometown summary card to top of pipeline
   if (typeof canadianPipeline === 'undefined') return;
-  const pipeline = canadianPipeline;
   const summary = document.getElementById('pipeline-summary');
   if (!summary) return;
 
-  // Aggregate by hometown province / city
-  const byProvince = {};
-  pipeline.forEach(p => {
-    const town = (p.hometown || '').split(',').map(s => s.trim());
-    const prov = town[1] || 'Unknown';
-    byProvince[prov] = (byProvince[prov] || 0) + 1;
-  });
-  const provincesSorted = Object.entries(byProvince).sort((a,b) => b[1] - a[1]);
+  const map = _buildCanadianHomeMap();
+  const totalCanadians = map.players.length;
+  const provincesWithPlayers = Object.values(map.byProvince).filter(p => p.players.length > 0).length;
+  const maxByProvince = Math.max(1, ...Object.values(map.byProvince).map(p => p.players.length));
 
   const byTier = {};
-  pipeline.forEach(p => byTier[p.tier] = (byTier[p.tier] || 0) + 1);
+  canadianPipeline.forEach(p => byTier[p.tier] = (byTier[p.tier] || 0) + 1);
 
-  const homeTownsSummary = `
+  // Top stats row
+  const headerStats = `
     <div class="pipeline-stats-row">
-      <div class="ps-card">
-        <div class="ps-num">${pipeline.length}</div>
-        <div class="ps-lbl">Canadians Tracked Worldwide</div>
-      </div>
-      <div class="ps-card">
-        <div class="ps-num">${byTier['NBA'] || 0}</div>
-        <div class="ps-lbl">In the NBA</div>
-      </div>
-      <div class="ps-card">
-        <div class="ps-num">${(byTier['Europe-Elite']||0) + (byTier['Europe-Top']||0) + (byTier['Europe-Mid']||0)}</div>
-        <div class="ps-lbl">In Europe</div>
-      </div>
-      <div class="ps-card">
-        <div class="ps-num">${provincesSorted.length}</div>
-        <div class="ps-lbl">Provinces / Regions</div>
-      </div>
+      <div class="ps-card"><div class="ps-num">${totalCanadians}</div><div class="ps-lbl">Canadians on the Map</div></div>
+      <div class="ps-card"><div class="ps-num">${byTier['NBA'] || 0}</div><div class="ps-lbl">In the NBA</div></div>
+      <div class="ps-card"><div class="ps-num">${(byTier['Europe-Elite']||0)+(byTier['Europe-Top']||0)+(byTier['Europe-Mid']||0)}</div><div class="ps-lbl">In Europe</div></div>
+      <div class="ps-card"><div class="ps-num">${provincesWithPlayers}/13</div><div class="ps-lbl">Provinces / Territories</div></div>
     </div>
-    <div class="hometown-map-block">
-      <h3>📍 By Hometown — Where Canadian Pros Are From</h3>
-      <div class="hometown-list">
-        ${provincesSorted.slice(0, 12).map(([prov, count]) => `
-          <div class="hometown-chip">
-            <span class="hometown-prov">${prov}</span>
-            <span class="hometown-count">${count}</span>
-          </div>
-        `).join('')}
+  `;
+  summary.innerHTML = headerStats;
+
+  // Hometown map below summary
+  const mapEl = document.getElementById('pipeline-hometown-map');
+  if (!mapEl) return;
+  const heatColor = (n) => {
+    if (n === 0) return 'var(--gold-muted)';
+    const ratio = n / maxByProvince;
+    if (ratio > 0.6) return 'rgba(255, 60, 60, 0.85)';
+    if (ratio > 0.3) return 'rgba(255, 140, 66, 0.75)';
+    if (ratio > 0.1) return 'rgba(255, 200, 100, 0.55)';
+    return 'rgba(212, 175, 55, 0.4)';
+  };
+  const provCard = (code) => {
+    const p = map.byProvince[code];
+    const n = p.players.length;
+    const sample = p.players.slice(0, 3).map(x => x.name).join(', ');
+    return `
+      <button class="hm-province" data-prov="${code}" style="--hm-heat:${heatColor(n)}" onclick="filterPipelineByProvince('${code}')" title="${p.info.name}">
+        <div class="hm-prov-code">${code}</div>
+        <div class="hm-prov-name">${p.info.name}</div>
+        <div class="hm-prov-count ${n === 0 ? 'zero' : ''}">${n}</div>
+        ${sample ? `<div class="hm-prov-sample">${sample}${p.players.length > 3 ? ` +${p.players.length-3}` : ''}</div>` : '<div class="hm-prov-sample empty">none yet</div>'}
+      </button>`;
+  };
+
+  mapEl.innerHTML = `
+    <div class="hm-block">
+      <div class="hm-header">
+        <div>
+          <h3 class="hm-title">🇨🇦 Hometown Map — Canada's Coast-to-Coast Pipeline</h3>
+          <div class="hm-sub">Where every Canadian playing pro is from. Click any province to filter below.</div>
+        </div>
+        <div class="hm-legend">
+          <span class="hm-legend-dot" style="background:rgba(255,60,60,0.85)"></span><span>Hot bed</span>
+          <span class="hm-legend-dot" style="background:rgba(255,140,66,0.75)"></span><span>Strong</span>
+          <span class="hm-legend-dot" style="background:rgba(255,200,100,0.55)"></span><span>Active</span>
+          <span class="hm-legend-dot" style="background:rgba(212,175,55,0.4)"></span><span>Quiet</span>
+        </div>
+      </div>
+
+      <div class="hm-canada">
+        <!-- Row 1: Northern territories -->
+        <div class="hm-row hm-north">
+          ${['YT','NT','NU'].map(provCard).join('')}
+        </div>
+        <!-- Row 2: West to East -->
+        <div class="hm-row hm-main">
+          ${['BC','AB','SK','MB','ON','QC'].map(provCard).join('')}
+        </div>
+        <!-- Row 3: Atlantic -->
+        <div class="hm-row hm-atlantic">
+          ${['NB','PE','NS','NL'].map(provCard).join('')}
+        </div>
       </div>
     </div>
   `;
-  summary.innerHTML = homeTownsSummary + summary.innerHTML;
+}
+
+// Click a province → filter the pipeline tier-list below
+function filterPipelineByProvince(code) {
+  const search = document.getElementById('pipeline-search');
+  if (!search) return;
+  // Filter via existing search by setting hometown text to the province name/code.
+  search.value = code;
+  if (typeof filterPipeline === 'function') filterPipeline();
+  // Highlight selected province
+  document.querySelectorAll('.hm-province').forEach(b => b.classList.toggle('selected', b.dataset.prov === code));
+  // Scroll to results
+  document.getElementById('pipeline-tiers')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ============================================================================

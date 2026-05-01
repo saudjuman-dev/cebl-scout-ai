@@ -4944,3 +4944,153 @@ h2, h3 { letter-spacing: -0.005em; }
   .rp-tagline { font-size: 0.65rem; }
   .rp-brand-name { font-size: 1.25rem; }
 }
+
+/* ============================================================================
+   ===== CANADIAN HOMETOWN MAP — geographic heat-grid =====
+   ============================================================================ */
+.pipeline-hometown-map { margin: 1.2rem 0 1.6rem; }
+.hm-block {
+  background: linear-gradient(180deg, rgba(255,60,60,0.04), rgba(0,0,0,0.4));
+  border: 1px solid rgba(255, 60, 60, 0.22);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem 1.4rem;
+  position: relative;
+  overflow: hidden;
+}
+.hm-block::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 30%, rgba(255, 60, 60, 0.08), transparent 70%);
+  pointer-events: none;
+}
+.hm-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+  z-index: 1;
+}
+.hm-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.04em;
+  color: #fff;
+  margin: 0 0 0.25rem;
+}
+.hm-sub { font-size: 0.78rem; color: #aaa; }
+.hm-legend {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.7rem;
+  color: #aaa;
+  flex-wrap: wrap;
+}
+.hm-legend-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-left: 0.4rem;
+}
+
+.hm-canada {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  position: relative;
+  z-index: 1;
+}
+.hm-row {
+  display: grid;
+  gap: 0.55rem;
+}
+.hm-north { grid-template-columns: repeat(3, 1fr); opacity: 0.85; }
+.hm-main { grid-template-columns: repeat(6, 1fr); }
+.hm-atlantic { grid-template-columns: repeat(4, 1fr); margin-left: auto; max-width: 70%; }
+
+.hm-province {
+  position: relative;
+  background: linear-gradient(180deg, rgba(255,255,255,0.025), rgba(0,0,0,0.3));
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 0.85rem 0.85rem 0.95rem;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: left;
+  color: inherit;
+  transition: transform 0.22s, border-color 0.22s, box-shadow 0.22s, background 0.22s;
+  overflow: hidden;
+}
+.hm-province::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--hm-heat);
+  opacity: 0.18;
+  pointer-events: none;
+  transition: opacity 0.22s;
+}
+.hm-province:hover {
+  transform: translateY(-3px) scale(1.02);
+  border-color: rgba(255, 60, 60, 0.6);
+  box-shadow: 0 8px 24px rgba(255, 60, 60, 0.25);
+}
+.hm-province:hover::before { opacity: 0.32; }
+.hm-province.selected {
+  border-color: #ff5e5e;
+  box-shadow: 0 0 0 2px #ff5e5e, 0 8px 22px rgba(255,60,60,0.4);
+}
+.hm-prov-code {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.hm-prov-name {
+  font-size: 0.72rem;
+  color: #aaa;
+  margin-top: 1px;
+  position: relative;
+  z-index: 1;
+}
+.hm-prov-count {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.85rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1;
+  z-index: 2;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+.hm-prov-count.zero { color: #555; font-weight: 400; }
+.hm-prov-sample {
+  font-size: 0.7rem;
+  color: #ccc;
+  margin-top: 0.6rem;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+.hm-prov-sample.empty { color: #555; font-style: italic; }
+
+@media (max-width: 720px) {
+  .hm-main { grid-template-columns: repeat(3, 1fr); }
+  .hm-north { grid-template-columns: repeat(3, 1fr); }
+  .hm-atlantic { grid-template-columns: repeat(2, 1fr); max-width: 100%; margin-left: 0; }
+  .hm-prov-count { font-size: 1.3rem; top: 0.5rem; right: 0.6rem; }
+}
