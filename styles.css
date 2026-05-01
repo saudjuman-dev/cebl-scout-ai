@@ -5094,3 +5094,456 @@ h2, h3 { letter-spacing: -0.005em; }
   .hm-atlantic { grid-template-columns: repeat(2, 1fr); max-width: 100%; margin-left: 0; }
   .hm-prov-count { font-size: 1.3rem; top: 0.5rem; right: 0.6rem; }
 }
+
+/* ============================================================================
+   ===== FAN VS GM DISTINCT LOOK & FEEL =====
+   Each mode has its own palette, textures, typography emphasis, and card
+   style. Theme color (chosen team) cascades through — but the surface
+   aesthetic flips dramatically based on who you are.
+   ============================================================================ */
+
+/* ----- FAN MODE: warm, cinematic, story-driven ----- */
+body[data-audience-mode="fan"] {
+  --fan-accent: #ff8c42;
+  --fan-accent-light: #ffb87a;
+  --fan-accent-dark: #c95a1a;
+  --fan-glow: rgba(255, 140, 66, 0.35);
+  --fan-bg-wood: #1a0d05;
+}
+body[data-audience-mode="fan"] {
+  background:
+    radial-gradient(ellipse 1400px 900px at 70% 0%, rgba(255, 140, 66, 0.06), transparent),
+    radial-gradient(ellipse 1200px 700px at 0% 100%, rgba(212, 175, 55, 0.04), transparent),
+    repeating-linear-gradient(96deg, #0d0a06 0 10px, #0a0805 10px 22px),
+    var(--black);
+}
+body[data-audience-mode="fan"] header {
+  background: linear-gradient(180deg, rgba(20, 8, 0, 0.98), rgba(10, 5, 0, 0.95));
+  border-bottom: 1px solid rgba(255, 140, 66, 0.18);
+}
+/* Tab content gets a subtle warm glow */
+body[data-audience-mode="fan"] .tab-content {
+  position: relative;
+}
+body[data-audience-mode="fan"] .tab-content::before {
+  content: '';
+  position: absolute;
+  top: 0; right: 0;
+  width: 60%;
+  height: 280px;
+  background: radial-gradient(ellipse at top right, rgba(255, 140, 66, 0.05), transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+}
+body[data-audience-mode="fan"] .tab-header-row h2 {
+  font-size: 2.1rem;
+  letter-spacing: 0.01em;
+  background: linear-gradient(135deg, #fff 30%, var(--fan-accent) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+body[data-audience-mode="fan"] .tab-header-row h2::before {
+  content: '';
+  display: inline-block;
+  width: 5px; height: 32px;
+  background: linear-gradient(180deg, var(--fan-accent), var(--fan-accent-dark));
+  border-radius: 3px;
+  margin-right: 0.7rem;
+  vertical-align: middle;
+  box-shadow: 0 0 16px var(--fan-glow);
+}
+body[data-audience-mode="fan"] .tab-subtitle {
+  color: #ddd;
+  font-size: 0.95rem;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* Cards: softer, more rounded, orange shadow halo */
+body[data-audience-mode="fan"] .panel,
+body[data-audience-mode="fan"] .stat-card,
+body[data-audience-mode="fan"] .lb-card,
+body[data-audience-mode="fan"] .record-card,
+body[data-audience-mode="fan"] .legend-card,
+body[data-audience-mode="fan"] .award-card {
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.025), rgba(0, 0, 0, 0.4));
+  border-color: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 1px 0 rgba(255,255,255,0.04) inset, 0 4px 22px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 140, 66, 0.04);
+}
+body[data-audience-mode="fan"] .panel:hover,
+body[data-audience-mode="fan"] .stat-card:hover,
+body[data-audience-mode="fan"] .lb-card:hover {
+  border-color: rgba(255, 140, 66, 0.35);
+  box-shadow: 0 8px 30px rgba(255, 140, 66, 0.18), 0 0 0 1px rgba(255, 140, 66, 0.2);
+}
+body[data-audience-mode="fan"] .stat-number {
+  background: linear-gradient(135deg, var(--fan-accent-light), var(--fan-accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Section labels in Fan mode */
+body[data-audience-mode="fan"] .nav-section-label {
+  background: rgba(255, 140, 66, 0.13);
+  border-left-color: var(--fan-accent);
+  color: var(--fan-accent);
+}
+
+/* ----- GM MODE: tactical, dense, war-room ----- */
+body[data-audience-mode="gm"] {
+  --gm-accent: var(--gold);
+  --gm-iron: #2a2620;
+  --gm-blueprint: rgba(212, 175, 55, 0.07);
+}
+body[data-audience-mode="gm"] {
+  background:
+    radial-gradient(ellipse 1200px 800px at 50% 0%, rgba(212, 175, 55, 0.04), transparent),
+    /* Blueprint grid */
+    linear-gradient(var(--gm-blueprint) 1px, transparent 1px),
+    linear-gradient(90deg, var(--gm-blueprint) 1px, transparent 1px),
+    var(--black);
+  background-size: auto, 36px 36px, 36px 36px, auto;
+}
+body[data-audience-mode="gm"] header {
+  background: linear-gradient(180deg, rgba(15, 13, 8, 0.98), rgba(8, 7, 4, 0.96));
+  border-bottom: 1px solid rgba(212, 175, 55, 0.22);
+}
+body[data-audience-mode="gm"] .tab-header-row h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.55rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+}
+body[data-audience-mode="gm"] .tab-header-row h2::after {
+  content: '';
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: 1px;
+  margin-top: 0.4rem;
+  background: linear-gradient(90deg, var(--gold) 0%, transparent 100%);
+}
+body[data-audience-mode="gm"] .tab-subtitle {
+  font-family: monospace;
+  font-size: 0.78rem;
+  color: #999;
+  letter-spacing: 0.02em;
+}
+
+/* Cards: sharper, denser, scoreboard-feel */
+body[data-audience-mode="gm"] .panel,
+body[data-audience-mode="gm"] .stat-card,
+body[data-audience-mode="gm"] .gp-card,
+body[data-audience-mode="gm"] .ft-card {
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(20, 18, 12, 0.85), rgba(10, 9, 6, 0.95));
+  border: 1px solid rgba(212, 175, 55, 0.15);
+  box-shadow: 0 1px 0 rgba(255, 215, 100, 0.06) inset, 0 1px 3px rgba(0, 0, 0, 0.5), 0 4px 14px rgba(0, 0, 0, 0.3);
+}
+body[data-audience-mode="gm"] .panel-header h2 {
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+body[data-audience-mode="gm"] .panel-header h2::before {
+  content: '◆ ';
+  color: var(--gold);
+  font-size: 0.7em;
+}
+body[data-audience-mode="gm"] .stat-number {
+  font-family: 'Oswald', sans-serif;
+  font-variant-numeric: tabular-nums;
+  background: none;
+  -webkit-text-fill-color: var(--gold);
+  color: var(--gold);
+  text-shadow: 0 0 16px var(--gold-glow), 0 1px 0 rgba(0,0,0,0.5);
+}
+
+/* Section labels in GM mode */
+body[data-audience-mode="gm"] .nav-section-label {
+  background: rgba(212, 175, 55, 0.13);
+  border-left-color: var(--gold);
+  color: var(--gold);
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+/* GM nav tabs feel like dashboard pills */
+body[data-audience-mode="gm"] .nav-tab {
+  font-family: monospace;
+  letter-spacing: 0.04em;
+  font-size: 0.75rem;
+}
+
+/* ----- BOTH modes: Wood-grain texture on flagship surfaces ----- */
+.panel.full-width {
+  position: relative;
+}
+
+/* Glass morphism on hero panels (subtle) */
+body[data-audience-mode="fan"] .panel.full-width {
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+}
+
+/* Mode-aware live indicator */
+body[data-audience-mode="fan"] .live-dot {
+  background: radial-gradient(circle, var(--fan-accent-light), var(--fan-accent)) !important;
+  box-shadow: 0 0 12px var(--fan-glow) !important;
+}
+
+/* Dashboard hero card differentiation */
+body[data-audience-mode="fan"] .dashboard-grid > .panel.full-width:first-of-type {
+  background: linear-gradient(135deg,
+    rgba(255, 140, 66, 0.04),
+    rgba(255, 140, 66, 0.01) 40%,
+    rgba(0,0,0,0.4) 100%);
+  border-color: rgba(255, 140, 66, 0.25);
+}
+body[data-audience-mode="gm"] .dashboard-grid > .panel.full-width:first-of-type {
+  background: linear-gradient(135deg,
+    rgba(212, 175, 55, 0.06),
+    rgba(212, 175, 55, 0.01) 40%,
+    rgba(0,0,0,0.4) 100%);
+  border-color: rgba(212, 175, 55, 0.3);
+}
+
+/* Body class helper showing what mode is active (for debug + transitions) */
+body { transition: background-color 0.5s ease; }
+
+/* ============================================================================
+   ===== CINEMATIC PLAYER PROFILE MODAL =====
+   ============================================================================ */
+.player-modal {
+  background: linear-gradient(180deg, #1a1610 0%, #0a0a0a 100%);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 16px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Hero header — full-width team-color backdrop with player photo */
+.pm-header {
+  position: relative;
+  background: linear-gradient(135deg,
+    var(--gold-muted),
+    rgba(0, 0, 0, 0.6) 60%,
+    rgba(0, 0, 0, 0.95) 100%);
+  padding: 2.4rem 1.6rem 1.4rem 1.6rem;
+  margin: -1rem -1rem 1.2rem -1rem;
+  border-radius: 14px 14px 0 0;
+  overflow: hidden;
+  min-height: 200px;
+  display: flex;
+  gap: 1.4rem;
+  align-items: flex-end;
+}
+.pm-header::before {
+  content: '';
+  position: absolute;
+  top: -60%; right: -10%;
+  width: 600px; height: 600px;
+  background: radial-gradient(circle, var(--gold-glow), transparent 60%);
+  pointer-events: none;
+}
+.pm-header::after {
+  /* Wood-grain court at the bottom of the hero */
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 60px;
+  background: repeating-linear-gradient(96deg, rgba(0,0,0,0.3) 0 6px, rgba(0,0,0,0.5) 6px 14px);
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.pm-avatar {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+  font-weight: 800;
+  font-size: 2rem;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.02em;
+  box-shadow: 0 12px 38px var(--gold-glow), 0 0 0 4px rgba(255, 255, 255, 0.05), inset 0 2px 0 rgba(255,255,255,0.18);
+  position: relative;
+  z-index: 2;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+.pm-info {
+  position: relative;
+  z-index: 2;
+  flex: 1;
+  min-width: 0;
+}
+.pm-info h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.05;
+  color: #fff;
+  margin: 0 0 0.6rem;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
+
+/* Bio rows — scoreboard-style */
+.pm-bio-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem 1.2rem;
+  position: relative;
+  z-index: 2;
+}
+.pm-bio-item {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  color: #ddd;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+.pm-bio-item strong {
+  color: var(--gold);
+  font-weight: 600;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.pm-bio-item .pm-val {
+  color: #fff;
+  font-weight: 500;
+}
+
+/* Tab strip below the hero */
+.pm-tabs {
+  display: flex;
+  gap: 0.3rem;
+  padding: 0 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  margin-bottom: 1rem;
+}
+.pm-tab {
+  background: transparent;
+  border: none;
+  color: #999;
+  padding: 0.7rem 1rem;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+  transition: color 0.2s;
+}
+.pm-tab:hover { color: #fff; }
+.pm-tab.active { color: var(--gold); }
+.pm-tab.active::after {
+  content: '';
+  position: absolute;
+  bottom: -1px; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+/* Career table — scoreboard energy */
+.career-table {
+  width: 100%;
+  font-family: 'Oswald', sans-serif;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  font-size: 0.78rem;
+}
+.career-table th {
+  background: rgba(212, 175, 55, 0.08);
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.6rem 0.4rem;
+  border-bottom: 2px solid rgba(212, 175, 55, 0.3);
+}
+.career-table td {
+  padding: 0.55rem 0.4rem;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  color: #ddd;
+}
+.career-table tr:hover td { background: rgba(212, 175, 55, 0.04); }
+.career-table .highlight-stat {
+  color: var(--gold);
+  font-weight: 700;
+  font-size: 0.92rem;
+}
+.career-table .nba-row td { background: rgba(220, 60, 80, 0.06); }
+.career-table .cebl-row td { background: rgba(76, 175, 80, 0.06); }
+.career-avg-row td {
+  background: rgba(212, 175, 55, 0.12) !important;
+  font-weight: 700;
+  color: var(--gold);
+  border-top: 2px solid var(--gold);
+  border-bottom: 2px solid var(--gold);
+}
+
+@media (max-width: 720px) {
+  .pm-header { flex-direction: column; align-items: center; text-align: center; padding: 1.6rem 1rem 1.2rem; }
+  .pm-info h2 { font-size: 1.7rem; }
+  .pm-avatar { width: 80px; height: 80px; font-size: 1.4rem; }
+  .pm-bio-row { justify-content: center; }
+}
+
+/* Team logo in panel headers */
+.hero-team-logo {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.5));
+}
+.hero-team-emoji {
+  font-size: 1.4rem;
+  vertical-align: middle;
+  margin-right: 0.25rem;
+}
+
+/* Team logo wrap on team-rosters cards */
+.tr-team-logo-wrap {
+  width: 56px; height: 56px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 1px solid;
+  padding: 6px;
+  position: relative;
+  overflow: hidden;
+}
+.tr-team-logo-img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
+  transition: transform 0.3s;
+}
+.tr-team-card:hover .tr-team-logo-img { transform: scale(1.08); }
+.tr-team-emoji-fb {
+  position: absolute; inset: 0;
+  align-items: center; justify-content: center;
+  font-size: 1.6rem;
+}

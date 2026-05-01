@@ -96,9 +96,15 @@ function renderHBRoster() {
   if (!container) return;
   const roster = getHomeTeamRoster();
 
-  // Update the panel header to show the user's team name
+  // Update the panel header to show the user's team logo + name
   const headerH2 = container.parentElement?.querySelector('.panel-header h2');
-  if (headerH2) headerH2.innerHTML = `${roster.emoji} ${roster.teamName} — 2026 Confirmed Roster`;
+  if (headerH2) {
+    const logoUrl = (typeof getTeamLogo === 'function') ? getTeamLogo(roster.teamName) : null;
+    const logoHtml = logoUrl
+      ? `<img src="${logoUrl}" alt="${roster.teamName}" class="hero-team-logo" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"><span class="hero-team-emoji" style="display:none">${roster.emoji}</span>`
+      : `<span class="hero-team-emoji">${roster.emoji}</span>`;
+    headerH2.innerHTML = `${logoHtml} ${roster.teamName} — 2026 Confirmed Roster`;
+  }
   const yourTeamBadge = container.parentElement?.querySelector('.badge.gold');
   if (yourTeamBadge) yourTeamBadge.textContent = 'Your Team';
 
@@ -2204,9 +2210,13 @@ function renderTeamRosters() {
     <div class="tr-grid">
       ${CEBL_TEAMS_2026.map(t => {
         const signings = (typeof leagueSignings !== 'undefined' && leagueSignings[t.name]) ? leagueSignings[t.name].players.length : 0;
+        const logoUrl = (typeof getTeamLogo === 'function') ? getTeamLogo(t.name) : null;
+        const visual = logoUrl
+          ? `<div class="tr-team-logo-wrap" style="background:${t.color}10; border-color:${t.color}40"><img src="${logoUrl}" alt="${t.name}" class="tr-team-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><span class="tr-team-emoji-fb" style="display:none">${t.emoji}</span></div>`
+          : `<div class="tr-team-emoji" style="background: ${t.color}20">${t.emoji}</div>`;
         return `
           <div class="tr-team-card" style="border-color: ${t.color}40" onclick="renderTeamDetail('${t.name.replace(/'/g, "\\'")}')">
-            <div class="tr-team-emoji" style="background: ${t.color}20">${t.emoji}</div>
+            ${visual}
             <div class="tr-team-info">
               <div class="tr-team-name" style="color: ${t.color}">${t.name}</div>
               <div class="tr-team-meta">${signings} signed for 2026</div>
