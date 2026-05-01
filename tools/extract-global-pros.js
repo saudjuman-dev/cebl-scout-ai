@@ -68,6 +68,56 @@ const LEAGUE_MAP = {
   'VEN-1':      { name: 'Venezuela Superliga',           country: 'Venezuela',  tier: 'Mid',        fibaEligible: true },
   'RWA-1':      { name: 'Rwanda BAL',                    country: 'Rwanda',     tier: 'Mid',        fibaEligible: true },
   'EYBL U16-1': { name: 'EYBL U16 (Junior)',             country: 'Europe',     tier: 'Junior',     fibaEligible: true },
+  // EuroBasket alternate codes (career history uses these instead of league IDs):
+  'TUR-1':      { name: 'Turkey BSL',                    country: 'Turkey',     tier: 'Elite',      fibaEligible: true },
+  'TUR-2':      { name: 'Turkey TBL (2nd div)',          country: 'Turkey',     tier: 'Mid',        fibaEligible: true },
+  'Eurocup-1':  { name: 'EuroCup',                       country: 'Europe',     tier: 'Elite',      fibaEligible: true },
+  'FEL-1':      { name: 'Belgium Pro Basketball League', country: 'Belgium',    tier: 'Mid',        fibaEligible: true },
+  'BEL-1':      { name: 'Belgium Pro Basketball League', country: 'Belgium',    tier: 'Mid',        fibaEligible: true },
+  'NED-1':      { name: 'Netherlands DBL',               country: 'Netherlands',tier: 'Mid',        fibaEligible: true },
+  'LTU-2':      { name: 'Lithuania NKL',                 country: 'Lithuania',  tier: 'Mid',        fibaEligible: true },
+  'LTU-6':      { name: 'Lithuania RKL (Reg.)',          country: 'Lithuania',  tier: 'Lower',      fibaEligible: true },
+  'GRE-5':      { name: 'Greece Lower Div.',             country: 'Greece',     tier: 'Lower',      fibaEligible: true },
+  'POR-2':      { name: 'Portugal Proliga',              country: 'Portugal',   tier: 'Mid',        fibaEligible: true },
+  'ESP-4':      { name: 'Spain Tercera FEB',             country: 'Spain',      tier: 'Lower',      fibaEligible: true },
+  'ITA-3':      { name: 'Italy Serie B',                 country: 'Italy',      tier: 'Mid',        fibaEligible: true },
+  'GER-3':      { name: 'Germany ProB',                  country: 'Germany',    tier: 'Mid',        fibaEligible: true },
+  'FRA-3':      { name: 'France NM1',                    country: 'France',     tier: 'Mid',        fibaEligible: true },
+  'NCAA-1':     { name: 'NCAA Division 1',               country: 'USA',        tier: 'College',    fibaEligible: true },
+  'ANGT-1':     { name: 'Adidas Next Generation Tour',   country: 'Europe',     tier: 'Junior',     fibaEligible: true },
+  'EYBL-1':     { name: 'EYBL (Junior)',                 country: 'Europe',     tier: 'Junior',     fibaEligible: true },
+  'CL-1':       { name: 'Champions League',              country: 'Europe',     tier: 'Elite',      fibaEligible: true },
+  'BCL-2':      { name: 'BCL Qualifiers',                country: 'Europe',     tier: 'Elite',      fibaEligible: true },
+  'ABA-1':      { name: 'ABA League',                    country: 'Adriatic',   tier: 'Top',        fibaEligible: true },
+  'ABA-2':      { name: 'ABA Liga 2',                    country: 'Adriatic',   tier: 'Mid',        fibaEligible: true },
+  'SRB-1':      { name: 'Serbia KLS',                    country: 'Serbia',     tier: 'Top',        fibaEligible: true },
+  'HUN-1':      { name: 'Hungary NB I/A',                country: 'Hungary',    tier: 'Mid',        fibaEligible: true },
+  'SUI-1':      { name: 'Switzerland SBL',               country: 'Switzerland',tier: 'Mid',        fibaEligible: true },
+  'UKR-1':      { name: 'Ukraine SuperLeague',           country: 'Ukraine',    tier: 'Mid',        fibaEligible: true },
+  'BLR-1':      { name: 'Belarus Premier',               country: 'Belarus',    tier: 'Mid',        fibaEligible: true },
+  'EST-1':      { name: 'Estonia LBL',                   country: 'Estonia',    tier: 'Mid',        fibaEligible: true },
+  'LAT-1':      { name: 'Latvia LBL',                    country: 'Latvia',     tier: 'Mid',        fibaEligible: true },
+  'CYP-1':      { name: 'Cyprus Basket League',          country: 'Cyprus',     tier: 'Mid',        fibaEligible: true },
+  'TBL':        { name: 'TBL (League)',                  country: 'Unknown',    tier: 'Mid',        fibaEligible: true },
+  'GBR-1':      { name: 'UK Super League',               country: 'UK',         tier: 'Mid',        fibaEligible: true },
+  'IRL-1':      { name: 'Ireland National League',       country: 'Ireland',    tier: 'Mid',        fibaEligible: true },
+  'BRA-1':      { name: 'Brazil NBB',                    country: 'Brazil',     tier: 'Top',        fibaEligible: true },
+  'ARG-1':      { name: 'Argentina LNB',                 country: 'Argentina',  tier: 'Top',        fibaEligible: true },
+  'PUR-1':      { name: 'Puerto Rico BSN',               country: 'Puerto Rico',tier: 'Top',        fibaEligible: true },
+  'URU-1':      { name: 'Uruguay LUB',                   country: 'Uruguay',    tier: 'Mid',        fibaEligible: true },
+  'DOM-1':      { name: 'Dominican LNB',                 country: 'Dominican',  tier: 'Mid',        fibaEligible: true },
+  'NZL-1':      { name: 'NZ NBL',                        country: 'New Zealand',tier: 'Mid',        fibaEligible: true },
+  'TPE-1':      { name: 'Taiwan T1 / P. League+',        country: 'Taiwan',     tier: 'Mid',        fibaEligible: true },
+  'IRN-1':      { name: 'Iran Super League',             country: 'Iran',       tier: 'Mid',        fibaEligible: true },
+  'LBN-1':      { name: 'Lebanon LBL',                   country: 'Lebanon',    tier: 'Mid',        fibaEligible: true },
+  'EGY-1':      { name: 'Egypt Super League',            country: 'Egypt',      tier: 'Mid',        fibaEligible: true },
+  'BAL-1':      { name: 'Basketball Africa League',      country: 'Africa',     tier: 'Top',        fibaEligible: true },
+  'ANG-1':      { name: 'Angola Basketball League',      country: 'Angola',     tier: 'Mid',        fibaEligible: true },
+  'TUN-1':      { name: 'Tunisia Pro League',            country: 'Tunisia',    tier: 'Mid',        fibaEligible: true },
+  'JOR-1':      { name: 'Jordan Premier League',         country: 'Jordan',     tier: 'Mid',        fibaEligible: true },
+  'KSA-1':      { name: 'Saudi Premier',                 country: 'Saudi Arabia',tier: 'Mid',       fibaEligible: true },
+  'UAE-1':      { name: 'UAE National League',           country: 'UAE',        tier: 'Mid',        fibaEligible: true },
+  'IND-1':      { name: 'India INBL',                    country: 'India',      tier: 'Mid',        fibaEligible: true },
 };
 
 const cacheFiles = fs.readdirSync(CACHE_DIR).filter(f => f.endsWith('.json'));
@@ -81,7 +131,18 @@ for (const file of cacheFiles) {
 
   if (!cache.fullName || !cache.currentTeam) { skipped++; continue; }
 
-  const leagueCode = cache.currentLeague || '';
+  // Determine league: prefer currentLeague; otherwise pull from the most recent
+  // careerHistory entry that matches the player's currentTeam. (League-scraper
+  // cache files don't set currentLeague, but careerHistory is reliable.)
+  let leagueCode = cache.currentLeague || '';
+  if (!leagueCode && Array.isArray(cache.careerHistory) && cache.careerHistory.length > 0) {
+    // Find the most recent entry whose team matches currentTeam (or the very
+    // last entry as fallback).
+    const sortedHistory = [...cache.careerHistory].reverse();
+    const teamMatch = sortedHistory.find(h => h.team && cache.currentTeam &&
+      h.team.toLowerCase().includes(cache.currentTeam.toLowerCase().split(' ')[0]));
+    leagueCode = (teamMatch || sortedHistory[0]).league || '';
+  }
   const leagueMeta = LEAGUE_MAP[leagueCode] || { name: leagueCode || 'Unknown', country: 'Unknown', tier: 'Unknown', fibaEligible: true };
 
   // Skip NBA players — out of scope per user requirement
