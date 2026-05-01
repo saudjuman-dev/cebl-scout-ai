@@ -342,9 +342,52 @@ const USER_DATA = {
 // ===== UI Functions =====
 
 function showLoginScreen() {
+  // First-time visitors see the role picker before the auth form.
+  // Returning visitors (role saved in localStorage) skip straight to login.
+  let savedRole = null;
+  try { savedRole = localStorage.getItem('hi_user_role'); } catch (e) {}
+
+  if (!savedRole) {
+    showRolePicker();
+    return;
+  }
   document.getElementById('auth-gate').style.display = 'flex';
   document.getElementById('auth-gate').classList.remove('hidden');
   showLoginForm();
+}
+
+function showRolePicker() {
+  const rp = document.getElementById('role-picker-screen');
+  const ag = document.getElementById('auth-gate');
+  if (rp) {
+    rp.style.display = 'flex';
+    rp.classList.remove('hidden');
+  }
+  if (ag) ag.style.display = 'none';
+}
+
+// Called from the split-hero buttons. role: 'fan' | 'gm' | 'all'
+function pickLoginRole(role) {
+  try {
+    if (role === 'fan' || role === 'gm') {
+      localStorage.setItem('hi_user_role', role);
+    }
+    // Pre-mark them as having seen onboarding so the post-login flow
+    // doesn't re-ask for role. They can change it anytime via Settings.
+    localStorage.setItem('hi_onboarded', '1');
+  } catch (e) {}
+
+  const rp = document.getElementById('role-picker-screen');
+  if (rp) {
+    rp.classList.add('rp-leaving');
+    setTimeout(() => {
+      rp.style.display = 'none';
+      rp.classList.remove('rp-leaving');
+      document.getElementById('auth-gate').style.display = 'flex';
+      document.getElementById('auth-gate').classList.remove('hidden');
+      showLoginForm();
+    }, 600);
+  }
 }
 
 function showLoginForm() {

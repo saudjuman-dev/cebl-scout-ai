@@ -26,6 +26,119 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏀</text></svg>">
 </head>
 <body>
+  <!-- Role Picker (shown before auth on first visit) -->
+  <section id="role-picker-screen" style="display:none">
+    <div class="rp-bg-court"></div>
+
+    <header class="rp-header">
+      <div class="rp-brand">
+        <span class="rp-brand-mark">⛹</span>
+        <span class="rp-brand-name">HOOPS <span class="rp-brand-gold">INTEL</span></span>
+      </div>
+      <div class="rp-tagline">CEBL's most advanced basketball intelligence platform</div>
+    </header>
+
+    <div class="rp-split">
+      <!-- FAN SIDE -->
+      <button class="rp-side rp-fan" onclick="pickLoginRole('fan')" aria-label="Continue as Fan">
+        <div class="rp-side-bg rp-bg-fan">
+          <svg class="rp-bg-svg" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+            <defs>
+              <radialGradient id="fan-glow" cx="50%" cy="35%" r="60%">
+                <stop offset="0%" stop-color="#ff8c42" stop-opacity="0.45"/>
+                <stop offset="60%" stop-color="#7d2d00" stop-opacity="0"/>
+              </radialGradient>
+              <pattern id="fan-court" width="80" height="80" patternUnits="userSpaceOnUse" patternTransform="rotate(15)">
+                <line x1="0" y1="40" x2="80" y2="40" stroke="#ff8c42" stroke-width="0.5" opacity="0.08"/>
+                <line x1="40" y1="0" x2="40" y2="80" stroke="#ff8c42" stroke-width="0.5" opacity="0.08"/>
+              </pattern>
+            </defs>
+            <rect width="600" height="800" fill="url(#fan-court)"/>
+            <rect width="600" height="800" fill="url(#fan-glow)"/>
+            <!-- Basketball at large -->
+            <circle cx="300" cy="280" r="90" fill="none" stroke="#ff6b35" stroke-width="2" opacity="0.35"/>
+            <path d="M210 280 Q300 200 390 280 Q300 360 210 280" fill="none" stroke="#ff6b35" stroke-width="1.5" opacity="0.35"/>
+            <path d="M300 190 Q280 280 300 370 M300 190 Q320 280 300 370" fill="none" stroke="#ff6b35" stroke-width="1.5" opacity="0.35"/>
+            <line x1="210" y1="280" x2="390" y2="280" stroke="#ff6b35" stroke-width="1.5" opacity="0.35"/>
+          </svg>
+        </div>
+        <div class="rp-side-content">
+          <div class="rp-eyebrow rp-eyebrow-fan">FOR FANS</div>
+          <h1 class="rp-headline">Witness Canadian basketball <em>history</em>.</h1>
+          <p class="rp-subhead">Records, leaders, and every Canadian playing pro worldwide — wrapped in stories you'll want to share.</p>
+          <ul class="rp-features">
+            <li>📖 CEBL records book — single-game, season &amp; career</li>
+            <li>🏆 League leaders across every category</li>
+            <li>🇨🇦 Canadian Pipeline — 111+ pros in 33 countries</li>
+            <li>⏱️ Elam Ending &amp; Target Score deep-dives</li>
+            <li>📊 Side-by-side player compare</li>
+          </ul>
+          <div class="rp-cta rp-cta-fan">
+            <span>Continue as Fan</span>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </div>
+        </div>
+      </button>
+
+      <!-- GM SIDE -->
+      <button class="rp-side rp-gm" onclick="pickLoginRole('gm')" aria-label="Continue as GM or Coach">
+        <div class="rp-side-bg rp-bg-gm">
+          <svg class="rp-bg-svg" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+            <defs>
+              <radialGradient id="gm-glow" cx="50%" cy="35%" r="60%">
+                <stop offset="0%" stop-color="#d4af37" stop-opacity="0.35"/>
+                <stop offset="60%" stop-color="#0a0a0a" stop-opacity="0"/>
+              </radialGradient>
+              <pattern id="gm-blueprint" width="40" height="40" patternUnits="userSpaceOnUse">
+                <path d="M0 0 L40 0 M0 0 L0 40" stroke="#D4AF37" stroke-width="0.3" opacity="0.18"/>
+              </pattern>
+            </defs>
+            <rect width="600" height="800" fill="url(#gm-blueprint)"/>
+            <rect width="600" height="800" fill="url(#gm-glow)"/>
+            <!-- Half-court diagram with key + free throw line + 3-point arc -->
+            <g transform="translate(300, 290)" stroke="#D4AF37" stroke-width="2" fill="none" opacity="0.45">
+              <!-- Key (paint) -->
+              <rect x="-60" y="-110" width="120" height="160"/>
+              <!-- Free throw circle -->
+              <circle cx="0" cy="50" r="60"/>
+              <!-- 3-point arc -->
+              <path d="M-180 50 L-180 -110 A220 220 0 0 1 180 -110 L180 50"/>
+              <!-- Backboard -->
+              <line x1="-50" y1="-110" x2="50" y2="-110" stroke-width="3"/>
+              <!-- Hoop -->
+              <circle cx="0" cy="-95" r="14"/>
+              <!-- Tactical X marks -->
+              <text x="-100" y="0" fill="#D4AF37" font-size="28" font-weight="700" stroke="none" opacity="0.6">×</text>
+              <text x="100" y="0" fill="#D4AF37" font-size="28" font-weight="700" stroke="none" opacity="0.6">×</text>
+              <text x="-90" y="60" fill="#D4AF37" font-size="20" font-weight="700" stroke="none" opacity="0.5">○</text>
+              <text x="90" y="60" fill="#D4AF37" font-size="20" font-weight="700" stroke="none" opacity="0.5">○</text>
+            </g>
+          </svg>
+        </div>
+        <div class="rp-side-content">
+          <div class="rp-eyebrow rp-eyebrow-gm">FOR GMs &amp; COACHES</div>
+          <h1 class="rp-headline">Your roster. <br>Your cap. <br>Your <em>moves</em>.</h1>
+          <p class="rp-subhead">A war room for CEBL roster construction. 2,994 verified pros, salary math, and the data you need to make the call.</p>
+          <ul class="rp-features">
+            <li>🌍 Global Pros — 2,994 FIBA pros in 48 leagues</li>
+            <li>💰 $8K/game cap calculator with off-cap rules</li>
+            <li>🇨🇦 Canadian content tracker (6+ rule baked in)</li>
+            <li>📈 Advanced metrics — TS%, Usage, Net Rating</li>
+            <li>👁 Watchlist + scouting comparisons</li>
+          </ul>
+          <div class="rp-cta rp-cta-gm">
+            <span>Continue as GM or Coach</span>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </div>
+        </div>
+      </button>
+    </div>
+
+    <div class="rp-skip">
+      <a href="#" onclick="pickLoginRole('all'); return false">Just take me to sign in →</a>
+    </div>
+  </section>
+
   <!-- Auth Gate (Login / Register) -->
   <div id="auth-gate">
     <div class="gate-content">
