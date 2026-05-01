@@ -102,5 +102,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T21:46:47.696Z",
   "birthdate": "October 5 1995",
-  "birthCity": "Calgary"
+  "birthCity": "Calgary",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

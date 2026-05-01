@@ -93,5 +93,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:25:37.175Z",
   "birthdate": "December 10 1999",
-  "birthCity": "Ottawa"
+  "birthCity": "Ottawa",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

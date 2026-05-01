@@ -133,5 +133,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:58:07.580Z",
   "birthdate": "August 31 1994",
-  "birthCity": "Burlington"
+  "birthCity": "Burlington",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

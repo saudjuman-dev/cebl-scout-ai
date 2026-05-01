@@ -158,5 +158,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:54:21.702Z",
   "birthdate": "September 26 1991",
-  "birthCity": "Vancouver"
+  "birthCity": "Vancouver",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

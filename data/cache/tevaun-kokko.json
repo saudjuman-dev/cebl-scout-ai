@@ -58,5 +58,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T22:17:41.881Z",
   "birthdate": "September 13 1995",
-  "birthCity": "Markham"
+  "birthCity": "Markham",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

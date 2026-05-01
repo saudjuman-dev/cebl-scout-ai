@@ -93,5 +93,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:24:38.724Z",
   "birthdate": "June 27 1999",
-  "birthCity": "Ajax"
+  "birthCity": "Ajax",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

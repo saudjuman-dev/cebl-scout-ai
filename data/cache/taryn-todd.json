@@ -63,5 +63,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T20:58:46.454Z",
   "birthdate": "September 6 2001",
-  "birthCity": "Vaughan"
+  "birthCity": "Vaughan",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

@@ -83,5 +83,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T21:21:10.299Z",
   "birthdate": "November 11 1994",
-  "birthCity": "Kitchener"
+  "birthCity": "Kitchener",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

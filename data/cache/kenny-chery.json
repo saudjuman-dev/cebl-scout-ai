@@ -107,5 +107,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T20:56:18.279Z",
   "birthdate": "January 24 1992",
-  "birthCity": "Montreal"
+  "birthCity": "Montreal",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

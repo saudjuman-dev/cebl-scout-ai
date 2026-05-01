@@ -62,5 +62,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T21:57:12.447Z",
   "birthdate": "March 11 1997",
-  "birthCity": "Regina"
+  "birthCity": "Regina",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

@@ -48,5 +48,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T22:11:07.116Z",
   "birthdate": "July 5 1997",
-  "birthCity": "Toronto"
+  "birthCity": "Toronto",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

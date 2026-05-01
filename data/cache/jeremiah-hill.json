@@ -132,5 +132,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:36:33.725Z",
   "birthdate": "September 4 1995",
-  "birthCity": "Richmond Hill"
+  "birthCity": "Richmond Hill",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

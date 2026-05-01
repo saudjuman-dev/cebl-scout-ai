@@ -97,5 +97,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T20:58:11.475Z",
   "birthdate": "July 17 1998",
-  "birthCity": "Surrey"
+  "birthCity": "Surrey",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

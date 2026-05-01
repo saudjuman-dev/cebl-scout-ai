@@ -138,5 +138,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:46:56.728Z",
   "birthdate": "August 3 1993",
-  "birthCity": "Mississauga"
+  "birthCity": "Mississauga",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }

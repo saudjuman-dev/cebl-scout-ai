@@ -162,5 +162,7 @@
   "_dataConfidence": "high",
   "cachedAt": "2026-04-30T19:54:25.203Z",
   "birthdate": "December 5 1985",
-  "birthCity": "Richmond"
+  "birthCity": "Richmond",
+  "nationality": "Canadian",
+  "_inferredNationality": true
 }
