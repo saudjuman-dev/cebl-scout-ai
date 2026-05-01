@@ -570,15 +570,18 @@
           <input type="text" id="global-pros-search" class="search-input" placeholder="Search by name, team, country, college…" oninput="renderGlobalPros()">
           <select id="gp-tier-filter" class="filter-select" onchange="renderGlobalPros()">
             <option value="">All tiers</option>
-            <option value="Elite">Elite (Champions League / EuroCup)</option>
-            <option value="Top">Top (BBL / Pro A / ACB)</option>
+            <option value="Elite">Elite (Champions League / EuroCup / BSL)</option>
+            <option value="Top">Top (BBL / Pro A / ACB / LKL)</option>
             <option value="Mid">Mid (Pro B / LEB / 2nd-tier)</option>
-            <option value="Development">Development (G League / pro)</option>
+            <option value="Development">Development (G League / USA pro)</option>
             <option value="College">College (NCAA / NAIA)</option>
             <option value="CEBL">CEBL</option>
           </select>
+          <select id="gp-nationality-filter" class="filter-select" onchange="renderGlobalPros()">
+            <option value="">All nationalities</option>
+          </select>
           <select id="gp-country-filter" class="filter-select" onchange="renderGlobalPros()">
-            <option value="">All countries</option>
+            <option value="">All league countries</option>
           </select>
           <select id="gp-pos-filter" class="filter-select" onchange="renderGlobalPros()">
             <option value="">All positions</option>
@@ -587,7 +590,10 @@
             <option value="Center">Centers</option>
           </select>
         </div>
-        <div class="filter-row" style="margin-top: 0.4rem">
+        <div class="filter-row" style="margin-top: 0.4rem; gap:0.55rem; flex-wrap:wrap">
+          <button class="gp-quick-filter" onclick="quickFilterCanadians()">🇨🇦 Show Canadians only</button>
+          <button class="gp-quick-filter" onclick="quickFilterTier('Elite')">🌟 Elite tier</button>
+          <button class="gp-quick-filter" onclick="quickFilterReset()">Reset filters</button>
           <label class="gp-fiba-toggle">
             <input type="checkbox" id="gp-fiba-only" onchange="renderGlobalPros()">
             FIBA-eligible only (excludes top-tier EuroLeague)

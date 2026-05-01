@@ -4593,3 +4593,56 @@ h2, h3 { letter-spacing: -0.005em; }
 .lb-name[data-player-name]:hover {
   color: var(--gold);
 }
+
+/* Quick-filter buttons */
+.gp-quick-filter {
+  background: rgba(212, 175, 55, 0.06);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  color: #ddd;
+  padding: 0.4rem 0.85rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.78rem;
+  font-weight: 500;
+  transition: all 0.18s;
+}
+.gp-quick-filter:hover {
+  background: var(--gold-muted);
+  border-color: var(--gold);
+  color: var(--gold);
+  transform: translateY(-1px);
+}
+
+/* Canada-themed summary card */
+.gp-stat.gp-stat-canada {
+  background: linear-gradient(135deg, rgba(255, 0, 0, 0.08), rgba(255, 255, 255, 0.04));
+  border-color: rgba(255, 60, 60, 0.4);
+}
+.gp-stat.gp-stat-canada .gp-stat-num {
+  color: #ff5e5e;
+}
+
+/* Player nationality flag in card name */
+.gp-flag {
+  font-size: 0.95em;
+  margin-right: 0.15rem;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.4));
+}
+
+/* Canadian player highlight */
+.gp-card.is-canadian {
+  border-left: 3px solid #ff5e5e;
+  background: linear-gradient(90deg, rgba(255, 60, 60, 0.04), rgba(255,255,255,0.025));
+}
+
+/* Nationality tag (distinct from country) */
+.gp-tag.nationality {
+  background: rgba(76, 175, 80, 0.1);
+  color: #aed581;
+  font-weight: 600;
+}
+.gp-card.is-canadian .gp-tag.nationality {
+  background: rgba(255, 60, 60, 0.13);
+  color: #ff8585;
+}

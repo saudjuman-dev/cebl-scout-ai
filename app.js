@@ -1855,38 +1855,106 @@ function renderSparkline(values, opts) {
 // ============================================================================
 // ===== GLOBAL PROS — FIBA-emphasis worldwide pro database =====
 // ============================================================================
-let _gpCountriesSeeded = false;
 
-function _populateGpCountryFilter() {
-  if (_gpCountriesSeeded) return;
+// Nationality → flag emoji + ISO code (used for visual labels)
+const NATIONALITY_FLAGS = {
+  'Canadian': '🇨🇦', 'American': '🇺🇸', 'Spanish': '🇪🇸', 'French': '🇫🇷',
+  'Italian': '🇮🇹', 'German': '🇩🇪', 'Greek': '🇬🇷', 'Lithuanian': '🇱🇹',
+  'Turkish': '🇹🇷', 'Polish': '🇵🇱', 'Finnish': '🇫🇮', 'Portuguese': '🇵🇹',
+  'Israeli': '🇮🇱', 'Serbian': '🇷🇸', 'Croatian': '🇭🇷', 'Slovenian': '🇸🇮',
+  'Bulgarian': '🇧🇬', 'Romanian': '🇷🇴', 'Australian': '🇦🇺', 'Japanese': '🇯🇵',
+  'Mexican': '🇲🇽', 'Argentinian': '🇦🇷', 'British': '🇬🇧', 'Latvian': '🇱🇻',
+  'Estonian': '🇪🇪', 'Hungarian': '🇭🇺', 'Czech': '🇨🇿', 'Slovak': '🇸🇰',
+  'Ukrainian': '🇺🇦', 'Russian': '🇷🇺', 'Belarusian': '🇧🇾', 'Brazilian': '🇧🇷',
+  'Dutch': '🇳🇱', 'Belgian': '🇧🇪', 'Swedish': '🇸🇪', 'Norwegian': '🇳🇴',
+  'Danish': '🇩🇰', 'Icelandic': '🇮🇸', 'Austrian': '🇦🇹', 'Swiss': '🇨🇭',
+  'Irish': '🇮🇪', 'Bosnian': '🇧🇦', 'Macedonian': '🇲🇰', 'Montenegrin': '🇲🇪',
+  'Albanian': '🇦🇱', 'Kosovar': '🇽🇰', 'Georgian': '🇬🇪', 'Azerbaijani': '🇦🇿',
+  'Armenian': '🇦🇲', 'Lebanese': '🇱🇧', 'Egyptian': '🇪🇬', 'Tunisian': '🇹🇳',
+  'Senegalese': '🇸🇳', 'Nigerian': '🇳🇬', 'New Zealander': '🇳🇿', 'Korean': '🇰🇷',
+  'Filipino': '🇵🇭', 'Chinese': '🇨🇳', 'Indian': '🇮🇳', 'Iranian': '🇮🇷',
+  'Cypriot': '🇨🇾', 'Maltese': '🇲🇹', 'Puerto Rican': '🇵🇷', 'Dominican': '🇩🇴',
+  'Venezuelan': '🇻🇪', 'Uruguayan': '🇺🇾'
+};
+
+function nationalityFlag(nat) {
+  if (!nat) return '';
+  return NATIONALITY_FLAGS[nat] || '🌍';
+}
+
+let _gpFiltersSeeded = false;
+function _populateGpFilters() {
+  if (_gpFiltersSeeded) return;
   if (typeof GLOBAL_PROS === 'undefined') return;
-  const sel = document.getElementById('gp-country-filter');
-  if (!sel) return;
-  const counts = {};
-  GLOBAL_PROS.forEach(p => counts[p.country] = (counts[p.country] || 0) + 1);
-  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-  sorted.forEach(([country, n]) => {
-    const opt = document.createElement('option');
-    opt.value = country;
-    opt.textContent = `${country} (${n})`;
-    sel.appendChild(opt);
+
+  const countrySel = document.getElementById('gp-country-filter');
+  if (countrySel) {
+    const counts = {};
+    GLOBAL_PROS.forEach(p => counts[p.country] = (counts[p.country] || 0) + 1);
+    Object.entries(counts).sort((a, b) => b[1] - a[1]).forEach(([country, n]) => {
+      const opt = document.createElement('option');
+      opt.value = country;
+      opt.textContent = `${country} (${n})`;
+      countrySel.appendChild(opt);
+    });
+  }
+
+  const natSel = document.getElementById('gp-nationality-filter');
+  if (natSel) {
+    const counts = {};
+    GLOBAL_PROS.forEach(p => { if (p.nationality) counts[p.nationality] = (counts[p.nationality] || 0) + 1; });
+    Object.entries(counts).sort((a, b) => b[1] - a[1]).forEach(([nat, n]) => {
+      const opt = document.createElement('option');
+      opt.value = nat;
+      opt.textContent = `${nationalityFlag(nat)} ${nat} (${n})`;
+      natSel.appendChild(opt);
+    });
+  }
+  _gpFiltersSeeded = true;
+}
+
+// One-click filter helpers
+function quickFilterCanadians() {
+  const natSel = document.getElementById('gp-nationality-filter');
+  if (natSel) natSel.value = 'Canadian';
+  document.getElementById('gp-tier-filter').value = '';
+  document.getElementById('gp-country-filter').value = '';
+  document.getElementById('gp-pos-filter').value = '';
+  document.getElementById('global-pros-search').value = '';
+  renderGlobalPros();
+  document.getElementById('global-pros-summary')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+function quickFilterTier(tier) {
+  document.getElementById('gp-tier-filter').value = tier;
+  document.getElementById('gp-nationality-filter').value = '';
+  document.getElementById('gp-country-filter').value = '';
+  renderGlobalPros();
+}
+function quickFilterReset() {
+  ['gp-tier-filter','gp-country-filter','gp-pos-filter','gp-nationality-filter'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.value = '';
   });
-  _gpCountriesSeeded = true;
+  document.getElementById('global-pros-search').value = '';
+  document.getElementById('gp-fiba-only').checked = false;
+  renderGlobalPros();
 }
 
 function renderGlobalPros() {
   if (typeof GLOBAL_PROS === 'undefined') return;
-  _populateGpCountryFilter();
+  _populateGpFilters();
 
   const search = (document.getElementById('global-pros-search')?.value || '').toLowerCase();
   const tier   = document.getElementById('gp-tier-filter')?.value || '';
   const ctry   = document.getElementById('gp-country-filter')?.value || '';
+  const nat    = document.getElementById('gp-nationality-filter')?.value || '';
   const pos    = document.getElementById('gp-pos-filter')?.value || '';
   const fibaOnly = !!document.getElementById('gp-fiba-only')?.checked;
 
   const filtered = GLOBAL_PROS.filter(p => {
     if (tier && p.tier !== tier) return false;
     if (ctry && p.country !== ctry) return false;
+    if (nat  && p.nationality !== nat) return false;
     if (fibaOnly && !p.fibaEligible) return false;
     if (pos) {
       const pp = (p.pos || '').toLowerCase();
@@ -1895,21 +1963,23 @@ function renderGlobalPros() {
       if (pos === 'Center'  && !pp.includes('center'))  return false;
     }
     if (search) {
-      const blob = (p.name + ' ' + p.currentTeam + ' ' + p.country + ' ' + (p.college||'') + ' ' + (p.birthCity||'') + ' ' + p.league).toLowerCase();
+      const blob = (p.name + ' ' + p.currentTeam + ' ' + p.country + ' ' + (p.college||'') + ' ' + (p.birthCity||'') + ' ' + p.league + ' ' + (p.nationality||'')).toLowerCase();
       if (!blob.includes(search)) return false;
     }
     return true;
   });
 
-  // Summary
+  // Summary cards — now includes Canadian count prominently
+  const canadianCount = (typeof GLOBAL_PROS_STATS !== 'undefined' && GLOBAL_PROS_STATS.canadians) || GLOBAL_PROS.filter(p => p.isCanadian).length;
   const summary = document.getElementById('global-pros-summary');
   if (summary) {
     summary.innerHTML = `
       <div class="gp-summary">
         <div class="gp-stat"><div class="gp-stat-num">${filtered.length}</div><div class="gp-stat-lbl">Showing</div></div>
         <div class="gp-stat"><div class="gp-stat-num">${GLOBAL_PROS.length}</div><div class="gp-stat-lbl">Total in DB</div></div>
-        <div class="gp-stat"><div class="gp-stat-num">${GLOBAL_PROS_STATS ? Object.keys(GLOBAL_PROS_STATS.byCountry || {}).length : '?'}</div><div class="gp-stat-lbl">Countries</div></div>
-        <div class="gp-stat"><div class="gp-stat-num">${GLOBAL_PROS_STATS ? Object.keys(GLOBAL_PROS_STATS.byLeague || {}).length : '?'}</div><div class="gp-stat-lbl">Leagues</div></div>
+        <div class="gp-stat gp-stat-canada"><div class="gp-stat-num">🇨🇦 ${canadianCount}</div><div class="gp-stat-lbl">Canadians</div></div>
+        <div class="gp-stat"><div class="gp-stat-num">${typeof GLOBAL_PROS_STATS !== 'undefined' ? Object.keys(GLOBAL_PROS_STATS.byNationality || {}).length : '?'}</div><div class="gp-stat-lbl">Nationalities</div></div>
+        <div class="gp-stat"><div class="gp-stat-num">${typeof GLOBAL_PROS_STATS !== 'undefined' ? Object.keys(GLOBAL_PROS_STATS.byLeague || {}).length : '?'}</div><div class="gp-stat-lbl">Leagues</div></div>
       </div>
     `;
   }
@@ -1923,11 +1993,13 @@ function renderGlobalPros() {
 
   content.innerHTML = `
     <div class="gp-grid">
-      ${filtered.map(p => `
-        <div class="gp-card" data-player-name="${p.name}">
+      ${filtered.map(p => {
+        const flag = nationalityFlag(p.nationality);
+        return `
+        <div class="gp-card ${p.isCanadian ? 'is-canadian' : ''}" data-player-name="${p.name}">
           <div class="gp-avatar has-headshot">${avatarContent(p.name)}</div>
           <div class="gp-info">
-            <div class="gp-name">${p.name}</div>
+            <div class="gp-name">${flag ? `<span class="gp-flag" title="${p.nationality}">${flag}</span> ` : ''}${p.name}</div>
             <div class="gp-meta">${p.pos || '—'}${p.height ? ' · ' + p.height : ''}${p.birthCity ? ' · ' + p.birthCity : ''}</div>
             <div class="gp-team-line">
               <span class="gp-team">${p.currentTeam}</span>
@@ -1935,13 +2007,15 @@ function renderGlobalPros() {
             </div>
             <div class="gp-tags">
               <span class="gp-tag tier-${(p.tier || '').toLowerCase()}">${p.tier}</span>
-              <span class="gp-tag country">${p.country}</span>
+              ${p.nationality ? `<span class="gp-tag nationality">${flag} ${p.nationality}</span>` : ''}
+              ${p.country !== p.nationality ? `<span class="gp-tag country">plays in ${p.country}</span>` : ''}
               ${p.fibaEligible ? '<span class="gp-tag fiba">FIBA</span>' : ''}
               ${p.college ? `<span class="gp-tag college">${p.college}</span>` : ''}
             </div>
           </div>
         </div>
-      `).join('')}
+      `;
+      }).join('')}
     </div>
   `;
   requestAnimationFrame(() => addPlayerClickHandlers());

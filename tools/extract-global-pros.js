@@ -148,6 +148,34 @@ for (const file of cacheFiles) {
   // Skip NBA players — out of scope per user requirement
   if (leagueMeta.tier === 'NBA') { skipped++; continue; }
 
+  // Normalize nationality (cache files use "Canadian" or "Canada" interchangeably).
+  const nationalityRaw = (cache.nationality || '').trim();
+  const NATIONALITY_MAP = {
+    'canadian': 'Canadian', 'canada': 'Canadian',
+    'american': 'American', 'usa': 'American', 'us': 'American',
+    'spanish': 'Spanish', 'spain': 'Spanish',
+    'french': 'French', 'france': 'French',
+    'italian': 'Italian', 'italy': 'Italian',
+    'german': 'German', 'germany': 'German',
+    'greek': 'Greek', 'greece': 'Greek',
+    'lithuanian': 'Lithuanian', 'lithuania': 'Lithuanian',
+    'turkish': 'Turkish', 'turkey': 'Turkish',
+    'polish': 'Polish', 'poland': 'Polish',
+    'finnish': 'Finnish', 'finland': 'Finnish',
+    'portuguese': 'Portuguese', 'portugal': 'Portuguese',
+    'israeli': 'Israeli', 'israel': 'Israeli',
+    'serbian': 'Serbian', 'serbia': 'Serbian',
+    'croatian': 'Croatian', 'croatia': 'Croatian',
+    'slovenian': 'Slovenian', 'slovenia': 'Slovenian',
+    'bulgarian': 'Bulgarian', 'bulgaria': 'Bulgarian',
+    'romanian': 'Romanian', 'romania': 'Romanian',
+    'australian': 'Australian', 'australia': 'Australian',
+    'japanese': 'Japanese', 'japan': 'Japanese',
+    'mexican': 'Mexican', 'mexico': 'Mexican',
+    'argentinian': 'Argentinian', 'argentina': 'Argentinian'
+  };
+  const nationality = NATIONALITY_MAP[nationalityRaw.toLowerCase()] || nationalityRaw;
+
   players.push({
     slug: file.replace(/\.json$/, ''),
     name: cache.fullName,
@@ -158,15 +186,17 @@ for (const file of cacheFiles) {
     weightKg: cache.weightKg || '',
     birthdate: cache.birthdate || '',
     birthCity: cache.birthCity || '',
-    nationality: cache.nationality || '',
+    nationality,
+    nationalityRaw,    // keep raw value for debugging
     college: cache.college || '',
     highSchool: cache.highSchool || '',
     currentTeam: cache.currentTeam,
     leagueCode,
     league: leagueMeta.name,
-    country: leagueMeta.country,
+    country: leagueMeta.country,    // = where the player CURRENTLY PLAYS
     tier: leagueMeta.tier,
     fibaEligible: leagueMeta.fibaEligible,
+    isCanadian: nationality === 'Canadian',
     careerHistory: (cache.careerHistory || []).slice(-10),  // last 10 stops
     cachedAt: cache.cachedAt || null
   });
@@ -178,10 +208,14 @@ players.sort((a, b) => a.name.localeCompare(b.name));
 const byTier = {};
 const byCountry = {};
 const byLeague = {};
+const byNationality = {};
+let canadians = 0;
 players.forEach(p => {
   byTier[p.tier] = (byTier[p.tier] || 0) + 1;
   byCountry[p.country] = (byCountry[p.country] || 0) + 1;
   byLeague[p.league] = (byLeague[p.league] || 0) + 1;
+  if (p.nationality) byNationality[p.nationality] = (byNationality[p.nationality] || 0) + 1;
+  if (p.isCanadian) canadians++;
 });
 
 // Render JS
@@ -198,9 +232,11 @@ const GLOBAL_PROS = ${JSON.stringify(players, null, 2)};
 
 const GLOBAL_PROS_STATS = {
   total: ${players.length},
+  canadians: ${canadians},
   byTier: ${JSON.stringify(byTier, null, 2)},
   byCountry: ${JSON.stringify(byCountry, null, 2)},
-  byLeague: ${JSON.stringify(byLeague, null, 2)}
+  byLeague: ${JSON.stringify(byLeague, null, 2)},
+  byNationality: ${JSON.stringify(byNationality, null, 2)}
 };
 `;
 
