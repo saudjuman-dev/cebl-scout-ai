@@ -94,12 +94,14 @@ jobs:
           node tools/cache-health.js
 
       - name: Commit changes (if any)
+        id: commit_step
         run: |
           git config user.name  "Hoops Intelligence Bot"
           git config user.email "actions@github.com"
           git add data/cache/ global-pros.js tools/audit-report.json tools/cache-health-report.json
           if git diff --cached --quiet; then
             echo "✅ No data changes — nothing to commit"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
           else
             CHANGED=$(git diff --cached --numstat | wc -l)
             git commit -m "🤖 Auto-refresh player data ($CHANGED files)" \
@@ -114,7 +116,18 @@ jobs:
               sleep 10
             done
             echo "✅ Pushed refreshed data"
+            echo "committed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger GitHub Pages deploy (if data committed)
+        # Required because GITHUB_TOKEN-based pushes don't auto-trigger
+        # other workflows. Without this, fresh data won't go live until
+        # the next manual deploy.
+        if: steps.commit_step.outputs.committed == 'true'
+        run: |
+          gh workflow run static.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload audit reports as artifacts
         if: always()
