@@ -23,11 +23,30 @@ function _enc(s) { return btoa(unescape(encodeURIComponent(s))).split('').revers
 function _dec(s) { try { return decodeURIComponent(escape(atob(s.split('').reverse().join('')))); } catch { return s; } }
 
 const AUTH = {
-  // Obfuscated admin credentials (not in plaintext)
-  _ak: _enc('ceblgm'),
-  _ap: _enc('Sc0ut!2026$BHB'),
-  get ADMIN_USER() { return _dec(this._ak); },
-  get ADMIN_PASS() { return _dec(this._ap); },
+  // Obfuscated admin credentials (not in plaintext).
+  // Add new admins by appending an entry — username, password, name, email.
+  // Login matches if (username, password) matches any entry in this list.
+  _ADMIN_LIST: [
+    {
+      user: _enc('ceblgm'),
+      pass: _enc('Sc0ut!2026$BHB'),
+      name: 'Admin',
+      email: 'admin@hoopsintelligence.com'
+    },
+    {
+      user: _enc('justinm'),
+      pass: _enc('Mazzulla!2026$Hoops'),
+      name: 'Justin Mazzulla',
+      email: 'justin.mazzulla@hoopsintelligence.com'
+    }
+  ],
+  // Legacy getters — return the first admin (kept for any external references).
+  get ADMIN_USER() { return _dec(this._ADMIN_LIST[0].user); },
+  get ADMIN_PASS() { return _dec(this._ADMIN_LIST[0].pass); },
+  // Find a matching admin entry, or null
+  _matchAdmin(user, pass) {
+    return this._ADMIN_LIST.find(a => _dec(a.user) === user && _dec(a.pass) === pass) || null;
+  },
   PREMIUM_FEATURES: ['cap-tools', 'player-profile', 'medical-history', 'advanced', 'watchlist'],
   PRICE_MONTHLY: 14.99,
   PRICE_ANNUAL: 149,
@@ -94,11 +113,12 @@ const AUTH = {
   login(emailOrUser, password) {
     const fp = getDeviceFingerprint();
 
-    // Admin check
-    if (emailOrUser === this.ADMIN_USER && password === this.ADMIN_PASS) {
+    // Admin check — matches any entry in _ADMIN_LIST
+    const adminMatch = this._matchAdmin(emailOrUser, password);
+    if (adminMatch) {
       const session = {
-        name: 'Admin',
-        email: 'admin@hoopsintelligence.com',
+        name: adminMatch.name,
+        email: adminMatch.email,
         isAdmin: true,
         isPaid: true,
         views: 0,
