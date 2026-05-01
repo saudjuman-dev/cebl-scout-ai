@@ -233,37 +233,60 @@ async function getTeamRoster(teamUrl) {
   return players;
 }
 
-// ---- Player → cache JSON ----
-async function fetchPlayer(playerUrl) {
-  const html = await fetchPage(playerUrl);
+// ---- Parse a player profile HTML into a cache object ----
+// Exported so refetch-missing-bio.js can reuse the parsing logic.
+function parsePlayerProfile(html, playerUrl) {
   const $ = cheerio.load(html);
-  const bodyText = $('body').text();
+  const bodyText = $('body').text().replace(/\s+/g, ' ').trim();
 
   const cache = {
     fullName: $('h1').first().text().replace(/basketball profile/i, '').trim(),
     sourceUrl: playerUrl,
   };
 
-  const bioMatch = bodyText.match(/is\s+(\w+)\s+basketball player born\s+(?:on\s+)?([A-Z][a-z]+ \d{1,2},?\s*\d{4})\s+in\s+([^.]+)/i);
-  if (bioMatch) {
-    cache.nationality = bioMatch[1];
-    cache.birthdate = bioMatch[2].trim();
-    cache.birthCity = bioMatch[3].trim();
+  // Nationality — "Name is Slovenian basketball player" — independent regex
+  const natMatch = bodyText.match(/\bis\s+([A-Z][a-zA-Z]{1,30}?)\s+basketball\s+player\b/i);
+  if (natMatch) cache.nationality = natMatch[1];
+
+  // Birthdate — supports "January 26 2001", "January 26, 2001", "Jan.26, 2001"
+  const dateMatch = bodyText.match(/born\s+(?:on\s+)?([A-Z][a-z]+\.?\s*\d{1,2}[,]?\s*\d{4})/i);
+  if (dateMatch) cache.birthdate = dateMatch[1].replace(/\s+/g, ' ').replace(/\./g, '. ').replace(/\s+/g, ' ').trim();
+
+  // Birth city — "born ... in Jesenice" or FAQ "X was born in Jesenice (SLO)"
+  const cityMatch = bodyText.match(/born\s+(?:on\s+[A-Z][a-z]+\.?\s*\d{1,2}[,]?\s*\d{4}\s+)?in\s+([A-Z][^.,()]{1,60}?)(?=\s*[.,(]|\s+is\s|\s+was\s|$)/);
+  if (cityMatch) cache.birthCity = cityMatch[1].trim();
+  // Fallback FAQ pattern: "Name was born in [City] (SLO)"
+  if (!cache.birthCity) {
+    const faqCity = bodyText.match(/was\s+born\s+in\s+([A-Z][^.,()]{1,60}?)\s*\(/);
+    if (faqCity) cache.birthCity = faqCity[1].trim();
   }
 
+  // Height — "6'6\"" or "6'6" (with optional cm)
   const hwMatch = bodyText.match(/(\d+['']\d+[''"]?)\s*(?:\((\d+)\s*cm\))?/);
   if (hwMatch) {
     cache.height = hwMatch[1].replace(/['']/g, "'").replace(/[""]/g, '"');
     if (hwMatch[2]) cache.heightCm = hwMatch[2];
   }
+
+  // Weight in lbs (kg)
   const wtMatch = bodyText.match(/([\d.]+)\s*lbs?\s*\(([\d.]+)\s*kg\)/i);
   if (wtMatch) { cache.weight = wtMatch[1]; cache.weightKg = wtMatch[2]; }
 
+  // Position
   const posMatch = bodyText.match(/\d+['']\d+[''"]?\s+(guard|forward|center|point guard|shooting guard|small forward|power forward)/i);
   if (posMatch) cache.position = posMatch[1];
 
+  // College / University
   const collegeMatch = bodyText.match(/(?:University|College)\s+(?:of\s+)?[\w\s]+/i);
   if (collegeMatch) cache.college = collegeMatch[0].trim();
+
+  return { cache, $, bodyText };
+}
+
+// ---- Player → cache JSON ----
+async function fetchPlayer(playerUrl) {
+  const html = await fetchPage(playerUrl);
+  const { cache, $, bodyText } = parsePlayerProfile(html, playerUrl);
 
   // Current team & league from current-season summary
   const summaryTable = $('table').toArray().find(t => $(t).find('tr').first().text().trim() === 'Summary');

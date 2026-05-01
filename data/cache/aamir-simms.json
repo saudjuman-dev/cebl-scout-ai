@@ -86,10 +86,13 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:46:30.024Z",
+  "_lastVerified": "2026-05-01T01:29:03.931Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:30.024Z"
+  "cachedAt": "2026-04-30T19:46:30.024Z",
+  "nationality": "USA",
+  "birthdate": "February 17 1999",
+  "birthCity": "Palmyra"
 }

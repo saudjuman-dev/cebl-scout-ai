@@ -155,10 +155,12 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-04-30T19:54:25.203Z",
+  "_lastVerified": "2026-05-01T01:34:29.852Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:54:25.203Z"
+  "cachedAt": "2026-04-30T19:54:25.203Z",
+  "birthdate": "December 5 1985",
+  "birthCity": "Richmond"
 }
