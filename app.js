@@ -74,72 +74,147 @@ function avatarContent(name) {
   return getInitials(name);
 }
 
+// ===== Salary defaults from contract type (used when a new signing has no curated salary) =====
+const _CONTRACT_DEFAULT_SALARY = {
+  designated: 1500,
+  standard: 800,
+  developmental: 400,
+  dev: 400
+};
+function _defaultSalaryFor(type) {
+  const t = (type || '').toLowerCase();
+  if (t.includes('designated'))    return _CONTRACT_DEFAULT_SALARY.designated;
+  if (t.includes('developmental')) return _CONTRACT_DEFAULT_SALARY.developmental;
+  if (t.includes('dev'))           return _CONTRACT_DEFAULT_SALARY.dev;
+  return _CONTRACT_DEFAULT_SALARY.standard;
+}
+
+// Build a fully-merged roster for ANY CEBL team using:
+//   1) live CEBL.ca signings as the "is on the team" canonical set
+//   2) honeyBadgersRoster (Brampton only) — curated salary/character/notes
+//   3) canadiansPro / importTargets — bio + stats overlay
+//   4) sensible defaults for brand-new signings without curated data
+function getMergedTeamRoster(teamName) {
+  const norm = (s) => (s || '').toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z\s]/g, ' ').replace(/\s+/g, ' ').trim();
+
+  const fresh = (typeof window !== 'undefined' && window.CEBL_ROSTERS_2026 && window.CEBL_ROSTERS_2026[teamName]) || [];
+  if (!fresh.length) {
+    // Legacy fallback: use honeyBadgersRoster for Brampton only, otherwise empty
+    if (teamName === 'Brampton Honey Badgers' && typeof honeyBadgersRoster !== 'undefined') {
+      return honeyBadgersRoster.map(p => ({ ...p }));
+    }
+    return [];
+  }
+
+  return fresh.map(sig => {
+    const k = norm(sig.name);
+    const hbHit  = (teamName === 'Brampton Honey Badgers' && typeof honeyBadgersRoster !== 'undefined')
+                    ? honeyBadgersRoster.find(p => norm(p.name) === k) : null;
+    const proHit = (typeof canadiansPro  !== 'undefined') ? canadiansPro.find(p  => norm(p.name) === k) : null;
+    const impHit = (typeof importTargets !== 'undefined') ? importTargets.find(p => norm(p.name) === k) : null;
+    const isDev = /Dev/i.test(sig.type || '');
+
+    // Determine nationality, checking multiple sources in order of authority
+    let nationality = '';
+    let isCanadian = false;
+    if (hbHit?.nationality) {
+      nationality = hbHit.nationality;
+      isCanadian = nationality === 'CAN';
+    } else if (proHit) {
+      nationality = 'CAN';
+      isCanadian = true;
+    } else if (impHit?.nationality) {
+      nationality = impHit.nationality;
+      isCanadian = /CAN/i.test(nationality);
+    } else if (typeof window !== 'undefined' && typeof window.ncaaPlayerByName === 'function' && window.ncaaPlayerByName(sig.name)) {
+      // NCAA D1 Canadians lookup catches players we haven't curated
+      nationality = 'CAN';
+      isCanadian = true;
+    } else if (typeof GLOBAL_PROS !== 'undefined' && Array.isArray(GLOBAL_PROS)) {
+      // Global pros database has nationality for ~3000 international players
+      const gp = GLOBAL_PROS.find(p => p.name && p.name.toLowerCase() === sig.name.toLowerCase());
+      if (gp) {
+        nationality = gp.nationality || '';
+        isCanadian = /Canadian|Canada/i.test(nationality);
+      }
+    }
+
+    // Determine position (from any source)
+    const pos = hbHit?.pos || proHit?.pos || impHit?.pos || sig.pos || '—';
+
+    // Determine salary (curated wins; otherwise default by contract type)
+    let salary = hbHit?.salary;
+    if (typeof salary !== 'number') {
+      // Try parsing curated string salary like "$800-$1,000"
+      const curatedRange = proHit?.salary || impHit?.salary;
+      if (curatedRange) {
+        const nums = (curatedRange.match(/\d[\d,]*/g) || []).map(n => parseInt(n.replace(/,/g, ''), 10));
+        if (nums.length) salary = Math.round((nums[0] + nums[nums.length - 1]) / 2);
+      }
+    }
+    if (typeof salary !== 'number') salary = _defaultSalaryFor(sig.type);
+
+    // Determine type-classification (Canadian/Import/Dev/Designated)
+    let typeClass = 'Import';
+    if (isDev) typeClass = 'Dev (Off-Cap)';
+    else if (/Designated/i.test(sig.type)) typeClass = 'Designated';
+    else if (isCanadian) typeClass = 'Canadian';
+
+    // Stats string
+    const stats = hbHit?.stats
+              || (proHit && proHit.ppg !== undefined ? `${proHit.ppg} PPG, ${proHit.rpg} RPG, ${proHit.apg} APG (CEBL/overseas)` : '')
+              || (impHit && impHit.ppg !== undefined ? `${impHit.ppg} PPG, ${impHit.rpg} RPG, ${impHit.apg} APG` : '')
+              || (sig.date ? `Signed ${_shortDate(sig.date)}` : '');
+
+    return {
+      name: sig.name,
+      pos,
+      nationality,
+      type: typeClass,
+      contractType: sig.type,
+      signingDate: sig.date,
+      status: 'Signed',
+      salary,
+      stats,
+      note: hbHit?.note || proHit?.note || impHit?.note || sig.type || '',
+      character: hbHit?.character || '',
+      hometown: hbHit?.hometown || proHit?.hometown || impHit?.hometown || '',
+      ht: proHit?.ht || impHit?.ht || '',
+      _isCanadian: isCanadian,
+      _isDev: isDev,
+      _hasCurated: !!(hbHit || proHit || impHit)
+    };
+  });
+}
+
 // ===== Get the user's home-team roster (team-aware) =====
 function getHomeTeamRoster() {
   const homeTeamId = (typeof ONBOARDING !== 'undefined') ? ONBOARDING.getHomeTeam() : null;
   const teamMeta = homeTeamId && typeof ONBOARDING !== 'undefined'
     ? ONBOARDING.CEBL_TEAMS.find(t => t.id === homeTeamId) : null;
 
-  // Brampton: rich data from honeyBadgersRoster (per-game salary, character notes)
+  // Brampton: live 2026 signings with honeyBadgersRoster overlay (salary/character)
   if (!teamMeta || teamMeta.id === 'brampton') {
+    const merged = getMergedTeamRoster('Brampton Honey Badgers');
     return {
       teamName: 'Brampton Honey Badgers',
       emoji: '🦡',
       isFullData: true,
-      players: typeof honeyBadgersRoster !== 'undefined' ? honeyBadgersRoster : []
+      _source: 'cebl.ca + curated',
+      players: merged
     };
   }
 
-  // Other teams: prefer fresh CEBL.ca-sourced roster (auto-refreshed weekly).
-  // If unavailable for some reason, fall back to legacy leagueSignings.
-  const fresh = (typeof window !== 'undefined' && window.CEBL_ROSTERS_2026 && window.CEBL_ROSTERS_2026[teamMeta.name]) || null;
-
-  if (fresh && fresh.length) {
-    return {
-      teamName: teamMeta.name,
-      emoji: teamMeta.emoji,
-      isFullData: false,
-      _source: 'cebl.ca',
-      players: fresh.map(s => {
-        // Layer in bio from canadiansPro / importTargets when we have it
-        const k = (s.name || '').toLowerCase();
-        const proHit = (typeof canadiansPro   !== 'undefined') ? canadiansPro.find(p   => p.name.toLowerCase() === k) : null;
-        const impHit = (typeof importTargets  !== 'undefined') ? importTargets.find(p  => p.name.toLowerCase() === k) : null;
-        const bio = proHit || impHit || {};
-        return {
-          name: s.name,
-          pos: bio.pos || '—',
-          nationality: bio.nationality || (proHit ? 'CAN' : ''),
-          type: s.type,
-          stats: (bio.ppg !== undefined && bio.ppg !== '') ? `${bio.ppg} PPG · ${bio.rpg} RPG · ${bio.apg} APG` : (s.date ? `Signed ${_shortDate(s.date)}` : ''),
-          note: bio.note || `${s.type}${s.date ? ' · ' + _shortDate(s.date) : ''}`,
-          salary: null,
-          hometown: bio.hometown || '',
-          ht: bio.ht || ''
-        };
-      })
-    };
-  }
-
-  // Legacy fallback (manual leagueSignings)
-  const signings = typeof leagueSignings !== 'undefined' ? leagueSignings[teamMeta.name] : null;
-  if (!signings) {
-    return { teamName: teamMeta.name, emoji: teamMeta.emoji, isFullData: false, players: [] };
-  }
+  // Other teams: use the unified merged-roster helper.
+  const merged = getMergedTeamRoster(teamMeta.name);
   return {
     teamName: teamMeta.name,
     emoji: teamMeta.emoji,
     isFullData: false,
-    _source: 'legacy',
-    players: signings.players.map(p => ({
-      name: p.name,
-      pos: p.pos,
-      nationality: '',
-      type: p.type,
-      stats: p.detail,
-      note: p.detail,
-      salary: null
-    }))
+    _source: merged.length ? 'cebl.ca' : 'empty',
+    players: merged
   };
 }
 
@@ -187,26 +262,34 @@ function renderHBRoster() {
 
 // ===== Animate Cap Bar =====
 function animateCapBar() {
-  const totalUsed = honeyBadgersRoster.reduce((sum, p) => sum + p.salary, 0);
+  // Use the user's home team's MERGED roster (live signings + curated salary)
+  const home = getHomeTeamRoster();
+  const players = home.players || [];
+  // Dev/Off-Cap and Designated don't count against the cap
+  const onCap = players.filter(p => !/dev/i.test(p.type || '') && !/designated/i.test(p.type || ''));
+  const totalUsed = onCap.reduce((sum, p) => sum + (p.salary || 0), 0);
   const pct = Math.min(100, (totalUsed / CEBL_CONFIG.perGameCap) * 100);
 
   setTimeout(() => {
-    document.getElementById('cap-fill').style.width = pct + '%';
-    document.getElementById('cap-used-label').textContent = '$' + totalUsed.toLocaleString() + ' used';
+    const fill = document.getElementById('cap-fill');
+    const used = document.getElementById('cap-used-label');
+    if (fill) fill.style.width = pct + '%';
+    if (used) used.textContent = '$' + totalUsed.toLocaleString() + ' used';
   }, 500);
 
   const details = document.getElementById('cap-details');
-  const canadians = honeyBadgersRoster.filter(p => p.nationality === 'CAN');
-  const imports = honeyBadgersRoster.filter(p => p.nationality !== 'CAN');
+  if (!details) return;
+  const canadians = players.filter(p => p._isCanadian || p.nationality === 'CAN');
+  const imports = players.filter(p => !(p._isCanadian || p.nationality === 'CAN') && !/dev/i.test(p.type || ''));
   const remaining = CEBL_CONFIG.perGameCap - totalUsed;
 
   details.innerHTML = `
-    <div class="cap-detail-item"><span class="cdl">Roster Size</span><span class="cdv">${honeyBadgersRoster.length} / 14</span></div>
+    <div class="cap-detail-item"><span class="cdl">Roster Size</span><span class="cdv">${players.length} / 14</span></div>
     <div class="cap-detail-item"><span class="cdl">Canadians</span><span class="cdv">${canadians.length} / 6+ min</span></div>
     <div class="cap-detail-item"><span class="cdl">Imports</span><span class="cdv">${imports.length} / 5 max</span></div>
     <div class="cap-detail-item"><span class="cdl">Cap Used</span><span class="cdv">$${totalUsed.toLocaleString()}</span></div>
     <div class="cap-detail-item"><span class="cdl">Cap Remaining</span><span class="cdv" style="color: ${remaining > 0 ? '#81C784' : '#EF9A9A'}">$${remaining.toLocaleString()}</span></div>
-    <div class="cap-detail-item"><span class="cdl">Spots Open</span><span class="cdv">${14 - honeyBadgersRoster.length}</span></div>
+    <div class="cap-detail-item"><span class="cdl">Spots Open</span><span class="cdv">${Math.max(0, 14 - players.length)}</span></div>
   `;
 }
 
@@ -334,30 +417,66 @@ function renderImports() {
   }).join('');
 }
 
-// ===== Render Signings =====
+// ===== Render Signings (League Signings tab) =====
+// Sources fresh data from CEBL.ca via CEBL_ROSTERS_2026, falls back to legacy
+// leagueSignings map only if CEBL_ROSTERS_2026 isn't loaded for some reason.
 function renderSignings() {
   const container = document.getElementById('signings-grid');
-  container.innerHTML = Object.entries(leagueSignings).map(([team, data]) => `
-    <div class="signing-team-section" data-team="${team}">
-      <div class="signing-team-header" onclick="this.parentElement.classList.toggle('collapsed')" style="border-left: 4px solid ${data.color}">
-        ${typeof teamLogoBadge === 'function' ? teamLogoBadge(team, data.emoji, data.color, data.bg) : `<div class="signing-team-logo" style="background: ${data.bg}; border: 1px solid ${data.color}">${data.emoji}</div>`}
-        <span class="signing-team-name ${team === 'Brampton Honey Badgers' ? 'hb' : ''}">${team}</span>
-        <span class="signing-team-count">${data.players.length} player${data.players.length !== 1 ? 's' : ''}</span>
+  if (!container) return;
+
+  // Live freshness pill
+  const lastScraped = (typeof window !== 'undefined' && window.CEBL_SIGNINGS_META && window.CEBL_SIGNINGS_META.lastScraped) || null;
+  const freshness = lastScraped
+    ? `<div class="tr-freshness" style="margin-bottom:1rem">📡 Live from cebl.ca · last refreshed ${typeof _relTime === 'function' ? _relTime(lastScraped) : lastScraped}</div>`
+    : '';
+
+  // Iterate canonical team list to keep order consistent
+  const teamsList = (typeof CEBL_TEAMS_2026 !== 'undefined') ? CEBL_TEAMS_2026 : [];
+  // Legacy meta lookup for color/bg only — display data comes from live signings
+  const legacyMeta = (typeof leagueSignings !== 'undefined') ? leagueSignings : {};
+
+  container.innerHTML = freshness + teamsList.map(team => {
+    const meta = legacyMeta[team.name] || {};
+    const color = meta.color || team.color || '#D4AF37';
+    const bg    = meta.bg    || (color + '20');
+    const emoji = meta.emoji || team.emoji || '🏀';
+    // Get the merged 2026 roster — already includes contract type + signing date
+    const players = getMergedTeamRoster(team.name);
+
+    return `
+    <div class="signing-team-section" data-team="${team.name}">
+      <div class="signing-team-header" onclick="this.parentElement.classList.toggle('collapsed')" style="border-left: 4px solid ${color}">
+        ${typeof teamLogoBadge === 'function' ? teamLogoBadge(team.name, emoji, color, bg) : `<div class="signing-team-logo" style="background: ${bg}; border: 1px solid ${color}">${emoji}</div>`}
+        <span class="signing-team-name ${team.name === 'Brampton Honey Badgers' ? 'hb' : ''}">${team.name}</span>
+        <span class="signing-team-count">${players.length} player${players.length !== 1 ? 's' : ''}</span>
       </div>
       <div class="signing-players">
-        ${data.players.map(p => `
-          <div class="signing-player" data-player-name="${p.name}">
-            <div class="sp-avatar has-headshot">${avatarContent(p.name)}</div>
-            <div class="sp-info">
-              <div class="sp-name">${p.name}</div>
-              <div class="sp-meta">${p.pos} | ${p.detail}</div>
+        ${players.length === 0 ? '<div class="empty-roster" style="padding:0.8rem">No 2026 signings tracked yet for this team.</div>' : players.map(p => {
+          const isDev = p._isDev || /Dev/i.test(p.contractType || '');
+          const dateLine = p.signingDate ? `Signed ${typeof _shortDate === 'function' ? _shortDate(p.signingDate) : p.signingDate}` : '';
+          const stats = p.stats && p.stats !== dateLine ? p.stats : '';
+          // Choose chip color: Dev = blue tag, Re-signed = gold, New = green
+          let chipClass = 'type-new';
+          let chipText = 'Standard';
+          if (isDev) { chipClass = 'type-draft'; chipText = 'Dev'; }
+          else if (/Designated/i.test(p.contractType || '')) { chipClass = 'type-re'; chipText = 'Designated'; }
+          // Compose meta line
+          const metaLine = [p.pos, p.hometown || p.nationality, dateLine].filter(Boolean).join(' · ');
+          return `
+            <div class="signing-player" data-player-name="${p.name}">
+              <div class="sp-avatar has-headshot">${avatarContent(p.name)}</div>
+              <div class="sp-info">
+                <div class="sp-name">${p._isCanadian ? '🇨🇦 ' : ''}${p.name}</div>
+                <div class="sp-meta">${metaLine}${stats ? ' · ' + stats : ''}</div>
+              </div>
+              <span class="sp-type ${chipClass}">${chipText}</span>
             </div>
-            <span class="sp-type ${p.type.includes('New') ? 'type-new' : p.type.includes('Re') ? 'type-re' : 'type-draft'}">${p.type}</span>
-          </div>
-        `).join('')}
+          `;
+        }).join('')}
       </div>
     </div>
-  `).join('');
+    `;
+  }).join('');
 }
 
 // ===== Filter Tables =====
@@ -418,12 +537,22 @@ function filterTable(type) {
 }
 
 // ===== Cap Calculator =====
+// Default slots seed from the user's home-team MERGED roster (live signings).
+// First 12 active players go in slots; if fewer than 12, fill with empties.
 function getDefaultSlots() {
+  const home = getHomeTeamRoster();
+  const players = (home.players || []).slice(0, 12);
   const slots = [];
-  honeyBadgersRoster.forEach((p, i) => {
-    slots.push({ num: i + 1, name: p.name, type: p.type, salary: p.salary });
+  players.forEach((p, i) => {
+    // Cap-calc dropdown only knows: Canadian / Import / Dev (Off-Cap) / Designated / TBD
+    let calcType = 'Import';
+    if (/dev/i.test(p.type || ''))            calcType = 'Dev (Off-Cap)';
+    else if (/designated/i.test(p.type || ''))calcType = 'Designated';
+    else if (p._isCanadian || p.nationality === 'CAN') calcType = 'Canadian';
+    const salary = typeof p.salary === 'number' ? p.salary : _defaultSalaryFor(p.contractType || p.type);
+    slots.push({ num: i + 1, name: p.name, type: calcType, salary });
   });
-  for (let i = honeyBadgersRoster.length; i < 12; i++) {
+  for (let i = players.length; i < 12; i++) {
     slots.push({ num: i + 1, name: '', type: 'TBD', salary: 400 });
   }
   return slots;
