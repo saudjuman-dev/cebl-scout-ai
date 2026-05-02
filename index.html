@@ -367,6 +367,11 @@
         Watchlist
         <span class="pro-badge" id="watch-pro-badge">PRO</span>
       </button>
+      <button class="nav-tab mode-gm" data-tab="roster-builder" onclick="switchTab('roster-builder');renderRosterBuilder()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="8.5" cy="7" r="4"/><path d="M20 8v6M23 11h-6"/></svg>
+        Roster Builder
+        <span class="pro-badge">PRO</span>
+      </button>
       <button class="nav-tab mode-gm" data-tab="cap-tools" onclick="switchTab('cap-tools')">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
         Cap Calculator
@@ -638,6 +643,72 @@
         </div>
       </div>
       <div class="signings-grid" id="signings-grid"></div>
+    </section>
+
+    <!-- ROSTER BUILDER TAB (GM/Coach mode) -->
+    <section id="tab-roster-builder" class="tab-content">
+      <div class="tab-header-row">
+        <div>
+          <h2>Custom Roster Builder</h2>
+          <p class="tab-subtitle">Draft your own 14-man roster, save privately, share as PDF. Players persist locally per device.</p>
+        </div>
+        <div class="rb-toolbar">
+          <select id="rb-team-select" class="rb-select" onchange="rbSelectTeam(this.value)">
+            <option value="">— Pick a CEBL team to start —</option>
+          </select>
+          <button class="rb-btn rb-btn-primary" onclick="rbCreateCustom()">+ New Custom Roster</button>
+          <button class="rb-btn" onclick="rbExportPDF()" id="rb-export-btn" disabled>📄 Export PDF</button>
+        </div>
+      </div>
+
+      <div id="rb-empty" class="rb-empty">
+        <div class="rb-empty-icon">📋</div>
+        <h3>Build your scouting board</h3>
+        <p>Pick a CEBL team to start with their current 2026 roster, or create a blank custom roster from scratch. Add up to 14 players (9 standard + 5 import + 3 dev).</p>
+        <p class="rb-empty-hint">All work saves automatically to <em>this device</em>. Use Export PDF to share with staff.</p>
+      </div>
+
+      <div id="rb-active" class="rb-active" style="display:none">
+        <div class="rb-header">
+          <input type="text" id="rb-name" class="rb-name-input" placeholder="Roster name" oninput="rbRename(this.value)" />
+          <div class="rb-meta">
+            <span class="rb-pill" id="rb-cap-pill">$0 / $8,000 cap</span>
+            <span class="rb-pill" id="rb-imports-pill">0 / 5 imports</span>
+            <span class="rb-pill" id="rb-canadians-pill">0 Canadians</span>
+            <span class="rb-pill" id="rb-size-pill">0 / 14 spots</span>
+            <button class="rb-btn rb-btn-danger" onclick="rbDeleteRoster()">🗑 Delete</button>
+          </div>
+        </div>
+
+        <div class="rb-grid">
+          <div class="rb-roster-panel">
+            <h3>Your Roster</h3>
+            <div id="rb-slots" class="rb-slots"></div>
+            <div class="rb-summary" id="rb-summary"></div>
+          </div>
+
+          <div class="rb-pool-panel">
+            <div class="rb-pool-header">
+              <h3>Add Players</h3>
+              <input type="text" id="rb-search" class="rb-search" placeholder="Search by name…" oninput="rbFilterPool(this.value)" />
+              <select id="rb-pool-source" class="rb-select" onchange="rbRenderPool()">
+                <option value="all">All eligible (Canadians + Imports + NCAA)</option>
+                <option value="canadians">Canadian Pros only</option>
+                <option value="imports">Import Targets only</option>
+                <option value="ncaa">NCAA D1 Canadians</option>
+                <option value="cebl">Currently signed (any CEBL team)</option>
+              </select>
+            </div>
+            <div id="rb-pool" class="rb-pool"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Saved rosters list -->
+      <div class="rb-saved-section" id="rb-saved-section" style="display:none">
+        <h3>📂 Saved Rosters</h3>
+        <div id="rb-saved-list" class="rb-saved-list"></div>
+      </div>
     </section>
 
     <!-- CAP CALCULATOR TAB -->
@@ -930,6 +1001,7 @@
   <script src="cebl-records.js"></script>
   <script src="global-pros.js"></script>
   <script src="cebl-signings-runtime.js"></script>
+  <script src="ncaa-canadians-runtime.js"></script>
   <script src="team-logos.js"></script>
   <script src="player-headshots.js"></script>
   <script src="onboarding.js"></script>

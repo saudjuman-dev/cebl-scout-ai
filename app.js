@@ -14,8 +14,30 @@ function switchTab(tabId) {
   document.querySelector(`[data-tab="${tabId}"]`).classList.add('active');
 }
 
+// Sync the dashboard stat counters with live data BEFORE animating them.
+// Each .stat-number can carry data-source="ncaa|pros|teams|signings" to bind
+// to a runtime counter; falls back to the original data-count.
+function syncDashboardCounters() {
+  const sources = {
+    ncaa:     () => (typeof window !== 'undefined' && window.NCAA_CANADIANS_META) ? window.NCAA_CANADIANS_META.count : null,
+    pros:     () => (typeof canadiansPro !== 'undefined') ? canadiansPro.length : null,
+    teams:    () => 10,
+    signings: () => (typeof window !== 'undefined' && window.CEBL_SIGNINGS) ? window.CEBL_SIGNINGS.length : null
+  };
+  document.querySelectorAll('.stat-number').forEach(el => {
+    const label = el.parentElement?.querySelector('.stat-label')?.textContent.toLowerCase() || '';
+    let val = null;
+    if (label.includes('ncaa'))               val = sources.ncaa();
+    else if (label.includes('canadians playing pro')) val = sources.pros();
+    else if (label.includes('cebl teams'))    val = sources.teams();
+    else if (label.includes('signings'))      val = sources.signings();
+    if (val != null) el.setAttribute('data-count', String(val));
+  });
+}
+
 // Animate stat counters with ease-out + thousand-separators (cinematic)
 function animateCounters() {
+  syncDashboardCounters();   // bind real data first
   document.querySelectorAll('.stat-number').forEach(el => {
     const target = parseInt(el.getAttribute('data-count')) || 0;
     if (!target) return;
@@ -68,16 +90,47 @@ function getHomeTeamRoster() {
     };
   }
 
-  // Other teams: pull from leagueSignings (announcement-style data)
+  // Other teams: prefer fresh CEBL.ca-sourced roster (auto-refreshed weekly).
+  // If unavailable for some reason, fall back to legacy leagueSignings.
+  const fresh = (typeof window !== 'undefined' && window.CEBL_ROSTERS_2026 && window.CEBL_ROSTERS_2026[teamMeta.name]) || null;
+
+  if (fresh && fresh.length) {
+    return {
+      teamName: teamMeta.name,
+      emoji: teamMeta.emoji,
+      isFullData: false,
+      _source: 'cebl.ca',
+      players: fresh.map(s => {
+        // Layer in bio from canadiansPro / importTargets when we have it
+        const k = (s.name || '').toLowerCase();
+        const proHit = (typeof canadiansPro   !== 'undefined') ? canadiansPro.find(p   => p.name.toLowerCase() === k) : null;
+        const impHit = (typeof importTargets  !== 'undefined') ? importTargets.find(p  => p.name.toLowerCase() === k) : null;
+        const bio = proHit || impHit || {};
+        return {
+          name: s.name,
+          pos: bio.pos || '—',
+          nationality: bio.nationality || (proHit ? 'CAN' : ''),
+          type: s.type,
+          stats: (bio.ppg !== undefined && bio.ppg !== '') ? `${bio.ppg} PPG · ${bio.rpg} RPG · ${bio.apg} APG` : (s.date ? `Signed ${_shortDate(s.date)}` : ''),
+          note: bio.note || `${s.type}${s.date ? ' · ' + _shortDate(s.date) : ''}`,
+          salary: null,
+          hometown: bio.hometown || '',
+          ht: bio.ht || ''
+        };
+      })
+    };
+  }
+
+  // Legacy fallback (manual leagueSignings)
   const signings = typeof leagueSignings !== 'undefined' ? leagueSignings[teamMeta.name] : null;
   if (!signings) {
     return { teamName: teamMeta.name, emoji: teamMeta.emoji, isFullData: false, players: [] };
   }
-
   return {
     teamName: teamMeta.name,
     emoji: teamMeta.emoji,
     isFullData: false,
+    _source: 'legacy',
     players: signings.players.map(p => ({
       name: p.name,
       pos: p.pos,
@@ -2540,6 +2593,469 @@ function applyFreshTeams() {
 }
 applyFreshTeams();
 _initSigningsTicker();
+
+// ===== Merge fresh NCAA D1 Canadians into ncaaCanadians =====
+// Existing ncaaCanadians is the curated/scouted subset (~24 players, with
+// fit/draftEligible notes). NCAA_CANADIANS is the full 140+ scraped roster.
+// We APPEND any fresh entries that aren't already in the curated list, so
+// the app shows everyone but preserves the scouting overlay on the curated
+// 24. Each new entry gets sensible defaults.
+function mergeFreshNCAA() {
+  if (typeof ncaaCanadians === 'undefined' || !Array.isArray(ncaaCanadians)) return 0;
+  if (typeof window === 'undefined' || !window.NCAA_CANADIANS) return 0;
+
+  const norm = (s) => (s || '').toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z\s]/g, ' ')
+    .replace(/\s+/g, ' ').trim();
+
+  const have = new Set(ncaaCanadians.map(p => norm(p.name)));
+  let added = 0;
+  for (const fresh of window.NCAA_CANADIANS) {
+    if (have.has(norm(fresh.name))) continue;
+    ncaaCanadians.push({
+      name: fresh.name,
+      pos: fresh.pos || 'F',
+      ht: '—',
+      school: fresh.school,
+      conf: '',                           // unknown from NPH list
+      classYear: fresh.year || 'Unknown',
+      hometown: fresh.hometown || 'Canada',
+      ppg: '—',
+      rpg: '—',
+      apg: '—',
+      fit: 'TBD',
+      draftEligible: '',
+      note: '',
+      _autoMerged: true                   // flag so renderers can style differently
+    });
+    added++;
+  }
+  if (added > 0) console.log(`✅ Merged ${added} fresh NCAA Canadians into curated list (${ncaaCanadians.length} total)`);
+  return added;
+}
+mergeFreshNCAA();
+
+// ============================================================================
+// ===== CUSTOM ROSTER BUILDER (GM/Coach tool) ================================
+// ============================================================================
+// - Draft a 14-player CEBL roster (9 std + 5 import + 3 dev allowed)
+// - Salary cap math against the $8,000/game CEBL cap (designated/dev off-cap)
+// - All rosters persist to localStorage under hi_rb_rosters
+// - Multiple rosters per user — switch between them
+// - Export selected roster to printable PDF (window.print + landscape CSS)
+
+const RB_STORAGE = 'hi_rb_rosters';
+const RB_ACTIVE  = 'hi_rb_active';
+const RB_CAP = 8000;
+const RB_MAX_ROSTER = 14;
+const RB_MAX_IMPORTS = 5;
+
+let _rbState = { rosters: [], activeId: null, poolFilter: '' };
+
+function rbLoad() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(RB_STORAGE) || '[]');
+    _rbState.rosters = Array.isArray(raw) ? raw : [];
+    _rbState.activeId = localStorage.getItem(RB_ACTIVE) || null;
+    if (_rbState.activeId && !_rbState.rosters.find(r => r.id === _rbState.activeId)) {
+      _rbState.activeId = null;
+    }
+  } catch (e) {
+    _rbState.rosters = [];
+    _rbState.activeId = null;
+  }
+}
+function rbSave() {
+  localStorage.setItem(RB_STORAGE, JSON.stringify(_rbState.rosters));
+  if (_rbState.activeId) localStorage.setItem(RB_ACTIVE, _rbState.activeId);
+  else localStorage.removeItem(RB_ACTIVE);
+}
+function rbActiveRoster() {
+  return _rbState.rosters.find(r => r.id === _rbState.activeId) || null;
+}
+function rbNewId() { return 'rb_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+
+// --- Player pool builders (deduped by normalized name) ---
+function rbBuildPool(source) {
+  const pool = new Map();   // normName → entry
+  const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  const add = (p, type) => {
+    const k = norm(p.name);
+    if (!k || pool.has(k)) return;
+    pool.set(k, {
+      name: p.name,
+      pos: p.pos || '—',
+      ht: p.ht || '',
+      hometown: p.hometown || '',
+      nationality: p.nationality || (type === 'canadian' ? 'CAN' : (type === 'ncaa' ? 'CAN' : '—')),
+      ppg: p.ppg ?? '—',
+      rpg: p.rpg ?? '—',
+      apg: p.apg ?? '—',
+      salary: p.salary || '',
+      _type: type,
+      _team: window.ceblCurrentTeam ? window.ceblCurrentTeam(p.name) : null
+    });
+  };
+  if (source === 'canadians' || source === 'all') {
+    if (typeof canadiansPro !== 'undefined') canadiansPro.forEach(p => add(p, 'canadian'));
+  }
+  if (source === 'imports' || source === 'all') {
+    if (typeof importTargets !== 'undefined') importTargets.forEach(p => add(p, 'import'));
+  }
+  if (source === 'ncaa' || source === 'all') {
+    if (window.NCAA_CANADIANS) window.NCAA_CANADIANS.forEach(p => add(p, 'ncaa'));
+  }
+  if (source === 'cebl') {
+    if (window.CEBL_SIGNINGS) {
+      for (const sig of window.CEBL_SIGNINGS) {
+        if (!/Player Contract|Developmental/i.test(sig.type)) continue;
+        const proHit  = (typeof canadiansPro  !== 'undefined') && canadiansPro.find(p  => norm(p.name) === norm(sig.name));
+        const impHit  = (typeof importTargets !== 'undefined') && importTargets.find(p => norm(p.name) === norm(sig.name));
+        const bio = proHit || impHit || {};
+        add({
+          name: sig.name,
+          pos: bio.pos || '—',
+          ht: bio.ht || '',
+          hometown: bio.hometown || '',
+          nationality: bio.nationality || (proHit ? 'CAN' : ''),
+          ppg: bio.ppg, rpg: bio.rpg, apg: bio.apg,
+          salary: bio.salary || ''
+        }, proHit ? 'canadian' : (impHit ? 'import' : 'cebl'));
+      }
+    }
+  }
+  return Array.from(pool.values()).sort((a, b) => a.name.localeCompare(b.name));
+}
+
+// --- Salary parsing: "$1,200-$1,500" → midpoint 1350; "Designated" → 0 (off-cap) ---
+function rbParseSalary(s) {
+  if (!s) return 0;
+  if (/designated/i.test(s)) return 0;
+  const nums = (s.match(/\d[\d,]*/g) || []).map(n => parseInt(n.replace(/,/g, ''), 10));
+  if (!nums.length) return 0;
+  if (nums.length === 1) return nums[0];
+  return Math.round((nums[0] + nums[nums.length - 1]) / 2);
+}
+
+// --- UI: render roster builder root ---
+function renderRosterBuilder() {
+  rbLoad();
+
+  // Populate team select once
+  const sel = document.getElementById('rb-team-select');
+  if (sel && sel.options.length <= 1 && typeof CEBL_TEAMS_2026 !== 'undefined') {
+    for (const t of CEBL_TEAMS_2026) {
+      const opt = document.createElement('option');
+      opt.value = t.name;
+      opt.textContent = `${t.emoji} ${t.name}`;
+      sel.appendChild(opt);
+    }
+  }
+
+  rbRenderSavedList();
+
+  if (_rbState.activeId) {
+    rbRenderActive();
+  } else {
+    document.getElementById('rb-empty').style.display = 'block';
+    document.getElementById('rb-active').style.display = 'none';
+  }
+}
+
+function rbRenderSavedList() {
+  const wrap = document.getElementById('rb-saved-section');
+  const list = document.getElementById('rb-saved-list');
+  if (!wrap || !list) return;
+  if (_rbState.rosters.length === 0) {
+    wrap.style.display = 'none';
+    return;
+  }
+  wrap.style.display = 'block';
+  list.innerHTML = _rbState.rosters.map(r => {
+    const cap = r.players.reduce((s, p) => s + rbParseSalary(p.salary), 0);
+    const isActive = r.id === _rbState.activeId;
+    return `
+      <div class="rb-saved-card ${isActive ? 'rb-saved-active' : ''}" onclick="rbActivate('${r.id}')">
+        <div class="rb-saved-name">${r.name}</div>
+        <div class="rb-saved-meta">${r.players.length}/14 · $${cap.toLocaleString()} cap${isActive ? ' · ACTIVE' : ''}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function rbActivate(id) {
+  _rbState.activeId = id;
+  rbSave();
+  document.getElementById('rb-empty').style.display = 'none';
+  document.getElementById('rb-active').style.display = 'block';
+  rbRenderActive();
+  rbRenderSavedList();
+}
+
+function rbSelectTeam(teamName) {
+  if (!teamName) return;
+  // Seed a new roster from CEBL_ROSTERS_2026[teamName]
+  const fresh = (window.CEBL_ROSTERS_2026 && window.CEBL_ROSTERS_2026[teamName]) || [];
+  const id = rbNewId();
+  const rosterPlayers = fresh.map(s => {
+    const proHit  = (typeof canadiansPro  !== 'undefined') ? canadiansPro.find(p  => p.name.toLowerCase() === s.name.toLowerCase()) : null;
+    const impHit  = (typeof importTargets !== 'undefined') ? importTargets.find(p => p.name.toLowerCase() === s.name.toLowerCase()) : null;
+    const bio = proHit || impHit || {};
+    return {
+      name: s.name,
+      pos: bio.pos || '—',
+      ht: bio.ht || '',
+      hometown: bio.hometown || '',
+      nationality: bio.nationality || (proHit ? 'CAN' : ''),
+      ppg: bio.ppg ?? '', rpg: bio.rpg ?? '', apg: bio.apg ?? '',
+      salary: bio.salary || '',
+      type: s.type,
+      _isCanadian: !!proHit || /\b(ON|QC|BC|AB|MB|SK|NS|NB|NL|PE)\b/.test(bio.hometown || '')
+    };
+  });
+  _rbState.rosters.push({
+    id,
+    name: `${teamName} 2026 (My Plan)`,
+    seedTeam: teamName,
+    created: new Date().toISOString(),
+    players: rosterPlayers,
+    notes: ''
+  });
+  _rbState.activeId = id;
+  rbSave();
+  document.getElementById('rb-team-select').value = '';
+  rbActivate(id);
+}
+
+function rbCreateCustom() {
+  const id = rbNewId();
+  _rbState.rosters.push({
+    id,
+    name: 'Custom Roster ' + (_rbState.rosters.length + 1),
+    seedTeam: null,
+    created: new Date().toISOString(),
+    players: [],
+    notes: ''
+  });
+  _rbState.activeId = id;
+  rbSave();
+  rbActivate(id);
+}
+
+function rbDeleteRoster() {
+  const r = rbActiveRoster();
+  if (!r) return;
+  if (!confirm(`Delete "${r.name}"? This cannot be undone.`)) return;
+  _rbState.rosters = _rbState.rosters.filter(x => x.id !== r.id);
+  _rbState.activeId = _rbState.rosters.length ? _rbState.rosters[_rbState.rosters.length - 1].id : null;
+  rbSave();
+  if (_rbState.activeId) {
+    rbActivate(_rbState.activeId);
+  } else {
+    document.getElementById('rb-active').style.display = 'none';
+    document.getElementById('rb-empty').style.display = 'block';
+    rbRenderSavedList();
+  }
+}
+
+function rbRename(value) {
+  const r = rbActiveRoster();
+  if (!r) return;
+  r.name = value || 'Untitled';
+  rbSave();
+  rbRenderSavedList();
+}
+
+function rbRenderActive() {
+  const r = rbActiveRoster();
+  if (!r) return;
+
+  document.getElementById('rb-name').value = r.name;
+  document.getElementById('rb-export-btn').disabled = r.players.length === 0;
+
+  // --- Slots ---
+  const slots = document.getElementById('rb-slots');
+  slots.innerHTML = r.players.map((p, i) => {
+    const cap = rbParseSalary(p.salary);
+    const isDev = /Dev/i.test(p.type || '');
+    const isCan = !!p._isCanadian;
+    return `
+      <div class="rb-slot ${isDev ? 'rb-slot-dev' : ''}">
+        <div class="rb-slot-num">${i + 1}</div>
+        <div class="rb-slot-info">
+          <div class="rb-slot-name">${isCan ? '🇨🇦 ' : ''}${p.name}</div>
+          <div class="rb-slot-meta">${p.pos} · ${p.hometown || p.nationality || '—'}${cap ? ' · $' + cap.toLocaleString() : ''}${isDev ? ' · DEV' : ''}</div>
+        </div>
+        <button class="rb-slot-remove" onclick="rbRemove(${i})" title="Remove">×</button>
+      </div>
+    `;
+  }).join('');
+
+  for (let i = r.players.length; i < RB_MAX_ROSTER; i++) {
+    slots.innerHTML += `<div class="rb-slot rb-slot-empty"><div class="rb-slot-num">${i + 1}</div><div class="rb-slot-info">— empty —</div></div>`;
+  }
+
+  // --- Summary pills ---
+  const cap = r.players.reduce((s, p) => s + rbParseSalary(p.salary), 0);
+  const imports = r.players.filter(p => p.nationality && !/CAN/i.test(p.nationality) && p.nationality !== '—').length;
+  const canadians = r.players.filter(p => p._isCanadian || /CAN/i.test(p.nationality || '')).length;
+
+  const capPill = document.getElementById('rb-cap-pill');
+  capPill.textContent = `$${cap.toLocaleString()} / $${RB_CAP.toLocaleString()} cap`;
+  capPill.className = 'rb-pill ' + (cap > RB_CAP ? 'rb-pill-over' : (cap > RB_CAP * 0.9 ? 'rb-pill-warn' : 'rb-pill-ok'));
+
+  const impPill = document.getElementById('rb-imports-pill');
+  impPill.textContent = `${imports} / ${RB_MAX_IMPORTS} imports`;
+  impPill.className = 'rb-pill ' + (imports > RB_MAX_IMPORTS ? 'rb-pill-over' : 'rb-pill-ok');
+
+  document.getElementById('rb-canadians-pill').textContent = `${canadians} Canadians`;
+
+  const sizePill = document.getElementById('rb-size-pill');
+  sizePill.textContent = `${r.players.length} / ${RB_MAX_ROSTER} spots`;
+  sizePill.className = 'rb-pill ' + (r.players.length > RB_MAX_ROSTER ? 'rb-pill-over' : 'rb-pill-ok');
+
+  // --- Detailed summary ---
+  const summary = document.getElementById('rb-summary');
+  const positions = { G: 0, F: 0, C: 0 };
+  for (const p of r.players) {
+    const c = (p.pos || '').charAt(0).toUpperCase();
+    if (positions[c] !== undefined) positions[c]++;
+  }
+  summary.innerHTML = `
+    <div class="rb-summary-row"><strong>Position mix:</strong> ${positions.G} G · ${positions.F} F · ${positions.C} C</div>
+    <div class="rb-summary-row"><strong>Avg salary/active:</strong> $${r.players.length ? Math.round(cap / r.players.length).toLocaleString() : 0}</div>
+    <div class="rb-summary-row"><strong>Cap room:</strong> $${(RB_CAP - cap).toLocaleString()}</div>
+  `;
+
+  rbRenderPool();
+}
+
+function rbRenderPool() {
+  const sel = document.getElementById('rb-pool-source');
+  const source = sel ? sel.value : 'all';
+  const pool = rbBuildPool(source);
+  const r = rbActiveRoster();
+  const inRoster = new Set((r ? r.players : []).map(p => p.name.toLowerCase()));
+  const filter = (_rbState.poolFilter || '').toLowerCase();
+
+  const filtered = pool
+    .filter(p => !inRoster.has(p.name.toLowerCase()))
+    .filter(p => !filter || (p.name + ' ' + p.hometown + ' ' + (p._team || '')).toLowerCase().includes(filter))
+    .slice(0, 80);   // cap render to top 80 for perf
+
+  const wrap = document.getElementById('rb-pool');
+  if (!wrap) return;
+
+  wrap.innerHTML = filtered.length ? filtered.map(p => {
+    const cap = rbParseSalary(p.salary);
+    const isCan = /CAN/i.test(p.nationality || '') || p._type === 'canadian' || p._type === 'ncaa';
+    const teamBadge = p._team ? `<span class="rb-pool-team">${p._team}</span>` : '';
+    return `
+      <div class="rb-pool-card ${p._type ? 'rb-type-' + p._type : ''}" onclick='rbAdd(${JSON.stringify(p).replace(/'/g, "&#39;")})'>
+        <div class="rb-pool-name">${isCan ? '🇨🇦 ' : ''}${p.name}</div>
+        <div class="rb-pool-meta">${p.pos} · ${p.hometown || p.nationality || '—'}${cap ? ' · $' + cap.toLocaleString() : ''}</div>
+        ${teamBadge}
+      </div>
+    `;
+  }).join('') : '<div class="rb-pool-empty">No players match.</div>';
+}
+
+function rbFilterPool(value) {
+  _rbState.poolFilter = value;
+  rbRenderPool();
+}
+
+function rbAdd(player) {
+  const r = rbActiveRoster();
+  if (!r) return;
+  if (r.players.length >= RB_MAX_ROSTER) {
+    alert(`Roster is full (${RB_MAX_ROSTER} max). Remove a player first.`);
+    return;
+  }
+  if (r.players.find(p => p.name === player.name)) return;
+  r.players.push({
+    name: player.name,
+    pos: player.pos || '—',
+    ht: player.ht || '',
+    hometown: player.hometown || '',
+    nationality: player.nationality || (player._type === 'canadian' || player._type === 'ncaa' ? 'CAN' : ''),
+    ppg: player.ppg, rpg: player.rpg, apg: player.apg,
+    salary: player.salary || '',
+    type: 'Standard Player Contract',
+    _isCanadian: /CAN/i.test(player.nationality || '') || player._type === 'canadian' || player._type === 'ncaa'
+  });
+  rbSave();
+  rbRenderActive();
+}
+
+function rbRemove(idx) {
+  const r = rbActiveRoster();
+  if (!r) return;
+  r.players.splice(idx, 1);
+  rbSave();
+  rbRenderActive();
+}
+
+function rbExportPDF() {
+  const r = rbActiveRoster();
+  if (!r) return;
+  // Build a printable view in a new window
+  const cap = r.players.reduce((s, p) => s + rbParseSalary(p.salary), 0);
+  const imports = r.players.filter(p => p.nationality && !/CAN/i.test(p.nationality)).length;
+  const canadians = r.players.filter(p => p._isCanadian || /CAN/i.test(p.nationality || '')).length;
+  const w = window.open('', '_blank');
+  if (!w) { alert('Popup blocked — allow popups to export.'); return; }
+  w.document.write(`
+    <!doctype html><html><head><title>${r.name}</title>
+    <style>
+      @page { size: letter landscape; margin: 0.5in; }
+      body { font-family: -apple-system, system-ui, sans-serif; color: #111; margin: 0; padding: 24px; }
+      h1 { margin: 0 0 6px; font-size: 22px; color: #b8941f; }
+      .meta { color: #555; font-size: 11px; margin-bottom: 14px; }
+      .stats { display: flex; gap: 18px; padding: 10px 14px; background: #faf6e9; border: 1px solid #d4af37; border-radius: 6px; margin-bottom: 14px; }
+      .stats div { font-size: 12px; }
+      .stats strong { color: #b8941f; display: block; font-size: 18px; }
+      table { width: 100%; border-collapse: collapse; font-size: 11px; }
+      th, td { padding: 6px 8px; border-bottom: 1px solid #ddd; text-align: left; }
+      th { background: #1a1a1a; color: #d4af37; text-transform: uppercase; letter-spacing: 0.04em; font-size: 10px; }
+      tr:nth-child(even) { background: #fafafa; }
+      .can { color: #c00; font-weight: 700; }
+      .footer { margin-top: 16px; font-size: 10px; color: #888; text-align: right; }
+    </style></head><body>
+      <h1>${r.name}</h1>
+      <div class="meta">Generated ${new Date().toLocaleString()} · Hoops Intelligence — CEBL Scouting Platform</div>
+      <div class="stats">
+        <div><strong>${r.players.length} / ${RB_MAX_ROSTER}</strong>Roster size</div>
+        <div><strong>$${cap.toLocaleString()}</strong>Total cap ($${RB_CAP.toLocaleString()} max)</div>
+        <div><strong>${canadians}</strong>Canadians</div>
+        <div><strong>${imports}</strong>Imports (${RB_MAX_IMPORTS} max)</div>
+      </div>
+      <table>
+        <thead><tr><th>#</th><th>Name</th><th>Pos</th><th>Hometown</th><th>Nat</th><th>PPG</th><th>RPG</th><th>APG</th><th>Salary</th><th>Type</th></tr></thead>
+        <tbody>
+          ${r.players.map((p, i) => `
+            <tr>
+              <td>${i + 1}</td>
+              <td class="${p._isCanadian ? 'can' : ''}">${p.name}</td>
+              <td>${p.pos}</td>
+              <td>${p.hometown || ''}</td>
+              <td>${p.nationality || ''}</td>
+              <td>${p.ppg ?? ''}</td>
+              <td>${p.rpg ?? ''}</td>
+              <td>${p.apg ?? ''}</td>
+              <td>${p.salary || ''}</td>
+              <td>${p.type || ''}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+      <div class="footer">hoopsintelligence.com</div>
+      <script>setTimeout(() => window.print(), 250);</${'script'}>
+    </body></html>
+  `);
+  w.document.close();
+}
 
 // ===== Auto-Refresh =====
 function refreshAllData() {

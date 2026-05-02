@@ -102,6 +102,15 @@ jobs:
           echo "🔁 Regenerating cebl-signings-runtime.js"
           node tools/sync-signings-to-rosters.js
 
+      - name: Scrape NCAA D1 Canadians from NorthPoleHoops
+        id: ncaa_step
+        continue-on-error: true     # don't fail the whole run if NPH is down
+        run: |
+          echo "🎓 Scraping NCAA D1 Canadians…"
+          node tools/scrape-ncaa-canadians.js
+          echo "🔁 Regenerating ncaa-canadians-runtime.js"
+          node tools/sync-ncaa-canadians.js
+
       - name: Audit data integrity
         run: |
           node tools/audit-data.js
@@ -114,6 +123,7 @@ jobs:
           git config user.email "actions@github.com"
           git add data/cache/ global-pros.js \
                   data/cebl-signings.json cebl-signings-runtime.js \
+                  data/ncaa-canadians.json ncaa-canadians-runtime.js \
                   tools/audit-report.json tools/cache-health-report.json
           if git diff --cached --quiet; then
             echo "✅ No data changes — nothing to commit"
