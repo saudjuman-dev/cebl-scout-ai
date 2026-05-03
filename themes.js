@@ -163,7 +163,15 @@ function applyTheme(themeId, options = {}) {
   const btn = document.getElementById('theme-current-team');
   if (btn) btn.textContent = theme.short;
   const emojiEl = document.getElementById('theme-current-emoji');
-  if (emojiEl) emojiEl.textContent = theme.emoji;
+  if (emojiEl) {
+    // Prefer real team logo image; fall back to emoji on error
+    const logoUrl = (typeof getTeamLogo === 'function' && theme.name) ? getTeamLogo(theme.name) : null;
+    if (logoUrl) {
+      emojiEl.innerHTML = `<img src="${logoUrl}" alt="${theme.name}" class="theme-current-logo" onerror="this.outerHTML='${theme.emoji}'" loading="lazy">`;
+    } else {
+      emojiEl.textContent = theme.emoji;
+    }
+  }
 
   // Trigger ripple/pulse animation on header
   if (!options.skipTransition) {
@@ -218,13 +226,19 @@ function pickTheme(themeId) {
 
 function buildThemePickerContent() {
   const current = getCurrentTheme();
-  return Object.values(CEBL_THEMES).map(t => `
-    <button class="theme-chip ${t.id === current.id ? 'active' : ''}" data-theme-id="${t.id}" onclick="pickTheme('${t.id}')" style="--chip-color:${t.colors.gold}; --chip-glow:${t.colors.goldGlow}">
-      <div class="theme-chip-emoji">${t.emoji}</div>
-      <div class="theme-chip-name">${t.short}</div>
-      <div class="theme-chip-color" style="background:${t.colors.gold}; box-shadow: 0 0 12px ${t.colors.goldGlow}"></div>
-    </button>
-  `).join('');
+  return Object.values(CEBL_THEMES).map(t => {
+    const logoUrl = (typeof getTeamLogo === 'function' && t.name) ? getTeamLogo(t.name) : null;
+    const visual = logoUrl
+      ? `<img src="${logoUrl}" alt="${t.name || t.short}" class="theme-chip-logo" onerror="this.outerHTML='<div class=&quot;theme-chip-emoji&quot;>${t.emoji}</div>'" loading="lazy">`
+      : `<div class="theme-chip-emoji">${t.emoji}</div>`;
+    return `
+      <button class="theme-chip ${t.id === current.id ? 'active' : ''}" data-theme-id="${t.id}" onclick="pickTheme('${t.id}')" style="--chip-color:${t.colors.gold}; --chip-glow:${t.colors.goldGlow}">
+        ${visual}
+        <div class="theme-chip-name">${t.short}</div>
+        <div class="theme-chip-color" style="background:${t.colors.gold}; box-shadow: 0 0 12px ${t.colors.goldGlow}"></div>
+      </button>
+    `;
+  }).join('');
 }
 
 // ===== Initialize =====
@@ -246,5 +260,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const lbl = document.getElementById('theme-current-team');
   if (lbl) lbl.textContent = current.short;
   const emojiEl = document.getElementById('theme-current-emoji');
-  if (emojiEl) emojiEl.textContent = current.emoji;
+  if (emojiEl) {
+    const logoUrl = (typeof getTeamLogo === 'function' && current.name) ? getTeamLogo(current.name) : null;
+    if (logoUrl) {
+      emojiEl.innerHTML = `<img src="${logoUrl}" alt="${current.name}" class="theme-current-logo" onerror="this.outerHTML='${current.emoji}'" loading="lazy">`;
+    } else {
+      emojiEl.textContent = current.emoji;
+    }
+  }
 });

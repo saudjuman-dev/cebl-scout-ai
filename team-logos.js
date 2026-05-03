@@ -9,8 +9,10 @@ const TEAM_LOGOS = {
   "Montreal Alliance": "https://irp.cdn-website.com/d8d53c44/dms3rep/multi/MontrealAllianceLogo.png",
   "Niagara River Lions": "https://irp-cdn.multiscreensite.com/d8d53c44/dms3rep/multi/NiagaraRiverLionsLogo.png",
   "Ottawa BlackJacks": "https://irp-cdn.multiscreensite.com/d8d53c44/dms3rep/multi/OttawaBlackJacks-Logo-alt.png",
-  "Saskatoon Mamba": "https://irp-cdn.multiscreensite.com/d8d53c44/dms3rep/multi/SaskatchewanRattlersLogo.png",
-  "Saskatchewan Mamba": "https://irp-cdn.multiscreensite.com/d8d53c44/dms3rep/multi/SaskatchewanRattlersLogo.png",
+  // Saskatoon Mamba — rebranded Feb 2026, hosted on saskatoonmamba.ca's Duda CDN
+  "Saskatoon Mamba": "https://lirp.cdn-website.com/6d469176/dms3rep/multi/opt/MambaMainWordmark_RapidPath_1200x630-1920w.png",
+  "Saskatchewan Mamba": "https://lirp.cdn-website.com/6d469176/dms3rep/multi/opt/MambaMainWordmark_RapidPath_1200x630-1920w.png",
+  "Saskatchewan Rattlers": "https://lirp.cdn-website.com/6d469176/dms3rep/multi/opt/MambaMainWordmark_RapidPath_1200x630-1920w.png",
   "Scarborough Shooting Stars": "https://irp.cdn-website.com/d8d53c44/dms3rep/multi/ScarboroughShootingStarsLogo.png",
   "Vancouver Bandits": "https://irp-cdn.multiscreensite.com/d8d53c44/dms3rep/multi/VancouverBanditsLogo.png",
   "Winnipeg Sea Bears": "https://irp.cdn-website.com/d8d53c44/dms3rep/multi/winnipeg-sea-bears-logos.png",

@@ -29,7 +29,7 @@ const AUTH = {
   _ADMIN_LIST: [
     {
       user: _enc('ceblgm'),
-      pass: _enc('Sc0ut!2026$BHB'),
+      pass: _enc('Vault!2026!BHB'),
       name: 'Admin',
       email: 'admin@hoopsintelligence.com'
     },

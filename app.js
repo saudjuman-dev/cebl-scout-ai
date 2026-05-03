@@ -956,10 +956,14 @@ function renderTeamStats() {
   if (gridEl) {
     gridEl.innerHTML = teams.map(([name, t]) => {
       const emoji = leagueSignings[name]?.emoji || '';
+      const logoUrl = (typeof getTeamLogo === 'function') ? getTeamLogo(name) : null;
+      const visual = logoUrl
+        ? `<img src="${logoUrl}" alt="${name}" class="tsc-logo-img" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'" loading="lazy"><span class="tsc-emoji" style="display:none">${emoji}</span>`
+        : `<span class="tsc-emoji">${emoji}</span>`;
       return `
         <div class="team-stat-card" style="border-top-color:${t.color}">
           <div class="tsc-header">
-            <span class="tsc-emoji">${emoji}</span>
+            ${visual}
             <span class="tsc-name" style="color:${t.color}">${name}</span>
             <span class="tsc-record">${t.record.wins}-${t.record.losses}</span>
           </div>
@@ -2674,12 +2678,16 @@ function renderSigningsTicker() {
     const isDev = /Dev/i.test(s.type);
     const color = teamColor(s.team);
     const date = _shortDate(s.date);
+    const logoUrl = (typeof getTeamLogo === 'function') ? getTeamLogo(s.team) : null;
+    const logoHTML = logoUrl
+      ? `<img src="${logoUrl}" alt="${s.team}" class="st-team-logo" onerror="this.style.display='none'" loading="lazy">`
+      : '';
     return `
       <span class="st-item">
         <span class="st-date">${date}</span>
         <span class="st-name">${s.player}</span>
         <span class="st-arrow">→</span>
-        <span class="st-team" style="color:${color}">${s.team}</span>
+        ${logoHTML}<span class="st-team" style="color:${color}">${s.team}</span>
         ${isDev ? '<span class="st-dev">DEV</span>' : ''}
       </span>
     `;
