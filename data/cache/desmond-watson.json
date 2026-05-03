@@ -1,0 +1,50 @@
+{
+  "fullName": "DESMOND WATSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Desmond-Watson/614407",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 DESMOND WATSON basketball profile Height",
+  "currentTeam": "Frankfurt",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:19:36.279Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:19:36.279Z"
+}

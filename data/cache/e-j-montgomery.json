@@ -2,7 +2,7 @@
   "fullName": "E.J. MONTGOMERY",
   "sourceUrl": "https://basketball.eurobasket.com/player/EJ-Montgomery/364941",
   "height": "6'10'",
-  "college": "college\nYear",
+  "college": "college Year",
   "currentTeam": "MKS DG",
   "careerHistory": [
     {
@@ -56,13 +56,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:10:00.777Z",
+  "_lastVerified": "2026-05-03T06:26:37.479Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:50:40.828Z",
-  "nationality": "USA",
-  "birthdate": "December 9 1999",
-  "birthCity": "Fort Pierce"
+  "cachedAt": "2026-05-03T06:26:37.479Z"
 }

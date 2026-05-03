@@ -1,0 +1,100 @@
+{
+  "fullName": "ALEX O'CONNELL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alex-OConnell/421106",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ALEX O",
+  "currentTeam": "ALBA",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Creighton",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Stockton",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Umana Reyer",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Umana Reyer",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:19:05.171Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:19:05.171Z"
+}

@@ -1,0 +1,44 @@
+{
+  "fullName": "ROMAIN HOELTZEL",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Romain-Hoeltzel/573774",
+  "height": "6'0'",
+  "currentTeam": "Gries-Souffel",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Orchies",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gries-Souffel",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:29:24.455Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:29:24.455Z"
+}

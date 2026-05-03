@@ -1,0 +1,74 @@
+{
+  "fullName": "JACORIE ARCHIE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jacorie-Archie/459129",
+  "height": "6'6'",
+  "currentTeam": "Eisenstadt",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Hillsborough",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Hillsborough",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "GSW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Newfoundland R.",
+      "league": "NBLC"
+    },
+    {
+      "year": "2023",
+      "team": "Newfoundland R.",
+      "league": "TBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Absheron",
+      "league": "AZE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "HANTH",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Shkupi",
+      "league": "MKD-1"
+    },
+    {
+      "year": "25-26",
+      "team": "BBC Nord",
+      "league": "AUT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:27:43.408Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:27:43.408Z"
+}

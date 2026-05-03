@@ -1,0 +1,44 @@
+{
+  "fullName": "YANIS TONNELLIER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yanis-Tonnellier/708493",
+  "height": "6'11'",
+  "currentTeam": "Chalon/Saone",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Chalon U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Chalon/Saone",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chalon/Saone",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:20:18.497Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:20:18.497Z"
+}

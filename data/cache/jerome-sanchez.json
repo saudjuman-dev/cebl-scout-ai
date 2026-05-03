@@ -1,0 +1,109 @@
+{
+  "fullName": "JEROME SANCHEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jerome-Sanchez/133470",
+  "height": "6'7'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "08-09",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "09-10",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "09-10",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "10-11",
+      "team": "JL Bourg",
+      "league": "FRA-2"
+    },
+    {
+      "year": "11-12",
+      "team": "JL Bourg",
+      "league": "FRA-2"
+    },
+    {
+      "year": "12-13",
+      "team": "JL Bourg",
+      "league": "FRA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "JL Bourg",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "La Rochelle",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:29:07.152Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:29:07.152Z"
+}

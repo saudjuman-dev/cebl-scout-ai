@@ -1,0 +1,54 @@
+{
+  "fullName": "NIKODEM CZOSKA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikodem-Czoska/479221",
+  "height": "6'8'",
+  "currentTeam": "Stal",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Asseco",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Basket Cecina",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "AMW Gdynia",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Suzuki Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:26:09.223Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:26:09.223Z"
+}

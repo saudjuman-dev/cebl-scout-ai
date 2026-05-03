@@ -1,0 +1,49 @@
+{
+  "fullName": "MOULAYE SOW",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Moulaye-Sow/623016",
+  "height": "6'9'",
+  "currentTeam": "Denain-Voltaire",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Andrezieux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Denain-Voltaire",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:28:55.687Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:28:55.687Z"
+}

@@ -1,0 +1,104 @@
+{
+  "fullName": "GAETAN CLERC",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gaetan-Clerc/130719",
+  "height": "6'3'",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "09-10",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "10-11",
+      "team": "Lievin",
+      "league": "FRA-3"
+    },
+    {
+      "year": "11-12",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "12-13",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "FOS Provence",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Sluc Nancy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Caen",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "La Rochelle",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "La Rochelle",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "La Rochelle",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:29:10.394Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:29:10.394Z"
+}

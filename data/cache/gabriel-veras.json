@@ -1,0 +1,29 @@
+{
+  "fullName": "GABRIEL VERAS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gabriel-Veras/774536",
+  "height": "6'2'",
+  "currentTeam": "Antibes",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Antibes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:29:31.746Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:29:31.746Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "YARON GOLDMAN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yaron-Goldman/694884",
+  "height": "6'2'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games YARON GOLDMAN basketball profile Uniform",
+  "currentTeam": "M.Rishon",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Maccabi TA",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Maccabi FOX Tel-Aviv",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "E.Shomron",
+      "league": "ISR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Rishon",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:24:53.314Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:24:53.314Z"
+}

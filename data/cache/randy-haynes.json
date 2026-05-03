@@ -1,0 +1,89 @@
+{
+  "fullName": "RANDY HAYNES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Randy-Haynes/358023",
+  "height": "6'4'",
+  "currentTeam": "Challans",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "N.Mexico JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "N.Mexico JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Grand Rapids G.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Sentjur",
+      "league": "SLO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "BIPA",
+      "league": "UKR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Graz",
+      "league": "AUT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ram.Hasharon",
+      "league": "ISR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "GEPU",
+      "league": "ARG-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulogne",
+      "league": "FRA-3"
+    },
+    {
+      "year": "2024",
+      "team": "Team AboutBillions",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Challans",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-05-03T06:29:50.349Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-03T06:29:50.349Z"
+}

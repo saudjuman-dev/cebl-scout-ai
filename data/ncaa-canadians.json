@@ -1,155 +1,1065 @@
 {
-  "_lastScraped": "2026-05-01T00:00:00Z",
+  "_lastScraped": "2026-05-03T06:33:29.790Z",
   "_source": "https://northpolehoops.com/2025/10/09/150-canadians-playing-ncaa-d1-basketball-2025-2026/",
-  "_method": "playwright + cheerio (initial: WebFetch seed)",
+  "_method": "playwright (headless chromium)",
   "season": "2025-26",
   "players": [
-    { "name": "Hassan Abdul-Hakim", "school": "Memphis", "pos": "G", "year": "Senior", "hometown": "Mississauga, ON" },
-    { "name": "Kwo Agwa", "school": "Texas-RGV", "pos": "F", "year": "Senior", "hometown": "Calgary, AB" },
-    { "name": "Josh Ahayere", "school": "Colgate", "pos": "G", "year": "Sophomore", "hometown": "Morinville, AB" },
-    { "name": "Spencer Ahrens", "school": "Boise State", "pos": "F", "year": "Freshman", "hometown": "Oakville, ON" },
-    { "name": "Marial Akuentok", "school": "Texas Tech", "pos": "C", "year": "Freshman", "hometown": "Edmonton, AB" },
-    { "name": "Kevin Alabi", "school": "Alabama State", "pos": "F", "year": "Sophomore", "hometown": "Brampton, ON" },
-    { "name": "Sam Alamutu", "school": "Wright State", "pos": "G", "year": "Senior", "hometown": "Ajax, ON" },
-    { "name": "Amare Allen", "school": "Maine", "pos": "F", "year": "Sophomore", "hometown": "Ajax, ON" },
-    { "name": "Vasean Allette", "school": "Texas-San Antonio", "pos": "G", "year": "Junior", "hometown": "Thornhill, ON" },
-    { "name": "Rocco Awad", "school": "N.J.I.T.", "pos": "G", "year": "Freshman", "hometown": "Windsor, ON" },
-    { "name": "Yanis Bamba", "school": "Maine", "pos": "F", "year": "Junior", "hometown": "Montreal, QC" },
-    { "name": "Matai Baptiste", "school": "Boston University", "pos": "F", "year": "Sophomore", "hometown": "Toronto, ON" },
-    { "name": "Evans Barning, Jr.", "school": "West Virginia", "pos": "F", "year": "Freshman", "hometown": "Toronto, ON" },
-    { "name": "Tristan Beckford", "school": "South Florida", "pos": "G/F", "year": "Freshman", "hometown": "Vaughan, ON" },
-    { "name": "Arden Begaj", "school": "North Florida", "pos": "C", "year": "Sophomore", "hometown": "Toronto, ON" },
-    { "name": "Bubu Benjamin", "school": "George Washington", "pos": "F", "year": "Junior", "hometown": "Medicine Hat, AB" },
-    { "name": "Edouard Benoit", "school": "Lehigh", "pos": "F", "year": "Sophomore", "hometown": "Montreal, QC" },
-    { "name": "T.J. Biel", "school": "Maine", "pos": "F", "year": "Senior", "hometown": "Calgary, AB" },
-    { "name": "Sean Blake", "school": "Vermont", "pos": "G", "year": "Sophomore", "hometown": "Mississauga, ON" },
-    { "name": "Augustas Brazdeikis", "school": "Pacific", "pos": "SF", "year": "Junior", "hometown": "Oakville, ON" },
-    { "name": "Cameron Brennan", "school": "Colgate", "pos": "C", "year": "Sophomore", "hometown": "Burlington, ON" },
-    { "name": "J.C. Brooks", "school": "Tennessee State", "pos": "F/C", "year": "Sophomore", "hometown": "Calgary, AB" },
-    { "name": "Ethan Brown", "school": "Colgate", "pos": "C", "year": "Sophomore", "hometown": "Peterborough, ON" },
-    { "name": "Lucas Burton", "school": "Cleveland State", "pos": "F", "year": "Senior", "hometown": "Vancouver, BC" },
-    { "name": "Ethan Butler", "school": "Charlotte", "pos": "F", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Jalen Celestine", "school": "Cincinnati", "pos": "PG", "year": "Senior", "hometown": "Ajax, ON" },
-    { "name": "Dante Censori-Hercules", "school": "Portland", "pos": "F", "year": "Freshman", "hometown": "Toronto, ON" },
-    { "name": "Malcolm Christie", "school": "Oregon State", "pos": "G/F", "year": "Senior", "hometown": "Fredericton, NB" },
-    { "name": "Jaden Clayton", "school": "Pacific", "pos": "PG", "year": "Junior", "hometown": "Whitby, ON" },
-    { "name": "Jaiden Cole", "school": "Towson", "pos": "G", "year": "Sophomore", "hometown": "Scarborough, ON" },
-    { "name": "Irish Coquia", "school": "New Orleans", "pos": "G", "year": "Sophomore", "hometown": "Vancouver, BC" },
-    { "name": "Zaiden Cross", "school": "Nicholls State", "pos": "F", "year": "Senior", "hometown": "Scarborough, ON" },
-    { "name": "Declan Cutler", "school": "Weber State", "pos": "F", "year": "Sophomore", "hometown": "Vancouver, BC" },
-    { "name": "Matthew Dann", "school": "Sam Houston State", "pos": "C", "year": "Freshman", "hometown": "Oakville, ON" },
-    { "name": "Louis Daoust", "school": "Tennessee State", "pos": "F", "year": "Senior", "hometown": "Montreal, QC" },
-    { "name": "Josiah Davis", "school": "Cal State Northridge", "pos": "G", "year": "Senior", "hometown": "Kitchener, ON" },
-    { "name": "Malachi Davis", "school": "Long Island", "pos": "G", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Liam Dayco-Green", "school": "Florida Atlantic", "pos": "G", "year": "Sophomore", "hometown": "Vancouver, BC" },
-    { "name": "Kevin De Kovachich", "school": "North Alabama", "pos": "PG", "year": "Sophomore", "hometown": "Montreal, QC" },
-    { "name": "Dylan Desbiens", "school": "Louisville", "pos": "F", "year": "Freshman", "hometown": "Quebec City, QC" },
-    { "name": "Kye Dickson", "school": "Texas-RGV", "pos": "F", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "Ismael Diouf", "school": "Northern Iowa", "pos": "F", "year": "Junior", "hometown": "Montreal, QC" },
-    { "name": "Wilson Dubinsky", "school": "Marshall", "pos": "G", "year": "Senior", "hometown": "Ottawa, ON" },
-    { "name": "Jordann Dumont", "school": "VCU", "pos": "SF", "year": "Junior", "hometown": "Quebec City, QC" },
-    { "name": "Jalik Dunkley-Distant", "school": "Nicholls State", "pos": "PG", "year": "Sophomore", "hometown": "Hamilton, ON" },
-    { "name": "Tyson Dunn", "school": "UC San Diego", "pos": "G", "year": "Senior", "hometown": "Newmarket, ON" },
-    { "name": "Tunde Durodola", "school": "Temple", "pos": "F", "year": "Sophomore", "hometown": "Vaughan, ON" },
-    { "name": "Eternity Eguagie", "school": "Rice", "pos": "F", "year": "Sophomore", "hometown": "Edmonton, AB" },
-    { "name": "Chidube Ekwommadu", "school": "Fairleigh Dickinson", "pos": "F", "year": "Sophomore", "hometown": "Mississauga, ON" },
-    { "name": "Haris Elezovic", "school": "Northeastern", "pos": "PF", "year": "Senior", "hometown": "Quebec City, QC" },
-    { "name": "Mike Evbagharu", "school": "Canisius", "pos": "SG", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "Will Exacte, Jr.", "school": "Drake", "pos": "G", "year": "Junior", "hometown": "Montreal, QC" },
-    { "name": "Tim Eze", "school": "UMBC", "pos": "F", "year": "Sophomore", "hometown": "Kleinburg, ON" },
-    { "name": "Benjamin Ezeagu", "school": "Southern Indiana", "pos": "F", "year": "Senior", "hometown": "Brampton, ON" },
-    { "name": "Oliver Faubert", "school": "Saint Mary's", "pos": "C", "year": "Sophomore", "hometown": "Ottawa, ON" },
-    { "name": "Elijah Fisher", "school": "Seton Hall", "pos": "F", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Jeremy Foumena", "school": "UCF", "pos": "C", "year": "Junior", "hometown": "Quebec City, QC" },
-    { "name": "Josiah Francis", "school": "Fairleigh Dickinson", "pos": "F", "year": "Sophomore", "hometown": "Scarborough, ON" },
-    { "name": "Jamal Fuller", "school": "Long Island", "pos": "F", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Nait George", "school": "Syracuse", "pos": "G", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "Austin Goode", "school": "Cal Poly", "pos": "F", "year": "Freshman", "hometown": "Toronto, ON" },
-    { "name": "Dylan Grant", "school": "Rutgers", "pos": "SF", "year": "Sophomore", "hometown": "Mississauga, ON" },
-    { "name": "Davante Hackett", "school": "Stonehill", "pos": "G", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "David Hansen", "school": "Weber State", "pos": "F", "year": "Sophomore", "hometown": "Magrath, AB" },
-    { "name": "Adam Harakow", "school": "Wyoming", "pos": "F", "year": "Sophomore", "hometown": "Calgary, AB" },
-    { "name": "Hunter Harding", "school": "Indiana State", "pos": "C", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "Markus Harding", "school": "Indiana State", "pos": "C", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Boston Harker", "school": "Utah Tech", "pos": "F", "year": "Junior", "hometown": "Calgary, AB" },
-    { "name": "Simon Hildebrandt", "school": "Washington State", "pos": "F", "year": "Senior", "hometown": "Winnipeg, MB" },
-    { "name": "Dylan Homenick", "school": "Richmond", "pos": "C", "year": "Freshman", "hometown": "Surrey, BC" },
-    { "name": "Luke Hunger", "school": "George Washington", "pos": "F", "year": "Senior", "hometown": "Montreal, QC" },
-    { "name": "T.J. Hurley", "school": "Vermont", "pos": "F", "year": "Senior", "hometown": "Pelham, ON" },
-    { "name": "K.C. Ibekwe", "school": "Pacific", "pos": "C", "year": "Senior", "hometown": "Coquitlam, BC" },
-    { "name": "John Ikpotokin", "school": "St. Bonaventure", "pos": "F", "year": "Freshman", "hometown": "Rothesay, NB" },
-    { "name": "Tegra Izay", "school": "Southern Mississippi", "pos": "C", "year": "Senior", "hometown": "Montreal, QC" },
-    { "name": "Maban Jabriel", "school": "Queens University", "pos": "F", "year": "Sophomore", "hometown": "Waterloo, ON" },
-    { "name": "Isaac Jack", "school": "Pacific", "pos": "C", "year": "Junior", "hometown": "Port Alberni, BC" },
-    { "name": "Brayden Jackson", "school": "St. Bonaventure", "pos": "F", "year": "Freshman", "hometown": "Milton, ON" },
-    { "name": "Jimma James", "school": "Queens University", "pos": "SG", "year": "Junior", "hometown": "Windsor, ON" },
-    { "name": "Stefan Jimenez Vojnic", "school": "N.J.I.T.", "pos": "C", "year": "Sophomore", "hometown": "Toronto, ON" },
-    { "name": "Enoch Kalambay", "school": "Campbell", "pos": "SG", "year": "Senior", "hometown": "Gatineau, QC" },
-    { "name": "Ryan Kalambay", "school": "Detroit-Mercy", "pos": "F", "year": "Sophomore", "hometown": "Brampton, ON" },
-    { "name": "Mikey Kelvin II", "school": "Florida International", "pos": "F", "year": "Senior", "hometown": "Ottawa, ON" },
-    { "name": "Jaden Kirkwood", "school": "Holy Cross", "pos": "G", "year": "Senior", "hometown": "Ottawa, ON" },
-    { "name": "Hermann Koffi", "school": "Stonehill", "pos": "G", "year": "Sophomore", "hometown": "Quebec City, QC" },
-    { "name": "Felix Kossaras", "school": "Colorado", "pos": "G/F", "year": "Sophomore", "hometown": "Quebec City, QC" },
-    { "name": "Chris Kumu", "school": "Canisius", "pos": "G", "year": "Freshman", "hometown": "Montreal, QC" },
-    { "name": "Shadrak Lasu", "school": "Long Island", "pos": "F", "year": "Sophomore", "hometown": "Winnipeg, MB" },
-    { "name": "Torian Lee", "school": "UC Irvine", "pos": "G", "year": "Sophomore", "hometown": "Surrey, BC" },
-    { "name": "Xaivian Lee", "school": "Florida", "pos": "G", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Braeden Macvicar", "school": "Coastal Carolina", "pos": "C", "year": "Junior", "hometown": "Rothesay, NB" },
-    { "name": "Elijah Mahi", "school": "Santa Clara", "pos": "F", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Cyril Martynov", "school": "Fairleigh Dickinson", "pos": "C", "year": "Senior", "hometown": "Barrie, ON" },
-    { "name": "Armani Mighty", "school": "Mercer", "pos": "C", "year": "Senior", "hometown": "Thornhill, ON" },
-    { "name": "Omar Migues-Hibeljic", "school": "Buffalo", "pos": "F", "year": "Sophomore", "hometown": "Montreal, QC" },
-    { "name": "Jovan Milicevic", "school": "Xavier", "pos": "C", "year": "Sophomore", "hometown": "Toronto, ON" },
-    { "name": "Dezayne Mingo", "school": "Charlotte", "pos": "G", "year": "Senior", "hometown": "Hamilton, ON" },
-    { "name": "Frank Mitchell", "school": "St. Bonaventure", "pos": "F", "year": "Senior", "hometown": "Toronto, ON" },
-    { "name": "Jefferson Monegro", "school": "Cal State Fullerton", "pos": "G", "year": "Senior", "hometown": "Lasalle, ON" },
-    { "name": "Collin Mulholland", "school": "Chattanooga", "pos": "C", "year": "Senior", "hometown": "Kitchener, ON" },
-    { "name": "Kieran Mullen", "school": "Pittsburgh", "pos": "C", "year": "Freshman", "hometown": "Vancouver, BC" },
-    { "name": "Brandon Muntu", "school": "Tennessee Tech", "pos": "F", "year": "Senior", "hometown": "Calgary, AB" },
-    { "name": "Bashir N'Galang", "school": "Maine", "pos": "G", "year": "Freshman", "hometown": "Montreal, QC" },
-    { "name": "Max Ndlovu-Fraser", "school": "Long Island", "pos": "G", "year": "Freshman", "hometown": "Vancouver, BC" },
-    { "name": "Thomas Ndong", "school": "California Baptist", "pos": "C", "year": "Senior", "hometown": "Quebec City, QC" },
-    { "name": "Milos Nenadic", "school": "Lindenwood", "pos": "F", "year": "Senior", "hometown": "Mississauga, ON" },
-    { "name": "Christian Nitu", "school": "Washington", "pos": "C", "year": "Sophomore", "hometown": "Whitby, ON" },
-    { "name": "Onyx Nnani", "school": "South Florida", "pos": "F", "year": "Freshman", "hometown": "Edmonton, AB" },
-    { "name": "Michael Nwoko", "school": "LSU", "pos": "C", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "Adriel Nyorha", "school": "South Florida", "pos": "G", "year": "Freshman", "hometown": "Ottawa, ON" },
-    { "name": "Brayden O'Connor", "school": "George Mason", "pos": "G", "year": "Senior", "hometown": "Ottawa, ON" },
-    { "name": "Baraka Okojie", "school": "Mercer", "pos": "G", "year": "Junior", "hometown": "Brampton, ON" },
-    { "name": "Ose Okojie", "school": "Howard", "pos": "F", "year": "Senior", "hometown": "Brampton, ON" },
-    { "name": "Efeosa Oliogu-Elabor", "school": "Butler", "pos": "F", "year": "Freshman", "hometown": "Markham, ON" },
-    { "name": "Adam Olsen", "school": "South Alabama", "pos": "F", "year": "Junior", "hometown": "Surrey, BC" },
-    { "name": "Josh Omojafo", "school": "South Florida", "pos": "G", "year": "Junior", "hometown": "Hamilton, ON" },
-    { "name": "Steven Osei", "school": "Kansas State", "pos": "F", "year": "Sophomore", "hometown": "Etobicoke, ON" },
-    { "name": "Noah Otshudi", "school": "Marshall", "pos": "G", "year": "Senior", "hometown": "Hamilton, ON" },
-    { "name": "Nana Owusu-Anane", "school": "Grand Canyon", "pos": "F", "year": "Senior", "hometown": "Burlington, ON" },
-    { "name": "Aleksander Pachucki", "school": "Bucknell", "pos": "G", "year": "Freshman", "hometown": "Toronto, ON" },
-    { "name": "Dominic Pangionis", "school": "Wright State", "pos": "F", "year": "Sophomore", "hometown": "Burlington, ON" },
-    { "name": "Dominic Parolin", "school": "Boise State", "pos": "F/C", "year": "Senior", "hometown": "Coquitlam, BC" },
-    { "name": "Felipe Patino", "school": "Southern Mississippi", "pos": "G", "year": "Sophomore", "hometown": "Mississauga, ON" },
-    { "name": "Addison Patterson", "school": "Eastern Michigan", "pos": "SF", "year": "Senior", "hometown": "Milton, ON" },
-    { "name": "Declan Peterson", "school": "Western Michigan", "pos": "C", "year": "Senior", "hometown": "Bentley, AB" },
-    { "name": "Jaion Pitt", "school": "Pacific", "pos": "G/F", "year": "Freshman", "hometown": "Norwood, ON" },
-    { "name": "Elias Ralph", "school": "Pacific", "pos": "F", "year": "Senior", "hometown": "Okotoks, AB" },
-    { "name": "Tyrus Rathan-Mayes", "school": "Wichita State", "pos": "SG", "year": "Freshman", "hometown": "Toronto, ON" },
-    { "name": "Oliver Rioux", "school": "Florida", "pos": "C", "year": "Sophomore", "hometown": "Montreal, QC" },
-    { "name": "Bryant Selebangue", "school": "Western Kentucky", "pos": "F", "year": "Senior", "hometown": "Montreal, QC" },
-    { "name": "Ishan Sharma", "school": "Saint Louis", "pos": "F", "year": "Sophomore", "hometown": "Milton, ON" },
-    { "name": "David Simon", "school": "Vermont", "pos": "C", "year": "Junior", "hometown": "Windsor, ON" },
-    { "name": "Xavier Spencer", "school": "UMass Lowell", "pos": "G", "year": "Junior", "hometown": "Calgary, AB" },
-    { "name": "Ewan Steele", "school": "Idaho", "pos": "C", "year": "Sophomore", "hometown": "Alton, ON" },
-    { "name": "Keelan Steele", "school": "Maine", "pos": "C", "year": "Senior", "hometown": "Alton, ON" },
-    { "name": "Kaden Stuckey", "school": "Virginia Military", "pos": "F", "year": "Sophomore", "hometown": "Mono, ON" },
-    { "name": "Caelum Swanton-Rodger", "school": "Old Dominion", "pos": "C", "year": "Senior", "hometown": "Calgary, AB" },
-    { "name": "Chris Tadjo", "school": "Santa Clara", "pos": "F", "year": "Sophomore", "hometown": "Montreal, QC" },
-    { "name": "Waqo Tessema", "school": "Cleveland State", "pos": "G", "year": "Junior", "hometown": "Hamilton, ON" },
-    { "name": "Jacob Theodosiou", "school": "Loyola (MD)", "pos": "G", "year": "Junior", "hometown": "Waterloo, ON" },
-    { "name": "Mikkel Tyne", "school": "Richmond", "pos": "PG", "year": "Junior", "hometown": "Mississauga, ON" },
-    { "name": "Adrian Uchidiuno", "school": "Brown", "pos": "G/F", "year": "Junior", "hometown": "Markham, ON" },
-    { "name": "Andrew Urosevic", "school": "Lehigh", "pos": "G", "year": "Freshman", "hometown": "Kitchener, ON" },
-    { "name": "Hudson Ward", "school": "Western Michigan", "pos": "SF", "year": "Sophomore", "hometown": "Leduc, AB" },
-    { "name": "Jahari Williamson", "school": "Kent State", "pos": "G", "year": "Junior", "hometown": "Toronto, ON" },
-    { "name": "D'shay Wright", "school": "South Carolina State", "pos": "F", "year": "Sophomore", "hometown": "Ajax, ON" },
-    { "name": "Anthony Wrzeszcz", "school": "New Mexico State", "pos": "G/F", "year": "Senior", "hometown": "Mississauga, ON" }
+    {
+      "name": "Adam Harakow",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Wyoming, Western Canada Prep, GoodHoops, Calgary, AB"
+    },
+    {
+      "name": "Adam Olsen",
+      "school": "Junior",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "South Alabama, Elgin Park, Drive Basketball, Surrey, BC"
+    },
+    {
+      "name": "Addison Patterson",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "SF",
+      "hometown": "Eastern Michigan, Bella Vista, Team Why Not, Milton, ON"
+    },
+    {
+      "name": "Aden Holloway",
+      "school": "Junior",
+      "pos": "6-1",
+      "year": "G",
+      "hometown": "Alabama, Prolific Prep, CP3, Charlotte, NC"
+    },
+    {
+      "name": "Adrian Uchidiuno",
+      "school": "Junior",
+      "pos": "6-2",
+      "year": "GF",
+      "hometown": "Brown, Cushing Academy, Northern Kings, Markham, ON"
+    },
+    {
+      "name": "Adriel Nyorha",
+      "school": "Freshman",
+      "pos": "6-5",
+      "year": "G",
+      "hometown": "South Florida, Winston Salem Christian, Brookwood Elite, Ottawa, ON"
+    },
+    {
+      "name": "Aleksander Pachucki",
+      "school": "Freshman",
+      "pos": "6-5",
+      "year": "G",
+      "hometown": "Bucknell, Hoosac, City Rocks, Toronto, ON"
+    },
+    {
+      "name": "Amare Allen",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Maine, CODE Academy, DC United, Ajax, ON"
+    },
+    {
+      "name": "Andrew Urosevic",
+      "school": "Freshman",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Lehigh, CIA BellaVista, UPLAY, Kitchener, ON"
+    },
+    {
+      "name": "Anthony Wrzeszcz",
+      "school": "Senior",
+      "pos": "6-4",
+      "year": "GF",
+      "hometown": "New Mexico State, Wasatch Academy, Canada Elite, Mississauga, ON"
+    },
+    {
+      "name": "Arden Begaj",
+      "school": "Sophomore",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "North Florida, Bill Crothers, Canada Elite, Toronto, ON"
+    },
+    {
+      "name": "Armani Mighty",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Mercer, United Scholastic Academy, Canada Elite, Thornhill, ON"
+    },
+    {
+      "name": "Augustas Brazdeikis",
+      "school": "Junior",
+      "pos": "6-8",
+      "year": "SF",
+      "hometown": "Pacific, Polaris Prep, Canada Elite, Oakville, ON"
+    },
+    {
+      "name": "Austin Goode",
+      "school": "Freshman",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Cal Poly, CIA BellaVista, Canada Elite, Toronto, ON"
+    },
+    {
+      "name": "Baraka Okojie",
+      "school": "Junior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Mercer, DME Academy, Canada Elite, Brampton, ON"
+    },
+    {
+      "name": "Bashir N’Galang",
+      "school": "Freshman",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Maine, Fort Erie International Academy, UPLAY, Montreal, QC"
+    },
+    {
+      "name": "Benjamin Ezeagu",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Southern Indiana, Potter’s House, UPLAY, Brampton, ON"
+    },
+    {
+      "name": "Boston Harker",
+      "school": "Junior",
+      "pos": "6-4",
+      "year": "F",
+      "hometown": "Utah Tech, Edge Prep, Genesis, Calgary, AB"
+    },
+    {
+      "name": "Braeden Macvicar",
+      "school": "Junior",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Coastal Carolina, RNS, UPLAY, Rothesay, New Brunswick"
+    },
+    {
+      "name": "Brandon Muntu",
+      "school": "Senior",
+      "pos": "6-4",
+      "year": "F",
+      "hometown": "Tennessee Tech, Orangeville, Grassroots, Calgary, AB"
+    },
+    {
+      "name": "Brayden Jackson",
+      "school": "Freshman",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "St. Bonaventure, Fort Erie International Academy, Canada Elite, Milton, ON"
+    },
+    {
+      "name": "Brayden O’Connor",
+      "school": "Senior",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "George Mason, Canada Topflight Academy, Ottawa Elite, Ottawa, ON"
+    },
+    {
+      "name": "Bryant Selebangue",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Western Kentucky, Rise Academy, RedRush, Montreal, QC"
+    },
+    {
+      "name": "Bubu Benjamin",
+      "school": "Junior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "George Washington, Edge Prep, Genesis, Medicine Hat, AB"
+    },
+    {
+      "name": "Caelum Swanton-Rodger",
+      "school": "Senior",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "Old Dominion, Edge Prep, Genesis, Calgary, AB"
+    },
+    {
+      "name": "Cameron Brennan",
+      "school": "Sophomore",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "Colgate, Polaris Prep, Canada Elite, Burlington, ON"
+    },
+    {
+      "name": "Chidube Ekwommadu",
+      "school": "Sophomore",
+      "pos": "6-4",
+      "year": "F",
+      "hometown": "Fairleigh Dickinson, Fort Erie International Academy, UPLAY, Mississauga, ON"
+    },
+    {
+      "name": "Chris Kumu",
+      "school": "Freshman",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Canisius, Fort Erie International Academy, Brookwood Elite, Montreal"
+    },
+    {
+      "name": "Chris Tadjo",
+      "school": "Sophomore",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Santa Clara, NBA Academy, CB Elite, Montreal, QC"
+    },
+    {
+      "name": "Christian Nitu",
+      "school": "Sophomore",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Washington, Fort Erie International Academy, UPLAY, Whitby, ON"
+    },
+    {
+      "name": "Collin Mulholland",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Chattanooga, Holy Family Catholic, Minnesota Heat, Kitchener, ON"
+    },
+    {
+      "name": "Cyril Martynov",
+      "school": "Senior",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "Fairleigh Dickinson, Lawrenceville HS, Grassroots, Barrie, ON"
+    },
+    {
+      "name": "D’shay Wright",
+      "school": "Sophomore",
+      "pos": "6’9",
+      "year": "F",
+      "hometown": "South Carolina State, Polaris Prep, Mississauga Monarchs, Ajax, ON"
+    },
+    {
+      "name": "Dante Censori-Hercules",
+      "school": "Freshman",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Portland, Hodan Prep, Canada Elite, Toronto, ON"
+    },
+    {
+      "name": "Davante Hackett",
+      "school": "Junior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Stonehill, Royal Crown, Northern Kings, Toronto, ON"
+    },
+    {
+      "name": "David Hansen",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Weber State, CTA West, Doggpound, Margrath, AB"
+    },
+    {
+      "name": "David Simon",
+      "school": "Junior",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Vermont, Royal Crown, Northern Kings, Windsor, ON"
+    },
+    {
+      "name": "Declan Cutler",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Weber State, Royal Crown, Drive Basketball, Vancouver, BC"
+    },
+    {
+      "name": "Declan Peterson",
+      "school": "Senior",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Western Michigan, Lethbridge Collegiate, Bentley, AB"
+    },
+    {
+      "name": "Dezayne Mingo",
+      "school": "Senior",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Charlotte, Crestwood, Grassroots, Hamilton, ON"
+    },
+    {
+      "name": "Dominic Pangionis",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Wright State, Polaris Prep, Canada Elite, Burlington, ON"
+    },
+    {
+      "name": "Dominic Parolin",
+      "school": "Senior",
+      "pos": "6-9",
+      "year": "FC",
+      "hometown": "Boise State, Centennial, Drive Basketball, Coquitlam, BC"
+    },
+    {
+      "name": "Dylan Desbiens",
+      "school": "Freshman",
+      "pos": "6-6",
+      "year": "F",
+      "hometown": "Louisville, IMG Academy, Brookwood Elite, Quebec City"
+    },
+    {
+      "name": "Dylan Grant",
+      "school": "Sophomore",
+      "pos": "6-8",
+      "year": "SF",
+      "hometown": "Rutgers, Michigan Collegiate, The Family, Mississauga, ON"
+    },
+    {
+      "name": "Dylan Homenick",
+      "school": "Freshman",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Richmond, Perkiomen, Drive Basketball, Surrey, BC"
+    },
+    {
+      "name": "E.J. Horton",
+      "school": "Freshman",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "North Texas, Orangeville, Mean Streets, Chicago, IL"
+    },
+    {
+      "name": "Edouard Benoit",
+      "school": "Sophomore",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Lehigh, Brebeuf, Brookwood Elite, Montreal, QC"
+    },
+    {
+      "name": "Efeosa Oliogu-Elabor",
+      "school": "Freshman",
+      "pos": "6-6",
+      "year": "F",
+      "hometown": "Butler, William Academy, Canada Elite, Markham, ON"
+    },
+    {
+      "name": "Elias Ralph",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Pacific, Holy Trinity, Okotoks, AB"
+    },
+    {
+      "name": "Elijah Fisher",
+      "school": "Senior",
+      "pos": "6-6",
+      "year": "F",
+      "hometown": "Seton Hall, Crestwood, Grassroots, Toronto, ON"
+    },
+    {
+      "name": "Elijah Mahi",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Santa Clara, Potter’s House, Northern Kings, Toronto, ON"
+    },
+    {
+      "name": "Enoch Kalambay",
+      "school": "Senior",
+      "pos": "6-6",
+      "year": "SG",
+      "hometown": "Campbell, Orangeville, Brookwood Elite, Gatineau, QC"
+    },
+    {
+      "name": "Eternity Eguagie",
+      "school": "Sophomore",
+      "pos": "6-6",
+      "year": "F",
+      "hometown": "Rice, J Addison, UPLAY, Edmonton, AB"
+    },
+    {
+      "name": "Ethan Brown",
+      "school": "Sophomore",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Colgate, United Scholastic Academy, Canada Elite, Peterborough, ON"
+    },
+    {
+      "name": "Ethan Butler",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Charlotte, Southwest Academy, Toronto Triple Threat, Toronto, ON"
+    },
+    {
+      "name": "Evans Barning, Jr.",
+      "school": "Freshman",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "West Virginia, Archbishop Carroll, Team Durant, Toronto, ON"
+    },
+    {
+      "name": "Ewan Steele",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "C",
+      "hometown": "Idaho, Polaris Prep, Mississauga Monarchs, Alton, ON"
+    },
+    {
+      "name": "Felipe Patino",
+      "school": "Sophomore",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Southern Mississippi, Winston Salem Christian, Grassroots, Mississauga, ON"
+    },
+    {
+      "name": "Felix Kossaras",
+      "school": "Sophomore",
+      "pos": "6-5",
+      "year": "GF",
+      "hometown": "Colorado, Fort Erie International Academy, Brookwood Elite, Quebec City"
+    },
+    {
+      "name": "Frank Mitchell",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "St. Bonaventure, Oakville Prep, Toronto, ON"
+    },
+    {
+      "name": "Haris Elezovic",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "PF",
+      "hometown": "Northeastern, Vanier College, Brookwood Elite, Quebec City"
+    },
+    {
+      "name": "Hassan Abdul-Hakim",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "G",
+      "hometown": "Memphis, Orangeville, Etobicoke Thunder, Mississauga, ON"
+    },
+    {
+      "name": "Hermann Koffi",
+      "school": "Sophomore",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Stonehill, Therford Academy, Brookwood Elite, Quebec City, QC"
+    },
+    {
+      "name": "Hudson Ward",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "SF",
+      "hometown": "Western Michigan, Western Canada Prep, UPLAY, Leduc, AB"
+    },
+    {
+      "name": "Hunter Harding",
+      "school": "Junior",
+      "pos": "7-1",
+      "year": "C",
+      "hometown": "Indiana State, Royal Crown, Toronto Nustep, Toronto, ON"
+    },
+    {
+      "name": "Irish Coquia",
+      "school": "Sophomore",
+      "pos": "6-2",
+      "year": "G",
+      "hometown": "New Orleans, St.Patrick’s HS, Drive Basketball, Vancouver, BC"
+    },
+    {
+      "name": "Isaac Jack",
+      "school": "Junior",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Pacific, Fort Erie International Academy, UPLAY, Port Alberni, BC"
+    },
+    {
+      "name": "Ishan Sharma",
+      "school": "Sophomore",
+      "pos": "6-5",
+      "year": "F",
+      "hometown": "Saint Louis, Fort Erie International Academy, UPLAY, Milton, ON"
+    },
+    {
+      "name": "Ismael Diouf",
+      "school": "Junior",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Northern Iowa, Cegep Saint-Jean Sur-Richelieu, Montreal, QC"
+    },
+    {
+      "name": "J.C. Brooks",
+      "school": "Sophomore",
+      "pos": "6-10",
+      "year": "FC",
+      "hometown": "Tennessee State, Orangeville, Genesis, Calgary, AB"
+    },
+    {
+      "name": "Jacob Theodosiou",
+      "school": "Junior",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Loyola (MD), Western Reserve Academy, Gym Rats, Waterloo, ON"
+    },
+    {
+      "name": "Jaden Clayton",
+      "school": "Junior",
+      "pos": "6-1",
+      "year": "PG",
+      "hometown": "Pacific, Fort Erie International Academy, UPLAY, Whitby, ON"
+    },
+    {
+      "name": "Jaden Kirkwood",
+      "school": "Senior",
+      "pos": "6-5",
+      "year": "G",
+      "hometown": "Holy Cross, IMG Academy, Brookwood Elite, Ottawa, ON"
+    },
+    {
+      "name": "Jahari Williamson",
+      "school": "Junior",
+      "pos": "6-1",
+      "year": "G",
+      "hometown": "Kent State, Royal Crown, Toronto Nustep, Toronto, ON"
+    },
+    {
+      "name": "Jaiden Cole",
+      "school": "Sophomore",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Towson, NBA Academy, UPLAY, Scarborough, ON"
+    },
+    {
+      "name": "Jaion Pitt",
+      "school": "Freshman",
+      "pos": "6-7",
+      "year": "GF",
+      "hometown": "Pacific, CIA Bella Vista, AZ Unity, Norwood, ON"
+    },
+    {
+      "name": "Jalen Celestine",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "PG",
+      "hometown": "Cincinnati, Long Island Lutheran, UPLAY, Ajax, ON"
+    },
+    {
+      "name": "Jalen Rougier-Roane",
+      "school": "Freshman",
+      "pos": "6-5",
+      "year": "G",
+      "hometown": "George Washington, Sidwell Friends, TTO, Washington, DC"
+    },
+    {
+      "name": "Jalik Dunkley-Distant",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "PG",
+      "hometown": "Nicholls State, Overtime Elite, Bounce, Hamilton, ON"
+    },
+    {
+      "name": "Jamal Fuller\nJordan Gorecki",
+      "school": "Senior Junior",
+      "pos": "6-56-10",
+      "year": "F\nF",
+      "hometown": "Long Island Texas Southern, Central Tech, People’s Basketball, Toronto, ON"
+    },
+    {
+      "name": "Jefferson Monegro",
+      "school": "Senior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Cal State Fullerton, Orangeville, Bounce, Lasalle, ON"
+    },
+    {
+      "name": "Jeremy Foumena",
+      "school": "Junior",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "UCF, Orangeville, TTP United, Quebec City"
+    },
+    {
+      "name": "Jimma James",
+      "school": "Junior",
+      "pos": "6-6",
+      "year": "SG",
+      "hometown": "Queens University, Hillcrest Prep, Grassroots, Windsor, ON"
+    },
+    {
+      "name": "John Ikpotokin",
+      "school": "Freshman",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "St. Bonaventure, RNS, UPLAY, Rothesay, New Brunswick"
+    },
+    {
+      "name": "Jordann Dumont",
+      "school": "Junior",
+      "pos": "6-8",
+      "year": "SF",
+      "hometown": "VCU, Hamilton Heights, UPLAY, Quebec City"
+    },
+    {
+      "name": "Josh Ahayere",
+      "school": "Sophomore",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Colgate, Crestwood, Team Active, Morinville, AB"
+    },
+    {
+      "name": "Josh Omojafo",
+      "school": "Junior",
+      "pos": "6-5",
+      "year": "G",
+      "hometown": "South Florida, St Jean De Breabeuf (Hamilton), Burlington Force, Hamilton, ON"
+    },
+    {
+      "name": "Josiah Davis",
+      "school": "Senior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Cal State Northridge, Teays Valley, UPLAY, Kitchener, ON"
+    },
+    {
+      "name": "Josiah Francis",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Fairleigh Dickinson, United Scholastic Academy, Canada Elite, Scarborough, ON"
+    },
+    {
+      "name": "Jovan Milicevic",
+      "school": "Sophomore",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Xavier, CIA BellaVista, AZ Unity, Toronto, ON"
+    },
+    {
+      "name": "K.C. Ibekwe",
+      "school": "Senior",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "Pacific, Centennial, Drive Basketball, Coquitlam, BC"
+    },
+    {
+      "name": "Kaden Stuckey",
+      "school": "Sophomore",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Virginia Military, Orangeville, UPLAY, Mono, ON"
+    },
+    {
+      "name": "Keelan Steele",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Maine, Victory Academy, Canada Elite, Alton, ON"
+    },
+    {
+      "name": "Kevin Alabi",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Alabama State, Skyline HS, Team Active, Brampton, ON"
+    },
+    {
+      "name": "Kevin De Kovachich",
+      "school": "Sophomore",
+      "pos": "6-4",
+      "year": "PG",
+      "hometown": "North Alabama, Orangeville, MTL Prospects, Montreal, QC"
+    },
+    {
+      "name": "Kieran Mullen",
+      "school": "Freshman",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "Pittsburgh, St Thomas More, 3D Basketball Academy, Vancouver, BC"
+    },
+    {
+      "name": "Kwo Agwa",
+      "school": "Senior",
+      "pos": "6-6",
+      "year": "F",
+      "hometown": "Texas-RGV, Edge, Genesis, Calgary, AB"
+    },
+    {
+      "name": "Kye Dickson",
+      "school": "Junior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Texas-RGV, Balboa, All4ONE, Toronto, ON"
+    },
+    {
+      "name": "Liam Dayco-Green",
+      "school": "Sophomore",
+      "pos": "6-2",
+      "year": "G",
+      "hometown": "Florida Atlantic, Prolific Prep, Drive Basketball, Vancouver, BC"
+    },
+    {
+      "name": "Louis Daoust",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Tennessee State, Vanier College, Montreal, QC"
+    },
+    {
+      "name": "Lucas Burton",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Cleveland State, Lamar HS, New West Elite, Vancouver, BC"
+    },
+    {
+      "name": "Luke Hunger",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "F",
+      "hometown": "George Washington, Northfield Mount Hermon, BABC, Montreal, QC"
+    },
+    {
+      "name": "Maban Jabriel",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Queens University, Tri City Prep, Northern Kings, Waterloo, ON"
+    },
+    {
+      "name": "Malachi Davis",
+      "school": "Senior",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Long Island, Central Tech, Grassroots, Toronto, ON"
+    },
+    {
+      "name": "Malcolm Christie",
+      "school": "Senior",
+      "pos": "6-5",
+      "year": "GF",
+      "hometown": "Oregon State, Fredericton HS, Frederticton, NB"
+    },
+    {
+      "name": "Marial Akuentok",
+      "school": "Freshman",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Texas Tech, Fort Erie, UPLAY, Edmonton, AB"
+    },
+    {
+      "name": "Markus Harding",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "Indiana State, TBA, Grassroots, Toronto, ON"
+    },
+    {
+      "name": "Matai Baptiste",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Boston University, Orangeville, Supreme Hoops, Toronto, ON"
+    },
+    {
+      "name": "Matthew Dann",
+      "school": "Freshman",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "Sam Houston State, Fort Erie International Academy, Brookwood Elite, Oakville, ON"
+    },
+    {
+      "name": "Max Ndlovu-Fraser",
+      "school": "Freshman",
+      "pos": "6-4",
+      "year": "G",
+      "hometown": "Long Island, Western Canada Prep, GoodHoops, Vancouver, BC"
+    },
+    {
+      "name": "Michael Nwoko",
+      "school": "Junior",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "LSU, Prolific Prep, CP3, Toronto, ON"
+    },
+    {
+      "name": "Mike Evbagharu",
+      "school": "Junior",
+      "pos": "6-4",
+      "year": "SG",
+      "hometown": "Canisius, Royal Crown, Toronto Nustep, Toronto, ON"
+    },
+    {
+      "name": "Mikey Kelvin II",
+      "school": "Senior",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Florida International, Holy Cross HS, Ottawa, ON"
+    },
+    {
+      "name": "Mikkel Tyne",
+      "school": "Junior",
+      "pos": "5-10",
+      "year": "PG",
+      "hometown": "Richmond, Montverde Academy, UPLAY, Mississauga, ON"
+    },
+    {
+      "name": "Milos Nenadic",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "F",
+      "hometown": "Lindenwood, Western Reserve Academy, Mississauga Monarchs, Mississauga, ON"
+    },
+    {
+      "name": "Nait George",
+      "school": "Junior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Syracuse, Dream City Christian, AZ Unity, Toronto, ON"
+    },
+    {
+      "name": "Nana Owusu-Anane",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Grand Canyon, Vermont Academy, Canada Eilte, Burlington, ON"
+    },
+    {
+      "name": "Noah Otshudi",
+      "school": "Senior",
+      "pos": "6-2",
+      "year": "G",
+      "hometown": "Marshall, Bill Crothers, UPLAY, Hamilton, ON"
+    },
+    {
+      "name": "Oliver Faubert",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "C",
+      "hometown": "Saint Mary’s, Fort Erie International Academy, Brookwood Elite, Ottawa, ON"
+    },
+    {
+      "name": "Oliver Rioux",
+      "school": "Sophomore",
+      "pos": "7-9",
+      "year": "C",
+      "hometown": "Florida, IMG Academy, Brookwood Elite, Montreal, QC"
+    },
+    {
+      "name": "Omar Migues-Hibeljic",
+      "school": "Sophomore",
+      "pos": "6-5",
+      "year": "F",
+      "hometown": "Buffalo, Breabeuf, Montreal, QC"
+    },
+    {
+      "name": "Onyx Nnani",
+      "school": "Freshman",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "South Florida, Phelps School, UPLAY, Edmonton, AB"
+    },
+    {
+      "name": "Ose Okojie",
+      "school": "Senior",
+      "pos": "6-5",
+      "year": "F",
+      "hometown": "Howard, United Scholastic Academy, Canada Elite, Brampton, ON"
+    },
+    {
+      "name": "Rocco Awad",
+      "school": "Freshman",
+      "pos": "6-1",
+      "year": "G",
+      "hometown": "N.J.I.T., LBA, WPA Suns, Windsor, ON"
+    },
+    {
+      "name": "Rory Stewart",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "PF",
+      "hometown": "Florida Gulf Coast, Orangeville, London, UK"
+    },
+    {
+      "name": "Ryan Kalambay",
+      "school": "Sophomore",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Detroit-Mercy, Fort Erie International Academy, UPLAY, Brampton, ON"
+    },
+    {
+      "name": "Sam Alamutu",
+      "school": "Senior",
+      "pos": "6-5",
+      "year": "G",
+      "hometown": "Wright State, RNS, UPLAY, Ajax, ON"
+    },
+    {
+      "name": "Sean Blake",
+      "school": "Sophomore",
+      "pos": "6-2",
+      "year": "G",
+      "hometown": "Vermont, Royal Crown, UPLAY, Mississauga, ON"
+    },
+    {
+      "name": "Shadrak Lasu",
+      "school": "Sophomore",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Long Island, Northstar, Triumph, Winnipeg, MB"
+    },
+    {
+      "name": "Simon Hildebrandt",
+      "school": "Senior",
+      "pos": "6-9",
+      "year": "F",
+      "hometown": "Washington State, Royal Crown, UPLAY, Winnipeg, MB"
+    },
+    {
+      "name": "Spencer Ahrens",
+      "school": "Freshman",
+      "pos": "6-10",
+      "year": "F",
+      "hometown": "Boise State, CIA Bella Vista, UPLAY, Oakville, ON"
+    },
+    {
+      "name": "Stefan Jimenez Vojnic",
+      "school": "Sophomore",
+      "pos": "6-11",
+      "year": "C",
+      "hometown": "N.J.I.T., Central Florida Christian, Canada Elite, Toronto, ON"
+    },
+    {
+      "name": "Steven Osei",
+      "school": "Sophomore",
+      "pos": "6-10",
+      "year": "F",
+      "hometown": "Kansas State, NBA Academy, UPLAY, Etobicoke, ON"
+    },
+    {
+      "name": "T.J. Biel",
+      "school": "Senior",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Maine, Edge Prep, Genesis, Calgary, AB"
+    },
+    {
+      "name": "T.J. Hurley",
+      "school": "Senior",
+      "pos": "6-5",
+      "year": "F",
+      "hometown": "Vermont, The Rock HS, Team Florida, Pelham, ON"
+    },
+    {
+      "name": "Tegra Izay",
+      "school": "Senior",
+      "pos": "7-0",
+      "year": "C",
+      "hometown": "Southern Mississippi, Archbishop Carroll, Team Durant, Montreal"
+    },
+    {
+      "name": "Thomas Ndong",
+      "school": "Senior",
+      "pos": "6-10",
+      "year": "C",
+      "hometown": "California Baptist, NBA Academy, NBA Academy, Quebec City, QC"
+    },
+    {
+      "name": "Tim Eze",
+      "school": "Sophomore",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "UMBC, Bill Crothers, Northern Kings, Kleinburg, ON"
+    },
+    {
+      "name": "Torian Lee",
+      "school": "Sophomore",
+      "pos": "5-11",
+      "year": "G",
+      "hometown": "UC Irvine, Orangeville, Canada Elite, Surrey, BC"
+    },
+    {
+      "name": "Tristan Beckford",
+      "school": "Freshman",
+      "pos": "6-5",
+      "year": "GF",
+      "hometown": "South Florida, Fort Erie International Academy, UPLAY, Vaughan, ON"
+    },
+    {
+      "name": "Tunde Durodola",
+      "school": "Sophomore",
+      "pos": "6-8",
+      "year": "F",
+      "hometown": "Temple, DME Academy, Canada Elite, Vaughan, ON"
+    },
+    {
+      "name": "Tyrus Rathan-Mayes",
+      "school": "Freshman",
+      "pos": "6-5",
+      "year": "SG",
+      "hometown": "Wichita State, Langham Creek, COOZ Elite, Toronto, ON"
+    },
+    {
+      "name": "Tyson Dunn",
+      "school": "Senior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "UC San Diego, Bill Crothers, Northern Kings, Newmarket, ON"
+    },
+    {
+      "name": "Vasean Allette",
+      "school": "Junior",
+      "pos": "6-2",
+      "year": "G",
+      "hometown": "Texas-San Antonio, United Scholastic Academy, Canada Elite, Thornhill, ON"
+    },
+    {
+      "name": "Waqo Tessema",
+      "school": "Junior",
+      "pos": "6-0",
+      "year": "G",
+      "hometown": "Cleveland State, Fort Erie International Academy, Burloak Basketball, Hamilton, ON"
+    },
+    {
+      "name": "Will Exacte, Jr.",
+      "school": "Junior",
+      "pos": "6-6",
+      "year": "G",
+      "hometown": "Drake, NBA Academy, Canada Elite, Monreal, QC"
+    },
+    {
+      "name": "Wilson Dubinsky",
+      "school": "Senior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Marshall, Orangeville, Canada Elite, Ottawa, ON"
+    },
+    {
+      "name": "Xaivian Lee",
+      "school": "Senior",
+      "pos": "6-3",
+      "year": "G",
+      "hometown": "Florida, Perkiomen, All4ONE, Toronto, ON"
+    },
+    {
+      "name": "Xavier Spencer",
+      "school": "Junior",
+      "pos": "6-1",
+      "year": "G",
+      "hometown": "UMass Lowell, Edge Prep, Genesis, Calgary, AB"
+    },
+    {
+      "name": "Yanis Bamba",
+      "school": "Junior",
+      "pos": "6-6",
+      "year": "F",
+      "hometown": "Maine, Brebeuf, Brookwood Elite, Monreal, QC"
+    },
+    {
+      "name": "Zaiden Cross",
+      "school": "Senior",
+      "pos": "6-7",
+      "year": "F",
+      "hometown": "Nicholls State, Crestwood, Grassroots, Scarborough, ON"
+    }
   ]
 }
