@@ -23,6 +23,13 @@ function _enc(s) { return btoa(unescape(encodeURIComponent(s))).split('').revers
 function _dec(s) { try { return decodeURIComponent(escape(atob(s.split('').reverse().join('')))); } catch { return s; } }
 
 const AUTH = {
+  // ===== Session versioning =====
+  // Bump this whenever you rotate admin credentials, change premium tiers, or
+  // otherwise want to force every existing user to log in again. On boot,
+  // any session lacking this version (or with a lower version) is invalidated.
+  // Latest bump: 2026-05-02 — ceblgm password rotated from Sc0ut!2026$BHB to Vault!2026!BHB
+  SESSION_VERSION: 2,
+
   // Obfuscated admin credentials (not in plaintext).
   // Add new admins by appending an entry — username, password, name, email.
   // Login matches if (username, password) matches any entry in this list.
@@ -123,7 +130,8 @@ const AUTH = {
         isPaid: true,
         views: 0,
         device: fp,
-        loginTime: new Date().toISOString()
+        loginTime: new Date().toISOString(),
+        _v: this.SESSION_VERSION       // stamp current auth version
       };
       this.saveSession(session);
       return session;
@@ -176,7 +184,8 @@ const AUTH = {
       isPaid: user.isPaid || false,
       views: existing?.email === user.email ? (existing.views || user.views || 0) : (user.views || 0),
       device: fp,
-      loginTime: new Date().toISOString()
+      loginTime: new Date().toISOString(),
+      _v: this.SESSION_VERSION
     };
     this.saveSession(session);
     return session;
@@ -702,6 +711,17 @@ function downloadUserCSV() {
 // ===== Auto-Init =====
 document.addEventListener('DOMContentLoaded', () => {
   const session = AUTH.getSession();
+
+  // Session versioning — invalidate any session that predates a credential
+  // rotation or auth-system change. Forces affected users to log in again
+  // (which means typing in the new password, which means we know it's them).
+  if (session && (!session._v || session._v < AUTH.SESSION_VERSION)) {
+    console.log('🔒 Session predates auth v' + AUTH.SESSION_VERSION + ' — clearing for re-login');
+    localStorage.removeItem('hi_session');
+    showLoginScreen();
+    return;
+  }
+
   if (session) {
     enterApp(session);
   } else {
