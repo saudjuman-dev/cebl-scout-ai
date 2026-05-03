@@ -36,24 +36,39 @@ function syncDashboardCounters() {
 }
 
 // Animate stat counters with ease-out + thousand-separators (cinematic)
+// CRITICAL: textContent is set to the FINAL value immediately so that if the
+// animation gets interrupted (user switches tabs, browser throttles RAF, etc.)
+// the counter never gets stuck at a mid-animation value like "11" or "8".
 function animateCounters() {
   syncDashboardCounters();   // bind real data first
   document.querySelectorAll('.stat-number').forEach(el => {
     const target = parseInt(el.getAttribute('data-count')) || 0;
     if (!target) return;
     const fmt = (n) => Math.round(n).toLocaleString();
-    const duration = 1100;        // ms
+    // Set the FINAL value first so worst case the user always sees correct number
+    el.textContent = fmt(target);
+    // Skip animation if user prefers reduced motion
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    // Skip animation if the element isn't visible (will be re-triggered by tab switch)
+    if (el.offsetParent === null) return;
+    const duration = 1100;
     const start = performance.now();
+    let cancelled = false;
+    // Reset visually to 0 then animate up — but if anything goes wrong, the
+    // final value is already in place from the assignment above.
+    el.textContent = '0';
     function tick(now) {
+      if (cancelled) return;
       const elapsed = now - start;
       const t = Math.min(elapsed / duration, 1);
-      // ease-out cubic — fast start, gentle finish
       const eased = 1 - Math.pow(1 - t, 3);
       el.textContent = fmt(target * eased);
       if (t < 1) requestAnimationFrame(tick);
       else el.textContent = fmt(target);
     }
     requestAnimationFrame(tick);
+    // Safety net: hard-set the final value 1.5s later regardless
+    setTimeout(() => { cancelled = true; el.textContent = fmt(target); }, duration + 400);
   });
 }
 
