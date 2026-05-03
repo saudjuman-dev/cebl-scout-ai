@@ -718,6 +718,8 @@ function openPlayerModal(playerName) {
       </div>`;
     modal.classList.add('show');
     document.body.style.overflow = 'hidden';
+    const inner = modal.querySelector('.player-modal');
+    if (inner) inner.scrollTop = 0;
     if (typeof injectEuroBasketDataIntoModal === 'function') {
       injectEuroBasketDataIntoModal(playerName);
     }
@@ -876,6 +878,11 @@ function openPlayerModal(playerName) {
   modal.classList.add('show');
   document.body.style.overflow = 'hidden';
 
+  // Reset the modal's scroll position so a previously-scrolled state doesn't
+  // hide the player's hero header when reopening.
+  const inner = modal.querySelector('.player-modal');
+  if (inner) inner.scrollTop = 0;
+
   // Lazy-fetch EuroBasket cache to enrich the modal
   if (typeof injectEuroBasketDataIntoModal === 'function') {
     injectEuroBasketDataIntoModal(playerName);
@@ -890,8 +897,20 @@ function closePlayerModal() {
 function switchProfileTab(btn, tabId) {
   btn.closest('.pm-tabs').querySelectorAll('.pm-tab').forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
-  btn.closest('.player-modal').querySelectorAll('.pm-tab-content').forEach(c => c.classList.remove('active'));
-  document.getElementById('pm-' + tabId).classList.add('active');
+  const modal = btn.closest('.player-modal');
+  modal.querySelectorAll('.pm-tab-content').forEach(c => c.classList.remove('active'));
+  const target = document.getElementById('pm-' + tabId);
+  if (target) {
+    target.classList.add('active');
+    // Smooth-scroll the modal so the new tab content starts just below the sticky tabs
+    requestAnimationFrame(() => {
+      const tabs = modal.querySelector('.pm-tabs');
+      const tabsBottom = tabs ? tabs.getBoundingClientRect().bottom : 0;
+      const targetTop = target.getBoundingClientRect().top;
+      const delta = targetTop - tabsBottom - 12;
+      if (Math.abs(delta) > 5) modal.scrollBy({ top: delta, behavior: 'smooth' });
+    });
+  }
 }
 
 // Close modal on Escape key
