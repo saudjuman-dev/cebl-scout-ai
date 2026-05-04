@@ -1,0 +1,98 @@
+# Hoops Intelligence — CI Smoke Test
+#
+# Runs on every push to main and every PR. Two layers of regression protection:
+#
+#   1) Invariants test  (tests/invariants.test.js) — fast (<5s), no network.
+#      Asserts the data the runtime depends on is healthy:
+#        - GLOBAL_PROS_STATS.canadians ≥ 100  (the "11 Canadians" guard)
+#        - All 10 CEBL teams have rosters + logos
+#        - NCAA Canadians ≥ 140
+#        - Auth credentials rotated, SESSION_VERSION ≥ 2
+#        - Saskatoon Mamba rebrand intact
+#        - All nav tabs wired to sections
+#        - Cache-busting query strings present
+#
+#   2) Smoke test  (tests/smoke.test.js) — Playwright, ~30s.
+#      Loads the site in headless Chromium, exercises every critical path:
+#        - Fresh load + role picker
+#        - Admin login (ceblgm + rotated password)
+#        - All 18 tabs render in GM mode
+#        - Live signings ticker has team logos
+#        - Player modal scrolls + 3 tabs (Career/Shooting/Medical) reachable
+#        - Roster Builder seeds from a CEBL team
+#        - Dashboard counters land on real values (not stuck at 0/11)
+#
+# If either fails, the build fails. GitHub Pages still deploys via the
+# separate static.yml workflow — but you'll see a red X on the commit
+# and PRs will surface the failure before merge.
+
+name: Smoke Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  # Manual trigger from the Actions tab
+  workflow_dispatch:
+
+# Cancel an in-flight run if a new push lands on the same branch
+concurrency:
+  group: smoke-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  invariants:
+    name: Data Invariants
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run invariants test (no network)
+        run: node tests/invariants.test.js
+
+      - name: Run invariants test (with network — verifies all 10 team logos serve 200)
+        run: node tests/invariants.test.js --network
+
+  smoke:
+    name: Browser Smoke Test
+    runs-on: ubuntu-latest
+    needs: invariants     # Don't even spin up Chromium if data is broken
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        id: pw-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-chromium-${{ runner.os }}-v1
+
+      - name: Install Playwright + Chromium
+        run: |
+          npm install --no-save playwright@latest
+          if [ "${{ steps.pw-cache.outputs.cache-hit }}" != "true" ]; then
+            npx playwright install --with-deps chromium
+          else
+            npx playwright install-deps chromium || true
+          fi
+
+      - name: Run smoke test
+        run: node tests/smoke.test.js
+        env:
+          # CI runners can be slower than local — bump timeouts if needed
+          SMOKE_PORT: 3458
