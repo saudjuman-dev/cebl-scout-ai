@@ -62,8 +62,13 @@ const TEAM_ALIASES = {
 
 function canonicalTeam(t) {
   if (!t) return '';
-  const k = t.toLowerCase().replace(/\s+/g, ' ').trim();
-  return TEAM_ALIASES[k] || t.trim();
+  // Lowercase, strip diacritics, trim trailing punctuation
+  const k = t.toLowerCase()
+              .normalize('NFD').replace(/[̀-ͯ]/g, '') // accents
+              .replace(/\s+/g, ' ')
+              .replace(/[:;,.\s]+$/g, '')
+              .trim();
+  return TEAM_ALIASES[k] || t.trim().replace(/[:;,.\s]+$/g, '');
 }
 
 // "April 30, 2026" → "2026-04-30"
@@ -128,49 +133,86 @@ async function scrape() {
     await page.waitForTimeout(1500);
   }
 
+  // Some Duda collection pages use infinite scroll — keep scrolling to bottom
+  // until the row count stops growing (or we've waited 30s).
+  let lastRowCount = 0;
+  const startScroll = Date.now();
+  while (Date.now() - startScroll < 30_000) {
+    const rowCount = await page.evaluate(() => document.querySelectorAll('table tbody tr').length);
+    if (rowCount === lastRowCount) {
+      // No new rows since last tick — try one more scroll, then bail if still nothing
+      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+      await page.waitForTimeout(1500);
+      const after = await page.evaluate(() => document.querySelectorAll('table tbody tr').length);
+      if (after === rowCount) break;
+      lastRowCount = after;
+    } else {
+      lastRowCount = rowCount;
+    }
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await page.waitForTimeout(1200);
+  }
+  console.log(`→ Found ${lastRowCount} table rows after scroll`);
+
   if (debug) {
     await page.screenshot({ path: '/tmp/cebl-transactions.png', fullPage: true });
     console.log('🖼  Screenshot: /tmp/cebl-transactions.png');
   }
 
-  // Extract: Duda Collection multi-content rows. The page text follows the
-  // pattern "PlayerName\nTeamName\nMonth Day, Year\nContract Type" repeating.
+  // Extract: cebl.ca/transactions renders as a real <table>. Layout:
+  //   - Header row (<th> cells) holds a DATE; date headers can group multiple
+  //     transactions that share that date.
+  //   - Data rows (<td> cells) follow: first cell = team, second cell =
+  //     "Player Name signed to a Standard Player Contract" (or similar).
+  //
+  // Algorithm: walk rows in order, track the most recent date header, and
+  // emit one record per data row. Reset when we hit a new header.
   const rows = await page.evaluate(() => {
-    // First try: row-shaped containers
-    const candidates = [...document.querySelectorAll(
-      '[class*="dCollectionContent"], [class*="dCollection"], .d-multi-content, .d-multi-paged-content > *, [data-binding] [class*="row"]'
-    )];
-
+    const trs = [...document.querySelectorAll('table tbody tr')];
     const out = [];
-    for (const el of candidates) {
-      const txt = (el.innerText || '').trim();
-      if (!txt) continue;
-      // Look for a date line + a contract-type line in the block
-      const lines = txt.split(/\n+/).map(s => s.trim()).filter(Boolean);
-      if (lines.length < 3) continue;
-      const dateIdx = lines.findIndex(l => /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d/i.test(l));
-      if (dateIdx < 1) continue;
-      const player = lines[0];
-      const team = lines[1];
-      const date = lines[dateIdx];
-      const type = lines[dateIdx + 1] || lines[lines.length - 1];
-      // Sanity: skip if "player" looks like a header
-      if (/transaction|view all|search|filter/i.test(player)) continue;
-      out.push({ player, team, date, type });
-    }
-    if (out.length > 0) return out;
+    const dateRe = /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}/i;
 
-    // Fallback: walk the entire page text and look for groups of 4 lines
-    const all = document.body.innerText.split(/\n+/).map(s => s.trim()).filter(Boolean);
-    const result = [];
-    for (let i = 0; i < all.length - 3; i++) {
-      const dateMatch = /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}/i.test(all[i + 2]);
-      const typeMatch = /(Player Contract|Head Coach|General Manager|Assistant)/i.test(all[i + 3]);
-      if (dateMatch && typeMatch && all[i].length >= 3 && all[i].length <= 60 && !/transaction|view all/i.test(all[i])) {
-        result.push({ player: all[i], team: all[i + 1], date: all[i + 2], type: all[i + 3] });
+    // Action patterns for parsing the second cell into player + type
+    const actionPatterns = [
+      { re: /^(.+?)\s+signed to (?:a|an)?\s*(.+?)$/i,    kind: (m) => m[2].trim() },
+      { re: /^(.+?)\s+re-signed to (?:a|an)?\s*(.+?)$/i, kind: (m) => 'Re-signed: ' + m[2].trim() },
+      { re: /^(.+?)\s+re-signed as\s+(.+?)$/i,           kind: (m) => 'Re-signed: ' + m[2].trim() },
+      { re: /^(.+?)\s+named\s+(.+?)$/i,                  kind: (m) => m[2].trim() },
+    ];
+
+    let currentDate = null;
+    for (const tr of trs) {
+      // Check if this row is a header row (date)
+      const ths = tr.querySelectorAll('th, .header-cell');
+      if (ths.length > 0) {
+        const text = (ths[0].innerText || ths[0].textContent || '').trim();
+        if (dateRe.test(text)) currentDate = text;
+        continue;
       }
+
+      // Otherwise it should be a data row (td cells)
+      const tds = tr.querySelectorAll('td, .cell');
+      if (tds.length < 2 || !currentDate) continue;
+
+      const team   = (tds[0].innerText || tds[0].textContent || '').trim();
+      const action = (tds[1].innerText || tds[1].textContent || '').trim();
+      if (!team || !action) continue;
+      if (/^transaction|^view all|^search|^filter/i.test(action)) continue;
+
+      let player = '', type = '';
+      for (const pat of actionPatterns) {
+        const m = action.match(pat.re);
+        if (m) {
+          player = m[1].trim();
+          type = pat.kind(m);
+          break;
+        }
+      }
+      if (!player) { player = action; type = action; }
+
+      out.push({ player, team, date: currentDate, type });
     }
-    return result;
+    return out;
   });
 
   await browser.close();
