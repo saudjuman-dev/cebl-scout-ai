@@ -1,0 +1,35 @@
+{
+  "fullName": "MAURO VILLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mauro-Villa/551959",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MAURO VILLA basketball profile Height",
+  "currentTeam": "Varese",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Varese",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Varese",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Varese",
+      "league": "ITA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Varese",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-05-10T06:30:48.950Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-10T06:30:48.950Z"
+}

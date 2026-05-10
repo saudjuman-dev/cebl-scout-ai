@@ -1,13 +1,283 @@
 {
-  "_lastScraped": "2026-05-04T00:52:03.428Z",
+  "_lastScraped": "2026-05-10T06:45:07.687Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
     {
+      "player": "Akoi Yuot",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-09",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Connor Vreeken",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Luka Syllas",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jordan Tchuente",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Blondeau Tchoukuiegno",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kameron Warrens",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Michael Okafor",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tom Digbeu",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tayler Persons",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Isaiah Bujdoso",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Nathan Charles",
+      "team": "Niagara River Lions",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Nathan Tshimanga",
+      "team": "Montreal Alliance",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Georges Lefebvre",
+      "team": "Montreal Alliance",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Trent Johnson",
+      "team": "Montreal Alliance",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Lansana Nwosu",
+      "team": "Montreal Alliance",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kyle Duke",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Daren Watts released from Club",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-08",
+      "type": "Daren Watts released from Club"
+    },
+    {
+      "player": "Ramogi Nyagudi assigned to Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-08",
+      "type": "Ramogi Nyagudi assigned to Practice Roster"
+    },
+    {
+      "player": "Ryan Luke assigned to Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-08",
+      "type": "Ryan Luke assigned to Practice Roster"
+    },
+    {
+      "player": "Elijah Mensah assigned to Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-08",
+      "type": "Elijah Mensah assigned to Practice Roster"
+    },
+    {
+      "player": "Kato Jaro assigned to Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-08",
+      "type": "Kato Jaro assigned to Practice Roster"
+    },
+    {
+      "player": "Lue Williams III",
+      "team": "Montreal Alliance",
+      "date": "2026-05-07",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Javonte Smart",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-07",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kobey Lam",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-07",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Charles Bediako",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Judson Martindale",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Eric Armstrong",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Mohamed Jabateh",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "KC Ibekwe",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Dragan Stajic",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tavian Dunn-Martin",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Aamir Simms",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tyrese Hunter",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jefferson Koulibaly",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Majok Gum",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Reggie Jean Séraphin",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Alec Phaneuf",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Duane Notice",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-04",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Frank Mitchell",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-04",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jalin Anderson",
+      "team": "Montreal Alliance",
+      "date": "2026-05-04",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Daniel Chijioke",
+      "team": "Calgary Surge",
+      "date": "2026-05-02",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tyler Garcia",
+      "team": "Calgary Surge",
+      "date": "2026-05-02",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Ben Kamba",
+      "team": "Calgary Surge",
+      "date": "2026-05-02",
+      "type": "Standard Player Contract"
+    },
+    {
       "player": "David Mutabazi",
       "team": "Vancouver Bandits",
       "date": "2026-05-02",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kyle Varner",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-01",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Izzy Helman",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-01",
       "type": "Standard Player Contract"
     },
     {

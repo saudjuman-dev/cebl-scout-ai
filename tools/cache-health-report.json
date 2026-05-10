@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-03T06:33:30.193Z",
-  "totalCacheFiles": 3040,
-  "validJson": 3040,
+  "generatedAt": "2026-05-10T06:45:16.331Z",
+  "totalCacheFiles": 3112,
+  "validJson": 3112,
   "nameMismatches": 0,
   "stale": 0,
   "missingFields": 10,
   "pipelineCoverage": {
     "total": 88,
-    "cached": 34,
-    "uncovered": 54
+    "cached": 35,
+    "uncovered": 53
   },
   "issues": {
     "critical": [],

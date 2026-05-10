@@ -1,0 +1,50 @@
+{
+  "fullName": "BRANDON JOHNSON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Johnson/593946",
+  "height": "6'8'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games BRANDON JOHNSON basketball profile Uniform",
+  "currentTeam": "H.Gilboa Galil",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Brunswick",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Miami, FL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Gilboa Galil",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-05-10T06:35:37.610Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-10T06:35:37.610Z"
+}

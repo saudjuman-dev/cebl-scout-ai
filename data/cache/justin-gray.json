@@ -1,0 +1,94 @@
+{
+  "fullName": "JUSTIN GRAY",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Gray/254131",
+  "height": "6'6'",
+  "currentTeam": "MKS DG",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Bristol F.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Rahoveci",
+      "league": "FEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Rahoveci",
+      "league": "KOS-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Rahoveci",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Madeira",
+      "league": "POR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Air Raiders",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bamberg",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Bamberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Varese",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-05-10T06:37:13.675Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-10T06:37:13.675Z"
+}

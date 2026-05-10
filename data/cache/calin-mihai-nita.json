@@ -1,0 +1,70 @@
+{
+  "fullName": "CALIN-MIHAI NITA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Calin-Mihai-Nita/584602",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CALIN",
+  "currentTeam": "Leverkusen",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Coburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Bamberg/Breit.",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Leverkusen 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Leverkusen",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayer 04 Leverkusen",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Leverkusen",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Leverkusen",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayer 04 Leverkusen",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Leverkusen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-05-10T06:40:13.547Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-10T06:40:13.547Z"
+}

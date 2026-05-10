@@ -1,0 +1,55 @@
+{
+  "fullName": "AMIT ALON",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Amit-Alon/478422",
+  "height": "5'11'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games AMIT ALON basketball profile Uniform",
+  "currentTeam": "M.Ramat Gan",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Kiryat Motzkin",
+      "league": "ISR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Maccabi Hunter",
+      "league": "ISR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "M.Ashdod",
+      "league": "ISR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "H.Hevel Modi'in",
+      "league": "ISR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "E.Shomron",
+      "league": "ISR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Maccabi Haifa",
+      "league": "ISR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ram.Hasharon",
+      "league": "ISR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Ramat Gan",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-05-10T06:36:01.337Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-10T06:36:01.337Z"
+}
