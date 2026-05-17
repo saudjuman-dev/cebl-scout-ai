@@ -1,0 +1,54 @@
+{
+  "fullName": "KYLLIAN MICHEE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kyllian-Michee/685527",
+  "height": "6'1'",
+  "currentTeam": "Monaco",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid U18 team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid U18 team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-05-17T06:44:24.559Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-17T06:44:24.559Z"
+}

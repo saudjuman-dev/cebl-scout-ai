@@ -97,18 +97,18 @@
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-10T06:33:07.915Z",
+  "_lastVerified": "2026-05-17T06:47:37.771Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:33:07.915Z"
+  "cachedAt": "2026-05-17T06:47:37.771Z"
 }

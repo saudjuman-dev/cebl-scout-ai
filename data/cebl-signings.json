@@ -1,14 +1,260 @@
 {
-  "_lastScraped": "2026-05-10T06:45:07.687Z",
+  "_lastScraped": "2026-05-17T07:00:28.012Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
     {
+      "player": "Eric Armstrong assigned to Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-15",
+      "type": "Eric Armstrong assigned to Practice Roster"
+    },
+    {
+      "player": "Bronson Chambers assigned to Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-15",
+      "type": "Bronson Chambers assigned to Practice Roster"
+    },
+    {
+      "player": "Kevin Mervart assigned to Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-15",
+      "type": "Kevin Mervart assigned to Practice Roster"
+    },
+    {
+      "player": "Jack Tunstill released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-15",
+      "type": "Jack Tunstill released from Club"
+    },
+    {
+      "player": "Keeshawn Bathelemy placed on Injured List",
+      "team": "Montreal Alliance",
+      "date": "2026-05-15",
+      "type": "Keeshawn Bathelemy placed on Injured List"
+    },
+    {
+      "player": "Georges Lefebvre assigned to Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-15",
+      "type": "Georges Lefebvre assigned to Practice Roster"
+    },
+    {
+      "player": "Lansana Nwosu assigned to Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-15",
+      "type": "Lansana Nwosu assigned to Practice Roster"
+    },
+    {
+      "player": "Chris Malonga assigned to Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-15",
+      "type": "Chris Malonga assigned to Practice Roster"
+    },
+    {
+      "player": "Tayshaun Thomas assigned to Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-15",
+      "type": "Tayshaun Thomas assigned to Practice Roster"
+    },
+    {
+      "player": "D'Andre Bernard",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-14",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Javon Freeman-Liberty",
+      "team": "Montreal Alliance",
+      "date": "2026-05-14",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Aiden Wilson",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-14",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Trey McGowens",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-14",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Simeon Jeffers",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-14",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Mohamed Jabateh assigned to Practice Roster",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-13",
+      "type": "Mohamed Jabateh assigned to Practice Roster"
+    },
+    {
+      "player": "Jefferson Koulibaly assigned to Practice Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-13",
+      "type": "Jefferson Koulibaly assigned to Practice Roster"
+    },
+    {
+      "player": "Majok Gum assigned to Practice Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-13",
+      "type": "Majok Gum assigned to Practice Roster"
+    },
+    {
+      "player": "Jalen Shirley assigned to Practice Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-13",
+      "type": "Jalen Shirley assigned to Practice Roster"
+    },
+    {
+      "player": "Ashton Bain assigned to Practice Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-13",
+      "type": "Ashton Bain assigned to Practice Roster"
+    },
+    {
+      "player": "Jack Vandenberg assigned to Practice Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-13",
+      "type": "Jack Vandenberg assigned to Practice Roster"
+    },
+    {
+      "player": "Amari N'Daw",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-12",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Ben Kamba assigned to Practice Roster",
+      "team": "Calgary Surge",
+      "date": "2026-05-12",
+      "type": "Ben Kamba assigned to Practice Roster"
+    },
+    {
+      "player": "Daniel Chikioke  assigned to Practice Roster",
+      "team": "Calgary Surge",
+      "date": "2026-05-12",
+      "type": "Daniel Chikioke  assigned to Practice Roster"
+    },
+    {
+      "player": "Tyler Garcia assigned to Practice Roster",
+      "team": "Calgary Surge",
+      "date": "2026-05-12",
+      "type": "Tyler Garcia assigned to Practice Roster"
+    },
+    {
+      "player": "Ross Pockar  assigned to Practice Roster",
+      "team": "Calgary Surge",
+      "date": "2026-05-12",
+      "type": "Ross Pockar  assigned to Practice Roster"
+    },
+    {
+      "player": "Isaac Pierre-Louis assigned to Practice Rosters",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-12",
+      "type": "Isaac Pierre-Louis assigned to Practice Rosters"
+    },
+    {
+      "player": "Reginald-Jean Seraphin assigned to Practice Rosters",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-12",
+      "type": "Reginald-Jean Seraphin assigned to Practice Rosters"
+    },
+    {
+      "player": "Yohann Sam assigned to Practice Rosters",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-12",
+      "type": "Yohann Sam assigned to Practice Rosters"
+    },
+    {
+      "player": "Louth-Mohamed Coulibaly assigned to Practice Rosters",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-12",
+      "type": "Louth-Mohamed Coulibaly assigned to Practice Rosters"
+    },
+    {
+      "player": "TJ Richards",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-12",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jaelen House",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-12",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-12",
+      "type": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Trevon Scott",
+      "team": "Calgary Surge",
+      "date": "2026-05-11",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "CJ Gunn",
+      "team": "Calgary Surge",
+      "date": "2026-05-11",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Javan Johnson",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-11",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Olumide Adelodun",
+      "team": "Calgary Surge",
+      "date": "2026-05-11",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Stefan Anisko released from Club",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-11",
+      "type": "Stefan Anisko released from Club"
+    },
+    {
+      "player": "Trey Thomas",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-05-10",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Alec Phaneuf released from Club",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-10",
+      "type": "Alec Phaneuf released from Club"
+    },
+    {
+      "player": "Dario Lopez released from Club",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-10",
+      "type": "Dario Lopez released from Club"
+    },
+    {
       "player": "Akoi Yuot",
       "team": "Scarborough Shooting Stars",
       "date": "2026-05-09",
       "type": "Standard Player Contract"
+    },
+    {
+      "player": "Isaiah Helman released from Club",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-09",
+      "type": "Isaiah Helman released from Club"
     },
     {
       "player": "Connor Vreeken",

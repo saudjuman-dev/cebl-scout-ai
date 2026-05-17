@@ -1,0 +1,29 @@
+{
+  "fullName": "GALIUS CERNECKIS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Galius-Cerneckis/744323",
+  "height": "6'4'",
+  "currentTeam": "Zalgiris II",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-05-17T06:53:15.447Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-17T06:53:15.447Z"
+}

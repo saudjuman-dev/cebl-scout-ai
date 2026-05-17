@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-10T06:45:16.331Z",
-  "totalCacheFiles": 3112,
-  "validJson": 3112,
+  "generatedAt": "2026-05-17T07:00:36.297Z",
+  "totalCacheFiles": 3166,
+  "validJson": 3166,
   "nameMismatches": 0,
   "stale": 0,
-  "missingFields": 10,
+  "missingFields": 13,
   "pipelineCoverage": {
     "total": 88,
-    "cached": 35,
-    "uncovered": 53
+    "cached": 36,
+    "uncovered": 52
   },
   "issues": {
     "critical": [],
@@ -17,9 +17,12 @@
       "aj-davis.json: missing fields currentTeam",
       "anthony-walker.json: missing fields currentTeam",
       "charalampos-christodoulou.json: missing fields currentTeam",
+      "danielius-jasikevicius.json: missing fields currentTeam",
       "donovan-williams.json: missing fields currentTeam",
+      "elijah-baviere.json: missing fields currentTeam",
       "justin-jackson.json: missing fields currentTeam",
       "kenan-suares.json: missing fields currentTeam",
+      "loris-duponq.json: missing fields currentTeam",
       "nuno-sousa.json: missing fields currentTeam",
       "tevin-brown.json: missing fields currentTeam",
       "thodoris-chrysopoulos.json: missing fields currentTeam"

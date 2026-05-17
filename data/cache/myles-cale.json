@@ -1,0 +1,89 @@
+{
+  "fullName": "MYLES CALE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Myles-Cale/431948",
+  "height": "6'6'",
+  "currentTeam": "Barca",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Seton Hall",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Greensboro S.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Limburg United",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Limburg United",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-05-17T06:45:53.289Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-17T06:45:53.289Z"
+}
