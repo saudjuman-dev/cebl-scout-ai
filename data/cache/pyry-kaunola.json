@@ -1,0 +1,55 @@
+{
+  "fullName": "PYRY KAUNOLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pyry-Kaunola/664649",
+  "height": "6'4'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 PYRY KAUNOLA basketball profile Uniform",
+  "currentTeam": "Lahti",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Pajulahti",
+      "league": "FIN-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Lahti",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Lahti",
+      "league": "FIN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lahti",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    }
+  ],
+  "_lastVerified": "2026-05-24T07:06:13.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-24T07:06:13.361Z"
+}

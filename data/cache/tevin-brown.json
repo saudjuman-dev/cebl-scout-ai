@@ -1,26 +1,95 @@
 {
-  "fullName": "Tevin Brown",
-  "birthdate": "",
-  "height": "",
-  "heightCm": "",
-  "weight": "",
-  "weightKg": "",
-  "position": "",
-  "nationality": "Jamaican",
-  "college": "",
-  "highSchool": "",
-  "currentTeam": "",
-  "currentLeague": "",
-  "careerHistory": [],
-  "seasonStats": [],
-  "personalInfo": [],
-  "sources": [
-    "https://basketball.eurobasket.com/player/Tevin-Brown/441761"
+  "fullName": "TEVIN BROWN",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tevin-Brown/431464",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 TEVIN BROWN basketball profile Uniform No",
+  "currentTeam": "Vechta",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Murray State",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Indiana P.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Fort Wayne MA",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Rams",
+      "league": "NZL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Ottawa",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "P.Cukier Start",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    },
+    {
+      "year": "2025",
+      "team": "Vechta",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta",
+      "league": "GER-1"
+    }
   ],
-  "cachedAt": "2026-04-17T20:57:16.876Z",
-  "_lastVerified": "2026-04-17T20:57:16.876Z",
+  "_lastVerified": "2026-05-24T06:52:48.119Z",
   "_sources": [
-    "https://basketball.eurobasket.com/player/Tevin-Brown/441761"
+    "eurobasket.com"
   ],
-  "_dataConfidence": "low"
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-24T06:52:48.119Z"
 }

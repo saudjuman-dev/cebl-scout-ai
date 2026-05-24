@@ -1,64 +1,79 @@
 {
-  "fullName": "Omari Moore",
-  "birthdate": "",
-  "height": "6'1\"",
-  "heightCm": "185",
-  "weight": "",
-  "weightKg": "",
-  "position": "Guard",
-  "nationality": "USAClass",
-  "college": "Manhattan",
-  "highSchool": "",
-  "currentTeam": "Manhattan",
-  "currentLeague": "NCAA1",
+  "fullName": "OMARI MOORE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Omari-Moore/505594",
+  "height": "6'6'",
+  "currentTeam": "Valencia",
   "careerHistory": [
     {
-      "year": "25-26",
-      "team": "Manhattan",
+      "year": "19-20",
+      "team": "SJSU",
       "league": "NCAA1"
-    }
-  ],
-  "seasonStats": [
+    },
+    {
+      "year": "20-21",
+      "team": "SJSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SJSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Milwaukee B.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
     {
       "year": "25-26",
-      "team": "Manhattan",
-      "league": "NCAA1",
-      "gamesPlayed": 8,
-      "minutes": 36,
-      "ppg": 1.1,
-      "rpg": 0.9,
-      "apg": 0.3,
-      "spg": 0.3,
-      "bpg": 0.1,
-      "fgPct": 0.25,
-      "threePct": 0.167,
-      "ftPct": 0.4,
-      "totalPoints": 9,
-      "totalRebounds": 7,
-      "totalAssists": 2,
-      "totalSteals": 2,
-      "totalBlocks": 1,
-      "twoFgMade": 2,
-      "twoFgAttempted": 8,
-      "threeFgMade": 1,
-      "threeFgAttempted": 6,
-      "ftMade": 2,
-      "ftAttempted": 5,
-      "offRebounds": 2,
-      "defRebounds": 5,
-      "personalFouls": 6,
-      "turnovers": 2,
-      "isCollegiate": true
+      "team": "Valencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "EUROL-1"
     }
   ],
-  "personalInfo": [],
-  "sources": [
-    "https://basketball.eurobasket.com/player/Omari-Moore/792765"
-  ],
-  "cachedAt": "2026-04-17T20:53:40.690Z",
-  "_lastVerified": "2026-04-17T20:53:40.690Z",
+  "_lastVerified": "2026-05-24T06:54:48.444Z",
   "_sources": [
-    "https://basketball.eurobasket.com/player/Omari-Moore/792765"
+    "eurobasket.com"
   ],
-  "_dataConfidence": "medium"
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-24T06:54:48.444Z"
 }

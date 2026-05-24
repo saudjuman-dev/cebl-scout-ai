@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-17T07:00:36.297Z",
-  "totalCacheFiles": 3166,
-  "validJson": 3166,
+  "generatedAt": "2026-05-24T07:07:07.670Z",
+  "totalCacheFiles": 3187,
+  "validJson": 3187,
   "nameMismatches": 0,
   "stale": 0,
-  "missingFields": 13,
+  "missingFields": 12,
   "pipelineCoverage": {
     "total": 88,
     "cached": 36,
@@ -24,7 +24,6 @@
       "kenan-suares.json: missing fields currentTeam",
       "loris-duponq.json: missing fields currentTeam",
       "nuno-sousa.json: missing fields currentTeam",
-      "tevin-brown.json: missing fields currentTeam",
       "thodoris-chrysopoulos.json: missing fields currentTeam"
     ],
     "info": []

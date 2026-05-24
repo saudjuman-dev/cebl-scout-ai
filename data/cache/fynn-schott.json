@@ -1,0 +1,49 @@
+{
+  "fullName": "FYNN SCHOTT",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Fynn-Schott/624667",
+  "height": "6'8'",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Furstenfeld",
+      "league": "AUT-2"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Zadar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Furstenfeld",
+      "league": "AUT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Herbalife Gran Canar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-05-24T07:04:00.995Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-24T07:04:00.995Z"
+}

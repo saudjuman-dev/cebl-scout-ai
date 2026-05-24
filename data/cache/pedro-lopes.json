@@ -1,0 +1,29 @@
+{
+  "fullName": "PEDRO LOPES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Lopes/684214",
+  "height": "5'11'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Braga",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-05-24T07:01:01.932Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-24T07:01:01.932Z"
+}

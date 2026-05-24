@@ -1,9 +1,129 @@
 {
-  "_lastScraped": "2026-05-17T07:00:28.012Z",
+  "_lastScraped": "2026-05-24T07:06:59.743Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Daniel Chijioke removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Calgary Surge",
+      "date": "2026-05-23",
+      "type": "Daniel Chijioke removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Lansana Nwosu removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-23",
+      "type": "Lansana Nwosu removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Nathan Tshimanga placed on Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-23",
+      "type": "Nathan Tshimanga placed on Practice Roster"
+    },
+    {
+      "player": "Jarkel Joiner",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-23",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Majok Gum removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-22",
+      "type": "Majok Gum removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Adonis Arms",
+      "team": "Calgary Surge",
+      "date": "2026-05-22",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Donald Carey",
+      "team": "Niagara River Lions",
+      "date": "2026-05-21",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tom Digbeu released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-05-21",
+      "type": "Tom Digbeu released from Club"
+    },
+    {
+      "player": "Trevon Scott released from Club",
+      "team": "Calgary Surge",
+      "date": "2026-05-21",
+      "type": "Trevon Scott released from Club"
+    },
+    {
+      "player": "Ramogi Nyagudi removed from Practice Roster to added to Club's 14-man Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-21",
+      "type": "Ramogi Nyagudi removed from Practice Roster to added to Club's 14-man Roster"
+    },
+    {
+      "player": "Judson Martindale placed on Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-19",
+      "type": "Judson Martindale placed on Practice Roster"
+    },
+    {
+      "player": "Keonte Kennedy",
+      "team": "Niagara River Lions",
+      "date": "2026-05-18",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Ayub Nurhussien",
+      "team": "Niagara River Lions",
+      "date": "2026-05-18",
+      "type": "Developmental Player Contract"
+    },
+    {
+      "player": "Ramogi Nyagudi placed on Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-18",
+      "type": "Ramogi Nyagudi placed on Practice Roster"
+    },
+    {
+      "player": "Joshua Francis placed on Practice Roster",
+      "team": "Calgary Surge",
+      "date": "2026-05-17",
+      "type": "Joshua Francis placed on Practice Roster"
+    },
+    {
+      "player": "Tyler Garcia released from Club",
+      "team": "Calgary Surge",
+      "date": "2026-05-17",
+      "type": "Tyler Garcia released from Club"
+    },
+    {
+      "player": "Ayub Nurhussien released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-05-17",
+      "type": "Ayub Nurhussien released from Club"
+    },
+    {
+      "player": "Luka Syllas released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-05-17",
+      "type": "Luka Syllas released from Club"
+    },
+    {
+      "player": "Nathan Charles released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-05-17",
+      "type": "Nathan Charles released from Club"
+    },
+    {
+      "player": "Nigel Hylton released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-05-17",
+      "type": "Nigel Hylton released from Club"
+    },
     {
       "player": "Eric Armstrong assigned to Practice Roster",
       "team": "Brampton Honey Badgers",
