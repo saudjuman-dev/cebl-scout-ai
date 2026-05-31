@@ -153,15 +153,17 @@
       "year": "25-26",
       "team": "Saint Quentin",
       "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:44:47.544Z",
+  "_lastVerified": "2026-05-31T07:28:52.671Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:16.739Z",
-  "nationality": "Belgian",
-  "birthdate": "December 4 1992",
-  "birthCity": "Brussels"
+  "cachedAt": "2026-05-31T07:28:52.671Z"
 }

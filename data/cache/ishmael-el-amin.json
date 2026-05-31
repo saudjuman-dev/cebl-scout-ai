@@ -2,7 +2,7 @@
   "fullName": "ISHMAEL EL-AMIN",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ishmael-El-Amin/421162",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             ISHMAEL EL",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games ISHMAEL EL",
   "currentTeam": "Napoli",
   "careerHistory": [
     {
@@ -64,15 +64,17 @@
       "year": "25-26",
       "team": "Napoli",
       "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:23:36.611Z",
+  "_lastVerified": "2026-05-31T08:11:35.300Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:46:36.872Z",
-  "nationality": "USA",
-  "birthdate": "December 2 1998",
-  "birthCity": "Minneapolis"
+  "cachedAt": "2026-05-31T08:11:35.300Z"
 }

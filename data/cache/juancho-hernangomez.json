@@ -103,21 +103,18 @@
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:35:28.427Z",
+  "_lastVerified": "2026-05-31T07:47:33.711Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:03:42.810Z",
-  "nationality": "Spanish",
-  "birthdate": "September 28 1995",
-  "birthCity": "Madrid"
+  "cachedAt": "2026-05-31T07:47:33.711Z"
 }

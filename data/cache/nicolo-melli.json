@@ -182,21 +182,18 @@
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "TUR-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "EUROL-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:02:18.440Z",
+  "_lastVerified": "2026-05-31T07:55:15.509Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:50.915Z",
-  "nationality": "Italian",
-  "birthdate": "January 26 1991",
-  "birthCity": "Reggio Emilia"
+  "cachedAt": "2026-05-31T07:55:15.509Z"
 }

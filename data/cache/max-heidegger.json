@@ -1,0 +1,125 @@
+{
+  "fullName": "MAX HEIDEGGER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Max-Heidegger/405907",
+  "height": "6'3'",
+  "college": "University of California Santa Barbara",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "UCSB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UCSB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "UCSB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UCSB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Macc. Tel-Aviv",
+      "league": "ISR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Oldenburg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bitci Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Merkezefendi",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bitci Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2023",
+      "team": "Eberlein Drive",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Umana Reyer",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Umana Reyer",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bnei Hertzeliya",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-05-31T07:42:47.148Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-31T07:42:47.148Z"
+}

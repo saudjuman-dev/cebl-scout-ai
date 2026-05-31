@@ -2,7 +2,7 @@
   "fullName": "TARYN TODD",
   "sourceUrl": "https://basketball.eurobasket.com/player/Taryn-Todd/441241",
   "height": "6'4'",
-  "college": "College Prep\n2019",
+  "college": "College Prep 2019",
   "currentTeam": "H.Be'er Sheva",
   "careerHistory": [
     {
@@ -56,14 +56,10 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:20:00.690Z",
+  "_lastVerified": "2026-05-31T08:25:50.096Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:46.454Z",
-  "birthdate": "September 6 2001",
-  "birthCity": "Vaughan",
-  "nationality": "Canadian",
-  "_inferredNationality": true
+  "cachedAt": "2026-05-31T08:25:50.096Z"
 }

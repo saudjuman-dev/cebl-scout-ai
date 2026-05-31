@@ -52,22 +52,24 @@
     },
     {
       "year": "25-26",
+      "team": "Oostende",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
       "team": "Aris",
       "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Oostende",
-      "league": "BNXT-1"
+      "league": "BEL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:46:05.769Z",
+  "_lastVerified": "2026-05-31T07:52:33.587Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:10:10.903Z",
-  "nationality": "Georgian",
-  "birthdate": "March 11 2002",
-  "birthCity": "Kutaisi"
+  "cachedAt": "2026-05-31T07:52:33.587Z"
 }

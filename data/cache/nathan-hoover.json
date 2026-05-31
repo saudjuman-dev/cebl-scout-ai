@@ -86,22 +86,19 @@
     },
     {
       "year": "25-26",
-      "team": "Melilla",
-      "league": "ESP-2"
+      "team": "Penarol",
+      "league": "ARG-1"
     },
     {
       "year": "25-26",
-      "team": "Penarol",
-      "league": "ARG-1"
+      "team": "Melilla",
+      "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:00:33.139Z",
+  "_lastVerified": "2026-05-31T08:56:58.559Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:54.117Z",
-  "nationality": "USA",
-  "birthdate": "May 24 1997",
-  "birthCity": "Memphis"
+  "cachedAt": "2026-05-31T08:56:58.559Z"
 }

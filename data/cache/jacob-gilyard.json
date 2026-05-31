@@ -102,22 +102,19 @@
     },
     {
       "year": "25-26",
-      "team": "Gravelines",
-      "league": "FRA-1"
+      "team": "Cantu",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
-      "team": "Cantu",
-      "league": "ITA-1"
+      "team": "Gravelines",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:24:45.374Z",
+  "_lastVerified": "2026-05-31T07:28:34.160Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:28.212Z",
-  "nationality": "USA",
-  "birthdate": "July 14 1998",
-  "birthCity": "Kansas City"
+  "cachedAt": "2026-05-31T07:28:34.160Z"
 }

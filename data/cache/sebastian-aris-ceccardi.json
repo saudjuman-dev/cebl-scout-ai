@@ -86,22 +86,19 @@
     },
     {
       "year": "25-26",
-      "team": "Alicante",
+      "team": "Melilla",
       "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Melilla",
+      "team": "Alicante",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:15:32.204Z",
+  "_lastVerified": "2026-05-31T08:56:40.308Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:56:01.031Z",
-  "nationality": "Danish",
-  "birthdate": "December 9 1995",
-  "birthCity": "Viborg"
+  "cachedAt": "2026-05-31T08:56:40.308Z"
 }

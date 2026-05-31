@@ -2,8 +2,8 @@
   "fullName": "CHARLES CALLISON",
   "sourceUrl": "https://basketball.eurobasket.com/player/Charles-Callison/362118",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             CHARLES CALLISON basketball profile    Uniform No",
-  "currentTeam": "Weissenfels",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games CHARLES CALLISON basketball profile Uniform No",
+  "currentTeam": "Kiryat Ata",
   "careerHistory": [
     {
       "year": "15-16",
@@ -104,15 +104,17 @@
       "year": "25-26",
       "team": "Weissenfels",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:58:50.409Z",
+  "_lastVerified": "2026-05-31T08:10:18.418Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:01.599Z",
-  "nationality": "USA",
-  "birthdate": "October 17 1995",
-  "birthCity": "Moreno Valley"
+  "cachedAt": "2026-05-31T08:10:18.418Z"
 }

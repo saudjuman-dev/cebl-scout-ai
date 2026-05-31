@@ -2,7 +2,7 @@
   "fullName": "KEVION TAYLOR",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevion-Taylor/452948",
   "height": "6'5'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             KEVION TAYLOR basketball profile     Uniform",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games KEVION TAYLOR basketball profile Uniform",
   "currentTeam": "Milano Urania",
   "careerHistory": [
     {
@@ -52,22 +52,19 @@
     },
     {
       "year": "25-26",
-      "team": "H.Holon",
-      "league": "ISR-1"
+      "team": "Milano Urania",
+      "league": "ITA-2"
     },
     {
       "year": "25-26",
-      "team": "Milano Urania",
-      "league": "ITA-2"
+      "team": "H.Holon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:40:06.743Z",
+  "_lastVerified": "2026-05-31T08:07:38.597Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:33:42.892Z",
-  "nationality": "USA",
-  "birthdate": "January 12 1999",
-  "birthCity": "Milwaukee"
+  "cachedAt": "2026-05-31T08:07:38.597Z"
 }

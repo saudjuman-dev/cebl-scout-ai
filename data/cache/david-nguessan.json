@@ -2,7 +2,7 @@
   "fullName": "DAVID N'GUESSAN",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-NGuessan/564106",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             DAVID N",
+  "college": "University Games European Championships Olympic Games European Championships U16 DAVID N",
   "currentTeam": "Braunschweig",
   "careerHistory": [
     {
@@ -46,13 +46,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:04:36.891Z",
+  "_lastVerified": "2026-05-31T07:21:13.890Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:12.441Z",
-  "nationality": "Dutch",
-  "birthdate": "June 12 2000",
-  "birthCity": "De Lier"
+  "cachedAt": "2026-05-31T07:21:13.890Z"
 }

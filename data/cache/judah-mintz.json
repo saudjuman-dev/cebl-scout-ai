@@ -2,7 +2,7 @@
   "fullName": "JUDAH MINTZ",
   "sourceUrl": "https://basketball.eurobasket.com/player/Judah-Mintz/501324",
   "height": "6'3'",
-  "college": "College High School\n2019",
+  "college": "College High School 2019",
   "currentTeam": "Manisa",
   "careerHistory": [
     {
@@ -41,13 +41,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:35:37.870Z",
+  "_lastVerified": "2026-05-31T08:00:22.798Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:52.269Z",
-  "nationality": "USA",
-  "birthdate": "July 10 2003",
-  "birthCity": "Fort Washington"
+  "cachedAt": "2026-05-31T08:00:22.798Z"
 }

@@ -57,22 +57,19 @@
     },
     {
       "year": "25-26",
-      "team": "Juventus",
-      "league": "LTU-1"
+      "team": "Suduva-Mantinga",
+      "league": "LTU-2"
     },
     {
       "year": "25-26",
-      "team": "Suduva-Mantinga",
-      "league": "LTU-2"
+      "team": "Juventus",
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:12:45.483Z",
+  "_lastVerified": "2026-05-31T08:25:59.564Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:56.422Z",
-  "nationality": "Lithuanian",
-  "birthdate": "November 13 1998",
-  "birthCity": "Kazlu Ruda"
+  "cachedAt": "2026-05-31T08:25:59.564Z"
 }

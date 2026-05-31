@@ -2,7 +2,7 @@
   "fullName": "IKE IROEGBU",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ike-Iroegbu/300592",
   "height": "6'2'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             IKE IROEGBU basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 IKE IROEGBU basketball profile Uniform No",
   "currentTeam": "Varese",
   "careerHistory": [
     {
@@ -87,11 +87,6 @@
     },
     {
       "year": "25-26",
-      "team": "Valencia",
-      "league": "ESP-1"
-    },
-    {
-      "year": "25-26",
       "team": "Varese",
       "league": "ITA-1"
     },
@@ -99,15 +94,17 @@
       "year": "25-26",
       "team": "Valencia",
       "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:22:08.562Z",
+  "_lastVerified": "2026-05-31T07:33:22.008Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:29.055Z",
-  "nationality": "Nigerian",
-  "birthdate": "March 14 1995",
-  "birthCity": "Sacramento"
+  "cachedAt": "2026-05-31T07:33:22.008Z"
 }

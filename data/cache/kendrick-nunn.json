@@ -83,21 +83,18 @@
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:38:53.958Z",
+  "_lastVerified": "2026-05-31T07:47:40.955Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:03:49.332Z",
-  "nationality": "USA",
-  "birthdate": "August 3 1995",
-  "birthCity": "Chicago"
+  "cachedAt": "2026-05-31T07:47:40.955Z"
 }

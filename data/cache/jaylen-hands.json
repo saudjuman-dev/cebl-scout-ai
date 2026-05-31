@@ -112,22 +112,19 @@
     },
     {
       "year": "25-26",
-      "team": "Murcia",
-      "league": "ESP-1"
+      "team": "Nanjing MK",
+      "league": "CHN-1"
     },
     {
       "year": "25-26",
-      "team": "Nanjing MK",
-      "league": "CHN-1"
+      "team": "Murcia",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:28:53.514Z",
+  "_lastVerified": "2026-05-31T07:53:05.274Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:06.870Z",
-  "nationality": "USA",
-  "birthdate": "December 2 1999",
-  "birthCity": "San Diego"
+  "cachedAt": "2026-05-31T07:53:05.274Z"
 }

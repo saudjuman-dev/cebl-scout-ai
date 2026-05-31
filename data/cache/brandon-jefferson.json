@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Jefferson/215891",
   "height": "5'9'",
   "college": "University of Denver",
-  "currentTeam": "Karditsas",
+  "currentTeam": "Gran Canaria",
   "careerHistory": [
     {
       "year": "13-14",
@@ -129,15 +129,17 @@
       "year": "25-26",
       "team": "Karditsas",
       "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:55:58.233Z",
+  "_lastVerified": "2026-05-31T07:54:08.946Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:07:26.540Z",
-  "nationality": "USA",
-  "birthdate": "November 25 1991",
-  "birthCity": "Flower Mound"
+  "cachedAt": "2026-05-31T07:54:08.946Z"
 }

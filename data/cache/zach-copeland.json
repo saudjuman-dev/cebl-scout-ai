@@ -2,7 +2,7 @@
   "fullName": "ZACH COPELAND",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zach-Copeland/396029",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             ZACH COPELAND basketball profile     Uniform",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ZACH COPELAND basketball profile Uniform",
   "currentTeam": "Brindisi",
   "careerHistory": [
     {
@@ -92,22 +92,19 @@
     },
     {
       "year": "25-26",
-      "team": "Brindisi",
+      "team": "Cento",
       "league": "ITA-2"
     },
     {
       "year": "25-26",
-      "team": "Cento",
+      "team": "Brindisi",
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:31:20.358Z",
+  "_lastVerified": "2026-05-31T08:49:16.183Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:43:50.343Z",
-  "nationality": "USA",
-  "birthdate": "June 21 1997",
-  "birthCity": "Berkeley"
+  "cachedAt": "2026-05-31T08:49:16.183Z"
 }

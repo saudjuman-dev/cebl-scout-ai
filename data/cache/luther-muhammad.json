@@ -50,18 +50,20 @@
       "league": "FEL-1"
     },
     {
+      "year": "2025",
+      "team": "Tuatara",
+      "league": "NZL-1"
+    },
+    {
       "year": "25-26",
       "team": "MKS DG",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:47:55.154Z",
+  "_lastVerified": "2026-05-31T08:12:49.362Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:44:02.323Z",
-  "nationality": "USA",
-  "birthdate": "June 17 1999",
-  "birthCity": "Newark"
+  "cachedAt": "2026-05-31T08:12:49.362Z"
 }

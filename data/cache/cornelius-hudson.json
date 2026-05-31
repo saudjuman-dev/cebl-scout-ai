@@ -81,22 +81,19 @@
     },
     {
       "year": "25-26",
-      "team": "FC Porto",
-      "league": "POR-1"
+      "team": "Valcea",
+      "league": "ROM-1"
     },
     {
       "year": "25-26",
-      "team": "Valcea",
-      "league": "ROM-1"
+      "team": "FC Porto",
+      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:01:31.590Z",
+  "_lastVerified": "2026-05-31T08:28:09.284Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:16.074Z",
-  "nationality": "USA",
-  "birthdate": "December 29 1993",
-  "birthCity": "Dallas"
+  "cachedAt": "2026-05-31T08:28:09.284Z"
 }

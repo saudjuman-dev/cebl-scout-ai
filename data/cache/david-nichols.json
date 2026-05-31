@@ -87,22 +87,19 @@
     },
     {
       "year": "25-26",
-      "team": "Kolossos",
-      "league": "GRE-1"
+      "team": "Sabah",
+      "league": "AZE-1"
     },
     {
       "year": "25-26",
-      "team": "Sabah",
-      "league": "AZE-1"
+      "team": "Kolossos",
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:04:38.993Z",
+  "_lastVerified": "2026-05-31T07:46:19.960Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:08.647Z",
-  "nationality": "USA",
-  "birthdate": "March 26 1996",
-  "birthCity": "South Holland"
+  "cachedAt": "2026-05-31T07:46:19.960Z"
 }

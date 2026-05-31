@@ -106,22 +106,19 @@
     },
     {
       "year": "25-26",
-      "team": "Gargzdu",
+      "team": "Jonava",
       "league": "LTU-1"
     },
     {
       "year": "25-26",
-      "team": "Jonava",
+      "team": "Gargzdu",
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:09:58.705Z",
+  "_lastVerified": "2026-05-31T08:21:14.054Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:56:30.224Z",
-  "nationality": "Lithuanian",
-  "birthdate": "November 11 1998",
-  "birthCity": "Pasvalys"
+  "cachedAt": "2026-05-31T08:21:14.054Z"
 }

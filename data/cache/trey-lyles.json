@@ -68,21 +68,18 @@
     {
       "year": "25-26",
       "team": "Real Madrid",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Real Madrid",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:24:35.399Z",
+  "_lastVerified": "2026-05-31T07:36:22.126Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:40.912Z",
-  "nationality": "Canadian",
-  "birthdate": "November 5 1995",
-  "birthCity": "Saskatoon"
+  "cachedAt": "2026-05-31T07:36:22.126Z"
 }

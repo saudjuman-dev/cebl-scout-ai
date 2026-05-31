@@ -113,20 +113,18 @@
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:03:46.341Z",
+  "_lastVerified": "2026-05-31T07:38:45.969Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:19.627Z",
-  "birthdate": "May 4 1995",
-  "birthCity": "Murfreesboro"
+  "cachedAt": "2026-05-31T07:38:45.969Z"
 }

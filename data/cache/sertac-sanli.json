@@ -172,13 +172,13 @@
     },
     {
       "year": "25-26",
-      "team": "Besiktas",
-      "league": "TUR-1"
+      "team": "Dubai",
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Dubai",
-      "league": "EUROL-1"
+      "team": "Besiktas",
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
@@ -188,16 +188,13 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:16:31.159Z",
+  "_lastVerified": "2026-05-31T08:04:29.489Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:27:15.188Z",
-  "nationality": "Turkish",
-  "birthdate": "August 5 1991",
-  "birthCity": "Edirne"
+  "cachedAt": "2026-05-31T08:04:29.489Z"
 }

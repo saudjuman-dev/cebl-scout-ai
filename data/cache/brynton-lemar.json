@@ -133,20 +133,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:56:58.666Z",
+  "_lastVerified": "2026-05-31T07:57:39.613Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:40.539Z",
-  "birthdate": "January 23 1995",
-  "birthCity": "San Diego"
+  "cachedAt": "2026-05-31T07:57:39.613Z"
 }

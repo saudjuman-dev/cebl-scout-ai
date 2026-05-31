@@ -167,21 +167,18 @@
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "FRA-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "EUROL-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:57:43.313Z",
+  "_lastVerified": "2026-05-31T07:24:12.101Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:28.873Z",
-  "nationality": "USA",
-  "birthdate": "August 18 1990",
-  "birthCity": "Portland"
+  "cachedAt": "2026-05-31T07:24:12.101Z"
 }

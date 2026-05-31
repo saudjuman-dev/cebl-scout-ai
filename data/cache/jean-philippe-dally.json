@@ -83,14 +83,17 @@
       "year": "25-26",
       "team": "Saint Quentin",
       "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:29:21.466Z",
+  "_lastVerified": "2026-05-31T07:28:58.501Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:09.063Z",
-  "birthdate": "March 8 1996",
-  "birthCity": "Orleans"
+  "cachedAt": "2026-05-31T07:28:58.501Z"
 }

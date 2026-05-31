@@ -2,8 +2,8 @@
   "fullName": "ANTHONY COWAN JR.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Cowan-Jr/398655",
   "height": "6'0'",
-  "college": "College Prep\n2016",
-  "currentTeam": "Mersin Spor",
+  "college": "College Prep 2016",
+  "currentTeam": "Quebradillas",
   "careerHistory": [
     {
       "year": "16-17",
@@ -79,15 +79,17 @@
       "year": "25-26",
       "team": "Mersin Spor",
       "league": "TUR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Quebradillas",
+      "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:50:23.803Z",
+  "_lastVerified": "2026-05-31T08:05:44.161Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:23.301Z",
-  "nationality": "USA",
-  "birthdate": "October 7 1997",
-  "birthCity": "Bowie"
+  "cachedAt": "2026-05-31T08:05:44.161Z"
 }

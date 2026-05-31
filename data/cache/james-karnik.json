@@ -81,23 +81,19 @@
     },
     {
       "year": "25-26",
-      "team": "Girona",
-      "league": "ESP-1"
+      "team": "Neptunas",
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
-      "team": "Neptunas",
-      "league": "LTU-1"
+      "team": "Girona",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:26:56.770Z",
+  "_lastVerified": "2026-05-31T08:25:25.103Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:11.475Z",
-  "birthdate": "July 17 1998",
-  "birthCity": "Surrey",
-  "nationality": "Canadian",
-  "_inferredNationality": true
+  "cachedAt": "2026-05-31T08:25:25.103Z"
 }

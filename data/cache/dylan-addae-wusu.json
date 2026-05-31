@@ -36,20 +36,19 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl",
-      "league": "POL-1"
+      "team": "Cantabria",
+      "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Cantabria",
-      "league": "ESP-2"
+      "team": "Trefl",
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:09:48.276Z",
+  "_lastVerified": "2026-05-31T08:13:19.953Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:40:47.385Z",
-  "birthCity": "Bronx"
+  "cachedAt": "2026-05-31T08:13:19.953Z"
 }

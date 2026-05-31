@@ -62,21 +62,18 @@
     {
       "year": "25-26",
       "team": "Siroki",
-      "league": "BIH-1"
+      "league": "ADR-2"
     },
     {
       "year": "25-26",
       "team": "Siroki",
-      "league": "ADR-2"
+      "league": "BIH-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:34:53.286Z",
+  "_lastVerified": "2026-05-31T07:49:51.867Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:30.447Z",
-  "nationality": "USA",
-  "birthdate": "September 17 1999",
-  "birthCity": "Brooklyn Park"
+  "cachedAt": "2026-05-31T07:49:51.867Z"
 }

@@ -162,21 +162,18 @@
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "FRA-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "EUROL-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:03:01.531Z",
+  "_lastVerified": "2026-05-31T07:24:08.291Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:24.962Z",
-  "nationality": "Spanish",
-  "birthdate": "February 11 1991",
-  "birthCity": "Podgorica"
+  "cachedAt": "2026-05-31T07:24:08.291Z"
 }

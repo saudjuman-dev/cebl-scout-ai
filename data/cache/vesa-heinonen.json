@@ -2,7 +2,7 @@
   "fullName": "VESA HEINONEN",
   "sourceUrl": "https://basketball.eurobasket.com/player/Vesa-Heinonen/181261",
   "height": "6'5'",
-  "college": "University Games European Championships European Championships U20 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             VESA HEINONEN basketball profile    Uniform",
+  "college": "University Games European Championships European Championships U20 European Championships U16 VESA HEINONEN basketball profile Uniform",
   "currentTeam": "Bisons",
   "careerHistory": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "year": "15-16",
-      "team": "ACO Basket",
+      "team": "ONMKY",
       "league": "FIN-2"
     },
     {
@@ -111,13 +111,10 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:27:02.392Z",
+  "_lastVerified": "2026-05-31T09:08:25.812Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:17:54.119Z",
-  "nationality": "Finnish",
-  "birthdate": "May 21 1991",
-  "birthCity": "Heinola"
+  "cachedAt": "2026-05-31T09:08:25.812Z"
 }

@@ -102,21 +102,18 @@
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:13:05.880Z",
+  "_lastVerified": "2026-05-31T07:51:44.373Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:46.323Z",
-  "nationality": "French",
-  "birthdate": "October 29 1992",
-  "birthCity": "Saint-Maurice"
+  "cachedAt": "2026-05-31T07:51:44.373Z"
 }

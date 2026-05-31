@@ -106,22 +106,19 @@
     },
     {
       "year": "25-26",
-      "team": "AEK",
-      "league": "GRE-1"
+      "team": "Nymburk",
+      "league": "CZE-1"
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
+      "team": "AEK",
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:40:10.915Z",
+  "_lastVerified": "2026-05-31T07:46:41.363Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:02:36.034Z",
-  "nationality": "USA",
-  "birthdate": "October 23 1998",
-  "birthCity": "Hattiesburg"
+  "cachedAt": "2026-05-31T07:46:41.363Z"
 }

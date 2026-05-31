@@ -81,22 +81,19 @@
     },
     {
       "year": "25-26",
-      "team": "Saint Quentin",
-      "league": "FRA-1"
+      "team": "PGE Start",
+      "league": "POL-1"
     },
     {
       "year": "25-26",
-      "team": "PGE Start",
-      "league": "POL-1"
+      "team": "Saint Quentin",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:44:14.274Z",
+  "_lastVerified": "2026-05-31T08:17:56.232Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:46:34.624Z",
-  "nationality": "USA",
-  "birthdate": "March 19 1996",
-  "birthCity": "Austin"
+  "cachedAt": "2026-05-31T08:17:56.232Z"
 }

@@ -136,6 +136,11 @@
     },
     {
       "year": "25-26",
+      "team": "Panathinaikos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Ghosthawks",
       "league": "TAI-2"
     },
@@ -143,20 +148,12 @@
       "year": "25-26",
       "team": "Panathinaikos",
       "league": "GRE-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Panathinaikos",
-      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:39:02.238Z",
+  "_lastVerified": "2026-05-31T07:52:15.748Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:41.736Z",
-  "nationality": "USA",
-  "birthdate": "November 19 1989",
-  "birthCity": "Newark"
+  "cachedAt": "2026-05-31T07:52:15.748Z"
 }

@@ -131,21 +131,19 @@
     },
     {
       "year": "25-26",
-      "team": "Dreamers",
-      "league": "TAI-1"
+      "team": "Mersin Spor",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
-      "league": "TUR-1"
+      "team": "Dreamers",
+      "league": "TAI-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:53:55.607Z",
+  "_lastVerified": "2026-05-31T08:05:33.654Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:29:15.289Z",
-  "birthdate": "March 29 1995",
-  "birthCity": "Sekondi-Takoradi"
+  "cachedAt": "2026-05-31T08:05:33.654Z"
 }

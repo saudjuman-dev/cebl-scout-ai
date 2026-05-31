@@ -136,22 +136,19 @@
     },
     {
       "year": "25-26",
-      "team": "Andorra",
+      "team": "Manresa",
       "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Manresa",
+      "team": "Andorra",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:14:28.138Z",
+  "_lastVerified": "2026-05-31T07:41:19.898Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:31.519Z",
-  "nationality": "Spanish",
-  "birthdate": "April 29 1992",
-  "birthCity": "Barcelona"
+  "cachedAt": "2026-05-31T07:41:19.898Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "COREY ALLEN-WILLIAMS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Corey-Allen-Williams/402514",
   "height": "6'2'",
-  "college": "College\nYear",
+  "college": "College Year",
   "currentTeam": "Cedevita Jr.",
   "careerHistory": [
     {
@@ -72,22 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "FC Porto",
-      "league": "POR-1"
+      "team": "Cedevita Jr.",
+      "league": "CRO-1"
     },
     {
       "year": "25-26",
-      "team": "Cedevita Jr.",
-      "league": "CRO-1"
+      "team": "FC Porto",
+      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:01:25.207Z",
+  "_lastVerified": "2026-05-31T08:28:31.091Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:47.050Z",
-  "nationality": "USA",
-  "birthdate": "April 29 1998",
-  "birthCity": "Ypsilanti"
+  "cachedAt": "2026-05-31T08:28:31.091Z"
 }

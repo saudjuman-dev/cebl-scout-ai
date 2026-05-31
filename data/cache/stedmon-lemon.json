@@ -2,7 +2,7 @@
   "fullName": "STEDMON LEMON",
   "sourceUrl": "https://basketball.eurobasket.com/player/Stedmon-Lemon/347716",
   "height": "6'6'",
-  "currentTeam": "Panionios",
+  "currentTeam": "Xac Broncos",
   "careerHistory": [
     {
       "year": "14-15",
@@ -131,22 +131,24 @@
     },
     {
       "year": "25-26",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
       "team": "Maristes",
       "league": "LEB-1"
     },
     {
-      "year": "25-26",
-      "team": "Panionios",
-      "league": "GRE-1"
+      "year": "2026",
+      "team": "Xac Broncos",
+      "league": "BCLASIA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:18:30.492Z",
+  "_lastVerified": "2026-05-31T07:52:58.812Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:08:45.907Z",
-  "nationality": "USA",
-  "birthdate": "December 31 1992",
-  "birthCity": "Lithonia"
+  "cachedAt": "2026-05-31T07:52:58.812Z"
 }

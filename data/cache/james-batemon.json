@@ -2,7 +2,7 @@
   "fullName": "JAMES BATEMON",
   "sourceUrl": "https://basketball.eurobasket.com/player/James-Batemon/395013",
   "height": "6'1'",
-  "college": "University High School\n2015",
+  "college": "University High School 2015",
   "currentTeam": "Lleida",
   "careerHistory": [
     {
@@ -76,13 +76,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:26:53.736Z",
+  "_lastVerified": "2026-05-31T07:43:08.315Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:04.107Z",
-  "nationality": "USA",
-  "birthdate": "April 8 1997",
-  "birthCity": "Milwaukee"
+  "cachedAt": "2026-05-31T07:43:08.315Z"
 }

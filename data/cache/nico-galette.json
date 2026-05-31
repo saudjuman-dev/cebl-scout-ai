@@ -2,7 +2,7 @@
   "fullName": "NICO GALETTE",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nico-Galette/580442",
   "height": "6'6'",
-  "college": "University\nYear",
+  "college": "University Year",
   "currentTeam": "Menorca",
   "careerHistory": [
     {
@@ -41,12 +41,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:01:47.503Z",
+  "_lastVerified": "2026-05-31T08:50:47.682Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:21.569Z",
-  "birthdate": "June 22 2002",
-  "birthCity": "Rahway"
+  "cachedAt": "2026-05-31T08:50:47.682Z"
 }

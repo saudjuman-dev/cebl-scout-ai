@@ -153,21 +153,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:50:20.893Z",
+  "_lastVerified": "2026-05-31T07:57:16.627Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:22.513Z",
-  "nationality": "USA",
-  "birthdate": "October 10 1992",
-  "birthCity": "Bellflower"
+  "cachedAt": "2026-05-31T07:57:16.627Z"
 }

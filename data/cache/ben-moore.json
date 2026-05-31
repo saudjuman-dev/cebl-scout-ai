@@ -123,21 +123,18 @@
     {
       "year": "25-26",
       "team": "PAOK",
-      "league": "GRE-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "PAOK",
-      "league": "FEL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:54:04.055Z",
+  "_lastVerified": "2026-05-31T07:48:09.867Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:04:56.599Z",
-  "nationality": "USA",
-  "birthdate": "May 13 1995",
-  "birthCity": "Bolingbrook"
+  "cachedAt": "2026-05-31T07:48:09.867Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "JORDAN CAROLINE",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Caroline/338068",
   "height": "6'7'",
-  "college": "College Football Hall of Fame\nMajored in history\nYear",
+  "college": "College Football Hall of Fame Majored in history Year",
   "currentTeam": "Saint Quentin",
   "careerHistory": [
     {
@@ -111,13 +111,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:32:59.013Z",
+  "_lastVerified": "2026-05-31T08:26:14.674Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:29.394Z",
-  "nationality": "USA",
-  "birthdate": "January 15 1996",
-  "birthCity": "Champaign"
+  "cachedAt": "2026-05-31T08:26:14.674Z"
 }

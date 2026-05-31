@@ -2,7 +2,7 @@
   "fullName": "DAYLEN KOUNTZ",
   "sourceUrl": "https://basketball.eurobasket.com/player/Daylen-Kountz/476473",
   "height": "6'4'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             DAYLEN KOUNTZ basketball profile      Uniform",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games DAYLEN KOUNTZ basketball profile Uniform",
   "currentTeam": "Cholet",
   "careerHistory": [
     {
@@ -72,22 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "Cholet",
-      "league": "FRA-1"
+      "team": "M.Raanana",
+      "league": "ISR-1"
     },
     {
       "year": "25-26",
-      "team": "M.Raanana",
-      "league": "ISR-1"
+      "team": "Cholet",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:05:06.821Z",
+  "_lastVerified": "2026-05-31T08:12:09.182Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:46.097Z",
-  "nationality": "USA",
-  "birthdate": "February 26 2000",
-  "birthCity": "Kansas City"
+  "cachedAt": "2026-05-31T08:12:09.182Z"
 }

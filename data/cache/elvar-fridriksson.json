@@ -2,7 +2,7 @@
   "fullName": "ELVAR FRIDRIKSSON",
   "sourceUrl": "https://basketball.eurobasket.com/player/Elvar-Fridriksson/196730",
   "height": "6'0'",
-  "currentTeam": "Anwil",
+  "currentTeam": "Tenerife",
   "careerHistory": [
     {
       "year": "11-12",
@@ -138,15 +138,17 @@
       "year": "25-26",
       "team": "Anwil",
       "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tenerife",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:11:46.591Z",
+  "_lastVerified": "2026-05-31T08:19:36.060Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:42:53.284Z",
-  "nationality": "Icelandic",
-  "birthdate": "November 11 1994",
-  "birthCity": "Njardvik"
+  "cachedAt": "2026-05-31T08:19:36.060Z"
 }

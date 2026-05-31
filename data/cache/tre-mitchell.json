@@ -2,7 +2,7 @@
   "fullName": "TRE MITCHELL",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tre-Mitchell/501419",
   "height": "6'9'",
-  "college": "college basketball at College of Charleston\nYear",
+  "college": "college basketball at College of Charleston Year",
   "currentTeam": "Bourg",
   "careerHistory": [
     {
@@ -68,21 +68,18 @@
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "FRA-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "Eurocup-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:24:05.823Z",
+  "_lastVerified": "2026-05-31T07:25:05.815Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:37.340Z",
-  "nationality": "USA",
-  "birthdate": "September 24 2000",
-  "birthCity": "Bamberg"
+  "cachedAt": "2026-05-31T07:25:05.815Z"
 }

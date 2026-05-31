@@ -1,6 +1,7 @@
 {
   "fullName": "MARCUS KEENE",
   "sourceUrl": "https://basketball.eurobasket.com/player/Marcus-Keene/302511",
+  "birthCity": "Germany from parents both serving in US Army",
   "height": "5'10'",
   "currentTeam": "Strasbourg",
   "careerHistory": [
@@ -145,13 +146,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:50:35.024Z",
+  "_lastVerified": "2026-05-31T07:22:36.041Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:43.510Z",
-  "nationality": "USA",
-  "birthdate": "May 6 1995",
-  "birthCity": "San Antonio"
+  "cachedAt": "2026-05-31T07:22:36.041Z"
 }

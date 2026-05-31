@@ -2,7 +2,7 @@
   "fullName": "URALD KING",
   "sourceUrl": "https://basketball.eurobasket.com/player/Urald-King/215109",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             URALD KING basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 URALD KING basketball profile Uniform No",
   "currentTeam": "Trier",
   "careerHistory": [
     {
@@ -78,12 +78,12 @@
     {
       "year": "24-25",
       "team": "Bakken",
-      "league": "DEN-1"
+      "league": "ENBL-1"
     },
     {
       "year": "24-25",
       "team": "Bakken",
-      "league": "ENBL-1"
+      "league": "DEN-1"
     },
     {
       "year": "25-26",
@@ -96,13 +96,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:26:05.571Z",
+  "_lastVerified": "2026-05-31T07:14:44.684Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:25:06.943Z",
-  "nationality": "USA",
-  "birthdate": "July 13 1990",
-  "birthCity": "West Monroe"
+  "cachedAt": "2026-05-31T07:14:44.684Z"
 }

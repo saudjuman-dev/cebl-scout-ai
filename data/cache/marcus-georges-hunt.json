@@ -112,21 +112,24 @@
     },
     {
       "year": "25-26",
+      "team": "Liaoning FL",
+      "league": "CHN-1"
+    },
+    {
+      "year": "25-26",
       "team": "Bursaspor",
       "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Liaoning FL",
-      "league": "CHN-1"
+      "team": "Al Riyadi",
+      "league": "LEB-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:50:26.715Z",
+  "_lastVerified": "2026-05-31T08:05:03.918Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:53.572Z",
-  "birthdate": "March 28 1994",
-  "birthCity": "Miami"
+  "cachedAt": "2026-05-31T08:05:03.918Z"
 }

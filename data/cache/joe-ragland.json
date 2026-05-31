@@ -2,7 +2,7 @@
   "fullName": "JOE RAGLAND",
   "sourceUrl": "https://basketball.eurobasket.com/player/Joe-Ragland/198613",
   "height": "6'0'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JOE RAGLAND basketball profile    Uniform No",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games JOE RAGLAND basketball profile Uniform No",
   "currentTeam": "Treviso",
   "careerHistory": [
     {
@@ -147,21 +147,19 @@
     },
     {
       "year": "25-26",
-      "team": "M.Raanana",
-      "league": "ISR-1"
+      "team": "Treviso",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
-      "team": "Treviso",
-      "league": "ITA-1"
+      "team": "M.Raanana",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:31:07.862Z",
+  "_lastVerified": "2026-05-31T08:11:56.852Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:33.004Z",
-  "birthdate": "November 11 1989",
-  "birthCity": "Springfield"
+  "cachedAt": "2026-05-31T08:11:56.852Z"
 }

@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Gabriel-Olaseni/181284",
   "height": "6'10'",
   "college": "University of Iowa",
-  "currentTeam": "Mersin Spor",
+  "currentTeam": "Zaragoza",
   "careerHistory": [
     {
       "year": "11-12",
@@ -129,15 +129,17 @@
       "year": "25-26",
       "team": "Mersin Spor",
       "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:16:09.056Z",
+  "_lastVerified": "2026-05-31T07:43:36.041Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:16.410Z",
-  "nationality": "British",
-  "birthdate": "December 29 1991",
-  "birthCity": "Plaistow"
+  "cachedAt": "2026-05-31T07:43:36.041Z"
 }

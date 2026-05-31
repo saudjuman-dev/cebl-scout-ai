@@ -62,21 +62,19 @@
     },
     {
       "year": "25-26",
-      "team": "Czarni",
-      "league": "POL-1"
+      "team": "Karditsas",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Karditsas",
-      "league": "GRE-1"
+      "team": "Czarni",
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:15:21.498Z",
+  "_lastVerified": "2026-05-31T07:50:27.420Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:13:02.736Z",
-  "birthdate": "August 7 1999",
-  "birthCity": "Imo"
+  "cachedAt": "2026-05-31T07:50:27.420Z"
 }

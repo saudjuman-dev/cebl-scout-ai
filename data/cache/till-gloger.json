@@ -2,7 +2,7 @@
   "fullName": "TILL GLOGER",
   "sourceUrl": "https://basketball.eurobasket.com/player/Till-Gloger/205621",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             TILL GLOGER basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 TILL GLOGER basketball profile Uniform No",
   "currentTeam": "Giessen 46ers",
   "careerHistory": [
     {
@@ -81,18 +81,20 @@
       "league": "GER-1"
     },
     {
+      "year": "2025",
+      "team": "Bulls",
+      "league": "NZL-1"
+    },
+    {
       "year": "25-26",
       "team": "Giessen 46ers",
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:21:33.854Z",
+  "_lastVerified": "2026-05-31T08:32:43.491Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:16.321Z",
-  "nationality": "German",
-  "birthdate": "January 26 1993",
-  "birthCity": "Bochum"
+  "cachedAt": "2026-05-31T08:32:43.491Z"
 }

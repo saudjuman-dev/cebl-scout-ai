@@ -2,6 +2,7 @@
   "fullName": "TY NICHOLS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ty-Nichols/389380",
   "height": "6'3'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games TY NICHOLS basketball profile Uniform No",
   "currentTeam": "Peristeri",
   "careerHistory": [
     {
@@ -123,15 +124,17 @@
       "year": "25-26",
       "team": "Peristeri",
       "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Ramat Gan",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:25:04.214Z",
+  "_lastVerified": "2026-05-31T07:53:25.584Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:27.675Z",
-  "nationality": "USA",
-  "birthdate": "October 13 1996",
-  "birthCity": "Springfield"
+  "cachedAt": "2026-05-31T07:53:25.584Z"
 }

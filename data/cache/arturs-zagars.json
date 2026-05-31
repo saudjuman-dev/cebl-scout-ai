@@ -87,21 +87,18 @@
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "TUR-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "EUROL-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:52:17.246Z",
+  "_lastVerified": "2026-05-31T08:03:56.191Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:12.474Z",
-  "nationality": "Latvian",
-  "birthdate": "April 21 2000",
-  "birthCity": "Riga"
+  "cachedAt": "2026-05-31T08:03:56.191Z"
 }

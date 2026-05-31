@@ -2,7 +2,7 @@
   "fullName": "JAMES PALMER JR.",
   "sourceUrl": "https://basketball.eurobasket.com/player/James-Palmer-Jr/335984",
   "height": "6'6'",
-  "college": "College High School\n2014",
+  "college": "College High School 2014",
   "currentTeam": "Galatasaray",
   "careerHistory": [
     {
@@ -106,13 +106,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:27:00.960Z",
+  "_lastVerified": "2026-05-31T07:58:20.373Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:19:23.075Z",
-  "nationality": "USA",
-  "birthdate": "July 31 1996",
-  "birthCity": "Washington"
+  "cachedAt": "2026-05-31T07:58:20.373Z"
 }

@@ -27,11 +27,6 @@
     },
     {
       "year": "25-26",
-      "team": "Slask",
-      "league": "POL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Sloga KR",
       "league": "SRB-1"
     },
@@ -39,14 +34,17 @@
       "year": "25-26",
       "team": "Mega Superbet",
       "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:42:30.922Z",
+  "_lastVerified": "2026-05-31T08:15:55.631Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:48:58.700Z",
-  "nationality": "USA",
-  "birthCity": "Dorchester"
+  "cachedAt": "2026-05-31T08:15:55.631Z"
 }

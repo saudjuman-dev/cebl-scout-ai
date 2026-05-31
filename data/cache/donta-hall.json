@@ -108,20 +108,18 @@
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:09:04.367Z",
+  "_lastVerified": "2026-05-31T07:45:37.608Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:21.421Z",
-  "birthdate": "August 7 1997",
-  "birthCity": "Luverne"
+  "cachedAt": "2026-05-31T07:45:37.608Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "D'SHAWN SCHWARTZ",
   "sourceUrl": "https://basketball.eurobasket.com/player/DShawn-Schwartz/421903",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             D",
+  "college": "University Games European Championships Olympic Games European Championships U16 D",
   "currentTeam": "Rostock",
   "careerHistory": [
     {
@@ -86,13 +86,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:09:34.829Z",
+  "_lastVerified": "2026-05-31T07:17:37.532Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:18.822Z",
-  "nationality": "USA",
-  "birthdate": "February 15 1999",
-  "birthCity": "Abilene"
+  "cachedAt": "2026-05-31T07:17:37.532Z"
 }

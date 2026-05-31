@@ -2,7 +2,7 @@
   "fullName": "VIKTOR KOVACEVIC",
   "sourceUrl": "https://basketball.eurobasket.com/player/Viktor-Kovacevic/442361",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             VIKTOR KOVACEVIC basketball profile     Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 VIKTOR KOVACEVIC basketball profile Uniform",
   "currentTeam": "Giessen 46ers",
   "careerHistory": [
     {
@@ -67,21 +67,19 @@
     },
     {
       "year": "25-26",
-      "team": "Giessen 46ers",
-      "league": "GER-2"
+      "team": "Inter Bratislava",
+      "league": "SVK-1"
     },
     {
       "year": "25-26",
-      "team": "Inter Bratislava",
-      "league": "SVK-1"
+      "team": "Giessen 46ers",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:27:19.561Z",
+  "_lastVerified": "2026-05-31T08:32:36.729Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:13:07.544Z",
-  "nationality": "Serbian",
-  "birthCity": "Beograd"
+  "cachedAt": "2026-05-31T08:32:36.729Z"
 }

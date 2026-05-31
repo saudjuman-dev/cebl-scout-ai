@@ -123,26 +123,23 @@
     {
       "year": "25-26",
       "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce",
       "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "AEK",
       "league": "GRE-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Fenerbahce",
-      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:59:44.247Z",
+  "_lastVerified": "2026-05-31T07:53:40.475Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:12:19.526Z",
-  "nationality": "Gabonese",
-  "birthdate": "September 19 1996",
-  "birthCity": "Libreville"
+  "cachedAt": "2026-05-31T07:53:40.475Z"
 }

@@ -58,21 +58,18 @@
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "TUR-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "EUROL-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:51:38.112Z",
+  "_lastVerified": "2026-05-31T07:55:32.036Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:09.583Z",
-  "nationality": "USA",
-  "birthdate": "June 3 2000",
-  "birthCity": "Richmond"
+  "cachedAt": "2026-05-31T07:55:32.036Z"
 }

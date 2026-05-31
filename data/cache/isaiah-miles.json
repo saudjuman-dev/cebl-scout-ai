@@ -131,22 +131,19 @@
     },
     {
       "year": "25-26",
-      "team": "Cholet",
-      "league": "FRA-1"
+      "team": "Merkezefendi",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Merkezefendi",
-      "league": "TUR-1"
+      "team": "Cholet",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:23:17.826Z",
+  "_lastVerified": "2026-05-31T07:59:28.165Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:20:37.801Z",
-  "nationality": "USA",
-  "birthdate": "June 9 1994",
-  "birthCity": "Baltimore"
+  "cachedAt": "2026-05-31T07:59:28.165Z"
 }

@@ -127,21 +127,18 @@
     {
       "year": "25-26",
       "team": "Real Madrid",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Real Madrid",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:50:47.953Z",
+  "_lastVerified": "2026-05-31T07:36:19.159Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:36.762Z",
-  "nationality": "Croatian",
-  "birthdate": "February 25 1995",
-  "birthCity": "Dubrovnik"
+  "cachedAt": "2026-05-31T07:36:19.159Z"
 }

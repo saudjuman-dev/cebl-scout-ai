@@ -2,6 +2,7 @@
   "fullName": "DAVID EFIANAYI",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-Efianayi/336445",
   "height": "6'2'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games DAVID EFIANAYI basketball profile Uniform No",
   "currentTeam": "Petkim",
   "careerHistory": [
     {
@@ -93,14 +94,17 @@
       "year": "25-26",
       "team": "Petkim",
       "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Tel-Aviv",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:04:15.181Z",
+  "_lastVerified": "2026-05-31T08:04:48.881Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:22:04.808Z",
-  "birthdate": "December 19 1995",
-  "birthCity": "Manchester"
+  "cachedAt": "2026-05-31T08:04:48.881Z"
 }

@@ -101,6 +101,11 @@
     },
     {
       "year": "25-26",
+      "team": "Olympiacos",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Anadolu Efes",
       "league": "TUR-1"
     },
@@ -108,20 +113,12 @@
       "year": "25-26",
       "team": "Olympiacos",
       "league": "GRE-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Olympiacos",
-      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:13:51.572Z",
+  "_lastVerified": "2026-05-31T08:03:20.075Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:18:38.979Z",
-  "nationality": "USA",
-  "birthdate": "June 23 1999",
-  "birthCity": "Phoenix"
+  "cachedAt": "2026-05-31T08:03:20.075Z"
 }

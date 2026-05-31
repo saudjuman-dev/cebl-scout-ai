@@ -96,22 +96,19 @@
     },
     {
       "year": "25-26",
-      "team": "Cluj Napoca",
-      "league": "ADR-1"
+      "team": "Buyukcekmece",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Buyukcekmece",
-      "league": "TUR-1"
+      "team": "Cluj Napoca",
+      "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:00:38.316Z",
+  "_lastVerified": "2026-05-31T08:03:08.373Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:25:15.100Z",
-  "nationality": "Ghanian",
-  "birthdate": "April 9 1998",
-  "birthCity": "Accra"
+  "cachedAt": "2026-05-31T08:03:08.373Z"
 }

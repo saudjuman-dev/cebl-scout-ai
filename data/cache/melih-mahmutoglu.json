@@ -158,21 +158,18 @@
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "TUR-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Fenerbahce",
-      "league": "EUROL-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:55:06.430Z",
+  "_lastVerified": "2026-05-31T07:55:38.577Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:16.768Z",
-  "nationality": "Turkish",
-  "birthdate": "May 12 1990",
-  "birthCity": "Kadikoy"
+  "cachedAt": "2026-05-31T07:55:38.577Z"
 }

@@ -128,21 +128,18 @@
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "LTU-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "EUROL-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:49:27.189Z",
+  "_lastVerified": "2026-05-31T08:24:56.683Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:07.650Z",
-  "nationality": "German",
-  "birthdate": "December 31 1992",
-  "birthCity": "Berlin"
+  "cachedAt": "2026-05-31T08:24:56.683Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "JORDAN JOHNSON",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Johnson/330936",
   "height": "5'11'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JORDAN JOHNSON basketball profile    Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 JORDAN JOHNSON basketball profile Uniform",
   "currentTeam": "Peja",
   "careerHistory": [
     {
@@ -97,22 +97,19 @@
     },
     {
       "year": "25-26",
-      "team": "Tuebingen",
-      "league": "GER-2"
+      "team": "Peja",
+      "league": "KOS-1"
     },
     {
       "year": "25-26",
-      "team": "Peja",
-      "league": "KOS-1"
+      "team": "Tuebingen",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:33:07.441Z",
+  "_lastVerified": "2026-05-31T08:35:31.245Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:09.380Z",
-  "nationality": "USA",
-  "birthdate": "January 26 1995",
-  "birthCity": "Waukegan"
+  "cachedAt": "2026-05-31T08:35:31.245Z"
 }

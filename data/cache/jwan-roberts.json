@@ -2,7 +2,7 @@
   "fullName": "J'WAN ROBERTS",
   "sourceUrl": "https://basketball.eurobasket.com/player/JWan-Roberts/430212",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             J",
+  "college": "University Games European Championships Olympic Games European Championships U16 J",
   "currentTeam": "ALBA",
   "careerHistory": [
     {
@@ -61,12 +61,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:37:14.840Z",
+  "_lastVerified": "2026-05-31T07:16:07.900Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:05.102Z",
-  "birthdate": "September 19 2001",
-  "birthCity": "St"
+  "cachedAt": "2026-05-31T07:16:07.900Z"
 }

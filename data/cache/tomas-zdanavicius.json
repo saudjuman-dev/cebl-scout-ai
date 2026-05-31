@@ -97,22 +97,19 @@
     },
     {
       "year": "25-26",
-      "team": "Craiova",
-      "league": "ROM-1"
+      "team": "Lietkabelis",
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
-      "team": "Lietkabelis",
-      "league": "LTU-1"
+      "team": "Craiova",
+      "league": "ROM-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:22:49.176Z",
+  "_lastVerified": "2026-05-31T08:25:20.235Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:59.791Z",
-  "nationality": "Lithuanian",
-  "birthdate": "June 23 1996",
-  "birthCity": "Vilnius"
+  "cachedAt": "2026-05-31T08:25:20.235Z"
 }

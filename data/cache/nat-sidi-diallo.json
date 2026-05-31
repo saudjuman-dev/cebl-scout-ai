@@ -2,7 +2,7 @@
   "fullName": "NAT-SIDI DIALLO",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nat-Sidi-Diallo/368082",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             NAT",
+  "college": "University Games European Championships Olympic Games European Championships U16 NAT",
   "currentTeam": "Bayreuth",
   "careerHistory": [
     {
@@ -116,13 +116,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:00:14.959Z",
+  "_lastVerified": "2026-05-31T08:34:23.968Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:43.376Z",
-  "nationality": "German",
-  "birthdate": "February 3 2000",
-  "birthCity": "Luttic"
+  "cachedAt": "2026-05-31T08:34:23.968Z"
 }

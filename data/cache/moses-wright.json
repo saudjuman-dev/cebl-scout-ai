@@ -97,21 +97,18 @@
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "LTU-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "EUROL-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:59:29.928Z",
+  "_lastVerified": "2026-05-31T08:20:24.151Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:30.754Z",
-  "nationality": "USA",
-  "birthdate": "December 23 1998",
-  "birthCity": "Raleigh"
+  "cachedAt": "2026-05-31T08:20:24.151Z"
 }

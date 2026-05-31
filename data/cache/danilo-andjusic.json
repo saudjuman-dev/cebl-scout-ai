@@ -181,22 +181,19 @@
     },
     {
       "year": "25-26",
-      "team": "Dubai",
-      "league": "ADR-1"
+      "team": "Aris",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Aris",
-      "league": "GRE-1"
+      "team": "Dubai",
+      "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:03:18.766Z",
+  "_lastVerified": "2026-05-31T07:47:21.690Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:03:20.939Z",
-  "nationality": "Serbian",
-  "birthdate": "April 22 1991",
-  "birthCity": "Beograd"
+  "cachedAt": "2026-05-31T07:47:21.690Z"
 }

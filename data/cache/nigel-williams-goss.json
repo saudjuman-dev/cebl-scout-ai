@@ -108,21 +108,18 @@
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "LTU-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "EUROL-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:02:33.179Z",
+  "_lastVerified": "2026-05-31T08:24:52.424Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:03.969Z",
-  "nationality": "USA",
-  "birthdate": "September 16 1994",
-  "birthCity": "Happy Valley"
+  "cachedAt": "2026-05-31T08:24:52.424Z"
 }

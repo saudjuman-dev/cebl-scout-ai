@@ -2,7 +2,8 @@
   "fullName": "JORDAN WRIGHT",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Wright/473077",
   "height": "6'6'",
-  "currentTeam": "Start",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games JORDAN WRIGHT basketball profile Uniform No",
+  "currentTeam": "H.Holon",
   "careerHistory": [
     {
       "year": "19-20",
@@ -63,15 +64,17 @@
       "year": "25-26",
       "team": "PGE Start",
       "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Holon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:33:46.371Z",
+  "_lastVerified": "2026-05-31T08:07:35.510Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:46:30.314Z",
-  "nationality": "USA",
-  "birthdate": "September 21 2000",
-  "birthCity": "Baton Rouge"
+  "cachedAt": "2026-05-31T08:07:35.510Z"
 }

@@ -101,22 +101,19 @@
     },
     {
       "year": "25-26",
-      "team": "Caen",
-      "league": "FRA-2"
+      "team": "Melilla",
+      "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Melilla",
-      "league": "ESP-2"
+      "team": "Caen",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:03:27.031Z",
+  "_lastVerified": "2026-05-31T08:43:02.065Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:31:11.254Z",
-  "nationality": "French",
-  "birthdate": "June 27 1997",
-  "birthCity": "Juvisy-sur-Orge"
+  "cachedAt": "2026-05-31T08:43:02.065Z"
 }

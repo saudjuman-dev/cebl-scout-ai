@@ -2,7 +2,7 @@
   "fullName": "DEVON DANIELS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Devon-Daniels/402322",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             DEVON DANIELS basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 DEVON DANIELS basketball profile Uniform No",
   "currentTeam": "Juventus",
   "careerHistory": [
     {
@@ -77,22 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Juventus",
-      "league": "LTU-1"
+      "team": "Hamburg",
+      "league": "GER-1"
     },
     {
       "year": "25-26",
-      "team": "Hamburg",
-      "league": "GER-1"
+      "team": "Juventus",
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:06:41.157Z",
+  "_lastVerified": "2026-05-31T07:19:58.671Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:34.734Z",
-  "nationality": "USA",
-  "birthdate": "July 18 1998",
-  "birthCity": "Battle Creek"
+  "cachedAt": "2026-05-31T07:19:58.671Z"
 }

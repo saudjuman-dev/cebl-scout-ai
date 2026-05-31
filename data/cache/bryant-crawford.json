@@ -2,7 +2,7 @@
   "fullName": "BRYANT CRAWFORD",
   "sourceUrl": "https://basketball.eurobasket.com/player/Bryant-Crawford/334249",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             BRYANT CRAWFORD basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 BRYANT CRAWFORD basketball profile Uniform No",
   "currentTeam": "Bursaspor",
   "careerHistory": [
     {
@@ -82,22 +82,19 @@
     },
     {
       "year": "25-26",
-      "team": "Braunschweig",
-      "league": "GER-1"
+      "team": "Bursaspor",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Bursaspor",
-      "league": "TUR-1"
+      "team": "Braunschweig",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:56:45.981Z",
+  "_lastVerified": "2026-05-31T07:21:29.463Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:28:20.627Z",
-  "nationality": "USA",
-  "birthdate": "March 21 1997",
-  "birthCity": "Silver Spring"
+  "cachedAt": "2026-05-31T07:21:29.463Z"
 }

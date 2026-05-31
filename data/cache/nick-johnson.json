@@ -129,15 +129,17 @@
       "year": "25-26",
       "team": "Saint Quentin",
       "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:01:34.759Z",
+  "_lastVerified": "2026-05-31T07:28:45.821Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:39:59.061Z",
-  "nationality": "USA",
-  "birthdate": "December 22 1992",
-  "birthCity": "Gilbert"
+  "cachedAt": "2026-05-31T07:28:45.821Z"
 }

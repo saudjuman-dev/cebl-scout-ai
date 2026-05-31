@@ -2,7 +2,7 @@
   "fullName": "ERICK GREEN",
   "sourceUrl": "https://basketball.eurobasket.com/player/Erick-Green/147280",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             ERICK GREEN basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ERICK GREEN basketball profile Uniform No",
   "currentTeam": "Cantu",
   "careerHistory": [
     {
@@ -167,22 +167,19 @@
     },
     {
       "year": "25-26",
-      "team": "Sagesse",
-      "league": "LEB-1"
+      "team": "Cantu",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
-      "team": "Cantu",
-      "league": "ITA-1"
+      "team": "Sagesse",
+      "league": "LEB-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:12:37.143Z",
+  "_lastVerified": "2026-05-31T07:35:10.079Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:24.484Z",
-  "nationality": "USA",
-  "birthdate": "May 9 1991",
-  "birthCity": "Inglewood"
+  "cachedAt": "2026-05-31T07:35:10.079Z"
 }

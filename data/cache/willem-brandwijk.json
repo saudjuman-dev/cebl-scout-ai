@@ -2,7 +2,7 @@
   "fullName": "WILLEM BRANDWIJK",
   "sourceUrl": "https://basketball.eurobasket.com/player/Willem-Brandwijk/202845",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             WILLEM BRANDWIJK basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 WILLEM BRANDWIJK basketball profile Uniform No",
   "currentTeam": "Aix-Maurienne",
   "careerHistory": [
     {
@@ -97,22 +97,19 @@
     },
     {
       "year": "25-26",
-      "team": "Aix-Maurienne",
-      "league": "FRA-2"
+      "team": "Bayreuth",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Bayreuth",
-      "league": "GER-2"
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:29:04.636Z",
+  "_lastVerified": "2026-05-31T08:34:11.615Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:25.653Z",
-  "nationality": "Dutch",
-  "birthdate": "July 31 1995",
-  "birthCity": "Voorburg"
+  "cachedAt": "2026-05-31T08:34:11.615Z"
 }

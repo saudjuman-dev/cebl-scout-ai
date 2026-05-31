@@ -46,22 +46,19 @@
     },
     {
       "year": "25-26",
-      "team": "Nevezis",
-      "league": "LTU-1"
+      "team": "Vilkaviskis",
+      "league": "LTU-2"
     },
     {
       "year": "25-26",
-      "team": "Vilkaviskis",
-      "league": "LTU-2"
+      "team": "Nevezis",
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:37:01.272Z",
+  "_lastVerified": "2026-05-31T08:24:31.750Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:55:28.883Z",
-  "nationality": "Lithuanian",
-  "birthdate": "September 21 2000",
-  "birthCity": "Kaunas"
+  "cachedAt": "2026-05-31T08:24:31.750Z"
 }

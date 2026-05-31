@@ -2,7 +2,7 @@
   "fullName": "KYLE STURDIVANT",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Sturdivant/427957",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             KYLE STURDIVANT basketball profile     Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 KYLE STURDIVANT basketball profile Uniform",
   "currentTeam": "Bayreuth",
   "careerHistory": [
     {
@@ -37,22 +37,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bayreuth",
-      "league": "GER-2"
+      "team": "Cair 2030",
+      "league": "MKD-1"
     },
     {
       "year": "25-26",
-      "team": "Cair 2030",
-      "league": "MKD-1"
+      "team": "Bayreuth",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:42:22.254Z",
+  "_lastVerified": "2026-05-31T08:34:26.819Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:16:36.404Z",
-  "nationality": "USA",
-  "birthdate": "December 29 2000",
-  "birthCity": "Norcross"
+  "cachedAt": "2026-05-31T08:34:26.819Z"
 }

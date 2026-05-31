@@ -2,7 +2,8 @@
   "fullName": "CHAUNCE JENKINS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chaunce-Jenkins/564108",
   "height": "6'4'",
-  "currentTeam": "Vitoria SC",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games CHAUNCE JENKINS basketball profile Uniform",
+  "currentTeam": "M.Rishon",
   "careerHistory": [
     {
       "year": "20-21",
@@ -38,15 +39,17 @@
       "year": "25-26",
       "team": "Vitoria SC",
       "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Rishon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:59:07.903Z",
+  "_lastVerified": "2026-05-31T08:08:30.795Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:05:47.038Z",
-  "nationality": "USA",
-  "birthdate": "Apr. 20, 2002",
-  "birthCity": "Newport News"
+  "cachedAt": "2026-05-31T08:08:30.795Z"
 }

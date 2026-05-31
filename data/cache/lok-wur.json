@@ -2,7 +2,7 @@
   "fullName": "LOK WUR",
   "sourceUrl": "https://basketball.eurobasket.com/player/Lok-Wur/527770",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             LOK WUR basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 LOK WUR basketball profile Uniform No",
   "currentTeam": "Leverkusen",
   "careerHistory": [
     {
@@ -36,12 +36,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:44:51.741Z",
+  "_lastVerified": "2026-05-31T08:37:10.751Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:19:39.006Z",
-  "birthdate": "December 12 2000",
-  "birthCity": "Omaha"
+  "cachedAt": "2026-05-31T08:37:10.751Z"
 }

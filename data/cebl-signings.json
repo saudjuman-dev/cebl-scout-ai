@@ -1,9 +1,129 @@
 {
-  "_lastScraped": "2026-05-24T07:06:59.743Z",
+  "_lastScraped": "2026-05-31T09:10:14.285Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Trevon Scott",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-30",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tevian Jones",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-30",
+      "type": "Standard Player  Contract"
+    },
+    {
+      "player": "Scottie Lindsey",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-29",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Marko Maletic",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-29",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Dre Davis II",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-29",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "CJ Gunn released from Club",
+      "team": "Calgary Surge",
+      "date": "2026-05-28",
+      "type": "CJ Gunn released from Club"
+    },
+    {
+      "player": "KC Ibekwe released from Club",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-28",
+      "type": "KC Ibekwe released from Club"
+    },
+    {
+      "player": "Grant Shephard",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-28",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kyle Varner placed on Practice Roster",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-27",
+      "type": "Kyle Varner placed on Practice Roster"
+    },
+    {
+      "player": "Isaih Moore",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-27",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Cyril Martynov released from Club",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-05-27",
+      "type": "Cyril Martynov released from Club"
+    },
+    {
+      "player": "Anthony Maxwell",
+      "team": "Montreal Alliance",
+      "date": "2026-05-26",
+      "type": "Developmental Player Contract and placed on Practice Roster"
+    },
+    {
+      "player": "Lansa Nwosu placed on Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-26",
+      "type": "Lansa Nwosu placed on Practice Roster"
+    },
+    {
+      "player": "Nathan Tshimanga removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-26",
+      "type": "Nathan Tshimanga removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Stanley Davis Jr",
+      "team": "Edmonton Stingers",
+      "date": "2026-05-26",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Judson Martindale removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-24",
+      "type": "Judson Martindale removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Tegra Izay placed on Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-05-24",
+      "type": "Tegra Izay placed on Practice Roster"
+    },
+    {
+      "player": "Majok Gum placed on Practice Roster",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-24",
+      "type": "Majok Gum placed on Practice Roster"
+    },
+    {
+      "player": "Tevian Jones released from Club",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-24",
+      "type": "Tevian Jones released from Club"
+    },
+    {
+      "player": "Ramogi Nyagudi placed on Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-05-24",
+      "type": "Ramogi Nyagudi placed on Practice Roster"
+    },
     {
       "player": "Daniel Chijioke removed from Practice Roster and added to Club's 14-man Roster",
       "team": "Calgary Surge",

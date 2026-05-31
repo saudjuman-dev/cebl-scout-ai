@@ -2,7 +2,7 @@
   "fullName": "DE'VONDRE PERRY",
   "sourceUrl": "https://basketball.eurobasket.com/player/DeVondre-Perry/431004",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             DE",
+  "college": "University Games European Championships Olympic Games European Championships U16 DE",
   "currentTeam": "Wolmirstedt",
   "careerHistory": [
     {
@@ -51,13 +51,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:06:51.366Z",
+  "_lastVerified": "2026-05-31T08:36:11.349Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:18:26.680Z",
-  "nationality": "USA",
-  "birthdate": "January 31 1999",
-  "birthCity": "Baltimore"
+  "cachedAt": "2026-05-31T08:36:11.349Z"
 }

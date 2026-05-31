@@ -2,7 +2,7 @@
   "fullName": "TRAYVON CROFT",
   "sourceUrl": "https://basketball.eurobasket.com/player/Trayvon-Croft/431442",
   "height": "6'1'",
-  "college": "University of Northern Iowa",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games TRAYVON CROFT basketball profile Uniform",
   "currentTeam": "Rouen",
   "careerHistory": [
     {
@@ -44,15 +44,17 @@
       "year": "25-26",
       "team": "Rouen",
       "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Holon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:24:00.247Z",
+  "_lastVerified": "2026-05-31T08:07:48.405Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:30:37.412Z",
-  "nationality": "USA",
-  "birthdate": "December 31 1997",
-  "birthCity": "Anniston"
+  "cachedAt": "2026-05-31T08:07:48.405Z"
 }

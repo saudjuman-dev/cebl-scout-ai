@@ -2,7 +2,7 @@
   "fullName": "TIM SMITH JR.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tim-Smith-Jr/505676",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             TIM SMITH JR",
+  "college": "University Games European Championships Olympic Games European Championships U16 TIM SMITH JR",
   "currentTeam": "Koblenz",
   "careerHistory": [
     {
@@ -41,13 +41,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:21:48.696Z",
+  "_lastVerified": "2026-05-31T08:35:48.258Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:17:45.739Z",
-  "nationality": "USA",
-  "birthdate": "October 7 2000",
-  "birthCity": "Cleveland"
+  "cachedAt": "2026-05-31T08:35:48.258Z"
 }

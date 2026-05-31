@@ -2,7 +2,7 @@
   "fullName": "JAIRUS HAMILTON",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jairus-Hamilton/424685",
   "height": "6'8'",
-  "college": "College\nYear",
+  "college": "College Year",
   "currentTeam": "Krosno",
   "careerHistory": [
     {
@@ -76,13 +76,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:25:38.583Z",
+  "_lastVerified": "2026-05-31T08:19:09.061Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:48:24.174Z",
-  "nationality": "USA",
-  "birthdate": "January 11 2000",
-  "birthCity": "Charlotte"
+  "cachedAt": "2026-05-31T08:19:09.061Z"
 }

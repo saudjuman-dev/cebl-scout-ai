@@ -92,21 +92,18 @@
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:00:55.079Z",
+  "_lastVerified": "2026-05-31T07:38:39.734Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:12.311Z",
-  "nationality": "French",
-  "birthdate": "August 13 1998",
-  "birthCity": "Aubergenville"
+  "cachedAt": "2026-05-31T07:38:39.734Z"
 }

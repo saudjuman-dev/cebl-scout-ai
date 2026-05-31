@@ -2,7 +2,7 @@
   "fullName": "TONEY DOUGLAS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Toney-Douglas/52484",
   "height": "6'3'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             TONEY DOUGLAS basketball profile    Uniform No",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games TONEY DOUGLAS basketball profile Uniform No",
   "currentTeam": "Bnei Hertzeliya",
   "careerHistory": [
     {
@@ -157,22 +157,19 @@
     },
     {
       "year": "25-26",
-      "team": "H.Galil Elyon",
+      "team": "Bnei Hertzeliya",
       "league": "ISR-1"
     },
     {
       "year": "25-26",
-      "team": "Bnei Hertzeliya",
+      "team": "H.Galil Elyon",
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:23:22.159Z",
+  "_lastVerified": "2026-05-31T08:11:38.974Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:38:13.339Z",
-  "nationality": "USA",
-  "birthdate": "March 16 1986",
-  "birthCity": "Tampa"
+  "cachedAt": "2026-05-31T08:11:38.974Z"
 }

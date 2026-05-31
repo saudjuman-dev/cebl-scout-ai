@@ -126,22 +126,19 @@
     },
     {
       "year": "25-26",
-      "team": "Strasbourg",
-      "league": "FRA-1"
+      "team": "Gran Canaria",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Gran Canaria",
-      "league": "ESP-1"
+      "team": "Strasbourg",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:45:38.927Z",
+  "_lastVerified": "2026-05-31T07:22:45.609Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:34:50.682Z",
-  "nationality": "French",
-  "birthdate": "February 11 1992",
-  "birthCity": "Gonesse"
+  "cachedAt": "2026-05-31T07:22:45.609Z"
 }

@@ -61,22 +61,19 @@
     },
     {
       "year": "25-26",
-      "team": "Szombathely",
-      "league": "HUN-1"
+      "team": "Promitheas",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Promitheas",
-      "league": "GRE-1"
+      "team": "Szombathely",
+      "league": "HUN-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:35:35.816Z",
+  "_lastVerified": "2026-05-31T07:54:32.966Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:13:30.853Z",
-  "nationality": "British",
-  "birthdate": "June 27 1998",
-  "birthCity": "London"
+  "cachedAt": "2026-05-31T07:54:32.966Z"
 }

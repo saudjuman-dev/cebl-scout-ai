@@ -2,7 +2,7 @@
   "fullName": "JUSTIN EDLER-DAVIS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Edler-Davis/402502",
   "height": "6'4'",
-  "college": "University Bakersfield",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games JUSTIN EDLER",
   "currentTeam": "Iraklis",
   "careerHistory": [
     {
@@ -109,15 +109,17 @@
       "year": "25-26",
       "team": "Hamburg",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:36:29.762Z",
+  "_lastVerified": "2026-05-31T07:54:56.185Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:06:13.170Z",
-  "nationality": "USA",
-  "birthdate": "February 9 1998",
-  "birthCity": "San Diego"
+  "cachedAt": "2026-05-31T07:54:56.185Z"
 }

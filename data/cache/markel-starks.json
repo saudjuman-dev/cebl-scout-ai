@@ -131,22 +131,19 @@
     },
     {
       "year": "25-26",
-      "team": "Manisa",
-      "league": "TUR-1"
+      "team": "Panionios",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Panionios",
-      "league": "GRE-1"
+      "team": "Manisa",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:51:17.041Z",
+  "_lastVerified": "2026-05-31T07:53:01.873Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:10:55.258Z",
-  "nationality": "USA",
-  "birthdate": "February 21 1991",
-  "birthCity": "Accokeek"
+  "cachedAt": "2026-05-31T07:53:01.873Z"
 }

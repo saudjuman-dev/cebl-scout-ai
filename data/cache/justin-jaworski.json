@@ -62,21 +62,18 @@
     {
       "year": "25-26",
       "team": "Bilbao",
-      "league": "ESP-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Bilbao",
-      "league": "FEL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:36:36.092Z",
+  "_lastVerified": "2026-05-31T07:39:25.712Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:03.028Z",
-  "nationality": "USA",
-  "birthdate": "June 21 1999",
-  "birthCity": "Schwenksville"
+  "cachedAt": "2026-05-31T07:39:25.712Z"
 }

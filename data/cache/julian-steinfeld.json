@@ -1,0 +1,55 @@
+{
+  "fullName": "JULIAN STEINFELD",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Julian-Steinfeld/531611",
+  "height": "7'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JULIAN STEINFELD basketball profile Height",
+  "currentTeam": "Chemnitz",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Frankfurt",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Indianapolis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Indianapolis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Indianapolis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Indianapolis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "IUPUI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-05-31T07:19:20.025Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-31T07:19:20.025Z"
+}

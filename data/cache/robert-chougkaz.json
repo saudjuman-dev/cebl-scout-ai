@@ -56,21 +56,19 @@
     },
     {
       "year": "25-26",
-      "team": "Papagou",
-      "league": "GRE-2"
+      "team": "Karditsas",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Karditsas",
-      "league": "GRE-1"
+      "team": "Papagou",
+      "league": "GRE-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:11:45.486Z",
+  "_lastVerified": "2026-05-31T07:54:21.481Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:13:08.992Z",
-  "nationality": "Greek",
-  "birthCity": "Athens"
+  "cachedAt": "2026-05-31T07:54:21.481Z"
 }

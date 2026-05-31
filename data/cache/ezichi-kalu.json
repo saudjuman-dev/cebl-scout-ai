@@ -2,7 +2,7 @@
   "fullName": "EZICHI KALU",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ezichi-Kalu/531362",
   "height": "6'11'",
-  "college": "College High School\n2019",
+  "college": "College High School 2019",
   "currentTeam": "Mataro UE",
   "careerHistory": [
     {
@@ -46,13 +46,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-01T02:13:19.404Z",
+  "_lastVerified": "2026-05-31T09:02:51.907Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:03:14.615Z",
-  "nationality": "Canadian",
-  "birthdate": "December 9 2000",
-  "birthCity": "Hamilton"
+  "cachedAt": "2026-05-31T09:02:51.907Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "WESLEY HARRIS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Wesley-Harris/391966",
   "height": "6'8'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             WESLEY HARRIS basketball profile     Uniform",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games WESLEY HARRIS basketball profile Uniform",
   "currentTeam": "M.Ramat Gan",
   "careerHistory": [
     {
@@ -87,22 +87,19 @@
     },
     {
       "year": "25-26",
-      "team": "M.Ramat Gan",
-      "league": "ISR-1"
+      "team": "Hapoel Haifa",
+      "league": "ISR-2"
     },
     {
       "year": "25-26",
-      "team": "Hapoel Haifa",
-      "league": "ISR-2"
+      "team": "M.Ramat Gan",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:28:41.554Z",
+  "_lastVerified": "2026-05-31T08:09:57.152Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:35:09.915Z",
-  "nationality": "USA",
-  "birthdate": "April 15 1997",
-  "birthCity": "Jackson"
+  "cachedAt": "2026-05-31T08:09:57.152Z"
 }

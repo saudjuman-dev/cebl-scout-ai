@@ -2,7 +2,7 @@
   "fullName": "CEDRIC RUSSELL",
   "sourceUrl": "https://basketball.eurobasket.com/player/Cedric-Russell/431006",
   "height": "6'2'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             CEDRIC RUSSELL basketball profile     Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 CEDRIC RUSSELL basketball profile Uniform",
   "currentTeam": "Trepca",
   "careerHistory": [
     {
@@ -77,22 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Trepca",
-      "league": "KOS-1"
+      "team": "Koeln",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Koeln",
-      "league": "GER-2"
+      "team": "Trepca",
+      "league": "KOS-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:58:34.393Z",
+  "_lastVerified": "2026-05-31T08:35:05.167Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:15:53.344Z",
-  "nationality": "USA",
-  "birthdate": "March 6 1999",
-  "birthCity": "Alexandria"
+  "cachedAt": "2026-05-31T08:35:05.167Z"
 }

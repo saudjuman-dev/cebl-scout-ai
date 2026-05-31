@@ -77,22 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Andorra",
-      "league": "ESP-1"
+      "team": "Nymburk",
+      "league": "CZE-1"
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
+      "team": "Andorra",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:17:39.117Z",
+  "_lastVerified": "2026-05-31T07:44:31.532Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:36.825Z",
-  "nationality": "USA",
-  "birthdate": "December 28 1998",
-  "birthCity": "Houston"
+  "cachedAt": "2026-05-31T07:44:31.532Z"
 }

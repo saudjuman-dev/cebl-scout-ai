@@ -87,21 +87,19 @@
     },
     {
       "year": "25-26",
-      "team": "Aris",
-      "league": "GRE-1"
+      "team": "Mersin Spor",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
-      "league": "TUR-1"
+      "team": "Aris",
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:19:06.318Z",
+  "_lastVerified": "2026-05-31T07:52:46.832Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:10:29.027Z",
-  "birthdate": "September 18 1997",
-  "birthCity": "Norwalk"
+  "cachedAt": "2026-05-31T07:52:46.832Z"
 }

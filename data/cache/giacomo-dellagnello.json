@@ -2,7 +2,7 @@
   "fullName": "GIACOMO DELL'AGNELLO",
   "sourceUrl": "https://basketball.eurobasket.com/player/Giacomo-DellAgnello/319945",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             GIACOMO DELL",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GIACOMO DELL",
   "currentTeam": "Avellino",
   "careerHistory": [
     {
@@ -66,13 +66,10 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:17:40.244Z",
+  "_lastVerified": "2026-05-31T08:46:31.135Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:37:16.319Z",
-  "nationality": "Italian",
-  "birthdate": "September 30 1994",
-  "birthCity": "Livorno"
+  "cachedAt": "2026-05-31T08:46:31.135Z"
 }

@@ -159,15 +159,17 @@
       "year": "25-26",
       "team": "Saint Quentin",
       "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T01:50:18.784Z",
+  "_lastVerified": "2026-05-31T07:28:49.259Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:02.795Z",
-  "nationality": "USA",
-  "birthdate": "July 25 1994",
-  "birthCity": "Hampton"
+  "cachedAt": "2026-05-31T07:28:49.259Z"
 }

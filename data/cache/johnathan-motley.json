@@ -2,7 +2,7 @@
   "fullName": "JOHNATHAN MOTLEY",
   "sourceUrl": "https://basketball.eurobasket.com/player/Johnathan-Motley/301845",
   "height": "6'10'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JOHNATHAN MOTLEY basketball profile    Uniform No",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games JOHNATHAN MOTLEY basketball profile Uniform No",
   "currentTeam": "H.Tel-Aviv",
   "careerHistory": [
     {
@@ -103,21 +103,18 @@
     {
       "year": "25-26",
       "team": "H.Tel-Aviv",
-      "league": "ISR-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "H.Tel-Aviv",
-      "league": "EUROL-1"
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:31:50.577Z",
+  "_lastVerified": "2026-05-31T08:08:00.135Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:31:26.061Z",
-  "nationality": "USA",
-  "birthdate": "May 4 1995",
-  "birthCity": "Houston"
+  "cachedAt": "2026-05-31T08:08:00.135Z"
 }

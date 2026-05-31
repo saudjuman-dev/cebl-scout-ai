@@ -78,15 +78,17 @@
       "year": "25-26",
       "team": "Cedevita Ol.",
       "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cedevita Ol.",
+      "league": "SLO-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:53:20.910Z",
+  "_lastVerified": "2026-05-31T07:35:50.942Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:49:59.359Z",
-  "nationality": "USA",
-  "birthdate": "April 20 2000",
-  "birthCity": "Rochester"
+  "cachedAt": "2026-05-31T07:35:50.942Z"
 }

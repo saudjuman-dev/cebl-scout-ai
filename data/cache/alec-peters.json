@@ -107,21 +107,18 @@
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Olympiacos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:45:16.326Z",
+  "_lastVerified": "2026-05-31T07:45:34.287Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:01:18.038Z",
-  "nationality": "USA",
-  "birthdate": "April 13 1995",
-  "birthCity": "Washington"
+  "cachedAt": "2026-05-31T07:45:34.287Z"
 }

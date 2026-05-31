@@ -2,7 +2,7 @@
   "fullName": "RYAN SCHWIEGER",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ryan-Schwieger/431391",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             RYAN SCHWIEGER basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 RYAN SCHWIEGER basketball profile Uniform No",
   "currentTeam": "Juventus",
   "careerHistory": [
     {
@@ -67,6 +67,11 @@
     },
     {
       "year": "25-26",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
       "team": "Juventus",
       "league": "LTU-1"
     },
@@ -74,20 +79,12 @@
       "year": "25-26",
       "team": "Phoenix Hagen",
       "league": "GER-2"
-    },
-    {
-      "year": "25-26",
-      "team": "Wuerzburg",
-      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:13:45.318Z",
+  "_lastVerified": "2026-05-31T08:25:56.440Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:58:53.068Z",
-  "nationality": "USA",
-  "birthdate": "May 18 1999",
-  "birthCity": "Matthews"
+  "cachedAt": "2026-05-31T08:25:56.440Z"
 }

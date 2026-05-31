@@ -2,7 +2,7 @@
   "fullName": "ALVARO CARDENAS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alvaro-Cardenas/530520",
   "height": "6'1'",
-  "currentTeam": "Peristeri",
+  "currentTeam": "Valencia",
   "careerHistory": [
     {
       "year": "19-20",
@@ -53,14 +53,17 @@
       "year": "25-26",
       "team": "Peristeri",
       "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:48:04.522Z",
+  "_lastVerified": "2026-05-31T07:53:28.723Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:05:41.328Z",
-  "nationality": "Spanish",
-  "birthCity": "Granada"
+  "cachedAt": "2026-05-31T07:53:28.723Z"
 }

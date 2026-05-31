@@ -112,22 +112,19 @@
     },
     {
       "year": "25-26",
-      "team": "Petkim",
-      "league": "TUR-1"
+      "team": "Liaoning FL",
+      "league": "CHN-1"
     },
     {
       "year": "25-26",
-      "team": "Liaoning FL",
-      "league": "CHN-1"
+      "team": "Petkim",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:28:58.409Z",
+  "_lastVerified": "2026-05-31T08:01:25.990Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:27:58.548Z",
-  "nationality": "USA",
-  "birthdate": "September 11 1994",
-  "birthCity": "Fishers"
+  "cachedAt": "2026-05-31T08:01:25.990Z"
 }

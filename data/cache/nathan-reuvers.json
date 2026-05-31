@@ -73,20 +73,18 @@
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:00:40.444Z",
+  "_lastVerified": "2026-05-31T07:38:22.371Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:51:56.080Z",
-  "birthdate": "September 30 1998",
-  "birthCity": "Lakeville"
+  "cachedAt": "2026-05-31T07:38:22.371Z"
 }

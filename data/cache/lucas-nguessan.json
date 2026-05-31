@@ -2,7 +2,7 @@
   "fullName": "LUCAS N'GUESSAN",
   "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-NGuessan/367588",
   "height": "7'0'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             LUCAS N",
+  "college": "University Games European Championships Olympic Games European Championships U16 LUCAS N",
   "currentTeam": "Palma BM",
   "careerHistory": [
     {
@@ -72,22 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "Phoenix Hagen",
-      "league": "GER-2"
+      "team": "Palma BM",
+      "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Palma BM",
-      "league": "ESP-2"
+      "team": "Phoenix Hagen",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:46:40.666Z",
+  "_lastVerified": "2026-05-31T08:31:18.077Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:09:43.063Z",
-  "nationality": "Dutch",
-  "birthdate": "November 6 1997",
-  "birthCity": "De Lier"
+  "cachedAt": "2026-05-31T08:31:18.077Z"
 }

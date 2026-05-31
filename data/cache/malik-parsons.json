@@ -2,7 +2,7 @@
   "fullName": "MALIK PARSONS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Malik-Parsons/505234",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             MALIK PARSONS basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 MALIK PARSONS basketball profile Uniform No",
   "currentTeam": "Bursaspor",
   "careerHistory": [
     {
@@ -67,22 +67,19 @@
     },
     {
       "year": "25-26",
-      "team": "Vechta",
-      "league": "GER-1"
+      "team": "Bursaspor",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Bursaspor",
-      "league": "TUR-1"
+      "team": "Vechta",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:49:06.824Z",
+  "_lastVerified": "2026-05-31T07:17:04.869Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:00.402Z",
-  "nationality": "USA",
-  "birthdate": "August 17 1999",
-  "birthCity": "San Diego"
+  "cachedAt": "2026-05-31T07:17:04.869Z"
 }

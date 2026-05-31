@@ -116,8 +116,8 @@
     },
     {
       "year": "25-26",
-      "team": "FC Porto",
-      "league": "POR-1"
+      "team": "Bashkimi",
+      "league": "KOS-1"
     },
     {
       "year": "25-26",
@@ -126,17 +126,14 @@
     },
     {
       "year": "25-26",
-      "team": "Bashkimi",
-      "league": "KOS-1"
+      "team": "FC Porto",
+      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:26:34.948Z",
+  "_lastVerified": "2026-05-31T08:30:21.416Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:08:05.430Z",
-  "nationality": "USA",
-  "birthdate": "March 6 1993",
-  "birthCity": "Racine"
+  "cachedAt": "2026-05-31T08:30:21.416Z"
 }

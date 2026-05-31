@@ -2,7 +2,7 @@
   "fullName": "JEREMY ROACH",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jeremy-Roach/422512",
   "height": "6'2'",
-  "college": "University and his sister Chloe played at Eastern Mennonite University\nYear",
+  "college": "University and his sister Chloe played at Eastern Mennonite University Year",
   "currentTeam": "King",
   "careerHistory": [
     {
@@ -36,13 +36,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:29:51.857Z",
+  "_lastVerified": "2026-05-31T08:15:14.247Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:39:27.971Z",
-  "nationality": "USA",
-  "birthdate": "November 1 2001",
-  "birthCity": "Washington"
+  "cachedAt": "2026-05-31T08:15:14.247Z"
 }

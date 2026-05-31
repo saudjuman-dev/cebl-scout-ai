@@ -2,7 +2,7 @@
   "fullName": "KAZA KAJAMI-KEANE",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kaza-Kajami-Keane/254110",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             KAZA KAJAMI",
+  "college": "University Games European Championships Olympic Games European Championships U16 KAZA KAJAMI",
   "currentTeam": "Braunschweig",
   "careerHistory": [
     {
@@ -106,13 +106,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:38:30.787Z",
+  "_lastVerified": "2026-05-31T07:21:20.103Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:30:19.716Z",
-  "nationality": "Canadian",
-  "birthdate": "January 27 1994",
-  "birthCity": "Ajax"
+  "cachedAt": "2026-05-31T07:21:20.103Z"
 }

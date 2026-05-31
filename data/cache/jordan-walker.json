@@ -62,13 +62,13 @@
     },
     {
       "year": "25-26",
-      "team": "Rytas",
-      "league": "BCL-1"
+      "team": "Maroussi",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Maroussi",
-      "league": "GRE-1"
+      "team": "Rytas",
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
@@ -76,13 +76,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:33:44.344Z",
+  "_lastVerified": "2026-05-31T07:51:07.377Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:08:18.762Z",
-  "nationality": "USA",
-  "birthdate": "August 11 1999",
-  "birthCity": "Port Washington"
+  "cachedAt": "2026-05-31T07:51:07.377Z"
 }

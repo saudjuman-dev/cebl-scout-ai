@@ -2,7 +2,7 @@
   "fullName": "ALEXANDRE CHASSANG",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alexandre-Chassang/202487",
   "height": "6'9'",
-  "currentTeam": "Mersin Spor",
+  "currentTeam": "Nanterre",
   "careerHistory": [
     {
       "year": "10-11",
@@ -138,15 +138,17 @@
       "year": "25-26",
       "team": "Mersin Spor",
       "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nanterre",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:47:11.163Z",
+  "_lastVerified": "2026-05-31T07:24:34.346Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:29.177Z",
-  "nationality": "French",
-  "birthdate": "November 22 1994",
-  "birthCity": "Chatenay-Malabry"
+  "cachedAt": "2026-05-31T07:24:34.346Z"
 }

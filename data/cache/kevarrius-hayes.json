@@ -88,20 +88,18 @@
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "FRA-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "EUROL-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:39:38.417Z",
+  "_lastVerified": "2026-05-31T07:23:57.476Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:43.870Z",
-  "birthdate": "March 5 1997",
-  "birthCity": "Live Oak"
+  "cachedAt": "2026-05-31T07:23:57.476Z"
 }

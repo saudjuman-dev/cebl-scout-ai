@@ -20,6 +20,11 @@
       "league": "FEL-1"
     },
     {
+      "year": "09-10",
+      "team": "Antwerp Giants",
+      "league": "BEL-1"
+    },
+    {
       "year": "10-11",
       "team": "Antwerp Giants",
       "league": "FEL-1"
@@ -200,12 +205,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:29:17.340Z",
+  "_lastVerified": "2026-05-31T08:52:59.276Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:50:37.066Z",
-  "birthdate": "December 5 1989",
-  "birthCity": "Merksem"
+  "cachedAt": "2026-05-31T08:52:59.276Z"
 }

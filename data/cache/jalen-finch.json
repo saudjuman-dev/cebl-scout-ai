@@ -2,7 +2,7 @@
   "fullName": "JALEN FINCH",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Finch/503368",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JALEN FINCH basketball profile     Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 JALEN FINCH basketball profile Uniform",
   "currentTeam": "Bonn",
   "careerHistory": [
     {
@@ -57,22 +57,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bonn",
-      "league": "GER-1"
+      "team": "Brussels Bball",
+      "league": "BNXT-1"
     },
     {
       "year": "25-26",
-      "team": "Brussels Bball",
-      "league": "BNXT-1"
+      "team": "Bonn",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:26:19.313Z",
+  "_lastVerified": "2026-05-31T07:15:31.434Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:16.649Z",
-  "nationality": "USA",
-  "birthdate": "June 25 1999",
-  "birthCity": "Raleigh"
+  "cachedAt": "2026-05-31T07:15:31.434Z"
 }

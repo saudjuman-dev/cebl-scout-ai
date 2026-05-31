@@ -1,0 +1,30 @@
+{
+  "fullName": "ALFONS MILATZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alfons-Milatz/710626",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ALFONS MILATZ basketball profile Uniform",
+  "currentTeam": "Chemnitz",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Chemnitz",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Chemnitz",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-05-31T07:19:17.066Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-05-31T07:19:17.066Z"
+}

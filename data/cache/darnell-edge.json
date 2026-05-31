@@ -101,11 +101,6 @@
     },
     {
       "year": "25-26",
-      "team": "Dziki",
-      "league": "POL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Ludwigsburg",
       "league": "GER-1"
     },
@@ -113,15 +108,17 @@
       "year": "25-26",
       "team": "Keravnos",
       "league": "CYP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:03:51.565Z",
+  "_lastVerified": "2026-05-31T08:13:51.092Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:41:56.054Z",
-  "nationality": "USA",
-  "birthdate": "August 12 1997",
-  "birthCity": "Saugerties"
+  "cachedAt": "2026-05-31T08:13:51.092Z"
 }

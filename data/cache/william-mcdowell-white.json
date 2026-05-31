@@ -122,21 +122,18 @@
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "FRA-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "Eurocup-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:29:13.029Z",
+  "_lastVerified": "2026-05-31T07:24:59.898Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:30.242Z",
-  "nationality": "Australian",
-  "birthdate": "April 13 1998",
-  "birthCity": "South Brisbane"
+  "cachedAt": "2026-05-31T07:24:59.898Z"
 }

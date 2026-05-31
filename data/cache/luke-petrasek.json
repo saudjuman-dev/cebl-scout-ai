@@ -102,20 +102,18 @@
     {
       "year": "25-26",
       "team": "Bilbao",
-      "league": "ESP-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Bilbao",
-      "league": "FEL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:47:53.037Z",
+  "_lastVerified": "2026-05-31T07:39:19.441Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:57.076Z",
-  "birthdate": "August 17 1995",
-  "birthCity": "Northport"
+  "cachedAt": "2026-05-31T07:39:19.441Z"
 }

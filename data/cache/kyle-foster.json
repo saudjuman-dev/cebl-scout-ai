@@ -2,7 +2,7 @@
   "fullName": "KYLE FOSTER",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Foster/429195",
   "height": "6'6'",
-  "currentTeam": "Iraklis",
+  "currentTeam": "Spartans",
   "careerHistory": [
     {
       "year": "17-18",
@@ -108,15 +108,17 @@
       "year": "25-26",
       "team": "Kormend",
       "league": "HUN-1"
+    },
+    {
+      "year": "2026",
+      "team": "Spartans",
+      "league": "VEN-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:42:05.843Z",
+  "_lastVerified": "2026-05-31T07:54:59.203Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:15:18.322Z",
-  "nationality": "USA",
-  "birthdate": "March 11 1998",
-  "birthCity": "Hampton"
+  "cachedAt": "2026-05-31T07:54:59.203Z"
 }

@@ -1,6 +1,7 @@
 {
   "fullName": "IGNAS BRAZDEIKIS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ignas-Brazdeikis/365596",
+  "birthCity": "Lithuania and moved to Canada when he",
   "height": "6'7'",
   "college": "University of Michigan",
   "currentTeam": "Zalgiris",
@@ -98,20 +99,18 @@
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "LTU-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "EUROL-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:21:51.378Z",
+  "_lastVerified": "2026-05-31T08:20:48.628Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:44.978Z",
-  "birthdate": "January 8 1999",
-  "birthCity": "Kaunas"
+  "cachedAt": "2026-05-31T08:20:48.628Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "JACQUES-MELAINE GUEMETA",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jacques-Melaine-Guemeta/671393",
   "height": "6'5'",
-  "college": "College Libermann \n2022",
+  "college": "College Libermann 2022",
   "currentTeam": "Cordoba CB",
   "careerHistory": [
     {
@@ -26,12 +26,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-01T02:25:09.586Z",
+  "_lastVerified": "2026-05-31T09:03:37.795Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:04:36.770Z",
-  "nationality": "Cameroonian",
-  "birthCity": "Douala"
+  "cachedAt": "2026-05-31T09:03:37.795Z"
 }

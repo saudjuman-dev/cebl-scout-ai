@@ -147,22 +147,19 @@
     },
     {
       "year": "25-26",
-      "team": "ASVEL",
-      "league": "FRA-1"
+      "team": "Gran Canaria",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Gran Canaria",
-      "league": "ESP-1"
+      "team": "ASVEL",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:55:44.656Z",
+  "_lastVerified": "2026-05-31T07:22:57.235Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:50.172Z",
-  "nationality": "Colombian",
-  "birthdate": "April 6 1994",
-  "birthCity": "Villanueva"
+  "cachedAt": "2026-05-31T07:22:57.235Z"
 }

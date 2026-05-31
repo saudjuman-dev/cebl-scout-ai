@@ -2,7 +2,7 @@
   "fullName": "IVAN BUVA",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ivan-Buva/179424",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             IVAN BUVA basketball profile      Uniform",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 IVAN BUVA basketball profile Uniform",
   "currentTeam": "Pistoia",
   "careerHistory": [
     {
@@ -158,26 +158,23 @@
     {
       "year": "25-26",
       "team": "Al Riyadi",
-      "league": "LEB-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Al Riyadi",
       "league": "WASL-1"
     },
     {
       "year": "25-26",
       "team": "Pistoia",
       "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Al Riyadi",
+      "league": "LEB-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:24:04.057Z",
+  "_lastVerified": "2026-05-31T08:49:34.292Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:44:03.321Z",
-  "nationality": "Croatian",
-  "birthdate": "May 6 1991",
-  "birthCity": "Zagreb"
+  "cachedAt": "2026-05-31T08:49:34.292Z"
 }

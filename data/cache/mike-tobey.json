@@ -2,7 +2,7 @@
   "fullName": "MIKE TOBEY",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mike-Tobey/261003",
   "height": "7'0'",
-  "college": "College\nIn 2021 received Slovenian citizenship\nYear",
+  "college": "College In 2021 received Slovenian citizenship Year",
   "currentTeam": "Gran Canaria",
   "careerHistory": [
     {
@@ -126,12 +126,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:57:54.176Z",
+  "_lastVerified": "2026-05-31T07:44:03.806Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:59:10.610Z",
-  "birthdate": "October 10 1994",
-  "birthCity": "Monroe"
+  "cachedAt": "2026-05-31T07:44:03.806Z"
 }

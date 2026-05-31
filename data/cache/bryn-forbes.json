@@ -91,22 +91,19 @@
     },
     {
       "year": "25-26",
-      "team": "Aris",
-      "league": "GRE-1"
+      "team": "Valcea",
+      "league": "ROM-1"
     },
     {
       "year": "25-26",
-      "team": "Valcea",
-      "league": "ROM-1"
+      "team": "Aris",
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:56:56.562Z",
+  "_lastVerified": "2026-05-31T07:52:30.760Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:10:04.693Z",
-  "nationality": "USA",
-  "birthdate": "July 23 1993",
-  "birthCity": "Lansing"
+  "cachedAt": "2026-05-31T07:52:30.760Z"
 }

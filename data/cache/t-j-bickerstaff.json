@@ -57,11 +57,6 @@
     },
     {
       "year": "25-26",
-      "team": "H.Be'er Sheva",
-      "league": "ISR-1"
-    },
-    {
-      "year": "25-26",
       "team": "Bashkimi",
       "league": "KOS-1"
     },
@@ -69,12 +64,17 @@
       "year": "25-26",
       "team": "AEK Larnaca",
       "league": "CYP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-24T06:58:05.364Z",
+  "_lastVerified": "2026-05-31T08:06:50.797Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-24T06:58:05.364Z"
+  "cachedAt": "2026-05-31T08:06:50.797Z"
 }

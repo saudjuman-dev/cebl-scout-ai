@@ -177,21 +177,18 @@
     {
       "year": "25-26",
       "team": "Real Madrid",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Real Madrid",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:13:45.491Z",
+  "_lastVerified": "2026-05-31T07:36:48.686Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:50:51.877Z",
-  "nationality": "Argentinian",
-  "birthdate": "March 23 1991",
-  "birthCity": "Cordoba"
+  "cachedAt": "2026-05-31T07:36:48.686Z"
 }
