@@ -1,0 +1,18 @@
+{
+  "fullName": "CILLIAN CANNON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cillian-Cannon/798783",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:51.232Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:51.232Z"
+}

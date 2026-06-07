@@ -28,14 +28,17 @@
       "year": "25-26",
       "team": "Dziki",
       "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:10:23.104Z",
+  "_lastVerified": "2026-06-07T07:48:16.912Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:51:14.349Z",
-  "nationality": "Polish",
-  "birthdate": "May 25 2009"
+  "cachedAt": "2026-06-07T07:48:16.912Z"
 }

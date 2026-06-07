@@ -2,7 +2,7 @@
   "fullName": "MARCO BERGAMIN",
   "sourceUrl": "https://basketball.eurobasket.com/player/Marco-Bergamin/722293",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             MARCO BERGAMIN basketball profile    Uniform",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MARCO BERGAMIN basketball profile Height",
   "currentTeam": "Varese",
   "careerHistory": [
     {
@@ -14,14 +14,17 @@
       "year": "25-26",
       "team": "Varese",
       "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Varese",
+      "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:03:55.685Z",
+  "_lastVerified": "2026-06-07T07:29:09.467Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:45:35.156Z",
-  "nationality": "Italian",
-  "birthdate": "August 25 2007"
+  "cachedAt": "2026-06-07T07:29:09.467Z"
 }

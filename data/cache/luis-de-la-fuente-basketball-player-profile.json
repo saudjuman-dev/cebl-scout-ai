@@ -1,0 +1,18 @@
+{
+  "fullName": "LUIS DE LA FUENTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luis-de-la-Fuente/808261",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:29:43.960Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:29:43.960Z"
+}

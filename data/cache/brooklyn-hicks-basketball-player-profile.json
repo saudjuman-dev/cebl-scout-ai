@@ -1,0 +1,30 @@
+{
+  "fullName": "BROOKLYN HICKS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brooklyn-Hicks/685559",
+  "height": "6'3'",
+  "college": "University of Buffalo and then professionally overseas Year",
+  "currentTeam": "Montana",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Montana",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:36:26.025Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:36:26.025Z"
+}

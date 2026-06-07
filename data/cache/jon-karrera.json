@@ -1,0 +1,28 @@
+{
+  "fullName": "JON KARRERA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jon-Karrera/721314",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:16:14.110Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:16:14.110Z"
+}

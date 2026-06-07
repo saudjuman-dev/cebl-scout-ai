@@ -36,21 +36,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bahcesehir",
-      "league": "TUR-1"
+      "team": "Gajdobra",
+      "league": "SRB-1"
     },
     {
       "year": "25-26",
-      "team": "Gajdobra",
-      "league": "SRB-1"
+      "team": "Bahcesehir",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:49:05.459Z",
+  "_lastVerified": "2026-06-07T07:39:27.000Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:55.393Z",
-  "nationality": "Turkish",
-  "birthdate": "April 23 2007"
+  "cachedAt": "2026-06-07T07:39:27.000Z"
 }

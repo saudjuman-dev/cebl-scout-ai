@@ -2,7 +2,7 @@
   "fullName": "AMIT GERSHON",
   "sourceUrl": "https://basketball.eurobasket.com/player/Amit-Gershon/340667",
   "height": "6'3'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             AMIT GERSHON basketball profile    Uniform",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games AMIT GERSHON basketball profile Uniform",
   "currentTeam": "E.Netanya",
   "careerHistory": [
     {
@@ -72,20 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "H.Be'er Sheva",
+      "team": "E.Netanya",
       "league": "ISR-1"
     },
     {
       "year": "25-26",
-      "team": "E.Netanya",
+      "team": "H.Be'er Sheva",
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:46:22.928Z",
+  "_lastVerified": "2026-06-07T07:43:01.339Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:37:15.647Z",
-  "birthdate": "December 5 1995"
+  "cachedAt": "2026-06-07T07:43:01.339Z"
 }

@@ -1,0 +1,18 @@
+{
+  "fullName": "JOSE BARRIENTOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jose-Barrientos/760235",
+  "currentTeam": "Jaen CB",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Jaen CB",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:29:22.829Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:29:22.829Z"
+}

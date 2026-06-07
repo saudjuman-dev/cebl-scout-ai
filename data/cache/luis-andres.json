@@ -1,0 +1,38 @@
+{
+  "fullName": "LUIS ANDRES",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luis-Andres/720327",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zaragoza",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:21:23.779Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:21:23.779Z"
+}

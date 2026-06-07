@@ -2,7 +2,7 @@
   "fullName": "STEPHEN BROWN JR.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Stephen-Brown-Jr/343140",
   "height": "5'11'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             STEPHEN BROWN JR",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 STEPHEN BROWN JR",
   "currentTeam": "Reggio Emilia",
   "careerHistory": [
     {
@@ -103,7 +103,7 @@
     {
       "year": "25-26",
       "team": "PAOK",
-      "league": "GRE-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
@@ -113,16 +113,13 @@
     {
       "year": "25-26",
       "team": "PAOK",
-      "league": "FEL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:19:02.124Z",
+  "_lastVerified": "2026-06-07T07:29:01.256Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:44:32.638Z",
-  "nationality": "USA",
-  "birthdate": "April 27 1996",
-  "birthCity": "Manassas"
+  "cachedAt": "2026-06-07T07:29:01.256Z"
 }

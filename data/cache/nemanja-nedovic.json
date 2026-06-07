@@ -207,18 +207,18 @@
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "FRA-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "EUROL-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-03T06:19:48.689Z",
+  "_lastVerified": "2026-06-07T07:26:09.041Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-03T06:19:48.689Z"
+  "cachedAt": "2026-06-07T07:26:09.041Z"
 }

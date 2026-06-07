@@ -1,0 +1,28 @@
+{
+  "fullName": "TAHIROU DICKO BOUNDI",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tahirou-Dicko-Boundi/751923",
+  "currentTeam": "Molina",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Alcala",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Molina",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Elche",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:23:22.967Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:23:22.967Z"
+}

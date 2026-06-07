@@ -2,7 +2,7 @@
   "fullName": "COSIMO COSTI",
   "sourceUrl": "https://basketball.eurobasket.com/player/Cosimo-Costi/408245",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             COSIMO COSTI basketball profile    Uniform",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 COSIMO COSTI basketball profile Uniform",
   "currentTeam": "Avellino",
   "careerHistory": [
     {
@@ -52,21 +52,19 @@
     },
     {
       "year": "25-26",
-      "team": "Cividale",
+      "team": "Avellino",
       "league": "ITA-2"
     },
     {
       "year": "25-26",
-      "team": "Avellino",
+      "team": "Cividale",
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T14:49:39.545Z",
+  "_lastVerified": "2026-06-07T08:04:59.421Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:36:26.070Z",
-  "nationality": "Italian",
-  "birthdate": "December 4 2000"
+  "cachedAt": "2026-06-07T08:04:59.421Z"
 }

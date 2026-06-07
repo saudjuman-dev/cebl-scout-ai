@@ -76,21 +76,19 @@
     },
     {
       "year": "25-26",
-      "team": "Poitiers",
+      "team": "La Rochelle",
       "league": "FRA-2"
     },
     {
       "year": "25-26",
-      "team": "La Rochelle",
+      "team": "Poitiers",
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T14:58:44.631Z",
+  "_lastVerified": "2026-06-07T08:00:28.148Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:23:28.872Z",
-  "nationality": "French",
-  "birthdate": "December 16 2001"
+  "cachedAt": "2026-06-07T08:00:28.148Z"
 }

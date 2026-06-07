@@ -1,0 +1,64 @@
+{
+  "fullName": "GUILLERMO VERGARA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Guillermo-Vergara/392522",
+  "height": "6'3'",
+  "currentTeam": "Jaen CB",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Medacbasket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Medacbasket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "L'Alfas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Estepona",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Hospital Ochoa CB Marbella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Valdivia",
+      "league": "CHI-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valdivia",
+      "league": "CHI-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:28:59.783Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:28:59.783Z"
+}

@@ -1,0 +1,38 @@
+{
+  "fullName": "DAVID SAEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Saez/701044",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Castello",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:17:20.302Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:17:20.302Z"
+}

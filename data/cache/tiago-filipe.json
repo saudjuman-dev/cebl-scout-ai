@@ -31,21 +31,19 @@
     },
     {
       "year": "25-26",
-      "team": "Benfica",
-      "league": "POR-1"
+      "team": "Benfica U23",
+      "league": "POR-2"
     },
     {
       "year": "25-26",
-      "team": "Benfica U23",
-      "league": "POR-2"
+      "team": "Benfica",
+      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:14:29.940Z",
+  "_lastVerified": "2026-06-07T07:54:17.272Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:09:05.983Z",
-  "nationality": "Portuguese",
-  "birthdate": "March 16 2005"
+  "cachedAt": "2026-06-07T07:54:17.272Z"
 }

@@ -1,0 +1,39 @@
+{
+  "fullName": "JESUS BAENA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jesus-Baena/624657",
+  "height": "6'6'",
+  "currentTeam": "Cordoba CB",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Caceres",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Caceres",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Badajoz",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Tobarra",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:27:34.711Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:27:34.711Z"
+}

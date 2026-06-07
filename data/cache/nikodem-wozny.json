@@ -1,7 +1,7 @@
 {
   "fullName": "NIKODEM WOZNY",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nikodem-Wozny/718438",
-  "height": "6'4'",
+  "height": "6'6'",
   "currentTeam": "MKS DG",
   "careerHistory": [
     {
@@ -40,12 +40,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:07:58.297Z",
+  "_lastVerified": "2026-06-07T07:47:47.012Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:50:34.128Z",
-  "nationality": "Polish",
-  "birthdate": "July 4 2008"
+  "cachedAt": "2026-06-07T07:47:47.012Z"
 }

@@ -1,7 +1,7 @@
 {
   "fullName": "SZYMON KIEJZIK",
   "sourceUrl": "https://basketball.eurobasket.com/player/Szymon-Kiejzik/641434",
-  "height": "6'4'",
+  "height": "6'5'",
   "currentTeam": "Trefl",
   "careerHistory": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "FEL-1"
     },
     {
@@ -66,16 +66,14 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:13:56.807Z",
+  "_lastVerified": "2026-06-07T07:47:28.812Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:50:14.392Z",
-  "nationality": "Polish",
-  "birthdate": "February 28 2006"
+  "cachedAt": "2026-06-07T07:47:28.812Z"
 }

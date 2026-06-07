@@ -82,20 +82,18 @@
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:09:34.553Z",
+  "_lastVerified": "2026-06-07T07:33:50.561Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:49.027Z",
-  "nationality": "Greek",
-  "birthdate": "February 1 1999"
+  "cachedAt": "2026-06-07T07:33:50.561Z"
 }

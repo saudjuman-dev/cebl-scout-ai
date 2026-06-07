@@ -1,0 +1,74 @@
+{
+  "fullName": "MARC SESE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marc-Sese/335570",
+  "height": "6'3'",
+  "currentTeam": "Prat",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Cornella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Castelldefels",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Martinenc",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Recambios GM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Recambios GM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Prat",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:33:19.415Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:33:19.415Z"
+}

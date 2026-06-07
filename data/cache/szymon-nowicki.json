@@ -66,21 +66,19 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:13:59.930Z",
+  "_lastVerified": "2026-06-07T07:47:18.955Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:50:04.734Z",
-  "nationality": "Polish",
-  "birthdate": "June 2 2005"
+  "cachedAt": "2026-06-07T07:47:18.955Z"
 }

@@ -1,0 +1,30 @@
+{
+  "fullName": "EETU HAUTALA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eetu-Hautala/707043",
+  "height": "6'4'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 EETU HAUTALA basketball player profile Uniform",
+  "currentTeam": "Kobrat",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Kobrat",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kobrat",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kobrat",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:40:05.047Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:40:05.047Z"
+}

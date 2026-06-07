@@ -2,7 +2,7 @@
   "fullName": "TARIQ OWENS",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tariq-Owens/342233",
   "height": "6'10'",
-  "college": "University of Tennessee",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games TARIQ OWENS basketball profile Uniform No",
   "currentTeam": "Dijon",
   "careerHistory": [
     {
@@ -99,15 +99,17 @@
       "year": "25-26",
       "team": "Dijon",
       "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "E.Netanya",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:19:58.562Z",
+  "_lastVerified": "2026-06-07T07:43:05.435Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:38:10.989Z",
-  "nationality": "USA",
-  "birthdate": "June 30 1995",
-  "birthCity": "Odenton"
+  "cachedAt": "2026-06-07T07:43:05.435Z"
 }

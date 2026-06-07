@@ -87,20 +87,18 @@
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "LTU-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "EUROL-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:13:54.752Z",
+  "_lastVerified": "2026-06-07T07:48:29.368Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:52:00.412Z",
-  "nationality": "French",
-  "birthdate": "October 1 1997"
+  "cachedAt": "2026-06-07T07:48:29.368Z"
 }

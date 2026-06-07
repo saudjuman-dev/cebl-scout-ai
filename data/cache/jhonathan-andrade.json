@@ -16,21 +16,19 @@
     },
     {
       "year": "25-26",
-      "team": "Benfica",
-      "league": "POR-1"
+      "team": "Benfica U23",
+      "league": "POR-2"
     },
     {
       "year": "25-26",
-      "team": "Benfica U23",
-      "league": "POR-2"
+      "team": "Benfica",
+      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:57:56.327Z",
+  "_lastVerified": "2026-06-07T07:54:20.457Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:09:10.018Z",
-  "nationality": "Venezuelan",
-  "birthdate": "July 14 2006"
+  "cachedAt": "2026-06-07T07:54:20.457Z"
 }

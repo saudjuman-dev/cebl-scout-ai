@@ -1,0 +1,24 @@
+{
+  "fullName": "JOE BEAN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Joe-Bean/756294",
+  "height": "6'3'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:32:51.694Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:32:51.694Z"
+}

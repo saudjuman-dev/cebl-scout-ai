@@ -1,0 +1,23 @@
+{
+  "fullName": "CIARAN MCGROGGAN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ciaran-McGroggan/231532",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "St.Vincents",
+      "league": "IRL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:54.009Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:54.009Z"
+}

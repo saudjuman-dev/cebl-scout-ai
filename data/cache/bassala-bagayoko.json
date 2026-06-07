@@ -52,20 +52,18 @@
     {
       "year": "25-26",
       "team": "Bilbao",
-      "league": "ESP-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Bilbao",
-      "league": "FEL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:48:08.821Z",
+  "_lastVerified": "2026-06-07T07:30:43.888Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:55:59.893Z",
-  "nationality": "Mali",
-  "birthdate": "September 10 2006"
+  "cachedAt": "2026-06-07T07:30:43.888Z"
 }

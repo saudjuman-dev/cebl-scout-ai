@@ -1,0 +1,29 @@
+{
+  "fullName": "IVAN GLISOVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ivan-Glisovic/757052",
+  "height": "6'7'",
+  "currentTeam": "Radnicki KG",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "ADR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:34:37.274Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:34:37.274Z"
+}

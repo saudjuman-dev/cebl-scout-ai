@@ -2,8 +2,8 @@
   "fullName": "CHINANU ONUAKU",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chinanu-Onuaku/333233",
   "height": "6'10'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             CHINANU ONUAKU basketball profile    Uniform No",
-  "currentTeam": "Bnei Hertzeliya",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games CHINANU ONUAKU basketball profile Uniform No",
+  "currentTeam": "Santurce",
   "careerHistory": [
     {
       "year": "14-15",
@@ -144,14 +144,17 @@
       "year": "25-26",
       "team": "Bnei Hertzeliya",
       "league": "ISR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Santurce",
+      "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:59:25.690Z",
+  "_lastVerified": "2026-06-07T07:41:29.614Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:32:56.457Z",
-  "birthdate": "November 1 1996",
-  "birthCity": "Lanham"
+  "cachedAt": "2026-06-07T07:41:29.614Z"
 }

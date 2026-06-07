@@ -1,0 +1,64 @@
+{
+  "fullName": "VICTOR RODRIGUEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Victor-Rodriguez/471479",
+  "height": "6'7'",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Vila-Real",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:17:26.643Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:17:26.643Z"
+}

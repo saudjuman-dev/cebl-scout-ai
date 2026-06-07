@@ -1,0 +1,18 @@
+{
+  "fullName": "DARIO ALVAREZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dario-Alvarez/808262",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:29:46.575Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:29:46.575Z"
+}

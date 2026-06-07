@@ -1,0 +1,59 @@
+{
+  "fullName": "RAFAEL ROMERO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Romero/582145",
+  "height": "6'3'",
+  "currentTeam": "Caja 87",
+  "careerHistory": [
+    {
+      "year": "2020",
+      "team": "Alajuela",
+      "league": "CRC-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis Se",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Alcala Caja87",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:13:52.592Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:13:52.592Z"
+}

@@ -46,21 +46,19 @@
     },
     {
       "year": "25-26",
-      "team": "Fenerbahce",
-      "league": "TUR-1"
+      "team": "Fenerbahce 2",
+      "league": "TUR-2"
     },
     {
       "year": "25-26",
-      "team": "Fenerbahce 2",
-      "league": "TUR-2"
+      "team": "Fenerbahce",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:50:31.052Z",
+  "_lastVerified": "2026-06-07T07:39:10.341Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:23.072Z",
-  "nationality": "Turkish",
-  "birthdate": "June 15 2004"
+  "cachedAt": "2026-06-07T07:39:10.341Z"
 }

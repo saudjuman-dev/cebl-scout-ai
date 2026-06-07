@@ -1,0 +1,49 @@
+{
+  "fullName": "SERGIO SERRATO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-Serrato/578260",
+  "height": "6'1'",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Santfeliuenc",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "LBC Cocinas",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:28:40.404Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:28:40.404Z"
+}

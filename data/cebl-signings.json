@@ -1,9 +1,147 @@
 {
-  "_lastScraped": "2026-05-31T09:10:14.285Z",
+  "_lastScraped": "2026-06-07T08:41:24.861Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Judson Martindale released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-06",
+      "type": "Judson Martindale released from Club"
+    },
+    {
+      "player": "Anthony Walker",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-06-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Davion Warren",
+      "team": "Montreal Alliance",
+      "date": "2026-06-04",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "DJ Jackson released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-04",
+      "type": "DJ Jackson released from Club"
+    },
+    {
+      "player": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-04",
+      "type": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Eric Armstrong removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-04",
+      "type": "Eric Armstrong removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Anthony Maxwell placed on Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-06-04",
+      "type": "Anthony Maxwell placed on Practice Roster"
+    },
+    {
+      "player": "Anthony Nelson",
+      "team": "Montreal Alliance",
+      "date": "2026-06-04",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Lansana Nwosu removed from Practice Roster and placed on Reserve Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-06-04",
+      "type": "Lansana Nwosu removed from Practice Roster and placed on Reserve Roster"
+    },
+    {
+      "player": "Nathan Tshimanga placed on Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-06-04",
+      "type": "Nathan Tshimanga placed on Practice Roster"
+    },
+    {
+      "player": "Au'Diese Toney released from Club",
+      "team": "Edmonton Stingers",
+      "date": "2026-06-03",
+      "type": "Au'Diese Toney released from Club"
+    },
+    {
+      "player": "Davion Warren released from Club",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-06-03",
+      "type": "Davion Warren released from Club"
+    },
+    {
+      "player": "Fareed Shittu released from Club",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-06-03",
+      "type": "Fareed Shittu released from Club"
+    },
+    {
+      "player": "Tegra Izay removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-02",
+      "type": "Tegra Izay removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Jon Elmore released from Club",
+      "team": "Calgary Surge",
+      "date": "2026-06-02",
+      "type": "Jon Elmore released from Club"
+    },
+    {
+      "player": "Damion Baugh",
+      "team": "Calgary Surge",
+      "date": "2026-06-02",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tayler Persons released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-06-02",
+      "type": "Tayler Persons released from Club"
+    },
+    {
+      "player": "Tyler Polley released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-01",
+      "type": "Tyler Polley released from Club"
+    },
+    {
+      "player": "Adonis Arms placed on Club's Injured List (Lower Body)",
+      "team": "Calgary Surge",
+      "date": "2026-05-31",
+      "type": "Adonis Arms placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Lue Williams III placed on Club's Injured List (Upper Body)",
+      "team": "Montreal Alliance",
+      "date": "2026-05-31",
+      "type": "Lue Williams III placed on Club's Injured List (Upper Body)"
+    },
+    {
+      "player": "Anthony Maxwell removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-05-31",
+      "type": "Anthony Maxwell removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "DaJuan Gordon placed on Club's Injured List (Lower Body)",
+      "team": "Saskatoon Mamba",
+      "date": "2026-05-31",
+      "type": "DaJuan Gordon placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Jefferson Koulibaly released from Club",
+      "team": "Vancouver Bandits",
+      "date": "2026-05-31",
+      "type": "Jefferson Koulibaly released from Club"
+    },
     {
       "player": "Trevon Scott",
       "team": "Winnipeg Sea Bears",

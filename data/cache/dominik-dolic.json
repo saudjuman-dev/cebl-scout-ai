@@ -2,7 +2,7 @@
   "fullName": "DOMINIK DOLIC",
   "sourceUrl": "https://basketball.eurobasket.com/player/Dominik-Dolic/644141",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             DOMINIK DOLIC basketball profile    Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 DOMINIK DOLIC basketball profile Uniform",
   "currentTeam": "Vechta",
   "careerHistory": [
     {
@@ -52,21 +52,19 @@
     },
     {
       "year": "25-26",
-      "team": "Vechta",
-      "league": "GER-1"
+      "team": "Artland",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Artland",
-      "league": "GER-2"
+      "team": "Vechta",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:51:14.398Z",
+  "_lastVerified": "2026-06-07T07:55:26.128Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:12:20.083Z",
-  "nationality": "Croatian",
-  "birthdate": "October 30 2006"
+  "cachedAt": "2026-06-07T07:55:26.128Z"
 }

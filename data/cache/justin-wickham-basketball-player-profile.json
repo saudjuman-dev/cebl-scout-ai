@@ -1,0 +1,30 @@
+{
+  "fullName": "JUSTIN WICKHAM basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Wickham/680762",
+  "height": "6'9'",
+  "college": "College London U20 team",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "St.Charles",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tipp Talons",
+      "league": "IRL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:37.788Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:37.788Z"
+}

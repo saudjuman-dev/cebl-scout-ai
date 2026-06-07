@@ -1,0 +1,29 @@
+{
+  "fullName": "OSCAR SIQUIER",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oscar-Siquier/664243",
+  "height": "6'2'",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Agora Portals",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Inca",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:12:30.453Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:12:30.453Z"
+}

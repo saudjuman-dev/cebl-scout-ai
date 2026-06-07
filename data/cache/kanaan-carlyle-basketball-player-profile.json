@@ -1,0 +1,29 @@
+{
+  "fullName": "KANAAN CARLYLE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kanaan-Carlyle/560173",
+  "height": "6'3'",
+  "currentTeam": "FAU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FAU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:36:53.573Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:36:53.573Z"
+}

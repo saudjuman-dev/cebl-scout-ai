@@ -1,0 +1,19 @@
+{
+  "fullName": "JOAO RAMOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joao-Ramos/485317",
+  "height": "6'3'",
+  "currentTeam": "Barreirense",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Barreirense",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:30:53.199Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:30:53.199Z"
+}

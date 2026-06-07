@@ -23,14 +23,17 @@
       "year": "25-26",
       "team": "Bahcesehir",
       "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:44:40.110Z",
+  "_lastVerified": "2026-06-07T07:39:24.150Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:26:52.071Z",
-  "nationality": "Turkish",
-  "birthdate": "July 31 2007"
+  "cachedAt": "2026-06-07T07:39:24.150Z"
 }

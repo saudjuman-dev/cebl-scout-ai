@@ -1,0 +1,19 @@
+{
+  "fullName": "LIAM DAYCO-GREEN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Liam-Dayco-Green/649585",
+  "height": "6'2'",
+  "currentTeam": "FAU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "FAU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:37:13.847Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:37:13.847Z"
+}

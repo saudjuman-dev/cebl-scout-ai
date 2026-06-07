@@ -1,0 +1,64 @@
+{
+  "fullName": "IFEANYI OKEKE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ifeanyi-Okeke/457499",
+  "height": "6'7'",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Carroll, MT",
+      "league": "NAIA"
+    },
+    {
+      "year": "20-21",
+      "team": "Carroll, MT",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Carroll, MT",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Carroll, MT",
+      "league": "NAIA"
+    },
+    {
+      "year": "23-24",
+      "team": "Montana Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Montana Tech",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Montana Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Montana Tech",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Avenida",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:21:07.435Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:21:07.435Z"
+}

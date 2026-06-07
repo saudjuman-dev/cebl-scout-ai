@@ -117,20 +117,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:16:54.724Z",
+  "_lastVerified": "2026-06-07T07:37:49.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:16:50.316Z",
-  "nationality": "Turkish",
-  "birthdate": "May 15 1996"
+  "cachedAt": "2026-06-07T07:37:49.304Z"
 }

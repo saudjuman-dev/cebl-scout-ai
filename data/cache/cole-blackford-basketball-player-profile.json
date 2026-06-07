@@ -1,0 +1,24 @@
+{
+  "fullName": "COLE BLACKFORD basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cole-Blackford/803373",
+  "height": "6'1'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:32:58.075Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:32:58.075Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "NICCOLO MORETTI basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Niccolo-Moretti/579344",
+  "height": "6'1'",
+  "college": "University of Illinois",
+  "currentTeam": "FAU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FAU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:37:00.340Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:37:00.340Z"
+}

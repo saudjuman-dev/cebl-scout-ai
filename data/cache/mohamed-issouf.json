@@ -1,0 +1,23 @@
+{
+  "fullName": "MOHAMED ISSOUF",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohamed-Issouf/797125",
+  "currentTeam": "Sant Antoni",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Tarragona",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:17:35.366Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:17:35.366Z"
+}

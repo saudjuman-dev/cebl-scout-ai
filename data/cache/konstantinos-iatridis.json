@@ -52,20 +52,18 @@
     {
       "year": "25-26",
       "team": "PAOK",
-      "league": "GRE-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "PAOK",
-      "league": "FEL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:00:28.013Z",
+  "_lastVerified": "2026-06-07T07:34:37.317Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:11:37.467Z",
-  "nationality": "Greek",
-  "birthdate": "October 14 2001"
+  "cachedAt": "2026-06-07T07:34:37.317Z"
 }

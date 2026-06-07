@@ -1,7 +1,7 @@
 {
   "fullName": "MAKSYMILIAN JECH",
   "sourceUrl": "https://basketball.eurobasket.com/player/Maksymilian-Jech/590105",
-  "height": "7'0'",
+  "height": "6'11'",
   "currentTeam": "Trefl",
   "careerHistory": [
     {
@@ -31,16 +31,14 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:03:29.068Z",
+  "_lastVerified": "2026-06-07T07:47:25.534Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:50:10.220Z",
-  "nationality": "Polish",
-  "birthdate": "April 14 2004"
+  "cachedAt": "2026-06-07T07:47:25.534Z"
 }

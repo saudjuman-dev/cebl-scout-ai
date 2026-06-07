@@ -8,14 +8,17 @@
       "year": "24-25",
       "team": "Esgueira",
       "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:53:38.390Z",
+  "_lastVerified": "2026-06-07T07:52:30.660Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:04:10.535Z",
-  "nationality": "Portuguese",
-  "birthdate": "June 17 2008"
+  "cachedAt": "2026-06-07T07:52:30.660Z"
 }

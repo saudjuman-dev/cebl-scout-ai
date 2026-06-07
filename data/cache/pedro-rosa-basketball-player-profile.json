@@ -1,0 +1,18 @@
+{
+  "fullName": "PEDRO ROSA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Rosa/687431",
+  "currentTeam": "Barreirense",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Barreirense",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:25.136Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:25.136Z"
+}

@@ -1,7 +1,7 @@
 {
   "fullName": "MAKSYMILIAN LENIEC",
   "sourceUrl": "https://basketball.eurobasket.com/player/Maksymilian-Leniec/691830",
-  "height": "6'3'",
+  "height": "6'5'",
   "currentTeam": "Slask",
   "careerHistory": [
     {
@@ -55,12 +55,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:03:31.181Z",
+  "_lastVerified": "2026-06-07T07:46:43.985Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:49:02.532Z",
-  "nationality": "Polish",
-  "birthdate": "September 25 2007"
+  "cachedAt": "2026-06-07T07:46:43.985Z"
 }

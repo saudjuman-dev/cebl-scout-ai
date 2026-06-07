@@ -1,0 +1,40 @@
+{
+  "fullName": "MIKKO PUROLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mikko-Purola/731460",
+  "height": "6'3'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 MIKKO PUROLA basketball player profile Uniform",
+  "currentTeam": "KTP-Basket",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "KTP II",
+      "league": "FIN-3"
+    },
+    {
+      "year": "24-25",
+      "team": "KTP-Basket",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "KTP II",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "KTP II",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "KTP-Basket",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:39:04.485Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:39:04.485Z"
+}

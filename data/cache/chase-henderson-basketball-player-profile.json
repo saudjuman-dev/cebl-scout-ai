@@ -1,0 +1,35 @@
+{
+  "fullName": "CHASE HENDERSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Chase-Henderson/611560",
+  "height": "6'0'",
+  "college": "University of Montana",
+  "currentTeam": "Montana",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "South Plains",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Collin CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Montana",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:36:41.459Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:36:41.459Z"
+}

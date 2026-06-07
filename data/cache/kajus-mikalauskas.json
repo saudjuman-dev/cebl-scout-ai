@@ -42,20 +42,18 @@
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "LTU-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Zalgiris",
-      "league": "EUROL-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:59:50.691Z",
+  "_lastVerified": "2026-06-07T07:49:14.868Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:57:14.917Z",
-  "nationality": "Lithuanian",
-  "birthdate": "January 29 2007"
+  "cachedAt": "2026-06-07T07:49:14.868Z"
 }

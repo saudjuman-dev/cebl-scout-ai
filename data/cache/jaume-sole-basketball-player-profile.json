@@ -1,0 +1,84 @@
+{
+  "fullName": "JAUME SOLE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaume-Sole/190576",
+  "height": "6'5'",
+  "currentTeam": "Prat",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Granollers",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Feimatue Mat.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Feimatue Mat.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Prat",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:33:41.715Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:33:41.715Z"
+}

@@ -87,19 +87,19 @@
     },
     {
       "year": "25-26",
-      "team": "Zaragoza",
-      "league": "ESP-1"
+      "team": "Manisa",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Manisa",
-      "league": "TUR-1"
+      "team": "Zaragoza",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-03T06:23:35.508Z",
+  "_lastVerified": "2026-06-07T07:38:23.085Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-03T06:23:35.508Z"
+  "cachedAt": "2026-06-07T07:38:23.085Z"
 }

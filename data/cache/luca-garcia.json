@@ -1,0 +1,28 @@
+{
+  "fullName": "LUCA GARCIA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luca-Garcia/741396",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Castello",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:17:17.066Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:17:17.066Z"
+}

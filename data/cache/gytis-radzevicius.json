@@ -86,31 +86,29 @@
     },
     {
       "year": "25-26",
-      "team": "Rytas",
-      "league": "BCL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Baskonia",
       "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Baskonia",
-      "league": "ESP-1"
+      "team": "Rytas",
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Rytas",
       "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:55:34.300Z",
+  "_lastVerified": "2026-06-07T07:30:52.945Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:08.384Z",
-  "nationality": "Lithuanian",
-  "birthdate": "July 17 1995"
+  "cachedAt": "2026-06-07T07:30:52.945Z"
 }

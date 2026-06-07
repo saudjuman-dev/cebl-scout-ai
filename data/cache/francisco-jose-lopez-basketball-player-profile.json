@@ -1,0 +1,44 @@
+{
+  "fullName": "FRANCISCO JOSE LOPEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francisco-Jose-Lopez/529901",
+  "height": "6'0'",
+  "currentTeam": "Jaen CB",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Andujar SKA",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Andujar SKA",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Andujar",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Jaen CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Jaen CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:29:08.550Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:29:08.550Z"
+}

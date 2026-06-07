@@ -2,7 +2,7 @@
   "fullName": "JOEL-SADU AMINU",
   "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Sadu-Aminu/297125",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JOEL",
+  "college": "University Games European Championships Olympic Games European Championships U16 JOEL",
   "currentTeam": "Bonn",
   "careerHistory": [
     {
@@ -91,12 +91,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:58:16.969Z",
+  "_lastVerified": "2026-06-07T07:22:55.212Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:23:06.871Z",
-  "nationality": "German",
-  "birthdate": "April 23 1997"
+  "cachedAt": "2026-06-07T07:22:55.212Z"
 }

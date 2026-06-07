@@ -1,0 +1,43 @@
+{
+  "fullName": "EDGAR MOURE",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Edgar-Moure/665202",
+  "currentTeam": "Salou",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Badajoz Acad.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Salou",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:24:22.895Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:24:22.895Z"
+}

@@ -1,0 +1,18 @@
+{
+  "fullName": "J GARZON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/J-Garzon/807231",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "LBC Cocinas",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:28:46.494Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:28:46.494Z"
+}

@@ -77,20 +77,18 @@
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:12:41.725Z",
+  "_lastVerified": "2026-06-07T07:30:38.295Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:05.650Z",
-  "nationality": "Spanish",
-  "birthdate": "December 4 2005"
+  "cachedAt": "2026-06-07T07:30:38.295Z"
 }

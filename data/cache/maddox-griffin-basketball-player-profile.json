@@ -1,0 +1,29 @@
+{
+  "fullName": "MADDOX GRIFFIN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Maddox-Griffin/674340",
+  "height": "6'3'",
+  "currentTeam": "VCSU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "VCSU",
+      "league": "NAIA"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:32:27.978Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:32:27.978Z"
+}

@@ -67,20 +67,19 @@
     },
     {
       "year": "25-26",
-      "team": "Dijon",
+      "team": "Boulazac",
       "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Boulazac",
+      "team": "Dijon",
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:17:21.078Z",
+  "_lastVerified": "2026-06-07T07:27:10.904Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:37:45.547Z",
-  "birthdate": "November 30 1997"
+  "cachedAt": "2026-06-07T07:27:10.904Z"
 }

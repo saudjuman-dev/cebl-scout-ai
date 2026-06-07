@@ -1,0 +1,84 @@
+{
+  "fullName": "ERIKAS KALINICENKO",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Erikas-Kalinicenko/377943",
+  "height": "6'6'",
+  "currentTeam": "Caceres",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Villarrobledo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Jaen CB 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Villarrobledo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Melilla",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Caceres",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caceres",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:19:47.445Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:19:47.445Z"
+}

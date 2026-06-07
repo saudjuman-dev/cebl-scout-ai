@@ -1,0 +1,18 @@
+{
+  "fullName": "BRIAN MCGRATH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brian-McGrath/798782",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:48.740Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:48.740Z"
+}

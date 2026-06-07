@@ -1,0 +1,33 @@
+{
+  "fullName": "IKER TERREROS",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Iker-Terreros/714401",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Barbastro",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:15:21.750Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:15:21.750Z"
+}

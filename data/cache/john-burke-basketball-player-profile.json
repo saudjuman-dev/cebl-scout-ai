@@ -1,0 +1,80 @@
+{
+  "fullName": "JOHN BURKE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/John-Burke/266584",
+  "height": "6'3'",
+  "college": "University of Missouri",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "UMKC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "UMKC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Rockhurst",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Rockhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "Rockhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "Rockhurst",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Rockhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "17-18",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Galway-Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:32.525Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:32.525Z"
+}

@@ -1,0 +1,49 @@
+{
+  "fullName": "DIEGO BULTO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Diego-Bulto/532484",
+  "height": "6'2'",
+  "currentTeam": "La Leonesa",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Ule Basket LE",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Ule RBH Global",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CD Leonesa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "La Leonesa",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:28:17.143Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:28:17.143Z"
+}

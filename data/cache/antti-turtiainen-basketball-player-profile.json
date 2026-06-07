@@ -1,0 +1,25 @@
+{
+  "fullName": "ANTTI TURTIAINEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antti-Turtiainen/791801",
+  "height": "6'8'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 ANTTI TURTIAINEN basketball player profile Uniform",
+  "currentTeam": "KTP-Basket",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "KTP II",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "KTP-Basket",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:39:00.872Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:39:00.872Z"
+}

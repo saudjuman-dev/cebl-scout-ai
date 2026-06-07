@@ -1,0 +1,39 @@
+{
+  "fullName": "JABARI WILLIAMS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jabari-Williams/559029",
+  "height": "6'11'",
+  "currentTeam": "Albany St.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Garden City",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Indian River",
+      "league": "JUCO"
+    },
+    {
+      "year": "2023",
+      "team": "Flyers",
+      "league": "ANT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alabama St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Albany St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:30:22.726Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:30:22.726Z"
+}

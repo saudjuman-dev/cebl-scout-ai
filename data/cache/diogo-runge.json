@@ -1,9 +1,14 @@
 {
   "fullName": "DIOGO RUNGE",
   "sourceUrl": "https://basketball.eurobasket.com/player/Diogo-Runge/530658",
-  "height": "6'8'",
+  "height": "6'9'",
   "currentTeam": "Galitos-Barreiro",
   "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Dragon Force",
+      "league": "POR-2"
+    },
     {
       "year": "19-20",
       "team": "Dragon Force",
@@ -45,12 +50,10 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:51:05.779Z",
+  "_lastVerified": "2026-06-07T07:53:45.187Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:07:48.385Z",
-  "nationality": "Portuguese",
-  "birthdate": "September 7 2001"
+  "cachedAt": "2026-06-07T07:53:45.187Z"
 }

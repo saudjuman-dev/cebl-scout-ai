@@ -2,7 +2,7 @@
   "fullName": "LINUS TRETTIN",
   "sourceUrl": "https://basketball.eurobasket.com/player/Linus-Trettin/590419",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             LINUS TRETTIN basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 LINUS TRETTIN basketball profile Uniform No",
   "currentTeam": "Vechta",
   "careerHistory": [
     {
@@ -72,21 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "Vechta",
-      "league": "GER-1"
+      "team": "Artland",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Artland",
-      "league": "GER-2"
+      "team": "Vechta",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:01:34.621Z",
+  "_lastVerified": "2026-06-07T07:55:15.309Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:12:12.908Z",
-  "nationality": "German",
-  "birthdate": "May 16 2005"
+  "cachedAt": "2026-06-07T07:55:15.309Z"
 }

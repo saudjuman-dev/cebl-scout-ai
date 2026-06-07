@@ -1,0 +1,39 @@
+{
+  "fullName": "WILLIAM BURGOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/William-Burgos/711636",
+  "height": "6'9'",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Hita Plasticos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Huerva",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2025",
+      "team": "Olimpia K.",
+      "league": "PAR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chantada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valle de Egues",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:30:28.688Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:30:28.688Z"
+}

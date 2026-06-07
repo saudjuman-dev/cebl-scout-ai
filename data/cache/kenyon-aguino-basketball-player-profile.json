@@ -1,0 +1,20 @@
+{
+  "fullName": "KENYON AGUINO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kenyon-Aguino/794023",
+  "height": "6'7'",
+  "college": "University of Montana",
+  "currentTeam": "Montana",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Montana",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:36:15.344Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:36:15.344Z"
+}

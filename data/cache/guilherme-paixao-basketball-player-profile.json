@@ -1,0 +1,29 @@
+{
+  "fullName": "GUILHERME PAIXAO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Guilherme-Paixao/660475",
+  "height": "6'5'",
+  "currentTeam": "Barreirense",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Barreirense",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Barreirense",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Barreirense",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:31:14.901Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:31:14.901Z"
+}

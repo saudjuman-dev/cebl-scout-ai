@@ -26,21 +26,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bahcesehir",
-      "league": "TUR-4"
+      "team": "Cedi Osman",
+      "league": "TUR-2"
     },
     {
       "year": "25-26",
-      "team": "Cedi Osman",
-      "league": "TUR-2"
+      "team": "Bahcesehir",
+      "league": "TUR-4"
     }
   ],
-  "_lastVerified": "2026-05-01T15:16:50.370Z",
+  "_lastVerified": "2026-06-07T07:39:30.158Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:27:02.366Z",
-  "nationality": "Turkish",
-  "birthdate": "March 25 2007"
+  "cachedAt": "2026-06-07T07:39:30.158Z"
 }

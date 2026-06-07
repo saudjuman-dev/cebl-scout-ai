@@ -1,0 +1,34 @@
+{
+  "fullName": "ZACH ERWIN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Zach-Erwin/676265",
+  "height": "6'6'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:35:53.717Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:35:53.717Z"
+}

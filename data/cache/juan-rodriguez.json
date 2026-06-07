@@ -1,0 +1,38 @@
+{
+  "fullName": "JUAN RODRIGUEZ",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Rodriguez/655303",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Avenida",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:15:03.476Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:15:03.476Z"
+}

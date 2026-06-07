@@ -1,0 +1,18 @@
+{
+  "fullName": "RODRIGO HIDALGO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rodrigo-Hidalgo/797806",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:35:19.534Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:35:19.534Z"
+}

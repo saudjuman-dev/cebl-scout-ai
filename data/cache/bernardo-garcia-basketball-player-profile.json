@@ -1,0 +1,119 @@
+{
+  "fullName": "BERNARDO GARCIA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bernardo-Garcia/219943",
+  "height": "6'0'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "11-12",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Velez",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Basquet Muro",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Calvia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Levitec Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "El Pinar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Clavijo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "El Pinar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:35:02.275Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:35:02.275Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "YOHANN SISSOKO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Yohann-Sissoko/655626",
+  "height": "6'5'",
+  "currentTeam": "FAU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL Lyon-Villeurba",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "FAU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:36:56.731Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:36:56.731Z"
+}

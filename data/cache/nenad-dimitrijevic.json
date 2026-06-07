@@ -92,19 +92,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bayern",
-      "league": "GER-1"
+      "team": "Zenit",
+      "league": "VTB-1"
     },
     {
       "year": "25-26",
-      "team": "Zenit",
-      "league": "VTB-1"
+      "team": "Bayern",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-03T06:18:59.988Z",
+  "_lastVerified": "2026-06-07T07:22:43.320Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-03T06:18:59.988Z"
+  "cachedAt": "2026-06-07T07:22:43.320Z"
 }

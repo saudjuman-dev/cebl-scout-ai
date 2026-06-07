@@ -1,0 +1,59 @@
+{
+  "fullName": "UNAI BARANDALLA",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Unai-Barandalla/497374",
+  "height": "6'5'",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bilbao",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Surne Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bilbao",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-07T08:16:11.721Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-07T08:16:11.721Z"
+}

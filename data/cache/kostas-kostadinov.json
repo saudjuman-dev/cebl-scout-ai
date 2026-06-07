@@ -1,7 +1,7 @@
 {
   "fullName": "KOSTAS KOSTADINOV",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kostas-Kostadinov/442173",
-  "height": "6'8'",
+  "height": "6'9'",
   "currentTeam": "Andorra",
   "careerHistory": [
     {
@@ -56,20 +56,19 @@
     },
     {
       "year": "25-26",
-      "team": "Tenerife",
+      "team": "Andorra",
       "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Andorra",
+      "team": "Tenerife",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:00:34.342Z",
+  "_lastVerified": "2026-06-07T07:31:51.187Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:00:33.697Z",
-  "birthdate": "March 25 2003"
+  "cachedAt": "2026-06-07T07:31:51.187Z"
 }

@@ -2,6 +2,7 @@
   "fullName": "ALEXANDROS SAMODUROV",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alexandros-Samodurov/581146",
   "height": "6'11'",
+  "college": "University of North Carolina",
   "currentTeam": "Panathinaikos",
   "careerHistory": [
     {
@@ -67,20 +68,18 @@
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "GRE-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Panathinaikos",
-      "league": "EUROL-1"
+      "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:46:01.502Z",
+  "_lastVerified": "2026-06-07T07:33:54.305Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:09:52.045Z",
-  "nationality": "Greek",
-  "birthdate": "April 20 2005"
+  "cachedAt": "2026-06-07T07:33:54.305Z"
 }
