@@ -1,0 +1,50 @@
+{
+  "fullName": "NICOLO NOBILI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicolo-Nobili/497544",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 NICOLO NOBILI basketball player profile Uniform",
+  "currentTeam": "Bergamo",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Virtus BO",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bologna",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Boston U.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boston U.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Boston U.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bergamo",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Scafati",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:07:22.229Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:07:22.229Z"
+}

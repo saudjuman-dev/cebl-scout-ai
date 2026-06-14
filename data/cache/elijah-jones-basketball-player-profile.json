@@ -1,0 +1,45 @@
+{
+  "fullName": "ELIJAH JONES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Elijah-Jones/500384",
+  "height": "6'7'",
+  "college": "College of Charleston 2018",
+  "currentTeam": "Longwood",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "S.Indiana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "S.Indiana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Green Bay",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleston",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Longwood",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:18:02.189Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:18:02.189Z"
+}

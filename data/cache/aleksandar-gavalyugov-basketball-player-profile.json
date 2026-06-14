@@ -1,0 +1,94 @@
+{
+  "fullName": "ALEKSANDAR GAVALYUGOV basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aleksandar-Gavalyugov/595121",
+  "height": "6'2'",
+  "currentTeam": "Santa Clara",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Balkan 2",
+      "league": "BUL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Balkan",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Balkan Botevgrad",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Balkan 2",
+      "league": "BUL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Balkan Botevgrad",
+      "league": "BUL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Balkan Botevgrad",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Balkan",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Zadar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Balkan 2",
+      "league": "BUL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "NGST",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Balkan Botevgrad",
+      "league": "BUL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Balkan",
+      "league": "BUL-3"
+    },
+    {
+      "year": "2024",
+      "team": "NBA Global",
+      "league": "AUS-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Villanova",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:18:29.805Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:18:29.805Z"
+}

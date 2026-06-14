@@ -1,0 +1,40 @@
+{
+  "fullName": "JONATHAN ZEISBERGER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Zeisberger/640630",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JONATHAN ZEISBERGER basketball player profile Uniform",
+  "currentTeam": "Bayreuth",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "IBAM",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "IBAM",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "IBAM",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Oberhaching",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:57:49.769Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:57:49.769Z"
+}

@@ -1,0 +1,50 @@
+{
+  "fullName": "BEN KOEHLER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ben-Koehler/543577",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 BEN KOEHLER basketball player profile Uniform",
+  "currentTeam": "Wolmirstedt",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Jena",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Jena",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Jena",
+      "league": "GER-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Aschersleben",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Wolmirstedt",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:00:09.709Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:00:09.709Z"
+}

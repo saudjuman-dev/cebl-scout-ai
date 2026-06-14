@@ -1,0 +1,109 @@
+{
+  "fullName": "KRISTINA RAKOVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kristina-Rakovic/182173&Women=1",
+  "height": "6'1'",
+  "currentTeam": "AzulMarino",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Jedinstvo BP",
+      "league": "ADR-11"
+    },
+    {
+      "year": "12-13",
+      "team": "Mladi Krajisnik",
+      "league": "ADR-11"
+    },
+    {
+      "year": "12-13",
+      "team": "Mladi Krajisnik",
+      "league": "BIH-11"
+    },
+    {
+      "year": "13-14",
+      "team": "Mladi Krajisnik",
+      "league": "BIH-11"
+    },
+    {
+      "year": "13-14",
+      "team": "Sumadija KG",
+      "league": "SRB-11"
+    },
+    {
+      "year": "14-15",
+      "team": "Sumadija KG",
+      "league": "SRB-11"
+    },
+    {
+      "year": "15-16",
+      "team": "Buducnost",
+      "league": "MZRKL-11"
+    },
+    {
+      "year": "17-18",
+      "team": "Bembibre",
+      "league": "ESP-11"
+    },
+    {
+      "year": "18-19",
+      "team": "Keltern",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "18-19",
+      "team": "Keltern",
+      "league": "GER-11"
+    },
+    {
+      "year": "19-20",
+      "team": "Leganes",
+      "league": "ESP-12"
+    },
+    {
+      "year": "20-21",
+      "team": "Barca CBS",
+      "league": "ESP-12"
+    },
+    {
+      "year": "21-22",
+      "team": "Barca CBS",
+      "league": "ESP-12"
+    },
+    {
+      "year": "22-23",
+      "team": "Barca CBS",
+      "league": "ESP-11"
+    },
+    {
+      "year": "2023",
+      "team": "Halcones",
+      "league": "MEX-12"
+    },
+    {
+      "year": "23-24",
+      "team": "Barca CBS",
+      "league": "ESP-11"
+    },
+    {
+      "year": "2024",
+      "team": "Halcones",
+      "league": "MEX-12"
+    },
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    },
+    {
+      "year": "25-26",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:02.534Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:02.534Z"
+}

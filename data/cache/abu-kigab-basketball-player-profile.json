@@ -1,0 +1,90 @@
+{
+  "fullName": "ABU KIGAB basketball player profile",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Abu-Kigab/366146",
+  "height": "6'7'",
+  "college": "University of Oregon",
+  "currentTeam": "Al Faisaly",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Toronto R.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Niagara",
+      "league": "CEBL"
+    },
+    {
+      "year": "2023",
+      "team": "Ottawa",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Spisski Rytieri",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Spisski Rytieri",
+      "league": "SVK-1"
+    },
+    {
+      "year": "2024",
+      "team": "Once A Bronco",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Al Faisaly",
+      "league": "JOR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Giessen 46ers",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:56:10.291Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:56:10.291Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "MAKAI WILLIS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Makai-Willis/609055",
+  "height": "6'8'",
+  "college": "University School 2021",
+  "currentTeam": "Texas St.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ULM",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "ULM",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:31.267Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:31.267Z"
+}

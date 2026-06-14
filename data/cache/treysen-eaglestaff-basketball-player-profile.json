@@ -1,0 +1,45 @@
+{
+  "fullName": "TREYSEN EAGLESTAFF basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Treysen-Eaglestaff/661039",
+  "height": "6'6'",
+  "college": "University of North Dakota",
+  "currentTeam": "WVU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "N.Dakota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Dakota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Dakota",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Dakota",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Dakota",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "WVU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:22.062Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:22.062Z"
+}

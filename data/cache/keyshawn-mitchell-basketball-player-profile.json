@@ -1,0 +1,34 @@
+{
+  "fullName": "KEYSHAWN MITCHELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Keyshawn-Mitchell/703308",
+  "height": "6'11'",
+  "currentTeam": "VCU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Bryant",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bryant",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Bryant",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "VCU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:04:55.618Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:04:55.618Z"
+}

@@ -1,9 +1,63 @@
 {
-  "_lastScraped": "2026-06-07T08:41:24.861Z",
+  "_lastScraped": "2026-06-14T08:35:32.531Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Keeshawn Barthelemy activated from Club's Injured List",
+      "team": "Montreal Alliance",
+      "date": "2026-06-13",
+      "type": "Keeshawn Barthelemy activated from Club's Injured List"
+    },
+    {
+      "player": "Lue Williams III activated from Club's Injured List",
+      "team": "Montreal Alliance",
+      "date": "2026-06-13",
+      "type": "Lue Williams III activated from Club's Injured List"
+    },
+    {
+      "player": "Khalil Miller",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-06-13",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kobe Elvis",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-06-13",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "DJ Burns",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-06-11",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-06-11",
+      "type": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Gabe Levin released from Club",
+      "team": "Calgary Surge",
+      "date": "2026-06-10",
+      "type": "Gabe Levin released from Club"
+    },
+    {
+      "player": "Deandre Williams",
+      "team": "Calgary Surge",
+      "date": "2026-06-10",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Bronson Chambers placed on Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-09",
+      "type": "Bronson Chambers placed on Practice Roster"
+    },
     {
       "player": "Judson Martindale released from Club",
       "team": "Brampton Honey Badgers",

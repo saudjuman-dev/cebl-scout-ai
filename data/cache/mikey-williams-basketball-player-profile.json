@@ -1,0 +1,30 @@
+{
+  "fullName": "MIKEY WILLIAMS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Mikey-Williams/605405",
+  "height": "6'3'",
+  "college": "University of Memphis",
+  "currentTeam": "Sacramento St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:25.004Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:25.004Z"
+}

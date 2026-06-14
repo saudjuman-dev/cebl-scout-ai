@@ -1,0 +1,40 @@
+{
+  "fullName": "BENJAMIN ZINTZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Benjamin-Zintz/717722",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 BENJAMIN ZINTZ basketball player profile Uniform",
+  "currentTeam": "Bremerhaven",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Rhein-Neckar",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:54:57.366Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:54:57.366Z"
+}

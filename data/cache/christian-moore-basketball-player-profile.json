@@ -1,0 +1,39 @@
+{
+  "fullName": "CHRISTIAN MOORE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Christian-Moore/682728",
+  "height": "6'6'",
+  "currentTeam": "Citadel",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Citadel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Citadel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Citadel",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Citadel",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Citadel",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:42.541Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:42.541Z"
+}

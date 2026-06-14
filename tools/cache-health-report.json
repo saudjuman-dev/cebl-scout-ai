@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-07T08:41:33.006Z",
-  "totalCacheFiles": 3555,
-  "validJson": 3555,
+  "generatedAt": "2026-06-14T08:35:40.951Z",
+  "totalCacheFiles": 4040,
+  "validJson": 4040,
   "nameMismatches": 0,
   "stale": 0,
-  "missingFields": 21,
+  "missingFields": 22,
   "pipelineCoverage": {
     "total": 88,
     "cached": 36,
@@ -28,6 +28,7 @@
       "guilherme-ferreira-basketball-player-profile.json: missing fields currentTeam",
       "justin-jackson.json: missing fields currentTeam",
       "kenan-suares.json: missing fields currentTeam",
+      "liam-hollaender-basketball-player-profile.json: missing fields currentTeam",
       "loris-duponq.json: missing fields currentTeam",
       "nolan-cushion-basketball-player-profile.json: missing fields currentTeam",
       "nuno-sousa.json: missing fields currentTeam",

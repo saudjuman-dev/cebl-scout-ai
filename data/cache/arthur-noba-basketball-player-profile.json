@@ -1,0 +1,35 @@
+{
+  "fullName": "ARTHUR NOBA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Arthur-Noba/478118",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ARTHUR NOBA basketball player profile Uniform",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Les Sables",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Towers",
+      "league": "AUT-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:06.505Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:06.505Z"
+}

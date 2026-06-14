@@ -1,0 +1,35 @@
+{
+  "fullName": "AMARI JEDKINS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Amari-Jedkins/566280",
+  "height": "6'7'",
+  "college": "University of Wisconsin",
+  "currentTeam": "Montana",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Green Bay",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Montana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Montana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Montana",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:32:38.993Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:32:38.993Z"
+}

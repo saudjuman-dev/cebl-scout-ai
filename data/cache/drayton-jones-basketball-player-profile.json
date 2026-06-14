@@ -1,0 +1,34 @@
+{
+  "fullName": "DRAYTON JONES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Drayton-Jones/719162",
+  "height": "6'11'",
+  "currentTeam": "Butler",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "SC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SC State",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "SC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Butler",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:45.646Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:45.646Z"
+}

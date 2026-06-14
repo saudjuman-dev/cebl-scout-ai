@@ -1,0 +1,65 @@
+{
+  "fullName": "LAZAR DJOKOVIC basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lazar-Djokovic/587110",
+  "height": "6'11'",
+  "college": "College of Charleston",
+  "currentTeam": "VCU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Pirot",
+      "league": "SRB-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Crvena zvezda",
+      "league": "SRB-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Crvena zvezda",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Mladost ZE",
+      "league": "SRB-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Crvena zvezda",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Crvena zvezda",
+      "league": "SRB-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Charleston",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "VCU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:04:42.076Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:04:42.076Z"
+}

@@ -1,0 +1,18 @@
+{
+  "fullName": "OLIVER GOMEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oliver-Gomez/817779",
+  "currentTeam": "Palencia",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Palencia",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:10:07.629Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:10:07.629Z"
+}

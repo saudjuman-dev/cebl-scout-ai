@@ -1,0 +1,49 @@
+{
+  "fullName": "GEDNA CAPEL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gedna-Capel/530786&Women=1",
+  "height": "6'1'",
+  "currentTeam": "AzulMarino",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Sant Adria",
+      "league": "ESP-12"
+    },
+    {
+      "year": "20-21",
+      "team": "Sant Adria",
+      "league": "ESP-12"
+    },
+    {
+      "year": "21-22",
+      "team": "Advisoria Mataro Maresme Barcelona",
+      "league": "ESP-12"
+    },
+    {
+      "year": "22-23",
+      "team": "Al-Qazeres",
+      "league": "ESP-12"
+    },
+    {
+      "year": "23-24",
+      "team": "Al-Qazeres",
+      "league": "ESP-12"
+    },
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    },
+    {
+      "year": "25-26",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:15:28.185Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:15:28.185Z"
+}

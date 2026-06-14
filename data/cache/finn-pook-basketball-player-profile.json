@@ -1,0 +1,70 @@
+{
+  "fullName": "FINN POOK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Finn-Pook/537073",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 FINN POOK basketball player profile Uniform",
+  "currentTeam": "Phoenix Hagen",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Duesseldorf",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Duesseldorf",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Limestone",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Phoenix",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hagen-Haspe 70",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Phoenix Hagen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:53:52.558Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:53:52.558Z"
+}

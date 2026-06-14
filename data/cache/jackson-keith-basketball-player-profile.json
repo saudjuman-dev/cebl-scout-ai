@@ -1,0 +1,19 @@
+{
+  "fullName": "JACKSON KEITH basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jackson-Keith/792283",
+  "height": "6'5'",
+  "currentTeam": "Butler",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Butler",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:38.513Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:38.513Z"
+}

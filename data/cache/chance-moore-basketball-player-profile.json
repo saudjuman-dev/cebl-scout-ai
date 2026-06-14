@@ -1,0 +1,50 @@
+{
+  "fullName": "CHANCE MOORE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Chance-Moore/560159",
+  "height": "6'6'",
+  "college": "University of Arkansas",
+  "currentTeam": "WVU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Missouri St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Missouri St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Missouri St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "WVU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:11.035Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:11.035Z"
+}

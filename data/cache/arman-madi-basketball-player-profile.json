@@ -1,0 +1,30 @@
+{
+  "fullName": "ARMAN MADI basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Arman-Madi/557969",
+  "height": "6'6'",
+  "college": "College Prep",
+  "currentTeam": "Sacramento St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:31.891Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:31.891Z"
+}

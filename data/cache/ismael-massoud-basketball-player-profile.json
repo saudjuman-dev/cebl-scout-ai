@@ -1,0 +1,60 @@
+{
+  "fullName": "ISMAEL MASSOUD basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ismael-Massoud/423391",
+  "height": "6'9'",
+  "college": "college basketball at Houston and was a starter for the Cougars as a junior and senior in 1996",
+  "currentTeam": "Palma BM",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Kansas St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Akhaltsikhe",
+      "league": "GEO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamalek",
+      "league": "EGY-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma BM",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:13:23.956Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:13:23.956Z"
+}

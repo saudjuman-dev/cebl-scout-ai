@@ -1,0 +1,20 @@
+{
+  "fullName": "NYKOLAS LEWIS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nykolas-Lewis/707525",
+  "height": "6'1'",
+  "college": "College High School 2023",
+  "currentTeam": "VCU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "VCU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:02.473Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:02.473Z"
+}

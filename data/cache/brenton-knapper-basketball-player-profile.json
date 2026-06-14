@@ -1,0 +1,39 @@
+{
+  "fullName": "BRENTON KNAPPER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brenton-Knapper/612025",
+  "height": "6'0'",
+  "currentTeam": "Santa Clara",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:18:42.704Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:18:42.704Z"
+}

@@ -1,0 +1,65 @@
+{
+  "fullName": "DOMINICK VON WAADEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dominick-Von-Waaden/384663",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 DOMINICK VON WAADEN basketball player profile Uniform No",
+  "currentTeam": "Phoenix Hagen",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Wolmirstedt",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Wolmirstedt",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Karlsruhe PS",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Phoenix Hagen",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Phoenix Hagen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:53:49.635Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:53:49.635Z"
+}

@@ -1,0 +1,28 @@
+{
+  "fullName": "MARTI CORBERA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marti-Corbera/752497",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "SESE",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Es Castell",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:09:44.404Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:09:44.404Z"
+}

@@ -1,0 +1,28 @@
+{
+  "fullName": "BELTRAN DE LA LLAMA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Beltran-De-La-Llama/712146",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "BT Madrid",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Pas Pielagos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:12:29.933Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:12:29.933Z"
+}

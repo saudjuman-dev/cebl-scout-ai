@@ -1,0 +1,44 @@
+{
+  "fullName": "PROPHET JOHNSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Prophet-Johnson/617471",
+  "height": "6'3'",
+  "currentTeam": "Sacramento St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bellevue CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "SUU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SUU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Fairfield",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:35.265Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:35.265Z"
+}

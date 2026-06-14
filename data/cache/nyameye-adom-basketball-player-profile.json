@@ -1,0 +1,50 @@
+{
+  "fullName": "NYAMEYE ADOM basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nyameye-Adom/467352",
+  "height": "6'1'",
+  "college": "University FL Orland",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Wheaton, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "19-20",
+      "team": "Wheaton, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "20-21",
+      "team": "Wheaton, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "21-22",
+      "team": "Wheaton, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "22-23",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Nassjo",
+      "league": "SWE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:31:32.373Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:31:32.373Z"
+}

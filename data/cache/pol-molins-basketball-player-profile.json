@@ -1,0 +1,69 @@
+{
+  "fullName": "POL MOLINS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pol-Molins/353965",
+  "height": "6'5'",
+  "currentTeam": "Menorca",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Divina Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Arenys",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Innova Chef Z.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Girona",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Menorca",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Menorca",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:09:40.631Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:09:40.631Z"
+}

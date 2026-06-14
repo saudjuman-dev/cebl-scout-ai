@@ -1,0 +1,104 @@
+{
+  "fullName": "FILIP STRYJEWSKI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Filip-Stryjewski/375950",
+  "height": "6'4'",
+  "currentTeam": "Bialystok",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "AZS PG",
+      "league": "POL-3"
+    },
+    {
+      "year": "16-17",
+      "team": "AZS PG",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Asseco II",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Asseco Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco Arka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco",
+      "league": "POL-5"
+    },
+    {
+      "year": "18-19",
+      "team": "Arka II",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Asseco Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Decka Pelpin",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Starogard",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Decka Pelpin",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Slask II",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bialystok",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Leszno",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Inowroclaw",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:51:43.698Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:51:43.698Z"
+}

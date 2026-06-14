@@ -1,0 +1,119 @@
+{
+  "fullName": "SERGIO LLORENTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-Llorente/154409",
+  "height": "6'2'",
+  "currentTeam": "Alicante",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Lobe Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Avila",
+      "league": "ESP-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Guadalajara",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Palma Air Eur.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "15-16",
+      "team": "C.Candelas BL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "RETAbet BLB",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "RETAbet BLB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Charleroi",
+      "league": "BEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Phoenix BR",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Charleroi",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Circus BR",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alicante",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:11:10.837Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:11:10.837Z"
+}

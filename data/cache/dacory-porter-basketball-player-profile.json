@@ -1,0 +1,29 @@
+{
+  "fullName": "DACORY PORTER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dacory-Porter/688959",
+  "height": "6'4'",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Holmes CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Holmes CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:04:11.019Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:04:11.019Z"
+}

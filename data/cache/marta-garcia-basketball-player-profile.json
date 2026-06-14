@@ -1,0 +1,60 @@
+{
+  "fullName": "MARTA GARCIA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marta-Garcia/422110?Women=1",
+  "height": "6'3'",
+  "college": "University of Arizona",
+  "currentTeam": "AzulMarino",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Segle XXI",
+      "league": "ESP-12"
+    },
+    {
+      "year": "17-18",
+      "team": "Segle XXI",
+      "league": "ESP-12"
+    },
+    {
+      "year": "18-19",
+      "team": "Segle XXI",
+      "league": "ESP-12"
+    },
+    {
+      "year": "19-20",
+      "team": "Segle XXI",
+      "league": "ESP-12"
+    },
+    {
+      "year": "20-21",
+      "team": "Arizona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Sevilla",
+      "league": "ESP-13"
+    },
+    {
+      "year": "23-24",
+      "team": "Sevilla",
+      "league": "ESP-13"
+    },
+    {
+      "year": "24-25",
+      "team": "Sevilla",
+      "league": "ESP-13"
+    },
+    {
+      "year": "25-26",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:20.196Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:20.196Z"
+}

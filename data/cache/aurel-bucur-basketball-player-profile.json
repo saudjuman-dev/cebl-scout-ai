@@ -1,0 +1,55 @@
+{
+  "fullName": "AUREL BUCUR basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aurel-Bucur/665735",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 AUREL BUCUR basketball player profile Uniform",
+  "currentTeam": "Bochum",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bonn/Rh.",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Bonn 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bonn/Rh.",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Bonn 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Bonn/Rh.",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bochum",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:02:42.037Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:02:42.037Z"
+}

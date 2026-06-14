@@ -1,0 +1,65 @@
+{
+  "fullName": "CALEB ZURLIENE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Caleb-Zurliene/569962",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CALEB ZURLIENE basketball player profile Uniform",
+  "currentTeam": "Muenster",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Purdue NW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Purdue NW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Purdue NW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Purdue NW",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Purdue NW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "McKendree",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "McKendree",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Campbell",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Campbell",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Muenster",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:01:34.538Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:01:34.538Z"
+}

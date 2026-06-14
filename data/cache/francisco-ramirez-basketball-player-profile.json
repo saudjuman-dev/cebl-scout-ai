@@ -1,0 +1,18 @@
+{
+  "fullName": "FRANCISCO RAMIREZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francisco-Ramirez/828062",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:31:06.964Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:31:06.964Z"
+}

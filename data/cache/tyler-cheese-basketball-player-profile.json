@@ -1,0 +1,110 @@
+{
+  "fullName": "TYLER CHEESE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyler-Cheese/429563",
+  "height": "6'4'",
+  "college": "University of Akron",
+  "currentTeam": "Bora",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Florida SW",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Florida SW",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2020",
+      "team": "Treviso",
+      "league": "ITA-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Treviso",
+      "league": "ITA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Pelister",
+      "league": "ADR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Pelister",
+      "league": "MKD-1"
+    },
+    {
+      "year": "22-23",
+      "team": "AVIS Rapla",
+      "league": "LAES-1"
+    },
+    {
+      "year": "22-23",
+      "team": "AVIS Rapla",
+      "league": "EST-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lancut",
+      "league": "POL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Soles",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "La Rochelle",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Panteras",
+      "league": "MEX-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bora",
+      "league": "AlKo-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bora",
+      "league": "KOS-1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:51:46.795Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:51:46.795Z"
+}

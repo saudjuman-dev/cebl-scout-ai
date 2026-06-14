@@ -1,0 +1,49 @@
+{
+  "fullName": "ROBERT MISIAK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Robert-Misiak/624749",
+  "height": "6'5'",
+  "currentTeam": "MKS DG 2",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:51:20.729Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:51:20.729Z"
+}

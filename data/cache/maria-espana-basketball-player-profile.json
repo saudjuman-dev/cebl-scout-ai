@@ -1,0 +1,109 @@
+{
+  "fullName": "MARIA ESPANA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maria-Espana/201794&Women=1",
+  "height": "5'11'",
+  "currentTeam": "AzulMarino",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Mariana",
+      "league": "ESP-11"
+    },
+    {
+      "year": "11-12",
+      "team": "Mariana",
+      "league": "ESP-11"
+    },
+    {
+      "year": "12-13",
+      "team": "Cortegada",
+      "league": "ESP-12"
+    },
+    {
+      "year": "13-14",
+      "team": "Burgos",
+      "league": "ESP-11"
+    },
+    {
+      "year": "13-14",
+      "team": "IF Air Europa",
+      "league": "ESP-12"
+    },
+    {
+      "year": "14-15",
+      "team": "IF Air Europa",
+      "league": "ESP-12"
+    },
+    {
+      "year": "15-16",
+      "team": "IF Air Europa",
+      "league": "ESP-12"
+    },
+    {
+      "year": "16-17",
+      "team": "Logrono",
+      "league": "ESP-11"
+    },
+    {
+      "year": "16-17",
+      "team": "Promete",
+      "league": "ESP-12"
+    },
+    {
+      "year": "17-18",
+      "team": "GDKO Bizkaia",
+      "league": "ESP-12"
+    },
+    {
+      "year": "18-19",
+      "team": "GDKO Bizkaia",
+      "league": "ESP-12"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria",
+      "league": "ESP-12"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ESP-11"
+    },
+    {
+      "year": "21-22",
+      "team": "IDK Euskotren",
+      "league": "ESP-11"
+    },
+    {
+      "year": "22-23",
+      "team": "IDK Euskotren",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "22-23",
+      "team": "IDK Euskotren",
+      "league": "ESP-11"
+    },
+    {
+      "year": "23-24",
+      "team": "IDK Euskotren",
+      "league": "ESP-11"
+    },
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    },
+    {
+      "year": "25-26",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:15:44.492Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:15:44.492Z"
+}

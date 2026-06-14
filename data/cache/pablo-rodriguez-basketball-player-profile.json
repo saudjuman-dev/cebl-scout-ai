@@ -1,0 +1,38 @@
+{
+  "fullName": "PABLO RODRIGUEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Rodriguez/713749",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:10:29.421Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:10:29.421Z"
+}

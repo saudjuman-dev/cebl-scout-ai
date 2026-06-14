@@ -1,0 +1,23 @@
+{
+  "fullName": "ANDRES RUPEREZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andres-Ruperez/800596",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:10:36.231Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:10:36.231Z"
+}

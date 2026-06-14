@@ -1,0 +1,45 @@
+{
+  "fullName": "JASCAL KNOERIG basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jascal-Knoerig/543689",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JASCAL KNOERIG basketball player profile Uniform",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "HammStars",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "HammStars",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "HammStars",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "59 HammStars",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Neustadt TSV",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:02:57.077Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:02:57.077Z"
+}

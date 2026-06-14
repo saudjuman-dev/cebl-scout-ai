@@ -1,0 +1,49 @@
+{
+  "fullName": "JORGE ARIAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jorge-Arias/665122",
+  "height": "6'7'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Un.Oviedo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Oviedo",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Un.Oviedo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:10:50.623Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:10:50.623Z"
+}

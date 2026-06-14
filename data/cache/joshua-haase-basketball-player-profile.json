@@ -1,0 +1,40 @@
+{
+  "fullName": "JOSHUA HAASE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joshua-Haase/584492",
+  "height": "5'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JOSHUA HAASE basketball player profile Uniform",
+  "currentTeam": "Goettingen",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "ASC 46",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Goettingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Goettingen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:56:51.899Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:56:51.899Z"
+}

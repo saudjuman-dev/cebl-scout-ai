@@ -1,0 +1,49 @@
+{
+  "fullName": "CLEMENS SOKOLOV basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Clemens-Sokolov/685835",
+  "height": "6'11'",
+  "currentTeam": "Wuerzburg Ak.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Wuerzburg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:01:58.787Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:01:58.787Z"
+}

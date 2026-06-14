@@ -1,0 +1,40 @@
+{
+  "fullName": "JEREMIAH OSEI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jeremiah-Osei/710651",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JEREMIAH OSEI basketball player profile Uniform",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Hagen Phoenix",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hagen Phoenix",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Hagen BBA",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:16.164Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:16.164Z"
+}

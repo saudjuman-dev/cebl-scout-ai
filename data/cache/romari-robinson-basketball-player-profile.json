@@ -1,0 +1,24 @@
+{
+  "fullName": "ROMARI ROBINSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Romari-Robinson/793530",
+  "height": "6'4'",
+  "currentTeam": "Sacramento St.",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:55.550Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:55.550Z"
+}

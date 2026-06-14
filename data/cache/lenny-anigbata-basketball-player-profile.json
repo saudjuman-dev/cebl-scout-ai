@@ -1,0 +1,65 @@
+{
+  "fullName": "LENNY ANIGBATA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lenny-Anigbata/584440",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 LENNY ANIGBATA basketball player profile Uniform No",
+  "currentTeam": "Ludwigsburg",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Bayern",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayern",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Ludwigsburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ludwigsburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Ludwigsburg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:41:36.590Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:41:36.590Z"
+}

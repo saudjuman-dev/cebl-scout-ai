@@ -1,0 +1,90 @@
+{
+  "fullName": "AITOR ANABITARTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aitor-Anabitarte/486442",
+  "height": "6'8'",
+  "college": "University of Saint Francis",
+  "currentTeam": "Gipuzkoa",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Easo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Easo",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Easo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "St.Francis, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "St.Francis, IL",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Francis, IL",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Francis, IL",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Francis, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Francis, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Francis, IL",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Francis, IL",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:11:27.503Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:11:27.503Z"
+}

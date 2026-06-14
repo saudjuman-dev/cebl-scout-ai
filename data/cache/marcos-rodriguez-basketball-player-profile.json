@@ -1,0 +1,18 @@
+{
+  "fullName": "MARCOS RODRIGUEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcos-Rodriguez/783047",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:31:34.779Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:31:34.779Z"
+}

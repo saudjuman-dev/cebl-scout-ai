@@ -1,0 +1,30 @@
+{
+  "fullName": "DIMP PERNELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dimp-Pernell/738004",
+  "height": "6'3'",
+  "college": "University at San Marcos",
+  "currentTeam": "Texas St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Jones JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Jones JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:11.253Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:11.253Z"
+}

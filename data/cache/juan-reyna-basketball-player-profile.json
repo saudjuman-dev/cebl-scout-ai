@@ -1,0 +1,49 @@
+{
+  "fullName": "JUAN REYNA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Juan-Reyna/552792",
+  "height": "6'3'",
+  "currentTeam": "Santa Clara",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Alabama St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Alabama St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Campbell",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Campbell",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jackson St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:18:32.471Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:18:32.471Z"
+}

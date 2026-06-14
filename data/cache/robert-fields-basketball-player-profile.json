@@ -1,0 +1,20 @@
+{
+  "fullName": "ROBERT FIELDS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Robert-Fields/793667",
+  "height": "6'9'",
+  "college": "University at San Marcos",
+  "currentTeam": "Texas St.",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:34.242Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:34.242Z"
+}

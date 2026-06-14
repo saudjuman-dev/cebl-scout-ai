@@ -1,0 +1,50 @@
+{
+  "fullName": "ERIK LARSEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Erik-Larsen/641151",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ERIK LARSEN basketball player profile Uniform",
+  "currentTeam": "Paderborn",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Goetting.ASC",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "ASC 46",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "ASC 46",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Paderborn",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:00:50.055Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:00:50.055Z"
+}

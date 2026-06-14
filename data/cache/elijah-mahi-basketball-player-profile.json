@@ -1,0 +1,39 @@
+{
+  "fullName": "ELIJAH MAHI basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Elijah-Mahi/574489",
+  "height": "6'7'",
+  "currentTeam": "Santa Clara",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "W.Valley JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "W.Valley JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:18:15.967Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:18:15.967Z"
+}

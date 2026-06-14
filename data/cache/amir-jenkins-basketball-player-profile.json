@@ -1,0 +1,19 @@
+{
+  "fullName": "AMIR JENKINS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Amir-Jenkins/793973",
+  "height": "6'2'",
+  "currentTeam": "WVU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "WVU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:31.623Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:31.623Z"
+}

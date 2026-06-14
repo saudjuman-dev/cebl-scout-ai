@@ -1,0 +1,95 @@
+{
+  "fullName": "TOPE ARIKAWE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tope-Arikawe/249248",
+  "height": "6'8'",
+  "college": "University of North Texas",
+  "currentTeam": "Illiabum",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Panola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Panola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "N.Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "N.Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Z*Frankfurt",
+      "league": "ESL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Trelleborg",
+      "league": "SWE-2"
+    },
+    {
+      "year": "20-21",
+      "team": "BC Lulea",
+      "league": "SWE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Koping Stars",
+      "league": "SWE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ockelbo",
+      "league": "SWE-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Svendborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Malbas",
+      "league": "SWE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ibersol Tarrag.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Galitos Aveiro",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sampaense",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Illiabum",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:28:43.041Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:28:43.041Z"
+}

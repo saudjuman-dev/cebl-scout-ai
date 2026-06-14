@@ -1,0 +1,24 @@
+{
+  "fullName": "REDD THOMPSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Redd-Thompson/741961",
+  "height": "6'0'",
+  "currentTeam": "Longwood",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "JMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Longwood",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:51.532Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:51.532Z"
+}

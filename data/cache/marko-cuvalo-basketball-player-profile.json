@@ -1,0 +1,35 @@
+{
+  "fullName": "MARKO CUVALO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marko-Cuvalo/750959",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MARKO CUVALO basketball player profile Uniform",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Koeln RS",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln RS",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Oldenburg",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:58:50.575Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:58:50.575Z"
+}

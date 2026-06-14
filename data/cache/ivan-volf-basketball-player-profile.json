@@ -1,0 +1,75 @@
+{
+  "fullName": "IVAN VOLF basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ivan-Volf/660349",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 IVAN VOLF basketball player profile Uniform No",
+  "currentTeam": "Artland",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bayern",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayern",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayern",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Bayern Munich U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayern",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayern",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayern",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Artland",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:55:15.668Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:55:15.668Z"
+}

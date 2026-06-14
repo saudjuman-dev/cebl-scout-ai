@@ -1,0 +1,33 @@
+{
+  "fullName": "JAVIER BOSCH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javier-Bosch/772878",
+  "currentTeam": "Melilla",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "CAM E.Soler 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Melilla",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Melilla",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:14:48.140Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:14:48.140Z"
+}

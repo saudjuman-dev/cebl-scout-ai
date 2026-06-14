@@ -1,0 +1,49 @@
+{
+  "fullName": "THIERRY DARLAN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Thierry-Darlan/653039",
+  "height": "6'6'",
+  "currentTeam": "Santa Clara",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Z*G League Ignite",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Bangui",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Delaware Blue",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Rip City R.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:18:46.277Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:18:46.277Z"
+}

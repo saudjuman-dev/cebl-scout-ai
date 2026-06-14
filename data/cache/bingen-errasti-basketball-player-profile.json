@@ -1,0 +1,48 @@
+{
+  "fullName": "BINGEN ERRASTI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bingen-Errasti/711338",
+  "currentTeam": "Bilbao",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Bilbao",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Bilbao",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bilbao",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bilbao",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:15:16.498Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:15:16.498Z"
+}

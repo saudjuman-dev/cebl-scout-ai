@@ -1,0 +1,44 @@
+{
+  "fullName": "MIGUEL SOLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Sola/700916",
+  "height": "6'3'",
+  "currentTeam": "Estudiantes",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:08:31.299Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:08:31.299Z"
+}

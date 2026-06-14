@@ -1,0 +1,45 @@
+{
+  "fullName": "HARLAN OBIOHA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Harlan-Obioha/661061",
+  "height": "7'0'",
+  "college": "University of North Carolina Wilmington",
+  "currentTeam": "WVU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Niagara",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Niagara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Niagara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNCW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNCW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "WVU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:07.231Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:07.231Z"
+}

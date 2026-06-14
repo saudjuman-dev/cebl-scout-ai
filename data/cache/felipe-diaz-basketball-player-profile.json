@@ -1,0 +1,39 @@
+{
+  "fullName": "FELIPE DIAZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Felipe-Diaz/660382",
+  "height": "6'8'",
+  "currentTeam": "Estudiantes",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:08:24.995Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:08:24.995Z"
+}

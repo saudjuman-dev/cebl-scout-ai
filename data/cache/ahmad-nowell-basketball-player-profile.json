@@ -1,0 +1,25 @@
+{
+  "fullName": "AHMAD NOWELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ahmad-Nowell/600806",
+  "height": "6'0'",
+  "college": "University of Connecticut",
+  "currentTeam": "VCU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "VCU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:06.007Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:06.007Z"
+}

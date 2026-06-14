@@ -1,0 +1,84 @@
+{
+  "fullName": "MARC MARTI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marc-Marti/300701",
+  "height": "6'9'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "El Olivar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "El Olivar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "CAI Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "15-16",
+      "team": "CAI Zaragoza",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "El Olivar",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Actel Forca LL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Actel Forca LL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Actel Forca LL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:14:09.654Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:14:09.654Z"
+}

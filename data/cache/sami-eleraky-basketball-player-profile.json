@@ -1,0 +1,85 @@
+{
+  "fullName": "SAMI ELERAKY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sami-Eleraky/199751",
+  "height": "7'0'",
+  "college": "University of Pacific",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Aalborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Aalborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Aalborg",
+      "league": "DEN-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Nautico SC",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Nautico Ten.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Canoe",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Canoe",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Randers",
+      "league": "DEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Horsens IC",
+      "league": "DEN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:31:20.556Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:31:20.556Z"
+}

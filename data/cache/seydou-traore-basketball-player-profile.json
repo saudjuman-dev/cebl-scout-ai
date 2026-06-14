@@ -1,0 +1,30 @@
+{
+  "fullName": "SEYDOU TRAORE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Seydou-Traore/705048",
+  "height": "6'7'",
+  "college": "University of Iowa",
+  "currentTeam": "Utah",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Iowa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:25.706Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:25.706Z"
+}

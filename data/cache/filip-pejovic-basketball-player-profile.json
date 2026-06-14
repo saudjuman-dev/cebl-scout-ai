@@ -1,0 +1,44 @@
+{
+  "fullName": "FILIP PEJOVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Filip-Pejovic/454693",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 FILIP PEJOVIC basketball player profile Uniform",
+  "currentTeam": "Cividale",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Vojvodina NS",
+      "league": "SRB-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Metalac VL",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Vojvodina NS",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Vojvodina NS",
+      "league": "SRB-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Vrbas",
+      "league": "SRB-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cividale",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:06:52.445Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:06:52.445Z"
+}

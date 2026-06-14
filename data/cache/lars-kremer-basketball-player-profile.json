@@ -1,0 +1,45 @@
+{
+  "fullName": "LARS KREMER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lars-Kremer/665451",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 LARS KREMER basketball player profile Uniform",
+  "currentTeam": "Leverkusen",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayer 04 Leverkusen",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayer 04 Leverkusen",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Leverkusen",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Leverkusen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:01:20.190Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:01:20.190Z"
+}

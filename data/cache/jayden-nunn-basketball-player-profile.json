@@ -1,0 +1,55 @@
+{
+  "fullName": "JAYDEN NUNN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jayden-Nunn/598148",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 JAYDEN NUNN basketball player profile Uniform",
+  "currentTeam": "Brescia",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "VCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Baylor",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Baylor",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Baylor",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Brescia",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:43:52.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:43:52.361Z"
+}

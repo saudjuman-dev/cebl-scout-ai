@@ -1,0 +1,39 @@
+{
+  "fullName": "TOM AUDRY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tom-Audry/709410",
+  "height": "6'6'",
+  "currentTeam": "Dijon",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Dijon U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dijon U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:43:07.982Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:43:07.982Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "FRANCK EMMOU basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Franck-Emmou/704387",
+  "height": "6'5'",
+  "college": "University of Maryland",
+  "currentTeam": "Texas St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:40.760Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:40.760Z"
+}

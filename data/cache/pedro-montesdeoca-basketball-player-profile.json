@@ -1,0 +1,23 @@
+{
+  "fullName": "PEDRO MONTESDEOCA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Montesdeoca/625627",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Badajoz Acad.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:12:06.610Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:12:06.610Z"
+}

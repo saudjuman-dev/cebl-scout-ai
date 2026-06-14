@@ -1,0 +1,75 @@
+{
+  "fullName": "ALESSANDRO SCARIOLO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alessandro-Scariolo/445604",
+  "height": "6'3'",
+  "college": "College Manhattan College 2017",
+  "currentTeam": "Palma BM",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "20-21",
+      "team": "OBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "OBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "OBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "OBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Palma BM",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:13:40.010Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:13:40.010Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "FABIAN REICHSTADT basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Fabian-Reichstadt/685374",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 FABIAN REICHSTADT basketball player profile Uniform No",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Gavilan JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Gavilan JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "CS Stanislaus",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "CS Stanislaus",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "CS Stanislaus",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:03.268Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:03.268Z"
+}

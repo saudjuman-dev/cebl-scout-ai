@@ -1,0 +1,75 @@
+{
+  "fullName": "AMAIQUEN SICILIANO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Amaiquen-Siciliano/366125&Women=1",
+  "height": "5'7'",
+  "college": "University National Team",
+  "currentTeam": "Argentina",
+  "careerHistory": [
+    {
+      "year": "2017",
+      "team": "Velez",
+      "league": "ARG-11"
+    },
+    {
+      "year": "2018",
+      "team": "Velez",
+      "league": "ARG-11"
+    },
+    {
+      "year": "2018",
+      "team": "Velez",
+      "league": "ARG-11"
+    },
+    {
+      "year": "18-19",
+      "team": "Bishop's",
+      "league": "USPO"
+    },
+    {
+      "year": "2019",
+      "team": "Obras",
+      "league": "ARG-11"
+    },
+    {
+      "year": "19-20",
+      "team": "Bishop's",
+      "league": "USPO"
+    },
+    {
+      "year": "2021",
+      "team": "Obras",
+      "league": "ARG-11"
+    },
+    {
+      "year": "21-22",
+      "team": "Bishop's",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "Bishop's",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Vigarano",
+      "league": "ITA-12"
+    },
+    {
+      "year": "24-25",
+      "team": "Ragusa",
+      "league": "ITA-12"
+    },
+    {
+      "year": "25-26",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:15:47.579Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:15:47.579Z"
+}

@@ -1,0 +1,60 @@
+{
+  "fullName": "MATTHEW LANE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matthew-Lane/582534",
+  "height": "7'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MATTHEW LANE basketball player profile Uniform No",
+  "currentTeam": "Wolmirstedt",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Molloy",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Molloy",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Molloy",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Molloy",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Molloy",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Molloy",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Molloy",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Aschersleben",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Wolmirstedt",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:00:16.338Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:00:16.338Z"
+}

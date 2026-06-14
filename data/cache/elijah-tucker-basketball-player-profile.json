@@ -1,0 +1,40 @@
+{
+  "fullName": "ELIJAH TUCKER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Elijah-Tucker/579269",
+  "height": "6'8'",
+  "college": "University of Tennessee",
+  "currentTeam": "Longwood",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Xavier",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Longwood",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:44.700Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:44.700Z"
+}

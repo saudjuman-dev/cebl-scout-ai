@@ -1,0 +1,55 @@
+{
+  "fullName": "HENNING GUSTRAU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Henning-Gustrau/641120",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 HENNING GUSTRAU basketball player profile Uniform",
+  "currentTeam": "Bochum",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Recklinghausen",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Recklinghausen",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Recklinghausen",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bochum",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:02:35.585Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:02:35.585Z"
+}

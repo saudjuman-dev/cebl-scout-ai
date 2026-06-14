@@ -1,0 +1,54 @@
+{
+  "fullName": "WILL ELLIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Will-Ellis/480417",
+  "height": "6'2'",
+  "currentTeam": "Karlsruhe PS",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Howard Col., TX",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Queens, NY",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Queens, NY",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mtieli",
+      "league": "GEO-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Gostivar",
+      "league": "MKD-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Shumen",
+      "league": "BUL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:54:00.768Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:54:00.768Z"
+}

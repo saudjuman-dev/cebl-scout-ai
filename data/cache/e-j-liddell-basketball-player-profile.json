@@ -1,0 +1,85 @@
+{
+  "fullName": "E.J. LIDDELL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/EJ-Liddell/497738",
+  "height": "6'7'",
+  "college": "College Park SH107",
+  "currentTeam": "Brooklyn N.",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ohio St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "N.Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "N.Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Birmingham S.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "2025",
+      "team": "Denver N.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:45:43.050Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:45:43.050Z"
+}

@@ -1,0 +1,49 @@
+{
+  "fullName": "DIEGO SERGUEI MASEDA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Diego-Serguei-Maseda/686626",
+  "height": "6'7'",
+  "currentTeam": "Obradoiro",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Obradoiro",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Obradoiro",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Obradoiro",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:08:50.136Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:08:50.136Z"
+}

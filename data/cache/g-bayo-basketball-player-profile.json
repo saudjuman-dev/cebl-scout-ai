@@ -1,0 +1,18 @@
+{
+  "fullName": "G BAYO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/G-Bayo/828890",
+  "currentTeam": "Prat",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Prat",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:28:37.726Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:28:37.726Z"
+}

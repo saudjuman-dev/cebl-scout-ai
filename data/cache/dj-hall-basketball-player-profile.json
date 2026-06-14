@@ -1,0 +1,20 @@
+{
+  "fullName": "DJ HALL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/DJ-Hall/778050",
+  "height": "6'7'",
+  "college": "University at San Marcos",
+  "currentTeam": "Texas St.",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:14.773Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:14.773Z"
+}

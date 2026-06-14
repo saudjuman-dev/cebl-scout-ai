@@ -1,0 +1,54 @@
+{
+  "fullName": "CARLOS TABOADA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Taboada/580029",
+  "height": "7'1'",
+  "currentTeam": "Cantabria",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Obradoiro",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Surne Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:12:32.970Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:12:32.970Z"
+}

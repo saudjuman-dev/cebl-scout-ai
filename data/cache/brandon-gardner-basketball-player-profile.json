@@ -1,0 +1,30 @@
+{
+  "fullName": "BRANDON GARDNER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brandon-Gardner/559558",
+  "height": "6'8'",
+  "college": "University of Southern California",
+  "currentTeam": "Sacramento St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:03:46.069Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:03:46.069Z"
+}

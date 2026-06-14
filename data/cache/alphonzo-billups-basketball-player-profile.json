@@ -1,0 +1,39 @@
+{
+  "fullName": "ALPHONZO BILLUPS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Alphonzo-Billups/639372",
+  "height": "6'7'",
+  "currentTeam": "Longwood",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "VCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Longwood",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:55.372Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:55.372Z"
+}

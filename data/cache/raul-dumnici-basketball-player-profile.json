@@ -1,0 +1,35 @@
+{
+  "fullName": "RAUL DUMNICI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Raul-Dumnici/710760",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 RAUL DUMNICI basketball player profile Uniform",
+  "currentTeam": "Nuernberg",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Nuernberg",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nuernberg",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:57:11.005Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:57:11.005Z"
+}

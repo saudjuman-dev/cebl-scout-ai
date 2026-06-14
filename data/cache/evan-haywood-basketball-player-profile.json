@@ -1,0 +1,24 @@
+{
+  "fullName": "EVAN HAYWOOD basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Evan-Haywood/743876",
+  "height": "6'4'",
+  "currentTeam": "Butler",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Butler",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:53.127Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:53.127Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "DANIEL ALMARANTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Almarante/551556",
+  "height": "5'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16 DANIEL ALMARANTE basketball player profile Uniform No",
+  "currentTeam": "Bremerhaven",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "N.Essex CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "N.Essex CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "N.Essex CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:54:54.413Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:54:54.413Z"
+}

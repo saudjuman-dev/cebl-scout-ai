@@ -1,0 +1,44 @@
+{
+  "fullName": "ABDOURACHID TETCHUENG basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Abdourachid-Tetchueng/504509",
+  "height": "6'9'",
+  "currentTeam": "Fordham",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fordham",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:13:45.828Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:13:45.828Z"
+}

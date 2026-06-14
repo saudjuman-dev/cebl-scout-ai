@@ -1,0 +1,24 @@
+{
+  "fullName": "EFEOSA OLIOGU-ELABOR basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Efeosa-Oliogu-Elabor/618686",
+  "height": "6'6'",
+  "currentTeam": "Butler",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "City Reapers",
+      "league": "OTE"
+    },
+    {
+      "year": "25-26",
+      "team": "Butler",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:25.501Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:25.501Z"
+}

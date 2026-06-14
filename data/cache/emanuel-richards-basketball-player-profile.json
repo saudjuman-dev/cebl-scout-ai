@@ -1,0 +1,29 @@
+{
+  "fullName": "EMANUEL RICHARDS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Emanuel-Richards/706722",
+  "height": "6'4'",
+  "currentTeam": "Longwood",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Longwood",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:37.091Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:37.091Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "MARTIN SOMERVILLE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Martin-Somerville/744999",
+  "height": "6'3'",
+  "college": "University of Massachusetts",
+  "currentTeam": "FSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UMass Lowell",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:18.131Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:18.131Z"
+}

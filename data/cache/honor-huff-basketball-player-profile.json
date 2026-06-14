@@ -1,0 +1,35 @@
+{
+  "fullName": "HONOR HUFF basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Honor-Huff/611250",
+  "height": "5'10'",
+  "college": "University of Tennessee at Chattanooga",
+  "currentTeam": "WVU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "VMI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Chattanooga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Chattanooga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "WVU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:14.373Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:14.373Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "DARIUS JOHNSON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Darius-Johnson/564259",
+  "height": "6'1'",
+  "college": "University of Central Florida",
+  "currentTeam": "Derby",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Derby",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Derby",
+      "league": "MNT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:06:07.436Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:06:07.436Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "TEODOR REGORSEK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Teodor-Regorsek/658409",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 TEODOR REGORSEK basketball player profile Uniform",
+  "currentTeam": "Crailsheim",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Hopsi Polzela",
+      "league": "SLO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hopsi Polzela",
+      "league": "SLO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Helios Suns",
+      "league": "ADR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Helios Suns",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:56:33.399Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:56:33.399Z"
+}

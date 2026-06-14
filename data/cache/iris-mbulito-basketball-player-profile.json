@@ -1,0 +1,84 @@
+{
+  "fullName": "IRIS MBULITO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Iris-Mbulito/284492?Women=1",
+  "height": "6'0'",
+  "currentTeam": "AzulMarino",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Gran Canaria",
+      "league": "ESP-11"
+    },
+    {
+      "year": "14-15",
+      "team": "Gran Canaria",
+      "league": "ESP-11"
+    },
+    {
+      "year": "15-16",
+      "team": "Gran Canaria",
+      "league": "ESP-11"
+    },
+    {
+      "year": "16-17",
+      "team": "Gran Canaria",
+      "league": "ESP-11"
+    },
+    {
+      "year": "17-18",
+      "team": "Gran Canaria",
+      "league": "ESP-12"
+    },
+    {
+      "year": "18-19",
+      "team": "Arizona St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Arizona St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arizona St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "LIU Brooklyn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gran Canaria",
+      "league": "ESP-11"
+    },
+    {
+      "year": "23-24",
+      "team": "IDK Euskotren",
+      "league": "ESP-11"
+    },
+    {
+      "year": "24-25",
+      "team": "IDK Euskotren",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "24-25",
+      "team": "IDK Euskotren",
+      "league": "ESP-11"
+    },
+    {
+      "year": "25-26",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:16:14.263Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:16:14.263Z"
+}

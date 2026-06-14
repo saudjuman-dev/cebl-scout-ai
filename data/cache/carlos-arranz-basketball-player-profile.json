@@ -1,0 +1,18 @@
+{
+  "fullName": "CARLOS ARRANZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Arranz/810110",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Zamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:12:04.048Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:12:04.048Z"
+}

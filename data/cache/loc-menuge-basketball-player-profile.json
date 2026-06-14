@@ -1,0 +1,18 @@
+{
+  "fullName": "LOC MENUGE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Loc-Menuge/800481",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Palma Fibwi",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:13:12.566Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:13:12.566Z"
+}

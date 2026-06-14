@@ -1,0 +1,164 @@
+{
+  "fullName": "MACIEJ KUCHAREK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maciej-Kucharek/180240",
+  "height": "6'9'",
+  "currentTeam": "Lancut",
+  "careerHistory": [
+    {
+      "year": "09-10",
+      "team": "Rosay",
+      "league": "POL-2"
+    },
+    {
+      "year": "10-11",
+      "team": "Polonia 2011",
+      "league": "POL-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Rosay",
+      "league": "POL-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Wuerzburg 2",
+      "league": "POL-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Wuerzburg 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Start Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Stelmet",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Stelmet",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "13-14",
+      "team": "SKM ZG",
+      "league": "POL-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Stelmet",
+      "league": "POL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "SKM ZG",
+      "league": "POL-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Stelmet",
+      "league": "POL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Stelmet",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "16-17",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Koszalin",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Stal Ostrow 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Ksiezak",
+      "league": "POL-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Arged BM Stal",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arged BM Stal",
+      "league": "POL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Energa Kotwica",
+      "league": "POL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lancut",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T07:51:30.876Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T07:51:30.876Z"
+}

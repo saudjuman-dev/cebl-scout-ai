@@ -1,0 +1,40 @@
+{
+  "fullName": "BRENEN LORIENT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brenen-Lorient/609030",
+  "height": "6'9'",
+  "college": "University of North Texas",
+  "currentTeam": "WVU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "FAU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "WVU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:17:03.389Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:17:03.389Z"
+}

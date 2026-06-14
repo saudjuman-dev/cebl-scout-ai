@@ -1,0 +1,64 @@
+{
+  "fullName": "EJ DAMBREVILLE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/EJ-Dambreville/491188",
+  "height": "6'3'",
+  "currentTeam": "Nantes",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "FSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "FSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "FSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "FSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "FSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Naestved",
+      "league": "DEN-1"
+    },
+    {
+      "year": "2024",
+      "team": "Marineros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bakken",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bakken",
+      "league": "DEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nantes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-14T08:05:57.864Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-14T08:05:57.864Z"
+}
