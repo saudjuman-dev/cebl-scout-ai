@@ -1,0 +1,18 @@
+{
+  "fullName": "JAVIER GONZALEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javier-Gonzalez/752404",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:36.140Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:36.140Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "MATIJA SAMAR basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Matija-Samar/550991",
+  "height": "6'6'",
+  "college": "University of Missouri",
+  "currentTeam": "Oregon St.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Oregon St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:40:39.914Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:40:39.914Z"
+}

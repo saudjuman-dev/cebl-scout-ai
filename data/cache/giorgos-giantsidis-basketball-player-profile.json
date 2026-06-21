@@ -1,0 +1,18 @@
+{
+  "fullName": "GIORGOS GIANTSIDIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giorgos-Giantsidis/834980",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:13.395Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:13.395Z"
+}

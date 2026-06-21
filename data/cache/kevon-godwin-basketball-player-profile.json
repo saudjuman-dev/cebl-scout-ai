@@ -1,0 +1,54 @@
+{
+  "fullName": "KEVON GODWIN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kevon-Godwin/498194",
+  "height": "6'2'",
+  "currentTeam": "Arantia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Gulf Coast CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Gulf Coast CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Angelo St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Angelo St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Angelo St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Angelo St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Arantia",
+      "league": "LUX-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:40:16.287Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:40:16.287Z"
+}

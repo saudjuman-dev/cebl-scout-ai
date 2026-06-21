@@ -1,0 +1,25 @@
+{
+  "fullName": "KEMY LAGAB basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kemy-Lagab/714215",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 KEMY LAGAB basketball player profile Uniform",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:50:32.947Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:50:32.947Z"
+}

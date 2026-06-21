@@ -1,0 +1,50 @@
+{
+  "fullName": "ZHANG ZHIYAO basketball player profile",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Zhang-Zhiyao/416002",
+  "height": "6'10'",
+  "college": "University Games",
+  "currentTeam": "Beijing D.",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Shanghai",
+      "league": "CHN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Shanghai",
+      "league": "CHN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Beijing D.",
+      "league": "CHN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:38:49.392Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:38:49.392Z"
+}

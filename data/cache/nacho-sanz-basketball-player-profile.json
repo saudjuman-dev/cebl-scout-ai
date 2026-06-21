@@ -1,0 +1,24 @@
+{
+  "fullName": "NACHO SANZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nacho-Sanz/710867",
+  "height": "6'4'",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:12.093Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:12.093Z"
+}

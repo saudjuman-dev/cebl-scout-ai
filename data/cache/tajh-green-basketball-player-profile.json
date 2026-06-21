@@ -1,0 +1,104 @@
+{
+  "fullName": "TAJH GREEN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tajh-Green/416088",
+  "height": "6'8'",
+  "currentTeam": "Brampton",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "SMC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "SMC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Benedict",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Benedict",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Benedict",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Benedict",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Manch.G.",
+      "league": "ENG-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Manch.G.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*HBC Utd",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Newcastle",
+      "league": "ENG-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Newcastle",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Newcastle",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "AlKo-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Balkan",
+      "league": "BUL-1"
+    },
+    {
+      "year": "2026",
+      "team": "Brampton",
+      "league": "CEBL"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:44:45.379Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:44:45.379Z"
+}

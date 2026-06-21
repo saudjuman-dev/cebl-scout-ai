@@ -1,0 +1,39 @@
+{
+  "fullName": "IASON BINIS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Iason-Binis/705858",
+  "height": "7'0'",
+  "currentTeam": "Coker",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Coker",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:29.445Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:29.445Z"
+}

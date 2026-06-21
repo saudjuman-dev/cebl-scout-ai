@@ -1,6 +1,6 @@
 {
   "fullName": "AMAIQUEN SICILIANO basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Amaiquen-Siciliano/366125&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Amaiquen-Siciliano/366125?Women=1",
   "height": "5'7'",
   "college": "University National Team",
   "currentTeam": "Argentina",
@@ -66,10 +66,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:15:47.579Z",
+  "_lastVerified": "2026-06-21T09:35:14.050Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:15:47.579Z"
+  "cachedAt": "2026-06-21T09:35:14.050Z"
 }

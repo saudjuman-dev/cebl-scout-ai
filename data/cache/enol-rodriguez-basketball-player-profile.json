@@ -1,0 +1,18 @@
+{
+  "fullName": "ENOL RODRIGUEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Enol-Rodriguez/768225",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:51:45.981Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:51:45.981Z"
+}

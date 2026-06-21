@@ -1,0 +1,39 @@
+{
+  "fullName": "EVANGELOS BOUSMPOURAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Evangelos-Bousmpouras/763984",
+  "height": "6'2'",
+  "currentTeam": "Megaridas",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Megaridas",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:40.084Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:40.084Z"
+}

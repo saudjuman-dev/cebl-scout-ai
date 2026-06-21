@@ -1,0 +1,44 @@
+{
+  "fullName": "BENCAO VUNGO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Bencao-Vungo/660051",
+  "height": "6'6'",
+  "currentTeam": "Jax State",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "ECU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:27:52.861Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:27:52.861Z"
+}

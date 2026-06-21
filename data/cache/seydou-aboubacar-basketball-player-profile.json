@@ -1,0 +1,104 @@
+{
+  "fullName": "SEYDOU ABOUBACAR basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Seydou-Aboubacar/254904",
+  "height": "6'10'",
+  "currentTeam": "Talavera",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Pas Pielagos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Dominion BLB",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Dominion BLB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Estudiantes Lugo Leyma Natura",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Plasencia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Carramimbre",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Carramimbre",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Leche Rio BL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ourense",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Talavera",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:48:02.595Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:48:02.595Z"
+}

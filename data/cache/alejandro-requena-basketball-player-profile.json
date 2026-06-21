@@ -1,0 +1,64 @@
+{
+  "fullName": "ALEJANDRO REQUENA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Requena/466227",
+  "height": "6'3'",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Aldaia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:42:30.902Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:42:30.902Z"
+}

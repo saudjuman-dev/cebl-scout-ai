@@ -1,0 +1,54 @@
+{
+  "fullName": "NOAH BOLANGA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Noah-Bolanga/533248",
+  "height": "6'8'",
+  "currentTeam": "Utah Tech",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Orleans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Orleans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Orleans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Orleans",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:31.867Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:31.867Z"
+}

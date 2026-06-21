@@ -1,0 +1,50 @@
+{
+  "fullName": "KARL CHAVIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Karl-Chavis/587665",
+  "height": "6'6'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 KARL CHAVIS basketball player profile Uniform No",
+  "currentTeam": "Nyon",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Young Harris",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Young Harris",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Nyon",
+      "league": "SUI-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T10:02:35.615Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T10:02:35.615Z"
+}

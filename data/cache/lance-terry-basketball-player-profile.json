@@ -1,6 +1,6 @@
 {
   "fullName": "LANCE TERRY basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Lance-Terry/518858",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lance-Terry/518858",
   "height": "6'3'",
   "college": "College Park",
   "currentTeam": "Gipuzkoa",
@@ -56,10 +56,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-14T08:11:18.944Z",
+  "_lastVerified": "2026-06-21T09:27:33.999Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:11:18.944Z"
+  "cachedAt": "2026-06-21T09:27:33.999Z"
 }

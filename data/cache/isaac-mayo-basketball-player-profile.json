@@ -1,0 +1,74 @@
+{
+  "fullName": "ISAAC MAYO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaac-Mayo/485136",
+  "height": "6'5'",
+  "currentTeam": "Cornella",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "L'Hospitalet",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "L'Hospitalet",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Castelldefels",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Cornella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Cornella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Cornella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Cornella",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:41:27.098Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:41:27.098Z"
+}

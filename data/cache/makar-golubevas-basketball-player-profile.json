@@ -1,0 +1,18 @@
+{
+  "fullName": "MAKAR GOLUBEVAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Makar-Golubevas/784057",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:53:11.881Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:53:11.881Z"
+}

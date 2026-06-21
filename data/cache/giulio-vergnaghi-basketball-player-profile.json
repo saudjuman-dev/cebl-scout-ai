@@ -1,0 +1,40 @@
+{
+  "fullName": "GIULIO VERGNAGHI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giulio-Vergnaghi/713424",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GIULIO VERGNAGHI basketball player profile Uniform",
+  "currentTeam": "Trento",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Cuneo",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Trento",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Trento",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trento",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:19:34.179Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:19:34.179Z"
+}

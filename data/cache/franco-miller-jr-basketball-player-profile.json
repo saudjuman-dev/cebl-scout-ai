@@ -1,0 +1,55 @@
+{
+  "fullName": "FRANCO MILLER JR. basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Franco-Miller-Jr/476603",
+  "height": "6'3'",
+  "college": "University of Mississippi",
+  "currentTeam": "Bahamas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "FGCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "FGCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "FGCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "FGCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "FGCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:31:01.238Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:31:01.238Z"
+}

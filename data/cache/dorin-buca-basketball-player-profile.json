@@ -1,0 +1,30 @@
+{
+  "fullName": "DORIN BUCA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dorin-Buca/545263",
+  "height": "7'2'",
+  "college": "University of Kansas State",
+  "currentTeam": "Kansas St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Akern Libertas",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Akern Libertas",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:13.788Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:13.788Z"
+}

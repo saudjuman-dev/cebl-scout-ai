@@ -1,0 +1,70 @@
+{
+  "fullName": "MARVIN HECKEL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marvin-Heckel/297122",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MARVIN HECKEL basketball player profile Uniform",
+  "currentTeam": "Tuebingen",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Leverkusen",
+      "league": "GER-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Wuerzburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Leverkusen",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Baunach",
+      "league": "GER-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Baunach",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Koblenz",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Koblenz",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:51:27.818Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:51:27.818Z"
+}

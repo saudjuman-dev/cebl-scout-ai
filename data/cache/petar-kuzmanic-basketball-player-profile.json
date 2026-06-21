@@ -1,0 +1,45 @@
+{
+  "fullName": "PETAR KUZMANIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Petar-Kuzmanic/640943",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 PETAR KUZMANIC basketball player profile Uniform",
+  "currentTeam": "Verona",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bassano",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bassano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bassano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Umana Reyer Venice U",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cremona",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Verona",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:02:34.949Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:02:34.949Z"
+}

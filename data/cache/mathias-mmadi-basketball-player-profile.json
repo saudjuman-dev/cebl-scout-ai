@@ -1,0 +1,29 @@
+{
+  "fullName": "MATHIAS M'MADI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mathias-MMadi/660087",
+  "height": "6'5'",
+  "currentTeam": "Orchies",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Seward County",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Moron",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orchies",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:41:42.517Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:41:42.517Z"
+}

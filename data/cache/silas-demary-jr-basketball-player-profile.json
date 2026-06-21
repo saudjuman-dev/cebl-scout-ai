@@ -1,0 +1,30 @@
+{
+  "fullName": "SILAS DEMARY JR. basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Silas-Demary-Jr/559147",
+  "height": "6'5'",
+  "college": "University of Georgia",
+  "currentTeam": "UConn",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UConn",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:53.250Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:53.250Z"
+}

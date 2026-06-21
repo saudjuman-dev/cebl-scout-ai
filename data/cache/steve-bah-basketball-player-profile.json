@@ -1,0 +1,29 @@
+{
+  "fullName": "STEVE BAH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Steve-Bah/708471",
+  "height": "6'0'",
+  "currentTeam": "Aix-Maurienne",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Levallois U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:01:20.219Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:01:20.219Z"
+}

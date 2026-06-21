@@ -1,0 +1,75 @@
+{
+  "fullName": "MATTEO POLLONE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Pollone/403914",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MATTEO POLLONE basketball player profile Uniform",
+  "currentTeam": "Bergamo",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Angelico Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Eurotrend Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Eurotrend Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Gruppo Mascio",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Akern Libertas",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Sebastiani Rieti",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bergamo",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orlandina",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:15:26.488Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:15:26.488Z"
+}

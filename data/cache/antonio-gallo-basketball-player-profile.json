@@ -1,0 +1,60 @@
+{
+  "fullName": "ANTONIO GALLO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antonio-Gallo/450576",
+  "height": "6'0'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ANTONIO GALLO basketball player profile Uniform",
+  "currentTeam": "Latina",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Napoli",
+      "league": "ITA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Scauri",
+      "league": "ITA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Salerno",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Salerno",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pozzuoli",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Matelica",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Sant Antimo",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Reale Mutua TO",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Latina",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:10:38.135Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:10:38.135Z"
+}

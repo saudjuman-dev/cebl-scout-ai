@@ -1,0 +1,25 @@
+{
+  "fullName": "DANIEL FREITAG basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Daniel-Freitag/747021",
+  "height": "6'2'",
+  "college": "University of Wisconsin",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:26.226Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:26.226Z"
+}

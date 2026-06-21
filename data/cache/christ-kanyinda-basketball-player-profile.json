@@ -1,0 +1,38 @@
+{
+  "fullName": "CHRIST KANYINDA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christ-Kanyinda/610863",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Canarias",
+      "league": "ESP-5"
+    },
+    {
+      "year": "2023",
+      "team": "Canarias",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Nautico Ten.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:25:45.398Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:25:45.398Z"
+}

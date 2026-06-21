@@ -1,0 +1,80 @@
+{
+  "fullName": "DENNIS TUNSTALL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dennis-Tunstall/366682",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 DENNIS TUNSTALL basketball player profile Uniform No",
+  "currentTeam": "Karlsruhe PS",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Towson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Towson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Towson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Towson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Amicale",
+      "league": "LUX-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zlatorog",
+      "league": "SLO-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Helios Suns",
+      "league": "ADR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Helios Suns",
+      "league": "ADR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Helios Suns",
+      "league": "SLO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Karlsruhe PS",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Karlsruhe PS",
+      "league": "GER-20"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:43:54.041Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:43:54.041Z"
+}

@@ -1,0 +1,18 @@
+{
+  "fullName": "RODRIGO GONZALEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rodrigo-Gonzalez/783446",
+  "currentTeam": "Ourense",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Ourense",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:28:35.890Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:28:35.890Z"
+}

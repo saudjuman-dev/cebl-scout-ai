@@ -1,0 +1,70 @@
+{
+  "fullName": "TINE KOTNIK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tine-Kotnik/410541",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 TINE KOTNIK basketball player profile Uniform",
+  "currentTeam": "Paderborn",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Celje",
+      "league": "SLO-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Celje",
+      "league": "SLO-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Celje",
+      "league": "SLO-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Celje",
+      "league": "SLO-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Boulazac U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Boulazac U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Recklinghausen",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Rogaska",
+      "league": "SLO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:54:12.447Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:54:12.447Z"
+}

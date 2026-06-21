@@ -1,0 +1,89 @@
+{
+  "fullName": "NICK MARSHALL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nick-Marshall/488859",
+  "height": "6'6'",
+  "currentTeam": "W.Adelaide B.",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Clarke",
+      "league": "NAIA"
+    },
+    {
+      "year": "19-20",
+      "team": "Clarke",
+      "league": "NAIA"
+    },
+    {
+      "year": "19-20",
+      "team": "Clarke",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2021",
+      "team": "Mt.Gambier",
+      "league": "AUS-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Adelaide 36ers",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2022",
+      "team": "Mt.Gambier",
+      "league": "AUS-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Adelaide 36ers",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2023",
+      "team": "Mt.Gambier",
+      "league": "AUS-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Adelaide 36ers",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2024",
+      "team": "Mt.Gambier",
+      "league": "AUS-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Adelaide 36ers",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2025",
+      "team": "Wellington",
+      "league": "NZL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tasmania JJ",
+      "league": "AUS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Napoli",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "W.Adelaide B.",
+      "league": "AUS-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:21:38.329Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:21:38.329Z"
+}

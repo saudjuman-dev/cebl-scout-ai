@@ -1,0 +1,29 @@
+{
+  "fullName": "CHEIKH TIDIANE DIOP basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cheikh-Tidiane-Diop/480298",
+  "height": "6'8'",
+  "currentTeam": "Barbastro",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "El Ventero",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Barbastro",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:04.089Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:04.089Z"
+}

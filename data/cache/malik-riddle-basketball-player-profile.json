@@ -1,0 +1,55 @@
+{
+  "fullName": "MALIK RIDDLE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Malik-Riddle/481479",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MALIK RIDDLE basketball player profile Uniform",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "HSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Athleta",
+      "league": "MLT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:50:24.348Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:50:24.348Z"
+}

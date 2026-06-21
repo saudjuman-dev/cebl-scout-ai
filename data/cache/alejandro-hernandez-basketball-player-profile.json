@@ -1,0 +1,109 @@
+{
+  "fullName": "ALEJANDRO HERNANDEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Hernandez/108708",
+  "height": "6'3'",
+  "currentTeam": "Coruna",
+  "careerHistory": [
+    {
+      "year": "07-08",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Cornella",
+      "league": "ESP-2"
+    },
+    {
+      "year": "10-11",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Dzukija Alytus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Stelmet",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Dzukija Alytus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Stelmet",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Iberostar Palma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Travelbrand",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Murcia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Coruna",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:23:17.566Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:23:17.566Z"
+}

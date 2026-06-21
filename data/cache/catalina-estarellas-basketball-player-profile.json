@@ -1,6 +1,6 @@
 {
   "fullName": "CATALINA ESTARELLAS basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Catalina-Estarellas/750565&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Catalina-Estarellas/750565?Women=1&Women=1",
   "currentTeam": "AzulMarino",
   "careerHistory": [
     {
@@ -14,10 +14,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:16:08.092Z",
+  "_lastVerified": "2026-06-21T09:35:11.334Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:16:08.092Z"
+  "cachedAt": "2026-06-21T09:35:11.334Z"
 }

@@ -1,0 +1,30 @@
+{
+  "fullName": "JAYLEN CURRY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jaylen-Curry/559306",
+  "height": "6'1'",
+  "college": "University of Massachusetts",
+  "currentTeam": "OK State",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UMass",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UMass",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "OK State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:27:47.675Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:27:47.675Z"
+}

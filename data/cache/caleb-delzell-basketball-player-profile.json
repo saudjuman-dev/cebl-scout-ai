@@ -1,0 +1,49 @@
+{
+  "fullName": "CALEB DELZELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Caleb-Delzell/595759",
+  "height": "6'9'",
+  "currentTeam": "S.Dakota St.",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "S.Dakota St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "S.Dakota St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:56:58.579Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:56:58.579Z"
+}

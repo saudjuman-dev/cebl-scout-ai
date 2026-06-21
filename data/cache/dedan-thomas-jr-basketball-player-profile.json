@@ -1,0 +1,30 @@
+{
+  "fullName": "DEDAN THOMAS JR. basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dedan-Thomas-Jr/706838",
+  "height": "6'1'",
+  "college": "University of Nevada",
+  "currentTeam": "LSU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "LSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:24:09.112Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:24:09.112Z"
+}

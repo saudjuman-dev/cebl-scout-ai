@@ -1,0 +1,18 @@
+{
+  "fullName": "ALAN BURKE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alan-Burke/834022",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:55:07.660Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:55:07.660Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "SIMEON LEPICHEV basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Simeon-Lepichev/227772",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 SIMEON LEPICHEV basketball player profile Uniform",
+  "currentTeam": "Piazza Armer.",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Kankakee CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Kankakee CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Dragons",
+      "league": "ASEAN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Les Sables",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Chernomorets",
+      "league": "BUL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Spartak P",
+      "league": "BUL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spartak P",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Piazza Armer.",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:27:51.870Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:27:51.870Z"
+}

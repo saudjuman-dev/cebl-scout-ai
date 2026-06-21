@@ -1,0 +1,70 @@
+{
+  "fullName": "JACOB GRANDISON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jacob-Grandison/447521",
+  "height": "6'6'",
+  "college": "College of the Holy Cross",
+  "currentTeam": "Boulazac",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Holy Cross",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Holy Cross",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Illinois",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "PAOK Mateco",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "PAOK Mateco",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:17:56.428Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:17:56.428Z"
+}

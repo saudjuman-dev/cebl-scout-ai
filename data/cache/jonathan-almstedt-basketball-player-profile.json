@@ -1,0 +1,55 @@
+{
+  "fullName": "JONATHAN ALMSTEDT basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Almstedt/480753",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JONATHAN ALMSTEDT basketball player profile Uniform",
+  "currentTeam": "ETB Miners",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Saarlouis",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Saarlouis",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Trier",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Trier",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Trier",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "ETB Miners",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:57:54.669Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:57:54.669Z"
+}

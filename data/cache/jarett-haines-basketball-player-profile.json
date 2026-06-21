@@ -1,0 +1,45 @@
+{
+  "fullName": "JARETT HAINES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jarett-Haines/463623",
+  "height": "5'11'",
+  "college": "University of Galway",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Genesee CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Wheeling",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Wheeling",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Wheeling",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wheeling",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2024",
+      "team": "Z*WV Grind",
+      "league": "TBL"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:55:23.767Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:55:23.767Z"
+}

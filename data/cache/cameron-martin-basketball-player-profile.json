@@ -1,0 +1,70 @@
+{
+  "fullName": "CAMERON MARTIN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cameron-Martin/430471",
+  "height": "6'9'",
+  "college": "University of Kansas",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "MSSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "MSSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "MSSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kansas",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Kansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Motor City C.",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Purple Reign",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Wisconsin H.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:25:22.806Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:25:22.806Z"
+}

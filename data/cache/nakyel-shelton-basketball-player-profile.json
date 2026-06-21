@@ -1,0 +1,44 @@
+{
+  "fullName": "NAKYEL SHELTON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nakyel-Shelton/590296",
+  "height": "6'3'",
+  "currentTeam": "LMU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "MSU-Northern",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Cardinal Stritch",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "S.Suburban JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "EIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "EIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "LMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:05.347Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:05.347Z"
+}

@@ -1,6 +1,6 @@
 {
   "fullName": "JANE ASINDE basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jane-Asinde/474497&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jane-Asinde/474497?Women=1&Women=1",
   "height": "6'2'",
   "college": "University of Texas at El Paso",
   "currentTeam": "AzulMarino",
@@ -51,10 +51,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:15:41.239Z",
+  "_lastVerified": "2026-06-21T09:34:36.794Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:15:41.239Z"
+  "cachedAt": "2026-06-21T09:34:36.794Z"
 }

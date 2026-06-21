@@ -1,0 +1,60 @@
+{
+  "fullName": "TIM LANG basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tim-Lang/356031",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 TIM LANG basketball player profile Uniform",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Eagles BA",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Bochum",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Bochum",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Bergische Loewen",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:50:38.426Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:50:38.426Z"
+}

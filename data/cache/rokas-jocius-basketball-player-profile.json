@@ -1,0 +1,70 @@
+{
+  "fullName": "ROKAS JOCIUS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Rokas-Jocius/505356",
+  "height": "6'10'",
+  "college": "University of Central Florida",
+  "currentTeam": "LMU",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Zalgiris",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zalgiris III",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Perlas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris II",
+      "league": "LTU-6"
+    },
+    {
+      "year": "20-21",
+      "team": "Rytas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Perlas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Rytas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "La Salle",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "La Salle",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "LMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:18:52.936Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:18:52.936Z"
+}

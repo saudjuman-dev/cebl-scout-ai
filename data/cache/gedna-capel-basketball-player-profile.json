@@ -1,6 +1,6 @@
 {
   "fullName": "GEDNA CAPEL basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Gedna-Capel/530786&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gedna-Capel/530786?Women=1&Women=1",
   "height": "6'1'",
   "currentTeam": "AzulMarino",
   "careerHistory": [
@@ -40,10 +40,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:15:28.185Z",
+  "_lastVerified": "2026-06-21T09:34:52.735Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:15:28.185Z"
+  "cachedAt": "2026-06-21T09:34:52.735Z"
 }

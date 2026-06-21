@@ -1,0 +1,45 @@
+{
+  "fullName": "MAME DEME basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mame-Deme/783907",
+  "height": "7'0'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MAME DEME basketball player profile Uniform",
+  "currentTeam": "Reggio Emilia",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Unahotels RE",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Reggio Emilia",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:21:06.264Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:21:06.264Z"
+}

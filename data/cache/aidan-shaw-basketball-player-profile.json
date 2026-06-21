@@ -1,0 +1,35 @@
+{
+  "fullName": "AIDAN SHAW basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aidan-Shaw/562187",
+  "height": "6'9'",
+  "college": "University of Missouri",
+  "currentTeam": "Boston Coll.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:26:18.047Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:26:18.047Z"
+}

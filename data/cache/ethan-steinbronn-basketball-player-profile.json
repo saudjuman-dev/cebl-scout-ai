@@ -1,0 +1,34 @@
+{
+  "fullName": "ETHAN STEINBRONN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ethan-Steinbronn/377416",
+  "height": "6'11'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Pitt St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:57:12.403Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:57:12.403Z"
+}

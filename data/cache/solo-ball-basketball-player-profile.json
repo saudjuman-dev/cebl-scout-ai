@@ -1,0 +1,30 @@
+{
+  "fullName": "SOLO BALL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Solo-Ball/682746",
+  "height": "6'4'",
+  "college": "University of Connecticut",
+  "currentTeam": "UConn",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UConn",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:50.104Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:50.104Z"
+}

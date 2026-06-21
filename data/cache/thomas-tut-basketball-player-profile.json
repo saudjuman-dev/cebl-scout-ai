@@ -1,0 +1,44 @@
+{
+  "fullName": "THOMAS TUT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Thomas-Tut/673237",
+  "height": "6'10'",
+  "currentTeam": "Jax State",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "St.Peter's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Garden City",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:14.512Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:14.512Z"
+}

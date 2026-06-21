@@ -1,0 +1,39 @@
+{
+  "fullName": "RYAN MYERS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ryan-Myers/501004",
+  "height": "6'1'",
+  "currentTeam": "WKU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "W.Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "W.Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "WKU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:31.144Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:31.144Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "TYLER JOHNSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tyler-Johnson/707472",
+  "height": "6'5'",
+  "currentTeam": "Virginia Tech",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:27:18.442Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:27:18.442Z"
+}

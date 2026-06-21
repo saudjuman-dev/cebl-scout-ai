@@ -1,0 +1,59 @@
+{
+  "fullName": "ILJA KURUCS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ilja-Kurucs/670579",
+  "height": "6'9'",
+  "currentTeam": "Kalev/Cramo",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "BS Riga",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "23-24",
+      "team": "GBA Acad.",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "23-24",
+      "team": "GBA Lions",
+      "league": "CZE-3"
+    },
+    {
+      "year": "23-24",
+      "team": "NGT Dubai",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Liepaja",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kalev/Cramo",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kalev/Cramo",
+      "league": "EST-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:40:15.286Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:40:15.286Z"
+}

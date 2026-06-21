@@ -1,0 +1,35 @@
+{
+  "fullName": "NELSON OKAFOR basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nelson-Okafor/531602",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NELSON OKAFOR basketball player profile Uniform",
+  "currentTeam": "Fellbach",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Ludwigsburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fellbach",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:48:22.462Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:48:22.462Z"
+}

@@ -1,0 +1,65 @@
+{
+  "fullName": "SARDAAR CALHOUN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sardaar-Calhoun/421841",
+  "height": "6'6'",
+  "college": "University West Plains",
+  "currentTeam": "Breidablik",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "MSU-W.Plains",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "MSU-W.Plains",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "FSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Drake",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Drake",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "TFT",
+      "league": "ADR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "TFT",
+      "league": "MKD-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Breidablik",
+      "league": "ISL-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:48:10.194Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:48:10.194Z"
+}

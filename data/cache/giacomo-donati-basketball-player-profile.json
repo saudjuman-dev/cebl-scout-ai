@@ -1,0 +1,35 @@
+{
+  "fullName": "GIACOMO DONATI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giacomo-Donati/708017",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GIACOMO DONATI basketball player profile Uniform",
+  "currentTeam": "Avellino",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Virtus BO",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Virtus Segafredo Bol",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Virtus BO",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Avellino",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:07:24.704Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:07:24.704Z"
+}

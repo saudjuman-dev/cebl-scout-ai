@@ -1,0 +1,35 @@
+{
+  "fullName": "MIKHAIL POCKNETT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Mikhail-Pocknett/719087",
+  "height": "6'6'",
+  "college": "University of Buffalo",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "King",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "King",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "King",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:41.929Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:41.929Z"
+}

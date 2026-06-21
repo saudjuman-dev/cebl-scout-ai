@@ -1,0 +1,19 @@
+{
+  "fullName": "COOPER SMITH basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cooper-Smith/792751",
+  "height": "6'2'",
+  "currentTeam": "LMU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "LMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:14.126Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:14.126Z"
+}

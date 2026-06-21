@@ -1,0 +1,79 @@
+{
+  "fullName": "KHADIM FALL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Khadim-Fall/464834",
+  "height": "6'9'",
+  "currentTeam": "Culleredo",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Adepla",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Caceres",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Nissan GSant.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Betanzos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Almeria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Marin",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Badajoz",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Tormes",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gandia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Pas Pielagos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Culleredo",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:42:55.003Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:42:55.003Z"
+}

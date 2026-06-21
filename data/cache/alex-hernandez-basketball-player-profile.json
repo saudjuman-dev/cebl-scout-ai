@@ -1,0 +1,44 @@
+{
+  "fullName": "ALEX HERNANDEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alex-Hernandez/298324",
+  "height": "6'3'",
+  "currentTeam": "Estela",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Sabadell Basq.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "Sabadell Basq.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Martorell",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Cantabria",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:23:20.087Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:23:20.087Z"
+}

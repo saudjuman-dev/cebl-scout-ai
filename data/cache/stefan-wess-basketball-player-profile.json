@@ -1,0 +1,75 @@
+{
+  "fullName": "STEFAN WESS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stefan-Wess/229502",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16 STEFAN WESS basketball player profile Uniform No",
+  "currentTeam": "Muenster",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Oldenburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Oldenburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Oldenburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Chemnitz",
+      "league": "GER-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Muenster",
+      "league": "GER-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Muenster",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Muenster",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Muenster",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Muenster",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "WWU Baskets Muenster",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "WWU Baskets Muenster",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Muenster",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:55:26.736Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:55:26.736Z"
+}

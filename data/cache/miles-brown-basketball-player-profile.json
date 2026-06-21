@@ -1,0 +1,50 @@
+{
+  "fullName": "MILES BROWN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Miles-Brown/500630",
+  "height": "6'1'",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Court Street Kings",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Feniks 2010",
+      "league": "MKD-1"
+    },
+    {
+      "year": "2025",
+      "team": "Court Street Kings",
+      "league": "TBT"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:55:36.290Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:55:36.290Z"
+}

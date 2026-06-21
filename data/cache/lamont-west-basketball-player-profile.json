@@ -1,0 +1,90 @@
+{
+  "fullName": "LAMONT WEST basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lamont-West/366530",
+  "height": "6'8'",
+  "college": "College Park SHG League7375",
+  "currentTeam": "Cherno More",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "WVU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "WVU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "WVU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "WVU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Missouri St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "Titanes",
+      "league": "DOM-1"
+    },
+    {
+      "year": "21-22",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Spars Realway",
+      "league": "ADR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Spars Realway",
+      "league": "BIH-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Helios Suns",
+      "league": "ADR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Helios Suns",
+      "league": "SLO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cherno More",
+      "league": "BUL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:44:52.736Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:44:52.736Z"
+}

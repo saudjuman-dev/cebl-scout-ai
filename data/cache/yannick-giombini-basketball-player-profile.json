@@ -1,0 +1,55 @@
+{
+  "fullName": "YANNICK GIOMBINI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yannick-Giombini/481703",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 YANNICK GIOMBINI basketball player profile Uniform",
+  "currentTeam": "Fabo Herons",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Casale MONF",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Fabriano",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Juvi Cremona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Latina",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Fabo Herons",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:09:09.684Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:09:09.684Z"
+}

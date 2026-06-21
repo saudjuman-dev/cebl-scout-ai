@@ -1,0 +1,94 @@
+{
+  "fullName": "ALBERT HOMS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Albert-Homs/187017",
+  "height": "6'7'",
+  "currentTeam": "Mataro UE",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Joventut BDL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "11-12",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "12-13",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Marin",
+      "league": "ESP-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Rio Natura Mo.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "15-16",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Marin",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Martorell",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "UE Mataro",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:46:57.543Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:46:57.543Z"
+}

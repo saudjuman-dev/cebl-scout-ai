@@ -1,0 +1,18 @@
+{
+  "fullName": "SOFIA DA SILVA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sofia-da-Silva/747825?Women=1",
+  "currentTeam": "AzulMarino",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:35:30.885Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:35:30.885Z"
+}

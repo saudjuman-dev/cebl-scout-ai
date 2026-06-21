@@ -1,0 +1,39 @@
+{
+  "fullName": "DANIEL SANZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Sanz/517548",
+  "height": "6'1'",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Azulejos M.",
+      "league": "ESP-5"
+    },
+    {
+      "year": "20-21",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:09.347Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:09.347Z"
+}

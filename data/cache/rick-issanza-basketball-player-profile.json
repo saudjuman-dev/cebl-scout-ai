@@ -1,0 +1,50 @@
+{
+  "fullName": "RICK ISSANZA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Rick-Issanza/500229",
+  "height": "7'1'",
+  "college": "College Preparatory School 2019",
+  "currentTeam": "LMU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Oklahoma",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Oklahoma",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oklahoma",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "LMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:18:56.144Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:18:56.144Z"
+}

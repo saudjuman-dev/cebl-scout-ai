@@ -1,0 +1,45 @@
+{
+  "fullName": "NICOLO ISOTTA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicolo-Isotta/479290",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 NICOLO ISOTTA basketball player profile Uniform",
+  "currentTeam": "Livorno Libertas",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Basket 2014 BE",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Basket 2014 BE",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Cividale",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ruvo di Puglia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Livorno Libertas",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Montecatini",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:12:55.974Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:12:55.974Z"
+}

@@ -1,0 +1,18 @@
+{
+  "fullName": "A MURGUI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/A-Murgui/770109",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:43.837Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:43.837Z"
+}

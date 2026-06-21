@@ -1,0 +1,49 @@
+{
+  "fullName": "XABIER LOPEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Xabier-Lopez/664250",
+  "height": "6'6'",
+  "currentTeam": "Tenerife",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Alicante",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "CAM E.Soler 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Canarias U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Tenerife",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:46:13.624Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:46:13.624Z"
+}

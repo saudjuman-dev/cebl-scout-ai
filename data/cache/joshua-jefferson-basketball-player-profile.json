@@ -1,0 +1,40 @@
+{
+  "fullName": "JOSHUA JEFFERSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Joshua-Jefferson/560856",
+  "height": "6'9'",
+  "college": "College of California",
+  "currentTeam": "Iowa St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "SMC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:18:37.693Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:18:37.693Z"
+}

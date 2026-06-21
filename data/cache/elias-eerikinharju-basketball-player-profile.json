@@ -1,0 +1,80 @@
+{
+  "fullName": "ELIAS EERIKINHARJU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elias-Eerikinharju/237865",
+  "height": "6'2'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 ELIAS EERIKINHARJU basketball player profile Uniform",
+  "currentTeam": "Honka",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "HBA-Marsky",
+      "league": "FIN-2"
+    },
+    {
+      "year": "12-13",
+      "team": "Torpan Pojat",
+      "league": "FIN-2"
+    },
+    {
+      "year": "13-14",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Jarvenpaa",
+      "league": "FIN-2"
+    },
+    {
+      "year": "15-16",
+      "team": "FoKoPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Santa Fe CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Santa Fe CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "ToPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Korihait",
+      "league": "FIN-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Honka",
+      "league": "FIN-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Honka",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T10:03:27.854Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T10:03:27.854Z"
+}

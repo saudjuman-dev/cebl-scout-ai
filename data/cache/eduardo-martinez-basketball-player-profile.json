@@ -1,0 +1,74 @@
+{
+  "fullName": "EDUARDO MARTINEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eduardo-Martinez/407281",
+  "height": "6'4'",
+  "currentTeam": "Real Canoe",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Alcobendas",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:06.934Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:06.934Z"
+}

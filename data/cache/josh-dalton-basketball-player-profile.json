@@ -1,0 +1,19 @@
+{
+  "fullName": "JOSH DALTON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Josh-Dalton/792750",
+  "height": "6'10'",
+  "currentTeam": "LMU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "LMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:11.200Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:11.200Z"
+}

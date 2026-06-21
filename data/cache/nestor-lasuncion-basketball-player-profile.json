@@ -1,0 +1,49 @@
+{
+  "fullName": "NESTOR LASUNCION basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nestor-Lasuncion/404973",
+  "height": "6'0'",
+  "currentTeam": "Real Canoe",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Fyllingen",
+      "league": "NOR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Barbera",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Badalones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Daimiel",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Daimiel",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:56.270Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:56.270Z"
+}

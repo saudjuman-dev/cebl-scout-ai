@@ -1,0 +1,19 @@
+{
+  "fullName": "NACHO ARRIBAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nacho-Arribas/707039",
+  "height": "6'1'",
+  "currentTeam": "Alcala",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Alcala",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:43:25.157Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:43:25.157Z"
+}

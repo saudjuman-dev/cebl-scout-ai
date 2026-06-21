@@ -1,0 +1,29 @@
+{
+  "fullName": "LJ HACKMAN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/LJ-Hackman/738009",
+  "height": "6'3'",
+  "currentTeam": "WKU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Jones JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Jones JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "WKU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:28.119Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:28.119Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "MARIO MACHETTI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mario-Machetti/774421",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MARIO MACHETTI basketball player profile Height",
+  "currentTeam": "Trento",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "ITA-7"
+    },
+    {
+      "year": "24-25",
+      "team": "Dolomiti Energia Tre",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trento",
+      "league": "ITA-7"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:19:39.126Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:19:39.126Z"
+}

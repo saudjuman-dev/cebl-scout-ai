@@ -1,0 +1,55 @@
+{
+  "fullName": "MATTEO ACCORSI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Accorsi/705938",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MATTEO ACCORSI basketball player profile Uniform",
+  "currentTeam": "Virtus BO",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Virtus BO",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Virtus Segafredo Bol",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Virtus Segafredo",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Virtus BO",
+      "league": "ITA-7"
+    },
+    {
+      "year": "24-25",
+      "team": "Virtus Segafredo Bol",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bologna",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Virtus BO",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virtus BO",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:19:11.722Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:19:11.722Z"
+}

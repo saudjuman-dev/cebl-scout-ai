@@ -1,0 +1,75 @@
+{
+  "fullName": "RIENK MAST basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Rienk-Mast/369106",
+  "height": "6'10'",
+  "college": "University of Nebraska",
+  "currentTeam": "Nebraska",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Groningen",
+      "league": "FEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Groningen",
+      "league": "NED-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Groningen",
+      "league": "FEL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Groningen",
+      "league": "NED-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Bradley",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bradley",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:24:33.948Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:24:33.948Z"
+}

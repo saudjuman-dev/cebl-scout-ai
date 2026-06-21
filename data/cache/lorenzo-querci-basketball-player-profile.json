@@ -1,0 +1,65 @@
+{
+  "fullName": "LORENZO QUERCI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lorenzo-Querci/445580",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 LORENZO QUERCI basketball player profile Uniform",
+  "currentTeam": "Agrigento",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Flexx Pistoia",
+      "league": "ITA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "OriOra Pistoia",
+      "league": "ITA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Orlandina Capo",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "UCC Assigeco",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Piacenza UCC",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "UCC Assigeco",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "UCC Assigeco",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Agrigento",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:17:35.044Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:17:35.044Z"
+}

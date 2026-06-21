@@ -1,0 +1,44 @@
+{
+  "fullName": "JIHYUN PARK basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jihyun-Park/400193?Women=1",
+  "height": "5'11'",
+  "currentTeam": "South Korea",
+  "careerHistory": [
+    {
+      "year": "2024",
+      "team": "Bankstown B.",
+      "league": "AUS-12"
+    },
+    {
+      "year": "2024",
+      "team": "Bankstown B.",
+      "league": "AUS-12"
+    },
+    {
+      "year": "2024",
+      "team": "Tokomanawa Q.",
+      "league": "NZL-11"
+    },
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    },
+    {
+      "year": "2025",
+      "team": "Tokomanawa Q.",
+      "league": "NZL-11"
+    },
+    {
+      "year": "2026",
+      "team": "LA Sparks",
+      "league": "WNBA"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:35:28.442Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:35:28.442Z"
+}

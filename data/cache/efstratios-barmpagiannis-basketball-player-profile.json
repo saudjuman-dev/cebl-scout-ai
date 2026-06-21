@@ -1,0 +1,33 @@
+{
+  "fullName": "EFSTRATIOS BARMPAGIANNIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Efstratios-Barmpagiannis/744303",
+  "currentTeam": "Papagou",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Aons",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Papagou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:11.055Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:11.055Z"
+}

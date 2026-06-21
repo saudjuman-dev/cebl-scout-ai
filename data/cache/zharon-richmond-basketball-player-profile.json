@@ -1,0 +1,45 @@
+{
+  "fullName": "ZHARON RICHMOND basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zharon-Richmond/470277",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ZHARON RICHMOND basketball player profile Uniform",
+  "currentTeam": "Bremerhaven",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "MSUB",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:44:23.604Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:44:23.604Z"
+}

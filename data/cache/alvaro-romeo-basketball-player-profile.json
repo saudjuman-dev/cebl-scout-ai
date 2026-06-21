@@ -1,0 +1,18 @@
+{
+  "fullName": "ALVARO ROMEO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alvaro-Romeo/786555",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:48.784Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:48.784Z"
+}

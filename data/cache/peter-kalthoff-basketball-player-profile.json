@@ -1,0 +1,45 @@
+{
+  "fullName": "PETER KALTHOFF basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Peter-Kalthoff/491530",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 PETER KALTHOFF basketball player profile Uniform",
+  "currentTeam": "Bochum",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Hillsdale",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Hillsdale",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Hillsdale",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Hillsdale",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Iskra Svit",
+      "league": "SVK-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bochum",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:49:49.053Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:49:49.053Z"
+}

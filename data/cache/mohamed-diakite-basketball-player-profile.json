@@ -1,0 +1,80 @@
+{
+  "fullName": "MOHAMED DIAKITE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohamed-Diakite/617921",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MOHAMED DIAKITE basketball player profile Uniform No",
+  "currentTeam": "Ulm",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "St Quentin",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "St Quentin",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "2025",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:15:39.222Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:15:39.222Z"
+}

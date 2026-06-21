@@ -1,0 +1,20 @@
+{
+  "fullName": "JALEN HARALSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jalen-Haralson/743037",
+  "height": "6'7'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Notre Dame",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:26:45.736Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:26:45.736Z"
+}

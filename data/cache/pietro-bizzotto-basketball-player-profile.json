@@ -1,0 +1,30 @@
+{
+  "fullName": "PIETRO BIZZOTTO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pietro-Bizzotto/722679",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 PIETRO BIZZOTTO basketball player profile Uniform",
+  "currentTeam": "Mestre",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Mestre",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:11:25.258Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:11:25.258Z"
+}

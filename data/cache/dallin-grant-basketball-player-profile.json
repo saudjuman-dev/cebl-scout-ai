@@ -1,0 +1,24 @@
+{
+  "fullName": "DALLIN GRANT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dallin-Grant/571500",
+  "height": "6'8'",
+  "currentTeam": "Utah Tech",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:40.760Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:40.760Z"
+}

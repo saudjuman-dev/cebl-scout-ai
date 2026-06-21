@@ -1,0 +1,54 @@
+{
+  "fullName": "GUILLEM PLANAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Guillem-Planas/373519",
+  "height": "6'0'",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Salt",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Salt",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Salt",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:45:27.781Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:45:27.781Z"
+}

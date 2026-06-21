@@ -1,6 +1,6 @@
 {
   "fullName": "INES MONSERRAT basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Ines-Monserrat/718607&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ines-Monserrat/718607?Women=1",
   "height": "5'10'",
   "currentTeam": "AzulMarino",
   "careerHistory": [
@@ -25,10 +25,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:15:54.182Z",
+  "_lastVerified": "2026-06-21T09:35:16.962Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:15:54.182Z"
+  "cachedAt": "2026-06-21T09:35:16.962Z"
 }

@@ -1,0 +1,54 @@
+{
+  "fullName": "TOMISLAV MIHOLJCIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tomislav-Miholjcic/522347",
+  "height": "6'11'",
+  "currentTeam": "Benicarlo",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "HSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "HSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Alytus",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:46:01.622Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:46:01.622Z"
+}

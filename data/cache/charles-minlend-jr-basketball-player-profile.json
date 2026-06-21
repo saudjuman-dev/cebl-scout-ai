@@ -1,0 +1,65 @@
+{
+  "fullName": "CHARLES MINLEND JR. basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Charles-Minlend-Jr/402318",
+  "height": "6'4'",
+  "college": "college basketball from 1992",
+  "currentTeam": "Levallois",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Louisville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "FAP",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zornotza",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Huelva",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2024",
+      "team": "Cimarrones",
+      "league": "COL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Levallois",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:40:57.899Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:40:57.899Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "CHRIS FRAZIER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chris-Frazier/290519",
+  "height": "6'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CHRIS FRAZIER basketball player profile Uniform",
+  "currentTeam": "Rostock Acad.",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Dubuque",
+      "league": "NCAA3"
+    },
+    {
+      "year": "14-15",
+      "team": "Magdeburg BC",
+      "league": "GER-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Crailsheim",
+      "league": "GER-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Artland",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Rostock",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Rostock",
+      "league": "GER-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Panthers Schwenninge",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Panthers Schwenninge",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:57:51.541Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:57:51.541Z"
+}

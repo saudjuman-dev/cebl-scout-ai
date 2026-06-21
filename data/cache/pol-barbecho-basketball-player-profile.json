@@ -1,0 +1,49 @@
+{
+  "fullName": "POL BARBECHO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pol-Barbecho/496927",
+  "height": "6'8'",
+  "currentTeam": "L'Hospitalet",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Sant Josep",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Badalones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Badalones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Martinenc",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sant Feliu",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "UE Mataro",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:47:03.264Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:47:03.264Z"
+}

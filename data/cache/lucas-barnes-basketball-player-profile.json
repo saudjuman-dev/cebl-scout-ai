@@ -1,0 +1,33 @@
+{
+  "fullName": "LUCAS BARNES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Barnes/741001",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:39:34.034Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:39:34.034Z"
+}

@@ -1,0 +1,18 @@
+{
+  "fullName": "JUAN ESPINOSA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Espinosa/774328",
+  "currentTeam": "Palma Fibwi",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:31:21.680Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:31:21.680Z"
+}

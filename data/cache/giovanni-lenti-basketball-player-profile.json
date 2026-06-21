@@ -1,0 +1,80 @@
+{
+  "fullName": "GIOVANNI LENTI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giovanni-Lenti/255546",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GIOVANNI LENTI basketball player profile Uniform",
+  "currentTeam": "RO Virtus 1960",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Eternedile BO",
+      "league": "ITA-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Oleggio",
+      "league": "ITA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Firenze",
+      "league": "ITA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Valsesia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Sangiorgese",
+      "league": "ITA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Aurora Desio",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Olginate",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Unicusano Pielle",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Unicusano Pielle",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Sant Antimo",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Del.Fes AV",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "RO Virtus 1960",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:07:37.342Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:07:37.342Z"
+}

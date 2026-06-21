@@ -1,0 +1,80 @@
+{
+  "fullName": "JARED GREY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jared-Grey/584584",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JARED GREY basketball player profile Uniform No",
+  "currentTeam": "Hamburg",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:16:26.783Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:16:26.783Z"
+}

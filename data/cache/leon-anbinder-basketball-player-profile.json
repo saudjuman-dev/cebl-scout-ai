@@ -1,0 +1,40 @@
+{
+  "fullName": "LEON ANBINDER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leon-Anbinder/641003",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 LEON ANBINDER basketball player profile Height",
+  "currentTeam": "Paderborn",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Paderborn",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Paderborn",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Paderborn",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:54:15.061Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:54:15.061Z"
+}

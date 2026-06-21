@@ -1,0 +1,53 @@
+{
+  "fullName": "MALTE ERIKSSON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Malte-Eriksson/529742",
+  "currentTeam": "Umea",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Huddinge",
+      "league": "SWE-3"
+    },
+    {
+      "year": "21-22",
+      "team": "SBBK",
+      "league": "SWE-3"
+    },
+    {
+      "year": "22-23",
+      "team": "KFUM Kalmar",
+      "league": "SWE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kalmar 2",
+      "league": "SWE-3"
+    },
+    {
+      "year": "23-24",
+      "team": "KFUM Kalmar",
+      "league": "SWE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Melilla",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Umea",
+      "league": "SWE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Umea 2",
+      "league": "SWE-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:33:40.805Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:33:40.805Z"
+}

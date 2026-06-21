@@ -1,0 +1,39 @@
+{
+  "fullName": "MYRON AMEY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Myron-Amey/604701",
+  "height": "6'2'",
+  "currentTeam": "LMU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "LMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:02.412Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:02.412Z"
+}

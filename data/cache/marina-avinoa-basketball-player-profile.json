@@ -1,6 +1,6 @@
 {
   "fullName": "MARINA AVINOA basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Marina-Avinoa/584973&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marina-Avinoa/584973?Women=1&Women=1",
   "height": "5'11'",
   "currentTeam": "AzulMarino",
   "careerHistory": [
@@ -30,10 +30,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:15:50.580Z",
+  "_lastVerified": "2026-06-21T09:35:05.526Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:15:50.580Z"
+  "cachedAt": "2026-06-21T09:35:05.526Z"
 }

@@ -1,0 +1,55 @@
+{
+  "fullName": "JORDAN ROGERS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Rogers/395845",
+  "height": "6'7'",
+  "college": "University Los Angeles",
+  "currentTeam": "Cartagena",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Barstow CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "CS Los Angeles",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "CS Los Angeles",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "CS Los Angeles",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Pardinyes-L.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:32:42.265Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:32:42.265Z"
+}

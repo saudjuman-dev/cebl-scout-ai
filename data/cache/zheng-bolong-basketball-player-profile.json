@@ -1,0 +1,44 @@
+{
+  "fullName": "ZHENG BOLONG basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zheng-Bolong/332925",
+  "height": "6'1'",
+  "currentTeam": "Montemar",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Montemar",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:27:13.274Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:27:13.274Z"
+}

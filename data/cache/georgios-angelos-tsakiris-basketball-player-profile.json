@@ -1,0 +1,34 @@
+{
+  "fullName": "GEORGIOS-ANGELOS TSAKIRIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Georgios-Angelos-Tsakiris/734243",
+  "height": "6'3'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:23.131Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:23.131Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "OMAR MIGUES-HIBELJIC basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Omar-Migues-Hibeljic/631077",
+  "height": "6'5'",
+  "college": "College Jean",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:51.111Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:51.111Z"
+}

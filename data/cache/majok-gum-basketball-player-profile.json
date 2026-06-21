@@ -1,0 +1,34 @@
+{
+  "fullName": "MAJOK GUM basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Majok-Gum/489303",
+  "height": "6'9'",
+  "currentTeam": "Amager",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Laurier",
+      "league": "USPO"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "2025",
+      "team": "Vancouver",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Amager",
+      "league": "DEN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:58:03.120Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:58:03.120Z"
+}

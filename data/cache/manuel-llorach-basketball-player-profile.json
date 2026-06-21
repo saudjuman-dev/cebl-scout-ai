@@ -1,0 +1,23 @@
+{
+  "fullName": "MANUEL LLORACH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Manuel-Llorach/651255",
+  "currentTeam": "Benicarlo",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:45:58.893Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:45:58.893Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "OUSMANE MAIGA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ousmane-Maiga/690729",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 OUSMANE MAIGA basketball player profile Uniform",
+  "currentTeam": "Latina",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Tortona",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Liofilchem ROS",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Lux Chieti",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Latina",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:11:48.363Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:11:48.363Z"
+}

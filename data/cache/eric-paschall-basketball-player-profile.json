@@ -1,0 +1,80 @@
+{
+  "fullName": "ERIC PASCHALL basketball player profile",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Eric-Paschall/333214",
+  "height": "6'6'",
+  "college": "University Games",
+  "currentTeam": "Hubei",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Villanova",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Villanova",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Villanova",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Golden SW",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Golden SW",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Utah Jazz",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Ponce",
+      "league": "PUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2025",
+      "team": "Hebei",
+      "league": "CHN-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Hubei",
+      "league": "CHN-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:14:05.785Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:14:05.785Z"
+}

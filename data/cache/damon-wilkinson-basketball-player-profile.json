@@ -1,0 +1,35 @@
+{
+  "fullName": "DAMON WILKINSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Damon-Wilkinson/572807",
+  "height": "6'10'",
+  "college": "University of Nebraska",
+  "currentTeam": "S.Dakota St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "S.Dakota St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "S.Dakota St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "S.Dakota St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "S.Dakota St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:24:36.844Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:24:36.844Z"
+}

@@ -1,0 +1,20 @@
+{
+  "fullName": "KINGSTON FLEMINGS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kingston-Flemings/769166",
+  "height": "6'3'",
+  "college": "University of Houston",
+  "currentTeam": "Houston",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Houston",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:24:06.095Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:24:06.095Z"
+}

@@ -1,0 +1,19 @@
+{
+  "fullName": "MELIH TUNCA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Melih-Tunca/793186",
+  "height": "6'5'",
+  "currentTeam": "Penn State",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Penn State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:33:03.278Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:33:03.278Z"
+}

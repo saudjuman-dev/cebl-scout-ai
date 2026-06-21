@@ -1,0 +1,30 @@
+{
+  "fullName": "BLAKE BUCHANAN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Blake-Buchanan/684911",
+  "height": "6'10'",
+  "college": "University of Virginia",
+  "currentTeam": "Iowa St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Virginia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Virginia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:18:22.131Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:18:22.131Z"
+}

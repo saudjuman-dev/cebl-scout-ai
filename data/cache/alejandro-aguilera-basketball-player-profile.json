@@ -1,0 +1,23 @@
+{
+  "fullName": "ALEJANDRO AGUILERA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Aguilera/751029",
+  "currentTeam": "Calvia",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Calvia",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:32:05.384Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:32:05.384Z"
+}

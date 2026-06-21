@@ -1,9 +1,9 @@
 {
   "fullName": "JORDAN DAVIS basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Davis/367484",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Jordan-Davis/367484",
   "height": "6'2'",
   "college": "University of Northern Colorado",
-  "currentTeam": "Indios",
+  "currentTeam": "Gigantes",
   "careerHistory": [
     {
       "year": "15-16",
@@ -132,14 +132,14 @@
     },
     {
       "year": "2026",
-      "team": "Indios",
+      "team": "Gigantes",
       "league": "DOM-1"
     }
   ],
-  "_lastVerified": "2026-06-14T08:13:57.140Z",
+  "_lastVerified": "2026-06-21T09:32:32.771Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:13:57.140Z"
+  "cachedAt": "2026-06-21T09:32:32.771Z"
 }

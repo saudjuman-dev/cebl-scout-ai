@@ -1,0 +1,35 @@
+{
+  "fullName": "CHRISTOPHER DAHM basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Dahm/531659",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CHRISTOPHER DAHM basketball player profile Uniform",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:58:05.642Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:58:05.642Z"
+}

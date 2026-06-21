@@ -1,0 +1,59 @@
+{
+  "fullName": "RAUL FERNANDEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Raul-Fernandez/301649",
+  "height": "6'3'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Agustinos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Agustinos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Agustinos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Agustinos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Agustinos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Gijon T.Auto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:51:54.860Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:51:54.860Z"
+}

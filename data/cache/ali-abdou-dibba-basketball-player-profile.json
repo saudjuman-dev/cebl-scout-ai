@@ -1,0 +1,59 @@
+{
+  "fullName": "ALI ABDOU DIBBA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ali-Abdou-Dibba/421263",
+  "height": "6'5'",
+  "currentTeam": "Texas A&M",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Fryshuset",
+      "league": "SWE-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Fryshuset",
+      "league": "SWE-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Fryshuset",
+      "league": "SWE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Chicago St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "ACU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ACU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SIU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:19.935Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:19.935Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fullName": "CALLUM LAWSON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Callum-Lawson/254894",
+  "height": "6'6'",
+  "currentTeam": "Valur",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "W.Wyoming",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "W.Wyoming",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "ACU",
+      "league": "NAIA"
+    },
+    {
+      "year": "18-19",
+      "team": "ACU",
+      "league": "NAIA"
+    },
+    {
+      "year": "19-20",
+      "team": "Umea BSKT",
+      "league": "SWE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Keflavik",
+      "league": "ISL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Thor Thorl",
+      "league": "ISL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valur",
+      "league": "ISL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valur",
+      "league": "ISL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Tindastoll",
+      "league": "ISL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Crailsheim",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Keflavik",
+      "league": "ISL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valur",
+      "league": "ISL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:47:05.735Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:47:05.735Z"
+}

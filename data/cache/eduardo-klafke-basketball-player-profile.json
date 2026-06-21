@@ -1,0 +1,25 @@
+{
+  "fullName": "EDUARDO KLAFKE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Eduardo-Klafke/740620",
+  "height": "6'5'",
+  "college": "University of Mississippi",
+  "currentTeam": "Ole Miss",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:36:11.926Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:36:11.926Z"
+}

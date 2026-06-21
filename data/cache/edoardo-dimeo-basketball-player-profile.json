@@ -1,0 +1,35 @@
+{
+  "fullName": "EDOARDO DIMEO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Edoardo-DiMeo/713420",
+  "height": "5'11'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 EDOARDO DIMEO basketball player profile Uniform",
+  "currentTeam": "Tortona",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Cuneo",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tortona",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Tortona",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Tortona",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:20:12.275Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:20:12.275Z"
+}

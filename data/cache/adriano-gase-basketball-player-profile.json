@@ -1,0 +1,44 @@
+{
+  "fullName": "ADRIANO GASE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adriano-Gase/664271",
+  "height": "6'6'",
+  "currentTeam": "Aridane",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Benidorm",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Almansa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Caceres",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Benidorm",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "San Antonio",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Aridane",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:43:22.514Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:43:22.514Z"
+}

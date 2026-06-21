@@ -1,0 +1,55 @@
+{
+  "fullName": "NIKO GOSNELL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Niko-Gosnell/464189",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NIKO GOSNELL basketball player profile Height",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Arkansas Tech",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Arkansas Tech",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Arkansas Tech",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "AVIS Rapla",
+      "league": "LAES-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Prijedor",
+      "league": "BIH-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:45:22.256Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:45:22.256Z"
+}

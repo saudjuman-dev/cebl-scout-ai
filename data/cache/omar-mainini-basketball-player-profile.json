@@ -1,0 +1,45 @@
+{
+  "fullName": "OMAR MAININI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Omar-Mainini/722253",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 OMAR MAININI basketball player profile Height",
+  "currentTeam": "Reggio Emilia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Reggio Emilia",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Unahotels RE",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Reggio Emilia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:21:14.456Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:21:14.456Z"
+}

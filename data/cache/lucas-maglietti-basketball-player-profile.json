@@ -1,0 +1,70 @@
+{
+  "fullName": "LUCAS MAGLIETTI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Maglietti/513856",
+  "height": "5'11'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 LUCAS MAGLIETTI basketball player profile Uniform",
+  "currentTeam": "Jesi",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "La Union",
+      "league": "ARG-4"
+    },
+    {
+      "year": "2019",
+      "team": "La Union",
+      "league": "ARG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "La Union",
+      "league": "ARG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "La Union",
+      "league": "ARG-4"
+    },
+    {
+      "year": "20-21",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Stella Azzurra",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Kienergia Rieti",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Piacenza",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Del.Fes AV",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jesi",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:07:43.744Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:07:43.744Z"
+}

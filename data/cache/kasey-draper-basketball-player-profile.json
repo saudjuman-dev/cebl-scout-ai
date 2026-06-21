@@ -1,0 +1,45 @@
+{
+  "fullName": "KASEY DRAPER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kasey-Draper/542646",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 KASEY DRAPER basketball player profile Uniform",
+  "currentTeam": "Koblenz",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Roanoke",
+      "league": "NCAA3"
+    },
+    {
+      "year": "20-21",
+      "team": "Roanoke",
+      "league": "NCAA3"
+    },
+    {
+      "year": "21-22",
+      "team": "Roanoke",
+      "league": "NCAA3"
+    },
+    {
+      "year": "22-23",
+      "team": "Roanoke",
+      "league": "NCAA3"
+    },
+    {
+      "year": "23-24",
+      "team": "Assumption",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:52:28.879Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:52:28.879Z"
+}

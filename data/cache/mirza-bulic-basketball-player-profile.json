@@ -1,0 +1,94 @@
+{
+  "fullName": "MIRZA BULIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mirza-Bulic/184284",
+  "height": "6'10'",
+  "currentTeam": "Keflavik",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Sloboda Dita",
+      "league": "BIH-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Spars Sarajevo",
+      "league": "BIH-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Spars Sarajevo",
+      "league": "BIH-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Araberri",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Magia Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cantabria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cantabria",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2025",
+      "team": "Mineros",
+      "league": "MEX-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Keflavik",
+      "league": "ISL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:29:44.973Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:29:44.973Z"
+}

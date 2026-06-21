@@ -1,0 +1,49 @@
+{
+  "fullName": "SEYDINA FAYE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Seydina-Faye/610833",
+  "height": "6'10'",
+  "currentTeam": "Zaragoza U22",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Fundacion 5 11",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Baskonia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2023",
+      "team": "Fundacion 5 11",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Rioverde Clavijo Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:43:33.519Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:43:33.519Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "ISAIAH ELOHIM basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Isaiah-Elohim/707148",
+  "height": "6'5'",
+  "college": "University of Southern California",
+  "currentTeam": "FAU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FAU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:27:34.396Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:27:34.396Z"
+}

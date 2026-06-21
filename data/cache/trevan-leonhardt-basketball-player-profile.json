@@ -1,0 +1,35 @@
+{
+  "fullName": "TREVAN LEONHARDT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Trevan-Leonhardt/565405",
+  "height": "6'4'",
+  "college": "University of Nebraska",
+  "currentTeam": "Utah Valley",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah Valley",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:24:54.650Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:24:54.650Z"
+}

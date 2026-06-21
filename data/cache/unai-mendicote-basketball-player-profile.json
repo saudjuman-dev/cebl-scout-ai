@@ -1,0 +1,74 @@
+{
+  "fullName": "UNAI MENDICOTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Unai-Mendicote/347024",
+  "height": "6'5'",
+  "currentTeam": "Ourense",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "El Olivar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "El Olivar",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Zornotza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Almansa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "RETAbet BLB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Aquimisa Labs",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Innova Chef Z.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ourense",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ourense",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:28:21.449Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:28:21.449Z"
+}

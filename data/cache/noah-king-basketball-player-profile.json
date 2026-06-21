@@ -1,0 +1,39 @@
+{
+  "fullName": "NOAH KING basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Noah-King/567692",
+  "height": "6'2'",
+  "currentTeam": "MWSU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Kirkwood CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "MWSU",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:56:48.706Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:56:48.706Z"
+}

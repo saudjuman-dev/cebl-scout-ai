@@ -1,0 +1,89 @@
+{
+  "fullName": "NEMANJA SCEKIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nemanja-Scekic/368048",
+  "height": "6'10'",
+  "currentTeam": "Ljubljana",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Union Olimpija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Petrol Olimpija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "18-19",
+      "team": "P.Olimpija",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "18-19",
+      "team": "P.Olimpija",
+      "league": "SLO-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Ilirija Ljubljana",
+      "league": "SLO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Portoroz",
+      "league": "SLO-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Portoroz",
+      "league": "SLO-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Leotar Trebinje",
+      "league": "BIH-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Leitershofen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Nutrisp.Ilirija",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nutrisp.Ilirija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Portoroz",
+      "league": "SLO-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Ljubljana",
+      "league": "SLO-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:48:15.279Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:48:15.279Z"
+}

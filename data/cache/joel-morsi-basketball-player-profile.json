@@ -1,0 +1,35 @@
+{
+  "fullName": "JOEL MORSI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Morsi/584855",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JOEL MORSI basketball player profile Uniform",
+  "currentTeam": "Wolmirstedt",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Berlin Braves",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Panthers Schwenninge",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:53:39.987Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:53:39.987Z"
+}

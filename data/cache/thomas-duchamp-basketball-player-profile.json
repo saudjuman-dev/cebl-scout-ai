@@ -1,0 +1,29 @@
+{
+  "fullName": "THOMAS DUCHAMP basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Thomas-Duchamp/748216",
+  "height": "6'7'",
+  "currentTeam": "Cholet",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "ASVEL U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:17:05.613Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:17:05.613Z"
+}

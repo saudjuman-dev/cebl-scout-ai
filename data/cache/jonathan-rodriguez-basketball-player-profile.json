@@ -1,0 +1,39 @@
+{
+  "fullName": "JONATHAN RODRIGUEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Rodriguez/469062",
+  "height": "6'0'",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Nautico SC",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Guimar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Guimar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:49:46.043Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:49:46.043Z"
+}

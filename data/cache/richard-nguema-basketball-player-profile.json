@@ -1,0 +1,84 @@
+{
+  "fullName": "RICHARD NGUEMA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Richard-Nguema/62045",
+  "height": "6'4'",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "06-07",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Estudiantes",
+      "league": "ESP-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Estudiantes",
+      "league": "ESP-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Estudiantes",
+      "league": "ESP-1"
+    },
+    {
+      "year": "10-11",
+      "team": "Blu:sens Monb.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Blu:sens Monb.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "12-13",
+      "team": "CB Caceres",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2014",
+      "team": "Malabo Kings",
+      "league": "ACC-1"
+    },
+    {
+      "year": "14-15",
+      "team": "CB Caceres",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2017",
+      "team": "Caneros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Lanzarote",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Lanzarote",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:44:28.261Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:44:28.261Z"
+}

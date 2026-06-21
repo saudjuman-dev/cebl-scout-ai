@@ -1,0 +1,84 @@
+{
+  "fullName": "JAVIER BALASTEGUI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javier-Balastegui/347040",
+  "height": "6'2'",
+  "currentTeam": "Ardoi",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "L'Hospitalet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "JAC Sants",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "JAC Sants",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Oh!Tels ULB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Pardinyes-L.",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:53:14.817Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:53:14.817Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "JACARI LANE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jacari-Lane/660671",
+  "height": "6'0'",
+  "college": "University of North Alabama",
+  "currentTeam": "Texas A&M",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "N.Alabama",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:16.463Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:16.463Z"
+}

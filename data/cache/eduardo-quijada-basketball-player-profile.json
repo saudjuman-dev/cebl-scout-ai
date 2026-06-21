@@ -1,0 +1,49 @@
+{
+  "fullName": "EDUARDO QUIJADA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eduardo-Quijada/514791",
+  "height": "6'1'",
+  "currentTeam": "Villarrobledo",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "L'Alfas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Xerez",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Tobarra",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Villarrobledo",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:38:23.874Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:38:23.874Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "ROSELIS SILVA basketball player profile",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Roselis-Silva/110999?Women=1",
+  "height": "5'6'",
+  "college": "College 2010",
+  "currentTeam": "Tindastoll",
+  "careerHistory": [
+    {
+      "year": "2015",
+      "team": "Anzoategui",
+      "league": "LSA-11"
+    },
+    {
+      "year": "15-16",
+      "team": "Azkoitia",
+      "league": "ESP-11"
+    },
+    {
+      "year": "16-17",
+      "team": "Araski",
+      "league": "ESP-11"
+    },
+    {
+      "year": "17-18",
+      "team": "Araski",
+      "league": "ESP-11"
+    },
+    {
+      "year": "18-19",
+      "team": "Bembibre",
+      "league": "ESP-11"
+    },
+    {
+      "year": "19-20",
+      "team": "Logrono",
+      "league": "ESP-11"
+    },
+    {
+      "year": "20-21",
+      "team": "Bembibre",
+      "league": "ESP-11"
+    },
+    {
+      "year": "21-22",
+      "team": "Gernika",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "21-22",
+      "team": "Gernika",
+      "league": "ESP-11"
+    },
+    {
+      "year": "22-23",
+      "team": "Bembibre",
+      "league": "ESP-11"
+    },
+    {
+      "year": "2023",
+      "team": "Halcones",
+      "league": "MEX-12"
+    },
+    {
+      "year": "23-24",
+      "team": "Barca CBS",
+      "league": "ESP-11"
+    },
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    },
+    {
+      "year": "25-26",
+      "team": "Tindastoll",
+      "league": "ISL-11"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:35:40.478Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:35:40.478Z"
+}

@@ -1,0 +1,134 @@
+{
+  "fullName": "HANS VANWIJN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hans-Vanwijn/227913",
+  "height": "6'10'",
+  "currentTeam": "Merkezefendi",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Telenet Giants",
+      "league": "FEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "JDA Dijon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "JDA Dijon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "JDA Dijon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gravelines",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hapoel Holon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hapoel Holon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Merkezefendi",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "H.Gilboa Galil",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Merkezefendi",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:33:36.299Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:33:36.299Z"
+}

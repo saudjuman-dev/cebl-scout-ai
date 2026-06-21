@@ -1,0 +1,19 @@
+{
+  "fullName": "AUGUSTAS KICAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Augustas-Kicas/791791",
+  "height": "5'10'",
+  "currentTeam": "Zalgiris",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:39:43.759Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:39:43.759Z"
+}

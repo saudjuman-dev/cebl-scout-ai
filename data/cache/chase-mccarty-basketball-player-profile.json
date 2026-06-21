@@ -1,0 +1,20 @@
+{
+  "fullName": "CHASE MCCARTY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Chase-McCarty/605674",
+  "height": "6'6'",
+  "college": "University of Houston",
+  "currentTeam": "Houston",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Houston",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:24:15.705Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:24:15.705Z"
+}

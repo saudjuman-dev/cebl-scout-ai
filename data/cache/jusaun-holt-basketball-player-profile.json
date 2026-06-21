@@ -1,0 +1,40 @@
+{
+  "fullName": "JUSAUN HOLT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jusaun-Holt/560181",
+  "height": "6'7'",
+  "college": "University of Alabama",
+  "currentTeam": "Utah Tech",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "KSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "KSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:24.823Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:24.823Z"
+}

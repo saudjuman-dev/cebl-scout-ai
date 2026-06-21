@@ -1,0 +1,75 @@
+{
+  "fullName": "MORITZ HUEBNER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Moritz-Huebner/317775",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MORITZ HUEBNER basketball player profile Height",
+  "currentTeam": "Leverkusen",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Bremerhaven",
+      "league": "GER-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Hamburg",
+      "league": "GER-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Cuxhaven",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Iserlohn",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Koblenz",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Leverkusen",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Leverkusen",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:54:48.396Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:54:48.396Z"
+}

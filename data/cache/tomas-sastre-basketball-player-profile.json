@@ -1,0 +1,33 @@
+{
+  "fullName": "TOMAS SASTRE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tomas-Sastre/683830",
+  "currentTeam": "Cartagena Est.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Agora Portals",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cartagena Est.",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:32:50.756Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:32:50.756Z"
+}

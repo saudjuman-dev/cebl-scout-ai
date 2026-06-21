@@ -1,0 +1,65 @@
+{
+  "fullName": "EZRA MCKENNA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ezra-McKenna/608580",
+  "height": "6'10'",
+  "college": "University of Mobile",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Air Force",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Mobile, AL",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Mobile, AL",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Mobile, AL",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Mobile, AL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mobile, AL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mobile, AL",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Mobile, AL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Mobile, AL",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:29.481Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:29.481Z"
+}

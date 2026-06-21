@@ -1,0 +1,109 @@
+{
+  "fullName": "JOANIC GRUETTNER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joanic-Gruettner/281113",
+  "height": "6'6'",
+  "currentTeam": "Kortrijk",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Stahnsdorf",
+      "league": "GER-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Stahnsdorf",
+      "league": "GER-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Wuerzburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Goettingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Goettingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Goettingen",
+      "league": "GER-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bayreuth",
+      "league": "GER-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bayreuth",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Bamberg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Bamberg",
+      "league": "GER-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Bamberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Artland",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fellbach",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Kortrijk",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kortrijk",
+      "league": "BEL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:45:05.087Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:45:05.087Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "NILS MACHOWSKI basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nils-Machowski/584849",
+  "height": "6'3'",
+  "college": "University of Central Florida",
+  "currentTeam": "Wofford",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "ALBA Berlin",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "ALBA Berlin",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wofford",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Wofford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:26:06.379Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:26:06.379Z"
+}

@@ -1,0 +1,50 @@
+{
+  "fullName": "MATTEO BAIOCCHI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Baiocchi/694710",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MATTEO BAIOCCHI basketball player profile Uniform",
+  "currentTeam": "Virtus BO",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bologna",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Virtus BO",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Virtus Segafredo Bol",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Virtus BO",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Bologna",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Virtus BO",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virtus BO",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:19:14.650Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:19:14.650Z"
+}

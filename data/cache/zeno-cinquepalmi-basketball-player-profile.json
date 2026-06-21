@@ -1,0 +1,30 @@
+{
+  "fullName": "ZENO CINQUEPALMI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zeno-Cinquepalmi/774441",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ZENO CINQUEPALMI basketball player profile Uniform",
+  "currentTeam": "Trieste",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Trieste",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Trieste",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Trieste",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:20:48.945Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:20:48.945Z"
+}

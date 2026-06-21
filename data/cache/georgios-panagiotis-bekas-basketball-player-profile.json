@@ -1,0 +1,29 @@
+{
+  "fullName": "GEORGIOS-PANAGIOTIS BEKAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Georgios-Panagiotis-Bekas/777333",
+  "height": "6'1'",
+  "currentTeam": "Kronos AD",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kronos AD",
+      "league": "GRE-5"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:31:55.837Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:31:55.837Z"
+}

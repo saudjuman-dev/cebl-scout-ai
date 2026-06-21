@@ -1,6 +1,6 @@
 {
   "fullName": "ENYA MAGUIRE basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Enya-Maguire/369736&Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Enya-Maguire/369736?Women=1",
   "height": "5'5'",
   "college": "University Elks Division 1 2019",
   "currentTeam": "AzulMarino",
@@ -41,10 +41,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:16:05.649Z",
+  "_lastVerified": "2026-06-21T09:35:19.707Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:16:05.649Z"
+  "cachedAt": "2026-06-21T09:35:19.707Z"
 }

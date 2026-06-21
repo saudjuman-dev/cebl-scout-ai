@@ -1,0 +1,20 @@
+{
+  "fullName": "BRAYLON MULLINS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Braylon-Mullins/769172",
+  "height": "6'6'",
+  "college": "University of Connecticut",
+  "currentTeam": "UConn",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "UConn",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:47.143Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:47.143Z"
+}

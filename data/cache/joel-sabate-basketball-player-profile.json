@@ -1,0 +1,74 @@
+{
+  "fullName": "JOEL SABATE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Sabate/381090",
+  "height": "6'3'",
+  "currentTeam": "Vila-Real",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Almansa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Vila-Real",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:46:10.460Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:46:10.460Z"
+}

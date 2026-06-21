@@ -1,0 +1,60 @@
+{
+  "fullName": "MIRKO GLORIA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mirko-Gloria/448376",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MIRKO GLORIA basketball player profile Height",
+  "currentTeam": "Napoli",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Valsesia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Valsesia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Pavia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Olginate",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Torrenova",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Aurora Jesi",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Sant Antimo",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Virtus Kleb RAG",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Napoli",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:21:50.557Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:21:50.557Z"
+}

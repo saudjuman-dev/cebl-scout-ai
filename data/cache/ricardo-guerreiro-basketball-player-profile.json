@@ -1,0 +1,59 @@
+{
+  "fullName": "RICARDO GUERREIRO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ricardo-Guerreiro/411630",
+  "height": "6'2'",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Galitos-Barreiro",
+      "league": "POR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Galitos-Barreiro",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Galitos-Barreiro",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:42:23.049Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:42:23.049Z"
+}

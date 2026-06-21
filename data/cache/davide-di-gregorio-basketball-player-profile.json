@@ -1,0 +1,25 @@
+{
+  "fullName": "DAVIDE DI GREGORIO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Davide-Di-Gregorio/745021",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 DAVIDE DI GREGORIO basketball player profile Height",
+  "currentTeam": "Roseto",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Liofilchem ROS",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Roseto",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:14:42.200Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:14:42.200Z"
+}

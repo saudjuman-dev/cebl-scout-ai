@@ -1,0 +1,64 @@
+{
+  "fullName": "DEVIN HUTCHINSON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Devin-Hutchinson/429303",
+  "height": "6'5'",
+  "currentTeam": "Silute",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Brunswick",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Brunswick",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Radford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Radford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "New Bayazet",
+      "league": "CaucBL-1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Charlotte PJ",
+      "league": "TBL"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Oklahoma P.",
+      "league": "TBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Delikatesas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Silute",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:26:21.934Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:26:21.934Z"
+}

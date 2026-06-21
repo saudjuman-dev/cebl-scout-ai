@@ -1,0 +1,60 @@
+{
+  "fullName": "LUCA BRAMBILLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luca-Brambilla/319758",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 LUCA BRAMBILLA basketball player profile Uniform",
+  "currentTeam": "Caserta Pap.",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Lecco",
+      "league": "ITA-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Lecco",
+      "league": "ITA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Crema",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Olginate",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Olginate",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Vicenza",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Vicenza",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caserta Pap.",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:11:41.833Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:11:41.833Z"
+}

@@ -1,0 +1,23 @@
+{
+  "fullName": "PABLO TORRES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Torres/783930",
+  "currentTeam": "Cartagena Est.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Odilo FC Cartagena CB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Cartagena Est.",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:32:53.406Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:32:53.406Z"
+}

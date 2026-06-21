@@ -1,0 +1,59 @@
+{
+  "fullName": "JOHN EGBUTA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/John-Egbuta/439201",
+  "height": "6'6'",
+  "currentTeam": "Stekas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "State Fair CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Navarro JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Albany Tech",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "IUPUI",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "IUPUI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "IUPUI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2025",
+      "team": "Z*Reading R.",
+      "league": "TBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Stekas",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:47:44.733Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:47:44.733Z"
+}

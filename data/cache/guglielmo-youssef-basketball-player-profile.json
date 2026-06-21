@@ -1,0 +1,40 @@
+{
+  "fullName": "GUGLIELMO YOUSSEF basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Guglielmo-Youssef/722239",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GUGLIELMO YOUSSEF basketball player profile Uniform",
+  "currentTeam": "Milano",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Milano",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Milano",
+      "league": "ITA-7"
+    },
+    {
+      "year": "24-25",
+      "team": "AX Armani Exchange M",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Milano",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Milano",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:18:35.701Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:18:35.701Z"
+}

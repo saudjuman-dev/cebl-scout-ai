@@ -1,0 +1,35 @@
+{
+  "fullName": "STEFANO CONTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stefano-Conte/692010",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 STEFANO CONTE basketball player profile Height",
+  "currentTeam": "Desio",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Tortona",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Ruvo di Puglia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Desio",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:13:05.018Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:13:05.018Z"
+}

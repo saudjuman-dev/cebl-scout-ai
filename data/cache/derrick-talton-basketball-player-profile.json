@@ -1,0 +1,40 @@
+{
+  "fullName": "DERRICK TALTON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Derrick-Talton/612396",
+  "height": "5'10'",
+  "college": "University of Buffalo",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "OKWU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "OKWU",
+      "league": "NAIA"
+    },
+    {
+      "year": "23-24",
+      "team": "OKWU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "OKWU",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:38.771Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:38.771Z"
+}

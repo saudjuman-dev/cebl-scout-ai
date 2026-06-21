@@ -1,0 +1,45 @@
+{
+  "fullName": "CARSON TOWT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Carson-Towt/500176",
+  "height": "6'8'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Notre Dame",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NAU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:26:48.809Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:26:48.809Z"
+}

@@ -1,0 +1,60 @@
+{
+  "fullName": "SAMUTA AVEA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Samuta-Avea/429642",
+  "height": "6'6'",
+  "college": "University of Hawaii",
+  "currentTeam": "Champagne",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Hawaii",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Yoast Utd",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Champagne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:00:32.451Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:00:32.451Z"
+}

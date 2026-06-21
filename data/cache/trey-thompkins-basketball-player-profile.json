@@ -1,0 +1,130 @@
+{
+  "fullName": "TREY THOMPKINS basketball player profile",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Trey-Thompkins/132234",
+  "height": "6'10'",
+  "college": "University of Georgia",
+  "currentTeam": "Dreamers",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "11-12",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "14-15",
+      "team": "N.Novgorod",
+      "league": "VTB-1"
+    },
+    {
+      "year": "14-15",
+      "team": "N.Novgorod",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zenit SP",
+      "league": "VTB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crvena Zvezda",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crvena Zvezda",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Crvena Zvezda",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Coruna",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dreamers",
+      "league": "TAI-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:23:05.624Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:23:05.624Z"
+}

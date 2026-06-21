@@ -1,0 +1,39 @@
+{
+  "fullName": "NIKOLAOS TOULIATOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikolaos-Touliatos/685523",
+  "height": "6'5'",
+  "currentTeam": "Maroussi",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Panathinaikos",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Panathinaikos",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Papagou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Papagou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Maroussi",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:31:03.331Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:31:03.331Z"
+}

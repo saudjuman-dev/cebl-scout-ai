@@ -1,0 +1,35 @@
+{
+  "fullName": "TARRIS REED JR. basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tarris-Reed-Jr/555967",
+  "height": "6'11'",
+  "college": "College Prep School",
+  "currentTeam": "UConn",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UConn",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:43.938Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:43.938Z"
+}

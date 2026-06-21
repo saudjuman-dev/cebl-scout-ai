@@ -1,0 +1,60 @@
+{
+  "fullName": "GIANMARCO BERTETTI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gianmarco-Bertetti/480397",
+  "height": "5'11'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GIANMARCO BERTETTI basketball player profile Uniform",
+  "currentTeam": "Orlandina",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Eurotrend Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Edilnol Biella",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Tassi Group FR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Udine",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Elachem VG",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Juvi Cremona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orlandina",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:09:03.341Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:09:03.341Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "MAVERICK ROWAN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maverick-Rowan/332910",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MAVERICK ROWAN basketball player profile Uniform No",
+  "currentTeam": "Pistoia",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "NC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "NC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "FMP",
+      "league": "ADR-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Osceola M.",
+      "league": "G League"
+    },
+    {
+      "year": "18-19",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "18-19",
+      "team": "Maine C.",
+      "league": "G League"
+    },
+    {
+      "year": "18-19",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Penas Huesca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Sioux Falls S.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Usti n/Labem",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Usti n/Labem",
+      "league": "CZE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:14:02.603Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:14:02.603Z"
+}

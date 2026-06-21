@@ -1,0 +1,24 @@
+{
+  "fullName": "FILIP MANTSITS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Filip-Mantsits/763986",
+  "height": "6'7'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:32.260Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:32.260Z"
+}

@@ -1,0 +1,30 @@
+{
+  "fullName": "EMANUEL ESPOSITO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emanuel-Esposito/774523",
+  "height": "5'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 EMANUEL ESPOSITO basketball player profile Height",
+  "currentTeam": "Napoli",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Napoli",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Napoli",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Napoli",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:21:55.680Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:21:55.680Z"
+}

@@ -1,0 +1,54 @@
+{
+  "fullName": "RICHARD HENDERSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Richard-Henderson/421160",
+  "height": "6'6'",
+  "currentTeam": "St.Louis G.",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Austin Peay",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Austin Peay",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Austin Peay",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "C-N",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "C-N",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "C-N",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "2026",
+      "team": "St.Louis G.",
+      "league": "TBL"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:45:15.246Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:45:15.246Z"
+}

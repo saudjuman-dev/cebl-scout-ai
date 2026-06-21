@@ -1,0 +1,29 @@
+{
+  "fullName": "MACKENZIE MGBAKO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Mackenzie-Mgbako/560660",
+  "height": "6'9'",
+  "currentTeam": "Texas A&M",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:25:22.927Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:25:22.927Z"
+}

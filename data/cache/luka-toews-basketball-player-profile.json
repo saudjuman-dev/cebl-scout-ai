@@ -1,0 +1,24 @@
+{
+  "fullName": "LUKA TOEWS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Luka-Toews/743867",
+  "height": "6'1'",
+  "currentTeam": "Boston Coll.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:26:21.117Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:26:21.117Z"
+}

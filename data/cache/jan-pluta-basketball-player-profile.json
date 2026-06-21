@@ -1,0 +1,44 @@
+{
+  "fullName": "JAN PLUTA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jan-Pluta/493552",
+  "height": "6'5'",
+  "currentTeam": "Czarni",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Energa",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Czarni",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zak Koszalin",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Koszalin",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Czarni",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:37:11.783Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:37:11.783Z"
+}

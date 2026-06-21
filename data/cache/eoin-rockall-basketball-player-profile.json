@@ -1,0 +1,50 @@
+{
+  "fullName": "EOIN ROCKALL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eoin-Rockall/335509",
+  "height": "6'3'",
+  "college": "University of Galway",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Galway-Maree",
+      "league": "IRL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:55:20.942Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:55:20.942Z"
+}

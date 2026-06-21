@@ -1,0 +1,28 @@
+{
+  "fullName": "CONNOR LOY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Connor-Loy/792509",
+  "currentTeam": "Jax State",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:21.105Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:21.105Z"
+}

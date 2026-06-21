@@ -1,0 +1,45 @@
+{
+  "fullName": "ENRICO CASU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Enrico-Casu/694602",
+  "height": "5'10'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ENRICO CASU basketball player profile Height",
+  "currentTeam": "Sassari",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Sassari",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Sassari",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Dinamo Sassari",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sassari",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Sassari",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sassari",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:23:41.331Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:23:41.331Z"
+}

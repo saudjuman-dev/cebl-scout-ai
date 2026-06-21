@@ -1,0 +1,45 @@
+{
+  "fullName": "PABLO ABREU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Abreu/705937",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 PABLO ABREU basketball player profile Uniform",
+  "currentTeam": "Reggio Emilia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Reggio Emilia",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Reggio Emilia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "24-25",
+      "team": "Reggio Emilia",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Reggio Emilia",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:21:02.938Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:21:02.938Z"
+}

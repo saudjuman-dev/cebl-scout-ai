@@ -1,0 +1,79 @@
+{
+  "fullName": "O'SHOWEN WILLIAMS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/OShowen-Williams/416926",
+  "height": "5'11'",
+  "currentTeam": "Peja",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "S.Georgia St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "App State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "App State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "App State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Reading R.",
+      "league": "ENG-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Terme Olimia",
+      "league": "SLO-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "AlKo-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sloboda",
+      "league": "ADR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sloboda",
+      "league": "BIH-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:43:47.553Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:43:47.553Z"
+}

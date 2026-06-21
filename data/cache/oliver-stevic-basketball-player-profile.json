@@ -1,0 +1,224 @@
+{
+  "fullName": "OLIVER STEVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oliver-Stevic/37585",
+  "height": "6'9'",
+  "currentTeam": "Obradoiro",
+  "careerHistory": [
+    {
+      "year": "06-07",
+      "team": "Bergson Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "06-07",
+      "team": "Bergson Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "07-08",
+      "team": "ASCO Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "07-08",
+      "team": "ASCO Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Guaros 2",
+      "league": "ADR-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Anwil",
+      "league": "POL-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Guaros 2",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Guaros 2",
+      "league": "ADR-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Guaros 2",
+      "league": "SRB-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Guaros 2",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "10-11",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "10-11",
+      "team": "Oldenburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Novipiu Casale",
+      "league": "ITA-1"
+    },
+    {
+      "year": "11-12",
+      "team": "G.Bizkaia BLB",
+      "league": "ESP-1"
+    },
+    {
+      "year": "11-12",
+      "team": "G.Bizkaia BLB",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Stelmet",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Stelmet",
+      "league": "POL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Gaziantep",
+      "league": "FEL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Gaziantep",
+      "league": "TUR-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Gaziantep",
+      "league": "TUR-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "17-18",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Igokea",
+      "league": "ADR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Igokea",
+      "league": "BIH-1"
+    },
+    {
+      "year": "19-20",
+      "team": "San Pablo BU",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "San Pablo BU",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lenovo Tenerife",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Monbus OB",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:22:28.059Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:22:28.059Z"
+}

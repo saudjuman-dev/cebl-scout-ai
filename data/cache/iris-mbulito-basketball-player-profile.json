@@ -1,6 +1,6 @@
 {
   "fullName": "IRIS MBULITO basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Iris-Mbulito/284492?Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Iris-Mbulito/284492?Women=1&Women=1",
   "height": "6'0'",
   "currentTeam": "AzulMarino",
   "careerHistory": [
@@ -75,10 +75,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:16:14.263Z",
+  "_lastVerified": "2026-06-21T09:34:43.847Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:16:14.263Z"
+  "cachedAt": "2026-06-21T09:34:43.847Z"
 }

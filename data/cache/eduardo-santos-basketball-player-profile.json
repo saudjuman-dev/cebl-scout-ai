@@ -1,0 +1,34 @@
+{
+  "fullName": "EDUARDO SANTOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eduardo-Santos/18342",
+  "height": "6'5'",
+  "currentTeam": "Oliveirense",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Alges",
+      "league": "POR-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Academia",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:41:29.659Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:41:29.659Z"
+}

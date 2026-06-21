@@ -1,0 +1,24 @@
+{
+  "fullName": "TOMS FABRICIUSS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Toms-Fabriciuss/409916",
+  "college": "University of Galway",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Maree",
+      "league": "IRL-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:55:38.705Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:55:38.705Z"
+}

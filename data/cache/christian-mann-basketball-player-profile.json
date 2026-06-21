@@ -1,0 +1,40 @@
+{
+  "fullName": "CHRISTIAN MANN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christian-Mann/662179",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CHRISTIAN MANN basketball player profile Height",
+  "currentTeam": "Lich Basketball",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Giessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Giessen BBA",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Giessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Lich",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Giessen",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:53:18.343Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:53:18.343Z"
+}

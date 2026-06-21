@@ -1,6 +1,6 @@
 {
   "fullName": "LONDON JOHNSON basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/London-Johnson/621037",
+  "sourceUrl": "https://basketball.usbasket.com/player/London-Johnson/621037",
   "height": "6'3'",
   "college": "University of Louisville",
   "currentTeam": "Soles",
@@ -36,10 +36,10 @@
       "league": "DOM-1"
     }
   ],
-  "_lastVerified": "2026-06-14T08:10:54.104Z",
+  "_lastVerified": "2026-06-21T09:25:58.590Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:10:54.104Z"
+  "cachedAt": "2026-06-21T09:25:58.590Z"
 }

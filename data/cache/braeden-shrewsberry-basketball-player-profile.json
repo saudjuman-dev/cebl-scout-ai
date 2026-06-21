@@ -1,0 +1,30 @@
+{
+  "fullName": "BRAEDEN SHREWSBERRY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Braeden-Shrewsberry/684906",
+  "height": "6'4'",
+  "college": "College Area High School 2020",
+  "currentTeam": "Notre Dame",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:26:57.422Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:26:57.422Z"
+}

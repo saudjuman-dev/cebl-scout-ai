@@ -1,0 +1,18 @@
+{
+  "fullName": "MOHAMED SYLLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohamed-Sylla/834982",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:32:20.488Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:32:20.488Z"
+}

@@ -1,0 +1,20 @@
+{
+  "fullName": "BRADY STEVENS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brady-Stevens/793160",
+  "height": "6'4'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Notre Dame",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:27:10.937Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:27:10.937Z"
+}

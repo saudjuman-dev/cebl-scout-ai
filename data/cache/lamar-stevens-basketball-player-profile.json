@@ -1,0 +1,84 @@
+{
+  "fullName": "LAMAR STEVENS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lamar-Stevens/337729",
+  "height": "6'8'",
+  "currentTeam": "Paris",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cleveland C.",
+      "league": "NBA"
+    },
+    {
+      "year": "2021",
+      "team": "Cleveland C.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Cleveland C.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Cleveland C.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Motor City C.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:16:50.311Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:16:50.311Z"
+}

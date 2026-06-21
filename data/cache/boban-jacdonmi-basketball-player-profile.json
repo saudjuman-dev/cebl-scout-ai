@@ -1,0 +1,70 @@
+{
+  "fullName": "BOBAN JACDONMI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Boban-Jacdonmi/390509",
+  "height": "6'9'",
+  "college": "University of Southern Mississippi",
+  "currentTeam": "Mataro UE",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Chattanooga St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Chattanooga St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Southern Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Southern Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2020",
+      "team": "Glasgow R",
+      "league": "ENG-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Glasgow R",
+      "league": "ENG-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Glasgow R",
+      "league": "ENG-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Glasgow R",
+      "league": "ENG-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Surrey",
+      "league": "ENG-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Surrey",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "UE Mataro",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:46:52.120Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:46:52.120Z"
+}

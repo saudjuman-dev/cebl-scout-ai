@@ -1,0 +1,115 @@
+{
+  "fullName": "MICHAEL GILMORE basketball player profile",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Michael-Gilmore/333278",
+  "height": "6'10'",
+  "college": "University of Miami",
+  "currentTeam": "Titan UGR",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "FGCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Phoenix",
+      "league": "GER-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Oostende",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Oostende",
+      "league": "BEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wisconsin H.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "2022",
+      "team": "Hermosillo",
+      "league": "MEX-1"
+    },
+    {
+      "year": "22-23",
+      "team": "BC Lulea",
+      "league": "SWE-1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Ram Nation",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Itelyum Varese",
+      "league": "ITA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "GRE-1"
+    },
+    {
+      "year": "2024",
+      "team": "Liaoning FL",
+      "league": "BCLASIA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Buyukcekmece",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCC Assigeco",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jiaozuo",
+      "league": "CHN-2"
+    },
+    {
+      "year": "2026",
+      "team": "Titan UGR",
+      "league": "PHI-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:17:31.587Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:17:31.587Z"
+}

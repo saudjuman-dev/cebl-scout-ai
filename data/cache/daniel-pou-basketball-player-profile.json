@@ -1,0 +1,18 @@
+{
+  "fullName": "DANIEL POU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Pou/751028",
+  "currentTeam": "Calvia",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Calvia",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:32:11.514Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:32:11.514Z"
+}

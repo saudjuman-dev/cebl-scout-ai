@@ -1,0 +1,104 @@
+{
+  "fullName": "ROKAS GADILIAUSKAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rokas-Gadiliauskas/334463",
+  "height": "7'0'",
+  "currentTeam": "Mazeikiai",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Zenit-2",
+      "league": "RUS-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Neptunas-Akv.",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Ezerunas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Limburg United",
+      "league": "BEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Alginet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tallinna Kalev",
+      "league": "LAES-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tallinna Kalev",
+      "league": "EST-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Prienai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Alginet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Atletas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Palanga",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Mazeikiai",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:47:54.331Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:47:54.331Z"
+}

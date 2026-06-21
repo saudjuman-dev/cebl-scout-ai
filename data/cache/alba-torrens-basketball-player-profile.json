@@ -1,6 +1,6 @@
 {
   "fullName": "ALBA TORRENS basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Alba-Torrens/108038?Women=1",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alba-Torrens/108038?Women=1&Women=1",
   "height": "6'2'",
   "currentTeam": "AzulMarino",
   "careerHistory": [
@@ -170,10 +170,10 @@
       "league": "ESP-12"
     }
   ],
-  "_lastVerified": "2026-06-14T08:16:11.536Z",
+  "_lastVerified": "2026-06-21T09:34:34.229Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:16:11.536Z"
+  "cachedAt": "2026-06-21T09:34:34.229Z"
 }

@@ -1,0 +1,45 @@
+{
+  "fullName": "ISAIAH WYATT basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Wyatt/500234",
+  "height": "6'4'",
+  "college": "University of Texas San Antonio",
+  "currentTeam": "Caja 87",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "McLennan CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "SW Christian",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "SW Christian",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Chadron St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "UTSA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:38:52.073Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:38:52.073Z"
+}

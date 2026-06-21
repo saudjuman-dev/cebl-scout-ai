@@ -1,0 +1,85 @@
+{
+  "fullName": "SPAS NIKOLOV basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Spas-Nikolov/259887",
+  "height": "6'10'",
+  "college": "University of Winnipeg",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Levski Sofia",
+      "league": "ADR-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Levski Sofia",
+      "league": "BUL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Levski Sofia",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Levski Sofia",
+      "league": "BUL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Levski 2",
+      "league": "BUL-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Lancashire S",
+      "league": "ENG-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Winnipeg",
+      "league": "USPO"
+    },
+    {
+      "year": "18-19",
+      "team": "Winnipeg",
+      "league": "USPO"
+    },
+    {
+      "year": "19-20",
+      "team": "Winnipeg",
+      "league": "USPO"
+    },
+    {
+      "year": "20-21",
+      "team": "Fab Five",
+      "league": "BUL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Winnipeg",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "Ieper",
+      "league": "BEL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Huerva",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:45:25.110Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:45:25.110Z"
+}

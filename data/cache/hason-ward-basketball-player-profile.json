@@ -1,0 +1,85 @@
+{
+  "fullName": "HASON WARD basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hason-Ward/518243",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 HASON WARD basketball player profile Uniform No",
+  "currentTeam": "Venezia",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "VCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Iowa St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Scarborough",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Maine Celtics",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Scarborough",
+      "league": "CEBL"
+    },
+    {
+      "year": "2025",
+      "team": "Lakers",
+      "league": "BAR-1"
+    },
+    {
+      "year": "2025",
+      "team": "OKC Thunder",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Maine Celtics",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Venezia",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:19:44.130Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:19:44.130Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "TEAGAN MOORE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Teagan-Moore/704427",
+  "height": "6'5'",
+  "currentTeam": "WKU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "WKU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:22.053Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:22.053Z"
+}

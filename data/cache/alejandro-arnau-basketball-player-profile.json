@@ -1,0 +1,18 @@
+{
+  "fullName": "ALEJANDRO ARNAU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Arnau/774301",
+  "currentTeam": "Gandia",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Gandia",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:43:00.107Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:43:00.107Z"
+}

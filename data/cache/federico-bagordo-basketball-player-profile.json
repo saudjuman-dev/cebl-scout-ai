@@ -1,0 +1,30 @@
+{
+  "fullName": "FEDERICO BAGORDO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Federico-Bagordo/770005",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 FEDERICO BAGORDO basketball player profile Uniform",
+  "currentTeam": "Cantu",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Cantu",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantu",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantu",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:16:20.399Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:16:20.399Z"
+}

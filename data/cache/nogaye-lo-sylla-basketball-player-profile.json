@@ -1,0 +1,89 @@
+{
+  "fullName": "NOGAYE LO SYLLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nogaye-Lo-Sylla/256510?Women=1",
+  "height": "6'4'",
+  "currentTeam": "Saarlouis",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Celta Zorka",
+      "league": "ESP-12"
+    },
+    {
+      "year": "14-15",
+      "team": "Andratx",
+      "league": "ESP-12"
+    },
+    {
+      "year": "15-16",
+      "team": "Casablanca",
+      "league": "ESP-11"
+    },
+    {
+      "year": "16-17",
+      "team": "Cadi La Seu",
+      "league": "ESP-11"
+    },
+    {
+      "year": "17-18",
+      "team": "Cadi La Seu",
+      "league": "ESP-11"
+    },
+    {
+      "year": "18-19",
+      "team": "Zamora",
+      "league": "ESP-11"
+    },
+    {
+      "year": "19-20",
+      "team": "Gernika",
+      "league": "ESP-11"
+    },
+    {
+      "year": "19-20",
+      "team": "Gernika",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "20-21",
+      "team": "Gernika",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "20-21",
+      "team": "Gernika",
+      "league": "ESP-11"
+    },
+    {
+      "year": "21-22",
+      "team": "Avenida",
+      "league": "EUROL-11"
+    },
+    {
+      "year": "21-22",
+      "team": "Avenida",
+      "league": "ESP-11"
+    },
+    {
+      "year": "24-25",
+      "team": "AzulMarino",
+      "league": "ESP-12"
+    },
+    {
+      "year": "25-26",
+      "team": "Saarlouis",
+      "league": "Eurocup-11"
+    },
+    {
+      "year": "25-26",
+      "team": "Saarlouis",
+      "league": "GER-11"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:35:36.978Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:35:36.978Z"
+}

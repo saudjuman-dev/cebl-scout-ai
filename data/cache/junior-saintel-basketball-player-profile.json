@@ -1,0 +1,69 @@
+{
+  "fullName": "JUNIOR SAINTEL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Junior-Saintel/357012",
+  "height": "6'7'",
+  "currentTeam": "Zamora",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Stony Brook",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Stony Brook",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Barcelona 2",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Cantabria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "ZA Enamora",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:29:06.061Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:29:06.061Z"
+}

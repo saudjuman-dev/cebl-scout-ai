@@ -1,0 +1,40 @@
+{
+  "fullName": "TOMMASO SPINAZZE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tommaso-Spinazze/654841",
+  "height": "5'11'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 TOMMASO SPINAZZE basketball player profile Uniform",
+  "currentTeam": "Treviso",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Treviso",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Treviso",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Treviso",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Treviso",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Treviso",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:22:49.082Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:22:49.082Z"
+}

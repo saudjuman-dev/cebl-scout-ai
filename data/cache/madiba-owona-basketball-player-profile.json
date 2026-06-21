@@ -1,0 +1,44 @@
+{
+  "fullName": "MADIBA OWONA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Madiba-Owona/584472",
+  "height": "6'4'",
+  "currentTeam": "Utah Tech",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Bordeaux",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Orthez U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Orthez U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:34.761Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:34.761Z"
+}

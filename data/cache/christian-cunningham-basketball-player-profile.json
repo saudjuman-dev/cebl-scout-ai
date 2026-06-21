@@ -1,0 +1,79 @@
+{
+  "fullName": "CHRISTIAN CUNNINGHAM basketball player profile",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Christian-Cunningham/371129",
+  "height": "6'7'",
+  "currentTeam": "Shanan Utd",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Selfoss",
+      "league": "ISL-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Amicale",
+      "league": "LUX-1"
+    },
+    {
+      "year": "20-21",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ram.Hasharon",
+      "league": "ISR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kagoshima",
+      "league": "JPN-3"
+    },
+    {
+      "year": "2023",
+      "team": "The Enchantment",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Shanan Utd",
+      "league": "JPN-3"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:31:05.976Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:31:05.976Z"
+}

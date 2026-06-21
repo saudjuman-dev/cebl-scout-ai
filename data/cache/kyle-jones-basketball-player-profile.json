@@ -1,0 +1,30 @@
+{
+  "fullName": "KYLE JONES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kyle-Jones/673811",
+  "height": "6'5'",
+  "college": "University of Buffalo",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "STAC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "STAC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:54.349Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:54.349Z"
+}

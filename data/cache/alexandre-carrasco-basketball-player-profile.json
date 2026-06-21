@@ -1,0 +1,45 @@
+{
+  "fullName": "ALEXANDRE CARRASCO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Alexandre-Carrasco/664242",
+  "height": "6'7'",
+  "college": "University of Louisiana at Monroe",
+  "currentTeam": "ULM",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "NGT Belgrade",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Agora Portals",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "ULM",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "ULM",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:31:19.015Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:31:19.015Z"
+}

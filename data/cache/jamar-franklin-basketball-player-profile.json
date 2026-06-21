@@ -1,0 +1,55 @@
+{
+  "fullName": "JAMAR FRANKLIN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jamar-Franklin/609622",
+  "height": "6'3'",
+  "college": "University of South Alabama",
+  "currentTeam": "Jax State",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "USA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Georgia South",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:11.512Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:11.512Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "JAQUAN JOHNSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/JaQuan-Johnson/743869",
+  "height": "5'11'",
+  "currentTeam": "Bradley",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bradley",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Bradley",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:18:44.148Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:18:44.148Z"
+}

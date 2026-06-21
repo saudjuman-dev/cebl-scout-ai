@@ -1,0 +1,54 @@
+{
+  "fullName": "ERIC BRAS AMANDIO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eric-Bras-Amandio/298614",
+  "height": "6'3'",
+  "currentTeam": "Santa Cruz",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Barton Co.",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Marshalltown",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Okla City",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Okla City",
+      "league": "NAIA"
+    },
+    {
+      "year": "23-24",
+      "team": "1 De Agosto",
+      "league": "ANG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Santander",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Santa Cruz",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:51:51.944Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:51:51.944Z"
+}

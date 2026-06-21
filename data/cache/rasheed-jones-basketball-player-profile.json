@@ -1,0 +1,29 @@
+{
+  "fullName": "RASHEED JONES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/RaSheed-Jones/661402",
+  "height": "6'6'",
+  "currentTeam": "Coastal",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "NW Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Coastal",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Coastal",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:07.309Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:07.309Z"
+}

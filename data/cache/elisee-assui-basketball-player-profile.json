@@ -1,0 +1,19 @@
+{
+  "fullName": "ELISEE ASSUI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elisee-Assui/765403",
+  "height": "6'5'",
+  "currentTeam": "Varese",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Varese",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:22:11.371Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:22:11.371Z"
+}

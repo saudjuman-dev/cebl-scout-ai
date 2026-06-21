@@ -1,6 +1,6 @@
 {
   "fullName": "ADUT BULGAK basketball player profile",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Adut-Bulgak/277779&Women=1",
+  "sourceUrl": "https://basketball.usbasket.com/player/Adut-Bulgak/277779?Women=1&Women=1",
   "height": "6'4'",
   "college": "University National Team",
   "currentTeam": "South Sudan",
@@ -116,10 +116,10 @@
       "league": "UPSHOT"
     }
   ],
-  "_lastVerified": "2026-06-14T08:15:58.688Z",
+  "_lastVerified": "2026-06-21T09:34:40.592Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-14T08:15:58.688Z"
+  "cachedAt": "2026-06-21T09:34:40.592Z"
 }

@@ -1,0 +1,45 @@
+{
+  "fullName": "TOBY NNADOZIE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Toby-Nnadozie/673221",
+  "height": "6'3'",
+  "college": "University of Maryland Eastern Shore",
+  "currentTeam": "Jax State",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "UMES",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UMES",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Coppin St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jax State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:28:08.393Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:28:08.393Z"
+}

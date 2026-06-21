@@ -1,0 +1,28 @@
+{
+  "fullName": "ALBERTO MARTINEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alberto-Martinez/735424",
+  "currentTeam": "Moron",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Moron",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Costa Motril",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:42:15.795Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:42:15.795Z"
+}

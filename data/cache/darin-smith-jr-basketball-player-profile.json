@@ -1,0 +1,24 @@
+{
+  "fullName": "DARIN SMITH JR. basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Darin-Smith-Jr/682724",
+  "height": "6'7'",
+  "currentTeam": "CCSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "CCSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:19:54.965Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:19:54.965Z"
+}

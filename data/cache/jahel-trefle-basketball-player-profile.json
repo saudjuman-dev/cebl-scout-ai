@@ -1,0 +1,44 @@
+{
+  "fullName": "JAHEL TREFLE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jahel-Trefle/705976",
+  "height": "6'9'",
+  "currentTeam": "Strasbourg",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "NGT Paris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-21T08:16:55.286Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T08:16:55.286Z"
+}

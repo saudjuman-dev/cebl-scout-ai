@@ -1,0 +1,29 @@
+{
+  "fullName": "CHANCE TRUJILLO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Chance-Trujillo/565404",
+  "height": "6'4'",
+  "currentTeam": "Utah Tech",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Snow CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:20:37.800Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:20:37.800Z"
+}

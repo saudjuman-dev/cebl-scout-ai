@@ -1,0 +1,85 @@
+{
+  "fullName": "JOHNNY DEE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Johnny-Dee/233950",
+  "height": "6'0'",
+  "college": "University of Tulsa",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Polpharma",
+      "league": "POL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Siroki Brijeg",
+      "league": "BIH-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Araberri",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Betis EP",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Delteco Gipuz.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Acunsa Gipuzk.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-06-21T09:25:35.096Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-21T09:25:35.096Z"
+}
