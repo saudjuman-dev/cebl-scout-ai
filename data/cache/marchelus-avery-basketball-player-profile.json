@@ -1,0 +1,70 @@
+{
+  "fullName": "MARCHELUS AVERY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marchelus-Avery/594807",
+  "height": "6'8'",
+  "college": "University of Central Florida",
+  "currentTeam": "Sibenka",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "NW Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "NM State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "NM State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NM State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "NM State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "OK State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Szombathely",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sibenka",
+      "league": "CRO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kormend",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Szombathely",
+      "league": "HUN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:52:51.777Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:52:51.777Z"
+}

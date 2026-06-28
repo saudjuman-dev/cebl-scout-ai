@@ -1,0 +1,39 @@
+{
+  "fullName": "ZAKARIA MECHERGUI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zakaria-Mechergui/662695",
+  "height": "6'5'",
+  "currentTeam": "Monaco",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Monaco U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:31:42.027Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:31:42.027Z"
+}

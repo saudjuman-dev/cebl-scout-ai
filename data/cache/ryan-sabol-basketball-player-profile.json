@@ -1,0 +1,30 @@
+{
+  "fullName": "RYAN SABOL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ryan-Sabol/600918",
+  "height": "6'3'",
+  "college": "College High School 2021",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:44:30.399Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:44:30.399Z"
+}

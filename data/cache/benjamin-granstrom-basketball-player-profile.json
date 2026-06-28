@@ -1,0 +1,40 @@
+{
+  "fullName": "BENJAMIN GRANSTROM basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Benjamin-Granstrom/684526",
+  "height": "6'3'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 BENJAMIN GRANSTROM basketball player profile Height",
+  "currentTeam": "Ura Basket",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Ura Basket",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ura Basket",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ura Basket",
+      "league": "FIN-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ura Basket",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ura Basket",
+      "league": "FIN-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T10:04:40.890Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T10:04:40.890Z"
+}

@@ -1,0 +1,49 @@
+{
+  "fullName": "ADRIAN TORRES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrian-Torres/741374",
+  "height": "6'8'",
+  "currentTeam": "Joventut",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Sant Josep",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut BDL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:04:00.555Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:04:00.555Z"
+}

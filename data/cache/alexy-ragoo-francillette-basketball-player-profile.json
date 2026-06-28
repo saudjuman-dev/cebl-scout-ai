@@ -1,0 +1,29 @@
+{
+  "fullName": "ALEXY RAGOO-FRANCILLETTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alexy-Ragoo-Francillette/708555",
+  "height": "6'4'",
+  "currentTeam": "Strasbourg U21",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Strasbourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:32:18.919Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:32:18.919Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fullName": "JOSH TAYLOR basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Josh-Taylor/498704",
+  "height": "6'8'",
+  "college": "University of Georgia",
+  "currentTeam": "ETAMU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Georgia",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "ETSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "ETSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Thomas, FL",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "ETAMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "ETAMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:30:29.628Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:30:29.628Z"
+}

@@ -2,6 +2,7 @@
   "fullName": "MAKSIM BRNOVIC basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Maksim-Brnovic/729539",
   "height": "6'9'",
+  "college": "University of Arizona",
   "currentTeam": "Zalgiris II",
   "careerHistory": [
     {
@@ -25,10 +26,10 @@
       "league": "ANGT-1"
     }
   ],
-  "_lastVerified": "2026-06-21T08:39:19.478Z",
+  "_lastVerified": "2026-06-28T08:26:32.192Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:39:19.478Z"
+  "cachedAt": "2026-06-28T08:26:32.192Z"
 }

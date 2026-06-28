@@ -1,0 +1,35 @@
+{
+  "fullName": "CORTARIUS MINGO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cortarius-Mingo/573010",
+  "height": "6'5'",
+  "college": "University of Alaska Fairbanks",
+  "currentTeam": "Alaska",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Lewis & Clark",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Lewis & Clark",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Alaska",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alaska",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:45:42.553Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:45:42.553Z"
+}

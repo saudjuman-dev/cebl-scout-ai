@@ -1,0 +1,39 @@
+{
+  "fullName": "ERWANN BUSSING basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Erwann-Bussing/660322",
+  "height": "6'8'",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Chalon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:39:46.645Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:39:46.645Z"
+}

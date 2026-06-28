@@ -1,0 +1,30 @@
+{
+  "fullName": "DAVIS CRILLY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Davis-Crilly/739479",
+  "height": "6'5'",
+  "college": "University of Alaska Fairbanks",
+  "currentTeam": "Alaska",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "San Jose CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "San Jose CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Alaska",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:45:24.534Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:45:24.534Z"
+}

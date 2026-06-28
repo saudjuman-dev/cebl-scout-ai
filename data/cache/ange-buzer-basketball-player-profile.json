@@ -1,0 +1,28 @@
+{
+  "fullName": "ANGE BUZER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ange-Buzer/709789",
+  "currentTeam": "Cholet U21",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Besancon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Besancon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:33:33.754Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:33:33.754Z"
+}

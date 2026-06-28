@@ -1,0 +1,44 @@
+{
+  "fullName": "SWANN PENDA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Swann-Penda/738942",
+  "height": "6'7'",
+  "currentTeam": "Le Mans",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paris U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "NGT Abu Dhabi",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:34:44.799Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:34:44.799Z"
+}

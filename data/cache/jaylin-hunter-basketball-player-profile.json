@@ -1,0 +1,59 @@
+{
+  "fullName": "JAYLIN HUNTER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaylin-Hunter/518257",
+  "height": "6'0'",
+  "currentTeam": "ZTE KK",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ohio",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Leicester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Leicester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "2025",
+      "team": "Court Street Kings",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:24:14.764Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:24:14.764Z"
+}

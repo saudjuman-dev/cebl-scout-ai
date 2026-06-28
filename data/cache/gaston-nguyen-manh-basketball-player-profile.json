@@ -32,14 +32,19 @@
     },
     {
       "year": "25-26",
+      "team": "Sartorius",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
       "team": "Goettingen",
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-06-21T08:47:27.919Z",
+  "_lastVerified": "2026-06-28T08:36:12.256Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:47:27.919Z"
+  "cachedAt": "2026-06-28T08:36:12.256Z"
 }

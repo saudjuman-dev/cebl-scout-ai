@@ -1,0 +1,35 @@
+{
+  "fullName": "NICOLAS KODJOE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicolas-Kodjoe/660494",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NICOLAS KODJOE basketball player profile Uniform No",
+  "currentTeam": "Bayern",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Z*Rolling Loud",
+      "league": "OTE"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayern",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayern",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:20:54.373Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:20:54.373Z"
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "DAVID FUCHS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/David-Fuchs/493439",
+  "height": "6'9'",
+  "college": "University of Rhode Island",
+  "currentTeam": "USF",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Ratiopharm U17",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "19-20",
+      "team": "ratiopharm",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Ulm",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "ratiopharm",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Ulm",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "URI",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "USF",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:29.125Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:29.125Z"
+}

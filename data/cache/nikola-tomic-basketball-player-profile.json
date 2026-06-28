@@ -1,0 +1,60 @@
+{
+  "fullName": "NIKOLA TOMIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikola-Tomic/611027",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NIKOLA TOMIC basketball player profile Uniform",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "ALBA Berlin",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Bayern",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Braunschweig",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:25:04.280Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:25:04.280Z"
+}

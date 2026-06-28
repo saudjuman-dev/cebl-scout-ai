@@ -32,12 +32,12 @@
     },
     {
       "year": "20-21",
-      "team": "HammStars",
+      "team": "59 HammStars",
       "league": "GER-4"
     },
     {
       "year": "21-22",
-      "team": "HammStars",
+      "team": "59 HammStars",
       "league": "GER-4"
     },
     {
@@ -56,10 +56,10 @@
       "league": "GER-3"
     }
   ],
-  "_lastVerified": "2026-06-21T08:57:57.229Z",
+  "_lastVerified": "2026-06-28T08:48:19.216Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:57:57.229Z"
+  "cachedAt": "2026-06-28T08:48:19.216Z"
 }

@@ -1,0 +1,24 @@
+{
+  "fullName": "ADRIAN MYERS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Adrian-Myers/685399",
+  "height": "6'6'",
+  "currentTeam": "SJSU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "MSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SJSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:11:35.223Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:11:35.223Z"
+}

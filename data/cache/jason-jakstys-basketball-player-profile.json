@@ -1,0 +1,20 @@
+{
+  "fullName": "JASON JAKSTYS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jason-Jakstys/741814",
+  "height": "6'10'",
+  "college": "University of Illinois",
+  "currentTeam": "Illinois",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Illinois",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:15:14.440Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:15:14.440Z"
+}

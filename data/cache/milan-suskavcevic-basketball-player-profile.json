@@ -1,0 +1,74 @@
+{
+  "fullName": "MILAN SUSKAVCEVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Milan-Suskavcevic/283182",
+  "height": "6'10'",
+  "currentTeam": "Sloboda U.",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Fundacion",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Viten Getafe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Viten Getafe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Girona",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Villarrobledo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Villarrobledo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2023",
+      "team": "Bucaros",
+      "league": "COL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Sloboda U.",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sloboda U.",
+      "league": "SRB-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:24:52.796Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:24:52.796Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "RJ GODFREY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/RJ-Godfrey/621056",
+  "height": "6'8'",
+  "college": "University of Georgia",
+  "currentTeam": "Clemson",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Clemson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Clemson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Clemson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:03.468Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:03.468Z"
+}

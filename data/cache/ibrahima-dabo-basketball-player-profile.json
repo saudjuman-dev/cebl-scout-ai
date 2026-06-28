@@ -1,0 +1,33 @@
+{
+  "fullName": "IBRAHIMA DABO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ibrahima-Dabo/711703",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hiopos Forca",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:07:17.364Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:07:17.364Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "MORITZ HECK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Moritz-Heck/484226",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MORITZ HECK basketball player profile Uniform No",
+  "currentTeam": "Weissenfels",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Ratiopharm U17",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "18-19",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "ratiopharm",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Weissenfels",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Weissenfels",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:23:34.699Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:23:34.699Z"
+}

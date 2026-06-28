@@ -1,0 +1,44 @@
+{
+  "fullName": "ROMAIN BERTHELIN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Romain-Berthelin/676111",
+  "height": "6'3'",
+  "currentTeam": "Saint Quentin",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Dijon U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint Quentin",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:51:48.211Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:51:48.211Z"
+}

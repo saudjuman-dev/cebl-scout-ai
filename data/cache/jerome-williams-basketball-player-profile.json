@@ -1,0 +1,19 @@
+{
+  "fullName": "JEROME WILLIAMS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jerome-Williams/794018",
+  "height": "6'0'",
+  "currentTeam": "Longwood",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Longwood",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T09:37:01.595Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T09:37:01.595Z"
+}

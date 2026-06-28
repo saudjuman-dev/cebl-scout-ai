@@ -1,0 +1,20 @@
+{
+  "fullName": "KEATON WAGLER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Keaton-Wagler/777728",
+  "height": "6'6'",
+  "college": "University of Illinois",
+  "currentTeam": "Illinois",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Illinois",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:15:06.531Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:15:06.531Z"
+}

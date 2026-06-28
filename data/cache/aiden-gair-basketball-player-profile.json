@@ -1,0 +1,40 @@
+{
+  "fullName": "AIDEN GAIR basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aiden-Gair/594542",
+  "height": "6'4'",
+  "college": "University West Plains",
+  "currentTeam": "NW Missouri St.",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Frank Phillips",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Frank Phillips",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "MSU-W.Plains",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Millersville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "NW Missouri St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:44:54.852Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:44:54.852Z"
+}

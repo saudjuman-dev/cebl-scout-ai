@@ -1,0 +1,35 @@
+{
+  "fullName": "CONNOR TURNBULL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Connor-Turnbull/611399",
+  "height": "6'10'",
+  "college": "University of Evansville",
+  "currentTeam": "Evansville",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Evansville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Evansville",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:29:37.540Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:29:37.540Z"
+}

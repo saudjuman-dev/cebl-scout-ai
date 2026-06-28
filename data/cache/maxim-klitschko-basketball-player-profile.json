@@ -1,0 +1,29 @@
+{
+  "fullName": "MAXIM KLITSCHKO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maxim-Klitschko/701453",
+  "height": "7'1'",
+  "currentTeam": "Monaco",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Monaco U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:31:32.531Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:31:32.531Z"
+}

@@ -1,0 +1,90 @@
+{
+  "fullName": "THIJS DE RIDDER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Thijs-de-Ridder/479128",
+  "height": "6'8'",
+  "college": "University of Virginia",
+  "currentTeam": "Virginia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Giants B",
+      "league": "BEL-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Telenet Giants",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Telenet Giants",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Telenet Giants",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Telenet Giants",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Giants B",
+      "league": "BEL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Telenet Giants",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Surne Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Surne Bilbao",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Surne Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:14:22.363Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:14:22.363Z"
+}

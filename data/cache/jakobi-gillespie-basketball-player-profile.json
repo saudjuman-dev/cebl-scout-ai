@@ -1,0 +1,40 @@
+{
+  "fullName": "JA'KOBI GILLESPIE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/JaKobi-Gillespie/618554",
+  "height": "6'1'",
+  "college": "University of Maryland",
+  "currentTeam": "Tennessee",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Belmont",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:12:37.445Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:12:37.445Z"
+}

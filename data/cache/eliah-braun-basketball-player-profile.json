@@ -1,0 +1,55 @@
+{
+  "fullName": "ELIAH BRAUN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eliah-Braun/665648",
+  "height": "6'11'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ELIAH BRAUN basketball player profile Uniform",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:25:11.145Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:25:11.145Z"
+}

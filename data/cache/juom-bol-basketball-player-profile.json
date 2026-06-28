@@ -1,0 +1,39 @@
+{
+  "fullName": "JUOM BOL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juom-Bol/784517",
+  "height": "6'10'",
+  "currentTeam": "Baskonia",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Baskonia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:01:57.126Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:01:57.126Z"
+}

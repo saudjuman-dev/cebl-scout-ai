@@ -1,0 +1,119 @@
+{
+  "fullName": "KAISER GATES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kaiser-Gates/366356",
+  "height": "6'7'",
+  "currentTeam": "Joventut",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "2019",
+      "team": "LA Clippers",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Maine C.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "LA Clippers",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "2021",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "H.Jerusalem",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "H.Jerusalem",
+      "league": "ISR-1"
+    },
+    {
+      "year": "2022",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Zip Em Up",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Orlando M.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCAM",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut BDL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCAM",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:02:54.793Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:02:54.793Z"
+}

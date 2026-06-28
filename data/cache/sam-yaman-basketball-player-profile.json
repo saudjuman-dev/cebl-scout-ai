@@ -1,0 +1,24 @@
+{
+  "fullName": "SAM YAMAN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sam-Yaman/753423",
+  "height": "6'9'",
+  "currentTeam": "ASVEL U21",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:32:59.908Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:32:59.908Z"
+}

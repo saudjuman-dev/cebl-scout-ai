@@ -1,0 +1,44 @@
+{
+  "fullName": "DIEGO NIEBLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Diego-Niebla/764511",
+  "height": "6'8'",
+  "currentTeam": "Joventut",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Joventut B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "NGT Bologna",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:04:06.852Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:04:06.852Z"
+}

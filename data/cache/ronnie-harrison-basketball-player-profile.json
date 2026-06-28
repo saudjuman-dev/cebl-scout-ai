@@ -1,0 +1,29 @@
+{
+  "fullName": "RONNIE HARRISON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ronnie-Harrison/738743",
+  "height": "6'8'",
+  "currentTeam": "ETAMU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Navarro JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Tarleton St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "ETAMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:30:47.436Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:30:47.436Z"
+}

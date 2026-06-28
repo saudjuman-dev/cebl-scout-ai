@@ -1,0 +1,39 @@
+{
+  "fullName": "ROBERT MCCRAY V basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Robert-McCray-V/559536",
+  "height": "6'4'",
+  "currentTeam": "FSU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jacksonville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "FSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:13:55.326Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:13:55.326Z"
+}

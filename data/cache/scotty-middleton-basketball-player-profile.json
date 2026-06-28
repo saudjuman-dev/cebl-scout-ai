@@ -1,0 +1,29 @@
+{
+  "fullName": "SCOTTY MIDDLETON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Scotty-Middleton/600909",
+  "height": "6'6'",
+  "currentTeam": "Tulane",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Ohio St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tulane",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:12:11.903Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:12:11.903Z"
+}

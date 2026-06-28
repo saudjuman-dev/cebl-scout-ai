@@ -1,0 +1,39 @@
+{
+  "fullName": "NIKOLA KUSTURICA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikola-Kusturica/775483",
+  "height": "6'8'",
+  "currentTeam": "Serbia",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:03:38.790Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:03:38.790Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "CAVIT GUERBUEZER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cavit-Guerbuezer/711773",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CAVIT GUERBUEZER basketball player profile Uniform",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Hagen BBA",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Hagen BBA",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:25:27.040Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:25:27.040Z"
+}

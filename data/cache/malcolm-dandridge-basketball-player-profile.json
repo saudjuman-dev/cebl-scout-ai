@@ -1,0 +1,70 @@
+{
+  "fullName": "MALCOLM DANDRIDGE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Malcolm-Dandridge/420963",
+  "height": "6'9'",
+  "college": "University of Memphis",
+  "currentTeam": "King",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Memphis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Vechta",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "King",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:22:38.469Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:22:38.469Z"
+}

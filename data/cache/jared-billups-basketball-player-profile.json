@@ -1,0 +1,44 @@
+{
+  "fullName": "JARED BILLUPS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jared-Billups/606492",
+  "height": "6'4'",
+  "currentTeam": "M.Ma'ale Adum.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Siena",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Siena",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "GMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "GMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pyrinto",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Ma'ale Adum.",
+      "league": "ISR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:46:28.668Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:46:28.668Z"
+}

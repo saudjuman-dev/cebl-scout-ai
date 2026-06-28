@@ -1,0 +1,29 @@
+{
+  "fullName": "JORDY BARNES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jordy-Barnes/759008",
+  "height": "6'4'",
+  "currentTeam": "Utah St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:29:40.308Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:29:40.308Z"
+}

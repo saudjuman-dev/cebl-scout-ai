@@ -1,0 +1,54 @@
+{
+  "fullName": "ELIAN BENITEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elian-Benitez/582416",
+  "height": "5'11'",
+  "currentTeam": "Vichy",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rueil",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vichy",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:51:23.858Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:51:23.858Z"
+}

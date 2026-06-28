@@ -1,0 +1,28 @@
+{
+  "fullName": "ABDOUL BA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Abdoul-Ba/795875",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Monaco",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:40:40.307Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:40:40.307Z"
+}

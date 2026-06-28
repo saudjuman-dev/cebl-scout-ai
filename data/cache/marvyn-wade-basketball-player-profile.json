@@ -1,0 +1,44 @@
+{
+  "fullName": "MARVYN WADE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marvyn-Wade/716006",
+  "height": "6'3'",
+  "currentTeam": "ASVEL U21",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL Lyon-Villeurba",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "ASVEL Lyon-Villeurba",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL Lyon-Villeurba",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:33:03.362Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:33:03.362Z"
+}

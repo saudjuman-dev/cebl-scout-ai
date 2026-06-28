@@ -1,0 +1,45 @@
+{
+  "fullName": "JAYDEN FATNASSI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jayden-Fatnassi/707041",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JAYDEN FATNASSI basketball player profile Uniform",
+  "currentTeam": "Rist Wedel",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:28:01.651Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:28:01.651Z"
+}

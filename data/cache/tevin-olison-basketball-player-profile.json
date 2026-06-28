@@ -1,0 +1,75 @@
+{
+  "fullName": "TEVIN OLISON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tevin-Olison/429361",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U18 European Championships U20 European Championships European Championships U16 TEVIN OLISON basketball player profile Uniform No",
+  "currentTeam": "Brno",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Cleveland St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Cumberlands",
+      "league": "NAIA"
+    },
+    {
+      "year": "20-21",
+      "team": "Cumberlands",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "YSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bristol F.",
+      "league": "ENG-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Bristol F.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bristol F.",
+      "league": "ENG-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Bristol F.",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bristol F.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Seagulls",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Borac CA",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Basket Brno",
+      "league": "CZE-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:25:36.820Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:25:36.820Z"
+}

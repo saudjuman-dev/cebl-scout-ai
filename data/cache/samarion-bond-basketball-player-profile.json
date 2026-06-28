@@ -1,0 +1,30 @@
+{
+  "fullName": "SAMARION BOND basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Samarion-Bond/560085",
+  "height": "6'5'",
+  "college": "University of South Carolina",
+  "currentTeam": "Valdosta St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Odessa JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:47:55.501Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:47:55.501Z"
+}

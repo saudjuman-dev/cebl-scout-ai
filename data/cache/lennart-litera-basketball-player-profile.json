@@ -22,7 +22,7 @@
     },
     {
       "year": "21-22",
-      "team": "Leverkusen 2",
+      "team": "Bayer 04 Leverkusen",
       "league": "GER-4"
     },
     {
@@ -61,10 +61,10 @@
       "league": "GER-4"
     }
   ],
-  "_lastVerified": "2026-06-21T08:54:42.718Z",
+  "_lastVerified": "2026-06-28T08:44:33.205Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:54:42.718Z"
+  "cachedAt": "2026-06-28T08:44:33.205Z"
 }

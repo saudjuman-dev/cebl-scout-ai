@@ -1,0 +1,74 @@
+{
+  "fullName": "MITAR BOSNJAKOVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mitar-Bosnjakovic/617805",
+  "height": "6'7'",
+  "currentTeam": "Partizan",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Madrid U18 team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Partizan",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Partizan",
+      "league": "ADR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Partizan",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "ADR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:42:15.269Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:42:15.269Z"
+}

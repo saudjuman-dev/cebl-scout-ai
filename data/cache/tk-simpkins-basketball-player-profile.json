@@ -1,0 +1,35 @@
+{
+  "fullName": "TK SIMPKINS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/TK-Simpkins/675920",
+  "height": "6'4'",
+  "college": "University of Oregon",
+  "currentTeam": "Oregon",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Elon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Elon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Elon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oregon",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:13:06.237Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:13:06.237Z"
+}

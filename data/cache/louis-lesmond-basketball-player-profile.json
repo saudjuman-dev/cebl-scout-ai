@@ -1,0 +1,65 @@
+{
+  "fullName": "LOUIS LESMOND basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Louis-Lesmond/446574",
+  "height": "6'6'",
+  "college": "College Prep",
+  "currentTeam": "Hyeres-Toulon",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Harvard",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Harvard",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fordham",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fordham",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:36:28.497Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:36:28.497Z"
+}

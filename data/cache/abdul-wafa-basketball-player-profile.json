@@ -1,0 +1,25 @@
+{
+  "fullName": "ABDUL WAFA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Abdul-Wafa/794315",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ABDUL WAFA basketball player profile Uniform",
+  "currentTeam": "Weissenfels",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "MBA",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:23:48.338Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:23:48.338Z"
+}

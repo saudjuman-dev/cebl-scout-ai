@@ -1,0 +1,59 @@
+{
+  "fullName": "TYSHAUN CRAWFORD basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyshaun-Crawford/430457",
+  "height": "7'1'",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Georgia South",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Augusta",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Augusta",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Augusta",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Augusta",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Margveti",
+      "league": "GEO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Guangzhou LL",
+      "league": "CHN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Qingdao E.",
+      "league": "CHN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:40:36.240Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:40:36.240Z"
+}

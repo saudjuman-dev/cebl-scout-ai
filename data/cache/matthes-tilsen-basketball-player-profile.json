@@ -1,0 +1,40 @@
+{
+  "fullName": "MATTHES TILSEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matthes-Tilsen/665762",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MATTHES TILSEN basketball player profile Uniform",
+  "currentTeam": "Rostock Acad.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Rostock",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Rostock",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:26:54.007Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:26:54.007Z"
+}

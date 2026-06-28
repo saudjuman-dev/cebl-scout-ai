@@ -1,0 +1,25 @@
+{
+  "fullName": "MAXIM FILONENKO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maxim-Filonenko/705284",
+  "height": "6'9'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games MAXIM FILONENKO basketball player profile Uniform",
+  "currentTeam": "E.Netanya",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "E.Mac.Netanya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "E.Netanya",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:22:58.019Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:22:58.019Z"
+}

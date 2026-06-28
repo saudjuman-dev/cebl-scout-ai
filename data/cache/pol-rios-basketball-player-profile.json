@@ -1,0 +1,33 @@
+{
+  "fullName": "POL RIOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pol-Rios/711316",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UE Montgat",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Universitat Vic",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mollerussa",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:07:03.757Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:07:03.757Z"
+}

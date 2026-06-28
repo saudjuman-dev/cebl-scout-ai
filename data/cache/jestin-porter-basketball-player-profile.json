@@ -1,0 +1,54 @@
+{
+  "fullName": "JESTIN PORTER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jestin-Porter/598683",
+  "height": "6'1'",
+  "currentTeam": "Clemson",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Tyler JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Tyler JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "MTSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "MTSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "MTSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "MTSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "MTSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Clemson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:18.136Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:18.136Z"
+}

@@ -1,0 +1,28 @@
+{
+  "fullName": "DAVID PAINDEPICE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Paindepice/762876",
+  "currentTeam": "Monaco",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Monaco",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:31:38.736Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:31:38.736Z"
+}

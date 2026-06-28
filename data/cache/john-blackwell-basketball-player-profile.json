@@ -1,0 +1,30 @@
+{
+  "fullName": "JOHN BLACKWELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/John-Blackwell/612983",
+  "height": "6'4'",
+  "college": "University of Wisconsin",
+  "currentTeam": "Wisconsin",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:46:58.772Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:46:58.772Z"
+}

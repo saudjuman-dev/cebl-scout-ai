@@ -1,0 +1,35 @@
+{
+  "fullName": "PETER MCKEY basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Peter-McKey/611873",
+  "height": "6'2'",
+  "college": "University of Texas Permian Basin",
+  "currentTeam": "Valdosta St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Coastal Bend",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Kilgore JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:47:45.436Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:47:45.436Z"
+}

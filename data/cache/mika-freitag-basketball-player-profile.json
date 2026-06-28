@@ -1,0 +1,50 @@
+{
+  "fullName": "MIKA FREITAG basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mika-Freitag/665611",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MIKA FREITAG basketball player profile Uniform",
+  "currentTeam": "Rostock Acad.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Rostock",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Rostock",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Rostock 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Rostock",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:26:50.769Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:26:50.769Z"
+}

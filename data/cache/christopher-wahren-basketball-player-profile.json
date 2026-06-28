@@ -1,0 +1,45 @@
+{
+  "fullName": "CHRISTOPHER WAHREN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Wahren/710621",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CHRISTOPHER WAHREN basketball player profile Uniform",
+  "currentTeam": "Chemnitz",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Chemnitz",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Chemnitz",
+      "league": "GER-8"
+    },
+    {
+      "year": "2025",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:27:26.112Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:27:26.112Z"
+}

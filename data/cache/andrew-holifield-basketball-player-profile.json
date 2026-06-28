@@ -1,0 +1,50 @@
+{
+  "fullName": "ANDREW HOLIFIELD basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Andrew-Holifield/674874",
+  "height": "6'10'",
+  "college": "College 2018",
+  "currentTeam": "Lamar",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Jarvis Christian",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Jarvis Christian",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Jarvis Christian",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ranger CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Lamar",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Lamar",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Lamar",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:42:35.001Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:42:35.001Z"
+}

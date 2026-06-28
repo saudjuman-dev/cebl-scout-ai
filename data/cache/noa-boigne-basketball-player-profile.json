@@ -1,0 +1,29 @@
+{
+  "fullName": "NOA BOIGNE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noa-Boigne/727221",
+  "height": "6'2'",
+  "currentTeam": "Gravelines",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:39:59.659Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:39:59.659Z"
+}

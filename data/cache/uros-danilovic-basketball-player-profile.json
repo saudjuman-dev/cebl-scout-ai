@@ -1,0 +1,59 @@
+{
+  "fullName": "UROS DANILOVIC basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Uros-Danilovic/670119",
+  "height": "6'7'",
+  "currentTeam": "Metalac VL",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Partizan BG",
+      "league": "SRB-3"
+    },
+    {
+      "year": "23-24",
+      "team": "BC Partizan NiS Beog",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Partizan",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Partizan BG",
+      "league": "SRB-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Partizan BG",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "24-25",
+      "team": "BC Partizan NiS Beog",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan BG",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Metalac VL",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan BG",
+      "league": "SRB-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:42:05.477Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:42:05.477Z"
+}

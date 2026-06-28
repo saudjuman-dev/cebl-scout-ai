@@ -1,0 +1,29 @@
+{
+  "fullName": "ADRIEN CHAMMARTIN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrien-Chammartin/708505",
+  "height": "6'6'",
+  "currentTeam": "Nancy U21",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gravelines U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Nancy U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:39:23.247Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:39:23.247Z"
+}

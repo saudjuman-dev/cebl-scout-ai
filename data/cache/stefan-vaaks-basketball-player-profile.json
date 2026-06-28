@@ -1,0 +1,55 @@
+{
+  "fullName": "STEFAN VAAKS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Stefan-Vaaks/683394",
+  "height": "6'7'",
+  "college": "University of Illinois",
+  "currentTeam": "Providence",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "KK Viimsi",
+      "league": "LAES-1"
+    },
+    {
+      "year": "23-24",
+      "team": "KK Viimsi",
+      "league": "EST-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kalev/Cramo",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kalev/Cramo",
+      "league": "EST-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kalev/Cramo",
+      "league": "LAES-1"
+    },
+    {
+      "year": "24-25",
+      "team": "KK Viimsi",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Providence",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:15:10.326Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:15:10.326Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "JASON EDWARDS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jason-Edwards/627692",
+  "height": "6'1'",
+  "college": "University of North Texas",
+  "currentTeam": "Providence",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Dodge City",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vanderbilt",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Providence",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:44:46.631Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:44:46.631Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "WEI LIN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Wei-Lin/580036",
+  "height": "6'3'",
+  "college": "University of Oregon",
+  "currentTeam": "Oregon",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Nanjing MK",
+      "league": "CHN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nanjing MK",
+      "league": "CHN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanjing MK",
+      "league": "CHN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oregon",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:13:12.779Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:13:12.779Z"
+}

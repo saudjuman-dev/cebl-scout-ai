@@ -1,0 +1,45 @@
+{
+  "fullName": "ALEC PHANEUF basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Alec-Phaneuf/470005",
+  "height": "5'8'",
+  "college": "College Tracker U Sports CCAA BSL NBLCanada CEBL Canada WomenMenu William Jones Cup FIBA AmeriCup World University Games Olympic Games World Championships U21 Marchand Cup World Cup U19 FIBA Americas U18 World Cup U17 Commonwealth Games FIBA Americas U16 ALEC PHANEUF basketball player profile Uniform",
+  "currentTeam": "Ottawa",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Concordia",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "25-26",
+      "team": "Ottawa",
+      "league": "USPO"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:47:15.978Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:47:15.978Z"
+}

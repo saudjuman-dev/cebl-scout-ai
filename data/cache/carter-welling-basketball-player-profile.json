@@ -1,0 +1,35 @@
+{
+  "fullName": "CARTER WELLING basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Carter-Welling/571327",
+  "height": "6'11'",
+  "college": "University of California",
+  "currentTeam": "Clemson",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah Valley",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Clemson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:10.183Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:10.183Z"
+}

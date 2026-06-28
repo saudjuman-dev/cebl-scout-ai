@@ -1,0 +1,29 @@
+{
+  "fullName": "JAYLEN THOMPSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jaylen-Thompson/661209",
+  "height": "6'8'",
+  "currentTeam": "Stanford",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stanford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:30:10.028Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:30:10.028Z"
+}

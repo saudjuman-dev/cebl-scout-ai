@@ -1,0 +1,49 @@
+{
+  "fullName": "DRAKE ALLEN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Drake-Allen/593998",
+  "height": "6'5'",
+  "currentTeam": "Utah St.",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Snow CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Snow CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "SUU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:29:15.190Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:29:15.190Z"
+}

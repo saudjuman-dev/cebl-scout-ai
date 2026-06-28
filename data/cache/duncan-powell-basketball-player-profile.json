@@ -1,0 +1,44 @@
+{
+  "fullName": "DUNCAN POWELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Duncan-Powell/474290",
+  "height": "6'8'",
+  "currentTeam": "Providence",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "NC A&T",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "NC A&T",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "NC A&T",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Georgia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Providence",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:44:37.011Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:44:37.011Z"
+}

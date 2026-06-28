@@ -1,0 +1,44 @@
+{
+  "fullName": "LOUIS GIBEY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Louis-Gibey/486136",
+  "height": "6'9'",
+  "currentTeam": "Tours",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Poissy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Rennes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tours",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:38:04.648Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:38:04.648Z"
+}

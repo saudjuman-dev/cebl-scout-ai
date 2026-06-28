@@ -1,0 +1,24 @@
+{
+  "fullName": "BRUNO NDJAMOU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bruno-Ndjamou/747510",
+  "height": "6'0'",
+  "currentTeam": "Evreux",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Evreux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Evreux",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:53:35.818Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:53:35.818Z"
+}

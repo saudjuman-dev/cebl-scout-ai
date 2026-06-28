@@ -1,0 +1,34 @@
+{
+  "fullName": "MOUSTAPHA DIOP basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Moustapha-Diop/573266",
+  "height": "6'9'",
+  "currentTeam": "Tours",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Fougeres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tours",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:38:17.360Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:38:17.360Z"
+}

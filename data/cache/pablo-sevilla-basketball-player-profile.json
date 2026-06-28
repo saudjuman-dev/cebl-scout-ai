@@ -1,0 +1,39 @@
+{
+  "fullName": "PABLO SEVILLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Sevilla/724713",
+  "height": "6'6'",
+  "currentTeam": "Murcia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Murcia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:03:13.761Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:03:13.761Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "WESLEY BOOKER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wesley-Booker/569572",
+  "height": "6'4'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 WESLEY BOOKER basketball player profile Height",
+  "currentTeam": "Harding",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "UAM",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "UAM",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Harding",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Harding",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Harding",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T10:05:15.498Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T10:05:15.498Z"
+}

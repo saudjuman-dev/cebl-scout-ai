@@ -1,0 +1,44 @@
+{
+  "fullName": "PEDRO SOUZA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Souza/736016",
+  "height": "6'4'",
+  "currentTeam": "Brazil",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Baskonia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:02:03.117Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:02:03.117Z"
+}

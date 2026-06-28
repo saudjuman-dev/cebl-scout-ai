@@ -1,0 +1,30 @@
+{
+  "fullName": "LUKE FOTHERINGHAM basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Luke-Fotheringham/739962",
+  "height": "6'6'",
+  "college": "University of Alaska Fairbanks",
+  "currentTeam": "Alaska",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "SW Oregon JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "SW Oregon JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Alaska",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:45:31.008Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:45:31.008Z"
+}

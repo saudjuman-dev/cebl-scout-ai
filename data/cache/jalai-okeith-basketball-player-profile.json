@@ -1,0 +1,30 @@
+{
+  "fullName": "JALAI O'KEITH basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jalai-OKeith/737376",
+  "height": "6'6'",
+  "college": "University of Alaska Fairbanks",
+  "currentTeam": "Alaska",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "East LA",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Alaska",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alaska",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:45:27.746Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:45:27.746Z"
+}

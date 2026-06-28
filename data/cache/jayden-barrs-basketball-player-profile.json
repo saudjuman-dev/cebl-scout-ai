@@ -1,0 +1,29 @@
+{
+  "fullName": "JAYDEN BARRS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jayden-Barrs/712558",
+  "height": "6'1'",
+  "currentTeam": "Lamar",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Lamar",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Lamar",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Lamar",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:42:55.167Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:42:55.167Z"
+}

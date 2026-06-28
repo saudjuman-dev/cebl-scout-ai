@@ -1,0 +1,25 @@
+{
+  "fullName": "DAVID CASTILLO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/David-Castillo/618668",
+  "height": "6'1'",
+  "college": "University of Kansas State",
+  "currentTeam": "Kansas St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T09:37:36.836Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T09:37:36.836Z"
+}

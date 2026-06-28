@@ -1,0 +1,40 @@
+{
+  "fullName": "EFREM JOHNSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Efrem-Johnson/564338",
+  "height": "6'4'",
+  "college": "University of Alabama at Birmingham",
+  "currentTeam": "Clemson",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UAB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Clemson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:22.024Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:22.024Z"
+}

@@ -1,0 +1,49 @@
+{
+  "fullName": "BAPTISTE TACKAMOUD basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Baptiste-Tackamoud/641853",
+  "height": "6'2'",
+  "currentTeam": "Tarbes-Lourdes",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "IBF",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Chartres",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Levallois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "2025",
+      "team": "New Tech B.",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tours",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tarbes-Lourdes",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:38:20.629Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:38:20.629Z"
+}

@@ -1,0 +1,34 @@
+{
+  "fullName": "ALBIN BOITREL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Albin-Boitrel/663325",
+  "height": "6'9'",
+  "currentTeam": "Boulazac",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:38:49.487Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:38:49.487Z"
+}

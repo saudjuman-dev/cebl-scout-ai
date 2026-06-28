@@ -1,0 +1,44 @@
+{
+  "fullName": "LUDVIK BERGSENG basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ludvik-Bergseng/660472",
+  "height": "6'11'",
+  "currentTeam": "Manresa",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Sandvika",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Baerum",
+      "league": "NOR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Baerum",
+      "league": "NOR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Motor Munich Cadi Manresa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:05:33.232Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:05:33.232Z"
+}

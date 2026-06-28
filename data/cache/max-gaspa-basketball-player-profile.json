@@ -1,0 +1,54 @@
+{
+  "fullName": "MAX GASPA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Max-Gaspa/741450",
+  "height": "6'3'",
+  "currentTeam": "Manresa",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Manresa",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Manresa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Motor Munich Cadi Manresa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2025",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:05:19.675Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:05:19.675Z"
+}

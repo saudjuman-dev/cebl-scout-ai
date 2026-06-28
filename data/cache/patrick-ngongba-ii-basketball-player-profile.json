@@ -1,0 +1,24 @@
+{
+  "fullName": "PATRICK NGONGBA II basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Patrick-Ngongba-II/682867",
+  "height": "6'11'",
+  "currentTeam": "Duke",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Duke",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:46:35.257Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:46:35.257Z"
+}

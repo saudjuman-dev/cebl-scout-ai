@@ -1,0 +1,59 @@
+{
+  "fullName": "MERT AKAY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mert-Akay/387871",
+  "height": "6'6'",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Darussafaka",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Darussafaka",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Darussafaka",
+      "league": "TUR-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Dynamic VP",
+      "league": "ADR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:09:35.826Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:09:35.826Z"
+}

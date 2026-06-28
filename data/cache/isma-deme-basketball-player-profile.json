@@ -1,0 +1,18 @@
+{
+  "fullName": "ISMA DEME basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isma-Deme/795916",
+  "currentTeam": "Strasbourg U21",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:32:31.494Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:32:31.494Z"
+}

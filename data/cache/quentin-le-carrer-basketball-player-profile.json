@@ -1,0 +1,23 @@
+{
+  "fullName": "QUENTIN LE CARRER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Quentin-Le-Carrer/828850",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:36:11.458Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:36:11.458Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "ISAIAH EVANS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Isaiah-Evans/600890",
+  "height": "6'6'",
+  "currentTeam": "Duke",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Duke",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:46:29.109Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:46:29.109Z"
+}

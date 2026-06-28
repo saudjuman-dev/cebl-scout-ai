@@ -1,0 +1,39 @@
+{
+  "fullName": "AHMAD DEKAKI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ahmad-Dekaki/623034",
+  "height": "6'8'",
+  "currentTeam": "Bourg U21",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:34:28.787Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:34:28.787Z"
+}

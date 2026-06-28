@@ -1,0 +1,34 @@
+{
+  "fullName": "CHIEK DIALLO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chiek-Diallo/744344",
+  "height": "6'9'",
+  "currentTeam": "Baskonia B",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Baskonia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:02:06.507Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:02:06.507Z"
+}

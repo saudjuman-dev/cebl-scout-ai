@@ -1,0 +1,59 @@
+{
+  "fullName": "KHADIM KANE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Khadim-Kane/623014",
+  "height": "6'6'",
+  "currentTeam": "Bourg",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "2025",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:34:22.544Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:34:22.544Z"
+}

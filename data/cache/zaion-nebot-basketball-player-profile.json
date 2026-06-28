@@ -1,0 +1,29 @@
+{
+  "fullName": "ZAION NEBOT basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zaion-Nebot/709791",
+  "height": "6'3'",
+  "currentTeam": "Tours",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tours",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:38:14.296Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:38:14.296Z"
+}

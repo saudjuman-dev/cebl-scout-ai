@@ -1,0 +1,39 @@
+{
+  "fullName": "MJ JONES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/MJ-Jones/672742",
+  "height": "6'1'",
+  "currentTeam": "Valdosta St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Montevallo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Montevallo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Shelton St. CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:47:52.041Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:47:52.041Z"
+}

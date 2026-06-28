@@ -1,0 +1,50 @@
+{
+  "fullName": "NOAH PAGOTTO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Noah-Pagotto/602726",
+  "height": "6'8'",
+  "college": "College Bellambi 2021",
+  "currentTeam": "ETAMU",
+  "careerHistory": [
+    {
+      "year": "2022",
+      "team": "NSW Country",
+      "league": "AUS-4"
+    },
+    {
+      "year": "2023",
+      "team": "NSW",
+      "league": "AUS-3"
+    },
+    {
+      "year": "2023",
+      "team": "Illawarra H.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "23-24",
+      "team": "WTAM",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "WTAM",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "WTAM",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "ETAMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:30:34.037Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:30:34.037Z"
+}

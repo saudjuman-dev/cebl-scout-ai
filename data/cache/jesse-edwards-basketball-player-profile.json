@@ -1,0 +1,75 @@
+{
+  "fullName": "JESSE EDWARDS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jesse-Edwards/523147",
+  "height": "6'11'",
+  "college": "College All",
+  "currentTeam": "Baskonia",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Syracuse",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Syracuse",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Syracuse",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Syracuse",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Syracuse",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "WVU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Iowa Wolves",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "2025",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Melbourne Utd",
+      "league": "AUS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:01:47.212Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:01:47.212Z"
+}

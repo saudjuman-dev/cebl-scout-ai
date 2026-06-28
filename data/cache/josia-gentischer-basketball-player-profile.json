@@ -1,0 +1,35 @@
+{
+  "fullName": "JOSIA GENTISCHER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josia-Gentischer/665559",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JOSIA GENTISCHER basketball player profile Uniform",
+  "currentTeam": "Kornwestheim",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Ludwigsburg",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ludwigsburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Kornwestheim",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Ludwigsburg",
+      "league": "BCLJ-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:24:19.966Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:24:19.966Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "NOA MANI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noa-Mani/701832",
+  "height": "5'10'",
+  "currentTeam": "St-Quentin U21",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gravelines U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "25-26",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:35:12.498Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:35:12.498Z"
+}

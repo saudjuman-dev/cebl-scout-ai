@@ -1,0 +1,30 @@
+{
+  "fullName": "VINNY SIGONA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Vinny-Sigona/660621",
+  "height": "6'0'",
+  "college": "University Louisiana at Lafayette",
+  "currentTeam": "ETAMU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Collin CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "ETAMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:30:41.042Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:30:41.042Z"
+}

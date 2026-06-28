@@ -1,0 +1,30 @@
+{
+  "fullName": "TAYLOR BOL BOWEN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Taylor-Bol-Bowen/576117",
+  "height": "6'10'",
+  "college": "University of Vermont",
+  "currentTeam": "Alabama",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "FSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "FSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Alabama",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:13:26.037Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:13:26.037Z"
+}

@@ -1,9 +1,99 @@
 {
-  "_lastScraped": "2026-06-21T10:06:26.319Z",
+  "_lastScraped": "2026-06-28T10:09:09.121Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Lansana Nwosu released from Club",
+      "team": "Montreal Alliance",
+      "date": "2026-06-27",
+      "type": "Lansana Nwosu released from Club"
+    },
+    {
+      "player": "Easton Thimm placed on Practice Roster",
+      "team": "Saskatoon Mamba",
+      "date": "2026-06-27",
+      "type": "Easton Thimm placed on Practice Roster"
+    },
+    {
+      "player": "Adong Mahuoi",
+      "team": "Edmonton Stingers",
+      "date": "2026-06-27",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tevin Brown",
+      "team": "Vancouver Bandits",
+      "date": "2026-06-26",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tegra Izay removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-26",
+      "type": "Tegra Izay removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Isaih Moore",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-06-26",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Brandon Muntu",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-25",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Shakur Daniel released from Club",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-06-25",
+      "type": "Shakur Daniel released from Club"
+    },
+    {
+      "player": "David Walker released from Club",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-06-25",
+      "type": "David Walker released from Club"
+    },
+    {
+      "player": "Head Coach Kyle Julius suspended for three games following review of an incident involving a fan at the CEBL game on June 18.",
+      "team": "Vancouver Bandits",
+      "date": "2026-06-24",
+      "type": "Head Coach Kyle Julius suspended for three games following review of an incident involving a fan at the CEBL game on June 18."
+    },
+    {
+      "player": "Jaelen House released from Club",
+      "team": "Vancouver Bandits",
+      "date": "2026-06-24",
+      "type": "Jaelen House released from Club"
+    },
+    {
+      "player": "Kevinko Mervart released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-24",
+      "type": "Kevinko Mervart released from Club"
+    },
+    {
+      "player": "DeAndre Williams released from Club",
+      "team": "Calgary Surge",
+      "date": "2026-06-24",
+      "type": "DeAndre Williams released from Club"
+    },
+    {
+      "player": "Cat Barber",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-06-21",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jay Scrubb",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-06-21",
+      "type": "Standard Player Contract"
+    },
     {
       "player": "Lloyd Pandi",
       "team": "Vancouver Bandits",

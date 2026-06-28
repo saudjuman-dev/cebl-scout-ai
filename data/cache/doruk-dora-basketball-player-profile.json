@@ -1,0 +1,69 @@
+{
+  "fullName": "DORUK DORA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Doruk-Dora/399842",
+  "height": "6'4'",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Duzce",
+      "league": "TUR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Darussafaka",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Darussafaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Darussafaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Darussafaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Konyaspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:09:58.256Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:09:58.256Z"
+}

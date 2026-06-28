@@ -1,0 +1,23 @@
+{
+  "fullName": "JONATHAN MKAMBA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Mkamba/521914",
+  "currentTeam": "Pau-Lacq-Orthez",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Charleville-M.",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Pau-Lacq-Orthez",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:51:08.167Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:51:08.167Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "VILLE KARHU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ville-Karhu/494873",
+  "height": "6'0'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 VILLE KARHU basketball player profile Uniform",
+  "currentTeam": "Bisons",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "MuKi",
+      "league": "BBBL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "MuKi",
+      "league": "FIN-3"
+    },
+    {
+      "year": "20-21",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "21-22",
+      "team": "HBA",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "HBA-Marsky",
+      "league": "FIN-2"
+    },
+    {
+      "year": "21-22",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "21-22",
+      "team": "PuHu",
+      "league": "FIN-3"
+    },
+    {
+      "year": "22-23",
+      "team": "HBA-Marsky",
+      "league": "FIN-2"
+    },
+    {
+      "year": "23-24",
+      "team": "HBA-Marsky",
+      "league": "FIN-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kataja Ta.",
+      "league": "FIN-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Kataja",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kataja",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bisons",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T10:07:05.701Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T10:07:05.701Z"
+}

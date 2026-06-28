@@ -1,0 +1,44 @@
+{
+  "fullName": "ELIE NTOWOA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elie-Ntowoa/738881",
+  "height": "6'7'",
+  "currentTeam": "Poitiers",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Grand Est",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Poitiers",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:51:32.037Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:51:32.037Z"
+}

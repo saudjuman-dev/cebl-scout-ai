@@ -1,0 +1,50 @@
+{
+  "fullName": "LELAND WALKER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leland-Walker/569673",
+  "height": "6'1'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 LELAND WALKER basketball player profile Uniform No",
+  "currentTeam": "Wyoming",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "EKU",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "EKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "EKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "EKU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wyoming",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T10:04:53.893Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T10:04:53.893Z"
+}

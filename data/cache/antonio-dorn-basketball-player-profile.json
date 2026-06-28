@@ -31,7 +31,7 @@
     },
     {
       "year": "21-22",
-      "team": "Ulm BBU 01",
+      "team": "01 Ulm",
       "league": "GER-4"
     },
     {
@@ -75,10 +75,10 @@
       "league": "NCAA1"
     }
   ],
-  "_lastVerified": "2026-06-21T08:45:47.064Z",
+  "_lastVerified": "2026-06-28T08:34:12.510Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:45:47.064Z"
+  "cachedAt": "2026-06-28T08:34:12.510Z"
 }

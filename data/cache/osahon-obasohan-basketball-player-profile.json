@@ -1,0 +1,40 @@
+{
+  "fullName": "OSAHON OBASOHAN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Osahon-Obasohan/708510",
+  "height": "6'4'",
+  "college": "University of Hawaii",
+  "currentTeam": "NW Missouri St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Le Mans",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "NW Missouri St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:45:16.204Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:45:16.204Z"
+}

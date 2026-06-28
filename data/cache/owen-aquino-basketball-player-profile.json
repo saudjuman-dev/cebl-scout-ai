@@ -1,0 +1,54 @@
+{
+  "fullName": "OWEN AQUINO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Owen-Aquino/514744",
+  "height": "6'8'",
+  "currentTeam": "High Point",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "22-23",
+      "team": "E.Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "E.Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Liberty",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "High Point",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:08:22.723Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:08:22.723Z"
+}

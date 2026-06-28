@@ -1,0 +1,30 @@
+{
+  "fullName": "LOUIS DAOUST basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Louis-Daoust/631024",
+  "height": "6'7'",
+  "college": "College Tracker U Sports CCAA BSL NBLCanada CEBL Canada WomenMenu William Jones Cup FIBA AmeriCup World University Games Olympic Games World Championships U21 Marchand Cup World Cup U19 FIBA Americas U18 World Cup U17 Commonwealth Games FIBA Americas U16 LOUIS DAOUST basketball player profile Uniform",
+  "currentTeam": "Ottawa",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "St.Rose, NY",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tennessee St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ottawa",
+      "league": "USPO"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:47:24.703Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:47:24.703Z"
+}

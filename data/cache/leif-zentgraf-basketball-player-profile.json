@@ -1,0 +1,55 @@
+{
+  "fullName": "LEIF ZENTGRAF basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leif-Zentgraf/634040",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 LEIF ZENTGRAF basketball player profile Height",
+  "currentTeam": "Frankfurt",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Frankfurt",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Frankfurt",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Frankfurt",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Neustadt TSV",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:28:28.284Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:28:28.284Z"
+}

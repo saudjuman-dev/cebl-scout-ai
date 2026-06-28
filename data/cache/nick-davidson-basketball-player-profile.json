@@ -1,0 +1,45 @@
+{
+  "fullName": "NICK DAVIDSON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nick-Davidson/499690",
+  "height": "6'10'",
+  "college": "University of Nevada",
+  "currentTeam": "Clemson",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Nevada",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Nevada",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Nevada",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nevada",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nevada",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Clemson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:06.730Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:06.730Z"
+}

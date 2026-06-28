@@ -1,0 +1,45 @@
+{
+  "fullName": "MALIK THOMAS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Malik-Thomas/457495",
+  "height": "6'5'",
+  "college": "University of Southern California",
+  "currentTeam": "Virginia",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "USF",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:14:42.252Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:14:42.252Z"
+}

@@ -1,0 +1,74 @@
+{
+  "fullName": "RAFA VILLAR basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafa-Villar/543421",
+  "height": "6'4'",
+  "currentTeam": "Baskonia",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "FC Barcelona",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hiopos Forca",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:01:54.039Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:01:54.039Z"
+}

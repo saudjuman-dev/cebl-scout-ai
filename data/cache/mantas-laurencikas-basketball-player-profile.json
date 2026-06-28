@@ -2,6 +2,7 @@
   "fullName": "MANTAS LAURENCIKAS basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mantas-Laurencikas/653271",
   "height": "6'3'",
+  "college": "University of Texas",
   "currentTeam": "Monaco",
   "careerHistory": [
     {
@@ -55,10 +56,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-06-21T08:40:48.282Z",
+  "_lastVerified": "2026-06-28T08:28:05.460Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:40:48.282Z"
+  "cachedAt": "2026-06-28T08:28:05.460Z"
 }

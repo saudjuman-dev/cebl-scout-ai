@@ -1,0 +1,60 @@
+{
+  "fullName": "NIKLAS KRAUSE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Niklas-Krause/531757",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NIKLAS KRAUSE basketball player profile Uniform No",
+  "currentTeam": "Rist Wedel",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Sudhessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Sudhessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Hanau",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:27:55.106Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:27:55.106Z"
+}

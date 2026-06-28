@@ -1,0 +1,30 @@
+{
+  "fullName": "MIIKKA MUURINEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miikka-Muurinen/705996",
+  "height": "6'11'",
+  "college": "University of Arkansas",
+  "currentTeam": "Finland",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "NGT Dubai",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Partizan",
+      "league": "ADR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:42:12.062Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:42:12.062Z"
+}

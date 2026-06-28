@@ -1,0 +1,34 @@
+{
+  "fullName": "FERRAN MAURI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ferran-Mauri/786627",
+  "height": "6'4'",
+  "currentTeam": "Joventut",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Hiopos Forca",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:04:09.741Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:04:09.741Z"
+}

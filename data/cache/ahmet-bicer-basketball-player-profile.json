@@ -1,0 +1,23 @@
+{
+  "fullName": "AHMET BICER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ahmet-Bicer/753071",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Darussafaka",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:10:03.964Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:10:03.964Z"
+}

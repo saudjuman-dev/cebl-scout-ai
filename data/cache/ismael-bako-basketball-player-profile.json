@@ -1,0 +1,124 @@
+{
+  "fullName": "ISMAEL BAKO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ismael-Bako/259777",
+  "height": "6'10'",
+  "currentTeam": "Paris",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Telenet Giants",
+      "league": "FEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Telenet Giants",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Telenet Giants",
+      "league": "BEL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Manresa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Virtus Segafredo",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Virtus Segafredo",
+      "league": "ITA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "UNICS Kazan",
+      "league": "VTB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNICS Kazan",
+      "league": "VTB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zenit",
+      "league": "VTB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paris",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:32:06.136Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:32:06.136Z"
+}

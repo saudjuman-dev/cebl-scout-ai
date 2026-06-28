@@ -1,0 +1,45 @@
+{
+  "fullName": "JAYLIN SELLERS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jaylin-Sellers/560573",
+  "height": "6'5'",
+  "college": "University of Central Florida",
+  "currentTeam": "Providence",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Ball St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ball St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Ball St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UCF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Providence",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:44:26.934Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:44:26.934Z"
+}

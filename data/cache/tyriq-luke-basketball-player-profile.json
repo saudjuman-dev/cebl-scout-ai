@@ -1,0 +1,30 @@
+{
+  "fullName": "TYRIQ LUKE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tyriq-Luke/605972",
+  "height": "6'0'",
+  "college": "University of Alaska Fairbanks",
+  "currentTeam": "Alaska",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Everett CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Alaska",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alaska",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:45:34.054Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:45:34.054Z"
+}

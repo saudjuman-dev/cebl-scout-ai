@@ -1,0 +1,64 @@
+{
+  "fullName": "DEXTER AKANNO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dexter-Akanno/505589",
+  "height": "6'5'",
+  "currentTeam": "Caen",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Oregon St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oregon St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Oregon St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Oregon St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Trier",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Caen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Trier",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:21:25.003Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:21:25.003Z"
+}

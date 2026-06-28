@@ -2,6 +2,7 @@
   "fullName": "HUGO LOPEZ basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Lopez/514841",
   "height": "6'10'",
+  "college": "University of South Carolina",
   "currentTeam": "Estudiantes",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-21T09:26:34.223Z",
+  "_lastVerified": "2026-06-28T09:24:55.278Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T09:26:34.223Z"
+  "cachedAt": "2026-06-28T09:24:55.278Z"
 }

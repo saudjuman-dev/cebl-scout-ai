@@ -1,0 +1,39 @@
+{
+  "fullName": "BULENT CELIK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bulent-Celik/490105",
+  "height": "6'11'",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "FMV Isik",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:10:10.754Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:10:10.754Z"
+}

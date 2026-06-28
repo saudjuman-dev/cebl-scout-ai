@@ -1,0 +1,29 @@
+{
+  "fullName": "DEMAO DIEHI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Demao-Diehi/708468",
+  "height": "6'6'",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Blois",
+      "league": "FRA-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:36:08.507Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:36:08.507Z"
+}

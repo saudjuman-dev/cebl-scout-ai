@@ -1,0 +1,24 @@
+{
+  "fullName": "RYAN MELA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ryan-Mela/746272",
+  "height": "6'7'",
+  "currentTeam": "Providence",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Providence",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Providence",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:44:20.059Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:44:20.059Z"
+}

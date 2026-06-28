@@ -1,0 +1,55 @@
+{
+  "fullName": "NELSON MARTIN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nelson-Martin/665467",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NELSON MARTIN basketball player profile Uniform",
+  "currentTeam": "Hamburg",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:27:45.458Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:27:45.458Z"
+}

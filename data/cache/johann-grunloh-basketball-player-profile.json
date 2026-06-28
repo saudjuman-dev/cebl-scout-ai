@@ -1,0 +1,20 @@
+{
+  "fullName": "JOHANN GRUNLOH basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Johann-Grunloh/793765",
+  "height": "7'0'",
+  "college": "University of Virginia",
+  "currentTeam": "Virginia",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Virginia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:14:38.641Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:14:38.641Z"
+}

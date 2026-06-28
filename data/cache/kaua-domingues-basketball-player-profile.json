@@ -1,0 +1,29 @@
+{
+  "fullName": "KAUA DOMINGUES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kaua-Domingues/735336",
+  "height": "6'8'",
+  "currentTeam": "Vasco da Gama",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vasco da Gama",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:29:43.516Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:29:43.516Z"
+}

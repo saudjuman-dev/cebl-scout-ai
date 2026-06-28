@@ -1,0 +1,25 @@
+{
+  "fullName": "JUKE HARRIS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Juke-Harris/727364",
+  "height": "6'7'",
+  "college": "University of Tennessee",
+  "currentTeam": "Wake Forest",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:12:41.372Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:12:41.372Z"
+}

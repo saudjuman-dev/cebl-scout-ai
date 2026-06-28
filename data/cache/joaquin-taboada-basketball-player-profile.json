@@ -1,0 +1,49 @@
+{
+  "fullName": "JOAQUIN TABOADA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joaquin-Taboada/702672",
+  "height": "6'3'",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Nacional",
+      "league": "URU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Grupo Santiago",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Pablo Laso",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Soto",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Herbalife Gran Canar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:06:44.884Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:06:44.884Z"
+}

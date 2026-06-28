@@ -1,0 +1,45 @@
+{
+  "fullName": "NATE BITTLE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nate-Bittle/518629",
+  "height": "7'0'",
+  "college": "University of Oregon",
+  "currentTeam": "Oregon",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Oregon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oregon",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:13:09.676Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:13:09.676Z"
+}

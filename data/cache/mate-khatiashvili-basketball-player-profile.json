@@ -1,0 +1,44 @@
+{
+  "fullName": "MATE KHATIASHVILI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mate-Khatiashvili/705923",
+  "height": "6'4'",
+  "currentTeam": "Baskonia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Fundacion 5 11",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Baskonia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:02:00.238Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:02:00.238Z"
+}

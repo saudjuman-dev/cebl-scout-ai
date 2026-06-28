@@ -1,0 +1,29 @@
+{
+  "fullName": "PASHA GOODARZI basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Pasha-Goodarzi/706809",
+  "height": "6'3'",
+  "currentTeam": "SJSU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SJSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:11:43.143Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:11:43.143Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "ROBERT LEE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Robert-Lee/558404",
+  "height": "6'2'",
+  "currentTeam": "Lamar",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "WSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "WSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lamar",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:42:38.303Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:42:38.303Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "JACARI WHITE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jacari-White/609459",
+  "height": "6'3'",
+  "college": "College of Florida",
+  "currentTeam": "Virginia",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "State College FL",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "NDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "NDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NDSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:14:25.594Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:14:25.594Z"
+}

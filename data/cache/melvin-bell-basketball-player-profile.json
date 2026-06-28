@@ -1,0 +1,19 @@
+{
+  "fullName": "MELVIN BELL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Melvin-Bell/707179",
+  "height": "6'4'",
+  "currentTeam": "SJSU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "SJSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:11:30.723Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:11:30.723Z"
+}

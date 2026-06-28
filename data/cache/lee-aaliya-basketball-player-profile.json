@@ -1,0 +1,59 @@
+{
+  "fullName": "LEE AALIYA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lee-Aaliya/598820",
+  "height": "6'9'",
+  "currentTeam": "Murcia U22",
+  "careerHistory": [
+    {
+      "year": "2021",
+      "team": "GELP",
+      "league": "ARG-2"
+    },
+    {
+      "year": "21-22",
+      "team": "GELP",
+      "league": "ARG-2"
+    },
+    {
+      "year": "22-23",
+      "team": "GELP",
+      "league": "ARG-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Atenas Cordoba",
+      "league": "ARG-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Palma BM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Instituto Cordoba",
+      "league": "LAM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Instituto Cordoba",
+      "league": "ARG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:02:58.042Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:02:58.042Z"
+}

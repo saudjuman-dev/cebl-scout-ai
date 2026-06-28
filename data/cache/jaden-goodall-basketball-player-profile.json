@@ -1,0 +1,20 @@
+{
+  "fullName": "JADEN GOODALL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jaden-Goodall/639440",
+  "height": "6'6'",
+  "college": "University of California",
+  "currentTeam": "SJSU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "SJSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:12:06.925Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:12:06.925Z"
+}

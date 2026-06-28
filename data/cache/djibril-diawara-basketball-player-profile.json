@@ -1,0 +1,29 @@
+{
+  "fullName": "DJIBRIL DIAWARA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Djibril-Diawara/573715",
+  "height": "6'3'",
+  "currentTeam": "McCook CC",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Fos-sur-Mer",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Chartres",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "McCook CC",
+      "league": "JUCO"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:38:07.401Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:38:07.401Z"
+}

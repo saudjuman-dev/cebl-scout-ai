@@ -1,0 +1,44 @@
+{
+  "fullName": "HUGO NGUYEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Nguyen/710192",
+  "height": "6'1'",
+  "currentTeam": "Le Mans",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Paris U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:34:51.042Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:34:51.042Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "SIDY SENE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sidy-Sene/747507",
+  "height": "6'10'",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:39:50.023Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:39:50.023Z"
+}

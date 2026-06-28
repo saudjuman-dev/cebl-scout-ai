@@ -1,0 +1,35 @@
+{
+  "fullName": "LENNART ROEMER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lennart-Roemer/650952",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 LENNART ROEMER basketball player profile Uniform",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Wolfenbuettel",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Oldenburg",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolfenbuettel",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:25:31.111Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:25:31.111Z"
+}

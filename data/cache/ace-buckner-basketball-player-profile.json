@@ -1,0 +1,19 @@
+{
+  "fullName": "ACE BUCKNER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ace-Buckner/740532",
+  "height": "6'3'",
+  "currentTeam": "Clemson",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Clemson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:43:35.752Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:43:35.752Z"
+}

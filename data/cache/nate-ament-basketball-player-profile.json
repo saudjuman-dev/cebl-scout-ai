@@ -1,0 +1,20 @@
+{
+  "fullName": "NATE AMENT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nate-Ament/742461",
+  "height": "6'9'",
+  "college": "University of Tennessee",
+  "currentTeam": "Tennessee",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:12:25.495Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:12:25.495Z"
+}

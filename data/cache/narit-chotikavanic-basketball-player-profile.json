@@ -1,0 +1,29 @@
+{
+  "fullName": "NARIT CHOTIKAVANIC basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Narit-Chotikavanic/756531",
+  "height": "6'2'",
+  "currentTeam": "SF Austin",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "WTAM",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "WTAM",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "SF Austin",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:46:03.692Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:46:03.692Z"
+}

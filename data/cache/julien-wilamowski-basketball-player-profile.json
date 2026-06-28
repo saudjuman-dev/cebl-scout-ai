@@ -1,0 +1,29 @@
+{
+  "fullName": "JULIEN WILAMOWSKI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Julien-Wilamowski/747480",
+  "height": "6'7'",
+  "currentTeam": "Cholet U21",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Saint Vallier",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cholet U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:33:27.394Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:33:27.394Z"
+}

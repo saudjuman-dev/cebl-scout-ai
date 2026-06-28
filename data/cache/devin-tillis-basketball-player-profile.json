@@ -1,0 +1,45 @@
+{
+  "fullName": "DEVIN TILLIS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Devin-Tillis/424142",
+  "height": "6'7'",
+  "college": "University of Nevada",
+  "currentTeam": "Virginia",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "UNLV",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "UC Irvine",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:14:31.833Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:14:31.833Z"
+}

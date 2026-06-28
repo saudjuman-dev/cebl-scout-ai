@@ -1,0 +1,44 @@
+{
+  "fullName": "ALEKSANDR PANASIUK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aleksandr-Panasiuk/738939",
+  "height": "6'6'",
+  "currentTeam": "G.Canaria U22",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Herbalife Gran Canar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gran Canaria",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Herbalife Gran Canar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gran Canaria",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "G.Canaria U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:08:10.813Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:08:10.813Z"
+}

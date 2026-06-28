@@ -1,0 +1,24 @@
+{
+  "fullName": "VINCENT EMBINGA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vincent-Embinga/708550",
+  "height": "6'4'",
+  "currentTeam": "Hyeres-Toulon",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "St-Quentin U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:36:49.306Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:36:49.306Z"
+}

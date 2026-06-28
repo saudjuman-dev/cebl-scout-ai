@@ -1,0 +1,44 @@
+{
+  "fullName": "MUHAMMED KARA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Muhammed-Kara/626270",
+  "height": "6'10'",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Anka Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "iLab",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:09:54.325Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:09:54.325Z"
+}

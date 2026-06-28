@@ -1,0 +1,60 @@
+{
+  "fullName": "LENNI KUNZEWITSCH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lenni-Kunzewitsch/641175",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 LENNI KUNZEWITSCH basketball player profile Uniform",
+  "currentTeam": "OrangeAcad.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Loewen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Loewen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Bball Loewen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Loewen",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Bball Loewen",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Bball Loewen",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm BBU 01",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:23:17.686Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:23:17.686Z"
+}

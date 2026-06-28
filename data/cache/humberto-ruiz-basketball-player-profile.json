@@ -1,0 +1,44 @@
+{
+  "fullName": "HUMBERTO RUIZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Humberto-Ruiz/752471",
+  "height": "6'5'",
+  "currentTeam": "Joventut",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Joventut B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Joventut Badalona U1",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Joventut",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:04:03.656Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:04:03.656Z"
+}

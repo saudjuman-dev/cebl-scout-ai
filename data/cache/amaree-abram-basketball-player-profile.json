@@ -1,0 +1,40 @@
+{
+  "fullName": "AMAREE ABRAM basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Amaree-Abram/612680",
+  "height": "6'4'",
+  "college": "University of Mississippi",
+  "currentTeam": "Tennessee",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Ole Miss",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Georgia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "La Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "La Tech",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:12:52.732Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:12:52.732Z"
+}

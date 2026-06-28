@@ -1,0 +1,49 @@
+{
+  "fullName": "GUNARS GRINVALDS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gunars-Grinvalds/705934",
+  "height": "6'7'",
+  "currentTeam": "Real Madrid",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Madrid U18 team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T08:01:23.725Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T08:01:23.725Z"
+}

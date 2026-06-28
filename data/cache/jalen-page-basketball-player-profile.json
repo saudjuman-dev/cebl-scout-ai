@@ -1,0 +1,75 @@
+{
+  "fullName": "JALEN PAGE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Page/565546",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JALEN PAGE basketball player profile Uniform",
+  "currentTeam": "Rostock",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Lee",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Lee",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Lee",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lee",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Trevecca",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Trevecca",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Trevecca",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Trevecca",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Trevecca",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:26:41.339Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:26:41.339Z"
+}

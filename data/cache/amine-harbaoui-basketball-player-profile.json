@@ -1,0 +1,24 @@
+{
+  "fullName": "AMINE HARBAOUI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Amine-Harbaoui/785060",
+  "height": "6'3'",
+  "currentTeam": "Hyeres-Toulon",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:36:38.342Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:36:38.342Z"
+}

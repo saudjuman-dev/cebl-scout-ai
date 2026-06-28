@@ -1,0 +1,75 @@
+{
+  "fullName": "BENEDICT BAUMGARTH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Benedict-Baumgarth/632076",
+  "height": "7'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16 BENEDICT BAUMGARTH basketball player profile Uniform",
+  "currentTeam": "Rostock Acad.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Wulfen",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Vechta",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Herten",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Aschersleben Tigers",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Metropol Ruhr",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Rostock Acad.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:26:47.587Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:26:47.587Z"
+}

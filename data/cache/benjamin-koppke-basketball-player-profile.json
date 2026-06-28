@@ -7,7 +7,7 @@
   "careerHistory": [
     {
       "year": "21-22",
-      "team": "Ulm BBU 01",
+      "team": "01 Ulm",
       "league": "GER-4"
     },
     {
@@ -76,10 +76,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-06-21T08:53:06.867Z",
+  "_lastVerified": "2026-06-28T08:42:46.616Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-21T08:53:06.867Z"
+  "cachedAt": "2026-06-28T08:42:46.616Z"
 }

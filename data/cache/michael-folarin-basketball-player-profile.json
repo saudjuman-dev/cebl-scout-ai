@@ -1,0 +1,40 @@
+{
+  "fullName": "MICHAEL FOLARIN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Michael-Folarin/562414",
+  "height": "6'10'",
+  "college": "University of Nevada",
+  "currentTeam": "ETAMU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "EWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Salt Lake CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "ETAMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:30:50.931Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:30:50.931Z"
+}

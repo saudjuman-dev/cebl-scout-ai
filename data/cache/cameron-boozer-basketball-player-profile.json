@@ -1,0 +1,19 @@
+{
+  "fullName": "CAMERON BOOZER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cameron-Boozer/609847",
+  "height": "6'9'",
+  "currentTeam": "Duke",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Duke",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-06-28T07:46:32.245Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-06-28T07:46:32.245Z"
+}
