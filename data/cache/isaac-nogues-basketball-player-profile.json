@@ -57,18 +57,18 @@
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-06-28T08:00:45.345Z",
+  "_lastVerified": "2026-07-05T08:02:06.839Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T08:00:45.345Z"
+  "cachedAt": "2026-07-05T08:02:06.839Z"
 }

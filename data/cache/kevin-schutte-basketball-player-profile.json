@@ -1,0 +1,40 @@
+{
+  "fullName": "KEVIN SCHUTTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Schutte/401387",
+  "height": "6'10'",
+  "college": "University of Incarnate Word",
+  "currentTeam": "Cordoba CB",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Hofstra",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sodertalje",
+      "league": "SWE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-05T11:42:23.909Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T11:42:23.909Z"
+}

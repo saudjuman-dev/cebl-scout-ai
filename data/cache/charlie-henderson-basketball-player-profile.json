@@ -1,0 +1,40 @@
+{
+  "fullName": "CHARLIE HENDERSON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Charlie-Henderson/650434",
+  "height": "6'9'",
+  "college": "University San Marcos",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Irvine Valley",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Irvine Valley",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "CSUSM",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "CSUSB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Getafe",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-05T11:36:45.353Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T11:36:45.353Z"
+}

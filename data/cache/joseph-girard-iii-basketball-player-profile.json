@@ -52,23 +52,23 @@
     {
       "year": "25-26",
       "team": "Cedevita Ol.",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Cedevita Ol.",
       "league": "ADR-1"
     },
     {
       "year": "25-26",
       "team": "Trabzonspor",
       "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cedevita Ol.",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T08:19:15.946Z",
+  "_lastVerified": "2026-07-05T08:47:18.695Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T08:19:15.946Z"
+  "cachedAt": "2026-07-05T08:47:18.695Z"
 }

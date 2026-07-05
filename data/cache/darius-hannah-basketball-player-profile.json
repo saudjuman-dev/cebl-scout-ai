@@ -1,0 +1,59 @@
+{
+  "fullName": "DARIUS HANNAH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Darius-Hannah/563546",
+  "height": "6'9'",
+  "currentTeam": "Kiryat Ata",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Bradley",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bradley",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bradley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bradley",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:15:14.005Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:15:14.005Z"
+}

@@ -1,0 +1,60 @@
+{
+  "fullName": "MARCUS WILLIAMS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcus-Williams/555506",
+  "height": "6'2'",
+  "college": "University of Wyoming",
+  "currentTeam": "M.Rishon",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Wyoming",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas A&M",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "USF",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2025",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Rishon",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:18:29.364Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:18:29.364Z"
+}

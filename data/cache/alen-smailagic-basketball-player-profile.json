@@ -98,12 +98,12 @@
     {
       "year": "25-26",
       "team": "Virtus BO",
-      "league": "ITA-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Virtus BO",
-      "league": "EUROL-1"
+      "league": "ITA-20"
     },
     {
       "year": "25-26",
@@ -111,10 +111,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:49:32.875Z",
+  "_lastVerified": "2026-07-05T07:41:55.336Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:49:32.875Z"
+  "cachedAt": "2026-07-05T07:41:55.336Z"
 }

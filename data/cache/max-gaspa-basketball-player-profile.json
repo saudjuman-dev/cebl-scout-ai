@@ -31,11 +31,6 @@
     },
     {
       "year": "25-26",
-      "team": "Manresa",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Manresa U22",
       "league": "ESP-5"
     },
@@ -43,12 +38,17 @@
       "year": "25-26",
       "team": "Manresa",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T08:05:19.675Z",
+  "_lastVerified": "2026-07-05T08:11:42.559Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T08:05:19.675Z"
+  "cachedAt": "2026-07-05T08:11:42.559Z"
 }

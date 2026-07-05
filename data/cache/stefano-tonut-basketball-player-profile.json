@@ -153,12 +153,12 @@
     {
       "year": "25-26",
       "team": "Milano",
-      "league": "ITA-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Milano",
-      "league": "EUROL-1"
+      "league": "ITA-20"
     },
     {
       "year": "25-26",
@@ -166,10 +166,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:48:53.735Z",
+  "_lastVerified": "2026-07-05T07:41:06.384Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:48:53.735Z"
+  "cachedAt": "2026-07-05T07:41:06.384Z"
 }

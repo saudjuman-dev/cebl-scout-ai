@@ -87,11 +87,6 @@
     },
     {
       "year": "25-26",
-      "team": "Manresa",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Bosna",
       "league": "FEL-1"
     },
@@ -111,15 +106,20 @@
       "league": "BIH-1"
     },
     {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
       "year": "2026",
       "team": "Arecibo",
       "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-06-28T08:05:09.465Z",
+  "_lastVerified": "2026-07-05T08:10:59.927Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T08:05:09.465Z"
+  "cachedAt": "2026-07-05T08:10:59.927Z"
 }

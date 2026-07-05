@@ -2,7 +2,7 @@
   "fullName": "JT SHUMATE basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/JT-Shumate/488353",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U18 European Championships U20 European Championships European Championships U16 JT SHUMATE basketball player profile Uniform No",
+  "college": "University of Toledo",
   "currentTeam": "Bourg",
   "careerHistory": [
     {
@@ -93,23 +93,23 @@
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Bourg",
       "league": "FRA-1"
     },
     {
       "year": "25-26",
       "team": "Nymburk",
       "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:34:05.408Z",
+  "_lastVerified": "2026-07-05T07:19:55.559Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:34:05.408Z"
+  "cachedAt": "2026-07-05T07:19:55.559Z"
 }

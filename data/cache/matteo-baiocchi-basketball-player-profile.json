@@ -27,13 +27,13 @@
     },
     {
       "year": "25-26",
-      "team": "Bologna",
-      "league": "ITA-7"
+      "team": "Virtus BO",
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Virtus BO",
-      "league": "EUROL-1"
+      "team": "Bologna",
+      "league": "ITA-7"
     },
     {
       "year": "25-26",
@@ -41,10 +41,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:49:49.782Z",
+  "_lastVerified": "2026-07-05T07:42:27.923Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:49:49.782Z"
+  "cachedAt": "2026-07-05T07:42:27.923Z"
 }

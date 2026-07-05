@@ -1,0 +1,40 @@
+{
+  "fullName": "BLAISE KEITA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Blaise-Keita/368218",
+  "height": "6'11'",
+  "college": "University of Nebraska",
+  "currentTeam": "WKU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Coffeyville",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Coffeyville",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "WKU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:49:40.321Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:49:40.321Z"
+}

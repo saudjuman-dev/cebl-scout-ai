@@ -1,0 +1,35 @@
+{
+  "fullName": "CHRISTIAN HARMON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Christian-Harmon/737700",
+  "height": "6'6'",
+  "college": "University of Virginia",
+  "currentTeam": "Arkansas St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gulf Coast CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Gulf Coast CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Arkansas St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Arkansas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T08:26:05.714Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T08:26:05.714Z"
+}

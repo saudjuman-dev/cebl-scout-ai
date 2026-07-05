@@ -1,0 +1,20 @@
+{
+  "fullName": "NAJAI HINES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Najai-Hines/793601",
+  "height": "6'7'",
+  "college": "University of Connecticut",
+  "currentTeam": "Seton Hall",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T07:57:17.622Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T07:57:17.622Z"
+}

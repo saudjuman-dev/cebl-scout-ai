@@ -1,0 +1,55 @@
+{
+  "fullName": "KYLE STURDIVANT basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Sturdivant/427957",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 KYLE STURDIVANT basketball player profile Uniform",
+  "currentTeam": "Bayreuth",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "USC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Georgia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Georgia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Georgia Tech",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Georgia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Georgia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cair 2030",
+      "league": "MKD-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-05T09:53:28.753Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T09:53:28.753Z"
+}

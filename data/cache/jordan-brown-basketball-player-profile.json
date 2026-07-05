@@ -1,0 +1,80 @@
+{
+  "fullName": "JORDAN BROWN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Brown/364932",
+  "height": "6'11'",
+  "college": "University of Nevada",
+  "currentTeam": "Siauliai",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Nevada",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Arizona",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Louisiana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Memphis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Basket Brno",
+      "league": "CZE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dubrava",
+      "league": "CRO-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Basket Brno",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Team Challenge ALS",
+      "league": "TBT"
+    },
+    {
+      "year": "2025",
+      "team": "Team Challenge ALS",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kaposvari",
+      "league": "HUN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T09:30:04.227Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T09:30:04.227Z"
+}

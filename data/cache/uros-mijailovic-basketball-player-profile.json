@@ -21,13 +21,13 @@
     },
     {
       "year": "25-26",
-      "team": "Partizan BG",
-      "league": "ANGT-1"
+      "team": "Partizan",
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Partizan",
-      "league": "EUROL-1"
+      "team": "Partizan BG",
+      "league": "ANGT-1"
     },
     {
       "year": "25-26",
@@ -50,10 +50,10 @@
       "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:42:18.457Z",
+  "_lastVerified": "2026-07-05T07:33:59.698Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:42:18.457Z"
+  "cachedAt": "2026-07-05T07:33:59.698Z"
 }

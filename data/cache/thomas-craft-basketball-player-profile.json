@@ -1,0 +1,19 @@
+{
+  "fullName": "THOMAS CRAFT basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Thomas-Craft/755147",
+  "height": "6'7'",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:10:26.901Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:10:26.901Z"
+}

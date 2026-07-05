@@ -21,11 +21,6 @@
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Roanne",
       "league": "FRA-2"
     },
@@ -38,12 +33,17 @@
       "year": "25-26",
       "team": "Bourg U21",
       "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:34:12.575Z",
+  "_lastVerified": "2026-07-05T07:20:20.521Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:34:12.575Z"
+  "cachedAt": "2026-07-05T07:20:20.521Z"
 }

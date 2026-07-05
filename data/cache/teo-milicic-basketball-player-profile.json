@@ -22,13 +22,13 @@
     },
     {
       "year": "25-26",
-      "team": "ratiopharm Ulm U18 t",
-      "league": "ANGT-1"
+      "team": "Ulm",
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
-      "team": "Ulm",
-      "league": "Eurocup-1"
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
     },
     {
       "year": "25-26",
@@ -46,10 +46,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:22:58.000Z",
+  "_lastVerified": "2026-07-05T07:01:19.056Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:22:58.000Z"
+  "cachedAt": "2026-07-05T07:01:19.056Z"
 }

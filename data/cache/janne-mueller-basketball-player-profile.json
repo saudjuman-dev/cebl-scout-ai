@@ -67,11 +67,6 @@
     },
     {
       "year": "25-26",
-      "team": "Hamburg",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Rist Wedel",
       "league": "GER-3"
     },
@@ -79,12 +74,17 @@
       "year": "25-26",
       "team": "Hamburg",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:27:42.262Z",
+  "_lastVerified": "2026-07-05T07:09:58.853Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:27:42.262Z"
+  "cachedAt": "2026-07-05T07:09:58.853Z"
 }

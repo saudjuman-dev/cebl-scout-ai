@@ -73,18 +73,18 @@
     {
       "year": "25-26",
       "team": "Venezia",
-      "league": "Eurocup-1"
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
       "team": "Venezia",
-      "league": "ITA-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:50:29.683Z",
+  "_lastVerified": "2026-07-05T07:44:11.371Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:50:29.683Z"
+  "cachedAt": "2026-07-05T07:44:11.371Z"
 }

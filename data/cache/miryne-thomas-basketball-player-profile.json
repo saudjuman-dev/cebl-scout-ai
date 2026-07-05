@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.asia-basket.com/player/Miryne-Thomas/430975",
   "height": "6'8'",
   "college": "University of Maryland Eastern Shore",
-  "currentTeam": "Hoops",
+  "currentTeam": "Ottawa",
   "careerHistory": [
     {
       "year": "17-18",
@@ -74,12 +74,17 @@
       "year": "25-26",
       "team": "Hoops",
       "league": "LEB-1"
+    },
+    {
+      "year": "2026",
+      "team": "Ottawa",
+      "league": "CEBL"
     }
   ],
-  "_lastVerified": "2026-06-28T08:34:08.616Z",
+  "_lastVerified": "2026-07-05T09:48:07.548Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T08:34:08.616Z"
+  "cachedAt": "2026-07-05T09:48:07.548Z"
 }

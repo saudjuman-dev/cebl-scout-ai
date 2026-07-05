@@ -127,18 +127,18 @@
     {
       "year": "25-26",
       "team": "London L.",
-      "league": "Eurocup-1"
+      "league": "ENG-1"
     },
     {
       "year": "25-26",
       "team": "London L.",
-      "league": "ENG-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T09:29:26.864Z",
+  "_lastVerified": "2026-07-05T11:10:56.665Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T09:29:26.864Z"
+  "cachedAt": "2026-07-05T11:10:56.665Z"
 }

@@ -32,11 +32,6 @@
     },
     {
       "year": "25-26",
-      "team": "Ulm",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "OrangeAcad.",
       "league": "GER-3"
     },
@@ -49,12 +44,17 @@
       "year": "25-26",
       "team": "Ulm",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:23:09.035Z",
+  "_lastVerified": "2026-07-05T07:01:28.656Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:23:09.035Z"
+  "cachedAt": "2026-07-05T07:01:28.656Z"
 }

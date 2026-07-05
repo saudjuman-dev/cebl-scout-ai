@@ -1,0 +1,40 @@
+{
+  "fullName": "CANTIA RAHMING basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cantia-Rahming/610375",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 CANTIA RAHMING basketball player profile Height",
+  "currentTeam": "Bayreuth",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "St.Leo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Leo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "USA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-05T09:53:22.554Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T09:53:22.554Z"
+}

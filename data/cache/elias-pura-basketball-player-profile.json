@@ -1,0 +1,50 @@
+{
+  "fullName": "ELIAS PURA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elias-Pura/664634",
+  "height": "6'8'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 ELIAS PURA basketball player profile Uniform",
+  "currentTeam": "Bisons",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Ura Basket",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ura Basket",
+      "league": "FIN-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Turun",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "23-24",
+      "team": "TuNMKY",
+      "league": "FIN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Bisons",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "TuNMKY",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bisons",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T12:06:33.128Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T12:06:33.128Z"
+}

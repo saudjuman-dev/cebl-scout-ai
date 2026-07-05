@@ -2,6 +2,7 @@
   "fullName": "MATT FRIERSON basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Frierson/369211",
   "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 MATT FRIERSON basketball player profile Uniform No",
   "currentTeam": "Palma BM",
   "careerHistory": [
     {
@@ -80,10 +81,10 @@
       "league": "NED-1"
     }
   ],
-  "_lastVerified": "2026-06-28T09:30:46.062Z",
+  "_lastVerified": "2026-07-05T11:13:10.694Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T09:30:46.062Z"
+  "cachedAt": "2026-07-05T11:13:10.694Z"
 }

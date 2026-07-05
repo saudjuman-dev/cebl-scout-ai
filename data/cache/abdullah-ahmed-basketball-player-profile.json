@@ -1,0 +1,35 @@
+{
+  "fullName": "ABDULLAH AHMED basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Abdullah-Ahmed/521332",
+  "height": "6'10'",
+  "college": "University of Massachusetts",
+  "currentTeam": "BYU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "BYU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T09:30:54.095Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T09:30:54.095Z"
+}

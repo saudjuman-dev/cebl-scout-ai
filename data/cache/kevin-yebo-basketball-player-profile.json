@@ -97,23 +97,23 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Chemnitz",
       "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Tenerife",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-28T07:27:06.258Z",
+  "_lastVerified": "2026-07-05T07:08:04.176Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-28T07:27:06.258Z"
+  "cachedAt": "2026-07-05T07:08:04.176Z"
 }

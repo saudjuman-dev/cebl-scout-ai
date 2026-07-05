@@ -1,0 +1,80 @@
+{
+  "fullName": "MARCUS BINGHAM JR. basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcus-Bingham-Jr/457211",
+  "height": "7'0'",
+  "college": "College All",
+  "currentTeam": "UNICS",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Michigan St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Hapoel Haifa",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel Holon",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel TA",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel Holon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel TA",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNICS",
+      "league": "VTB-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T08:43:24.980Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T08:43:24.980Z"
+}

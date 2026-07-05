@@ -1,0 +1,94 @@
+{
+  "fullName": "JOEL ALMEIDA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Almeida/177540",
+  "height": "6'4'",
+  "currentTeam": "Galitos-Barreiro",
+  "careerHistory": [
+    {
+      "year": "09-10",
+      "team": "Vagos",
+      "league": "POR-1"
+    },
+    {
+      "year": "10-11",
+      "team": "Sampaense",
+      "league": "POR-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Sampaense",
+      "league": "POR-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Cambados",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Cambados",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Coviran Granada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Sokhumi",
+      "league": "GEO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Psychikou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Kutaisi",
+      "league": "GEO-1"
+    },
+    {
+      "year": "21-22",
+      "team": "FAP",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Kriol S.",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Kriol S.",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Kriol S.",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T09:40:14.449Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T09:40:14.449Z"
+}

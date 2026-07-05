@@ -1,0 +1,29 @@
+{
+  "fullName": "TOREY ALSTON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Torey-Alston/703915",
+  "height": "6'9'",
+  "currentTeam": "MTSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "MTSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "MTSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "MTSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:10:45.439Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:10:45.439Z"
+}

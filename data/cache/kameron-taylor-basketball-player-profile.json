@@ -1,0 +1,30 @@
+{
+  "fullName": "KAMERON TAYLOR basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kameron-Taylor/745605",
+  "height": "6'7'",
+  "college": "University of North Carolina",
+  "currentTeam": "UNC Asheville",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UNC Asheville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNC Asheville",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "UNC Asheville",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T08:25:24.956Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T08:25:24.956Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "NICOLAS MARTY-DECKER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicolas-Marty-Decker/618729",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NICOLAS MARTY",
+  "currentTeam": "Paderborn",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Paderborn",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Paderborn",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:02:20.877Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:02:20.877Z"
+}

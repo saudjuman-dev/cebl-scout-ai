@@ -1,0 +1,75 @@
+{
+  "fullName": "J'VON MCCORMICK basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/JVon-McCormick/430553",
+  "height": "6'0'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games J",
+  "currentTeam": "H.Holon",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Lee JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Lee JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Kocaeli",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Foolad",
+      "league": "IRI-1"
+    },
+    {
+      "year": "2024",
+      "team": "War Ready",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Al Sadd",
+      "league": "QAT-1"
+    },
+    {
+      "year": "2025",
+      "team": "Maristes",
+      "league": "LEB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Silute",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rahoveci",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Holon",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-05T09:02:35.329Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T09:02:35.329Z"
+}

@@ -1,0 +1,28 @@
+{
+  "fullName": "PABLO HERNANDEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Hernandez/784654",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-05T11:26:36.043Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T11:26:36.043Z"
+}

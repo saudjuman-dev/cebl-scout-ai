@@ -1,0 +1,114 @@
+{
+  "fullName": "JESSIE BEGARIN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jessie-Begarin/67854",
+  "height": "6'3'",
+  "currentTeam": "Fos-sur-Mer",
+  "careerHistory": [
+    {
+      "year": "06-07",
+      "team": "Besancon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "07-08",
+      "team": "Clermont",
+      "league": "FRA-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Souffel",
+      "league": "FRA-3"
+    },
+    {
+      "year": "12-13",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Le Portel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Le Portel",
+      "league": "FEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Rouen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Chalons-Reims",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Champagne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Champagne",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Quimper",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Faenza",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "FOS Provence",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-05T10:17:00.854Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-05T10:17:00.854Z"
+}

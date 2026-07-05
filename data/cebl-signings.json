@@ -1,9 +1,111 @@
 {
-  "_lastScraped": "2026-06-28T10:09:09.121Z",
+  "_lastScraped": "2026-07-05T12:10:07.356Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Prince Oduro",
+      "team": "Montreal Alliance",
+      "date": "2026-07-03",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Blondeau Tchoukuiegno",
+      "team": "Montreal Alliance",
+      "date": "2026-07-03",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-02",
+      "type": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Trentyn Flowers",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-02",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Miryne Thomas",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-07-02",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "IT Horton",
+      "team": "Montreal Alliance",
+      "date": "2026-07-01",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "David Muenkat",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-07-01",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Prince Oduro released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-01",
+      "type": "Prince Oduro released from Club"
+    },
+    {
+      "player": "JD Muila placed on Club's Injured List (Upper Body)",
+      "team": "Niagara River Lions",
+      "date": "2026-07-01",
+      "type": "JD Muila placed on Club's Injured List (Upper Body)"
+    },
+    {
+      "player": "Justyn Hamilton",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-30",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Davion Warren released from Club",
+      "team": "Montreal Alliance",
+      "date": "2026-06-30",
+      "type": "Davion Warren released from Club"
+    },
+    {
+      "player": "Blondeau Tchoukuiegno released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-06-30",
+      "type": "Blondeau Tchoukuiegno released from Club"
+    },
+    {
+      "player": "Jefferson Koulibaly",
+      "team": "Montreal Alliance",
+      "date": "2026-06-29",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "David Joplin",
+      "team": "Calgary Surge",
+      "date": "2026-06-29",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-06-29",
+      "type": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Makai Ashton-Langford",
+      "team": "Edmonton Stingers",
+      "date": "2026-06-29",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Landers Nolley released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-06-28",
+      "type": "Landers Nolley released from Club"
+    },
     {
       "player": "Lansana Nwosu released from Club",
       "team": "Montreal Alliance",
@@ -19,6 +121,12 @@
     {
       "player": "Adong Mahuoi",
       "team": "Edmonton Stingers",
+      "date": "2026-06-27",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Sincere Carry",
+      "team": "Calgary Surge",
       "date": "2026-06-27",
       "type": "Standard Player Contract"
     },
