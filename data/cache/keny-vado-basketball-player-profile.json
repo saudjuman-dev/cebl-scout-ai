@@ -1,0 +1,34 @@
+{
+  "fullName": "KENY VADO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Keny-Vado/742981",
+  "height": "6'9'",
+  "currentTeam": "Pole France",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:13:16.833Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:13:16.833Z"
+}

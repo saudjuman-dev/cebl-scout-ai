@@ -1,0 +1,55 @@
+{
+  "fullName": "JALEN MCCOY basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-McCoy/499969",
+  "height": "6'5'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 JALEN MCCOY basketball player profile Uniform No",
+  "currentTeam": "Kipina",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "USC Aiken",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "USC Aiken",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Kipina",
+      "league": "FIN-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T11:00:06.010Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T11:00:06.010Z"
+}

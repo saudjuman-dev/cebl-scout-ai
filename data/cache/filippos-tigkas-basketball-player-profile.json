@@ -1,0 +1,79 @@
+{
+  "fullName": "FILIPPOS TIGKAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Filippos-Tigkas/445393",
+  "height": "6'1'",
+  "currentTeam": "Keravnos",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Apollon LMS",
+      "league": "CYP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Keravnos Nicosia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Keravnos Nicosia",
+      "league": "CYP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Keravnos Nicosia",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Keravnos Nicosia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Keravnos Nicosia",
+      "league": "CYP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Keravnos Nicosia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Keravnos Nicosia",
+      "league": "CYP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Keravnos Nicosia",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Keravnos Nicosia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Keravnos Nicosia",
+      "league": "CYP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Keravnos",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Keravnos",
+      "league": "CYP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:33:48.112Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:33:48.112Z"
+}

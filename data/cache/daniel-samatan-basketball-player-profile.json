@@ -1,0 +1,43 @@
+{
+  "fullName": "DANIEL SAMATAN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Samatan/711314",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:33:37.815Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:33:37.815Z"
+}

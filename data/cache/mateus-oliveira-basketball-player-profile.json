@@ -1,0 +1,19 @@
+{
+  "fullName": "MATEUS OLIVEIRA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mateus-Oliveira/687613",
+  "height": "6'3'",
+  "currentTeam": "Esgueira",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:40:46.601Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:40:46.601Z"
+}

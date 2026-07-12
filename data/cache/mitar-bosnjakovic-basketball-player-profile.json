@@ -2,7 +2,7 @@
   "fullName": "MITAR BOSNJAKOVIC basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mitar-Bosnjakovic/617805",
   "height": "6'7'",
-  "currentTeam": "Partizan",
+  "currentTeam": "Serbia",
   "careerHistory": [
     {
       "year": "22-23",
@@ -65,10 +65,10 @@
       "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:33:56.556Z",
+  "_lastVerified": "2026-07-12T06:45:33.506Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:33:56.556Z"
+  "cachedAt": "2026-07-12T06:45:33.506Z"
 }

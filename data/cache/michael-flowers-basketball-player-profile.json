@@ -72,16 +72,6 @@
     },
     {
       "year": "25-26",
-      "team": "Heidelberg",
-      "league": "BCL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Petkim",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Petkim",
       "league": "TUR-1"
     },
@@ -99,12 +89,22 @@
       "year": "25-26",
       "team": "Lietkabelis",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Heidelberg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:27:18.363Z",
+  "_lastVerified": "2026-07-12T08:30:35.930Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:27:18.363Z"
+  "cachedAt": "2026-07-12T08:30:35.930Z"
 }

@@ -1,0 +1,23 @@
+{
+  "fullName": "ALFONSO VICENTE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alfonso-Vicente/797836",
+  "currentTeam": "Caja 87",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Alcala Caja87",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:18:35.886Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:18:35.886Z"
+}

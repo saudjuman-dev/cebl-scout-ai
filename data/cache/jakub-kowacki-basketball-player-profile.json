@@ -1,0 +1,39 @@
+{
+  "fullName": "JAKUB KOWACKI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Kowacki/691837",
+  "height": "6'3'",
+  "currentTeam": "Zastal",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "SKM ZG",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Zastal",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "SKM ZG",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "SKM ZG",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Orlen Zastal",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:23:08.405Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:23:08.405Z"
+}

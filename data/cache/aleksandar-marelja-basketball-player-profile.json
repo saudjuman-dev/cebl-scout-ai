@@ -152,17 +152,17 @@
     },
     {
       "year": "24-25",
-      "team": "Dinamo B.",
+      "team": "Dinamo",
       "league": "ROM-1"
     },
     {
       "year": "24-25",
-      "team": "Dinamo B.",
+      "team": "Dinamo",
       "league": "ROM-20"
     },
     {
       "year": "24-25",
-      "team": "Dinamo B.",
+      "team": "Dinamo",
       "league": "ENBL-1"
     },
     {
@@ -176,10 +176,10 @@
       "league": "SRB-1"
     }
   ],
-  "_lastVerified": "2026-07-05T11:56:38.627Z",
+  "_lastVerified": "2026-07-12T10:53:24.507Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T11:56:38.627Z"
+  "cachedAt": "2026-07-12T10:53:24.507Z"
 }

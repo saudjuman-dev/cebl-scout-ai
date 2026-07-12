@@ -1,0 +1,99 @@
+{
+  "fullName": "ANDREAS KANONIDIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andreas-Kanonidis/131379",
+  "height": "6'7'",
+  "currentTeam": "Ermis S.",
+  "careerHistory": [
+    {
+      "year": "08-09",
+      "team": "Panionios",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "10-11",
+      "team": "Ilysiakos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Maroussi",
+      "league": "GRE-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Peristeri GS",
+      "league": "GRE-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Rethymno",
+      "league": "GRE-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Koroivos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Lefkadas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Ase Doukas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Ionikos Nikaias",
+      "league": "GRE-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Dafni",
+      "league": "GRE-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Dafnis",
+      "league": "GRE-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Dafnis",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Milonas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Ermis S.",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:41:56.496Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:41:56.496Z"
+}

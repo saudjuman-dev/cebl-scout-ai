@@ -1,0 +1,49 @@
+{
+  "fullName": "JOKUBAS RUDAITIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jokubas-Rudaitis/664033",
+  "height": "6'6'",
+  "currentTeam": "Lithuania",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:30:31.188Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:30:31.188Z"
+}

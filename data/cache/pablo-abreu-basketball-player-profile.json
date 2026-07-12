@@ -23,12 +23,12 @@
     {
       "year": "25-26",
       "team": "Reggio Emilia",
-      "league": "ITA-7"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Reggio Emilia",
-      "league": "FEL-1"
+      "league": "ITA-7"
     },
     {
       "year": "25-26",
@@ -36,10 +36,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:47:15.872Z",
+  "_lastVerified": "2026-07-12T06:57:23.167Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:47:15.872Z"
+  "cachedAt": "2026-07-12T06:57:23.167Z"
 }

@@ -1,0 +1,18 @@
+{
+  "fullName": "DAVID ACOSTA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Acosta/800562",
+  "currentTeam": "Mataro UE",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Mataro UE",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:39:39.617Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:39:39.617Z"
+}

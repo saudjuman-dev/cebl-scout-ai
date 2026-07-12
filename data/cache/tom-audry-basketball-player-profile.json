@@ -2,7 +2,7 @@
   "fullName": "TOM AUDRY basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tom-Audry/709410",
   "height": "6'6'",
-  "currentTeam": "Dijon",
+  "currentTeam": "France",
   "careerHistory": [
     {
       "year": "23-24",
@@ -30,10 +30,10 @@
       "league": "FRA-6"
     }
   ],
-  "_lastVerified": "2026-07-05T07:27:05.219Z",
+  "_lastVerified": "2026-07-12T06:39:21.836Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:27:05.219Z"
+  "cachedAt": "2026-07-12T06:39:21.836Z"
 }

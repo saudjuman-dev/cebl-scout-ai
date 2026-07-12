@@ -137,11 +137,6 @@
     },
     {
       "year": "25-26",
-      "team": "Bashkimi",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Arriva P.Cukier",
       "league": "POL-1"
     },
@@ -149,12 +144,17 @@
       "year": "25-26",
       "team": "Bashkimi",
       "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bashkimi",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:15:00.216Z",
+  "_lastVerified": "2026-07-12T08:18:44.452Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:15:00.216Z"
+  "cachedAt": "2026-07-12T08:18:44.452Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "TEODOR TRIFONOV basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Teodor-Trifonov/617748",
   "height": "6'5'",
-  "currentTeam": "SBA",
+  "currentTeam": "Bulgaria",
   "careerHistory": [
     {
       "year": "21-22",
@@ -25,10 +25,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-07-05T11:32:59.001Z",
+  "_lastVerified": "2026-07-12T10:29:31.778Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T11:32:59.001Z"
+  "cachedAt": "2026-07-12T10:29:31.778Z"
 }

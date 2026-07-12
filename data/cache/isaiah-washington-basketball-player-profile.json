@@ -72,13 +72,13 @@
     },
     {
       "year": "25-26",
-      "team": "Zaragoza",
-      "league": "FEL-1"
+      "team": "N.Novgorod",
+      "league": "VTB-1"
     },
     {
       "year": "25-26",
-      "team": "N.Novgorod",
-      "league": "VTB-1"
+      "team": "Zaragoza",
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
@@ -91,10 +91,10 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:06:48.859Z",
+  "_lastVerified": "2026-07-12T08:11:53.528Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:06:48.859Z"
+  "cachedAt": "2026-07-12T08:11:53.528Z"
 }

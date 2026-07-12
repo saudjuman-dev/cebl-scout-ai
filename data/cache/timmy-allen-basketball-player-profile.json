@@ -82,13 +82,13 @@
     },
     {
       "year": "25-26",
-      "team": "Trapani",
-      "league": "ITA-1"
+      "team": "PAOK",
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "PAOK",
-      "league": "FEL-1"
+      "team": "Trapani",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
@@ -96,10 +96,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:37:28.365Z",
+  "_lastVerified": "2026-07-12T07:39:54.722Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:37:28.365Z"
+  "cachedAt": "2026-07-12T07:39:54.722Z"
 }

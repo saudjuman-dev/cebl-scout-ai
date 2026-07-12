@@ -57,8 +57,8 @@
     },
     {
       "year": "25-26",
-      "team": "ALBA",
-      "league": "GER-20"
+      "team": "Dubai",
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
@@ -69,6 +69,11 @@
       "year": "25-26",
       "team": "Galatasaray",
       "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -84,17 +89,12 @@
       "year": "25-26",
       "team": "ALBA",
       "league": "GER-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Dubai",
-      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:59:19.627Z",
+  "_lastVerified": "2026-07-12T08:03:01.263Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:59:19.627Z"
+  "cachedAt": "2026-07-12T08:03:01.263Z"
 }

@@ -1,0 +1,19 @@
+{
+  "fullName": "MARIOS DEDES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marios-Dedes/825313",
+  "height": "6'4'",
+  "currentTeam": "Olympiacos",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:47:09.099Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:47:09.099Z"
+}

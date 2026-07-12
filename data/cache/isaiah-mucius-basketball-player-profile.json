@@ -57,18 +57,18 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
+      "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "POL-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:17:59.637Z",
+  "_lastVerified": "2026-07-12T08:16:51.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:17:59.637Z"
+  "cachedAt": "2026-07-12T08:16:51.304Z"
 }

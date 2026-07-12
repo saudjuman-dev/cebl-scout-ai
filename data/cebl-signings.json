@@ -1,9 +1,117 @@
 {
-  "_lastScraped": "2026-07-05T12:10:07.356Z",
+  "_lastScraped": "2026-07-12T11:02:55.326Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Bronson Chambers placed on Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-09",
+      "type": "Bronson Chambers placed on Practice Roster"
+    },
+    {
+      "player": "Kato Jaro removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-07-09",
+      "type": "Kato Jaro removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-07-09",
+      "type": "Ramogi Nyagudi removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Gorjok Gak",
+      "team": "Niagara River Lions",
+      "date": "2026-07-09",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Nathan Tshimanga placed on Club's Injured List (Lower Body)",
+      "team": "Montreal Alliance",
+      "date": "2026-07-09",
+      "type": "Nathan Tshimanga placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Quincy Guerrier placed on Club's Injured List (Lower Body)",
+      "team": "Montreal Alliance",
+      "date": "2026-07-09",
+      "type": "Quincy Guerrier placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Isaac Pierre-Louis removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-07-08",
+      "type": "Isaac Pierre-Louis removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Munis Tutu",
+      "team": "Niagara River Lions",
+      "date": "2026-07-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jack Hemphill",
+      "team": "Montreal Alliance",
+      "date": "2026-07-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Yor Anei",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-08",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jaden Clayton",
+      "team": "Saskatoon Mamba",
+      "date": "2026-07-07",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kyle Vinales",
+      "team": "Niagara River Lions",
+      "date": "2026-07-07",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Donald Carey Jr released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-07-07",
+      "type": "Donald Carey Jr released from Club"
+    },
+    {
+      "player": "Kameron Warrens released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-07-07",
+      "type": "Kameron Warrens released from Club"
+    },
+    {
+      "player": "Zach Copeland",
+      "team": "Vancouver Bandits",
+      "date": "2026-07-06",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Tajh Green released from Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-06",
+      "type": "Tajh Green released from Club"
+    },
+    {
+      "player": "Jaden Campbell",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-07-05",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Curtis Hollis released from Club",
+      "team": "Niagara River Lions",
+      "date": "2026-07-04",
+      "type": "Curtis Hollis released from Club"
+    },
     {
       "player": "Prince Oduro",
       "team": "Montreal Alliance",

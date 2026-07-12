@@ -143,18 +143,18 @@
     {
       "year": "25-26",
       "team": "Vechta",
-      "league": "FEL-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Vechta",
-      "league": "GER-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:00:26.877Z",
+  "_lastVerified": "2026-07-12T06:15:30.763Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:00:26.877Z"
+  "cachedAt": "2026-07-12T06:15:30.763Z"
 }

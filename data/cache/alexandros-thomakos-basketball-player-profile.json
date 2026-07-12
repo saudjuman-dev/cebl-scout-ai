@@ -1,0 +1,34 @@
+{
+  "fullName": "ALEXANDROS THOMAKOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alexandros-Thomakos/744302",
+  "height": "6'6'",
+  "currentTeam": "Peristeri",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:45:24.733Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:45:24.733Z"
+}

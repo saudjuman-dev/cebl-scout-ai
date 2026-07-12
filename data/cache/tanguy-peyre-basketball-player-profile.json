@@ -1,0 +1,19 @@
+{
+  "fullName": "TANGUY PEYRE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tanguy-Peyre/784010",
+  "height": "6'8'",
+  "currentTeam": "Antibes",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Antibes",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:18:09.620Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:18:09.620Z"
+}

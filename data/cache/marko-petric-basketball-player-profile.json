@@ -32,6 +32,11 @@
     },
     {
       "year": "25-26",
+      "team": "Wuerzburg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Wuerzburg Ak.",
       "league": "GER-8"
     },
@@ -39,11 +44,6 @@
       "year": "25-26",
       "team": "Next Generation Team",
       "league": "ANGT-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Wuerzburg",
-      "league": "BCL-1"
     },
     {
       "year": "25-26",
@@ -56,10 +56,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-07-05T10:05:38.457Z",
+  "_lastVerified": "2026-07-12T09:06:12.683Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T10:05:38.457Z"
+  "cachedAt": "2026-07-12T09:06:12.683Z"
 }

@@ -1,0 +1,18 @@
+{
+  "fullName": "MARCOS GARCIA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcos-Garcia/828884",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Getafe",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:34:54.150Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:34:54.150Z"
+}

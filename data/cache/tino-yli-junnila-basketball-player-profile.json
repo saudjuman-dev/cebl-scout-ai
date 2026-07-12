@@ -1,0 +1,35 @@
+{
+  "fullName": "TINO YLI-JUNNILA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tino-Yli-Junnila/750316",
+  "height": "6'5'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 TINO YLI",
+  "currentTeam": "Vilpas",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "PeU-Basket",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PeU-Basket",
+      "league": "FIN-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T11:01:47.037Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T11:01:47.037Z"
+}

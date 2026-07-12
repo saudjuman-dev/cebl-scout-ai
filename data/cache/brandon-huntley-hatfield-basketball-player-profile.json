@@ -1,0 +1,50 @@
+{
+  "fullName": "BRANDON HUNTLEY-HATFIELD basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Huntley-Hatfield/499617",
+  "height": "6'9'",
+  "college": "University of Tennessee",
+  "currentTeam": "Keravnos",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Tennessee",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Louisville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Louisville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Keravnos",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Keravnos",
+      "league": "CYP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:27:31.952Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:27:31.952Z"
+}

@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Bruno-Loll/688430",
   "height": "6'9'",
   "college": "University Games European Championships Olympic Games European Championships U16 BRUNO LOLL basketball player profile Uniform",
-  "currentTeam": "Rostock Acad.",
+  "currentTeam": "Germany",
   "careerHistory": [
     {
       "year": "23-24",
@@ -28,12 +28,12 @@
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -46,10 +46,10 @@
       "league": "GER-3"
     }
   ],
-  "_lastVerified": "2026-07-05T07:07:43.035Z",
+  "_lastVerified": "2026-07-12T06:22:13.328Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:07:43.035Z"
+  "cachedAt": "2026-07-12T06:22:13.328Z"
 }

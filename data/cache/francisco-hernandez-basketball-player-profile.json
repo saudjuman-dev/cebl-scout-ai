@@ -1,0 +1,39 @@
+{
+  "fullName": "FRANCISCO HERNANDEZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francisco-Hernandez/514860",
+  "height": "6'1'",
+  "currentTeam": "Archena",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Archena",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Molina",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:38:54.605Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:38:54.605Z"
+}

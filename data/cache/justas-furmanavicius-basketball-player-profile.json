@@ -83,11 +83,6 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Anwil",
       "league": "POL-1"
     },
     {
@@ -99,12 +94,17 @@
       "year": "25-26",
       "team": "Lietkabelis",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:27:35.362Z",
+  "_lastVerified": "2026-07-12T08:30:50.147Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:27:35.362Z"
+  "cachedAt": "2026-07-12T08:30:50.147Z"
 }

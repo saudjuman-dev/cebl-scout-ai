@@ -1,0 +1,39 @@
+{
+  "fullName": "KOSTAS EFSTRATIOU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kostas-Efstratiou/523628",
+  "height": "6'1'",
+  "currentTeam": "Megaridas",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Panerythraikos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Panerythraikos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Megaridas",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:42:11.821Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:42:11.821Z"
+}

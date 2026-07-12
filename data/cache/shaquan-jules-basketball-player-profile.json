@@ -1,0 +1,70 @@
+{
+  "fullName": "SHAQUAN JULES basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Shaquan-Jules/488391",
+  "height": "6'7'",
+  "college": "University of South Carolina",
+  "currentTeam": "Bora",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "USC Aiken",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Radford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Radford",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Radford",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Radford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Radford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Shinagawa",
+      "league": "JPN-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Viktor Sanikidze Academy Tbilisi",
+      "league": "GEO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bora",
+      "league": "AlKo-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bora",
+      "league": "KOS-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:16:20.253Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:16:20.253Z"
+}

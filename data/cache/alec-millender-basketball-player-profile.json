@@ -1,0 +1,45 @@
+{
+  "fullName": "ALEC MILLENDER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Alec-Millender/423721",
+  "height": "6'1'",
+  "college": "University of Connecticut",
+  "currentTeam": "UConn",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "WSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "WSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "WSC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "IUPUI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "IUPUI",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "UConn",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:06:44.894Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:06:44.894Z"
+}

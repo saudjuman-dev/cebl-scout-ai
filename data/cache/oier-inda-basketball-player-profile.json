@@ -1,0 +1,28 @@
+{
+  "fullName": "OIER INDA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oier-Inda/727719",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Mondragon",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:23:34.521Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:23:34.521Z"
+}

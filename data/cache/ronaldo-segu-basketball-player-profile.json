@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Ronaldo-Segu/423030",
   "height": "6'0'",
   "college": "University of Buffalo",
-  "currentTeam": "Iraklis",
+  "currentTeam": "Haiti",
   "careerHistory": [
     {
       "year": "18-19",
@@ -76,10 +76,10 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:42:40.618Z",
+  "_lastVerified": "2026-07-12T07:40:46.176Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:42:40.618Z"
+  "cachedAt": "2026-07-12T07:40:46.176Z"
 }

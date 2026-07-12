@@ -1,0 +1,84 @@
+{
+  "fullName": "AMIN ADAMU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Amin-Adamu/426464",
+  "height": "6'5'",
+  "currentTeam": "London L.",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "W.Wyoming",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Casper CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Montana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Montana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Montana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kapfenberg",
+      "league": "ALP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kapfenberg",
+      "league": "AUT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Olomoucko",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Olomoucko",
+      "league": "CZE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "2025",
+      "team": "L Lions",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "London L.",
+      "league": "ENG-20"
+    },
+    {
+      "year": "25-26",
+      "team": "London L.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "London L.",
+      "league": "Eurocup-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T11:01:57.254Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T11:01:57.254Z"
+}

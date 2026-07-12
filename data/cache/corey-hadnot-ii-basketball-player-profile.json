@@ -1,0 +1,30 @@
+{
+  "fullName": "COREY HADNOT II basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Corey-Hadnot-II/685566",
+  "height": "6'3'",
+  "college": "University Fort Wayne",
+  "currentTeam": "PFW",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "PFW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "PFW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "PFW",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:05:21.194Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:05:21.194Z"
+}

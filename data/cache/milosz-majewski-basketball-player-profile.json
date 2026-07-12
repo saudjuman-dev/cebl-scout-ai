@@ -2,7 +2,7 @@
   "fullName": "MILOSZ MAJEWSKI basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Milosz-Majewski/674581",
   "height": "6'7'",
-  "currentTeam": "Zastal",
+  "currentTeam": "Poland",
   "careerHistory": [
     {
       "year": "22-23",
@@ -35,10 +35,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:13:03.127Z",
+  "_lastVerified": "2026-07-12T08:23:05.989Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:13:03.127Z"
+  "cachedAt": "2026-07-12T08:23:05.989Z"
 }

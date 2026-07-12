@@ -178,12 +178,17 @@
       "year": "25-26",
       "team": "Balkan",
       "league": "BUL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Balkan",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T10:59:14.310Z",
+  "_lastVerified": "2026-07-12T09:56:34.350Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T10:59:14.310Z"
+  "cachedAt": "2026-07-12T09:56:34.350Z"
 }

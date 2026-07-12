@@ -1,0 +1,28 @@
+{
+  "fullName": "PAU NAVARRO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pau-Navarro/775064",
+  "currentTeam": "Lliria",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Motor Munich Cadi Manresa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Manresa",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Lliria",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:19:51.670Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:19:51.670Z"
+}

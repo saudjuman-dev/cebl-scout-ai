@@ -1,0 +1,24 @@
+{
+  "fullName": "AJ SWINTON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/AJ-Swinton/600712",
+  "height": "6'6'",
+  "currentTeam": "FSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "FSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:29:21.436Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:29:21.436Z"
+}

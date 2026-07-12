@@ -1,0 +1,38 @@
+{
+  "fullName": "INIGO HANSEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Inigo-Hansen/700906",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:20:58.118Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:20:58.118Z"
+}

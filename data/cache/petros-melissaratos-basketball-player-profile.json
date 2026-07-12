@@ -1,0 +1,84 @@
+{
+  "fullName": "PETROS MELISSARATOS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Petros-Melissaratos/172903",
+  "height": "6'9'",
+  "currentTeam": "Ermis S.",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Peristeri GS",
+      "league": "GRE-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Panelefsiniakos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Nea Kifissia",
+      "league": "GRE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Psychikou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Panionios",
+      "league": "GRE-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Papagou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Kastoria",
+      "league": "GRE-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Olympiacos B",
+      "league": "GRE-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Olympiacos B",
+      "league": "GRE-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Triton",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Milonas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "2024",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Ermis S.",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:42:01.793Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:42:01.793Z"
+}

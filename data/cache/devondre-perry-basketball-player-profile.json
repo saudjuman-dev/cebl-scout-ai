@@ -2,8 +2,8 @@
   "fullName": "DE'VONDRE PERRY basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/DeVondre-Perry/431004",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16 DE",
-  "currentTeam": "Wolmirstedt",
+  "college": "University at Albany",
+  "currentTeam": "Macau BB",
   "careerHistory": [
     {
       "year": "17-18",
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Wolmirstedt",
       "league": "GER-2"
+    },
+    {
+      "year": "2026",
+      "team": "Macau BB",
+      "league": "PHI-1"
     }
   ],
-  "_lastVerified": "2026-07-05T10:00:21.985Z",
+  "_lastVerified": "2026-07-12T09:01:37.798Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T10:00:21.985Z"
+  "cachedAt": "2026-07-12T09:01:37.798Z"
 }

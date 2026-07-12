@@ -37,6 +37,11 @@
     },
     {
       "year": "25-26",
+      "team": "M.Tel-Aviv",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Galatasaray",
       "league": "BCL-1"
     },
@@ -59,17 +64,12 @@
       "year": "25-26",
       "team": "M.Tel-Aviv",
       "league": "ISR-1"
-    },
-    {
-      "year": "25-26",
-      "team": "M.Tel-Aviv",
-      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:59:16.271Z",
+  "_lastVerified": "2026-07-12T08:02:58.630Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:59:16.271Z"
+  "cachedAt": "2026-07-12T08:02:58.630Z"
 }

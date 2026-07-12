@@ -1,0 +1,50 @@
+{
+  "fullName": "JALEN BROOKS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Brooks/488613",
+  "height": "6'5'",
+  "college": "University at Shreveport",
+  "currentTeam": "Vilpas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "S.Arkansas",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "S.Arkansas",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "S.Arkansas",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "LSUS",
+      "league": "NAIA"
+    },
+    {
+      "year": "2024",
+      "team": "Corsarios",
+      "league": "COL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nyon",
+      "league": "SUI-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T11:01:20.004Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T11:01:20.004Z"
+}

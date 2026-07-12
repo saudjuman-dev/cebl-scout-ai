@@ -1,0 +1,94 @@
+{
+  "fullName": "JOSE JOAQUIN CARRASCO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jose-Joaquin-Carrasco/314931",
+  "height": "6'2'",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "CB Huelva",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Agustinos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Melilla",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "San Juan",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Agustinos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Estudio",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Villarrobledo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Coburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Coburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Cuenca",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:35:52.040Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:35:52.040Z"
+}

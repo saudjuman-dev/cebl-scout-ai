@@ -1,0 +1,44 @@
+{
+  "fullName": "JOSE MONTILLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jose-Montilla/586130",
+  "height": "6'9'",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Jovens L'Eliana",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Jovens L'Eliana",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2025",
+      "team": "Brillantes",
+      "league": "VEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Morvedre",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:20:48.375Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:20:48.375Z"
+}

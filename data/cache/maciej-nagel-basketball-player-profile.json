@@ -1,0 +1,54 @@
+{
+  "fullName": "MACIEJ NAGEL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maciej-Nagel/528579",
+  "height": "6'9'",
+  "currentTeam": "Pelplin",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "AMW Flota",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "AMW Gdynia",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Suzuki Arka",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fulimpex",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Pelplin",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:13:14.006Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:13:14.006Z"
+}

@@ -43,11 +43,6 @@
     {
       "year": "25-26",
       "team": "Oostende",
-      "league": "BCL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Oostende",
       "league": "BNXT-1"
     },
     {
@@ -64,12 +59,17 @@
       "year": "25-26",
       "team": "Aris",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oostende",
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:36:31.586Z",
+  "_lastVerified": "2026-07-12T07:38:56.684Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:36:31.586Z"
+  "cachedAt": "2026-07-12T07:38:56.684Z"
 }

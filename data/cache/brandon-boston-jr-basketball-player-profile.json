@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Boston-Jr/427965",
   "height": "6'6'",
   "college": "University of Kentucky",
-  "currentTeam": "Fenerbahce",
+  "currentTeam": "Milwaukee B.",
   "careerHistory": [
     {
       "year": "20-21",
@@ -64,12 +64,17 @@
       "year": "25-26",
       "team": "Fenerbahce",
       "league": "TUR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Milwaukee B.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-05T08:54:22.137Z",
+  "_lastVerified": "2026-07-12T07:59:05.725Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:54:22.137Z"
+  "cachedAt": "2026-07-12T07:59:05.725Z"
 }

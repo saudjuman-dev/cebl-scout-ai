@@ -1,0 +1,39 @@
+{
+  "fullName": "JOAQUIN CEBOLLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joaquin-Cebolla/711345",
+  "height": "6'3'",
+  "currentTeam": "Caja 87",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Huelva CD",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Coria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Coria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:23:25.086Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:23:25.086Z"
+}

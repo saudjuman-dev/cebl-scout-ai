@@ -1,0 +1,30 @@
+{
+  "fullName": "JAYDEN ROSS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jayden-Ross/682752",
+  "height": "6'7'",
+  "college": "University of Connecticut",
+  "currentTeam": "UConn",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UConn",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:06:39.631Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:06:39.631Z"
+}

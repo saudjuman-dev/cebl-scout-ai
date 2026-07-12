@@ -1,0 +1,49 @@
+{
+  "fullName": "DANIEL LARA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Lara/623591",
+  "height": "6'1'",
+  "currentTeam": "Caceres",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Badajoz Acad.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Badajoz Acad.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Badajoz",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Badajoz Acad.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Caceres Lith.Ib.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "San Antonio",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Caceres",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:31:36.888Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:31:36.888Z"
+}

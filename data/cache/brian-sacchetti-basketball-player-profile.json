@@ -2,7 +2,7 @@
   "fullName": "BRIAN SACCHETTI basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Brian-Sacchetti/58992",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 BRIAN SACCHETTI basketball player profile Uniform",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 BRIAN SACCHETTI basketball player profile Height",
   "currentTeam": "Latina",
   "careerHistory": [
     {
@@ -92,37 +92,37 @@
     },
     {
       "year": "18-19",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
       "year": "18-19",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "19-20",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "19-20",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
       "year": "2020",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "20-21",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
       "year": "20-21",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -156,10 +156,10 @@
       "league": "ITA-3"
     }
   ],
-  "_lastVerified": "2026-07-05T10:44:05.817Z",
+  "_lastVerified": "2026-07-12T09:43:30.590Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T10:44:05.817Z"
+  "cachedAt": "2026-07-12T09:43:30.590Z"
 }

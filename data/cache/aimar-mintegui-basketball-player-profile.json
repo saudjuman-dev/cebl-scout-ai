@@ -26,19 +26,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bilbao U22",
-      "league": "ESP-5"
+      "team": "Bilbao",
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Bilbao",
-      "league": "FEL-1"
+      "team": "Bilbao U22",
+      "league": "ESP-5"
     }
   ],
-  "_lastVerified": "2026-07-05T11:19:06.795Z",
+  "_lastVerified": "2026-07-12T10:13:22.439Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T11:19:06.795Z"
+  "cachedAt": "2026-07-12T10:13:22.439Z"
 }

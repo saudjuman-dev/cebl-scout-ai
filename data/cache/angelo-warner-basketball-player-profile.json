@@ -41,12 +41,12 @@
     },
     {
       "year": "19-20",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "19-20",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
@@ -95,10 +95,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:28:03.581Z",
+  "_lastVerified": "2026-07-12T06:40:08.156Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:28:03.581Z"
+  "cachedAt": "2026-07-12T06:40:08.156Z"
 }

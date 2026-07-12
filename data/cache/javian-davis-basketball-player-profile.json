@@ -43,23 +43,23 @@
     {
       "year": "25-26",
       "team": "FC Porto",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "FC Porto",
       "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "FC Porto",
-      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:40:47.565Z",
+  "_lastVerified": "2026-07-12T08:44:38.361Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:40:47.565Z"
+  "cachedAt": "2026-07-12T08:44:38.361Z"
 }

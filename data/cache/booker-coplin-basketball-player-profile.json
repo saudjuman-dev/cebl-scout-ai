@@ -62,6 +62,11 @@
     },
     {
       "year": "25-26",
+      "team": "Vechta",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Ludwigsburg",
       "league": "GER-20"
     },
@@ -69,11 +74,6 @@
       "year": "25-26",
       "team": "Vechta",
       "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "Vechta",
-      "league": "FEL-1"
     },
     {
       "year": "25-26",
@@ -86,10 +86,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-07-05T06:59:52.215Z",
+  "_lastVerified": "2026-07-12T06:15:01.178Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T06:59:52.215Z"
+  "cachedAt": "2026-07-12T06:15:01.178Z"
 }

@@ -88,18 +88,18 @@
     {
       "year": "25-26",
       "team": "Barca",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Barca",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:07:16.905Z",
+  "_lastVerified": "2026-07-12T07:14:03.119Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:07:16.905Z"
+  "cachedAt": "2026-07-12T07:14:03.119Z"
 }

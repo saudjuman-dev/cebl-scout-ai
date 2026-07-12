@@ -1,18 +1,11 @@
 {
-  "fullName": "MESTOLU HAMZA",
+  "fullName": "",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mestolu-Hamza/814202",
-  "currentTeam": "Fenerbahce",
-  "careerHistory": [
-    {
-      "year": "25-26",
-      "team": "Fenerbahce",
-      "league": "TUR-1"
-    }
-  ],
-  "_lastVerified": "2026-06-07T07:39:13.142Z",
+  "careerHistory": [],
+  "_lastVerified": "2026-07-12T07:04:45.901Z",
   "_sources": [
     "eurobasket.com"
   ],
-  "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:39:13.142Z"
+  "_dataConfidence": "medium",
+  "cachedAt": "2026-07-12T07:04:45.901Z"
 }

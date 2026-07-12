@@ -88,11 +88,6 @@
     {
       "year": "25-26",
       "team": "Bosna",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Bosna",
       "league": "ADR-1"
     },
     {
@@ -111,15 +106,20 @@
       "league": "Eurocup-1"
     },
     {
+      "year": "25-26",
+      "team": "Bosna",
+      "league": "FEL-1"
+    },
+    {
       "year": "2026",
       "team": "Arecibo",
       "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:10:59.927Z",
+  "_lastVerified": "2026-07-12T07:17:12.217Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:10:59.927Z"
+  "cachedAt": "2026-07-12T07:17:12.217Z"
 }

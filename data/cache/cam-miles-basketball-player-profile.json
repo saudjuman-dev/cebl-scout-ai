@@ -1,0 +1,19 @@
+{
+  "fullName": "CAM MILES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cam-Miles/792414",
+  "height": "6'2'",
+  "currentTeam": "FSU",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "FSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:29:23.805Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:29:23.805Z"
+}

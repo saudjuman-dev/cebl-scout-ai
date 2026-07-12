@@ -1,0 +1,34 @@
+{
+  "fullName": "LUKE HUNGER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Luke-Hunger/519008",
+  "height": "6'10'",
+  "currentTeam": "GWU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "GWU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:07:07.535Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:07:07.535Z"
+}

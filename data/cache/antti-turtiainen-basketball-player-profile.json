@@ -7,19 +7,19 @@
   "careerHistory": [
     {
       "year": "25-26",
-      "team": "KTP II",
-      "league": "FIN-3"
+      "team": "KTP-Basket",
+      "league": "FIN-1"
     },
     {
       "year": "25-26",
-      "team": "KTP-Basket",
-      "league": "FIN-1"
+      "team": "KTP II",
+      "league": "FIN-3"
     }
   ],
-  "_lastVerified": "2026-07-05T12:05:53.811Z",
+  "_lastVerified": "2026-07-12T10:59:23.927Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T12:05:53.811Z"
+  "cachedAt": "2026-07-12T10:59:23.927Z"
 }

@@ -122,6 +122,11 @@
     },
     {
       "year": "25-26",
+      "team": "Lokomotiv",
+      "league": "VTB-1"
+    },
+    {
+      "year": "25-26",
       "team": "Gran Canaria",
       "league": "BCL-1"
     },
@@ -129,17 +134,12 @@
       "year": "25-26",
       "team": "Gran Canaria",
       "league": "ESP-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Lokomotiv",
-      "league": "VTB-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:17:40.129Z",
+  "_lastVerified": "2026-07-12T07:22:54.475Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:17:40.129Z"
+  "cachedAt": "2026-07-12T07:22:54.475Z"
 }

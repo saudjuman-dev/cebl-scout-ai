@@ -72,19 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "Trabzonspor",
-      "league": "TUR-1"
+      "team": "Lokomotiv",
+      "league": "VTB-1"
     },
     {
       "year": "25-26",
-      "team": "Lokomotiv",
-      "league": "VTB-1"
+      "team": "Trabzonspor",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:47:11.842Z",
+  "_lastVerified": "2026-07-12T08:05:29.705Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:47:11.842Z"
+  "cachedAt": "2026-07-12T08:05:29.705Z"
 }

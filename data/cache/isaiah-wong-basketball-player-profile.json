@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Wong/423324",
   "height": "6'4'",
   "college": "University of Miami",
-  "currentTeam": "Gran Canaria",
+  "currentTeam": "Atlanta H.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -89,12 +89,17 @@
       "year": "25-26",
       "team": "Gran Canaria",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Atlanta H.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-05T09:27:12.922Z",
+  "_lastVerified": "2026-07-12T08:30:15.967Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:27:12.922Z"
+  "cachedAt": "2026-07-12T08:30:15.967Z"
 }

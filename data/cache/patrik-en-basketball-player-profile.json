@@ -42,19 +42,19 @@
     },
     {
       "year": "25-26",
-      "team": "LrNMKY",
-      "league": "FIN-2"
+      "team": "Kouvot",
+      "league": "FIN-1"
     },
     {
       "year": "25-26",
-      "team": "Kouvot",
-      "league": "FIN-1"
+      "team": "LrNMKY",
+      "league": "FIN-2"
     }
   ],
-  "_lastVerified": "2026-07-05T12:07:44.402Z",
+  "_lastVerified": "2026-07-12T11:00:38.762Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T12:07:44.402Z"
+  "cachedAt": "2026-07-12T11:00:38.762Z"
 }

@@ -2,6 +2,7 @@
   "fullName": "JA'MONTA BLACK basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/JaMonta-Black/519195",
   "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 JA",
   "currentTeam": "Cordoba CB",
   "careerHistory": [
     {
@@ -50,10 +51,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-07-05T11:42:20.462Z",
+  "_lastVerified": "2026-07-12T10:41:34.458Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T11:42:20.462Z"
+  "cachedAt": "2026-07-12T10:41:34.458Z"
 }

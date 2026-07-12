@@ -53,11 +53,6 @@
     {
       "year": "25-26",
       "team": "Bashkimi",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Bashkimi",
       "league": "KOS-1"
     },
     {
@@ -69,12 +64,17 @@
       "year": "25-26",
       "team": "H.Be'er Sheva",
       "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bashkimi",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:01:33.016Z",
+  "_lastVerified": "2026-07-12T08:06:31.455Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:01:33.016Z"
+  "cachedAt": "2026-07-12T08:06:31.455Z"
 }

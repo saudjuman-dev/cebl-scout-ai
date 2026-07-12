@@ -47,13 +47,13 @@
     },
     {
       "year": "25-26",
-      "team": "Radnicki KG",
-      "league": "ADR-2"
+      "team": "H.Holon",
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "H.Holon",
-      "league": "BCL-1"
+      "team": "Radnicki KG",
+      "league": "ADR-2"
     },
     {
       "year": "25-26",
@@ -66,10 +66,10 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T11:57:07.768Z",
+  "_lastVerified": "2026-07-12T10:53:46.815Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T11:57:07.768Z"
+  "cachedAt": "2026-07-12T10:53:46.815Z"
 }

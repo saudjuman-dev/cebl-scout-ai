@@ -88,7 +88,12 @@
     {
       "year": "25-26",
       "team": "Bosna",
-      "league": "FEL-1"
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Unicaja",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
@@ -98,18 +103,13 @@
     {
       "year": "25-26",
       "team": "Bosna",
-      "league": "ADR-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:10:38.000Z",
+  "_lastVerified": "2026-07-12T07:16:54.507Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:10:38.000Z"
+  "cachedAt": "2026-07-12T07:16:54.507Z"
 }

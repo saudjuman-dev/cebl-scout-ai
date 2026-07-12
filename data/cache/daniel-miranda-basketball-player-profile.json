@@ -1,0 +1,18 @@
+{
+  "fullName": "DANIEL MIRANDA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Miranda/828658",
+  "currentTeam": "Clavijo",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Clavijo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:32:44.122Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:32:44.122Z"
+}

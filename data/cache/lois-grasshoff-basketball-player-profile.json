@@ -1,0 +1,44 @@
+{
+  "fullName": "LOIS GRASSHOFF basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lois-Grasshoff/680632",
+  "height": "6'7'",
+  "currentTeam": "Aix-Maurienne",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Le Mans",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Aix-Maurienne",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:16:12.816Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:16:12.816Z"
+}

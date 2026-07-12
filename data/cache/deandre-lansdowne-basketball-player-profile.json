@@ -27,12 +27,12 @@
     },
     {
       "year": "19-20",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "19-20",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
@@ -98,12 +98,12 @@
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -111,10 +111,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:07:10.793Z",
+  "_lastVerified": "2026-07-12T06:21:44.315Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:07:10.793Z"
+  "cachedAt": "2026-07-12T06:21:44.315Z"
 }

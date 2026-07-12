@@ -132,23 +132,23 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Anwil",
       "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Tenerife",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:17:44.432Z",
+  "_lastVerified": "2026-07-12T08:28:07.873Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:17:44.432Z"
+  "cachedAt": "2026-07-12T08:28:07.873Z"
 }

@@ -1,0 +1,30 @@
+{
+  "fullName": "YOAV VITLEM basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yoav-Vitlem/705286",
+  "height": "6'0'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games YOAV VITLEM basketball player profile Uniform",
+  "currentTeam": "H.Be'er Sheva",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:06:23.935Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:06:23.935Z"
+}

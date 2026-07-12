@@ -1,0 +1,65 @@
+{
+  "fullName": "PYRY HINKKANEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pyry-Hinkkanen/338175",
+  "height": "6'0'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 PYRY HINKKANEN basketball player profile Uniform",
+  "currentTeam": "Kipina",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "15-16",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "16-17",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "17-18",
+      "team": "HNMKY",
+      "league": "FIN-2"
+    },
+    {
+      "year": "20-21",
+      "team": "HyPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "21-22",
+      "team": "HyPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "22-23",
+      "team": "HyPo",
+      "league": "FIN-3"
+    },
+    {
+      "year": "22-23",
+      "team": "HyPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Pantterit",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Kipina",
+      "league": "FIN-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T11:00:17.764Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T11:00:17.764Z"
+}

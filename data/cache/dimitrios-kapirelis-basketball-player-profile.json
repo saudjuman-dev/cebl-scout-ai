@@ -1,0 +1,29 @@
+{
+  "fullName": "DIMITRIOS KAPIRELIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitrios-Kapirelis/780230",
+  "height": "6'5'",
+  "currentTeam": "Peristeri",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:45:29.320Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:45:29.320Z"
+}

@@ -2,6 +2,7 @@
   "fullName": "ELIJAH HUGHES basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Elijah-Hughes/412946",
   "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 ELIJAH HUGHES basketball player profile Uniform No",
   "currentTeam": "Carolina",
   "careerHistory": [
     {
@@ -100,10 +101,10 @@
       "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:03:49.042Z",
+  "_lastVerified": "2026-07-12T06:18:44.589Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:03:49.042Z"
+  "cachedAt": "2026-07-12T06:18:44.589Z"
 }

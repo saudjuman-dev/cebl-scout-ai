@@ -1,0 +1,60 @@
+{
+  "fullName": "JJ KAPLAN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/JJ-Kaplan/463937",
+  "height": "6'5'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games JJ KAPLAN basketball player profile Height",
+  "currentTeam": "M.Rishon",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "UAH",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "UAH",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "UAH",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "UAH",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "E.Kiryat Ata",
+      "league": "ISR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "E.Kiryat Ata",
+      "league": "ISR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Rishon",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:09:18.589Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:09:18.589Z"
+}

@@ -1,0 +1,54 @@
+{
+  "fullName": "RUBEN SALAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ruben-Salas/587406",
+  "height": "6'10'",
+  "currentTeam": "Ponferrada",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Eurogaza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Caceres",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen FS",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:32:00.530Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:32:00.530Z"
+}

@@ -2,8 +2,8 @@
   "fullName": "HASON WARD basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Hason-Ward/518243",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 HASON WARD basketball player profile Uniform No",
-  "currentTeam": "Venezia",
+  "college": "College Park SH117",
+  "currentTeam": "GSW Blue",
   "careerHistory": [
     {
       "year": "19-20",
@@ -74,12 +74,17 @@
       "year": "25-26",
       "team": "Venezia",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "GSW Blue",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-05T07:44:04.516Z",
+  "_lastVerified": "2026-07-12T06:54:27.230Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:44:04.516Z"
+  "cachedAt": "2026-07-12T06:54:27.230Z"
 }

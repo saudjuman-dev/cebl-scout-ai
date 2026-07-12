@@ -1,0 +1,19 @@
+{
+  "fullName": "GEORGIOS CHRISTODOULOU basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Georgios-Christodoulou/825320",
+  "height": "6'2'",
+  "currentTeam": "Olympiacos",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:47:02.377Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:47:02.377Z"
+}

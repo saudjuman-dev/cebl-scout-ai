@@ -1,0 +1,39 @@
+{
+  "fullName": "RUBEN SONA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ruben-Sona/636913",
+  "height": "6'1'",
+  "currentTeam": "Ovarense",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ovarense",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:39:00.280Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:39:00.280Z"
+}

@@ -68,12 +68,12 @@
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -86,10 +86,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:19:11.918Z",
+  "_lastVerified": "2026-07-12T08:16:46.830Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:19:11.918Z"
+  "cachedAt": "2026-07-12T08:16:46.830Z"
 }

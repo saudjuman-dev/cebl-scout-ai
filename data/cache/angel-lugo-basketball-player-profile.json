@@ -1,0 +1,54 @@
+{
+  "fullName": "ANGEL LUGO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Angel-Lugo/335625",
+  "height": "5'11'",
+  "currentTeam": "Molina",
+  "careerHistory": [
+    {
+      "year": "2017",
+      "team": "Aduaneros",
+      "league": "VEN-2"
+    },
+    {
+      "year": "2021",
+      "team": "Trotamundos",
+      "league": "VEN-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2022",
+      "team": "Piratas",
+      "league": "VEN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Molina",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Molina",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:38:40.228Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:38:40.228Z"
+}

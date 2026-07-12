@@ -87,11 +87,6 @@
     },
     {
       "year": "25-26",
-      "team": "Basket Brno",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Hamburg",
       "league": "GER-1"
     },
@@ -104,12 +99,17 @@
       "year": "25-26",
       "team": "Hamburg",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Basket Brno",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:09:32.106Z",
+  "_lastVerified": "2026-07-12T06:23:40.559Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:09:32.106Z"
+  "cachedAt": "2026-07-12T06:23:40.559Z"
 }

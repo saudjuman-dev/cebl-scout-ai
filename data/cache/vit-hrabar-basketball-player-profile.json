@@ -1,0 +1,59 @@
+{
+  "fullName": "VIT HRABAR basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vit-Hrabar/660364",
+  "height": "6'9'",
+  "currentTeam": "Slovenia",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "NGT Zadar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "2023",
+      "team": "Fundacion 5 11",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Cazoo Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fundacion 5 11",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Rioverde Clavijo Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Clavijo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Baskonia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:32:39.683Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:32:39.683Z"
+}

@@ -2,7 +2,6 @@
   "fullName": "ZACH HICKS basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zach-Hicks/568165",
   "height": "6'8'",
-  "college": "College Park SHTO01",
   "currentTeam": "Murcia",
   "careerHistory": [
     {
@@ -32,13 +31,13 @@
     },
     {
       "year": "25-26",
-      "team": "South Bay L.",
-      "league": "G League"
+      "team": "Murcia",
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Murcia",
-      "league": "FEL-1"
+      "team": "South Bay L.",
+      "league": "G League"
     },
     {
       "year": "25-26",
@@ -46,10 +45,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:06:38.530Z",
+  "_lastVerified": "2026-07-12T07:13:31.532Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:06:38.530Z"
+  "cachedAt": "2026-07-12T07:13:31.532Z"
 }

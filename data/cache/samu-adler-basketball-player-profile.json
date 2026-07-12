@@ -1,0 +1,39 @@
+{
+  "fullName": "SAMU ADLER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Samu-Adler/669917",
+  "height": "6'6'",
+  "currentTeam": "Vilpas",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Honka",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "23-24",
+      "team": "HBA-Marsky",
+      "league": "FIN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T11:01:32.503Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T11:01:32.503Z"
+}

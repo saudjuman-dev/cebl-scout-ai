@@ -81,11 +81,6 @@
     },
     {
       "year": "25-26",
-      "team": "PAOK",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Papagou",
       "league": "GRE-2"
     },
@@ -103,12 +98,17 @@
       "year": "25-26",
       "team": "Cedevita Ol.",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:37:31.884Z",
+  "_lastVerified": "2026-07-12T07:39:57.628Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:37:31.884Z"
+  "cachedAt": "2026-07-12T07:39:57.628Z"
 }

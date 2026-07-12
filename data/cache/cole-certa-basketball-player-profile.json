@@ -1,0 +1,25 @@
+{
+  "fullName": "COLE CERTA basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cole-Certa/727374",
+  "height": "6'5'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Notre Dame",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Notre Dame",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T06:46:34.520Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T06:46:34.520Z"
+}

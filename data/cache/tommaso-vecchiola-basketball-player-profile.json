@@ -1,0 +1,50 @@
+{
+  "fullName": "TOMMASO VECCHIOLA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tommaso-Vecchiola/549878",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 TOMMASO VECCHIOLA basketball player profile Height",
+  "currentTeam": "Juvi Cremona",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Vanoli Cremona",
+      "league": "ITA-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Vanoli Cremona",
+      "league": "ITA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Vanoli Cremona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cremona",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Vanoli Cremona",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gruppo Mascio",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Juvi Cremona",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:33:26.910Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:33:26.910Z"
+}

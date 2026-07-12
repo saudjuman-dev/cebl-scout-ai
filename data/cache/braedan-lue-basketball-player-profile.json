@@ -1,0 +1,35 @@
+{
+  "fullName": "BRAEDAN LUE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Braedan-Lue/744688",
+  "height": "6'9'",
+  "college": "University of Tennessee",
+  "currentTeam": "KSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "KSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "KSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "KSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "KSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T07:28:21.847Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T07:28:21.847Z"
+}

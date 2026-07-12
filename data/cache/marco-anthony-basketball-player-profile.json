@@ -47,13 +47,13 @@
     },
     {
       "year": "25-26",
-      "team": "Newcastle",
-      "league": "ENBL-1"
+      "team": "Bisons",
+      "league": "FIN-1"
     },
     {
       "year": "25-26",
-      "team": "Bisons",
-      "league": "FIN-1"
+      "team": "Newcastle",
+      "league": "ENBL-1"
     },
     {
       "year": "25-26",
@@ -61,10 +61,10 @@
       "league": "ENG-1"
     }
   ],
-  "_lastVerified": "2026-07-05T12:06:10.765Z",
+  "_lastVerified": "2026-07-12T10:59:32.993Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T12:06:10.765Z"
+  "cachedAt": "2026-07-12T10:59:32.993Z"
 }

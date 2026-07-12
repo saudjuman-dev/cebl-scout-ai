@@ -5,6 +5,11 @@
   "currentTeam": "Hyeres-Toulon",
   "careerHistory": [
     {
+      "year": "07-08",
+      "team": "Texas Tech",
+      "league": "NCAA1"
+    },
+    {
       "year": "10-11",
       "team": "Texas Tech",
       "league": "NCAA1"
@@ -150,10 +155,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-07-05T10:17:16.866Z",
+  "_lastVerified": "2026-07-12T09:17:06.381Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T10:17:16.866Z"
+  "cachedAt": "2026-07-12T09:17:06.381Z"
 }

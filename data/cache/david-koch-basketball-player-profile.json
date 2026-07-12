@@ -1,0 +1,50 @@
+{
+  "fullName": "DAVID KOCH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Koch/640992",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 DAVID KOCH basketball player profile Uniform",
+  "currentTeam": "Leverkusen",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Leverkusen 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayer 04 Leverkusen",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Leverkusen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Leverkusen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:04:10.919Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:04:10.919Z"
+}

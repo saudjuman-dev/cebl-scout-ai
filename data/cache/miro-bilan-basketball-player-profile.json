@@ -197,17 +197,17 @@
     },
     {
       "year": "23-24",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "23-24",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "24-25",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -221,10 +221,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:45:18.511Z",
+  "_lastVerified": "2026-07-12T06:55:34.088Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:45:18.511Z"
+  "cachedAt": "2026-07-12T06:55:34.088Z"
 }

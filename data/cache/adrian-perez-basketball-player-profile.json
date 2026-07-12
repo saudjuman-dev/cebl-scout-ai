@@ -1,0 +1,44 @@
+{
+  "fullName": "ADRIAN PEREZ basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrian-Perez/621455",
+  "height": "6'6'",
+  "currentTeam": "Albacete",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Badajoz",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Albacete",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:17:14.553Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:17:14.553Z"
+}

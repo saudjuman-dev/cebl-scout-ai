@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Jesse-Edwards/523147",
   "height": "6'11'",
   "college": "College All",
-  "currentTeam": "Baskonia",
+  "currentTeam": "Milwaukee B.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -64,12 +64,17 @@
       "year": "25-26",
       "team": "Baskonia",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Milwaukee B.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-05T08:04:10.291Z",
+  "_lastVerified": "2026-07-12T07:11:27.679Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:04:10.291Z"
+  "cachedAt": "2026-07-12T07:11:27.679Z"
 }

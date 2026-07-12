@@ -87,18 +87,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:09:54.547Z",
+  "_lastVerified": "2026-07-12T07:16:18.552Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:09:54.547Z"
+  "cachedAt": "2026-07-12T07:16:18.552Z"
 }

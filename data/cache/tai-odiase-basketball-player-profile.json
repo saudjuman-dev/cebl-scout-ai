@@ -77,12 +77,12 @@
     },
     {
       "year": "22-23",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
       "year": "22-23",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -131,10 +131,10 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:02:40.532Z",
+  "_lastVerified": "2026-07-12T08:07:41.088Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:02:40.532Z"
+  "cachedAt": "2026-07-12T08:07:41.088Z"
 }

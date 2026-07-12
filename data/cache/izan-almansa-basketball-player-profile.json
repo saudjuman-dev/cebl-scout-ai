@@ -31,6 +31,11 @@
     },
     {
       "year": "25-26",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Real U22",
       "league": "ESP-5"
     },
@@ -38,17 +43,12 @@
       "year": "25-26",
       "team": "Real Madrid",
       "league": "ESP-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Real Madrid",
-      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:03:15.060Z",
+  "_lastVerified": "2026-07-12T07:10:41.280Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:03:15.060Z"
+  "cachedAt": "2026-07-12T07:10:41.280Z"
 }

@@ -117,17 +117,17 @@
     {
       "year": "25-26",
       "team": "ALBA",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "ALBA",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Rytas",
       "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -140,10 +140,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-07-05T09:32:53.515Z",
+  "_lastVerified": "2026-07-12T08:35:03.455Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:32:53.515Z"
+  "cachedAt": "2026-07-12T08:35:03.455Z"
 }

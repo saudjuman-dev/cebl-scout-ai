@@ -1,0 +1,43 @@
+{
+  "fullName": "ALVARO BALADA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alvaro-Balada/701041",
+  "currentTeam": "Castello",
+  "careerHistory": [
+    {
+      "year": "2023",
+      "team": "Castello",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Castello",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Castello",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:26:00.640Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:26:00.640Z"
+}

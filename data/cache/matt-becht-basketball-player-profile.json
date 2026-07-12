@@ -1,0 +1,54 @@
+{
+  "fullName": "MATT BECHT basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Becht/429985",
+  "height": "6'4'",
+  "currentTeam": "Benicarlo",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Mt.St.Mary's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Mt.St.Mary's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SNHU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "SNHU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "SNHU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Merrimack",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas L.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:37:17.576Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:37:17.576Z"
+}

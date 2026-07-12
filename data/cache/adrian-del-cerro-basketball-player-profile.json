@@ -1,0 +1,69 @@
+{
+  "fullName": "ADRIAN DEL CERRO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adrian-Del-Cerro/482814",
+  "height": "6'6'",
+  "currentTeam": "Gran Canaria 2",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Gran Canaria B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Gran Canaria",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Aguimes",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:40:57.821Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:40:57.821Z"
+}

@@ -46,13 +46,13 @@
     },
     {
       "year": "25-26",
-      "team": "Unicaja U22",
-      "league": "ESP-5"
+      "team": "Unicaja",
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Unicaja",
-      "league": "BCL-1"
+      "team": "Unicaja U22",
+      "league": "ESP-5"
     },
     {
       "year": "25-26",
@@ -60,10 +60,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:10:47.491Z",
+  "_lastVerified": "2026-07-12T07:17:02.117Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:10:47.491Z"
+  "cachedAt": "2026-07-12T07:17:02.117Z"
 }

@@ -1,0 +1,84 @@
+{
+  "fullName": "MARTYNAS ARLAUSKAS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Martynas-Arlauskas/385016",
+  "height": "6'8'",
+  "currentTeam": "Galati",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "P.Zvaigzdes",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jonava",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Galati",
+      "league": "ROM-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Galati",
+      "league": "ROM-1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T08:26:08.069Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T08:26:08.069Z"
+}

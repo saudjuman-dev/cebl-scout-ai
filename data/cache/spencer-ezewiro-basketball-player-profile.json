@@ -1,0 +1,29 @@
+{
+  "fullName": "SPENCER EZEWIRO basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Spencer-Ezewiro/505904",
+  "height": "6'9'",
+  "currentTeam": "Lamar",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Cerritos JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Lamar",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-12T06:45:58.926Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T06:45:58.926Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "MAMADOU SAKHO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mamadou-Sakho/232619",
+  "height": "6'4'",
+  "college": "University of British Columbia",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "UBC",
+      "league": "USPO"
+    },
+    {
+      "year": "16-17",
+      "team": "Hunter",
+      "league": "NCAA3"
+    },
+    {
+      "year": "17-18",
+      "team": "Hunter",
+      "league": "NCAA3"
+    },
+    {
+      "year": "2019",
+      "team": "Z*Windy City",
+      "league": "ESL-1"
+    },
+    {
+      "year": "2025",
+      "team": "ASCVD",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-12T10:23:22.659Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T10:23:22.659Z"
+}

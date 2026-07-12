@@ -96,16 +96,6 @@
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "BCL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "AEK",
-      "league": "BCL-1"
-    },
-    {
-      "year": "25-26",
       "team": "AEK",
       "league": "GRE-1"
     },
@@ -113,12 +103,22 @@
       "year": "25-26",
       "team": "Nymburk",
       "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nymburk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK",
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-07-05T08:38:56.322Z",
+  "_lastVerified": "2026-07-12T07:43:04.035Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:38:56.322Z"
+  "cachedAt": "2026-07-12T07:43:04.035Z"
 }

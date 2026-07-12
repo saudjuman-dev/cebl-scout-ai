@@ -83,12 +83,12 @@
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -96,10 +96,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-07-05T07:06:53.884Z",
+  "_lastVerified": "2026-07-12T06:21:30.272Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T07:06:53.884Z"
+  "cachedAt": "2026-07-12T06:21:30.272Z"
 }

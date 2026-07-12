@@ -1,0 +1,65 @@
+{
+  "fullName": "COSMO GRUEHN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cosmo-Gruehn/318330",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 COSMO GRUEHN basketball player profile Uniform",
+  "currentTeam": "Muenster",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Frankfurt II",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Muenster",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Muenster",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "WWU Baskets Muenster",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "WWU Baskets Muenster",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Muenster",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Muenster",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-12T09:04:54.703Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-12T09:04:54.703Z"
+}

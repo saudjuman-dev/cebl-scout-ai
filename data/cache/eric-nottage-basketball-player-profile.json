@@ -46,12 +46,12 @@
     },
     {
       "year": "21-22",
-      "team": "Dinamo B.",
+      "team": "Dinamo Stiinta",
       "league": "ROM-20"
     },
     {
       "year": "21-22",
-      "team": "Dinamo B.",
+      "team": "Dinamo Stiinta",
       "league": "ROM-1"
     },
     {
@@ -115,10 +115,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-07-05T09:16:25.178Z",
+  "_lastVerified": "2026-07-12T08:20:34.503Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T09:16:25.178Z"
+  "cachedAt": "2026-07-12T08:20:34.503Z"
 }

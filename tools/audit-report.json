@@ -1,13 +1,14 @@
 {
-  "timestamp": "2026-07-05T12:10:15.662Z",
+  "timestamp": "2026-07-12T11:03:03.613Z",
   "summary": {
     "critical": 0,
-    "warning": 24,
+    "warning": 25,
     "info": 1
   },
   "issues": {
     "critical": [],
     "warning": [
+      "Cache mestolu-hamza.json has no fullName field",
       "Possible typo: \"Offensive Rating\" vs \"Defensive Rating\"",
       "Team inconsistency: Koby McEwen → data.js=\"Vancouver/Brampton\", pipeline-data.js=\"Vancouver Bandits\"",
       "Team inconsistency: Brody Clarke → data.js=\"Edmonton Stingers\", pipeline-data.js=\"Shinshu Brave Warriors\"",

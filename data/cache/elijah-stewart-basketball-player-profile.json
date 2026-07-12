@@ -2,7 +2,7 @@
   "fullName": "ELIJAH STEWART basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Elijah-Stewart/333451",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games European Championships U20 World Cup U19 World Cup U17 European Championships U16 ELIJAH STEWART basketball player profile Uniform No",
+  "college": "University of Southern California",
   "currentTeam": "Bnei Hertzeliya",
   "careerHistory": [
     {
@@ -92,6 +92,11 @@
     },
     {
       "year": "25-26",
+      "team": "UNICS",
+      "league": "VTB-1"
+    },
+    {
+      "year": "25-26",
       "team": "Bnei Hertzeliya",
       "league": "BCL-1"
     },
@@ -99,17 +104,12 @@
       "year": "25-26",
       "team": "Bnei Hertzeliya",
       "league": "ISR-1"
-    },
-    {
-      "year": "25-26",
-      "team": "UNICS",
-      "league": "VTB-1"
     }
   ],
-  "_lastVerified": "2026-07-05T10:22:58.575Z",
+  "_lastVerified": "2026-07-12T09:22:44.526Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T10:22:58.575Z"
+  "cachedAt": "2026-07-12T09:22:44.526Z"
 }

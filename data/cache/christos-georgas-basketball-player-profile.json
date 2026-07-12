@@ -2,7 +2,7 @@
   "fullName": "CHRISTOS GEORGAS basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Christos-Georgas/734246",
   "height": "6'6'",
-  "currentTeam": "Lavrio",
+  "currentTeam": "Greece",
   "careerHistory": [
     {
       "year": "23-24",
@@ -30,10 +30,10 @@
       "league": "GRE-2"
     }
   ],
-  "_lastVerified": "2026-07-05T08:41:35.300Z",
+  "_lastVerified": "2026-07-12T07:48:22.351Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T08:41:35.300Z"
+  "cachedAt": "2026-07-12T07:48:22.351Z"
 }
