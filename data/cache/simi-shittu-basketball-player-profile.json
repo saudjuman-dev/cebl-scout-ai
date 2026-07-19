@@ -46,7 +46,7 @@
     },
     {
       "year": "22-23",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -92,6 +92,11 @@
     {
       "year": "25-26",
       "team": "Ilirija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ilirija",
       "league": "ADR-1"
     },
     {
@@ -101,19 +106,14 @@
     },
     {
       "year": "25-26",
-      "team": "Ilirija",
-      "league": "SLO-1"
-    },
-    {
-      "year": "25-26",
       "team": "Sagesse",
       "league": "LEB-1"
     }
   ],
-  "_lastVerified": "2026-07-12T06:19:31.580Z",
+  "_lastVerified": "2026-07-19T06:11:02.059Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:19:31.580Z"
+  "cachedAt": "2026-07-19T06:11:02.059Z"
 }

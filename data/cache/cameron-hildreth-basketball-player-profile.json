@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Hildreth/479078",
   "height": "6'4'",
   "college": "College Park SH130",
-  "currentTeam": "Girona",
+  "currentTeam": "Indiana P.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -54,12 +54,17 @@
       "year": "25-26",
       "team": "Girona",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Indiana P.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T07:19:26.607Z",
+  "_lastVerified": "2026-07-19T07:08:57.317Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:19:26.607Z"
+  "cachedAt": "2026-07-19T07:08:57.317Z"
 }

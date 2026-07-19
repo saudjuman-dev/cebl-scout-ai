@@ -42,12 +42,12 @@
     },
     {
       "year": "14-15",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
       "year": "15-16",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "year": "16-17",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -161,10 +161,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-12T06:51:41.431Z",
+  "_lastVerified": "2026-07-19T06:41:50.426Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:51:41.431Z"
+  "cachedAt": "2026-07-19T06:41:50.426Z"
 }

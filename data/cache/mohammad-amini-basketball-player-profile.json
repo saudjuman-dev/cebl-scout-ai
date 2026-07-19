@@ -2,7 +2,7 @@
   "fullName": "MOHAMMAD AMINI basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mohammad-Amini/593740",
   "height": "6'7'",
-  "currentTeam": "Nancy",
+  "currentTeam": "Boston C.",
   "careerHistory": [
     {
       "year": "20-21",
@@ -43,12 +43,17 @@
       "year": "25-26",
       "team": "Nancy",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Boston C.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:41:15.764Z",
+  "_lastVerified": "2026-07-19T06:32:34.099Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:41:15.764Z"
+  "cachedAt": "2026-07-19T06:32:34.099Z"
 }

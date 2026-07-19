@@ -82,7 +82,7 @@
     },
     {
       "year": "2019",
-      "team": "Croatia",
+      "team": "Z*Croatia",
       "league": "NBA"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "year": "19-20",
-      "team": "Croatia",
+      "team": "Z*Croatia",
       "league": "NBA"
     },
     {
@@ -171,10 +171,10 @@
       "league": "CRO-1"
     }
   ],
-  "_lastVerified": "2026-07-12T09:34:52.784Z",
+  "_lastVerified": "2026-07-19T09:09:44.346Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T09:34:52.784Z"
+  "cachedAt": "2026-07-19T09:09:44.346Z"
 }

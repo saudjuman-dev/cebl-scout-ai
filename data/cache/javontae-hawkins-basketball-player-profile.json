@@ -77,6 +77,11 @@
     },
     {
       "year": "25-26",
+      "team": "Spartak",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
       "team": "Merkezefendi",
       "league": "TUR-1"
     },
@@ -84,17 +89,12 @@
       "year": "25-26",
       "team": "Spartak",
       "league": "ADR-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Spartak",
-      "league": "SRB-1"
     }
   ],
-  "_lastVerified": "2026-07-12T08:04:30.284Z",
+  "_lastVerified": "2026-07-19T07:51:35.055Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:04:30.284Z"
+  "cachedAt": "2026-07-19T07:51:35.055Z"
 }

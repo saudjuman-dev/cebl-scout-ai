@@ -1,0 +1,64 @@
+{
+  "fullName": "CHILDE DUNDAO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Childe-Dundao/401186",
+  "height": "5'7'",
+  "currentTeam": "P.Luanda",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2023",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "P.Luanda",
+      "league": "ANG-1"
+    },
+    {
+      "year": "2024",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2024",
+      "team": "P.Luanda",
+      "league": "IntCup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "P.Luanda",
+      "league": "ANG-1"
+    },
+    {
+      "year": "2025",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    },
+    {
+      "year": "2026",
+      "team": "P.Luanda",
+      "league": "theBAL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:19:17.264Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:19:17.264Z"
+}

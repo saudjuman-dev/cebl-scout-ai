@@ -31,11 +31,6 @@
     },
     {
       "year": "25-26",
-      "team": "Gajdobra",
-      "league": "SRB-1"
-    },
-    {
-      "year": "25-26",
       "team": "Bahcesehir",
       "league": "TUR-1"
     },
@@ -43,12 +38,17 @@
       "year": "25-26",
       "team": "Bahcesehir",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gajdobra",
+      "league": "SRB-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:59:51.824Z",
+  "_lastVerified": "2026-07-19T07:46:58.540Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:59:51.824Z"
+  "cachedAt": "2026-07-19T07:46:58.540Z"
 }

@@ -1,0 +1,75 @@
+{
+  "fullName": "TA'LON COOPER basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/TaLon-Cooper/501215",
+  "height": "6'4'",
+  "college": "University of Minnesota",
+  "currentTeam": "AEK Larnaca",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Morehead St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Orlando M.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Spojnia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valcea",
+      "league": "ROM-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK Larnaca",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK Larnaca",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK Larnaca",
+      "league": "CYP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T07:58:00.357Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T07:58:00.357Z"
+}

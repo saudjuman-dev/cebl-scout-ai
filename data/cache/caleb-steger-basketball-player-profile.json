@@ -1,0 +1,20 @@
+{
+  "fullName": "CALEB STEGER basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Caleb-Steger/777798",
+  "height": "6'5'",
+  "college": "University at San Marcos",
+  "currentTeam": "Boston Coll.",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:49:15.032Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:49:15.032Z"
+}

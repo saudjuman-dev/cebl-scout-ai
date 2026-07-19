@@ -1,0 +1,34 @@
+{
+  "fullName": "DORIAN RINALDO-KOMLAN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dorian-Rinaldo-Komlan/708518",
+  "height": "6'7'",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Limoges U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T09:22:07.072Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T09:22:07.072Z"
+}

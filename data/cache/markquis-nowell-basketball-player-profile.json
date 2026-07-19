@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Markquis-Nowell/420635",
   "height": "5'8'",
   "college": "University of Arkansas at Little Rock",
-  "currentTeam": "Baskonia",
+  "currentTeam": "N.Orleans P.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -79,12 +79,17 @@
       "year": "25-26",
       "team": "Baskonia",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "N.Orleans P.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T07:11:17.427Z",
+  "_lastVerified": "2026-07-19T07:00:47.466Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:11:17.427Z"
+  "cachedAt": "2026-07-19T07:00:47.466Z"
 }

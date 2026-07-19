@@ -191,19 +191,19 @@
     },
     {
       "year": "25-26",
-      "team": "Kuwait",
-      "league": "WASL-1"
+      "team": "Partizan",
+      "league": "SRB-1"
     },
     {
       "year": "25-26",
-      "team": "Partizan",
-      "league": "SRB-1"
+      "team": "Kuwait",
+      "league": "WASL-1"
     }
   ],
-  "_lastVerified": "2026-07-12T06:45:39.021Z",
+  "_lastVerified": "2026-07-19T06:36:51.027Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:45:39.021Z"
+  "cachedAt": "2026-07-19T06:36:51.027Z"
 }

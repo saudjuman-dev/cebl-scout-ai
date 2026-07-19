@@ -1,0 +1,70 @@
+{
+  "fullName": "JOSH ALDRICH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josh-Aldrich/487584",
+  "height": "6'7'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games JOSH ALDRICH basketball player profile Height",
+  "currentTeam": "M.Rehovot",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "USC Upstate",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "USC Upstate",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "USC Upstate",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "USC Upstate",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "USC Upstate",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "USC Upstate",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "H.Gilboa Galil",
+      "league": "ISR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "H.Gilboa Galil",
+      "league": "ISR-1"
+    },
+    {
+      "year": "2025",
+      "team": "No Excuses",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Rehovot",
+      "league": "ISR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-19T07:56:20.612Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T07:56:20.612Z"
+}

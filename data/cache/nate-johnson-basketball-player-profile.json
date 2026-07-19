@@ -2,6 +2,7 @@
   "fullName": "NATE JOHNSON basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nate-Johnson/402587",
   "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 NATE JOHNSON basketball player profile Uniform No",
   "currentTeam": "Sassari",
   "careerHistory": [
     {
@@ -95,10 +96,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:02:52.244Z",
+  "_lastVerified": "2026-07-19T06:52:55.723Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:02:52.244Z"
+  "cachedAt": "2026-07-19T06:52:55.723Z"
 }

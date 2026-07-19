@@ -1,0 +1,65 @@
+{
+  "fullName": "THOMAS MURR basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Thomas-Murr/526249",
+  "height": "6'1'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 THOMAS MURR basketball player profile Height",
+  "currentTeam": "Orbi",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Lipscomb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lipscomb",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Lipscomb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Lipscomb",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Lipscomb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UAH",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "UAH",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "UAH",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "UAH",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Orbi",
+      "league": "GEO-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T10:29:51.624Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T10:29:51.624Z"
+}

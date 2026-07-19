@@ -4,7 +4,7 @@
   "birthCity": "Nigeria and lived there until he",
   "height": "6'10'",
   "college": "University of Texas at Arlington",
-  "currentTeam": "Manresa",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -75,12 +75,17 @@
       "year": "25-26",
       "team": "Manresa",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T07:17:41.464Z",
+  "_lastVerified": "2026-07-19T07:07:14.025Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:17:41.464Z"
+  "cachedAt": "2026-07-19T07:07:14.025Z"
 }

@@ -2,7 +2,7 @@
   "fullName": "SERGIO DE LARREA basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-de-Larrea/595222",
   "height": "6'6'",
-  "currentTeam": "Valencia",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "20-21",
@@ -83,12 +83,17 @@
       "year": "25-26",
       "team": "Valencia",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T07:09:41.892Z",
+  "_lastVerified": "2026-07-19T06:59:14.497Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:09:41.892Z"
+  "cachedAt": "2026-07-19T06:59:14.497Z"
 }

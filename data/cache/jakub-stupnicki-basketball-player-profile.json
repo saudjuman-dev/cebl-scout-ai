@@ -1,0 +1,54 @@
+{
+  "fullName": "JAKUB STUPNICKI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Stupnicki/537914",
+  "height": "6'1'",
+  "currentTeam": "Rzeszow",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Sierakow",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bydgoszcz 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Enea Astoria",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Astoria",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bydgoszcz 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lancut",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rzeszow",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:01:34.680Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:01:34.680Z"
+}

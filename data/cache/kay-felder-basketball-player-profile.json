@@ -37,7 +37,7 @@
     },
     {
       "year": "17-18",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -101,10 +101,10 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-07-12T09:26:34.534Z",
+  "_lastVerified": "2026-07-19T09:01:26.801Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T09:26:34.534Z"
+  "cachedAt": "2026-07-19T09:01:26.801Z"
 }

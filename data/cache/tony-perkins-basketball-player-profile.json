@@ -42,6 +42,11 @@
     },
     {
       "year": "25-26",
+      "team": "Nymburk",
+      "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
       "team": "Treviso",
       "league": "ITA-1"
     },
@@ -49,17 +54,12 @@
       "year": "25-26",
       "team": "Nevezis",
       "league": "LTU-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:00:59.830Z",
+  "_lastVerified": "2026-07-19T06:51:01.689Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:00:59.830Z"
+  "cachedAt": "2026-07-19T06:51:01.689Z"
 }

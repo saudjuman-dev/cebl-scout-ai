@@ -1,0 +1,35 @@
+{
+  "fullName": "MILHAN CHARLES basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Milhan-Charles/677203",
+  "height": "6'7'",
+  "college": "University of Arkansas at Pine Bluff",
+  "currentTeam": "UAPB",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "BAL Weert",
+      "league": "NED-1"
+    },
+    {
+      "year": "23-24",
+      "team": "BAL Weert",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "UAPB",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T10:28:48.954Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T10:28:48.954Z"
+}

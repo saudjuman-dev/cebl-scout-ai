@@ -1,0 +1,55 @@
+{
+  "fullName": "ISAIAH RICHARDS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Richards/576103",
+  "height": "6'10'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games ISAIAH RICHARDS basketball player profile Uniform",
+  "currentTeam": "H.Be'er Sheva",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Louisiana",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gardner-Webb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Randers",
+      "league": "DEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T07:53:20.240Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T07:53:20.240Z"
+}

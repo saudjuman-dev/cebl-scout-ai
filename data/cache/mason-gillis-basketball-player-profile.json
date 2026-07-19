@@ -1,0 +1,45 @@
+{
+  "fullName": "MASON GILLIS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mason-Gillis/503188",
+  "height": "6'7'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 MASON GILLIS basketball player profile Uniform No",
+  "currentTeam": "Limburg",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Limburg",
+      "league": "BNXT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T10:30:54.214Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T10:30:54.214Z"
+}

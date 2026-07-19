@@ -1,0 +1,39 @@
+{
+  "fullName": "CHRIS MPAKA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chris-Mpaka/688387",
+  "height": "6'6'",
+  "currentTeam": "Tarleton St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Frank Phillips",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Tarleton St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tarleton St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Tarleton St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:53:26.645Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:53:26.645Z"
+}

@@ -2,8 +2,7 @@
   "fullName": "DJ STEWARD basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/DJ-Steward/423767",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 DJ STEWARD basketball player profile Uniform No",
-  "currentTeam": "Trento",
+  "currentTeam": "Portland TB",
   "careerHistory": [
     {
       "year": "20-21",
@@ -99,12 +98,17 @@
       "year": "25-26",
       "team": "Trento",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "2026",
+      "team": "Portland TB",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:53:28.457Z",
+  "_lastVerified": "2026-07-19T06:43:36.950Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:53:28.457Z"
+  "cachedAt": "2026-07-19T06:43:36.950Z"
 }

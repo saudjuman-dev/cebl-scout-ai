@@ -1,0 +1,60 @@
+{
+  "fullName": "GYTIS NEMEIKSA basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gytis-Nemeiksa/485582",
+  "height": "6'8'",
+  "college": "University of Hawaii",
+  "currentTeam": "Hawaii",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Perkunas",
+      "league": "LTU-6"
+    },
+    {
+      "year": "20-21",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hawaii",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Hawaii",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Hawaii",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:07:48.367Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:07:48.367Z"
+}

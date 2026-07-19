@@ -2,7 +2,7 @@
   "fullName": "ROBERT HARRIS II basketball player profile",
   "sourceUrl": "https://basketball.latinbasket.com/player/Robert-Harris-II/213727",
   "height": "6'1'",
-  "currentTeam": "Guaynabo",
+  "currentTeam": "Immortals",
   "careerHistory": [
     {
       "year": "13-14",
@@ -98,12 +98,17 @@
       "year": "2025",
       "team": "Mets",
       "league": "PUR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Immortals",
+      "league": "MIC-1"
     }
   ],
-  "_lastVerified": "2026-07-12T10:17:27.581Z",
+  "_lastVerified": "2026-07-19T09:50:41.008Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T10:17:27.581Z"
+  "cachedAt": "2026-07-19T09:50:41.008Z"
 }

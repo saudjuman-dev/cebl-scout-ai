@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Erik-Stevenson/474296",
   "height": "6'4'",
   "college": "University of Washington",
-  "currentTeam": "Zaragoza",
+  "currentTeam": "Denver N.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -94,12 +94,17 @@
       "year": "25-26",
       "team": "Zaragoza",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Denver N.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T08:03:24.061Z",
+  "_lastVerified": "2026-07-19T07:50:28.962Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:03:24.061Z"
+  "cachedAt": "2026-07-19T07:50:28.962Z"
 }

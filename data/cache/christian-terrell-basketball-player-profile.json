@@ -1,0 +1,55 @@
+{
+  "fullName": "CHRISTIAN TERRELL basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christian-Terrell/595104",
+  "height": "6'0'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 CHRISTIAN TERRELL basketball player profile Uniform No",
+  "currentTeam": "NM State",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Meridian CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Meridian CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Meridian CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Delta St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "NM State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "NM State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T10:31:39.679Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T10:31:39.679Z"
+}

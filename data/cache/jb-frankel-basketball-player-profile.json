@@ -1,0 +1,29 @@
+{
+  "fullName": "JB FRANKEL basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/JB-Frankel/682698",
+  "height": "6'3'",
+  "currentTeam": "Northeastern",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Northeastern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Northeastern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Northeastern",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T06:57:10.301Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T06:57:10.301Z"
+}

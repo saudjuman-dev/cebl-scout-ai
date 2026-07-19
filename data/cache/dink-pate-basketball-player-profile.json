@@ -1,0 +1,35 @@
+{
+  "fullName": "DINK PATE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dink-Pate/605419",
+  "height": "6'6'",
+  "college": "College Park SH103",
+  "currentTeam": "Westchester K.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Z*G League Ignite",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Capitanes M.",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "New York K.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Westchester K.",
+      "league": "G League"
+    }
+  ],
+  "_lastVerified": "2026-07-19T06:38:18.903Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T06:38:18.903Z"
+}

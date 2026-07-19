@@ -2,6 +2,7 @@
   "fullName": "JAMEL MORRIS basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jamel-Morris/244881",
   "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 JAMEL MORRIS basketball player profile Uniform No",
   "currentTeam": "Lietkabelis",
   "careerHistory": [
     {
@@ -21,7 +22,7 @@
     },
     {
       "year": "17-18",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -130,10 +131,10 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-07-12T08:30:58.767Z",
+  "_lastVerified": "2026-07-19T08:10:57.028Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:30:58.767Z"
+  "cachedAt": "2026-07-19T08:10:57.028Z"
 }

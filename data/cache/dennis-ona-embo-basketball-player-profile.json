@@ -1,0 +1,29 @@
+{
+  "fullName": "DENNIS ONA EMBO basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dennis-Ona-Embo/527182",
+  "height": "5'9'",
+  "currentTeam": "Toulouse",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Toulouse",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Toulouse",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:53:38.898Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:53:38.898Z"
+}

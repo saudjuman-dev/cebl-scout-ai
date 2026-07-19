@@ -2,8 +2,8 @@
   "fullName": "JAKE STEPHENS basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jake-Stephens/492280",
   "height": "7'0'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JAKE STEPHENS basketball player profile Uniform No",
-  "currentTeam": "Split",
+  "college": "University of Tennessee at Chattanooga",
+  "currentTeam": "Phoenix S.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -89,12 +89,17 @@
       "year": "25-26",
       "team": "Split",
       "league": "CRO-1"
+    },
+    {
+      "year": "2026",
+      "team": "Phoenix S.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T09:51:56.202Z",
+  "_lastVerified": "2026-07-19T09:26:06.944Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T09:51:56.202Z"
+  "cachedAt": "2026-07-19T09:26:06.944Z"
 }

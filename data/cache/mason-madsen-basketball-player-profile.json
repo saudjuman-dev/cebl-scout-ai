@@ -1,0 +1,60 @@
+{
+  "fullName": "MASON MADSEN basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mason-Madsen/564076",
+  "height": "6'4'",
+  "college": "University of Cincinnati",
+  "currentTeam": "Urunday",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "BvsC",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Sodertalje",
+      "league": "SWE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valley S.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Urunday",
+      "league": "URU-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:01:42.177Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:01:42.177Z"
+}

@@ -21,7 +21,7 @@
     },
     {
       "year": "2021",
-      "team": "Utah Jazz B.",
+      "team": "Z*Utah Jazz B.",
       "league": "NBA"
     },
     {
@@ -95,10 +95,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:40:24.658Z",
+  "_lastVerified": "2026-07-19T07:28:02.606Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:40:24.658Z"
+  "cachedAt": "2026-07-19T07:28:02.606Z"
 }

@@ -92,11 +92,6 @@
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
-    },
-    {
-      "year": "25-26",
       "team": "Bourg",
       "league": "Eurocup-1"
     },
@@ -104,12 +99,17 @@
       "year": "25-26",
       "team": "Nymburk",
       "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nymburk",
+      "league": "CZE-1"
     }
   ],
-  "_lastVerified": "2026-07-12T06:32:19.867Z",
+  "_lastVerified": "2026-07-19T06:23:33.464Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:32:19.867Z"
+  "cachedAt": "2026-07-19T06:23:33.464Z"
 }

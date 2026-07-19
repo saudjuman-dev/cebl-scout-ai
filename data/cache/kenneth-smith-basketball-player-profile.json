@@ -46,12 +46,12 @@
     },
     {
       "year": "17-18",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
       "year": "18-19",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -170,10 +170,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-07-12T08:34:58.073Z",
+  "_lastVerified": "2026-07-19T08:14:58.221Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:34:58.073Z"
+  "cachedAt": "2026-07-19T08:14:58.221Z"
 }

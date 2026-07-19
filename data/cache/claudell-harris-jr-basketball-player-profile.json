@@ -2,6 +2,7 @@
   "fullName": "CLAUDELL HARRIS JR. basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Claudell-Harris-Jr/608377",
   "height": "6'4'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games CLAUDELL HARRIS JR",
   "currentTeam": "Promitheas",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-07-12T11:01:51.908Z",
+  "_lastVerified": "2026-07-19T10:32:52.805Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T11:01:51.908Z"
+  "cachedAt": "2026-07-19T10:32:52.805Z"
 }

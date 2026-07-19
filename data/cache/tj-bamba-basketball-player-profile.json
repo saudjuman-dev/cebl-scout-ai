@@ -2,8 +2,8 @@
   "fullName": "TJ BAMBA basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/TJ-Bamba/564111",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games European Championships U16 TJ BAMBA basketball player profile Uniform No",
-  "currentTeam": "Vechta",
+  "college": "University of Oregon",
+  "currentTeam": "Denver N.",
   "careerHistory": [
     {
       "year": "20-21",
@@ -54,12 +54,17 @@
       "year": "25-26",
       "team": "Vechta",
       "league": "FEL-1"
+    },
+    {
+      "year": "2026",
+      "team": "Denver N.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:15:11.987Z",
+  "_lastVerified": "2026-07-19T06:06:42.183Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:15:11.987Z"
+  "cachedAt": "2026-07-19T06:06:42.183Z"
 }

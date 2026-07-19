@@ -57,19 +57,19 @@
     },
     {
       "year": "25-26",
-      "team": "HNMKY",
-      "league": "FIN-2"
+      "team": "Seagulls",
+      "league": "FIN-1"
     },
     {
       "year": "25-26",
-      "team": "Seagulls",
-      "league": "FIN-1"
+      "team": "HNMKY",
+      "league": "FIN-2"
     }
   ],
-  "_lastVerified": "2026-07-05T12:04:51.749Z",
+  "_lastVerified": "2026-07-19T10:30:30.226Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-05T12:04:51.749Z"
+  "cachedAt": "2026-07-19T10:30:30.226Z"
 }

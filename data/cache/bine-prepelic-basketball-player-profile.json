@@ -97,23 +97,23 @@
     {
       "year": "25-26",
       "team": "Ilirija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ilirija",
       "league": "ADR-1"
     },
     {
       "year": "25-26",
       "team": "Zamora",
       "league": "ESP-2"
-    },
-    {
-      "year": "25-26",
-      "team": "Ilirija",
-      "league": "SLO-1"
     }
   ],
-  "_lastVerified": "2026-07-12T10:03:47.240Z",
+  "_lastVerified": "2026-07-19T09:37:45.555Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T10:03:47.240Z"
+  "cachedAt": "2026-07-19T09:37:45.555Z"
 }

@@ -1,0 +1,24 @@
+{
+  "fullName": "MARKO MARIC basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Marko-Maric/685114",
+  "height": "7'0'",
+  "currentTeam": "Novi Zagreb",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Split",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Novi Zagreb",
+      "league": "CRO-2"
+    }
+  ],
+  "_lastVerified": "2026-07-19T09:48:46.611Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T09:48:46.611Z"
+}

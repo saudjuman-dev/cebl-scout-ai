@@ -1,0 +1,30 @@
+{
+  "fullName": "BODEN KAPKE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Boden-Kapke/685415",
+  "height": "6'11'",
+  "college": "University of Nebraska",
+  "currentTeam": "Boston Coll.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T06:55:40.802Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T06:55:40.802Z"
+}

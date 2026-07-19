@@ -1,0 +1,60 @@
+{
+  "fullName": "JAMAL WEST JR. basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jamal-West-Jr/500917",
+  "height": "6'6'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 JAMAL WEST JR",
+  "currentTeam": "UTEP",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "USA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "USA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Clarendon CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Nicholls",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nicholls",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nicholls",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "UTEP",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "UTEP",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T10:29:19.459Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T10:29:19.459Z"
+}

@@ -2,7 +2,7 @@
   "fullName": "FINN POOK basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Finn-Pook/537073",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games European Championships U16 FINN POOK basketball player profile Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 FINN POOK basketball player profile Height",
   "currentTeam": "Phoenix Hagen",
   "careerHistory": [
     {
@@ -61,10 +61,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-07-12T08:45:59.832Z",
+  "_lastVerified": "2026-07-19T08:24:47.603Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:45:59.832Z"
+  "cachedAt": "2026-07-19T08:24:47.603Z"
 }

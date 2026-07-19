@@ -46,7 +46,7 @@
     },
     {
       "year": "2021",
-      "team": "Utah Jazz B.",
+      "team": "Z*Utah Jazz B.",
       "league": "NBA"
     },
     {
@@ -120,10 +120,10 @@
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-07-12T08:01:14.279Z",
+  "_lastVerified": "2026-07-19T07:48:18.000Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:01:14.279Z"
+  "cachedAt": "2026-07-19T07:48:18.000Z"
 }

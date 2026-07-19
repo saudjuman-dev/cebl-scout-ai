@@ -1,0 +1,35 @@
+{
+  "fullName": "RICHIE SPRINGS basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Richie-Springs/526238",
+  "height": "6'9'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 RICHIE SPRINGS basketball player profile Height",
+  "currentTeam": "Sloga Uppsala",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Quinnipiac",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Quinnipiac",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sloga Uppsala",
+      "league": "SWE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T10:30:18.364Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T10:30:18.364Z"
+}

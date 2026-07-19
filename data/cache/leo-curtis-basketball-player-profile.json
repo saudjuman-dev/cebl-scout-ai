@@ -1,0 +1,25 @@
+{
+  "fullName": "LEO CURTIS basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Leo-Curtis/793072",
+  "height": "7'2'",
+  "college": "University of Nebraska",
+  "currentTeam": "Nebraska",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T06:55:43.179Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T06:55:43.179Z"
+}

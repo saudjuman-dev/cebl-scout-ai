@@ -51,19 +51,19 @@
     },
     {
       "year": "25-26",
-      "team": "Goettingen",
-      "league": "GER-2"
+      "team": "Nymburk",
+      "league": "CZE-1"
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
+      "team": "Goettingen",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-07-12T08:53:23.433Z",
+  "_lastVerified": "2026-07-19T08:32:06.501Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:53:23.433Z"
+  "cachedAt": "2026-07-19T08:32:06.501Z"
 }

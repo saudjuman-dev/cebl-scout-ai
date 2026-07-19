@@ -1,0 +1,34 @@
+{
+  "fullName": "KLAUDIUSZ TARNAWSKI basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Klaudiusz-Tarnawski/649435",
+  "height": "6'0'",
+  "currentTeam": "Minsk Maz.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Minsk Maz.",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Miasto Szkla",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Stal SW",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Minsk Maz.",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:02:11.915Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:02:11.915Z"
+}

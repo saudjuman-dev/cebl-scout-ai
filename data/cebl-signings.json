@@ -1,9 +1,99 @@
 {
-  "_lastScraped": "2026-07-12T11:02:55.326Z",
+  "_lastScraped": "2026-07-19T10:33:51.307Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "James Karnik",
+      "team": "Vancouver Bandits",
+      "date": "2026-07-17",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Terquavion Smith",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-07-16",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-16",
+      "type": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Tevian Jones released from Club",
+      "team": "Saskatoon Mamba",
+      "date": "2026-07-16",
+      "type": "Tevian Jones released from Club"
+    },
+    {
+      "player": "Jarell Eddie",
+      "team": "Vancouver Bandtis",
+      "date": "2026-07-15",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Johnny Hughes III",
+      "team": "Saskatoon Mamba",
+      "date": "2026-07-15",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jelani Watson-Gayle",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-07-14",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Kato Jaro placed on Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-07-13",
+      "type": "Kato Jaro placed on Practice Roster"
+    },
+    {
+      "player": "Ramogi Nyagudi placed on Practice Roster",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-07-13",
+      "type": "Ramogi Nyagudi placed on Practice Roster"
+    },
+    {
+      "player": "Anthony Maxwell removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-07-12",
+      "type": "Anthony Maxwell removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Isaac Pierre-Louis placed on Practice Roster",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-07-12",
+      "type": "Isaac Pierre-Louis placed on Practice Roster"
+    },
+    {
+      "player": "Deng Adel",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-07-12",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "AJ Davis",
+      "team": "Niagara River Lions",
+      "date": "2026-07-12",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Guillaume Boucard placed on Club's Injured List (Lower Body)",
+      "team": "Montreal Alliance",
+      "date": "2026-07-12",
+      "type": "Guillaume Boucard placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Jalin Anderson released from Club",
+      "team": "Montreal Alliance",
+      "date": "2026-07-11",
+      "type": "Jalin Anderson released from Club"
+    },
     {
       "player": "Bronson Chambers placed on Practice Roster",
       "team": "Brampton Honey Badgers",

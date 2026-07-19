@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Angel-Nunez/233061",
   "height": "6'8'",
   "college": "University of Louisville",
-  "currentTeam": "Slask",
+  "currentTeam": "Metros",
   "careerHistory": [
     {
       "year": "11-12",
@@ -154,12 +154,17 @@
       "year": "25-26",
       "team": "Slask",
       "league": "POL-1"
+    },
+    {
+      "year": "2026",
+      "team": "Metros",
+      "league": "DOM-1"
     }
   ],
-  "_lastVerified": "2026-07-12T09:53:53.756Z",
+  "_lastVerified": "2026-07-19T09:28:02.696Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T09:53:53.756Z"
+  "cachedAt": "2026-07-19T09:28:02.696Z"
 }

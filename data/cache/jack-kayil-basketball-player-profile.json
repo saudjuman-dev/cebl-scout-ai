@@ -2,8 +2,7 @@
   "fullName": "JACK KAYIL basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jack-Kayil/640997",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JACK KAYIL basketball player profile Uniform No",
-  "currentTeam": "ALBA",
+  "currentTeam": "NY Knicks",
   "careerHistory": [
     {
       "year": "21-22",
@@ -64,12 +63,17 @@
       "year": "25-26",
       "team": "ALBA",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "NY Knicks",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:10:33.112Z",
+  "_lastVerified": "2026-07-19T06:02:07.460Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:10:33.112Z"
+  "cachedAt": "2026-07-19T06:02:07.460Z"
 }

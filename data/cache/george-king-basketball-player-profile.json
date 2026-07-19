@@ -2,8 +2,8 @@
   "fullName": "GEORGE KING basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/George-King/299645",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games European Championships U16 GEORGE KING basketball player profile Uniform No",
-  "currentTeam": "YKE",
+  "college": "University of Colorado",
+  "currentTeam": "SM Beermen",
   "careerHistory": [
     {
       "year": "13-14",
@@ -139,12 +139,17 @@
       "year": "25-26",
       "team": "Trier",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "SM Beermen",
+      "league": "PHI-1"
     }
   ],
-  "_lastVerified": "2026-07-12T06:13:17.685Z",
+  "_lastVerified": "2026-07-19T06:04:49.355Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:13:17.685Z"
+  "cachedAt": "2026-07-19T06:04:49.355Z"
 }

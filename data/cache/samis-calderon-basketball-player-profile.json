@@ -1,0 +1,60 @@
+{
+  "fullName": "SAMIS CALDERON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Samis-Calderon/614493",
+  "height": "6'8'",
+  "college": "University of Kansas",
+  "currentTeam": "Kansas",
+  "careerHistory": [
+    {
+      "year": "2021",
+      "team": "Corinthians",
+      "league": "BRA-4"
+    },
+    {
+      "year": "2021",
+      "team": "Corinthians",
+      "league": "BRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Corinthians",
+      "league": "BRA-1"
+    },
+    {
+      "year": "2022",
+      "team": "Corinthians",
+      "league": "BRA-3"
+    },
+    {
+      "year": "2022",
+      "team": "Corinthians",
+      "league": "BRA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Corinthians",
+      "league": "BRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cold Hearts",
+      "league": "OTE"
+    },
+    {
+      "year": "24-25",
+      "team": "Cold Hearts",
+      "league": "OTE"
+    },
+    {
+      "year": "25-26",
+      "team": "Kansas",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T09:48:44.224Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T09:48:44.224Z"
+}

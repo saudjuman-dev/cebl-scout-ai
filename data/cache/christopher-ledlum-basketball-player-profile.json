@@ -2,8 +2,7 @@
   "fullName": "CHRISTOPHER LEDLUM basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Ledlum/503066",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games European Championships U16 CHRISTOPHER LEDLUM basketball player profile Uniform No",
-  "currentTeam": "Ulm",
+  "currentTeam": "Houston R.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -69,12 +68,17 @@
       "year": "25-26",
       "team": "Ulm",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "2026",
+      "team": "Houston R.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:15:53.713Z",
+  "_lastVerified": "2026-07-19T06:07:23.995Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:15:53.713Z"
+  "cachedAt": "2026-07-19T06:07:23.995Z"
 }

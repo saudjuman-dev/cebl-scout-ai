@@ -2,8 +2,7 @@
   "fullName": "ALIOU DIARRA basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Aliou-Diarra/696605",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ALIOU DIARRA basketball player profile Uniform No",
-  "currentTeam": "Virtus BO",
+  "currentTeam": "Portland TB",
   "careerHistory": [
     {
       "year": "2023",
@@ -49,12 +48,17 @@
       "year": "25-26",
       "team": "Virtus BO",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Portland TB",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:52:45.823Z",
+  "_lastVerified": "2026-07-19T06:42:53.992Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:52:45.823Z"
+  "cachedAt": "2026-07-19T06:42:53.992Z"
 }

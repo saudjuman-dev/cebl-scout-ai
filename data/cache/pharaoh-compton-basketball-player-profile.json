@@ -1,0 +1,25 @@
+{
+  "fullName": "PHARAOH COMPTON basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Pharaoh-Compton/682889",
+  "height": "6'7'",
+  "college": "University of Oregon",
+  "currentTeam": "SDSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "SDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SDSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T07:17:58.353Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T07:17:58.353Z"
+}

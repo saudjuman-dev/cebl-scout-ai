@@ -1,0 +1,39 @@
+{
+  "fullName": "BRYSON WARREN basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Bryson-Warren/569161",
+  "height": "6'2'",
+  "currentTeam": "Westchester K.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Sioux Falls",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Sioux Falls",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Westchester K.",
+      "league": "G League"
+    }
+  ],
+  "_lastVerified": "2026-07-19T06:55:53.460Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T06:55:53.460Z"
+}

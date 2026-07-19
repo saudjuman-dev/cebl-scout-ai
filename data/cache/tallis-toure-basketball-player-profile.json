@@ -1,0 +1,24 @@
+{
+  "fullName": "TALLIS TOURE basketball player profile",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tallis-Toure/742129",
+  "height": "6'11'",
+  "currentTeam": "Stanford",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stanford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T06:17:45.613Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T06:17:45.613Z"
+}

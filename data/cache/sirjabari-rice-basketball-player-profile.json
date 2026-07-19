@@ -77,19 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Andorra",
-      "league": "ESP-1"
+      "team": "Nymburk",
+      "league": "CZE-1"
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
+      "team": "Andorra",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:24:22.556Z",
+  "_lastVerified": "2026-07-19T07:13:48.953Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:24:22.556Z"
+  "cachedAt": "2026-07-19T07:13:48.953Z"
 }

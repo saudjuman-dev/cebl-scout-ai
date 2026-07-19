@@ -71,6 +71,11 @@
     },
     {
       "year": "25-26",
+      "team": "Cedevita Ol.",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
       "team": "Trapani",
       "league": "ITA-1"
     },
@@ -78,17 +83,12 @@
       "year": "25-26",
       "team": "Cedevita Ol.",
       "league": "ADR-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Cedevita Ol.",
-      "league": "SLO-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:03:21.201Z",
+  "_lastVerified": "2026-07-19T06:53:24.671Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:03:21.201Z"
+  "cachedAt": "2026-07-19T06:53:24.671Z"
 }

@@ -2,8 +2,7 @@
   "fullName": "NORRIS AGBAKOKO basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Norris-Agbakoko/451801",
   "height": "7'2'",
-  "college": "University Games European Championships Olympic Games European Championships U16 NORRIS AGBAKOKO basketball player profile Uniform No",
-  "currentTeam": "ALBA",
+  "currentTeam": "Washington W.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -104,12 +103,17 @@
       "year": "25-26",
       "team": "ALBA",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "Washington W.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:10:35.706Z",
+  "_lastVerified": "2026-07-19T06:02:10.258Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:10:35.706Z"
+  "cachedAt": "2026-07-19T06:02:10.258Z"
 }

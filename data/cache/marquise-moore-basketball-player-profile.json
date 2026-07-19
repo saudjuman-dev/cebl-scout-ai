@@ -26,12 +26,12 @@
     },
     {
       "year": "17-18",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
       "year": "18-19",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "year": "19-20",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -80,10 +80,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-07-12T09:20:35.044Z",
+  "_lastVerified": "2026-07-19T08:55:29.290Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T09:20:35.044Z"
+  "cachedAt": "2026-07-19T08:55:29.290Z"
 }

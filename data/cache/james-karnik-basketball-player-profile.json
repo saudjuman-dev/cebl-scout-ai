@@ -2,7 +2,7 @@
   "fullName": "JAMES KARNIK basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/James-Karnik/410488",
   "height": "6'9'",
-  "currentTeam": "Girona",
+  "currentTeam": "Vancouver",
   "careerHistory": [
     {
       "year": "17-18",
@@ -88,12 +88,17 @@
       "year": "25-26",
       "team": "Neptunas",
       "league": "Eurocup-1"
+    },
+    {
+      "year": "2026",
+      "team": "Vancouver",
+      "league": "CEBL"
     }
   ],
-  "_lastVerified": "2026-07-12T08:31:50.023Z",
+  "_lastVerified": "2026-07-19T08:11:49.389Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:31:50.023Z"
+  "cachedAt": "2026-07-19T08:11:49.389Z"
 }

@@ -1,0 +1,104 @@
+{
+  "fullName": "ANTHONY SMITH basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Smith/393031",
+  "height": "6'8'",
+  "currentTeam": "Sibiu",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Barton Co.",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Barton Co.",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Murray State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Borac Mozzart",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "2023",
+      "team": "Guaymas",
+      "league": "MEX-1"
+    },
+    {
+      "year": "2023",
+      "team": "Halcones UV",
+      "league": "MEX-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Apes",
+      "league": "MGL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Guaymas",
+      "league": "MEX-1"
+    },
+    {
+      "year": "2024",
+      "team": "Red Rose Thunder",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Podgorica",
+      "league": "ADR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Podgorica",
+      "league": "MNT-1"
+    },
+    {
+      "year": "2025",
+      "team": "Red Rose Thunder",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Sibiu",
+      "league": "ROM-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Sibiu",
+      "league": "ROM-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T08:01:46.845Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T08:01:46.845Z"
+}

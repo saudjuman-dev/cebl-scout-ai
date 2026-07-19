@@ -2,7 +2,7 @@
   "fullName": "LUCAS DUFEAL basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Dufeal/530212",
   "height": "6'9'",
-  "currentTeam": "Le Mans",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -58,12 +58,17 @@
       "year": "25-26",
       "team": "Le Mans",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:33:16.789Z",
+  "_lastVerified": "2026-07-19T06:24:30.732Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:33:16.789Z"
+  "cachedAt": "2026-07-19T06:24:30.732Z"
 }

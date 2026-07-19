@@ -27,7 +27,7 @@
     },
     {
       "year": "19-20",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -86,10 +86,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-07-12T08:02:20.320Z",
+  "_lastVerified": "2026-07-19T07:49:24.083Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:02:20.320Z"
+  "cachedAt": "2026-07-19T07:49:24.083Z"
 }

@@ -3,7 +3,7 @@
   "sourceUrl": "https://basketball.eurobasket.com/player/Lance-Ware/423350",
   "height": "6'9'",
   "college": "University of Kentucky",
-  "currentTeam": "Iraklis",
+  "currentTeam": "NY Knicks",
   "careerHistory": [
     {
       "year": "20-21",
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Iraklis KAE",
       "league": "GRE-1"
+    },
+    {
+      "year": "2026",
+      "team": "NY Knicks",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T07:40:32.416Z",
+  "_lastVerified": "2026-07-19T07:28:10.687Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:40:32.416Z"
+  "cachedAt": "2026-07-19T07:28:10.687Z"
 }

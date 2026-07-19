@@ -67,18 +67,18 @@
     {
       "year": "25-26",
       "team": "FMP BG",
-      "league": "ADR-1"
+      "league": "SRB-1"
     },
     {
       "year": "25-26",
       "team": "FMP BG",
-      "league": "SRB-1"
+      "league": "ADR-1"
     }
   ],
-  "_lastVerified": "2026-07-12T07:54:03.472Z",
+  "_lastVerified": "2026-07-19T07:41:18.044Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T07:54:03.472Z"
+  "cachedAt": "2026-07-19T07:41:18.044Z"
 }

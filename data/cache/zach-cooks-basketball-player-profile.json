@@ -2,7 +2,7 @@
   "fullName": "ZACH COOKS basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zach-Cooks/430426",
   "height": "5'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ZACH COOKS basketball player profile Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 ZACH COOKS basketball player profile Height",
   "currentTeam": "Bonn",
   "careerHistory": [
     {
@@ -76,10 +76,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-07-12T06:13:43.529Z",
+  "_lastVerified": "2026-07-19T06:05:14.676Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:13:43.529Z"
+  "cachedAt": "2026-07-19T06:05:14.676Z"
 }

@@ -1,0 +1,154 @@
+{
+  "fullName": "CODI MILLER-MCINTYRE basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Codi-Miller-McIntyre/257803",
+  "height": "6'3'",
+  "currentTeam": "Crvena zvezda",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Parma-Pari",
+      "league": "FEL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Parma-Pari",
+      "league": "VTB-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zenit SP",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zenit SP",
+      "league": "VTB-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Texas L.",
+      "league": "G League"
+    },
+    {
+      "year": "2019",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Cedevita Olim.",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Cedevita Olim.",
+      "league": "ADR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Cedevita Olim.",
+      "league": "SLO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Partizan",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Partizan",
+      "league": "ADR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gaziantep",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gaziantep",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cazoo Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cazoo Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crvena Zvezda",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crvena Zvezda",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Crvena zvezda",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Crvena zvezda",
+      "league": "ADR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-19T07:19:41.744Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T07:19:41.744Z"
+}

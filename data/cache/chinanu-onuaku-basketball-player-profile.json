@@ -144,17 +144,12 @@
       "year": "25-26",
       "team": "Bnei Hertzeliya",
       "league": "ISR-1"
-    },
-    {
-      "year": "2026",
-      "team": "Santurce",
-      "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-07-12T08:06:46.353Z",
+  "_lastVerified": "2026-07-19T07:53:37.830Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:06:46.353Z"
+  "cachedAt": "2026-07-19T07:53:37.830Z"
 }

@@ -2,8 +2,8 @@
   "fullName": "DARIN GREEN JR. basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Darin-Green-Jr/423246",
   "height": "6'5'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games DARIN GREEN JR",
-  "currentTeam": "H.Holon",
+  "college": "college basketball at George Washington University",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -53,23 +53,28 @@
     {
       "year": "25-26",
       "team": "Radnicki KG",
-      "league": "ADR-2"
+      "league": "SRB-1"
     },
     {
       "year": "25-26",
       "team": "Radnicki KG",
-      "league": "SRB-1"
+      "league": "ADR-2"
     },
     {
       "year": "25-26",
       "team": "H.Holon",
       "league": "ISR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T10:53:46.815Z",
+  "_lastVerified": "2026-07-19T10:26:59.695Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T10:53:46.815Z"
+  "cachedAt": "2026-07-19T10:26:59.695Z"
 }

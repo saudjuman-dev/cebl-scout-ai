@@ -2,7 +2,7 @@
   "fullName": "GERALD AYAYI basketball player profile",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gerald-Ayayi/479561",
   "height": "6'3'",
-  "currentTeam": "Cholet",
+  "currentTeam": "Philadelphia 76",
   "careerHistory": [
     {
       "year": "18-19",
@@ -68,12 +68,17 @@
       "year": "25-26",
       "team": "Cholet",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Philadelphia 76",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-07-12T06:30:37.030Z",
+  "_lastVerified": "2026-07-19T06:21:49.005Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T06:30:37.030Z"
+  "cachedAt": "2026-07-19T06:21:49.005Z"
 }

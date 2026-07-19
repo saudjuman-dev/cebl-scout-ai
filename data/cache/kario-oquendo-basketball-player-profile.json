@@ -38,23 +38,23 @@
     {
       "year": "25-26",
       "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
       "league": "ADR-2"
     },
     {
       "year": "25-26",
       "team": "Texas L.",
       "league": "G League"
-    },
-    {
-      "year": "25-26",
-      "team": "Radnicki KG",
-      "league": "SRB-1"
     }
   ],
-  "_lastVerified": "2026-07-12T10:53:21.530Z",
+  "_lastVerified": "2026-07-19T10:26:35.198Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T10:53:21.530Z"
+  "cachedAt": "2026-07-19T10:26:35.198Z"
 }

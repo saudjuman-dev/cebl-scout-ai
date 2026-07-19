@@ -1,0 +1,30 @@
+{
+  "fullName": "DANIEL SHARON basketball player profile",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Sharon/722562",
+  "height": "6'6'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games DANIEL SHARON basketball player profile Height",
+  "currentTeam": "M.Rehovot",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "M.Rehovot",
+      "league": "ISR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "M.Rehovot",
+      "league": "ISR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Rehovot",
+      "league": "ISR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-19T07:55:35.002Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-19T07:55:35.002Z"
+}

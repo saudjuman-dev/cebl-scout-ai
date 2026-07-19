@@ -63,12 +63,12 @@
     {
       "year": "25-26",
       "team": "Inter Bratislava",
-      "league": "ENBL-1"
+      "league": "SVK-1"
     },
     {
       "year": "25-26",
       "team": "Inter Bratislava",
-      "league": "SVK-1"
+      "league": "ENBL-1"
     },
     {
       "year": "25-26",
@@ -76,10 +76,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-07-12T08:51:12.449Z",
+  "_lastVerified": "2026-07-19T08:29:53.969Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-12T08:51:12.449Z"
+  "cachedAt": "2026-07-19T08:29:53.969Z"
 }
