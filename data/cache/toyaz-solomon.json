@@ -1,0 +1,45 @@
+{
+  "fullName": "Toyaz Solomon",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Toyaz-Solomon/640791",
+  "height": "6'9'",
+  "college": "College UNC Asheville",
+  "currentTeam": "UNC Asheville",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Caldwell Tech",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Caldwell Tech",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "UNC Asheville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNC Asheville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNC Asheville",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "UNC Asheville",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:14:41.312Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:14:41.312Z"
+}

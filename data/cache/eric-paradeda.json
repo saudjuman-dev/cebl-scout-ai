@@ -1,0 +1,44 @@
+{
+  "fullName": "Eric Paradeda",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eric-Paradeda/624652",
+  "height": "6'9'",
+  "currentTeam": "Mollerussa",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Quart",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Quart",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Penarroya",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Mollerussa",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:48:34.076Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:48:34.076Z"
+}

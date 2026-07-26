@@ -1,0 +1,30 @@
+{
+  "fullName": "#7Evan Rietsch",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Evan-Rietsch/706386",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Heidelberg",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Heidelberg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:23:29.130Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:23:29.130Z"
+}

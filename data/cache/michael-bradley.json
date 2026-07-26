@@ -1,7 +1,8 @@
 {
-  "fullName": "MICHAEL BRADLEY",
+  "fullName": "Michael Bradley",
   "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Bradley/535295",
   "height": "6'1'",
+  "college": "College NKU",
   "currentTeam": "Queluz",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:29:42.860Z",
+  "_lastVerified": "2026-07-26T08:57:41.088Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:29:42.860Z"
+  "cachedAt": "2026-07-26T08:57:41.088Z"
 }

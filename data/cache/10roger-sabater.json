@@ -1,0 +1,23 @@
+{
+  "fullName": "#10Roger Sabater",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Roger-Sabater/731870",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Sol Girones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:59:37.776Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:59:37.776Z"
+}

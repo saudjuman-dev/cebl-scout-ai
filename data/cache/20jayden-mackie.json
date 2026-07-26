@@ -1,0 +1,24 @@
+{
+  "fullName": "#20Jayden Mackie",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jayden-Mackie/601437",
+  "height": "6'0'",
+  "currentTeam": "Grand View",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Grand View",
+      "league": "NAIA"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:14:41.097Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:14:41.097Z"
+}

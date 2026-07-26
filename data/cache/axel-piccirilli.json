@@ -1,0 +1,45 @@
+{
+  "fullName": "Axel Piccirilli",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Axel-Piccirilli/640521",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Axel PiccirilliBasketball Player ProfileHeight197cm",
+  "currentTeam": "Bergamo",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Stellazzurra",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "22-23",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pistoia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Bergamo",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Omegna",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:32:22.226Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:32:22.226Z"
+}

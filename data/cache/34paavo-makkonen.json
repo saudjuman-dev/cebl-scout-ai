@@ -1,0 +1,35 @@
+{
+  "fullName": "#34Paavo Makkonen",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Paavo-Makkonen/731545",
+  "height": "6'9'",
+  "college": "University Games European Championships European Championships U20 European Championships U16",
+  "currentTeam": "Lahti",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Lahti",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pajulahti",
+      "league": "FIN-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:21:21.621Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:21:21.621Z"
+}

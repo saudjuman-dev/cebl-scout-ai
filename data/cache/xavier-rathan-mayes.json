@@ -1,8 +1,8 @@
 {
-  "fullName": "XAVIER RATHAN-MAYES",
+  "fullName": "Xavier Rathan-Mayes",
   "sourceUrl": "https://basketball.eurobasket.com/player/Xavier-Rathan-Mayes/225300",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 XAVIER RATHAN",
+  "college": "University Games European Championships Olympic Games European Championships U20 World Cup U19 World Cup U17 European Championships U16 Xavier Rathan",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -128,12 +128,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -141,10 +141,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:14:35.845Z",
+  "_lastVerified": "2026-07-26T06:14:18.989Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:14:35.845Z"
+  "cachedAt": "2026-07-26T06:14:18.989Z"
 }

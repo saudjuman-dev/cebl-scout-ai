@@ -1,0 +1,94 @@
+{
+  "fullName": "#20Tomas Pavelka",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tomas-Pavelka/445077",
+  "height": "7'2'",
+  "currentTeam": "Slovan",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "GBA U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Sparta Praha",
+      "league": "CZE-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Tartu Ulikoo",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tartu Ulikoo",
+      "league": "LAES-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tartu Ulikoo",
+      "league": "EST-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Siauliai",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Neptunas",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Inter Bratislava",
+      "league": "SVK-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Inter Bratislava",
+      "league": "ENBL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:29:48.355Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:29:48.355Z"
+}

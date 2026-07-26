@@ -1,0 +1,54 @@
+{
+  "fullName": "Isaac Guedegbe",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaac-Guedegbe/697236",
+  "height": "5'11'",
+  "currentTeam": "Bourg",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Roanne U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Roanne U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "2025",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Bourg",
+      "league": "Eurocup-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:07:58.027Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:07:58.027Z"
+}

@@ -1,0 +1,28 @@
+{
+  "fullName": "#16Izan Soler",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Izan-Soler/764526",
+  "currentTeam": "Girona",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Salt",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Girona U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Girona",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:26:41.452Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:26:41.452Z"
+}

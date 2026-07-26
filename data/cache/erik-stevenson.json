@@ -1,9 +1,9 @@
 {
-  "fullName": "ERIK STEVENSON",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Erik-Stevenson/474296",
+  "fullName": "Erik Stevenson",
+  "sourceUrl": "https://basketball.usbasket.com/player/Erik-Stevenson/474296",
   "height": "6'4'",
-  "college": "University of Washington",
-  "currentTeam": "Zaragoza",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Denver N.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -94,12 +94,17 @@
       "year": "25-26",
       "team": "Zaragoza",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Denver N.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:38:23.085Z",
+  "_lastVerified": "2026-07-26T07:29:10.743Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:38:23.085Z"
+  "cachedAt": "2026-07-26T07:29:10.743Z"
 }

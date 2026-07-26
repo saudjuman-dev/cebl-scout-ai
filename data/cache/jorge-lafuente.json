@@ -1,5 +1,5 @@
 {
-  "fullName": "JORGE LAFUENTE",
+  "fullName": "Jorge Lafuente",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jorge-Lafuente/183384",
   "height": "6'6'",
   "currentTeam": "Toledo",
@@ -105,12 +105,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-01T14:58:53.292Z",
+  "_lastVerified": "2026-07-26T10:00:21.962Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:09:13.834Z",
-  "nationality": "Spanish",
-  "birthdate": "July 25 1991"
+  "cachedAt": "2026-07-26T10:00:21.962Z"
 }

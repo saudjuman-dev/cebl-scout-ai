@@ -1,9 +1,9 @@
 {
-  "fullName": "DARIN GREEN JR.",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Darin-Green-Jr/423246",
+  "fullName": "Darin Green Jr.",
+  "sourceUrl": "https://basketball.usbasket.com/player/Darin-Green-Jr/423246",
   "height": "6'5'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games DARIN GREEN JR",
-  "currentTeam": "H.Holon",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -47,11 +47,6 @@
     },
     {
       "year": "25-26",
-      "team": "Radnicki KG",
-      "league": "ADR-2"
-    },
-    {
-      "year": "25-26",
       "team": "H.Holon",
       "league": "BCL-1"
     },
@@ -62,14 +57,24 @@
     },
     {
       "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "ADR-2"
+    },
+    {
+      "year": "25-26",
       "team": "H.Holon",
       "league": "ISR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T08:07:45.362Z",
+  "_lastVerified": "2026-07-26T10:16:07.712Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:07:45.362Z"
+  "cachedAt": "2026-07-26T10:16:07.712Z"
 }

@@ -1,0 +1,70 @@
+{
+  "fullName": "Seikou Jawara",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Seikou-Jawara/490609",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Seikou JawaraBasketball Player ProfileHeight191cm",
+  "currentTeam": "Muenster",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "GBA Europe",
+      "league": "CZE-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Loyola Marymount University",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "San Diego",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UCSD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Muenster",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:01:41.323Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:01:41.323Z"
+}

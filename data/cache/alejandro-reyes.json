@@ -1,5 +1,5 @@
 {
-  "fullName": "ALEJANDRO REYES",
+  "fullName": "Alejandro Reyes",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Reyes/239179",
   "height": "6'8'",
   "currentTeam": "Manresa",
@@ -117,18 +117,18 @@
     {
       "year": "25-26",
       "team": "Manresa",
-      "league": "Eurocup-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Manresa",
-      "league": "ESP-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:52.869Z",
+  "_lastVerified": "2026-07-26T07:24:07.911Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:52.869Z"
+  "cachedAt": "2026-07-26T07:24:07.911Z"
 }

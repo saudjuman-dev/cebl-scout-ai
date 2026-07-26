@@ -1,5 +1,5 @@
 {
-  "fullName": "MARKO FILIPOVITY",
+  "fullName": "Marko Filipovity",
   "sourceUrl": "https://basketball.eurobasket.com/player/Marko-Filipovity/302810",
   "height": "6'9'",
   "currentTeam": "Szombathely",
@@ -136,6 +136,16 @@
     },
     {
       "year": "25-26",
+      "team": "Szombathely",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
       "team": "FC Porto",
       "league": "BCL-1"
     },
@@ -148,22 +158,12 @@
       "year": "25-26",
       "team": "Szombathely",
       "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Szombathely",
-      "league": "HUN-1"
-    },
-    {
-      "year": "25-26",
-      "team": "FC Porto",
-      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:53:50.243Z",
+  "_lastVerified": "2026-07-26T08:42:15.760Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:53:50.243Z"
+  "cachedAt": "2026-07-26T08:42:15.760Z"
 }

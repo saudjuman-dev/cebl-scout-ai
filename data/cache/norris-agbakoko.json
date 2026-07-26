@@ -1,9 +1,9 @@
 {
-  "fullName": "NORRIS AGBAKOKO",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Norris-Agbakoko/451801",
+  "fullName": "Norris Agbakoko",
+  "sourceUrl": "https://basketball.usbasket.com/player/Norris-Agbakoko/451801",
   "height": "7'2'",
-  "college": "University Games European Championships Olympic Games European Championships U16 NORRIS AGBAKOKO basketball profile Uniform No",
-  "currentTeam": "ALBA",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Washington W.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -93,23 +93,28 @@
     {
       "year": "25-26",
       "team": "ALBA",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "ALBA",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "ALBA",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "Washington W.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:23:19.114Z",
+  "_lastVerified": "2026-07-26T06:12:58.576Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:23:19.114Z"
+  "cachedAt": "2026-07-26T06:12:58.576Z"
 }

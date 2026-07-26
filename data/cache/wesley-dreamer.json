@@ -1,8 +1,8 @@
 {
-  "fullName": "WESLEY DREAMER",
+  "fullName": "Wesley Dreamer",
   "sourceUrl": "https://basketball.eurobasket.com/player/Wesley-Dreamer/522354",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16 WESLEY DREAMER basketball profile Uniform",
+  "college": "College NW Missouri St",
   "currentTeam": "Nymburk",
   "careerHistory": [
     {
@@ -52,19 +52,19 @@
     },
     {
       "year": "25-26",
-      "team": "Goettingen",
-      "league": "GER-2"
+      "team": "Nymburk",
+      "league": "CZE-1"
     },
     {
       "year": "25-26",
-      "team": "Nymburk",
-      "league": "CZE-1"
+      "team": "Goettingen",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:33:42.249Z",
+  "_lastVerified": "2026-07-26T06:40:52.849Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:33:42.249Z"
+  "cachedAt": "2026-07-26T06:40:52.849Z"
 }

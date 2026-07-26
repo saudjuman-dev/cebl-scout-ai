@@ -1,0 +1,50 @@
+{
+  "fullName": "Jarrett Adderton",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jarrett-Adderton/560643",
+  "height": "6'3'",
+  "college": "College Columbus St",
+  "currentTeam": "Papagou",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "GSW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "GSW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "GSW",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Columbus St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Columbus St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2025",
+      "team": "Immortals",
+      "league": "MIC-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Papagou",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:07:14.811Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:07:14.811Z"
+}

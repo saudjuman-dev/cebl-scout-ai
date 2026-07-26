@@ -1,7 +1,8 @@
 {
-  "fullName": "MOSES WRIGHT",
+  "fullName": "Moses Wright",
   "sourceUrl": "https://basketball.eurobasket.com/player/Moses-Wright/447437",
   "height": "6'10'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Moses WrightBasketball Player ProfileHeight207cm",
   "currentTeam": "Zalgiris",
   "careerHistory": [
     {
@@ -105,10 +106,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:20:24.151Z",
+  "_lastVerified": "2026-07-26T07:41:08.364Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:20:24.151Z"
+  "cachedAt": "2026-07-26T07:41:08.364Z"
 }

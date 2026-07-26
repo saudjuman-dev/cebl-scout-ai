@@ -1,0 +1,39 @@
+{
+  "fullName": "#23Jeronimo Luis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jeronimo-Luis/658406",
+  "height": "6'6'",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Sangalhos",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gijon T.Auto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "1 De Agosto",
+      "league": "ANG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chantada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:09:13.557Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:09:13.557Z"
+}

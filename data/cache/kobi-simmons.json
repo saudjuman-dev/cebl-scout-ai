@@ -1,8 +1,8 @@
 {
-  "fullName": "KOBI SIMMONS",
+  "fullName": "Kobi Simmons",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kobi-Simmons/365776",
   "height": "6'5'",
-  "college": "University of Arizona",
+  "college": "College Arizona",
   "currentTeam": "Baskonia",
   "careerHistory": [
     {
@@ -106,10 +106,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:36:53.834Z",
+  "_lastVerified": "2026-07-26T07:16:34.357Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:36:53.834Z"
+  "cachedAt": "2026-07-26T07:16:34.357Z"
 }

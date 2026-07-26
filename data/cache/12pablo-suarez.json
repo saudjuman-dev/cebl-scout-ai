@@ -1,0 +1,74 @@
+{
+  "fullName": "#12Pablo Suarez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Suarez/375859",
+  "height": "6'4'",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Menorca",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Menorca",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:00:41.677Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:00:41.677Z"
+}

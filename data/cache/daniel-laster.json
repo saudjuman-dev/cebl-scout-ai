@@ -1,7 +1,8 @@
 {
-  "fullName": "DANIEL LASTER",
+  "fullName": "Daniel Laster",
   "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Laster/370767",
   "height": "6'7'",
+  "college": "College Gardner",
   "currentTeam": "Stal",
   "careerHistory": [
     {
@@ -85,10 +86,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:16:29.624Z",
+  "_lastVerified": "2026-07-26T09:02:49.691Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:16:29.624Z"
+  "cachedAt": "2026-07-26T09:02:49.691Z"
 }

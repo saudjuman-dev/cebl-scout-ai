@@ -1,8 +1,8 @@
 {
-  "fullName": "KYLE GREELEY",
+  "fullName": "Kyle Greeley",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Greeley/487328",
   "height": "6'5'",
-  "college": "College All",
+  "college": "College St",
   "currentTeam": "Gandia",
   "careerHistory": [
     {
@@ -46,10 +46,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:00:34.898Z",
+  "_lastVerified": "2026-07-26T09:52:49.361Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:00:34.898Z"
+  "cachedAt": "2026-07-26T09:52:49.361Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "TAHLIK CHAVEZ",
+  "fullName": "Tahlik Chavez",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tahlik-Chavez/428764",
   "height": "6'2'",
+  "college": "College La Tech",
   "currentTeam": "Dziki",
   "careerHistory": [
     {
@@ -60,10 +61,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:13:57.403Z",
+  "_lastVerified": "2026-07-26T08:21:56.432Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:13:57.403Z"
+  "cachedAt": "2026-07-26T08:21:56.432Z"
 }

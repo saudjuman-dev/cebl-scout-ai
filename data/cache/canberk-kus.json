@@ -1,8 +1,8 @@
 {
-  "fullName": "CANBERK KUS",
+  "fullName": "Canberk Kus",
   "sourceUrl": "https://basketball.eurobasket.com/player/Canberk-Kus/387579",
   "height": "6'6'",
-  "college": "College of Central Florida",
+  "college": "College Arkansas St",
   "currentTeam": "Besiktas",
   "careerHistory": [
     {
@@ -78,18 +78,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:04:25.875Z",
+  "_lastVerified": "2026-07-26T08:01:35.448Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:04:25.875Z"
+  "cachedAt": "2026-07-26T08:01:35.448Z"
 }

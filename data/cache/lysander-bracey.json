@@ -1,8 +1,9 @@
 {
-  "fullName": "LYSANDER BRACEY",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Lysander-Bracey/394939",
+  "fullName": "Lysander Bracey",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lysander-Bracey/394939",
   "height": "6'4'",
-  "currentTeam": "Palma Fibwi",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "PT Players",
   "careerHistory": [
     {
       "year": "15-16",
@@ -73,12 +74,17 @@
       "year": "25-26",
       "team": "Palma Fibwi",
       "league": "ESP-2"
+    },
+    {
+      "year": "2026",
+      "team": "PT Players",
+      "league": "ECBL"
     }
   ],
-  "_lastVerified": "2026-05-31T08:55:41.057Z",
+  "_lastVerified": "2026-07-26T09:45:44.103Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:55:41.057Z"
+  "cachedAt": "2026-07-26T09:45:44.103Z"
 }

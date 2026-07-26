@@ -1,0 +1,65 @@
+{
+  "fullName": "#12Faris Verlasevic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Faris-Verlasevic/334189",
+  "height": "6'8'",
+  "college": "College Lyon",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Lyon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Lyon",
+      "league": "NAIA"
+    },
+    {
+      "year": "18-19",
+      "team": "Lyon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Lyon",
+      "league": "NAIA"
+    },
+    {
+      "year": "19-20",
+      "team": "Lyon",
+      "league": "NAIA"
+    },
+    {
+      "year": "20-21",
+      "team": "Lyon",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Froya",
+      "league": "NOR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bosna",
+      "league": "BIH-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bosna",
+      "league": "BIH-1"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:56:56.597Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:56:56.597Z"
+}

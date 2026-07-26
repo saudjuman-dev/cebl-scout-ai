@@ -1,7 +1,8 @@
 {
-  "fullName": "JAMIE BERGENS",
+  "fullName": "Jamie Bergens",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jamie-Bergens/441147",
   "height": "6'2'",
+  "college": "College Fairfield",
   "currentTeam": "Ponferrada",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:58:22.908Z",
+  "_lastVerified": "2026-07-26T09:47:30.908Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:58:22.908Z"
+  "cachedAt": "2026-07-26T09:47:30.908Z"
 }

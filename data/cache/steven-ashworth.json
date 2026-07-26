@@ -1,9 +1,9 @@
 {
-  "fullName": "STEVEN ASHWORTH",
+  "fullName": "Steven Ashworth",
   "sourceUrl": "https://basketball.eurobasket.com/player/Steven-Ashworth/425641",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16 STEVEN ASHWORTH basketball profile Uniform",
-  "currentTeam": "Trier",
+  "college": "College Creighton",
+  "currentTeam": "OKC Thunder",
   "careerHistory": [
     {
       "year": "20-21",
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Trier",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "OKC Thunder",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:15:07.158Z",
+  "_lastVerified": "2026-07-26T06:16:23.671Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:15:07.158Z"
+  "cachedAt": "2026-07-26T06:16:23.671Z"
 }

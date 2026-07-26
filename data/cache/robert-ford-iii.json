@@ -1,7 +1,8 @@
 {
-  "fullName": "ROBERT FORD III",
+  "fullName": "Robert Ford III",
   "sourceUrl": "https://basketball.eurobasket.com/player/Robert-Ford-III/430361",
   "height": "6'0'",
+  "college": "College Montana St",
   "currentTeam": "La Rochelle",
   "careerHistory": [
     {
@@ -70,10 +71,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:40:10.273Z",
+  "_lastVerified": "2026-07-26T06:45:09.582Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:40:10.273Z"
+  "cachedAt": "2026-07-26T06:45:09.582Z"
 }

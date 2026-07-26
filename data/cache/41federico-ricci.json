@@ -1,0 +1,65 @@
+{
+  "fullName": "#41Federico Ricci",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Federico-Ricci/334124",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Piacenza Basket",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Tortona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Senigallia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Senigallia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Fiorenzuola",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Fiorenzuola",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Fiorenzuola",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Fiorenzuola",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Imola Virtus",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Piacenza Basket",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Piacenza UCC",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:33:27.430Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:33:27.430Z"
+}

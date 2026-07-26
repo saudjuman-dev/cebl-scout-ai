@@ -1,5 +1,5 @@
 {
-  "fullName": "JONATHAN BARREIRO",
+  "fullName": "Jonathan Barreiro",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Barreiro/296079",
   "height": "6'8'",
   "currentTeam": "Unicaja",
@@ -112,18 +112,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:44.618Z",
+  "_lastVerified": "2026-07-26T07:23:28.640Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:44.618Z"
+  "cachedAt": "2026-07-26T07:23:28.640Z"
 }

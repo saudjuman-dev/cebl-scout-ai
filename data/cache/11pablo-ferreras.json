@@ -1,0 +1,23 @@
+{
+  "fullName": "#11Pablo Ferreras",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Ferreras/741481",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Logro Basket",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:07:33.030Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:07:33.030Z"
+}

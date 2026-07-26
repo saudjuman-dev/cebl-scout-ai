@@ -1,7 +1,8 @@
 {
-  "fullName": "JORDAN FLOYD",
+  "fullName": "Jordan Floyd",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Floyd/376846",
   "height": "6'2'",
+  "college": "College King",
   "currentTeam": "Tofas",
   "careerHistory": [
     {
@@ -110,10 +111,10 @@
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:00:14.718Z",
+  "_lastVerified": "2026-07-26T08:04:11.421Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:00:14.718Z"
+  "cachedAt": "2026-07-26T08:04:11.421Z"
 }

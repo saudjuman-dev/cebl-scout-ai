@@ -1,0 +1,55 @@
+{
+  "fullName": "#24Jasman Sangha",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jasman-Sangha/545990",
+  "height": "6'8'",
+  "college": "College Canisius",
+  "currentTeam": "Vitoria SC",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Pensacola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Garden City",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "CSUN",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Canisius",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "2025",
+      "team": "Brown Ballers",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:37:57.866Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:37:57.866Z"
+}

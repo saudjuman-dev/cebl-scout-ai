@@ -1,5 +1,5 @@
 {
-  "fullName": "KEVIN DINAL",
+  "fullName": "Kevin Dinal",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Dinal/206041",
   "height": "6'7'",
   "currentTeam": "Nantes",
@@ -65,13 +65,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:39:42.641Z",
+  "_lastVerified": "2026-07-26T06:42:20.289Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:29:35.092Z",
-  "nationality": "French",
-  "birthdate": "April 13 1993",
-  "birthCity": "Paris"
+  "cachedAt": "2026-07-26T06:42:20.289Z"
 }

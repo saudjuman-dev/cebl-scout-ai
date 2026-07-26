@@ -1,0 +1,95 @@
+{
+  "fullName": "Uros Plavsic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Uros-Plavsic/354142",
+  "height": "7'0'",
+  "college": "College Tennessee",
+  "currentTeam": "Bordo",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Smederevo",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tennessee",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Mega MIS",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mega MIS",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crvena Zvezda",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crvena Zvezda",
+      "league": "ADR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Crvena zvezda",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Crvena zvezda",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bordo",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:01:53.523Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:01:53.523Z"
+}

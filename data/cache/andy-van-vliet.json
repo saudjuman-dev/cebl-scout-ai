@@ -1,8 +1,8 @@
 {
-  "fullName": "ANDY VAN VLIET",
+  "fullName": "Andy Van Vliet",
   "sourceUrl": "https://basketball.eurobasket.com/player/Andy-Van-Vliet/227912",
   "height": "7'0'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ANDY VAN VLIET basketball profile Uniform No",
+  "college": "College William",
   "currentTeam": "Rostock",
   "careerHistory": [
     {
@@ -88,12 +88,12 @@
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -101,10 +101,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:17:56.287Z",
+  "_lastVerified": "2026-07-26T06:27:15.424Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:17:56.287Z"
+  "cachedAt": "2026-07-26T06:27:15.424Z"
 }

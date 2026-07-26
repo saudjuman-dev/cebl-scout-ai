@@ -1,0 +1,80 @@
+{
+  "fullName": "#6T.J. Bickerstaff",
+  "sourceUrl": "https://basketball.eurobasket.com/player/TJ-Bickerstaff/504831",
+  "height": "6'9'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games",
+  "currentTeam": "H.Be'er Sheva",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Drexel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Drexel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "JMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2024",
+      "team": "Sacramento K.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "AEL",
+      "league": "CYP-1"
+    },
+    {
+      "year": "2025",
+      "team": "Detroit P.",
+      "league": "NBA"
+    },
+    {
+      "year": "2025",
+      "team": "Bashkimi",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bashkimi",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "AEK Larnaca",
+      "league": "CYP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bashkimi",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:10:19.398Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:10:19.398Z"
+}

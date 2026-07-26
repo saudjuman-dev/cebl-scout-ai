@@ -1,0 +1,99 @@
+{
+  "fullName": "Ruben Lopez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ruben-Lopez/445144",
+  "height": "6'8'",
+  "currentTeam": "Murcia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Real Madrid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gran Canaria",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Forca Lleida",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Betis Se",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:19:17.298Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:19:17.298Z"
+}

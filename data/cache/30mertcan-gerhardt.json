@@ -1,0 +1,80 @@
+{
+  "fullName": "#30Mertcan Gerhardt",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mertcan-Gerhardt/486534",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Fenerbahce",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Fenerbahce",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Fenerbahce",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fenerbahce",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "OGM Orman",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Ormanspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:25:33.705Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:25:33.705Z"
+}

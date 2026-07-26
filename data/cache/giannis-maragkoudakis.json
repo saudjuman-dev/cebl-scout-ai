@@ -1,0 +1,24 @@
+{
+  "fullName": "Giannis Maragkoudakis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giannis-Maragkoudakis/660388",
+  "height": "5'11'",
+  "currentTeam": "HANTH",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Peristeri",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "HANTH",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:50:47.465Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:50:47.465Z"
+}

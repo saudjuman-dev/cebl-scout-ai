@@ -1,8 +1,8 @@
 {
-  "fullName": "CHRISTIAN SENGFELDER",
+  "fullName": "Christian Sengfelder",
   "sourceUrl": "https://basketball.eurobasket.com/player/Christian-Sengfelder/262936",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games European Championships U16 CHRISTIAN SENGFELDER basketball profile Uniform No",
+  "college": "College Boise St",
   "currentTeam": "Ulm",
   "careerHistory": [
     {
@@ -128,18 +128,18 @@
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:17:16.688Z",
+  "_lastVerified": "2026-07-26T06:20:11.403Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:17:16.688Z"
+  "cachedAt": "2026-07-26T06:20:11.403Z"
 }

@@ -1,0 +1,75 @@
+{
+  "fullName": "#42C.J. Barksdale",
+  "sourceUrl": "https://basketball.eurobasket.com/player/CJ-Barksdale/234448",
+  "height": "6'8'",
+  "college": "College Virginia Tech",
+  "currentTeam": "Salou",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "TYCO Rapla",
+      "league": "BAL-1"
+    },
+    {
+      "year": "14-15",
+      "team": "TYCO Rapla",
+      "league": "EST-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Salou",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Salou",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Salou",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Salou",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Salou",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:03:20.075Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:03:20.075Z"
+}

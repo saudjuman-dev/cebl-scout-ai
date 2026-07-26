@@ -1,0 +1,75 @@
+{
+  "fullName": "#5Devon Goodman",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Devon-Goodman/403014",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Giessen 46ers",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Pennsylvania",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Pennsylvania",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Pennsylvania",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Pennsylvania",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Big 5",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Telekom Bsk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bisons",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Crailsheim",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Giessen 46ers",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:50:02.906Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:50:02.906Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "DEANDRE GHOLSTON",
+  "fullName": "DeAndre Gholston",
   "sourceUrl": "https://basketball.eurobasket.com/player/DeAndre-Gholston/442313",
   "height": "6'5'",
-  "college": "University of Wisconsin",
+  "college": "College Missouri",
   "currentTeam": "Cholet",
   "careerHistory": [
     {
@@ -67,19 +67,19 @@
     },
     {
       "year": "25-26",
-      "team": "H.Galil Elyon",
-      "league": "ISR-1"
+      "team": "Cholet",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Cholet",
-      "league": "FRA-1"
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:23:42.161Z",
+  "_lastVerified": "2026-07-26T06:37:45.536Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:23:42.161Z"
+  "cachedAt": "2026-07-26T06:37:45.536Z"
 }

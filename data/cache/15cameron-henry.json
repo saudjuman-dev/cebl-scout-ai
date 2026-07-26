@@ -1,0 +1,60 @@
+{
+  "fullName": "#15Cameron Henry",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Henry/452589",
+  "height": "6'6'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games",
+  "currentTeam": "H.Gilboa Galil",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "LMU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "LMU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "LMU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Indiana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Indiana St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Frankfurt",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Frankfurt",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Gilboa Galil",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:47:55.177Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:47:55.177Z"
+}

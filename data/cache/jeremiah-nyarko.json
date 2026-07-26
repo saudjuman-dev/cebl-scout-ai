@@ -1,0 +1,45 @@
+{
+  "fullName": "Jeremiah Nyarko",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jeremiah-Nyarko/500575",
+  "height": "6'9'",
+  "college": "University of San Diego 2018",
+  "currentTeam": "Sacramento St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "San Diego",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UCSD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "W.Texas CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Stony Brook",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:33.681Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:33.681Z"
+}

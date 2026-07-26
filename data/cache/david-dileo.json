@@ -1,7 +1,8 @@
 {
-  "fullName": "DAVID DILEO",
+  "fullName": "David DiLeo",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-DiLeo/405889",
   "height": "6'7'",
+  "college": "College CMU",
   "currentTeam": "Le Mans",
   "careerHistory": [
     {
@@ -80,10 +81,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:25:24.097Z",
+  "_lastVerified": "2026-07-26T06:40:24.665Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:25:24.097Z"
+  "cachedAt": "2026-07-26T06:40:24.665Z"
 }

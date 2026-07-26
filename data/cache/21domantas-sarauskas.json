@@ -1,0 +1,64 @@
+{
+  "fullName": "#21Domantas Sarauskas",
+  "sourceUrl": "https://basketball.usbasket.com/player/Domantas-Sarauskas/486850",
+  "height": "6'8'",
+  "currentTeam": "Murray St. CC",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Saule",
+      "league": "BBBL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Saule",
+      "league": "LTU-6"
+    },
+    {
+      "year": "20-21",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Saule",
+      "league": "LTU-6"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Delikatesas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Murray St. CC",
+      "league": "JUCO"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:31:15.723Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:31:15.723Z"
+}

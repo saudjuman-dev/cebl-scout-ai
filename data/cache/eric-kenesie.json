@@ -1,0 +1,24 @@
+{
+  "fullName": "Eric Kenesie",
+  "sourceUrl": "https://basketball.usbasket.com/player/Eric-Kenesie/803372",
+  "height": "6'0'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:31.735Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:31.735Z"
+}

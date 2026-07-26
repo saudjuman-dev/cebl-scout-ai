@@ -1,0 +1,70 @@
+{
+  "fullName": "#44Zvonimir Ivisic",
+  "sourceUrl": "https://basketball.usbasket.com/player/Zvonimir-Ivisic/433080",
+  "height": "7'2'",
+  "college": "University of Kentucky",
+  "currentTeam": "Illinois",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Cibona U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Sibenka",
+      "league": "CRO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Derby",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "SC Derby",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Derby",
+      "league": "ADR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kentucky",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Arkansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Illinois",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:36:12.761Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:36:12.761Z"
+}

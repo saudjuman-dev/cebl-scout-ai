@@ -1,8 +1,8 @@
 {
-  "fullName": "JAVON MASTERS",
+  "fullName": "Javon Masters",
   "sourceUrl": "https://basketball.eurobasket.com/player/Javon-Masters/457815",
   "height": "6'0'",
-  "college": "University of New Brunswick",
+  "college": "College UNB",
   "currentTeam": "Roanne",
   "careerHistory": [
     {
@@ -22,17 +22,17 @@
     },
     {
       "year": "19-20",
-      "team": "Dinamo B.",
+      "team": "Dinamo Stiinta",
       "league": "ROM-1"
     },
     {
       "year": "20-21",
-      "team": "Dinamo B.",
+      "team": "Dinamo Stiinta",
       "league": "ROM-1"
     },
     {
       "year": "20-21",
-      "team": "Dinamo B.",
+      "team": "Dinamo Stiinta",
       "league": "ROM-20"
     },
     {
@@ -76,10 +76,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:39:49.509Z",
+  "_lastVerified": "2026-07-26T09:08:18.012Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:39:49.509Z"
+  "cachedAt": "2026-07-26T09:08:18.012Z"
 }

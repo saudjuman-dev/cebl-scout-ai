@@ -1,0 +1,24 @@
+{
+  "fullName": "Aidan Cammann",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aidan-Cammann/682697",
+  "height": "6'10'",
+  "currentTeam": "Stanford",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stanford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:32:45.770Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:32:45.770Z"
+}

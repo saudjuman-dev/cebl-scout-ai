@@ -1,8 +1,8 @@
 {
-  "fullName": "IKE IROEGBU",
+  "fullName": "Ike Iroegbu",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ike-Iroegbu/300592",
   "height": "6'2'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 IKE IROEGBU basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U20 World Cup U19 World Cup U17 European Championships U16 Ike IroegbuBasketball Player ProfileHeight188cm",
   "currentTeam": "Varese",
   "careerHistory": [
     {
@@ -87,13 +87,13 @@
     },
     {
       "year": "25-26",
-      "team": "Varese",
-      "league": "ITA-1"
+      "team": "Valencia",
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Valencia",
-      "league": "EUROL-1"
+      "team": "Varese",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
@@ -101,10 +101,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:33:22.008Z",
+  "_lastVerified": "2026-07-26T07:05:43.400Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:33:22.008Z"
+  "cachedAt": "2026-07-26T07:05:43.400Z"
 }

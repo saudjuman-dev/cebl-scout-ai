@@ -1,0 +1,60 @@
+{
+  "fullName": "#0Ty Cockfield Jr.",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ty-Cockfield-Jr/366766",
+  "height": "6'0'",
+  "college": "College Arkansas St",
+  "currentTeam": "NTD",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Stetson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "GHC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Arkansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Arkansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Furstenfeld",
+      "league": "AUT-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Trepca",
+      "league": "KOS-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Prizreni",
+      "league": "KOS-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "NTD",
+      "league": "AZE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:57:26.026Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:57:26.026Z"
+}

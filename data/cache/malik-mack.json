@@ -1,0 +1,30 @@
+{
+  "fullName": "Malik Mack",
+  "sourceUrl": "https://basketball.usbasket.com/player/Malik-Mack/573184",
+  "height": "6'2'",
+  "college": "College Prep 2022",
+  "currentTeam": "Georgetown",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Harvard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:53:46.299Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:53:46.299Z"
+}

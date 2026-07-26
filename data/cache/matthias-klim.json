@@ -1,0 +1,40 @@
+{
+  "fullName": "Matthias Klim",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matthias-Klim/597398",
+  "height": "6'11'",
+  "college": "College UFV",
+  "currentTeam": "UFV",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "UFV",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "UFV",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "UFV",
+      "league": "USPO"
+    },
+    {
+      "year": "24-25",
+      "team": "UFV",
+      "league": "USPO"
+    },
+    {
+      "year": "25-26",
+      "team": "UFV",
+      "league": "USPO"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:38:28.645Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:38:28.645Z"
+}

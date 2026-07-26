@@ -1,10 +1,20 @@
 {
-  "fullName": "PATTY MILLS",
+  "fullName": "Patty Mills",
   "sourceUrl": "https://basketball.eurobasket.com/player/Patty-Mills/73711",
   "height": "6'2'",
-  "college": "College of California",
+  "college": "College SMC",
   "currentTeam": "Tenerife",
   "careerHistory": [
+    {
+      "year": "07-08",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "08-09",
+      "team": "SMC",
+      "league": "NCAA1"
+    },
     {
       "year": "09-10",
       "team": "Idaho S.",
@@ -121,10 +131,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-17T06:46:22.798Z",
+  "_lastVerified": "2026-07-26T07:17:31.251Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-17T06:46:22.798Z"
+  "cachedAt": "2026-07-26T07:17:31.251Z"
 }

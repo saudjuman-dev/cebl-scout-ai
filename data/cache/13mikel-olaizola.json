@@ -1,0 +1,38 @@
+{
+  "fullName": "#13Mikel Olaizola",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mikel-Olaizola/584972",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:46:37.910Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:46:37.910Z"
+}

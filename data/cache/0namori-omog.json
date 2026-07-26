@@ -1,0 +1,50 @@
+{
+  "fullName": "#0Namori Omog",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Namori-Omog/710641",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Ulm",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Frankfurt",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Frankfurt",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm BBU 01",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:20:43.939Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:20:43.939Z"
+}

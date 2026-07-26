@@ -1,8 +1,8 @@
 {
-  "fullName": "DEVANTE JONES",
+  "fullName": "DeVante Jones",
   "sourceUrl": "https://basketball.eurobasket.com/player/DeVante-Jones/490524",
   "height": "6'0'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 DEVANTE JONES basketball profile Uniform No",
+  "college": "College Michigan",
   "currentTeam": "Trento",
   "careerHistory": [
     {
@@ -78,18 +78,18 @@
     {
       "year": "25-26",
       "team": "Trento",
-      "league": "Eurocup-1"
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
       "team": "Trento",
-      "league": "ITA-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:30:08.930Z",
+  "_lastVerified": "2026-07-26T06:59:30.158Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:30:08.930Z"
+  "cachedAt": "2026-07-26T06:59:30.158Z"
 }

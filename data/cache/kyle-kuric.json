@@ -1,8 +1,8 @@
 {
-  "fullName": "KYLE KURIC",
+  "fullName": "Kyle Kuric",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Kuric/162327",
   "height": "6'4'",
-  "college": "University of Louisville",
+  "college": "College Louisville",
   "currentTeam": "Andorra",
   "careerHistory": [
     {
@@ -141,10 +141,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:44:40.837Z",
+  "_lastVerified": "2026-07-26T07:30:53.980Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:44:40.837Z"
+  "cachedAt": "2026-07-26T07:30:53.980Z"
 }

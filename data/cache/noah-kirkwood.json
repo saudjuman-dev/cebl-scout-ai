@@ -1,7 +1,8 @@
 {
-  "fullName": "NOAH KIRKWOOD",
+  "fullName": "Noah Kirkwood",
   "sourceUrl": "https://basketball.eurobasket.com/player/Noah-Kirkwood/365600",
   "height": "6'7'",
+  "college": "College Harvard",
   "currentTeam": "Slask",
   "careerHistory": [
     {
@@ -72,18 +73,18 @@
     {
       "year": "25-26",
       "team": "Slask",
-      "league": "Eurocup-1"
+      "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Slask",
-      "league": "POL-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:15:45.616Z",
+  "_lastVerified": "2026-07-26T08:18:28.126Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:15:45.616Z"
+  "cachedAt": "2026-07-26T08:18:28.126Z"
 }

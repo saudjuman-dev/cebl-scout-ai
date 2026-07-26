@@ -1,0 +1,50 @@
+{
+  "fullName": "#34Samba Kane",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Samba-Kane/423050",
+  "height": "7'0'",
+  "college": "College Milwaukee",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "USF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Milwaukee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Qatar Club",
+      "league": "QAT-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Randers",
+      "league": "DEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:58:48.191Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:58:48.191Z"
+}

@@ -1,0 +1,30 @@
+{
+  "fullName": "Xzavier Baker",
+  "sourceUrl": "https://basketball.usbasket.com/player/Xzavier-Baker/737347",
+  "height": "6'6'",
+  "college": "University of Alaska Fairbanks",
+  "currentTeam": "Alaska",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "E.Arizona JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "E.Arizona JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Alaska",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:54:43.373Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:54:43.373Z"
+}

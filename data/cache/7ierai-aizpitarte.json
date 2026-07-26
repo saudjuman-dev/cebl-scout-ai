@@ -1,0 +1,39 @@
+{
+  "fullName": "#7Ierai Aizpitarte",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ierai-Aizpitarte/619623",
+  "height": "5'11'",
+  "currentTeam": "Iraurgi SB",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:46:13.293Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:46:13.293Z"
+}

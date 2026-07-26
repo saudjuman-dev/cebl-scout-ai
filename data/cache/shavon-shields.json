@@ -1,8 +1,8 @@
 {
-  "fullName": "SHAVON SHIELDS",
+  "fullName": "Shavon Shields",
   "sourceUrl": "https://basketball.eurobasket.com/player/Shavon-Shields/266157",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 SHAVON SHIELDS basketball profile Uniform No",
+  "college": "College Nebraska",
   "currentTeam": "Milano",
   "careerHistory": [
     {
@@ -143,12 +143,12 @@
     {
       "year": "25-26",
       "team": "Milano",
-      "league": "ITA-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Milano",
-      "league": "EUROL-1"
+      "league": "ITA-20"
     },
     {
       "year": "25-26",
@@ -156,10 +156,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:31:47.541Z",
+  "_lastVerified": "2026-07-26T07:54:45.897Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:31:47.541Z"
+  "cachedAt": "2026-07-26T07:54:45.897Z"
 }

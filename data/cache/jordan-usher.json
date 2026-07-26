@@ -1,8 +1,8 @@
 {
-  "fullName": "JORDAN USHER",
+  "fullName": "Jordan Usher",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Usher/425492",
   "height": "6'7'",
-  "college": "University of Southern California",
+  "college": "College Georgia Tech",
   "currentTeam": "Turk Telekom",
   "careerHistory": [
     {
@@ -78,18 +78,18 @@
     {
       "year": "25-26",
       "team": "Turk Telekom",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Turk Telekom",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:56:43.096Z",
+  "_lastVerified": "2026-07-26T06:39:44.352Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:56:43.096Z"
+  "cachedAt": "2026-07-26T06:39:44.352Z"
 }

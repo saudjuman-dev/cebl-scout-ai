@@ -1,7 +1,8 @@
 {
-  "fullName": "MAKSIM BRNOVIC",
+  "fullName": "Maksim Brnovic",
   "sourceUrl": "https://basketball.eurobasket.com/player/Maksim-Brnovic/729539",
   "height": "6'9'",
+  "college": "University of Arizona",
   "currentTeam": "Zalgiris II",
   "careerHistory": [
     {
@@ -16,19 +17,19 @@
     },
     {
       "year": "25-26",
-      "team": "Zalgiris",
-      "league": "ANGT-1"
+      "team": "Zalgiris II",
+      "league": "LTU-2"
     },
     {
       "year": "25-26",
-      "team": "Zalgiris II",
-      "league": "LTU-2"
+      "team": "Zalgiris",
+      "league": "ANGT-1"
     }
   ],
-  "_lastVerified": "2026-05-17T06:53:07.900Z",
+  "_lastVerified": "2026-07-26T08:33:19.347Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-17T06:53:07.900Z"
+  "cachedAt": "2026-07-26T08:33:19.347Z"
 }

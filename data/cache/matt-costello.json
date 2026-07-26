@@ -1,7 +1,8 @@
 {
-  "fullName": "MATT COSTELLO",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Costello/264531",
+  "fullName": "Matt Costello",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Matt-Costello/264531",
   "height": "6'10'",
+  "college": "College Michigan St",
   "currentTeam": "Valencia",
   "careerHistory": [
     {
@@ -26,7 +27,7 @@
     },
     {
       "year": "16-17",
-      "team": "Iowa W.",
+      "team": "Iowa Energy",
       "league": "G League"
     },
     {
@@ -120,10 +121,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:38:36.676Z",
+  "_lastVerified": "2026-07-26T07:14:38.327Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:38:36.676Z"
+  "cachedAt": "2026-07-26T07:14:38.327Z"
 }

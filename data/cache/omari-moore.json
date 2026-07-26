@@ -1,7 +1,8 @@
 {
-  "fullName": "OMARI MOORE",
+  "fullName": "Omari Moore",
   "sourceUrl": "https://basketball.eurobasket.com/player/Omari-Moore/505594",
   "height": "6'6'",
+  "college": "College SJSU",
   "currentTeam": "Valencia",
   "careerHistory": [
     {
@@ -62,18 +63,18 @@
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Valencia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-24T06:54:48.444Z",
+  "_lastVerified": "2026-07-26T07:14:22.816Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-24T06:54:48.444Z"
+  "cachedAt": "2026-07-26T07:14:22.816Z"
 }

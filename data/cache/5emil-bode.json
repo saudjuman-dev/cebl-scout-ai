@@ -1,0 +1,45 @@
+{
+  "fullName": "#5Emil Bode",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emil-Bode/667136",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Goettingen",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Goetting.ASC",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "ASC 46",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sartorius",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Goettingen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:50:52.539Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:50:52.539Z"
+}

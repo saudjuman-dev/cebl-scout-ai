@@ -1,0 +1,29 @@
+{
+  "fullName": "#34Anthony Rodriguez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Rodriguez/736021",
+  "height": "7'0'",
+  "currentTeam": "Zaragoza U22",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Dubai Basketball Aca",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:29:45.260Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:29:45.260Z"
+}

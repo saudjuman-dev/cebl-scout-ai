@@ -1,0 +1,39 @@
+{
+  "fullName": "#20Theodoros Skoulariotis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Theodoros-Skoulariotis/645740",
+  "height": "6'2'",
+  "currentTeam": "PAOK",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Aris U18",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "PAOK Mateco",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "PAOK Mateco",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "PAOK Mateco",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:44:25.894Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:44:25.894Z"
+}

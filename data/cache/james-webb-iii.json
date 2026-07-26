@@ -1,7 +1,8 @@
 {
-  "fullName": "JAMES WEBB III",
+  "fullName": "James Webb III",
   "sourceUrl": "https://basketball.eurobasket.com/player/James-Webb-III/309680",
   "height": "6'9'",
+  "college": "College Boise St",
   "currentTeam": "Unicaja",
   "careerHistory": [
     {
@@ -51,7 +52,7 @@
     },
     {
       "year": "19-20",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -112,18 +113,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:21.707Z",
+  "_lastVerified": "2026-07-26T07:23:34.272Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:21.707Z"
+  "cachedAt": "2026-07-26T07:23:34.272Z"
 }

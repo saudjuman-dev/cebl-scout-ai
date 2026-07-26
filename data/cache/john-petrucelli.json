@@ -1,8 +1,8 @@
 {
-  "fullName": "JOHN PETRUCELLI",
+  "fullName": "John Petrucelli",
   "sourceUrl": "https://basketball.eurobasket.com/player/John-Petrucelli/215946",
   "height": "6'4'",
-  "college": "College Park SHG League3165421",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 John PetrucelliBasketball Player ProfileHeight193cm",
   "currentTeam": "Trapani",
   "careerHistory": [
     {
@@ -62,32 +62,32 @@
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "22-23",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
       "year": "22-23",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
       "year": "23-24",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "23-24",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -102,13 +102,13 @@
     },
     {
       "year": "25-26",
-      "team": "Trapani",
-      "league": "ITA-1"
+      "team": "Galatasaray",
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Galatasaray",
-      "league": "BCL-1"
+      "team": "Trapani",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
@@ -116,10 +116,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:36:01.084Z",
+  "_lastVerified": "2026-07-26T07:05:36.067Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:36:01.084Z"
+  "cachedAt": "2026-07-26T07:05:36.067Z"
 }

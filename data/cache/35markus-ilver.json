@@ -1,0 +1,60 @@
+{
+  "fullName": "#35Markus Ilver",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Markus-Ilver/479320",
+  "height": "6'9'",
+  "college": "College Wisconsin",
+  "currentTeam": "Tartu",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "TTU BS",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "18-19",
+      "team": "TTU/TSK/Valge",
+      "league": "EST-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wisconsin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tartu",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tartu",
+      "league": "LAES-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tartu",
+      "league": "EST-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:13:51.779Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:13:51.779Z"
+}

@@ -1,0 +1,30 @@
+{
+  "fullName": "Ryan Prather Jr.",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ryan-Prather-Jr/672984",
+  "height": "6'5'",
+  "college": "University of Akron",
+  "currentTeam": "RMU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "RMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "RMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:33:58.747Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:33:58.747Z"
+}

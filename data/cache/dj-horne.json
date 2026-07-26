@@ -1,8 +1,8 @@
 {
-  "fullName": "DJ HORNE",
+  "fullName": "DJ Horne",
   "sourceUrl": "https://basketball.eurobasket.com/player/DJ-Horne/501088",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16 DJ HORNE basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 DJ HorneBasketball Player ProfileHeight185cm",
   "currentTeam": "Heidelberg",
   "careerHistory": [
     {
@@ -63,12 +63,12 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -76,10 +76,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:52.396Z",
+  "_lastVerified": "2026-07-26T06:22:44.729Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:52.396Z"
+  "cachedAt": "2026-07-26T06:22:44.729Z"
 }

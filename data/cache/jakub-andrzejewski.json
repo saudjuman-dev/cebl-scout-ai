@@ -1,0 +1,55 @@
+{
+  "fullName": "Jakub Andrzejewski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Andrzejewski/537893",
+  "height": "6'3'",
+  "college": "University National Team",
+  "currentTeam": "Bydgoszcz",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Enea Poznan",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Enea Basket",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "GAK",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Enea Basket",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Basket",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Enea Basket",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bydgoszcz",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:13:56.890Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:13:56.890Z"
+}

@@ -1,5 +1,5 @@
 {
-  "fullName": "ALEKSANDER BALCEROWSKI",
+  "fullName": "Aleksander Balcerowski",
   "sourceUrl": "https://basketball.eurobasket.com/player/Aleksander-Balcerowski/396682",
   "height": "7'2'",
   "currentTeam": "Unicaja",
@@ -122,18 +122,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:25.041Z",
+  "_lastVerified": "2026-07-26T07:23:18.494Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:25.041Z"
+  "cachedAt": "2026-07-26T07:23:18.494Z"
 }

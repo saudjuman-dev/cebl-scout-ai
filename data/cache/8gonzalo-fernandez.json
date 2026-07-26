@@ -1,0 +1,44 @@
+{
+  "fullName": "#8Gonzalo Fernandez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gonzalo-Fernandez/655233",
+  "height": "6'5'",
+  "currentTeam": "Moron",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Betis",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Huelva CD",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Moron",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:50:56.369Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:50:56.369Z"
+}

@@ -1,5 +1,5 @@
 {
-  "fullName": "NIKOS GKIKAS",
+  "fullName": "Nikos Gkikas",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nikos-Gkikas/230434",
   "height": "6'1'",
   "currentTeam": "Panionios",
@@ -112,18 +112,18 @@
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "Eurocup-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:51:29.578Z",
+  "_lastVerified": "2026-07-26T07:39:28.088Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:51:29.578Z"
+  "cachedAt": "2026-07-26T07:39:28.088Z"
 }

@@ -1,0 +1,60 @@
+{
+  "fullName": "Keishawn Davidson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Keishawn-Davidson/500607",
+  "height": "6'2'",
+  "college": "College Belmont",
+  "currentTeam": "BK Ogre",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Tenn Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Tenn Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tenn Tech",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Tenn Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Belmont",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "BK Ogre",
+      "league": "LAES-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:16:23.077Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:16:23.077Z"
+}

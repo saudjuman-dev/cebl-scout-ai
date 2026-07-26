@@ -1,0 +1,59 @@
+{
+  "fullName": "#3Michal Szymanski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michal-Szymanski/649464",
+  "height": "6'3'",
+  "currentTeam": "Pruszkow",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Polonia Wwa",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ostrow Mazow.",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Polonia Wwa",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Ostrow Mazow.",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Polonia Wwa",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Minsk Maz.",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Znicz Basket",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Pruszkow",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:22:47.694Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:22:47.694Z"
+}

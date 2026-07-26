@@ -1,0 +1,69 @@
+{
+  "fullName": "Dimitrije Maric",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitrije-Maric/377590",
+  "height": "6'7'",
+  "currentTeam": "Radnicki KG",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Plana",
+      "league": "SRB-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Plana",
+      "league": "SRB-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Plana",
+      "league": "SRB-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Radnicki KG",
+      "league": "SRB-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Zitko Basket",
+      "league": "SRB-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Radnicki KG",
+      "league": "SRB-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Radnicki 1950",
+      "league": "SRB-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Zeleznicar C.",
+      "league": "SRB-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "ADR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:15:55.575Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:15:55.575Z"
+}

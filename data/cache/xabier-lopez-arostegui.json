@@ -1,0 +1,109 @@
+{
+  "fullName": "Xabier Lopez-Arostegui",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Xabier-Lopez-Arostegui/272236",
+  "height": "6'7'",
+  "currentTeam": "Valencia",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Divina Joventut",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Divina Joventut",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Divina Joventut",
+      "league": "ESP-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Divina Joventut",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Joventut BDL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Joventut BDL",
+      "league": "ESP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valencia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:14:43.646Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:14:43.646Z"
+}

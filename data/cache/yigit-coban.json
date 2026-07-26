@@ -1,5 +1,5 @@
 {
-  "fullName": "YIGIT COBAN",
+  "fullName": "Yigit Coban",
   "sourceUrl": "https://basketball.eurobasket.com/player/Yigit-Coban/600047",
   "height": "6'10'",
   "currentTeam": "Besiktas",
@@ -32,18 +32,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:39:35.920Z",
+  "_lastVerified": "2026-07-26T08:01:45.461Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:39:35.920Z"
+  "cachedAt": "2026-07-26T08:01:45.461Z"
 }

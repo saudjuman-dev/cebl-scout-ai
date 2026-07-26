@@ -1,0 +1,64 @@
+{
+  "fullName": "#93Noah Penda",
+  "sourceUrl": "https://basketball.usbasket.com/player/Noah-Penda/597686",
+  "height": "6'7'",
+  "currentTeam": "Orlando M.",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2025",
+      "team": "Orlando M.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Osceola M.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Orlando M.",
+      "league": "NBA"
+    },
+    {
+      "year": "2026",
+      "team": "Orlando M.",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:40:42.572Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:40:42.572Z"
+}

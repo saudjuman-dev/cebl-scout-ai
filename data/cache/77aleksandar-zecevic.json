@@ -1,0 +1,54 @@
+{
+  "fullName": "#77Aleksandar Zecevic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aleksandar-Zecevic/664625",
+  "height": "6'10'",
+  "currentTeam": "Bilbao",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Westerstede",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Oldenburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Westerstede",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Oldenburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Vojvodina NS",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vojvodina NS",
+      "league": "SRB-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:22:33.082Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:22:33.082Z"
+}

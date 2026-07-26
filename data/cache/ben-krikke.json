@@ -1,8 +1,8 @@
 {
-  "fullName": "BEN KRIKKE",
+  "fullName": "Ben Krikke",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ben-Krikke/441246",
   "height": "6'9'",
-  "college": "University of Iowa",
+  "college": "College Iowa",
   "currentTeam": "Jonava",
   "careerHistory": [
     {
@@ -71,10 +71,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:20:57.751Z",
+  "_lastVerified": "2026-07-26T08:26:01.039Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:20:57.751Z"
+  "cachedAt": "2026-07-26T08:26:01.039Z"
 }

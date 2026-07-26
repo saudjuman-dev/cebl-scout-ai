@@ -1,0 +1,79 @@
+{
+  "fullName": "#23Sebastian Mbansogo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sebastian-Mbansogo/304087",
+  "height": "6'1'",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Fundacion",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Fundacion",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Alcazar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Alcazar",
+      "league": "ESP-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Alcobendas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Alcobendas",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Canoe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:58:01.233Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:58:01.233Z"
+}

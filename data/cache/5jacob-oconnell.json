@@ -1,0 +1,45 @@
+{
+  "fullName": "#5Jacob O'Connell",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jacob-OConnell/505039",
+  "height": "7'0'",
+  "college": "College Merrimack",
+  "currentTeam": "Cordoba CB",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Princeton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Princeton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Princeton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Merrimack",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Prievidza",
+      "league": "SVK-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:05:09.412Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:05:09.412Z"
+}

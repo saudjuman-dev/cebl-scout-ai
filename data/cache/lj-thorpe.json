@@ -1,8 +1,8 @@
 {
-  "fullName": "LJ THORPE",
+  "fullName": "LJ Thorpe",
   "sourceUrl": "https://basketball.eurobasket.com/player/LJ-Thorpe/450438",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games European Championships U16 LJ THORPE basketball profile Uniform No",
+  "college": "College UNC Asheville",
   "currentTeam": "Hamburg",
   "careerHistory": [
     {
@@ -78,18 +78,18 @@
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:20:01.733Z",
+  "_lastVerified": "2026-07-26T06:29:27.488Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:20:01.733Z"
+  "cachedAt": "2026-07-26T06:29:27.488Z"
 }

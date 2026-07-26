@@ -1,9 +1,9 @@
 {
-  "fullName": "JAHMI'US RAMSEY",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jahmius-Ramsey/423852",
+  "fullName": "Jahmi'us Ramsey",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jahmius-Ramsey/423852",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 JAHMI",
-  "currentTeam": "Trieste",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Denver N.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -94,12 +94,17 @@
       "year": "25-26",
       "team": "Trieste",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Denver N.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:32:25.250Z",
+  "_lastVerified": "2026-07-26T06:31:28.488Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:32:25.250Z"
+  "cachedAt": "2026-07-26T06:31:28.488Z"
 }

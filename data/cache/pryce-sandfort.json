@@ -1,0 +1,35 @@
+{
+  "fullName": "Pryce Sandfort",
+  "sourceUrl": "https://basketball.usbasket.com/player/Pryce-Sandfort/571644",
+  "height": "6'7'",
+  "college": "University of Iowa",
+  "currentTeam": "Nebraska",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Iowa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Iowa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:14.775Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:14.775Z"
+}

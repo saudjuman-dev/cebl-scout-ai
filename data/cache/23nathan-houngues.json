@@ -1,0 +1,39 @@
+{
+  "fullName": "#23Nathan Houngues",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nathan-Houngues/664314",
+  "height": "6'6'",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Carolinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Carolinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Carolinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Huerva",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:59:02.230Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:59:02.230Z"
+}

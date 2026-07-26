@@ -1,0 +1,95 @@
+{
+  "fullName": "#15Daniel Zdravevski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Zdravevski/383895",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Weissenfels",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Bayern",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "FC Bayern 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Bayern",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Bayern",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Phoenix",
+      "league": "GER-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Hagen BG",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Hagen Phoenix",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Phoenix",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hagen",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Weissenfels",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:22:34.946Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:22:34.946Z"
+}

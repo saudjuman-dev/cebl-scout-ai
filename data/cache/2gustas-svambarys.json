@@ -1,0 +1,28 @@
+{
+  "fullName": "#2Gustas Svambarys",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gustas-Svambarys/729163",
+  "currentTeam": "Zalgiris",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "NABA",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "24-25",
+      "team": "NABA Ireland",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:33:51.696Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:33:51.696Z"
+}

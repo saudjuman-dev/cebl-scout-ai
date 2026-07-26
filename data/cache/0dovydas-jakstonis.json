@@ -1,0 +1,49 @@
+{
+  "fullName": "#0Dovydas Jakstonis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dovydas-Jakstonis/714483",
+  "height": "6'5'",
+  "currentTeam": "Lithuania",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zalgiris",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris II",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:34:16.583Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:34:16.583Z"
+}

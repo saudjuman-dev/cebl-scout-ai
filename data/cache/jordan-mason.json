@@ -1,0 +1,40 @@
+{
+  "fullName": "Jordan Mason",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Mason/611680",
+  "height": "6'3'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Jordan MasonBasketball Player ProfileHeight190cm",
+  "currentTeam": "Temple",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Texas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UIC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Temple",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Temple",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:18:45.883Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:18:45.883Z"
+}

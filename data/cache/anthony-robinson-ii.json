@@ -1,0 +1,30 @@
+{
+  "fullName": "Anthony Robinson II",
+  "sourceUrl": "https://basketball.usbasket.com/player/Anthony-Robinson-II/609049",
+  "height": "6'3'",
+  "college": "University School 2021",
+  "currentTeam": "Missouri",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Missouri",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Missouri",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:35:30.226Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:35:30.226Z"
+}

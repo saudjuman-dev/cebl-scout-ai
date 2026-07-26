@@ -1,7 +1,8 @@
 {
-  "fullName": "CAMERON HUNT",
+  "fullName": "Cameron Hunt",
   "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Hunt/380002",
   "height": "6'4'",
+  "college": "College Southwestern",
   "currentTeam": "Joventut",
   "careerHistory": [
     {
@@ -105,10 +106,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:38:57.506Z",
+  "_lastVerified": "2026-07-26T07:20:48.137Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:38:57.506Z"
+  "cachedAt": "2026-07-26T07:20:48.137Z"
 }

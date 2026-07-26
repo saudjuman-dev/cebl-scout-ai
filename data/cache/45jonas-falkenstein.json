@@ -1,0 +1,60 @@
+{
+  "fullName": "#45Jonas Falkenstein",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonas-Falkenstein/447486",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Bonn 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Bonn/Rh.",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Dragons",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Bonn 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Telekom Bsk",
+      "league": "GER-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Telekom Bsk",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Telekom Bsk",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:34.033Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:34.033Z"
+}

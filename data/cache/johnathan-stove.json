@@ -1,8 +1,8 @@
 {
-  "fullName": "JOHNATHAN STOVE",
+  "fullName": "Johnathan Stove",
   "sourceUrl": "https://basketball.eurobasket.com/player/Johnathan-Stove/336949",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JOHNATHAN STOVE basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Johnathan StoveBasketball Player ProfileHeight193cm",
   "currentTeam": "Wuerzburg",
   "careerHistory": [
     {
@@ -88,12 +88,12 @@
     {
       "year": "25-26",
       "team": "Wuerzburg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Wuerzburg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -101,10 +101,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:15:56.030Z",
+  "_lastVerified": "2026-07-26T06:17:38.930Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:15:56.030Z"
+  "cachedAt": "2026-07-26T06:17:38.930Z"
 }

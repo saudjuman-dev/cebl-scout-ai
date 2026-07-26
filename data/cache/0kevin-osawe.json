@@ -1,0 +1,65 @@
+{
+  "fullName": "#0Kevin Osawe",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kevin-Osawe/503881",
+  "height": "6'7'",
+  "college": "College NJIT",
+  "currentTeam": "Montreal",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "WKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "UALR",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NJIT",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Iskra Svit",
+      "league": "SVK-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cacak 94",
+      "league": "SRB-1"
+    },
+    {
+      "year": "2025",
+      "team": "Montreal",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "2026",
+      "team": "Montreal",
+      "league": "CEBL"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:59:24.326Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:59:24.326Z"
+}

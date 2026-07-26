@@ -1,7 +1,8 @@
 {
-  "fullName": "JAKE FORRESTER",
+  "fullName": "Jake Forrester",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jake-Forrester/421083",
   "height": "6'9'",
+  "college": "College St",
   "currentTeam": "Aris",
   "careerHistory": [
     {
@@ -62,18 +63,18 @@
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "Eurocup-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:47:14.699Z",
+  "_lastVerified": "2026-07-26T07:42:29.610Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:47:14.699Z"
+  "cachedAt": "2026-07-26T07:42:29.610Z"
 }

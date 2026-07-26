@@ -1,0 +1,29 @@
+{
+  "fullName": "#5Alberto Canete",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alberto-Canete/672705",
+  "height": "6'3'",
+  "currentTeam": "Jaen CB",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Jaen FS",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Jaen CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:08:16.489Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:08:16.489Z"
+}

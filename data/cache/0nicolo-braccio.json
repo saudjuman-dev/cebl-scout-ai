@@ -1,0 +1,30 @@
+{
+  "fullName": "#0Nicolo Braccio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicolo-Braccio/741739",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Fortitudo BO",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Fort.Flat Serv.",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fort.Flat Serv.",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fortitudo BO",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:19:09.645Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:19:09.645Z"
+}

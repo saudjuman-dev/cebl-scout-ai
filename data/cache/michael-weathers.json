@@ -1,8 +1,8 @@
 {
-  "fullName": "MICHAEL WEATHERS",
+  "fullName": "Michael Weathers",
   "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Weathers/402421",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 MICHAEL WEATHERS basketball profile Uniform No",
+  "college": "College SMU",
   "currentTeam": "Heidelberg",
   "careerHistory": [
     {
@@ -73,12 +73,12 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -86,10 +86,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:43.521Z",
+  "_lastVerified": "2026-07-26T06:22:52.937Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:43.521Z"
+  "cachedAt": "2026-07-26T06:22:52.937Z"
 }

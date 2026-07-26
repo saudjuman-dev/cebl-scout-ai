@@ -1,9 +1,8 @@
 {
-  "fullName": "KEVIN YEBO",
+  "fullName": "Kevin Yebo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Yebo/366205",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             KEVIN YEBO basketball profile    Uniform No",
-  "currentTeam": "Chemnitz",
+  "currentTeam": "Tenerife",
   "careerHistory": [
     {
       "year": "16-17",
@@ -98,19 +97,23 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tenerife",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:00:17.437Z",
+  "_lastVerified": "2026-07-26T06:15:04.454Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:49.599Z",
-  "birthdate": "March 14 1996"
+  "cachedAt": "2026-07-26T06:15:04.454Z"
 }

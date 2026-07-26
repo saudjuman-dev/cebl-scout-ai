@@ -1,0 +1,23 @@
+{
+  "fullName": "#23Jon Sanz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jon-Sanz/655320",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Aranguren",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:10:53.455Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:10:53.455Z"
+}

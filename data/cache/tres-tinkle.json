@@ -1,7 +1,8 @@
 {
-  "fullName": "TRES TINKLE",
+  "fullName": "Tres Tinkle",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tres-Tinkle/337792",
   "height": "6'8'",
+  "college": "College Oregon St",
   "currentTeam": "Trabzonspor",
   "careerHistory": [
     {
@@ -80,10 +81,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:59:12.996Z",
+  "_lastVerified": "2026-07-26T07:33:18.137Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:59:12.996Z"
+  "cachedAt": "2026-07-26T07:33:18.137Z"
 }

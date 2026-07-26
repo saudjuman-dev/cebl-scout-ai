@@ -1,0 +1,29 @@
+{
+  "fullName": "Jackson Twombly",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jackson-Twombly/687222",
+  "height": "6'7'",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Olney Central",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Danville Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:06:01.622Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:06:01.622Z"
+}

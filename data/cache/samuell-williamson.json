@@ -1,8 +1,8 @@
 {
-  "fullName": "SAMUELL WILLIAMSON",
+  "fullName": "Samuell Williamson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Samuell-Williamson/423862",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games European Championships U16 SAMUELL WILLIAMSON basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Samuell WilliamsonBasketball Player ProfileHeight203cm",
   "currentTeam": "Heidelberg",
   "careerHistory": [
     {
@@ -53,12 +53,12 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -66,10 +66,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:34.404Z",
+  "_lastVerified": "2026-07-26T06:22:57.563Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:34.404Z"
+  "cachedAt": "2026-07-26T06:22:57.563Z"
 }

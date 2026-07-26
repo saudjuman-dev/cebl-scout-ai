@@ -1,0 +1,25 @@
+{
+  "fullName": "Naas Cunningham",
+  "sourceUrl": "https://basketball.usbasket.com/player/Naas-Cunningham/707084",
+  "height": "6'7'",
+  "college": "University of Alabama",
+  "currentTeam": "UNLV",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Z*Rolling Loud",
+      "league": "OTE"
+    },
+    {
+      "year": "25-26",
+      "team": "UNLV",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:37.966Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:37.966Z"
+}

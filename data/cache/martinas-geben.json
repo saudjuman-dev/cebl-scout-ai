@@ -1,8 +1,8 @@
 {
-  "fullName": "MARTINAS GEBEN",
+  "fullName": "Martinas Geben",
   "sourceUrl": "https://basketball.eurobasket.com/player/Martinas-Geben/297532",
   "height": "6'10'",
-  "college": "University of Notre Dame",
+  "college": "College Notre Dame",
   "currentTeam": "Girona",
   "careerHistory": [
     {
@@ -101,10 +101,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:41:57.794Z",
+  "_lastVerified": "2026-07-26T07:25:56.645Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:41:57.794Z"
+  "cachedAt": "2026-07-26T07:25:56.645Z"
 }

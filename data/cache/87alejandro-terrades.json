@@ -1,0 +1,49 @@
+{
+  "fullName": "#87Alejandro Terrades",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Terrades/586027",
+  "height": "6'5'",
+  "currentTeam": "Torrent",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Torrent",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Gandia",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gandia",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Torrent",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Torrent",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:53:30.394Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:53:30.394Z"
+}

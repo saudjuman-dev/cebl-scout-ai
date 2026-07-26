@@ -1,7 +1,8 @@
 {
-  "fullName": "SHANNON BOGUES",
+  "fullName": "Shannon Bogues",
   "sourceUrl": "https://basketball.eurobasket.com/player/Shannon-Bogues/389818",
   "height": "6'3'",
+  "college": "College SF Austin",
   "currentTeam": "Le Mans",
   "careerHistory": [
     {
@@ -80,10 +81,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:25:36.608Z",
+  "_lastVerified": "2026-07-26T06:40:13.605Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:25:36.608Z"
+  "cachedAt": "2026-07-26T06:40:13.605Z"
 }

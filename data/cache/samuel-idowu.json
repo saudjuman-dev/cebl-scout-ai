@@ -1,7 +1,8 @@
 {
-  "fullName": "SAMUEL IDOWU",
+  "fullName": "Samuel Idowu",
   "sourceUrl": "https://basketball.eurobasket.com/player/Samuel-Idowu/370750",
   "height": "6'8'",
+  "college": "College St",
   "currentTeam": "Poitiers",
   "careerHistory": [
     {
@@ -75,10 +76,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:00:32.224Z",
+  "_lastVerified": "2026-07-26T08:56:24.587Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:00:32.224Z"
+  "cachedAt": "2026-07-26T08:56:24.587Z"
 }

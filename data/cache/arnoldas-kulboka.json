@@ -1,5 +1,5 @@
 {
-  "fullName": "ARNOLDAS KULBOKA",
+  "fullName": "Arnoldas Kulboka",
   "sourceUrl": "https://basketball.eurobasket.com/player/Arnoldas-Kulboka/332957",
   "height": "6'10'",
   "currentTeam": "Aris",
@@ -107,18 +107,18 @@
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "Eurocup-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:47:02.179Z",
+  "_lastVerified": "2026-07-26T07:39:13.021Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:47:02.179Z"
+  "cachedAt": "2026-07-26T07:39:13.021Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "KELAN MARTIN",
+  "fullName": "Kelan Martin",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kelan-Martin/333366",
   "height": "6'7'",
+  "college": "College Butler",
   "currentTeam": "Murcia",
   "careerHistory": [
     {
@@ -46,7 +47,7 @@
     },
     {
       "year": "19-20",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -110,10 +111,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:37:28.419Z",
+  "_lastVerified": "2026-07-26T07:18:56.616Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:37:28.419Z"
+  "cachedAt": "2026-07-26T07:18:56.616Z"
 }

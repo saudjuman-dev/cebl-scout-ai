@@ -1,0 +1,49 @@
+{
+  "fullName": "#10Louka Letailleur",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Louka-Letailleur/701831",
+  "height": "6'6'",
+  "currentTeam": "France",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gravelines U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "NGT Abu Dhabi",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:50:19.089Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:50:19.089Z"
+}

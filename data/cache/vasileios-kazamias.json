@@ -1,5 +1,5 @@
 {
-  "fullName": "VASILEIOS KAZAMIAS",
+  "fullName": "Vasileios Kazamias",
   "sourceUrl": "https://basketball.eurobasket.com/player/Vasileios-Kazamias/706009",
   "height": "6'7'",
   "currentTeam": "Aris",
@@ -47,18 +47,18 @@
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "Eurocup-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:34:09.546Z",
+  "_lastVerified": "2026-07-26T07:42:34.294Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:34:09.546Z"
+  "cachedAt": "2026-07-26T07:42:34.294Z"
 }

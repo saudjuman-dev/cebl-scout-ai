@@ -1,0 +1,48 @@
+{
+  "fullName": "#10Sergio Val Gutierrez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-Val-Gutierrez/722731",
+  "currentTeam": "Daimiel",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Daimiel",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Lucentum",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:41:18.271Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:41:18.271Z"
+}

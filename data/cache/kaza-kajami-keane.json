@@ -1,8 +1,8 @@
 {
-  "fullName": "KAZA KAJAMI-KEANE",
+  "fullName": "Kaza Kajami-Keane",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kaza-Kajami-Keane/254110",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16 KAZA KAJAMI",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Kaza Kajami",
   "currentTeam": "Braunschweig",
   "careerHistory": [
     {
@@ -92,11 +92,6 @@
     },
     {
       "year": "25-26",
-      "team": "Chemnitz",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Braunschweig",
       "league": "GER-1"
     },
@@ -104,12 +99,17 @@
       "year": "25-26",
       "team": "Chemnitz",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:20.103Z",
+  "_lastVerified": "2026-07-26T06:24:43.443Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:20.103Z"
+  "cachedAt": "2026-07-26T06:24:43.443Z"
 }

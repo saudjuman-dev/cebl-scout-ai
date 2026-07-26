@@ -1,0 +1,110 @@
+{
+  "fullName": "#6Isaiah Taylor",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Taylor/302470",
+  "height": "6'3'",
+  "college": "College Texas",
+  "currentTeam": "Maree",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "Macc.Rishon",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Macc.Rishon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Shanxi L.",
+      "league": "CHN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "BC Dubai",
+      "league": "ADR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Maree",
+      "league": "IRL-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:12:26.651Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:12:26.651Z"
+}

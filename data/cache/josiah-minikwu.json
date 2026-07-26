@@ -1,0 +1,24 @@
+{
+  "fullName": "Josiah Minikwu",
+  "sourceUrl": "https://basketball.usbasket.com/player/Josiah-Minikwu/803374",
+  "height": "6'2'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:36.577Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:36.577Z"
+}

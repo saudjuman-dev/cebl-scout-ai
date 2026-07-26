@@ -1,8 +1,8 @@
 {
-  "fullName": "LEE MOORE",
+  "fullName": "Lee Moore",
   "sourceUrl": "https://basketball.eurobasket.com/player/Lee-Moore/327326",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 LEE MOORE basketball profile Uniform No",
+  "college": "College UTEP",
   "currentTeam": "Fortitudo BO",
   "careerHistory": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -96,10 +96,10 @@
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:46:00.057Z",
+  "_lastVerified": "2026-07-26T09:11:08.760Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:46:00.057Z"
+  "cachedAt": "2026-07-26T09:11:08.760Z"
 }

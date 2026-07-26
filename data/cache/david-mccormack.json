@@ -1,8 +1,8 @@
 {
-  "fullName": "DAVID MCCORMACK",
+  "fullName": "David McCormack",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-McCormack/422026",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16 DAVID MCCORMACK basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 David McCormackBasketball Player ProfileHeight208cm",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -103,12 +103,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -116,10 +116,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:14:29.217Z",
+  "_lastVerified": "2026-07-26T06:13:37.933Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:14:29.217Z"
+  "cachedAt": "2026-07-26T06:13:37.933Z"
 }

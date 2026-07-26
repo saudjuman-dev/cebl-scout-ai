@@ -1,5 +1,5 @@
 {
-  "fullName": "ALEX ANTETOKOUNMPO",
+  "fullName": "Alex Antetokounmpo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alex-Antetokounmpo/434387",
   "height": "6'7'",
   "college": "College Park SH116",
@@ -67,13 +67,13 @@
     },
     {
       "year": "25-26",
-      "team": "Aris",
-      "league": "Eurocup-1"
+      "team": "Wisconsin H.",
+      "league": "G League"
     },
     {
       "year": "25-26",
-      "team": "Wisconsin H.",
-      "league": "G League"
+      "team": "Aris",
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
@@ -83,13 +83,13 @@
     {
       "year": "25-26",
       "team": "Aris",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:52:43.608Z",
+  "_lastVerified": "2026-07-26T07:39:20.330Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:52:43.608Z"
+  "cachedAt": "2026-07-26T07:39:20.330Z"
 }

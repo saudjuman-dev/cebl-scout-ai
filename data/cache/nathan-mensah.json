@@ -1,8 +1,9 @@
 {
-  "fullName": "NATHAN MENSAH",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Nathan-Mensah/381311",
+  "fullName": "Nathan Mensah",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nathan-Mensah/381311",
   "height": "6'10'",
-  "currentTeam": "Buyukcekmece",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "N.Orleans P.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -86,11 +87,6 @@
     },
     {
       "year": "25-26",
-      "team": "Cluj Napoca",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "San Diego C.",
       "league": "G League"
     },
@@ -102,13 +98,23 @@
     {
       "year": "25-26",
       "team": "Cluj Napoca",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cluj Napoca",
       "league": "ADR-1"
+    },
+    {
+      "year": "2026",
+      "team": "N.Orleans P.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T08:03:08.373Z",
+  "_lastVerified": "2026-07-26T07:41:13.571Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:03:08.373Z"
+  "cachedAt": "2026-07-26T07:41:13.571Z"
 }

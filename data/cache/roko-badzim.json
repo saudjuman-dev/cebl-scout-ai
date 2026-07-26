@@ -1,7 +1,8 @@
 {
-  "fullName": "ROKO BADZIM",
+  "fullName": "Roko Badzim",
   "sourceUrl": "https://basketball.eurobasket.com/player/Roko-Badzim/278556",
   "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Roko BadzimBasketball Player ProfileHeight194cm",
   "currentTeam": "Merkezefendi",
   "careerHistory": [
     {
@@ -56,7 +57,7 @@
     },
     {
       "year": "2019",
-      "team": "Croatia",
+      "team": "Z*Croatia",
       "league": "NBA"
     },
     {
@@ -71,7 +72,7 @@
     },
     {
       "year": "19-20",
-      "team": "Croatia",
+      "team": "Z*Croatia",
       "league": "NBA"
     },
     {
@@ -115,10 +116,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:59:38.817Z",
+  "_lastVerified": "2026-07-26T08:08:40.449Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:59:38.817Z"
+  "cachedAt": "2026-07-26T08:08:40.449Z"
 }

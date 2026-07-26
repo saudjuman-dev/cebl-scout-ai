@@ -1,0 +1,120 @@
+{
+  "fullName": "#44Vincent Sanford",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vincent-Sanford/187087",
+  "height": "6'4'",
+  "college": "College Dayton",
+  "currentTeam": "Fos-sur-Mer",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Georgetown",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Dayton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Dayton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Thor Thorl",
+      "league": "ISL-1"
+    },
+    {
+      "year": "2015",
+      "team": "Freskaleche",
+      "league": "COL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Wuerzburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Antibes Sharks",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pau-Orthez",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Carpegna Prosc.",
+      "league": "ITA-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Carpegna Prosc.",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2022",
+      "team": "Red Scare",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Unieuro 2.015 F.",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Karhubasket",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Karhubasket",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Loon-Plage",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Fos-sur-Mer",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:50:13.146Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:50:13.146Z"
+}

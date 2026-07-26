@@ -1,0 +1,40 @@
+{
+  "fullName": "Milos Ilic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Milos-Ilic/564977",
+  "height": "6'10'",
+  "college": "College California",
+  "currentTeam": "California",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Loyola, MD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "California",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "California",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:25:00.580Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:25:00.580Z"
+}

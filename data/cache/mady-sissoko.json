@@ -1,8 +1,8 @@
 {
-  "fullName": "MADY SISSOKO",
+  "fullName": "Mady Sissoko",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mady-Sissoko/425680",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MADY SISSOKO basketball profile Uniform",
+  "college": "College California",
   "currentTeam": "Trieste",
   "careerHistory": [
     {
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Trieste",
       "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:32:22.183Z",
+  "_lastVerified": "2026-07-26T06:32:03.868Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:32:22.183Z"
+  "cachedAt": "2026-07-26T06:32:03.868Z"
 }

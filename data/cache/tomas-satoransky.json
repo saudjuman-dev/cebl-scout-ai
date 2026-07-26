@@ -1,7 +1,8 @@
 {
-  "fullName": "TOMAS SATORANSKY",
+  "fullName": "Tomas Satoransky",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tomas-Satoransky/108798",
   "height": "6'7'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Tomas SatoranskyBasketball Player ProfileHeight201cm",
   "currentTeam": "Barca",
   "careerHistory": [
     {
@@ -155,10 +156,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:38:13.649Z",
+  "_lastVerified": "2026-07-26T08:11:25.548Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:38:13.649Z"
+  "cachedAt": "2026-07-26T08:11:25.548Z"
 }

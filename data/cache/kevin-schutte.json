@@ -1,8 +1,8 @@
 {
-  "fullName": "KEVIN SCHUTTE",
+  "fullName": "Kevin Schutte",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Schutte/401387",
   "height": "6'10'",
-  "college": "University of Incarnate Word",
+  "college": "College UIW",
   "currentTeam": "Cordoba CB",
   "careerHistory": [
     {
@@ -31,10 +31,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:03:31.147Z",
+  "_lastVerified": "2026-07-26T10:04:06.713Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:03:31.147Z"
+  "cachedAt": "2026-07-26T10:04:06.713Z"
 }

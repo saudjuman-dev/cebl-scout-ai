@@ -1,5 +1,5 @@
 {
-  "fullName": "NICOLAS LAPROVITTOLA",
+  "fullName": "Nicolas Laprovittola",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nicolas-Laprovittola/135041",
   "height": "6'3'",
   "currentTeam": "Barca",
@@ -170,13 +170,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:02:05.749Z",
+  "_lastVerified": "2026-07-26T07:19:56.852Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:52:43.924Z",
-  "nationality": "Argentinian",
-  "birthdate": "January 31 1990",
-  "birthCity": "Buenos Aires"
+  "cachedAt": "2026-07-26T07:19:56.852Z"
 }

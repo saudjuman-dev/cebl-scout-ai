@@ -1,8 +1,8 @@
 {
-  "fullName": "AUGUSTINE RUBIT",
+  "fullName": "Augustine Rubit",
   "sourceUrl": "https://basketball.eurobasket.com/player/Augustine-Rubit/189313",
   "height": "6'8'",
-  "college": "University of South Alabama",
+  "college": "College USA",
   "currentTeam": "Unicaja",
   "careerHistory": [
     {
@@ -132,13 +132,8 @@
     },
     {
       "year": "25-26",
-      "team": "Lietkabelis",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
@@ -147,14 +142,19 @@
     },
     {
       "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:25:07.859Z",
+  "_lastVerified": "2026-07-26T07:23:42.335Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:25:07.859Z"
+  "cachedAt": "2026-07-26T07:23:42.335Z"
 }

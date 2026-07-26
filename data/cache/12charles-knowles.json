@@ -1,0 +1,85 @@
+{
+  "fullName": "#12Charles Knowles",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Charles-Knowles/321626",
+  "height": "6'5'",
+  "college": "College William Penn",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "William Penn",
+      "league": "NAIA"
+    },
+    {
+      "year": "15-16",
+      "team": "William Penn",
+      "league": "NAIA"
+    },
+    {
+      "year": "15-16",
+      "team": "William Penn",
+      "league": "NAIA"
+    },
+    {
+      "year": "16-17",
+      "team": "William Penn",
+      "league": "NAIA"
+    },
+    {
+      "year": "17-18",
+      "team": "Chantada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Marbella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Alfinden ZR",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Alfinden ZR",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "La Roda",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Salou",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "LBC Cocinas",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:03:02.737Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:03:02.737Z"
+}

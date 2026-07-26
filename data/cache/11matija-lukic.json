@@ -1,0 +1,39 @@
+{
+  "fullName": "#11Matija Lukic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matija-Lukic/719805",
+  "height": "6'8'",
+  "currentTeam": "Serbia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Joker S.",
+      "league": "SRB-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Joker S.",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:28:58.140Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:28:58.140Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fullName": "#3Hassan Diarra",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hassan-Diarra/407432",
+  "height": "6'2'",
+  "college": "College UConn",
+  "currentTeam": "M.Raanana",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas A&M",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UConn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Juventus",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "M.Raanana",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:31:38.434Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:31:38.434Z"
+}

@@ -1,7 +1,8 @@
 {
-  "fullName": "ROBBIE BERAN",
+  "fullName": "Robbie Beran",
   "sourceUrl": "https://basketball.eurobasket.com/player/Robbie-Beran/501443",
   "height": "6'9'",
+  "college": "College Virginia Tech",
   "currentTeam": "Chemnitz",
   "careerHistory": [
     {
@@ -57,23 +58,23 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Chemnitz",
       "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "FC Porto",
       "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:28:25.002Z",
+  "_lastVerified": "2026-07-26T06:28:46.888Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:28:25.002Z"
+  "cachedAt": "2026-07-26T06:28:46.888Z"
 }

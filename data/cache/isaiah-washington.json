@@ -1,8 +1,8 @@
 {
-  "fullName": "ISAIAH WASHINGTON",
+  "fullName": "Isaiah Washington",
   "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Washington/424669",
   "height": "6'1'",
-  "college": "University of Minnesota",
+  "college": "College LBSU",
   "currentTeam": "Zaragoza",
   "careerHistory": [
     {
@@ -72,26 +72,29 @@
     },
     {
       "year": "25-26",
-      "team": "Zaragoza",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
       "team": "N.Novgorod",
       "league": "VTB-1"
     },
     {
       "year": "25-26",
       "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "E.Netanya",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:23:30.376Z",
+  "_lastVerified": "2026-07-26T07:29:07.965Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:55.727Z",
-  "birthdate": "July 20 1998",
-  "birthCity": "Harlem"
+  "cachedAt": "2026-07-26T07:29:07.965Z"
 }

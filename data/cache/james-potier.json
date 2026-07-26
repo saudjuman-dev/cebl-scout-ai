@@ -1,5 +1,5 @@
 {
-  "fullName": "JAMES POTIER",
+  "fullName": "James Potier",
   "sourceUrl": "https://basketball.eurobasket.com/player/James-Potier/492885",
   "height": "6'1'",
   "currentTeam": "Valle de Egues",
@@ -45,12 +45,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-01T14:57:28.517Z",
+  "_lastVerified": "2026-07-26T10:09:58.743Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:12:16.403Z",
-  "nationality": "Belgian",
-  "birthdate": "December 31 1998"
+  "cachedAt": "2026-07-26T10:09:58.743Z"
 }

@@ -1,0 +1,29 @@
+{
+  "fullName": "Jack Miller",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jack-Miller/756290",
+  "height": "6'0'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:25.976Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:25.976Z"
+}

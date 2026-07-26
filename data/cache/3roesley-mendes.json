@@ -1,0 +1,29 @@
+{
+  "fullName": "#3Roesley Mendes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Roesley-Mendes/658496",
+  "height": "6'9'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tobarra",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Jaen FS",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:15.940Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:15.940Z"
+}

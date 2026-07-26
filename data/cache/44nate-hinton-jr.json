@@ -1,0 +1,110 @@
+{
+  "fullName": "#44Nate Hinton Jr.",
+  "sourceUrl": "https://basketball.usbasket.com/player/Nate-Hinton-Jr/474278",
+  "height": "6'5'",
+  "college": "College Houston",
+  "currentTeam": "USA",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "2021",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Fort Wayne MA",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Indiana Pacers",
+      "league": "NBA"
+    },
+    {
+      "year": "2022",
+      "team": "Indiana P.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Cleveland C.",
+      "league": "G League"
+    },
+    {
+      "year": "2023",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Houston R.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Memphis H.",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "RGV Vipers",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "Memphis G.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Memphis H.",
+      "league": "G League"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:21:20.784Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:21:20.784Z"
+}

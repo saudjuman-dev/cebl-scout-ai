@@ -1,0 +1,24 @@
+{
+  "fullName": "#14Alim Bekhouche",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alim-Bekhouche/795876",
+  "height": "6'6'",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:51:28.501Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:51:28.501Z"
+}

@@ -1,9 +1,9 @@
 {
-  "fullName": "CHRISTOPHER LEDLUM",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Christopher-Ledlum/503066",
+  "fullName": "Christopher Ledlum",
+  "sourceUrl": "https://basketball.usbasket.com/player/Christopher-Ledlum/503066",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games European Championships U16 CHRISTOPHER LEDLUM basketball profile Uniform No",
-  "currentTeam": "Ulm",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Houston R.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -63,18 +63,23 @@
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "GER-1"
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "2026",
+      "team": "Houston R.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:17:13.326Z",
+  "_lastVerified": "2026-07-26T06:20:23.046Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:17:13.326Z"
+  "cachedAt": "2026-07-26T06:20:23.046Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "TRENT FORREST",
+  "fullName": "Trent Forrest",
   "sourceUrl": "https://basketball.eurobasket.com/player/Trent-Forrest/337677",
   "height": "6'5'",
-  "college": "College Park SkyHawks",
+  "college": "College FSU",
   "currentTeam": "Baskonia",
   "careerHistory": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "year": "2021",
-      "team": "Utah Jazz W.",
+      "team": "Z*Utah Jazz W.",
       "league": "NBA"
     },
     {
@@ -91,10 +91,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:37:03.554Z",
+  "_lastVerified": "2026-07-26T07:16:31.606Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:37:03.554Z"
+  "cachedAt": "2026-07-26T07:16:31.606Z"
 }

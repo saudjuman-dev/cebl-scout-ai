@@ -1,0 +1,54 @@
+{
+  "fullName": "#77Pierre Sene",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pierre-Sene/514767",
+  "height": "6'7'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Algeciras",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:47.220Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:47.220Z"
+}

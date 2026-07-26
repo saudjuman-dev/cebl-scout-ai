@@ -1,7 +1,8 @@
 {
-  "fullName": "ZAC CUTHBERTSON",
+  "fullName": "Zac Cuthbertson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zac-Cuthbertson/421680",
   "height": "6'7'",
+  "college": "College Coastal",
   "currentTeam": "Chalon/Saone",
   "careerHistory": [
     {
@@ -90,10 +91,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:25:54.537Z",
+  "_lastVerified": "2026-07-26T06:44:23.663Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:25:54.537Z"
+  "cachedAt": "2026-07-26T06:44:23.663Z"
 }

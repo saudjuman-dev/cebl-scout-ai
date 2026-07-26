@@ -1,0 +1,79 @@
+{
+  "fullName": "#9Andres Diaz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andres-Diaz/273919",
+  "height": "6'9'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Castill.Cajasol",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Novaschool",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Cantabria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Jaen CB 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Huelva",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Ule RBH Global",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Kufstein",
+      "league": "AUT-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Torrent",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Benahavis",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Oh!Tels ULB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:08.265Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:08.265Z"
+}

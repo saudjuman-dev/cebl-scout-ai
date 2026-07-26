@@ -1,8 +1,8 @@
 {
-  "fullName": "WENYEN GABRIEL",
+  "fullName": "Wenyen Gabriel",
   "sourceUrl": "https://basketball.eurobasket.com/player/Wenyen-Gabriel/381818",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16 WENYEN GABRIEL basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Wenyen GabrielBasketball Player ProfileHeight208cm",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -118,12 +118,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -131,10 +131,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:14:16.512Z",
+  "_lastVerified": "2026-07-26T06:14:15.585Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:14:16.512Z"
+  "cachedAt": "2026-07-26T06:14:15.585Z"
 }

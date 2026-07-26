@@ -1,0 +1,28 @@
+{
+  "fullName": "#5Eneko Errasti",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eneko-Errasti/716909",
+  "currentTeam": "Tolosa",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tolosa",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:47:10.598Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:47:10.598Z"
+}

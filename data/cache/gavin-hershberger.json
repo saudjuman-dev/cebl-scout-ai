@@ -1,0 +1,24 @@
+{
+  "fullName": "Gavin Hershberger",
+  "sourceUrl": "https://basketball.usbasket.com/player/Gavin-Hershberger/705720",
+  "height": "5'10'",
+  "currentTeam": "MWSU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "MWSU",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:14:22.032Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:14:22.032Z"
+}

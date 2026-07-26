@@ -1,8 +1,9 @@
 {
-  "fullName": "GERALD AYAYI",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Gerald-Ayayi/479561",
+  "fullName": "Gerald Ayayi",
+  "sourceUrl": "https://basketball.usbasket.com/player/Gerald-Ayayi/479561",
   "height": "6'3'",
-  "currentTeam": "Cholet",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Philadelphia 76",
   "careerHistory": [
     {
       "year": "18-19",
@@ -68,12 +69,17 @@
       "year": "25-26",
       "team": "Cholet",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Philadelphia 76",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:25:55.732Z",
+  "_lastVerified": "2026-07-26T06:37:26.501Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:25:55.732Z"
+  "cachedAt": "2026-07-26T06:37:26.501Z"
 }

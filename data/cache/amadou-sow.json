@@ -1,9 +1,9 @@
 {
-  "fullName": "AMADOU SOW",
+  "fullName": "Amadou Sow",
   "sourceUrl": "https://basketball.eurobasket.com/player/Amadou-Sow/361295",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             AMADOU SOW basketball profile    Uniform No",
-  "currentTeam": "Chemnitz",
+  "college": "College UCSB",
+  "currentTeam": "ASVEL",
   "careerHistory": [
     {
       "year": "18-19",
@@ -68,21 +68,23 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:48:19.732Z",
+  "_lastVerified": "2026-07-26T06:28:26.069Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:26:46.161Z",
-  "nationality": "Mali",
-  "birthdate": "November 18 1998",
-  "birthCity": "Bamako"
+  "cachedAt": "2026-07-26T06:28:26.069Z"
 }

@@ -1,0 +1,64 @@
+{
+  "fullName": "#44Adam Lisewski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adam-Lisewski/513512",
+  "height": "6'7'",
+  "currentTeam": "St.Vincents",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "UKS Gim",
+      "league": "POL-6"
+    },
+    {
+      "year": "20-21",
+      "team": "AZS UW",
+      "league": "POL-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Polonia Wwa",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ostrow Mazow.",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Polonia Wwa",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Ostrow Mazow.",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Polonia Wwa",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Minsk Maz.",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "St.Vincents",
+      "league": "IRL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:22:45.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:22:45.361Z"
+}

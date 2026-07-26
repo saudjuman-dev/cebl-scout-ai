@@ -1,8 +1,8 @@
 {
-  "fullName": "MALIK OSBORNE",
+  "fullName": "Malik Osborne",
   "sourceUrl": "https://basketball.eurobasket.com/player/Malik-Osborne/428596",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16 MALIK OSBORNE basketball profile Uniform No",
+  "college": "College FSU",
   "currentTeam": "Ulm",
   "careerHistory": [
     {
@@ -83,18 +83,18 @@
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:17:26.106Z",
+  "_lastVerified": "2026-07-26T06:20:25.591Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:17:26.106Z"
+  "cachedAt": "2026-07-26T06:20:25.591Z"
 }

@@ -1,0 +1,80 @@
+{
+  "fullName": "#6Jamison Overton",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jamison-Overton/476043",
+  "height": "6'6'",
+  "college": "College Weber St",
+  "currentTeam": "Brussels",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Saddleback JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Utah Valley",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Arantia",
+      "league": "LUX-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Saitama",
+      "league": "JPN-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Leuven Bears",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Brussels Bball",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Brussels Bball",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Brussels Bball",
+      "league": "BEL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:56:27.294Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:56:27.294Z"
+}

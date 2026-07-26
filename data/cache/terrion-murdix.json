@@ -1,0 +1,45 @@
+{
+  "fullName": "Terrion Murdix",
+  "sourceUrl": "https://basketball.usbasket.com/player/Terrion-Murdix/497948",
+  "height": "6'1'",
+  "college": "University Corpus Christi",
+  "currentTeam": "WKU",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Mineral Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Mineral Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "TAMUCC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "WKU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:35:41.681Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:35:41.681Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "#7Apolo Caetano",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Apolo-Caetano/705902",
+  "height": "5'11'",
+  "currentTeam": "Portugal",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "FC Porto",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Porto",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:42:45.923Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:42:45.923Z"
+}

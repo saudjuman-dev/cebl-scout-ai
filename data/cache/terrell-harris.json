@@ -1,8 +1,8 @@
 {
-  "fullName": "TERRELL HARRIS",
+  "fullName": "Terrell Harris",
   "sourceUrl": "https://basketball.eurobasket.com/player/Terrell-Harris/235671",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 TERRELL HARRIS basketball profile Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16 Terrell HarrisBasketball Player ProfileHeight191cm",
   "currentTeam": "Ludwigsburg",
   "careerHistory": [
     {
@@ -92,19 +92,19 @@
     },
     {
       "year": "25-26",
-      "team": "Valcea",
-      "league": "ROM-1"
+      "team": "Ludwigsburg",
+      "league": "GER-1"
     },
     {
       "year": "25-26",
-      "team": "Ludwigsburg",
-      "league": "GER-1"
+      "team": "Valcea",
+      "league": "ROM-1"
     }
   ],
-  "_lastVerified": "2026-05-10T06:29:07.460Z",
+  "_lastVerified": "2026-07-26T06:24:02.113Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:29:07.460Z"
+  "cachedAt": "2026-07-26T06:24:02.113Z"
 }

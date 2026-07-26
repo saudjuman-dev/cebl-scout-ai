@@ -1,0 +1,29 @@
+{
+  "fullName": "Brandon Coury",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brandon-Coury/673751",
+  "height": "6'2'",
+  "currentTeam": "Seton Hill",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Seton Hill",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Seton Hill",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Seton Hill",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:34:07.338Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:34:07.338Z"
+}

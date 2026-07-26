@@ -1,0 +1,30 @@
+{
+  "fullName": "Yoro Diallo",
+  "sourceUrl": "https://basketball.usbasket.com/player/Yoro-Diallo/661409",
+  "height": "6'9'",
+  "college": "University of Virginia",
+  "currentTeam": "UVA Wise",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Winthrop",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Winthrop",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UVA Wise",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:15.634Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:15.634Z"
+}

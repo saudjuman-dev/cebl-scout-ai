@@ -1,0 +1,59 @@
+{
+  "fullName": "Oliver Kullamaee",
+  "sourceUrl": "https://basketball.usbasket.com/player/Oliver-Kullamaee/627817",
+  "height": "6'1'",
+  "currentTeam": "Estonia",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "ratiopharm",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:56:50.754Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:56:50.754Z"
+}

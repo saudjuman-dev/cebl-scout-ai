@@ -1,0 +1,29 @@
+{
+  "fullName": "#4Isaac Lukudika",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaac-Lukudika/669735",
+  "height": "6'6'",
+  "currentTeam": "St-Quentin U21",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Orthez U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Giants B",
+      "league": "BEL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:41:34.231Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:41:34.231Z"
+}

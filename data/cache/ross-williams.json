@@ -1,8 +1,8 @@
 {
-  "fullName": "ROSS WILLIAMS",
+  "fullName": "Ross Williams",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ross-Williams/410609",
   "height": "5'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ROSS WILLIAMS basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Ross WilliamsBasketball Player ProfileHeight178cm",
   "currentTeam": "Brno",
   "careerHistory": [
     {
@@ -87,8 +87,8 @@
     },
     {
       "year": "25-26",
-      "team": "Brno",
-      "league": "FEL-1"
+      "team": "Hamburg",
+      "league": "GER-1"
     },
     {
       "year": "25-26",
@@ -97,19 +97,19 @@
     },
     {
       "year": "25-26",
-      "team": "Hamburg",
-      "league": "GER-1"
+      "team": "Basket Brno",
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Brno",
+      "team": "Basket Brno",
       "league": "CZE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:20:13.259Z",
+  "_lastVerified": "2026-07-26T06:29:35.166Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:20:13.259Z"
+  "cachedAt": "2026-07-26T06:29:35.166Z"
 }

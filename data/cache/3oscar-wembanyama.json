@@ -1,0 +1,44 @@
+{
+  "fullName": "#3Oscar Wembanyama",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oscar-Wembanyama/688313",
+  "height": "6'7'",
+  "currentTeam": "France",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ASVEL Lyon-Villeurba",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:09:20.091Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:09:20.091Z"
+}

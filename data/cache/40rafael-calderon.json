@@ -1,0 +1,24 @@
+{
+  "fullName": "#40Rafael Calderon",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Calderon/483075",
+  "height": "5'9'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "2018",
+      "team": "Pinitos BC",
+      "league": "ESA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:22.784Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:22.784Z"
+}

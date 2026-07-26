@@ -1,5 +1,5 @@
 {
-  "fullName": "AGUSTIN UBAL",
+  "fullName": "Agustin Ubal",
   "sourceUrl": "https://basketball.eurobasket.com/player/Agustin-Ubal/519017",
   "height": "6'6'",
   "currentTeam": "Manresa",
@@ -72,18 +72,18 @@
     {
       "year": "25-26",
       "team": "Manresa",
-      "league": "Eurocup-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Manresa",
-      "league": "ESP-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:41:02.409Z",
+  "_lastVerified": "2026-07-26T07:24:16.007Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:41:02.409Z"
+  "cachedAt": "2026-07-26T07:24:16.007Z"
 }

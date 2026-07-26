@@ -1,0 +1,35 @@
+{
+  "fullName": "Logan Duncomb",
+  "sourceUrl": "https://basketball.usbasket.com/player/Logan-Duncomb/499923",
+  "height": "6'10'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Winthrop",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Indiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Winthrop",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Winthrop",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:07.192Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:07.192Z"
+}

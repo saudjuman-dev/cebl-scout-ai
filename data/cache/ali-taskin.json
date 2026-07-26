@@ -1,0 +1,64 @@
+{
+  "fullName": "Ali Taskin",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ali-Taskin/529536",
+  "height": "6'7'",
+  "currentTeam": "Tofas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Tofas",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Tofas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tofas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Gemlik",
+      "league": "TUR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Gemlik",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tofas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tofas",
+      "league": "FEL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:04:55.528Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:04:55.528Z"
+}

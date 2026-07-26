@@ -1,0 +1,35 @@
+{
+  "fullName": "#30Aike Bensmann",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aike-Bensmann/584499",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Reutlingen",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Bremerhaven",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Limburg",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Reutlingen",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:58:03.508Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:58:03.508Z"
+}

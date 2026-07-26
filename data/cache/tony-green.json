@@ -1,0 +1,24 @@
+{
+  "fullName": "Tony Green",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tony-Green/756420",
+  "height": "6'7'",
+  "currentTeam": "Valdosta St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:56:34.697Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:56:34.697Z"
+}

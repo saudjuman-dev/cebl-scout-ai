@@ -1,7 +1,8 @@
 {
-  "fullName": "JOSIAH STRONG",
+  "fullName": "Josiah Strong",
   "sourceUrl": "https://basketball.eurobasket.com/player/Josiah-Strong/424777",
   "height": "6'4'",
+  "college": "College Colorado St",
   "currentTeam": "Iraklis",
   "careerHistory": [
     {
@@ -51,6 +52,11 @@
     },
     {
       "year": "25-26",
+      "team": "Siroki",
+      "league": "ADR-2"
+    },
+    {
+      "year": "25-26",
       "team": "Iraklis KAE",
       "league": "ENBL-1"
     },
@@ -62,18 +68,13 @@
     {
       "year": "25-26",
       "team": "Siroki",
-      "league": "ADR-2"
-    },
-    {
-      "year": "25-26",
-      "team": "Siroki",
       "league": "BIH-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:49:51.867Z",
+  "_lastVerified": "2026-07-26T07:44:37.876Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:49:51.867Z"
+  "cachedAt": "2026-07-26T07:44:37.876Z"
 }

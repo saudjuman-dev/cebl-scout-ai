@@ -1,8 +1,8 @@
 {
-  "fullName": "TROY CAUPAIN",
+  "fullName": "Troy Caupain",
   "sourceUrl": "https://basketball.eurobasket.com/player/Troy-Caupain/302945",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 TROY CAUPAIN basketball profile Uniform No",
+  "college": "College Cincinnati",
   "currentTeam": "Reggio Emilia",
   "careerHistory": [
     {
@@ -107,12 +107,12 @@
     },
     {
       "year": "22-23",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "Eurocup-1"
     },
     {
       "year": "22-23",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -166,10 +166,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:33:00.314Z",
+  "_lastVerified": "2026-07-26T07:03:07.575Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:33:00.314Z"
+  "cachedAt": "2026-07-26T07:03:07.575Z"
 }

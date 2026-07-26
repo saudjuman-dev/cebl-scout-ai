@@ -1,5 +1,5 @@
 {
-  "fullName": "LOUIS CASSIER",
+  "fullName": "Louis Cassier",
   "sourceUrl": "https://basketball.eurobasket.com/player/Louis-Cassier/384996",
   "height": "6'9'",
   "currentTeam": "Caen",
@@ -70,13 +70,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T02:45:36.837Z",
+  "_lastVerified": "2026-07-26T09:09:41.986Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:31:29.480Z",
-  "nationality": "French",
-  "birthdate": "July 22 1997",
-  "birthCity": "Noumea"
+  "cachedAt": "2026-07-26T09:09:41.986Z"
 }

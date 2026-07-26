@@ -1,8 +1,8 @@
 {
-  "fullName": "ANDREAS OBST",
+  "fullName": "Andreas Obst",
   "sourceUrl": "https://basketball.eurobasket.com/player/Andreas-Obst/236729",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ANDREAS OBST basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Andreas ObstBasketball Player ProfileHeight191cm",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -138,12 +138,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -151,10 +151,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:14:09.281Z",
+  "_lastVerified": "2026-07-26T06:14:06.964Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:14:09.281Z"
+  "cachedAt": "2026-07-26T06:14:06.964Z"
 }

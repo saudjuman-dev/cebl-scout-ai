@@ -1,8 +1,8 @@
 {
-  "fullName": "CARLOS STEWART",
+  "fullName": "Carlos Stewart",
   "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Stewart/555724",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 CARLOS STEWART basketball profile Height",
+  "college": "College Santa Clara",
   "currentTeam": "Varese",
   "careerHistory": [
     {
@@ -32,11 +32,6 @@
     },
     {
       "year": "25-26",
-      "team": "Hamburg",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Varese",
       "league": "ITA-1"
     },
@@ -44,12 +39,17 @@
       "year": "25-26",
       "team": "Hamburg",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:33:18.635Z",
+  "_lastVerified": "2026-07-26T06:30:06.780Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:33:18.635Z"
+  "cachedAt": "2026-07-26T06:30:06.780Z"
 }

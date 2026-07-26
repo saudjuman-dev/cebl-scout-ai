@@ -1,0 +1,45 @@
+{
+  "fullName": "#4Joscha Eckert",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joscha-Eckert/584563",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Nuernberg",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Tornados",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:51:57.857Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:51:57.857Z"
+}

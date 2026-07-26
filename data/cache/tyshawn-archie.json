@@ -1,0 +1,35 @@
+{
+  "fullName": "Tyshawn Archie",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tyshawn-Archie/684351",
+  "height": "6'1'",
+  "college": "University of Tulsa",
+  "currentTeam": "McNeese St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tulsa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tulsa",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tulsa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "McNeese St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:48.677Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:48.677Z"
+}

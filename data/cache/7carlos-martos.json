@@ -1,0 +1,39 @@
+{
+  "fullName": "#7Carlos Martos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Martos/390504",
+  "height": "6'3'",
+  "currentTeam": "Getafe",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Viten Getafe",
+      "league": "ESP-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Casvi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Getafe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Getafe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Getafe",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:57:46.290Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:57:46.290Z"
+}

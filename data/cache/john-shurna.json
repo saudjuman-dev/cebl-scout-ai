@@ -1,8 +1,8 @@
 {
-  "fullName": "JOHN SHURNA",
+  "fullName": "John Shurna",
   "sourceUrl": "https://basketball.eurobasket.com/player/John-Shurna/163443",
   "height": "6'9'",
-  "college": "College All",
+  "college": "College Northwestern",
   "currentTeam": "Lleida",
   "careerHistory": [
     {
@@ -131,10 +131,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:58.717Z",
+  "_lastVerified": "2026-07-26T07:27:53.618Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:58.717Z"
+  "cachedAt": "2026-07-26T07:27:53.618Z"
 }

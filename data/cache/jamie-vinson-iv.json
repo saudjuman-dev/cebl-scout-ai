@@ -1,0 +1,25 @@
+{
+  "fullName": "Jamie Vinson IV",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jamie-Vinson-IV/707494",
+  "height": "6'11'",
+  "college": "University of Texas",
+  "currentTeam": "Texas A&M",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:58.595Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:58.595Z"
+}

@@ -1,8 +1,7 @@
 {
-  "fullName": "YORDAN MINCHEV",
+  "fullName": "Yordan Minchev",
   "sourceUrl": "https://basketball.eurobasket.com/player/Yordan-Minchev/300791",
-  "height": "6'8'",
-  "college": "University Games European Championships Olympic Games European Championships U16 YORDAN MINCHEV basketball profile Uniform No",
+  "height": "6'9'",
   "currentTeam": "Chemnitz",
   "careerHistory": [
     {
@@ -143,18 +142,18 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:24:27.085Z",
+  "_lastVerified": "2026-07-26T06:28:23.369Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:24:27.085Z"
+  "cachedAt": "2026-07-26T06:28:23.369Z"
 }

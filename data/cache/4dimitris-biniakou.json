@@ -1,0 +1,24 @@
+{
+  "fullName": "#4Dimitris Biniakou",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitris-Biniakou/484336",
+  "height": "6'2'",
+  "currentTeam": "Iraklis",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Ethnikos P.",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraklis KAE",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:45:36.670Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:45:36.670Z"
+}

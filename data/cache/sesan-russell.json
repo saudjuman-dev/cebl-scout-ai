@@ -1,7 +1,8 @@
 {
-  "fullName": "SESAN RUSSELL",
+  "fullName": "Sesan Russell",
   "sourceUrl": "https://basketball.eurobasket.com/player/Sesan-Russell/426794",
   "height": "6'2'",
+  "college": "College Florida Tech",
   "currentTeam": "Castello",
   "careerHistory": [
     {
@@ -90,10 +91,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:59:03.220Z",
+  "_lastVerified": "2026-07-26T09:48:38.656Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:59:03.220Z"
+  "cachedAt": "2026-07-26T09:48:38.656Z"
 }

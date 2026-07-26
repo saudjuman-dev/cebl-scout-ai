@@ -1,0 +1,29 @@
+{
+  "fullName": "#8Ricardo Costa",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ricardo-Costa/687639",
+  "height": "6'1'",
+  "currentTeam": "Vitoria SC",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Vasco da Gama",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vitoria SC",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:38:09.999Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:38:09.999Z"
+}

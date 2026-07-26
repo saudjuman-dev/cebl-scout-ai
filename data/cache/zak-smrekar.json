@@ -1,0 +1,65 @@
+{
+  "fullName": "Zak Smrekar",
+  "sourceUrl": "https://basketball.usbasket.com/player/Zak-Smrekar/660365",
+  "height": "6'7'",
+  "college": "College Boston Coll",
+  "currentTeam": "Krka",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Krka",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "SC Derby Podgorica U",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Krka NM",
+      "league": "ADR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Krka NM",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Krka",
+      "league": "SLO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Krka",
+      "league": "ADR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:12:47.615Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:12:47.615Z"
+}

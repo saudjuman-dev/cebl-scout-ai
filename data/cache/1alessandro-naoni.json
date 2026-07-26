@@ -1,0 +1,70 @@
+{
+  "fullName": "#1Alessandro Naoni",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alessandro-Naoni/528225",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Ravenna",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Brescia",
+      "league": "ITA-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Centrum",
+      "league": "NOR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Brescia",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Brescia",
+      "league": "ITA-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Monfalcone",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Kienergia Rieti",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Brianza Casa",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Crema",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Piacenza",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Juvi Cremona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Ravenna",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:23:32.553Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:23:32.553Z"
+}

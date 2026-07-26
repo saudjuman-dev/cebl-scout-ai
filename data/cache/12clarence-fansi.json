@@ -1,0 +1,30 @@
+{
+  "fullName": "#12Clarence Fansi",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Clarence-Fansi/712945",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Kirchheim",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "Kornwestheim",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:47:47.505Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:47:47.505Z"
+}

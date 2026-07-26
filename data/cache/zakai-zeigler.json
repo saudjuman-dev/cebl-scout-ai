@@ -1,9 +1,9 @@
 {
-  "fullName": "ZAKAI ZEIGLER",
+  "fullName": "Zakai Zeigler",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zakai-Zeigler/627516",
   "height": "5'9'",
-  "college": "University of Tennessee",
-  "currentTeam": "Nanterre",
+  "college": "College Tennessee",
+  "currentTeam": "San Antonio S.",
   "careerHistory": [
     {
       "year": "21-22",
@@ -39,12 +39,17 @@
       "year": "25-26",
       "team": "Nanterre",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "San Antonio S.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:24:31.089Z",
+  "_lastVerified": "2026-07-26T06:38:43.515Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:24:31.089Z"
+  "cachedAt": "2026-07-26T06:38:43.515Z"
 }

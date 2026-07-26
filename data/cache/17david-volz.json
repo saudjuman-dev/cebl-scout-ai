@@ -1,0 +1,35 @@
+{
+  "fullName": "#17David Volz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Volz/663477",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Fellbach",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Kirchheim",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Kirchheim",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Fellbach",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:48:18.210Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:48:18.210Z"
+}

@@ -1,0 +1,70 @@
+{
+  "fullName": "John Fulkerson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/John-Fulkerson/402231",
+  "height": "6'9'",
+  "college": "College Tennessee",
+  "currentTeam": "Dziki",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tennessee",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Leuven Bears",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Leuven Bears",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "ENBL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:22:24.207Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:22:24.207Z"
+}

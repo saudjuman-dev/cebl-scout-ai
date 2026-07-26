@@ -1,0 +1,44 @@
+{
+  "fullName": "#10Yigit Aydin",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yigit-Aydin/428108",
+  "height": "6'4'",
+  "currentTeam": "Buyukcekmece",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Ronesans TED",
+      "league": "TUR-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Ormanspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Ormanspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "FMV Isik",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Anadolu",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Buyukcekmece",
+      "league": "TUR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:59:52.107Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:59:52.107Z"
+}

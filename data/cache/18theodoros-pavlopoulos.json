@@ -1,0 +1,39 @@
+{
+  "fullName": "#18Theodoros Pavlopoulos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Theodoros-Pavlopoulos/714638",
+  "height": "6'1'",
+  "currentTeam": "Olympiacos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Aons",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Milonas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:52:56.913Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:52:56.913Z"
+}

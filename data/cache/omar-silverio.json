@@ -1,9 +1,9 @@
 {
-  "fullName": "OMAR SILVERIO",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Omar-Silverio/474339",
+  "fullName": "Omar Silverio",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Omar-Silverio/474339",
   "height": "6'3'",
-  "college": "University of Rhode Island",
-  "currentTeam": "Estudiantes",
+  "college": "College WVU",
+  "currentTeam": "Metros",
   "careerHistory": [
     {
       "year": "18-19",
@@ -69,12 +69,17 @@
       "year": "25-26",
       "team": "Estudiantes",
       "league": "ESP-2"
+    },
+    {
+      "year": "2026",
+      "team": "Metros",
+      "league": "DOM-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:52:17.082Z",
+  "_lastVerified": "2026-07-26T07:22:55.045Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:52:17.082Z"
+  "cachedAt": "2026-07-26T07:22:55.045Z"
 }

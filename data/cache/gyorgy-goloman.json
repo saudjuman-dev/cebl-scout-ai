@@ -1,8 +1,8 @@
 {
-  "fullName": "GYORGY GOLOMAN",
+  "fullName": "Gyorgy Goloman",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gyorgy-Goloman/227981",
   "height": "6'11'",
-  "college": "University of California at Los Angeles",
+  "college": "College UCLA",
   "currentTeam": "Lleida",
   "careerHistory": [
     {
@@ -91,10 +91,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:43:02.022Z",
+  "_lastVerified": "2026-07-26T07:27:50.780Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:43:02.022Z"
+  "cachedAt": "2026-07-26T07:27:50.780Z"
 }

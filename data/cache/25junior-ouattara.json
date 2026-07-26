@@ -1,0 +1,69 @@
+{
+  "fullName": "#25Junior Ouattara",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Junior-Ouattara/448571",
+  "height": "6'3'",
+  "currentTeam": "Angers",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Hyeres-T. U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "18-19",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "19-20",
+      "team": "ASVEL U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "20-21",
+      "team": "St Quentin",
+      "league": "FRA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Golbey",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Toulouse",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Angers",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:11:34.652Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:11:34.652Z"
+}

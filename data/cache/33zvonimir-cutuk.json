@@ -1,0 +1,50 @@
+{
+  "fullName": "#33Zvonimir Cutuk",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zvonimir-Cutuk/214382",
+  "height": "6'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Zagreb",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Zabok",
+      "league": "CRO-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Zabok",
+      "league": "CRO-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Zabok",
+      "league": "CRO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "St.Poelten",
+      "league": "AUT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Zabok",
+      "league": "CRO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Galway-Maree",
+      "league": "IRL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zagreb",
+      "league": "CRO-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:05.849Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:05.849Z"
+}

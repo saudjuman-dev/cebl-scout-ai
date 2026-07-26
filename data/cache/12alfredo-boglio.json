@@ -1,0 +1,60 @@
+{
+  "fullName": "#12Alfredo Boglio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alfredo-Boglio/544320",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Vigevano",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Trento",
+      "league": "ITA-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Oleggio",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Borgomanero",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Tortona",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Juvi Cremona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "RMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "RMU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Vigevano",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:30:38.520Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:30:38.520Z"
+}

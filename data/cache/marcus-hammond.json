@@ -1,8 +1,8 @@
 {
-  "fullName": "MARCUS HAMMOND",
+  "fullName": "Marcus Hammond",
   "sourceUrl": "https://basketball.eurobasket.com/player/Marcus-Hammond/483264",
   "height": "6'3'",
-  "college": "University of Notre Dame",
+  "college": "College Notre Dame",
   "currentTeam": "Poitiers",
   "careerHistory": [
     {
@@ -51,10 +51,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:39:25.297Z",
+  "_lastVerified": "2026-07-26T06:48:36.260Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:39:25.297Z"
+  "cachedAt": "2026-07-26T06:48:36.260Z"
 }

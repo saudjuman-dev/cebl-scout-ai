@@ -1,8 +1,8 @@
 {
-  "fullName": "JACK PAGENKOPF",
+  "fullName": "Jack Pagenkopf",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jack-Pagenkopf/429317",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JACK PAGENKOPF basketball profile Height",
+  "college": "University Games European Championships Olympic Games European Championships U16 Jack PagenkopfBasketball Player ProfileHeight191cm",
   "currentTeam": "Jena",
   "careerHistory": [
     {
@@ -84,12 +84,17 @@
       "year": "25-26",
       "team": "Balkan",
       "league": "BUL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Balkan",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:06.294Z",
+  "_lastVerified": "2026-07-26T06:26:33.683Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:06.294Z"
+  "cachedAt": "2026-07-26T06:26:33.683Z"
 }

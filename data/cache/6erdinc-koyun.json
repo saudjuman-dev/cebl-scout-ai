@@ -1,0 +1,49 @@
+{
+  "fullName": "#6Erdinc Koyun",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Erdinc-Koyun/763997",
+  "height": "6'9'",
+  "currentTeam": "Turkey",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Karsiyaka",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Anka Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Anadolu Efes Istanbu",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:09:44.920Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:09:44.920Z"
+}

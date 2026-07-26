@@ -1,0 +1,55 @@
+{
+  "fullName": "#11Carter Whitt",
+  "sourceUrl": "https://basketball.australiabasket.com/player/Carter-Whitt/503205",
+  "height": "6'3'",
+  "college": "College Belmont",
+  "currentTeam": "Bulls",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wake Forest",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Furman",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Furman",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Furman",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "2026",
+      "team": "Bulls",
+      "league": "NZL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:51:38.031Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:51:38.031Z"
+}

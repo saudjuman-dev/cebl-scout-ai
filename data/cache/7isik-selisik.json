@@ -1,0 +1,28 @@
+{
+  "fullName": "#7Isik Selisik",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isik-Selisik/713609",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Darussafaka",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Darussafaka",
+      "league": "TUR-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:33:15.467Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:33:15.467Z"
+}

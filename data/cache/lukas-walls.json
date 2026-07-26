@@ -1,0 +1,39 @@
+{
+  "fullName": "Lukas Walls",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lukas-Walls/704320",
+  "height": "6'5'",
+  "currentTeam": "Radford",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Samford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Samford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Samford",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Radford",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Radford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:53.630Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:53.630Z"
+}

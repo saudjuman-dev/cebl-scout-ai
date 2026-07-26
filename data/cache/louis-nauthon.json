@@ -1,0 +1,35 @@
+{
+  "fullName": "Louis Nauthon",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Louis-Nauthon/634550",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Louis NauthonBasketball Player ProfileHeight185cm",
+  "currentTeam": "Bayreuth",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "TenneT",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:52:47.021Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:52:47.021Z"
+}

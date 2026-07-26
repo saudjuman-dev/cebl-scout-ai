@@ -1,0 +1,90 @@
+{
+  "fullName": "#19Luka Dmitrovic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luka-Dmitrovic/187763",
+  "height": "6'7'",
+  "college": "College Faulkner",
+  "currentTeam": "Sol Girones",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Mladost CA",
+      "league": "SRB-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Mladost CA",
+      "league": "SRB-2"
+    },
+    {
+      "year": "12-13",
+      "team": "Mladost CA",
+      "league": "SRB-2"
+    },
+    {
+      "year": "15-16",
+      "team": "N.Dakota St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Polk State CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Faulkner",
+      "league": "NAIA"
+    },
+    {
+      "year": "18-19",
+      "team": "Faulkner",
+      "league": "NAIA"
+    },
+    {
+      "year": "19-20",
+      "team": "Zeleznicar C.",
+      "league": "SRB-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Pljevlja",
+      "league": "MNT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ibar",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Prievidza",
+      "league": "SVK-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Ibar",
+      "league": "MNT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Alginet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Akademija FMP",
+      "league": "MKD-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:59:04.645Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:59:04.645Z"
+}

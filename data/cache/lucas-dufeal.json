@@ -1,8 +1,9 @@
 {
-  "fullName": "LUCAS DUFEAL",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Dufeal/530212",
+  "fullName": "Lucas Dufeal",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lucas-Dufeal/530212",
   "height": "6'9'",
-  "currentTeam": "Le Mans",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -58,12 +59,17 @@
       "year": "25-26",
       "team": "Le Mans",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:26:29.631Z",
+  "_lastVerified": "2026-07-26T06:40:37.551Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:26:29.631Z"
+  "cachedAt": "2026-07-26T06:40:37.551Z"
 }

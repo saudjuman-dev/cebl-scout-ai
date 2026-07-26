@@ -1,8 +1,8 @@
 {
-  "fullName": "VLADIMIR LUCIC",
+  "fullName": "Vladimir Lucic",
   "sourceUrl": "https://basketball.eurobasket.com/player/Vladimir-Lucic/157689",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16 VLADIMIR LUCIC basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Vladimir LucicBasketball Player ProfileHeight204cm",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -223,12 +223,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -236,10 +236,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:14:32.976Z",
+  "_lastVerified": "2026-07-26T06:14:21.951Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:14:32.976Z"
+  "cachedAt": "2026-07-26T06:14:21.951Z"
 }

@@ -1,0 +1,34 @@
+{
+  "fullName": "#15Lampros Taskos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lampros-Taskos/734247",
+  "height": "6'3'",
+  "currentTeam": "Panathinaikos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:54:13.059Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:54:13.059Z"
+}

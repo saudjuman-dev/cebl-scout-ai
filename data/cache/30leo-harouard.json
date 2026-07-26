@@ -1,0 +1,29 @@
+{
+  "fullName": "#30Leo Harouard",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leo-Harouard/708503",
+  "height": "6'9'",
+  "currentTeam": "Saint-Chamond",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Dijon U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint-Chamond",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:10:52.479Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:10:52.479Z"
+}

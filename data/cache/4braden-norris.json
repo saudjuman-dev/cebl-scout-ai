@@ -1,0 +1,50 @@
+{
+  "fullName": "#4Braden Norris",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Braden-Norris/483302",
+  "height": "6'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Kirchheim",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Oakland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Loyola, IL",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:47:57.442Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:47:57.442Z"
+}

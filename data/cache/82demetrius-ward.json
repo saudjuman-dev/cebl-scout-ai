@@ -1,0 +1,90 @@
+{
+  "fullName": "#82Demetrius Ward",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Demetrius-Ward/163049",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Kirchheim",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "11-12",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "13-14",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Wolfenbuettel",
+      "league": "GER-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Wolfenbuettel",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Paderborn",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:48:13.151Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:48:13.151Z"
+}

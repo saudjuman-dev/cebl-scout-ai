@@ -1,0 +1,115 @@
+{
+  "fullName": "#17Chase Audige",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chase-Audige/475808",
+  "height": "6'4'",
+  "college": "College Northwestern",
+  "currentTeam": "Unicaja",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "William & Mary",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Northwestern",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Northwestern",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Northwestern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "2023",
+      "team": "Miami Heat",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Capital C.Go-Go",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Oostende",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oostende",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oostende",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "2025",
+      "team": "Richards Elite",
+      "league": "TBT"
+    },
+    {
+      "year": "2025",
+      "team": "Bosna",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Unicaja",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Unicaja",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bosna",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bosna",
+      "league": "ADR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:23:25.953Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:23:25.953Z"
+}

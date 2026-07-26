@@ -1,0 +1,25 @@
+{
+  "fullName": "Elijah Gertrude",
+  "sourceUrl": "https://basketball.usbasket.com/player/Elijah-Gertrude/684910",
+  "height": "6'4'",
+  "college": "University of Virginia",
+  "currentTeam": "Virginia",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Virginia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:36:00.161Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:36:00.161Z"
+}

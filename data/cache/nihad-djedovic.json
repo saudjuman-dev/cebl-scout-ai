@@ -1,5 +1,5 @@
 {
-  "fullName": "NIHAD DJEDOVIC",
+  "fullName": "Nihad Djedovic",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nihad-Djedovic/134028",
   "height": "6'6'",
   "currentTeam": "Unicaja",
@@ -207,18 +207,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:35.179Z",
+  "_lastVerified": "2026-07-26T07:23:53.376Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:35.179Z"
+  "cachedAt": "2026-07-26T07:23:53.376Z"
 }

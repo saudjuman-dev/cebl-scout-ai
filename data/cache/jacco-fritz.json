@@ -1,7 +1,8 @@
 {
-  "fullName": "JACCO FRITZ",
+  "fullName": "Jacco Fritz",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jacco-Fritz/369105",
   "height": "6'10'",
+  "college": "College Hofstra",
   "currentTeam": "Huesca",
   "careerHistory": [
     {
@@ -55,10 +56,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:57:45.597Z",
+  "_lastVerified": "2026-07-26T09:45:10.031Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:57:45.597Z"
+  "cachedAt": "2026-07-26T09:45:10.031Z"
 }

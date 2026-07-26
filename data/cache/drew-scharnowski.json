@@ -1,0 +1,25 @@
+{
+  "fullName": "Drew Scharnowski",
+  "sourceUrl": "https://basketball.usbasket.com/player/Drew-Scharnowski/685545",
+  "height": "6'9'",
+  "college": "University of Alabama Parents were basketball and swimming student",
+  "currentTeam": "Belmont",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Belmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Belmont",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:55:40.280Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:55:40.280Z"
+}

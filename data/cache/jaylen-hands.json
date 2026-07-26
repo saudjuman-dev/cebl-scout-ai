@@ -1,8 +1,8 @@
 {
-  "fullName": "JAYLEN HANDS",
+  "fullName": "Jaylen Hands",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jaylen-Hands/364937",
   "height": "6'3'",
-  "college": "University of California at Los Angeles",
+  "college": "College UCLA",
   "currentTeam": "Murcia",
   "careerHistory": [
     {
@@ -103,11 +103,6 @@
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Panionios",
       "league": "GRE-1"
     },
     {
@@ -119,12 +114,17 @@
       "year": "25-26",
       "team": "Murcia",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Panionios",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:53:05.274Z",
+  "_lastVerified": "2026-07-26T07:19:01.720Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:53:05.274Z"
+  "cachedAt": "2026-07-26T07:19:01.720Z"
 }

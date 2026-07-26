@@ -1,0 +1,28 @@
+{
+  "fullName": "#16Ayman Malibert",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ayman-Malibert/748215",
+  "currentTeam": "Limoges",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Limoges U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Limoges U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:49:20.796Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:49:20.796Z"
+}

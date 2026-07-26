@@ -1,0 +1,30 @@
+{
+  "fullName": "#20Fabian Giessmann",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Fabian-Giessmann/656793",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Hamburg",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:30:22.426Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:30:22.426Z"
+}

@@ -1,0 +1,30 @@
+{
+  "fullName": "#1Matteo Pagano",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Pagano/299461",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Brindisi",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Venafro",
+      "league": "ITA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Treofan BTP",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Brindisi",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:19:51.058Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:19:51.058Z"
+}

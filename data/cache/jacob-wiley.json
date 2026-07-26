@@ -1,8 +1,8 @@
 {
-  "fullName": "JACOB WILEY",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jacob-Wiley/348923",
+  "fullName": "#-Jacob Wiley",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Jacob-Wiley/348923",
   "height": "6'8'",
-  "college": "University of Montana",
+  "college": "College EWU",
   "currentTeam": "Aguada",
   "careerHistory": [
     {
@@ -161,10 +161,10 @@
       "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:26:11.407Z",
+  "_lastVerified": "2026-07-26T08:32:42.521Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:26:11.407Z"
+  "cachedAt": "2026-07-26T08:32:42.521Z"
 }

@@ -1,0 +1,65 @@
+{
+  "fullName": "#11De'Vondre Perry",
+  "sourceUrl": "https://basketball.eurobasket.com/player/DeVondre-Perry/431004",
+  "height": "6'7'",
+  "college": "College Albany",
+  "currentTeam": "Macau BB",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Albany",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kortrijk Spurs",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "2025",
+      "team": "Reales",
+      "league": "DOM-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Wolmirstedt",
+      "league": "GER-2"
+    },
+    {
+      "year": "2026",
+      "team": "Macau BB",
+      "league": "PHI-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:58:12.622Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:58:12.622Z"
+}

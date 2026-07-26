@@ -1,0 +1,59 @@
+{
+  "fullName": "#32Eduardo Carpintero",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eduardo-Carpintero/450159",
+  "height": "6'7'",
+  "currentTeam": "Cantbasket",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Univ.Burgos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Univ.Burgos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Tizona Burgos",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Zamora",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Nissan GSant.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Nissan GSant.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Getxo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Cantbasket",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:07:37.789Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:07:37.789Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fullName": "#64Max Brackmann",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Max-Brackmann/475345",
+  "height": "7'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Bochum",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Herford",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SE Louisiana",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Neustadt TSV",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bochum",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:54:01.497Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:54:01.497Z"
+}

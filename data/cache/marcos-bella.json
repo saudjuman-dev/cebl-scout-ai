@@ -1,0 +1,43 @@
+{
+  "fullName": "Marcos Bella",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcos-Bella/665241",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Chantada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Grupo Santiago",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Longevida SP",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Grupo Santiago",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:27:41.035Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:27:41.035Z"
+}

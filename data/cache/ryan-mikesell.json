@@ -1,8 +1,8 @@
 {
-  "fullName": "RYAN MIKESELL",
+  "fullName": "Ryan Mikesell",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ryan-Mikesell/380260",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16 RYAN MIKESELL basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Ryan MikesellBasketball Player ProfileHeight201cm",
   "currentTeam": "Heidelberg",
   "careerHistory": [
     {
@@ -72,6 +72,11 @@
     },
     {
       "year": "25-26",
+      "team": "London L.",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
       "team": "Heidelberg",
       "league": "BCL-1"
     },
@@ -79,11 +84,6 @@
       "year": "25-26",
       "team": "London L.",
       "league": "ENG-20"
-    },
-    {
-      "year": "25-26",
-      "team": "London L.",
-      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
@@ -96,10 +96,10 @@
       "league": "ENG-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:40.513Z",
+  "_lastVerified": "2026-07-26T06:22:39.720Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:40.513Z"
+  "cachedAt": "2026-07-26T06:22:39.720Z"
 }

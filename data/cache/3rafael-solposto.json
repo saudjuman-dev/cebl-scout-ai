@@ -1,0 +1,29 @@
+{
+  "fullName": "#3Rafael Solposto",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Solposto/652953",
+  "height": "6'4'",
+  "currentTeam": "Barreirense",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Barreirense",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Barreirense",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:12:15.131Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:12:15.131Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "#3Raimon Carrasco",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Raimon-Carrasco/363915",
+  "height": "6'2'",
+  "currentTeam": "Prat",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Barcelona 2",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Girona",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Sant Josep",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Andorra II",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "MoraBanc Andorra",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Cornella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Cornella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "CB Prat",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Prat",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:15:04.665Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:15:04.665Z"
+}

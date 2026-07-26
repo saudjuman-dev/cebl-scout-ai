@@ -1,0 +1,70 @@
+{
+  "fullName": "Arturas Butajevas",
+  "sourceUrl": "https://basketball.usbasket.com/player/Arturas-Butajevas/641457",
+  "height": "6'10'",
+  "college": "University of Florida",
+  "currentTeam": "Unicaja",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Klaipeda",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona U18 tea",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona U18 tea",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Unicaja",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Unicaja U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Unicaja",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:23:55.856Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:23:55.856Z"
+}

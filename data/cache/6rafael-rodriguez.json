@@ -1,0 +1,59 @@
+{
+  "fullName": "#6Rafael Rodriguez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Rodriguez/699776",
+  "height": "6'0'",
+  "currentTeam": "Spain",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Tenerife",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "2023",
+      "team": "Canarias",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Tenerife",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Nautico Ten.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Canarias",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Laguna Tenerife",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fundacion CB Canarias Santa Cruz de Tenerife",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Tenerife",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Canarias U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:18:09.525Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:18:09.525Z"
+}

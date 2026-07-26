@@ -1,8 +1,8 @@
 {
-  "fullName": "TJ CROCKETT",
+  "fullName": "TJ Crockett",
   "sourceUrl": "https://basketball.eurobasket.com/player/TJ-Crockett/453723",
   "height": "6'2'",
-  "college": "University Games European Championships Olympic Games European Championships U16 TJ CROCKETT basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 TJ CrockettBasketball Player ProfileHeight187cm",
   "currentTeam": "Rostock",
   "careerHistory": [
     {
@@ -83,12 +83,12 @@
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Rostock",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -96,10 +96,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:17:50.259Z",
+  "_lastVerified": "2026-07-26T06:25:25.521Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:17:50.259Z"
+  "cachedAt": "2026-07-26T06:25:25.521Z"
 }

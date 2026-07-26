@@ -1,0 +1,25 @@
+{
+  "fullName": "Je'Marion Westbrook",
+  "sourceUrl": "https://basketball.eurobasket.com/player/JeMarion-Westbrook/755144",
+  "height": "6'7'",
+  "college": "College Delta St",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:38:31.292Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:38:31.292Z"
+}

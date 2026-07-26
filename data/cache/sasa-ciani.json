@@ -1,0 +1,85 @@
+{
+  "fullName": "Sasa Ciani",
+  "sourceUrl": "https://basketball.usbasket.com/player/Sasa-Ciani/479399",
+  "height": "6'10'",
+  "college": "University of Illinois at Chicago",
+  "currentTeam": "Slovenia",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Primorska",
+      "league": "SLO-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Primorska",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Primorska",
+      "league": "ADR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Primorska",
+      "league": "SLO-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Dynamic BG",
+      "league": "SRB-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Nutrisp.Ilirija",
+      "league": "ALP-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Cedevita Ol",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nutrisp.Ilirija",
+      "league": "SLO-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cedevita Jr.",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Cedevita Jr.",
+      "league": "CRO-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UIC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Penn State",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:19.142Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:19.142Z"
+}

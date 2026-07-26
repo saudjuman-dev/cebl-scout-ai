@@ -1,0 +1,30 @@
+{
+  "fullName": "Samson Aletan",
+  "sourceUrl": "https://basketball.usbasket.com/player/Samson-Aletan/685573",
+  "height": "6'10'",
+  "college": "University National Team",
+  "currentTeam": "Yale",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Yale",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Yale",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Yale",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:53:41.335Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:53:41.335Z"
+}

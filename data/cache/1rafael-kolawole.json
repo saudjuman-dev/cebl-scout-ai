@@ -1,0 +1,35 @@
+{
+  "fullName": "#1Rafael Kolawole",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rafael-Kolawole/705266",
+  "height": "6'5'",
+  "college": "University Games European Championships European Championships U18 European Championships U16",
+  "currentTeam": "Kyiv Basket",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "SKM ZG",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kyiv Basket",
+      "league": "UKR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:23:48.433Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:23:48.433Z"
+}

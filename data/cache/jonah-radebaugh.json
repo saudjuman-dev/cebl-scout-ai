@@ -1,8 +1,8 @@
 {
-  "fullName": "JONAH RADEBAUGH",
+  "fullName": "Jonah Radebaugh",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jonah-Radebaugh/367486",
   "height": "6'3'",
-  "college": "University of Northern Colorado",
+  "college": "College N",
   "currentTeam": "Murcia",
   "careerHistory": [
     {
@@ -106,10 +106,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:37:22.427Z",
+  "_lastVerified": "2026-07-26T07:18:46.511Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:37:22.427Z"
+  "cachedAt": "2026-07-26T07:18:46.511Z"
 }

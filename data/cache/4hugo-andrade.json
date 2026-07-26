@@ -1,0 +1,23 @@
+{
+  "fullName": "#4Hugo Andrade",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Andrade/780030",
+  "currentTeam": "Alcala Caja87",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Alcala Caja87",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:42:40.350Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:42:40.350Z"
+}

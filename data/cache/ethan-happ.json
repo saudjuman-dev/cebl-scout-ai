@@ -1,8 +1,8 @@
 {
-  "fullName": "ETHAN HAPP",
+  "fullName": "Ethan Happ",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ethan-Happ/331159",
   "height": "6'10'",
-  "college": "University of Wisconsin",
+  "college": "College Wisconsin",
   "currentTeam": "Burgos SP",
   "careerHistory": [
     {
@@ -106,10 +106,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:27.933Z",
+  "_lastVerified": "2026-07-26T07:27:06.069Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:27.933Z"
+  "cachedAt": "2026-07-26T07:27:06.069Z"
 }

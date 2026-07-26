@@ -1,8 +1,8 @@
 {
-  "fullName": "ERIC REED JR.",
+  "fullName": "Eric Reed Jr.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Eric-Reed-Jr/498211",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ERIC REED JR",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Eric Reed Jr",
   "currentTeam": "Hamburg",
   "careerHistory": [
     {
@@ -78,7 +78,12 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "BCL-1"
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "GER-1"
     },
     {
       "year": "25-26",
@@ -88,18 +93,13 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "GER-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Hamburg",
-      "league": "GER-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:49.449Z",
+  "_lastVerified": "2026-07-26T06:23:00.212Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:49.449Z"
+  "cachedAt": "2026-07-26T06:23:00.212Z"
 }

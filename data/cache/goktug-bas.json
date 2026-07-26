@@ -1,5 +1,5 @@
 {
-  "fullName": "GOKTUG BAS",
+  "fullName": "Goktug Bas",
   "sourceUrl": "https://basketball.eurobasket.com/player/Goktug-Bas/445615",
   "height": "6'7'",
   "currentTeam": "Bahcesehir",
@@ -62,18 +62,18 @@
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:04:13.820Z",
+  "_lastVerified": "2026-07-26T07:55:45.014Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:04:13.820Z"
+  "cachedAt": "2026-07-26T07:55:45.014Z"
 }

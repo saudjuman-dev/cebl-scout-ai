@@ -1,8 +1,8 @@
 {
-  "fullName": "EROL ERSEK",
+  "fullName": "Erol Ersek",
   "sourceUrl": "https://basketball.eurobasket.com/player/Erol-Ersek/335402",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games European Championships U16 EROL ERSEK basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Erol ErsekBasketball Player ProfileHeight194cm",
   "currentTeam": "Heidelberg",
   "careerHistory": [
     {
@@ -63,12 +63,12 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -76,10 +76,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-17T06:44:15.211Z",
+  "_lastVerified": "2026-07-26T06:23:03.200Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-17T06:44:15.211Z"
+  "cachedAt": "2026-07-26T06:23:03.200Z"
 }

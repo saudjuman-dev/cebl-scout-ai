@@ -1,7 +1,8 @@
 {
-  "fullName": "ELVAR FRIDRIKSSON",
+  "fullName": "Elvar Fridriksson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Elvar-Fridriksson/196730",
   "height": "6'0'",
+  "college": "College Barry",
   "currentTeam": "Tenerife",
   "careerHistory": [
     {
@@ -132,23 +133,23 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Anwil",
       "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Tenerife",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Anwil",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:19:36.060Z",
+  "_lastVerified": "2026-07-26T07:18:17.647Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:19:36.060Z"
+  "cachedAt": "2026-07-26T07:18:17.647Z"
 }

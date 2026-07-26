@@ -1,0 +1,25 @@
+{
+  "fullName": "Courtney Anderson",
+  "sourceUrl": "https://basketball.usbasket.com/player/Courtney-Anderson/552787",
+  "height": "6'5'",
+  "college": "College Preparatory 2020",
+  "currentTeam": "Montana",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Colorado",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Montana",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:18:01.681Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:18:01.681Z"
+}

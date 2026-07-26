@@ -1,0 +1,59 @@
+{
+  "fullName": "#23Adria Codinachs",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adria-Codinachs/505777",
+  "height": "6'8'",
+  "currentTeam": "Prat",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "L'Hospitalet",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "L'Hospitalet",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "L'Hospitalet",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "SESE",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "SESE",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Sant Feliu",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Sant Feliu",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Koping Stars",
+      "league": "SWE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Prat",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:14:57.046Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:14:57.046Z"
+}

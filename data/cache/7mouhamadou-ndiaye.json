@@ -1,0 +1,29 @@
+{
+  "fullName": "#7Mouhamadou Ndiaye",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mouhamadou-Ndiaye/711199",
+  "height": "6'8'",
+  "currentTeam": "Zornotza",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zaragoza CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zornotza",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:56:51.350Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:56:51.350Z"
+}

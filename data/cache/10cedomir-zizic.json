@@ -1,0 +1,44 @@
+{
+  "fullName": "#10Cedomir Zizic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cedomir-Zizic/581627",
+  "height": "6'9'",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Podgorica 2",
+      "league": "MNT-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Pljevlja",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pljevlja",
+      "league": "MNT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Milenijum",
+      "league": "MNT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Student-Igokea",
+      "league": "BIH-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Valle de Egues",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:10:31.939Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:10:31.939Z"
+}

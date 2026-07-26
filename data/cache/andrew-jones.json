@@ -1,0 +1,80 @@
+{
+  "fullName": "Andrew Jones",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andrew-Jones/398602",
+  "height": "6'4'",
+  "college": "College Texas",
+  "currentTeam": "Kapfenberg",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Texas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Vechta",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Orchies",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Kapfenberg",
+      "league": "AUT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Alftanes",
+      "league": "ISL-1"
+    },
+    {
+      "year": "2025",
+      "team": "Nelson Giants",
+      "league": "NZL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kapfenberg",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kapfenberg",
+      "league": "AUT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:39:57.028Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:39:57.028Z"
+}

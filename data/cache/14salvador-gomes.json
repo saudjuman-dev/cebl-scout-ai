@@ -1,0 +1,39 @@
+{
+  "fullName": "#14Salvador Gomes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Salvador-Gomes/660478",
+  "height": "6'5'",
+  "currentTeam": "Portugal",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Imortal U23",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:40:15.514Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:40:15.514Z"
+}

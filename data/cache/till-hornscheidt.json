@@ -1,0 +1,65 @@
+{
+  "fullName": "Till Hornscheidt",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Till-Hornscheidt/406898",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Till HornscheidtBasketball Player ProfileHeight188cm",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Essen",
+      "league": "GER-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Essen",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "ALBA Berlin 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "59 HammStars",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "59 HammStars",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:04:56.871Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:04:56.871Z"
+}

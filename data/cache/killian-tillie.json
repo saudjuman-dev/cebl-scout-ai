@@ -1,7 +1,8 @@
 {
-  "fullName": "KILLIAN TILLIE",
+  "fullName": "Killian Tillie",
   "sourceUrl": "https://basketball.eurobasket.com/player/Killian-Tillie/323984",
   "height": "6'10'",
+  "college": "College Gonzaga",
   "currentTeam": "Unicaja",
   "careerHistory": [
     {
@@ -90,10 +91,10 @@
       "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-10T06:31:57.228Z",
+  "_lastVerified": "2026-07-26T07:23:47.710Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:31:57.228Z"
+  "cachedAt": "2026-07-26T07:23:47.710Z"
 }

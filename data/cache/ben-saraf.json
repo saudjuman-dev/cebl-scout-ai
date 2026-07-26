@@ -1,0 +1,70 @@
+{
+  "fullName": "Ben Saraf",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ben-Saraf/617795",
+  "height": "6'6'",
+  "college": "College Park SH107",
+  "currentTeam": "Brooklyn N.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "NGT Patras",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Patras",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "E.Mac.Netanya",
+      "league": "ISR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    },
+    {
+      "year": "2026",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:20:57.784Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:20:57.784Z"
+}

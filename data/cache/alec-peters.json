@@ -1,7 +1,8 @@
 {
-  "fullName": "ALEC PETERS",
+  "fullName": "Alec Peters",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alec-Peters/309691",
   "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Alec PetersBasketball Player ProfileHeight206cm",
   "currentTeam": "Olympiacos",
   "careerHistory": [
     {
@@ -115,10 +116,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:45:34.287Z",
+  "_lastVerified": "2026-07-26T07:40:30.742Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:45:34.287Z"
+  "cachedAt": "2026-07-26T07:40:30.742Z"
 }

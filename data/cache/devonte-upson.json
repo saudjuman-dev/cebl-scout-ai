@@ -1,7 +1,8 @@
 {
-  "fullName": "DEVONTE UPSON",
+  "fullName": "Devonte Upson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Devonte-Upson/295657",
   "height": "6'9'",
+  "college": "College SE Louisiana",
   "currentTeam": "Karditsas",
   "careerHistory": [
     {
@@ -130,10 +131,10 @@
       "league": "CHN-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:50:30.806Z",
+  "_lastVerified": "2026-07-26T07:36:59.621Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:50:30.806Z"
+  "cachedAt": "2026-07-26T07:36:59.621Z"
 }

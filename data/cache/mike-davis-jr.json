@@ -1,7 +1,8 @@
 {
-  "fullName": "MIKE DAVIS JR.",
+  "fullName": "Mike Davis Jr.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mike-Davis-Jr/347797",
   "height": "6'4'",
+  "college": "College Queens",
   "currentTeam": "Strasbourg",
   "careerHistory": [
     {
@@ -105,10 +106,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:22:32.695Z",
+  "_lastVerified": "2026-07-26T06:18:03.377Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:22:32.695Z"
+  "cachedAt": "2026-07-26T06:18:03.377Z"
 }

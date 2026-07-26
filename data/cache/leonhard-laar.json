@@ -1,0 +1,75 @@
+{
+  "fullName": "Leonhard Laar",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leonhard-Laar/641260",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Leonhard LaarBasketball Player ProfileHeight204cm",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Ludwigsburg",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:25:08.723Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:25:08.723Z"
+}

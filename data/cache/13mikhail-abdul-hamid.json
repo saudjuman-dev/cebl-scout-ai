@@ -1,0 +1,30 @@
+{
+  "fullName": "#13Mikhail Abdul-Hamid",
+  "sourceUrl": "https://basketball.usbasket.com/player/Mikhail-Abdul-Hamid/555994",
+  "height": "6'5'",
+  "college": "University of Idaho",
+  "currentTeam": "NW Missouri St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Salt Lake CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Hutchinson",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "NW Missouri St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:54:15.862Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:54:15.862Z"
+}

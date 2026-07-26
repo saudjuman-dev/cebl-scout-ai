@@ -1,8 +1,8 @@
 {
-  "fullName": "DEMETRE RIVERS",
+  "fullName": "Demetre Rivers",
   "sourceUrl": "https://basketball.eurobasket.com/player/Demetre-Rivers/335982",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 DEMETRE RIVERS basketball profile Uniform No",
+  "college": "College Mercer",
   "currentTeam": "Brescia",
   "careerHistory": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "year": "24-25",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -101,10 +101,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:31:35.524Z",
+  "_lastVerified": "2026-07-26T07:02:01.024Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:31:35.524Z"
+  "cachedAt": "2026-07-26T07:02:01.024Z"
 }

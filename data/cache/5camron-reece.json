@@ -1,0 +1,95 @@
+{
+  "fullName": "#5Camron Reece",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Camron-Reece/460520",
+  "height": "6'8'",
+  "college": "College Talladega",
+  "currentTeam": "Proteas V.",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Sheridan JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Sheridan JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Talladega",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Kataja",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kataja Ta.",
+      "league": "FIN-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Kataja Ta.",
+      "league": "FIN-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Kataja",
+      "league": "FIN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Proteas V.",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:30:25.054Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:30:25.054Z"
+}

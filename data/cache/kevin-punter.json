@@ -1,8 +1,8 @@
 {
-  "fullName": "KEVIN PUNTER",
+  "fullName": "Kevin Punter",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Punter/327092",
   "height": "6'4'",
-  "college": "University of Tennessee",
+  "college": "College Tennessee",
   "currentTeam": "Barca",
   "careerHistory": [
     {
@@ -141,10 +141,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:38:00.666Z",
+  "_lastVerified": "2026-07-26T07:20:00.015Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:38:00.666Z"
+  "cachedAt": "2026-07-26T07:20:00.015Z"
 }

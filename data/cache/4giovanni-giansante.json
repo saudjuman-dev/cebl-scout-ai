@@ -1,0 +1,30 @@
+{
+  "fullName": "#4Giovanni Giansante",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giovanni-Giansante/622679",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Roseto",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Giulianova",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Pall.Roseto",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Liofilchem ROS",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:31:52.875Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:31:52.875Z"
+}

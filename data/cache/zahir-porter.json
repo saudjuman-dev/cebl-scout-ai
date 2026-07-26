@@ -1,8 +1,8 @@
 {
-  "fullName": "ZAHIR PORTER",
+  "fullName": "Zahir Porter",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zahir-Porter/423441",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ZAHIR PORTER basketball profile Height",
+  "college": "College Weber St",
   "currentTeam": "Rimini",
   "careerHistory": [
     {
@@ -77,19 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "H.Galil Elyon",
-      "league": "ISR-1"
+      "team": "Dole Basket Rimini",
+      "league": "ITA-2"
     },
     {
       "year": "25-26",
-      "team": "Dole Basket Rimini",
-      "league": "ITA-2"
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:44:49.322Z",
+  "_lastVerified": "2026-07-26T08:15:15.681Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:44:49.322Z"
+  "cachedAt": "2026-07-26T08:15:15.681Z"
 }

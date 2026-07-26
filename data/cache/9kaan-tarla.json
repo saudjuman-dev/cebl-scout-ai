@@ -1,0 +1,59 @@
+{
+  "fullName": "#9Kaan Tarla",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kaan-Tarla/600358",
+  "height": "6'5'",
+  "currentTeam": "Fenerbahce 2",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Anadolu Efes",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Fenerbahce 2",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:06:11.373Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:06:11.373Z"
+}

@@ -1,0 +1,50 @@
+{
+  "fullName": "#11Romar Reid",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Romar-Reid/518255",
+  "height": "6'2'",
+  "college": "College St",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Manhattan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Michael's",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Michael's",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Santfeliuenc",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:05.696Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:05.696Z"
+}

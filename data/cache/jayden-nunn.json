@@ -1,9 +1,9 @@
 {
-  "fullName": "JAYDEN NUNN",
+  "fullName": "Jayden Nunn",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jayden-Nunn/598148",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 JAYDEN NUNN basketball profile Uniform",
-  "currentTeam": "Brescia",
+  "college": "College Baylor",
+  "currentTeam": "San Antonio S.",
   "careerHistory": [
     {
       "year": "21-22",
@@ -44,12 +44,17 @@
       "year": "25-26",
       "team": "Brescia",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "San Antonio S.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-10T06:30:35.674Z",
+  "_lastVerified": "2026-07-26T07:01:58.385Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:30:35.674Z"
+  "cachedAt": "2026-07-26T07:01:58.385Z"
 }

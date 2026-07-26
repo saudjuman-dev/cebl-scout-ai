@@ -1,0 +1,34 @@
+{
+  "fullName": "#0Logan Bourgeois",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Logan-Bourgeois/722065",
+  "college": "College NW Florida St",
+  "currentTeam": "Strasbourg",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NW Florida St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:36:03.515Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:36:03.515Z"
+}

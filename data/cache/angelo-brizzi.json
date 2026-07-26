@@ -1,0 +1,35 @@
+{
+  "fullName": "Angelo Brizzi",
+  "sourceUrl": "https://basketball.usbasket.com/player/Angelo-Brizzi/422889",
+  "height": "6'3'",
+  "college": "University of Buffalo",
+  "currentTeam": "Buffalo",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Villanova",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Longwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Buffalo",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:56.197Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:56.197Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "Larry Hughes II",
+  "sourceUrl": "https://basketball.usbasket.com/player/Larry-Hughes-II/555991",
+  "height": "6'4'",
+  "college": "University Northridge",
+  "currentTeam": "CSUN",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "St.Louis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Louis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Louis",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Louis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "CSUN",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:29.147Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:29.147Z"
+}

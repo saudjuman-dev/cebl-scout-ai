@@ -1,8 +1,8 @@
 {
-  "fullName": "KYLE CASTLIN",
+  "fullName": "Kyle Castlin",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kyle-Castlin/344599",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games European Championships U16 KYLE CASTLIN basketball profile Uniform",
+  "college": "College Xavier",
   "currentTeam": "Giessen 46ers",
   "careerHistory": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "year": "2021",
-      "team": "Utah Jazz W.",
+      "team": "Z*Utah Jazz W.",
       "league": "NBA"
     },
     {
@@ -86,10 +86,10 @@
       "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:32:46.492Z",
+  "_lastVerified": "2026-07-26T08:48:25.043Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:32:46.492Z"
+  "cachedAt": "2026-07-26T08:48:25.043Z"
 }

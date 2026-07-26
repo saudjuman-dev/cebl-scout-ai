@@ -1,0 +1,114 @@
+{
+  "fullName": "Vasilije Bacovic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vasilije-Bacovic/257280",
+  "height": "6'10'",
+  "currentTeam": "Derby",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Buducnost",
+      "league": "MNT-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Buducnost",
+      "league": "ADR-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Buducnost",
+      "league": "MNT-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Buducnost",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Buducnost",
+      "league": "ADR-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Buducnost",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Buducnost",
+      "league": "ADR-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Buducnost",
+      "league": "MNT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Lovcen",
+      "league": "ADR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Derby",
+      "league": "ADR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Derby",
+      "league": "ADR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Derby",
+      "league": "ADR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Derby",
+      "league": "MNT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "SC Derby Podgorica",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "SC Derby Podgorica",
+      "league": "MNT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "NKA Pecs",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Derby",
+      "league": "MNT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:09:44.569Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:09:44.569Z"
+}

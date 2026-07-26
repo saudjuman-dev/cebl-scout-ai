@@ -1,0 +1,25 @@
+{
+  "fullName": "#44Christoph Wuermseher",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christoph-Wuermseher/588258",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Bayreuth",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Leitershofen",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayreuth",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:52:58.398Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:52:58.398Z"
+}

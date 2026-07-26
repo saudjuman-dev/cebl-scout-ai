@@ -1,5 +1,5 @@
 {
-  "fullName": "MARTYNAS ECHODAS",
+  "fullName": "Martynas Echodas",
   "sourceUrl": "https://basketball.eurobasket.com/player/Martynas-Echodas/272371",
   "height": "6'9'",
   "currentTeam": "Rytas",
@@ -117,17 +117,17 @@
     {
       "year": "25-26",
       "team": "ALBA",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "ALBA",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Rytas",
       "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -140,10 +140,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:23:39.805Z",
+  "_lastVerified": "2026-07-26T06:13:18.505Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:23:39.805Z"
+  "cachedAt": "2026-07-26T06:13:18.505Z"
 }

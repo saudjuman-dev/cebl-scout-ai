@@ -1,0 +1,30 @@
+{
+  "fullName": "Fred Payne",
+  "sourceUrl": "https://basketball.usbasket.com/player/Fred-Payne/555770",
+  "height": "6'1'",
+  "college": "University of Oregon",
+  "currentTeam": "Boston Coll.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boston Coll.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:35:03.329Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:35:03.329Z"
+}

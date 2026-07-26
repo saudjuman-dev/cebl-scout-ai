@@ -1,0 +1,49 @@
+{
+  "fullName": "#6Nikodem Wozny",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikodem-Wozny/718438",
+  "height": "6'6'",
+  "currentTeam": "Poland",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS DG",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:21:31.243Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:21:31.243Z"
+}

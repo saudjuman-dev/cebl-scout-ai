@@ -1,0 +1,29 @@
+{
+  "fullName": "#7Youssouf Yatabare",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Youssouf-Yatabare/708536",
+  "height": "6'9'",
+  "currentTeam": "France",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Nanterre U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Nanterre U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Nanterre U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:39:03.959Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:39:03.959Z"
+}

@@ -1,0 +1,30 @@
+{
+  "fullName": "#8Fynn Rieck",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Fynn-Rieck/749332",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln RS",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:27.144Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:27.144Z"
+}

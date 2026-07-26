@@ -1,0 +1,94 @@
+{
+  "fullName": "#33Anton Savitski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Anton-Savitski/40851",
+  "height": "6'5'",
+  "currentTeam": "Ardoi",
+  "careerHistory": [
+    {
+      "year": "09-10",
+      "team": "Santurtzi",
+      "league": "ESP-3"
+    },
+    {
+      "year": "10-11",
+      "team": "Merida",
+      "league": "ESP-4"
+    },
+    {
+      "year": "11-12",
+      "team": "Navarra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Navarra",
+      "league": "ESP-2"
+    },
+    {
+      "year": "12-13",
+      "team": "Navarra",
+      "league": "ESP-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Navarra",
+      "league": "ESP-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:11:07.862Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:11:07.862Z"
+}

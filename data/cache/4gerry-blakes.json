@@ -1,0 +1,115 @@
+{
+  "fullName": "#4Gerry Blakes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gerry-Blakes/333440",
+  "height": "6'4'",
+  "college": "College Arizona St",
+  "currentTeam": "Sabah",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "ASU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "ASU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Paralimni",
+      "league": "CYP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Acqua S.Bernardo Cantu",
+      "league": "ITA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Strasbourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Oldenburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cholet Basket",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG",
+      "league": "ALP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "MKS DG",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet Basket",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Givova Scafati",
+      "league": "ITA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "2025",
+      "team": "Hefei",
+      "league": "CHN-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sabah",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sabah",
+      "league": "AZE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:30:37.799Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:30:37.799Z"
+}

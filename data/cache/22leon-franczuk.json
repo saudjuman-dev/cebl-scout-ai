@@ -1,0 +1,44 @@
+{
+  "fullName": "#22Leon Franczuk",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leon-Franczuk/622183",
+  "height": "6'4'",
+  "currentTeam": "Polonia W-wa",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Wladyslawowo",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Polonia W-wa",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Dziki",
+      "league": "ENBL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:22:11.577Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:22:11.577Z"
+}

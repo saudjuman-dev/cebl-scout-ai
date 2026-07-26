@@ -1,6 +1,6 @@
 {
-  "fullName": "MICHAEL RUZIC",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Ruzic/640479",
+  "fullName": "Michael Ruzic",
+  "sourceUrl": "https://basketball.usbasket.com/player/Michael-Ruzic/640479",
   "height": "6'9'",
   "currentTeam": "Joventut",
   "careerHistory": [
@@ -70,10 +70,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:31:01.592Z",
+  "_lastVerified": "2026-07-26T07:21:05.507Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:31:01.592Z"
+  "cachedAt": "2026-07-26T07:21:05.507Z"
 }

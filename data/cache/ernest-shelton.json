@@ -1,0 +1,29 @@
+{
+  "fullName": "Ernest Shelton",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ernest-Shelton/708054",
+  "height": "6'5'",
+  "currentTeam": "Merrimack",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gannon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Gannon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Merrimack",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:12:42.647Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:12:42.647Z"
+}

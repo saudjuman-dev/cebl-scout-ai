@@ -1,0 +1,35 @@
+{
+  "fullName": "Quel'Ron House",
+  "sourceUrl": "https://basketball.usbasket.com/player/QuelRon-House/744677",
+  "height": "6'0'",
+  "college": "University at San Marcos",
+  "currentTeam": "SIU",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Jax State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Jax State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "SIU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "SIU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:06:40.292Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:06:40.292Z"
+}

@@ -1,9 +1,9 @@
 {
-  "fullName": "DAIVIEN WILLIAMSON",
+  "fullName": "#-Daivien Williamson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Daivien-Williamson/480550",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16 DAIVIEN WILLIAMSON basketball profile Uniform",
-  "currentTeam": "Jonava",
+  "college": "College Wake Forest",
+  "currentTeam": "Panteras",
   "careerHistory": [
     {
       "year": "18-19",
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Jonava",
       "league": "LTU-1"
+    },
+    {
+      "year": "2026",
+      "team": "Panteras",
+      "league": "MEX-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:36:17.715Z",
+  "_lastVerified": "2026-07-26T08:58:17.496Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:36:17.715Z"
+  "cachedAt": "2026-07-26T08:58:17.496Z"
 }

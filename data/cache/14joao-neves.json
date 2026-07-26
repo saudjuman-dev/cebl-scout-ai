@@ -1,0 +1,44 @@
+{
+  "fullName": "#14Joao Neves",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joao-Neves/706690",
+  "height": "6'7'",
+  "currentTeam": "Brazil",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Murcia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:19:09.300Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:19:09.300Z"
+}

@@ -1,7 +1,8 @@
 {
-  "fullName": "VINCENT AMSELLEM",
+  "fullName": "Vincent Amsellem",
   "sourceUrl": "https://basketball.eurobasket.com/player/Vincent-Amsellem/471393",
   "height": "6'4'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Vincent AmsellemBasketball Player ProfileHeight192cm",
   "currentTeam": "Limoges",
   "careerHistory": [
     {
@@ -50,10 +51,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:27:22.814Z",
+  "_lastVerified": "2026-07-26T06:49:11.136Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:27:22.814Z"
+  "cachedAt": "2026-07-26T06:49:11.136Z"
 }

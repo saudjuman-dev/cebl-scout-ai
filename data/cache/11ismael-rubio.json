@@ -1,0 +1,39 @@
+{
+  "fullName": "#11Ismael Rubio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ismael-Rubio/579276",
+  "height": "6'4'",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:07:28.572Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:07:28.572Z"
+}

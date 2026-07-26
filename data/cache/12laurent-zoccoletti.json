@@ -1,0 +1,65 @@
+{
+  "fullName": "#12Laurent Zoccoletti",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Laurent-Zoccoletti/369168",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Grasshopper",
+      "league": "SUI-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Swiss Central",
+      "league": "SUI-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Swiss Central",
+      "league": "SUI-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Swiss Central",
+      "league": "SUI-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Nyon",
+      "league": "SUI-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Nyon",
+      "league": "SUI-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Massagno",
+      "league": "SUI-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Armann",
+      "league": "ISL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Piacenza",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:05.040Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:05.040Z"
+}

@@ -1,0 +1,50 @@
+{
+  "fullName": "#77Rokas Civilis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rokas-Civilis/580969",
+  "height": "6'5'",
+  "college": "College Basket Rome",
+  "currentTeam": "Siauliai",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "College Basket-2",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "22-23",
+      "team": "College Basket-1",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "23-24",
+      "team": "JBA Gardia",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "23-24",
+      "team": "JBA",
+      "league": "FIN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "JBA",
+      "league": "FIN-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:30:25.118Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:30:25.118Z"
+}

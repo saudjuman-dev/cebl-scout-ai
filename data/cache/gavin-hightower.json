@@ -1,0 +1,20 @@
+{
+  "fullName": "Gavin Hightower",
+  "sourceUrl": "https://basketball.usbasket.com/player/Gavin-Hightower/639412",
+  "height": "6'1'",
+  "college": "University of South Florida",
+  "currentTeam": "S.Florida",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "S.Florida",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:53:59.136Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:53:59.136Z"
+}

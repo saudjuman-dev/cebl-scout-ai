@@ -1,0 +1,110 @@
+{
+  "fullName": "#4Juan Fernandez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Fernandez/113047",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Luiss Roma",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "11-12",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Cent.Latte BR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "B.Sardegna SA",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "13-14",
+      "team": "B.Sardegna SA",
+      "league": "ITA-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Obras",
+      "league": "ARG-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Cent.Latte BR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Cent.Latte BR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "C.Candelas BL",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Alma Pall. TR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Alma Pall. TR",
+      "league": "ITA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Pall.Trieste",
+      "league": "ITA-1"
+    },
+    {
+      "year": "2020",
+      "team": "Pall.Trieste",
+      "league": "ITA-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Trieste",
+      "league": "ITA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Trieste",
+      "league": "ITA-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Trieste",
+      "league": "ITA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Umana Reyer",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Umana Reyer",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Luiss Roma",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:01:02.625Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:01:02.625Z"
+}

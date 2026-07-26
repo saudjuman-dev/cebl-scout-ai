@@ -1,0 +1,60 @@
+{
+  "fullName": "#1Maurice Gordon",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maurice-Gordon/498195",
+  "height": "6'6'",
+  "college": "College Valdosta St",
+  "currentTeam": "Musel Pikes",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Gulf Coast CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Gulf Coast CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2024",
+      "team": "City Wings",
+      "league": "VIE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Musel Pikes",
+      "league": "LUX-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Musel Pikes",
+      "league": "LUX-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Esgueira",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:37:24.477Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:37:24.477Z"
+}

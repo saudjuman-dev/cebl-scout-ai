@@ -1,8 +1,8 @@
 {
-  "fullName": "LUUKAS VAARA",
+  "fullName": "Luukas Vaara",
   "sourceUrl": "https://basketball.eurobasket.com/player/Luukas-Vaara/484193",
   "height": "6'10'",
-  "college": "University Games European Championships European Championships U20 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             LUUKAS VAARA basketball profile     Uniform",
+  "college": "University National Team",
   "currentTeam": "Vilpas",
   "careerHistory": [
     {
@@ -56,12 +56,10 @@
       "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:03:16.332Z",
+  "_lastVerified": "2026-07-26T10:21:53.061Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:12:45.040Z",
-  "nationality": "Finnish",
-  "birthdate": "April 22 2001"
+  "cachedAt": "2026-07-26T10:21:53.061Z"
 }

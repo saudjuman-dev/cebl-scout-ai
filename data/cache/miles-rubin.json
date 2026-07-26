@@ -1,0 +1,30 @@
+{
+  "fullName": "Miles Rubin",
+  "sourceUrl": "https://basketball.usbasket.com/player/Miles-Rubin/685411",
+  "height": "6'10'",
+  "college": "University of Chicago",
+  "currentTeam": "Loyola, IL",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:34:32.086Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:34:32.086Z"
+}

@@ -1,0 +1,59 @@
+{
+  "fullName": "Daniel Gonzalez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Gonzalez/711332",
+  "height": "6'2'",
+  "currentTeam": "Barca",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "FC Barcelona U18 tea",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Barcelona 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Barca",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "FC Barcelona U18 tea",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Barca",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:20:24.711Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:20:24.711Z"
+}

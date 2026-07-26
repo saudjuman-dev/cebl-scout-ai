@@ -1,0 +1,25 @@
+{
+  "fullName": "Christian Bliss",
+  "sourceUrl": "https://basketball.usbasket.com/player/Christian-Bliss/744974",
+  "height": "6'4'",
+  "college": "University of Virginia",
+  "currentTeam": "Delaware",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Delaware",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Delaware",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:32:53.240Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:32:53.240Z"
+}

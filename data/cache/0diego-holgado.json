@@ -1,0 +1,54 @@
+{
+  "fullName": "#0Diego Holgado",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Diego-Holgado/664319",
+  "height": "6'3'",
+  "currentTeam": "Carolinas",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Castello",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Castello B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Carolinas",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:49:48.839Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:49:48.839Z"
+}

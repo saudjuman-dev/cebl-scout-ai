@@ -1,0 +1,29 @@
+{
+  "fullName": "Aly Tounkara",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aly-Tounkara/660080",
+  "height": "7'0'",
+  "currentTeam": "Arkansas St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Lindenwood",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arkansas St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Arkansas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:12:52.458Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:12:52.458Z"
+}

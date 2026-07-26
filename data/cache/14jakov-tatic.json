@@ -1,0 +1,49 @@
+{
+  "fullName": "#14Jakov Tatic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakov-Tatic/663636",
+  "height": "6'7'",
+  "currentTeam": "Radnicki KG",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Cacak 94",
+      "league": "SRB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cacak 94",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Borac Cacak",
+      "league": "ADR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Borac CA",
+      "league": "SRB-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Borac CA",
+      "league": "ADU19-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "ADR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:15:50.768Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:15:50.768Z"
+}

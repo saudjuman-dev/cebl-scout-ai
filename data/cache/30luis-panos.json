@@ -1,0 +1,54 @@
+{
+  "fullName": "#30Luis Panos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luis-Panos/307307",
+  "height": "6'4'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Alginet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Alginet",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Godella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Paterna",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:20.436Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:20.436Z"
+}

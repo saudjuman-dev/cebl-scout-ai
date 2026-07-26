@@ -1,8 +1,8 @@
 {
-  "fullName": "TJ SHORTS",
+  "fullName": "TJ Shorts",
   "sourceUrl": "https://basketball.eurobasket.com/player/TJ-Shorts/396063",
   "height": "5'9'",
-  "college": "University of California",
+  "college": "College UC Davis",
   "currentTeam": "Panathinaikos",
   "careerHistory": [
     {
@@ -96,10 +96,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:47:44.428Z",
+  "_lastVerified": "2026-07-26T06:35:11.027Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:47:44.428Z"
+  "cachedAt": "2026-07-26T06:35:11.027Z"
 }

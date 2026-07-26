@@ -1,0 +1,65 @@
+{
+  "fullName": "#11Nikola Markovic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikola-Markovic/448661",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Piazza Armer.",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Catanzaro",
+      "league": "ITA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Catanzaro",
+      "league": "ITA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Basket Scafati",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Puglia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Puglia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Omegna",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "NPC Rieti",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Orlandina Capo",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Ruvo di Puglia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Piazza Armer.",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:28:31.125Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:28:31.125Z"
+}

@@ -1,0 +1,28 @@
+{
+  "fullName": "#18David Pol",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Pol/723320",
+  "currentTeam": "Dos Hermanas",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Moron",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Dos Hermanas",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:51:49.404Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:51:49.404Z"
+}

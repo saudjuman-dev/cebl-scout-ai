@@ -1,0 +1,30 @@
+{
+  "fullName": "#15Jake Davis",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jake-Davis/566048",
+  "height": "6'6'",
+  "college": "University of Illinois",
+  "currentTeam": "Illinois",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Mercer",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Illinois",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:36:20.075Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:36:20.075Z"
+}

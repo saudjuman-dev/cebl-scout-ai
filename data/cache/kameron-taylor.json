@@ -1,7 +1,8 @@
 {
-  "fullName": "KAMERON TAYLOR",
+  "fullName": "Kameron Taylor",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kameron-Taylor/275168",
   "height": "6'6'",
+  "college": "College Seton Hill",
   "currentTeam": "Valencia",
   "careerHistory": [
     {
@@ -130,10 +131,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:38:33.189Z",
+  "_lastVerified": "2026-07-26T07:14:11.973Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:38:33.189Z"
+  "cachedAt": "2026-07-26T07:14:11.973Z"
 }

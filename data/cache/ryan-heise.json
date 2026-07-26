@@ -1,0 +1,24 @@
+{
+  "fullName": "Ryan Heise",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ryan-Heise/705719",
+  "height": "6'10'",
+  "currentTeam": "Winona St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Winona St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:14:24.858Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:14:24.858Z"
+}

@@ -1,5 +1,5 @@
 {
-  "fullName": "VRENZ BLEIJENBERGH",
+  "fullName": "Vrenz Bleijenbergh",
   "sourceUrl": "https://basketball.eurobasket.com/player/Vrenz-Bleijenbergh/401776",
   "height": "6'10'",
   "currentTeam": "Merkezefendi",
@@ -90,12 +90,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:16:15.727Z",
+  "_lastVerified": "2026-07-26T07:56:55.017Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:20:40.806Z",
-  "nationality": "Belgian",
-  "birthdate": "October 14 2000"
+  "cachedAt": "2026-07-26T07:56:55.017Z"
 }

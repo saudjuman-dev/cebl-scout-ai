@@ -1,0 +1,59 @@
+{
+  "fullName": "#55Haydn Ling",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Haydn-Ling/551780",
+  "height": "7'0'",
+  "currentTeam": "Surrey",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "London",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Barking Abbey.",
+      "league": "ENG-2"
+    },
+    {
+      "year": "21-22",
+      "team": "L Lions",
+      "league": "ENG-20"
+    },
+    {
+      "year": "21-22",
+      "team": "Barking Abbey.",
+      "league": "ENG-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zaragoza",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "CN Helios",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Surrey",
+      "league": "ENG-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Surrey",
+      "league": "ENG-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:29:29.731Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:29:29.731Z"
+}

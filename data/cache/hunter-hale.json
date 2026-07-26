@@ -1,7 +1,8 @@
 {
-  "fullName": "HUNTER HALE",
+  "fullName": "Hunter Hale",
   "sourceUrl": "https://basketball.eurobasket.com/player/Hunter-Hale/381599",
   "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Hunter HaleBasketball Player ProfileHeight192cm",
   "currentTeam": "Bahcesehir",
   "careerHistory": [
     {
@@ -67,18 +68,18 @@
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:58:15.168Z",
+  "_lastVerified": "2026-07-26T07:48:04.254Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:58:15.168Z"
+  "cachedAt": "2026-07-26T07:48:04.254Z"
 }

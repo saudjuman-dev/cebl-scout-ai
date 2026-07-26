@@ -1,8 +1,8 @@
 {
-  "fullName": "MARKUS HOWARD",
+  "fullName": "Markus Howard",
   "sourceUrl": "https://basketball.eurobasket.com/player/Markus-Howard/337691",
   "height": "5'11'",
-  "college": "College\nYear",
+  "college": "College Marquette",
   "currentTeam": "Baskonia",
   "careerHistory": [
     {
@@ -81,12 +81,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:51:32.502Z",
+  "_lastVerified": "2026-07-26T07:16:28.985Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:53:34.384Z",
-  "birthdate": "March 3 1999",
-  "birthCity": "Morristown"
+  "cachedAt": "2026-07-26T07:16:28.985Z"
 }

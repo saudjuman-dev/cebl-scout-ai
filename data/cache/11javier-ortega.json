@@ -1,0 +1,28 @@
+{
+  "fullName": "#11Javier Ortega",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javier-Ortega/760233",
+  "currentTeam": "SBA",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "SBA",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:52:25.200Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:52:25.200Z"
+}

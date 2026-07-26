@@ -1,0 +1,25 @@
+{
+  "fullName": "Delrecco Gillespie",
+  "sourceUrl": "https://basketball.usbasket.com/player/Delrecco-Gillespie/744680",
+  "height": "6'8'",
+  "college": "University of Houston",
+  "currentTeam": "Kent St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Kent St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kent St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:02.716Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:02.716Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "#26Noah Wittmann",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noah-Wittmann/712856",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Koeln RS",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:31.791Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:31.791Z"
+}

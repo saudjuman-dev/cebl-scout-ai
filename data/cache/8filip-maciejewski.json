@@ -1,0 +1,49 @@
+{
+  "fullName": "#8Filip Maciejewski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Filip-Maciejewski/631387",
+  "height": "6'4'",
+  "currentTeam": "Tarn.Gory",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Gliwice 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Gliwice 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Legia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Legia",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tarn.Gory",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:23:56.345Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:23:56.345Z"
+}

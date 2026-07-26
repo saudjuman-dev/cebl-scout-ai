@@ -1,8 +1,8 @@
 {
-  "fullName": "JUAN MARTIN CAJELLI",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Martin-Cajelli/533971",
+  "fullName": "Juan Martin Cajelli",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Juan-Martin-Cajelli/533971",
   "height": "6'9'",
-  "college": "University of New Orleans",
+  "college": "College Madonna",
   "currentTeam": "Salou",
   "careerHistory": [
     {
@@ -51,10 +51,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-06-07T08:24:25.734Z",
+  "_lastVerified": "2026-07-26T10:03:39.677Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:24:25.734Z"
+  "cachedAt": "2026-07-26T10:03:39.677Z"
 }

@@ -1,0 +1,49 @@
+{
+  "fullName": "Vasileios Stavrakoukas",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vasileios-Stavrakoukas/426750",
+  "height": "6'3'",
+  "currentTeam": "Lefkadas",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Dafni",
+      "league": "GRE-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Pagrati Athens",
+      "league": "GRE-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Maroussi",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Maroussi",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Psychikou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lefkadas",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:39:59.616Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:39:59.616Z"
+}

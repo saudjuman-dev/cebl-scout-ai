@@ -1,8 +1,8 @@
 {
-  "fullName": "EUGENE OMORUYI",
+  "fullName": "Eugene Omoruyi",
   "sourceUrl": "https://basketball.eurobasket.com/player/Eugene-Omoruyi/402193",
   "height": "6'6'",
-  "college": "University of Oregon",
+  "college": "College Oregon",
   "currentTeam": "Baskonia",
   "careerHistory": [
     {
@@ -93,18 +93,18 @@
     {
       "year": "25-26",
       "team": "Baskonia",
-      "league": "EUROL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Baskonia",
-      "league": "ESP-1"
+      "league": "EUROL-1"
     }
   ],
-  "_lastVerified": "2026-05-17T06:46:02.963Z",
+  "_lastVerified": "2026-07-26T07:16:55.159Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-17T06:46:02.963Z"
+  "cachedAt": "2026-07-26T07:16:55.159Z"
 }

@@ -1,0 +1,35 @@
+{
+  "fullName": "Joao Chagas",
+  "sourceUrl": "https://basketball.usbasket.com/player/Joao-Chagas/531508",
+  "height": "6'10'",
+  "college": "University of Alabama at Birmingham",
+  "currentTeam": "UAB",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Arizona W. CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Arizona W. CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "UAB",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:23.294Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:23.294Z"
+}

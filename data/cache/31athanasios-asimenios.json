@@ -1,0 +1,24 @@
+{
+  "fullName": "#31Athanasios Asimenios",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Athanasios-Asimenios/744304",
+  "height": "6'7'",
+  "currentTeam": "Greece",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Peristeri",
+      "league": "GRE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:38:51.243Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:38:51.243Z"
+}

@@ -1,7 +1,8 @@
 {
-  "fullName": "MARK HUGHES",
+  "fullName": "Mark Hughes",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mark-Hughes/371756",
   "height": "6'5'",
+  "college": "College Wright St",
   "currentTeam": "Girona",
   "careerHistory": [
     {
@@ -75,10 +76,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:16.168Z",
+  "_lastVerified": "2026-07-26T07:26:18.378Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:16.168Z"
+  "cachedAt": "2026-07-26T07:26:18.378Z"
 }

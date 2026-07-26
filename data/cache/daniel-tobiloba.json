@@ -1,0 +1,30 @@
+{
+  "fullName": "Daniel Tobiloba",
+  "sourceUrl": "https://basketball.usbasket.com/player/Daniel-Tobiloba/704315",
+  "height": "7'0'",
+  "college": "University of South Florida",
+  "currentTeam": "UC Riverside",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "S.Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "S.Florida",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UC Riverside",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:35.443Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:35.443Z"
+}

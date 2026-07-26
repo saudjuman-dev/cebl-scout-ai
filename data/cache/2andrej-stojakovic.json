@@ -1,0 +1,30 @@
+{
+  "fullName": "#2Andrej Stojakovic",
+  "sourceUrl": "https://basketball.usbasket.com/player/Andrej-Stojakovic/684904",
+  "height": "6'7'",
+  "college": "University of California",
+  "currentTeam": "Illinois",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Illinois",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:36:17.655Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:36:17.655Z"
+}

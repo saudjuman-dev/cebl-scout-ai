@@ -1,0 +1,45 @@
+{
+  "fullName": "#12Zharon Richmond",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zharon-Richmond/470277",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Bremerhaven",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "MSUB",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Bremerhaven",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:45:58.466Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:45:58.466Z"
+}

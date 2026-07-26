@@ -1,0 +1,30 @@
+{
+  "fullName": "#16Dwayne Aristode",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dwayne-Aristode/652438",
+  "height": "6'8'",
+  "college": "University of Arizona",
+  "currentTeam": "Arizona",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Joventut",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Joventut",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Arizona",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:34:55.789Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:34:55.789Z"
+}

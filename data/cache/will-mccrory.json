@@ -1,0 +1,24 @@
+{
+  "fullName": "Will McCrory",
+  "sourceUrl": "https://basketball.usbasket.com/player/Will-McCrory/755149",
+  "height": "6'3'",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:56.844Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:56.844Z"
+}

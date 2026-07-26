@@ -1,5 +1,5 @@
 {
-  "fullName": "DANIEL THEIS",
+  "fullName": "Daniel Theis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Theis/185000",
   "height": "6'9'",
   "currentTeam": "Monaco",
@@ -167,21 +167,18 @@
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "FRA-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Monaco",
-      "league": "EUROL-1"
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:03:02.855Z",
+  "_lastVerified": "2026-07-26T06:33:48.620Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:31:40.106Z",
-  "nationality": "German",
-  "birthdate": "April 4 1992",
-  "birthCity": "Salzgitter"
+  "cachedAt": "2026-07-26T06:33:48.620Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "GARLON GREEN",
+  "fullName": "Garlon Green",
   "sourceUrl": "https://basketball.eurobasket.com/player/Garlon-Green/188686",
   "height": "6'7'",
+  "college": "College TCU",
   "currentTeam": "Antibes",
   "careerHistory": [
     {
@@ -140,10 +141,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:42:00.133Z",
+  "_lastVerified": "2026-07-26T06:41:53.981Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:42:00.133Z"
+  "cachedAt": "2026-07-26T06:41:53.981Z"
 }

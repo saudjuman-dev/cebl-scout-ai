@@ -1,0 +1,50 @@
+{
+  "fullName": "#11Joshua Uduje",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joshua-Uduje/479080",
+  "height": "6'5'",
+  "college": "College SJSU",
+  "currentTeam": "Saint-Chamond",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Coastal",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Coastal",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Coastal",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "San Antonio S.",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Saint-Chamond",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:48:01.556Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:48:01.556Z"
+}

@@ -1,0 +1,55 @@
+{
+  "fullName": "Robert Carpenter",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Robert-Carpenter/523145",
+  "height": "6'7'",
+  "college": "College NM State",
+  "currentTeam": "BC Lulea",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "St.Bonaventure",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pearl River CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "MVSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "NM State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "NM State",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "NM State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "NM State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "BC Lulea",
+      "league": "SWE-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:17:23.212Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:17:23.212Z"
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "#7Ion Lupusor",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ion-Lupusor/304131",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Milano Urania",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "CestViola RC",
+      "league": "ITA-3"
+    },
+    {
+      "year": "14-15",
+      "team": "CestViola RC",
+      "league": "ITA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "CestViola RC",
+      "league": "ITA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "CestViola RC",
+      "league": "ITA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Givova Scafati",
+      "league": "ITA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Roseto Sharks",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Basket Scafati",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "BluBasket TR",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Gruppo Mascio",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "San Severo",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Urania Basket",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Sebastiani Rieti",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Milano Urania",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:24:03.948Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:24:03.948Z"
+}

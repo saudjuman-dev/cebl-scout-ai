@@ -1,0 +1,44 @@
+{
+  "fullName": "#0Patrick Lima",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Patrick-Lima/383518",
+  "height": "6'4'",
+  "currentTeam": "Caceres",
+  "careerHistory": [
+    {
+      "year": "2015",
+      "team": "Bairro",
+      "league": "ACC-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Almeria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Hita Plasticos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Andujar SKA",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2025",
+      "team": "Bairro",
+      "league": "CPV-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Caceres",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:54:03.353Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:54:03.353Z"
+}

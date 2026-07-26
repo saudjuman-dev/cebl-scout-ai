@@ -1,0 +1,25 @@
+{
+  "fullName": "Sebastian Rancik",
+  "sourceUrl": "https://basketball.usbasket.com/player/Sebastian-Rancik/582128",
+  "height": "6'11'",
+  "college": "University of Colorado",
+  "currentTeam": "Colorado",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Colorado",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Colorado",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:35:25.357Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:35:25.357Z"
+}

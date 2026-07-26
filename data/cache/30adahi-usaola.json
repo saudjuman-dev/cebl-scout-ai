@@ -1,0 +1,38 @@
+{
+  "fullName": "#30Adahi Usaola",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adahi-Usaola/695009",
+  "currentTeam": "Caceres",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "San Antonio",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Caceres",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:54:20.090Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:54:20.090Z"
+}

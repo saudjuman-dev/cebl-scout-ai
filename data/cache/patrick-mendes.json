@@ -1,7 +1,8 @@
 {
-  "fullName": "PATRICK MENDES",
+  "fullName": "Patrick Mendes",
   "sourceUrl": "https://basketball.eurobasket.com/player/Patrick-Mendes/262092",
   "height": "6'5'",
+  "college": "College BHSU",
   "currentTeam": "Andujar SKA",
   "careerHistory": [
     {
@@ -60,10 +61,10 @@
       "league": "ESP-4"
     }
   ],
-  "_lastVerified": "2026-06-07T08:20:16.085Z",
+  "_lastVerified": "2026-07-26T09:54:12.943Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:20:16.085Z"
+  "cachedAt": "2026-07-26T09:54:12.943Z"
 }

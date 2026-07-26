@@ -1,0 +1,23 @@
+{
+  "fullName": "#4Hugo Lasalvary",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Lasalvary/795835",
+  "currentTeam": "Boulazac",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Boulazac U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Boulazac",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:47:56.697Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:47:56.697Z"
+}

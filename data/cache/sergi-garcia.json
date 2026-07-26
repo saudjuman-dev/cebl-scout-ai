@@ -1,5 +1,5 @@
 {
-  "fullName": "SERGI GARCIA",
+  "fullName": "Sergi Garcia",
   "sourceUrl": "https://basketball.eurobasket.com/player/Sergi-Garcia/255774",
   "height": "6'4'",
   "currentTeam": "Burgos SP",
@@ -146,19 +146,19 @@
     },
     {
       "year": "25-26",
-      "team": "Estudiantes",
-      "league": "ESP-2"
+      "team": "Burgos SP",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Burgos SP",
-      "league": "ESP-1"
+      "team": "Estudiantes",
+      "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:10:26.624Z",
+  "_lastVerified": "2026-07-26T07:27:31.008Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:10:26.624Z"
+  "cachedAt": "2026-07-26T07:27:31.008Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "TONY SNELL",
+  "fullName": "Tony Snell",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tony-Snell/209620",
   "height": "6'6'",
-  "college": "University of New Mexico",
+  "college": "College N",
   "currentTeam": "Boulazac",
   "careerHistory": [
     {
@@ -91,10 +91,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:27:08.633Z",
+  "_lastVerified": "2026-07-26T06:47:35.175Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:27:08.633Z"
+  "cachedAt": "2026-07-26T06:47:35.175Z"
 }

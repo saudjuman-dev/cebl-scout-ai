@@ -1,7 +1,8 @@
 {
-  "fullName": "KARAHAN EFEOGLU",
+  "fullName": "Karahan Efeoglu",
   "sourceUrl": "https://basketball.eurobasket.com/player/Karahan-Efeoglu/551001",
   "height": "6'7'",
+  "college": "College NW Florida St",
   "currentTeam": "Manisa",
   "careerHistory": [
     {
@@ -65,10 +66,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:00:29.529Z",
+  "_lastVerified": "2026-07-26T07:57:55.833Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:00:29.529Z"
+  "cachedAt": "2026-07-26T07:57:55.833Z"
 }

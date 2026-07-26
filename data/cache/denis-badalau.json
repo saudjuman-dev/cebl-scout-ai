@@ -1,0 +1,49 @@
+{
+  "fullName": "Denis Badalau",
+  "sourceUrl": "https://basketball.usbasket.com/player/Denis-Badalau/636229",
+  "height": "6'8'",
+  "currentTeam": "Romania",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Milano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Milano",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Milano",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "AX Armani Exchange M",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Trento",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:00:01.599Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:00:01.599Z"
+}

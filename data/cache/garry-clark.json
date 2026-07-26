@@ -1,0 +1,45 @@
+{
+  "fullName": "Garry Clark",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Garry-Clark/562841",
+  "height": "6'9'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Garry ClarkBasketball Player ProfileHeight206cm",
+  "currentTeam": "Utah St.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "W.Texas CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Tarleton St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Tarleton St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:19:00.031Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:19:00.031Z"
+}

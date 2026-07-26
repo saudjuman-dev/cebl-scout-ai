@@ -1,0 +1,25 @@
+{
+  "fullName": "Harrison Reede",
+  "sourceUrl": "https://basketball.usbasket.com/player/Harrison-Reede/682692",
+  "height": "6'1'",
+  "college": "University of Incarnate Word",
+  "currentTeam": "UIW",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UIW",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UIW",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:53.637Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:53.637Z"
+}

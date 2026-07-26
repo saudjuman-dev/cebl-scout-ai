@@ -1,0 +1,39 @@
+{
+  "fullName": "#27Mapote Benga",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mapote-Benga/623012",
+  "height": "6'9'",
+  "currentTeam": "Strasbourg U21",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Bourg U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bourg U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Strasbourg U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:36:12.801Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:36:12.801Z"
+}

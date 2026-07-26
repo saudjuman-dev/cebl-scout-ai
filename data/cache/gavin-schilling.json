@@ -1,8 +1,8 @@
 {
-  "fullName": "GAVIN SCHILLING",
+  "fullName": "Gavin Schilling",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gavin-Schilling/217523",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16 GAVIN SCHILLING basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Gavin SchillingBasketball Player ProfileHeight206cm",
   "currentTeam": "Chemnitz",
   "careerHistory": [
     {
@@ -113,23 +113,23 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Chemnitz",
       "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Ludwigsburg",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:18:23.414Z",
+  "_lastVerified": "2026-07-26T06:23:53.566Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:18:23.414Z"
+  "cachedAt": "2026-07-26T06:23:53.566Z"
 }

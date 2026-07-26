@@ -1,0 +1,24 @@
+{
+  "fullName": "Donavin Young",
+  "sourceUrl": "https://basketball.usbasket.com/player/Donavin-Young/742130",
+  "height": "6'8'",
+  "currentTeam": "Stanford",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stanford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:32:50.727Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:32:50.727Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "Dylan Faulkner",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dylan-Faulkner/619592",
+  "height": "6'9'",
+  "currentTeam": "Samford",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Lipscomb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Lipscomb",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Samford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:52:54.510Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:52:54.510Z"
+}

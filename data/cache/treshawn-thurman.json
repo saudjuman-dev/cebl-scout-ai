@@ -1,8 +1,8 @@
 {
-  "fullName": "TRE'SHAWN THURMAN",
+  "fullName": "Tre'Shawn Thurman",
   "sourceUrl": "https://basketball.eurobasket.com/player/TreShawn-Thurman/343850",
   "height": "6'7'",
-  "college": "University of Nebraska at Omaha Sports Academy",
+  "college": "College Nevada",
   "currentTeam": "Erokspor",
   "careerHistory": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "year": "19-20",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -86,10 +86,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:56:01.481Z",
+  "_lastVerified": "2026-07-26T07:57:43.281Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:56:01.481Z"
+  "cachedAt": "2026-07-26T07:57:43.281Z"
 }

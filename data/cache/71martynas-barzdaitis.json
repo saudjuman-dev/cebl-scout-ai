@@ -1,0 +1,29 @@
+{
+  "fullName": "#71Martynas Barzdaitis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Martynas-Barzdaitis/712496",
+  "height": "5'9'",
+  "currentTeam": "Perkunas",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Perkunas",
+      "league": "LTU-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Perkunas",
+      "league": "LTU-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:34:11.950Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:34:11.950Z"
+}

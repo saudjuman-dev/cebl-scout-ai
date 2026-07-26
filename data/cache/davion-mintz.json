@@ -1,8 +1,8 @@
 {
-  "fullName": "DAVION MINTZ",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Davion-Mintz/402101",
+  "fullName": "Davion Mintz",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Davion-Mintz/402101",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 DAVION MINTZ basketball profile Uniform No",
+  "college": "College Kentucky",
   "currentTeam": "Wuerzburg",
   "careerHistory": [
     {
@@ -78,12 +78,12 @@
     {
       "year": "25-26",
       "team": "Wuerzburg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Wuerzburg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -91,10 +91,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:15:39.903Z",
+  "_lastVerified": "2026-07-26T06:17:25.807Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:15:39.903Z"
+  "cachedAt": "2026-07-26T06:17:25.807Z"
 }

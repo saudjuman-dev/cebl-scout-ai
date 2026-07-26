@@ -1,0 +1,29 @@
+{
+  "fullName": "#10Noah Issa-Pavy",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noah-Issa-Pavy/723227",
+  "height": "6'2'",
+  "currentTeam": "Nancy U21",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Le Mans U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Nancy U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Nancy U21",
+      "league": "FRA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:48:31.379Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:48:31.379Z"
+}

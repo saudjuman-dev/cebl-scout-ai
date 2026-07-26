@@ -1,0 +1,54 @@
+{
+  "fullName": "#7Kouassi Konan",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kouassi-Konan/116630",
+  "height": "6'8'",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Sedis",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:10:41.939Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:10:41.939Z"
+}

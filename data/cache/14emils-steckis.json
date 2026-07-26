@@ -1,0 +1,34 @@
+{
+  "fullName": "#14Emils Steckis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emils-Steckis/749893",
+  "height": "6'10'",
+  "currentTeam": "Zalgiris",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Liepaja/LSSS",
+      "league": "LAT-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ekselences",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Liepaja",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:33:24.002Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:33:24.002Z"
+}

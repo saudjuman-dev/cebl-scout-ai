@@ -1,0 +1,105 @@
+{
+  "fullName": "#4William Lee",
+  "sourceUrl": "https://basketball.eurobasket.com/player/William-Lee/342380",
+  "height": "6'9'",
+  "college": "College UAB",
+  "currentTeam": "Sheffield S.",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Dynamic VP",
+      "league": "ADR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Iowa Wolves",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "2020",
+      "team": "Leicester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "20-21",
+      "team": "Leicester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Manch.G.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Manch.G.",
+      "league": "ENG-20"
+    },
+    {
+      "year": "23-24",
+      "team": "Manch.G.",
+      "league": "ENG-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "2025",
+      "team": "Sheffield",
+      "league": "TBT"
+    },
+    {
+      "year": "2025",
+      "team": "Sheffield",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Sheffield S.",
+      "league": "ENG-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Sheffield S.",
+      "league": "ENG-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:57:31.207Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:57:31.207Z"
+}

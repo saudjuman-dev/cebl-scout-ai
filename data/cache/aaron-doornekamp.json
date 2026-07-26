@@ -1,7 +1,8 @@
 {
-  "fullName": "AARON DOORNEKAMP",
+  "fullName": "Aaron Doornekamp",
   "sourceUrl": "https://basketball.eurobasket.com/player/Aaron-Doornekamp/33681",
   "height": "6'7'",
+  "college": "College Carleton",
   "currentTeam": "Tenerife",
   "careerHistory": [
     {
@@ -155,10 +156,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:03.801Z",
+  "_lastVerified": "2026-07-26T07:17:56.711Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:03.801Z"
+  "cachedAt": "2026-07-26T07:17:56.711Z"
 }

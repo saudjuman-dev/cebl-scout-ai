@@ -1,0 +1,55 @@
+{
+  "fullName": "#7Silas Oriane",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Silas-Oriane/662035",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Tuebingen",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Bears Academy",
+      "league": "DEN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bakken Bears",
+      "league": "DEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bakken",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "BAC",
+      "league": "DEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bakken",
+      "league": "DEN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:56:10.111Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:56:10.111Z"
+}

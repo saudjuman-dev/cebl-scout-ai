@@ -1,0 +1,45 @@
+{
+  "fullName": "#8Lennart Schultz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lennart-Schultz/531721",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Goettingen",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Sartorius",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Coburg",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "ASC 46",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "ASC 46",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Goettingen",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Goettingen",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:51:20.716Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:51:20.716Z"
+}

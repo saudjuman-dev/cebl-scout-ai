@@ -1,0 +1,24 @@
+{
+  "fullName": "Austin Maurer",
+  "sourceUrl": "https://basketball.usbasket.com/player/Austin-Maurer/639391",
+  "height": "7'0'",
+  "currentTeam": "Seattle",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "GCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Seattle",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:33:00.831Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:33:00.831Z"
+}

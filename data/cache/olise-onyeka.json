@@ -1,0 +1,45 @@
+{
+  "fullName": "Olise Onyeka",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Olise-Onyeka/681826",
+  "height": "6'8'",
+  "college": "College Eastern",
+  "currentTeam": "Eastern",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Eastern",
+      "league": "NCAA3"
+    },
+    {
+      "year": "23-24",
+      "team": "Eastern",
+      "league": "NAIA"
+    },
+    {
+      "year": "23-24",
+      "team": "Eastern",
+      "league": "NCAA3"
+    },
+    {
+      "year": "24-25",
+      "team": "Eastern",
+      "league": "NCAA3"
+    },
+    {
+      "year": "25-26",
+      "team": "Eastern",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Eastern",
+      "league": "NCAA3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:37:19.488Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:37:19.488Z"
+}

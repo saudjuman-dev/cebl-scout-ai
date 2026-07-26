@@ -1,0 +1,70 @@
+{
+  "fullName": "#1Kevin Hunt Jr.",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Hunt-Jr/458627",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Paderborn",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Cent.Florida",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "McNeese St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "McNeese St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Denver",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Little Rock L.",
+      "league": "TBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Furstenfeld",
+      "league": "AUT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Yambol",
+      "league": "BUL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:59:54.454Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:59:54.454Z"
+}

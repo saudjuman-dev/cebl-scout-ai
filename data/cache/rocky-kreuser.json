@@ -1,7 +1,8 @@
 {
-  "fullName": "ROCKY KREUSER",
+  "fullName": "Rocky Kreuser",
   "sourceUrl": "https://basketball.eurobasket.com/player/Rocky-Kreuser/450318",
   "height": "6'9'",
+  "college": "College NDSU",
   "currentTeam": "Panionios",
   "careerHistory": [
     {
@@ -77,18 +78,18 @@
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "Eurocup-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:51:13.397Z",
+  "_lastVerified": "2026-07-26T07:36:54.283Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:51:13.397Z"
+  "cachedAt": "2026-07-26T07:36:54.283Z"
 }

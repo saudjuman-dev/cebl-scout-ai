@@ -1,0 +1,29 @@
+{
+  "fullName": "#27Dario Denjalic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dario-Denjalic/670587",
+  "height": "6'7'",
+  "currentTeam": "Horsens IC",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "HIC",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Horsens IC",
+      "league": "DEN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Horsens IC",
+      "league": "DEN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:56:19.425Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:56:19.425Z"
+}

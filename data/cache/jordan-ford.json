@@ -1,8 +1,8 @@
 {
-  "fullName": "JORDAN FORD",
+  "fullName": "Jordan Ford",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Ford/337676",
   "height": "6'1'",
-  "college": "College of California",
+  "college": "University Games European Championships Olympic Games European Championships U16 Jordan FordBasketball Player ProfileHeight185cm",
   "currentTeam": "Trapani",
   "careerHistory": [
     {
@@ -92,6 +92,11 @@
     },
     {
       "year": "25-26",
+      "team": "Bahcesehir",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
       "team": "Trapani",
       "league": "BCL-1"
     },
@@ -103,18 +108,13 @@
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Bahcesehir",
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:36:13.378Z",
+  "_lastVerified": "2026-07-26T06:59:45.723Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:36:13.378Z"
+  "cachedAt": "2026-07-26T06:59:45.723Z"
 }

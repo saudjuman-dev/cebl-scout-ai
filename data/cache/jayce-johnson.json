@@ -1,8 +1,8 @@
 {
-  "fullName": "JAYCE JOHNSON",
+  "fullName": "Jayce Johnson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jayce-Johnson/402324",
   "height": "7'0'",
-  "college": "University of Utah",
+  "college": "College Marquette",
   "currentTeam": "Manisa",
   "careerHistory": [
     {
@@ -91,10 +91,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:00:19.780Z",
+  "_lastVerified": "2026-07-26T06:32:09.611Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:00:19.780Z"
+  "cachedAt": "2026-07-26T06:32:09.611Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "CLAUDELL HARRIS JR.",
+  "fullName": "Claudell Harris Jr.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Claudell-Harris-Jr/608377",
   "height": "6'4'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Claudell Harris Jr",
   "currentTeam": "Promitheas",
   "careerHistory": [
     {
@@ -31,6 +32,11 @@
     },
     {
       "year": "25-26",
+      "team": "Vilpas",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
       "team": "Promitheas",
       "league": "BCL-1"
     },
@@ -38,17 +44,12 @@
       "year": "25-26",
       "team": "Promitheas",
       "league": "GRE-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Vilpas",
-      "league": "FIN-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:50:09.936Z",
+  "_lastVerified": "2026-07-26T07:51:05.461Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:50:09.936Z"
+  "cachedAt": "2026-07-26T07:51:05.461Z"
 }

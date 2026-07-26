@@ -1,0 +1,29 @@
+{
+  "fullName": "#7Pablo Gallego",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Gallego/661873",
+  "height": "6'4'",
+  "currentTeam": "Huesca",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Huesca",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:45:27.005Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:45:27.005Z"
+}

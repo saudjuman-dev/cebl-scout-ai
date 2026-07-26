@@ -1,8 +1,8 @@
 {
-  "fullName": "JAMES PALMER JR.",
-  "sourceUrl": "https://basketball.eurobasket.com/player/James-Palmer-Jr/335984",
+  "fullName": "James Palmer Jr.",
+  "sourceUrl": "https://basketball.asia-basket.com/player/James-Palmer-Jr/335984",
   "height": "6'6'",
-  "college": "College High School 2014",
+  "college": "College Nebraska",
   "currentTeam": "Galatasaray",
   "careerHistory": [
     {
@@ -106,10 +106,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:58:20.373Z",
+  "_lastVerified": "2026-07-26T08:06:53.357Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:58:20.373Z"
+  "cachedAt": "2026-07-26T08:06:53.357Z"
 }

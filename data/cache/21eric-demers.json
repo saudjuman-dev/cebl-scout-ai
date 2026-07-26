@@ -1,0 +1,90 @@
+{
+  "fullName": "#21Eric Demers",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Eric-Demers/388757",
+  "height": "6'1'",
+  "college": "College Gordon",
+  "currentTeam": "Urunday",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Gordon",
+      "league": "NCAA3"
+    },
+    {
+      "year": "16-17",
+      "team": "Gordon",
+      "league": "NCAA3"
+    },
+    {
+      "year": "17-18",
+      "team": "Gordon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gordon",
+      "league": "NCAA3"
+    },
+    {
+      "year": "18-19",
+      "team": "Gordon",
+      "league": "NCAA3"
+    },
+    {
+      "year": "19-20",
+      "team": "Gordon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gordon",
+      "league": "NCAA3"
+    },
+    {
+      "year": "2021",
+      "team": "San Antonio S.",
+      "league": "NBA"
+    },
+    {
+      "year": "2021",
+      "team": "San Antonio S.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Maine C.",
+      "league": "G League"
+    },
+    {
+      "year": "2022",
+      "team": "WAD3",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Maine C.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Menorca",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Valladolid",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Urunday",
+      "league": "URU-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:44:44.223Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:44:44.223Z"
+}

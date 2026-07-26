@@ -1,0 +1,50 @@
+{
+  "fullName": "Jalen Pitre",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jalen-Pitre/526775",
+  "height": "6'8'",
+  "college": "University of Buffalo",
+  "currentTeam": "Tennessee St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Pepperdine",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Pepperdine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pepperdine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pepperdine",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tennessee St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Tennessee St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:51.181Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:51.181Z"
+}

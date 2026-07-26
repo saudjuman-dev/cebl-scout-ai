@@ -1,0 +1,50 @@
+{
+  "fullName": "#19DouDou Gueye",
+  "sourceUrl": "https://basketball.eurobasket.com/player/DouDou-Gueye/295661",
+  "height": "6'9'",
+  "college": "College Louisiana",
+  "currentTeam": "Ponferrada",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "W.Nebraska",
+      "league": "JUCO"
+    },
+    {
+      "year": "14-15",
+      "team": "SC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "SC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Ball St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Palanga",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Pays Salonais",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:47:46.210Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:47:46.210Z"
+}

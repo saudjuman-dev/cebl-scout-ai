@@ -1,0 +1,89 @@
+{
+  "fullName": "Tarik Sezgun",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tarik-Sezgun/435809",
+  "height": "7'0'",
+  "currentTeam": "Cayirova",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Anadolu Efes",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Nadir Gold IB",
+      "league": "TUR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Final Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Bursaspor",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bursaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bursaspor",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bursaspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Final Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Samsunspor",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Darussafaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cayirova",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:33:43.355Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:33:43.355Z"
+}

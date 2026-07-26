@@ -1,8 +1,8 @@
 {
-  "fullName": "OTIS LIVINGSTON II",
+  "fullName": "Otis Livingston II",
   "sourceUrl": "https://basketball.eurobasket.com/player/Otis-Livingston-II/366933",
   "height": "5'11'",
-  "college": "University of Idaho",
+  "college": "College GMU",
   "currentTeam": "Girona",
   "careerHistory": [
     {
@@ -96,10 +96,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:00.853Z",
+  "_lastVerified": "2026-07-26T07:26:13.250Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:00.853Z"
+  "cachedAt": "2026-07-26T07:26:13.250Z"
 }

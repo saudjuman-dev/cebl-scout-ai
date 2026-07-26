@@ -1,0 +1,39 @@
+{
+  "fullName": "#27Nateo Des Bordes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nateo-Des-Bordes/724841",
+  "height": "6'5'",
+  "currentTeam": "France",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "PFYM INSEP Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:09:56.839Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:09:56.839Z"
+}

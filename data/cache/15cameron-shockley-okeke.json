@@ -1,0 +1,60 @@
+{
+  "fullName": "#15Cameron Shockley-Okeke",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Shockley-Okeke/518256",
+  "height": "6'6'",
+  "college": "College Howard",
+  "currentTeam": "Ponferrada",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Columbia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Columbia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Columbia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Embry Riddle",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Howard",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Howard",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Howard",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sol Girones",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ponferrada",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:58:59.797Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:58:59.797Z"
+}

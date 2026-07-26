@@ -1,0 +1,50 @@
+{
+  "fullName": "#12Andrea Bargnesi",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andrea-Bargnesi/425462",
+  "height": "6'0'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Montecatini",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Firenze",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Sangiorgese",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Sangiorgese",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Libertas Livorno",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Akern Libertas",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Akern Libertas",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Montecatini",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:22:33.327Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:22:33.327Z"
+}

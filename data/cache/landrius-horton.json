@@ -1,7 +1,8 @@
 {
-  "fullName": "LANDRIUS HORTON",
+  "fullName": "Landrius Horton",
   "sourceUrl": "https://basketball.eurobasket.com/player/Landrius-Horton/491853",
   "height": "6'4'",
+  "college": "College Columbus St",
   "currentTeam": "Dziki",
   "careerHistory": [
     {
@@ -90,10 +91,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:13:47.215Z",
+  "_lastVerified": "2026-07-26T08:21:48.607Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:13:47.215Z"
+  "cachedAt": "2026-07-26T08:21:48.607Z"
 }

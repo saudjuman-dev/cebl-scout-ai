@@ -1,0 +1,64 @@
+{
+  "fullName": "#12Dimitris Legkikas",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitris-Legkikas/339525",
+  "height": "6'10'",
+  "currentTeam": "Lefkadas",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Ilysiakos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Charilaos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Esperos L.",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lefkadas",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lefkadas",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:46:57.858Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:46:57.858Z"
+}

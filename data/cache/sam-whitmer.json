@@ -1,0 +1,34 @@
+{
+  "fullName": "Sam Whitmer",
+  "sourceUrl": "https://basketball.usbasket.com/player/Sam-Whitmer/616396",
+  "height": "6'5'",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Delta St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:49.518Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:49.518Z"
+}

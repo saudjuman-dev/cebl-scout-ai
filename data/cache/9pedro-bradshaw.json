@@ -1,0 +1,95 @@
+{
+  "fullName": "#9Pedro Bradshaw",
+  "sourceUrl": "https://basketball.usbasket.com/player/Pedro-Bradshaw/421181",
+  "height": "6'7'",
+  "college": "College Bellarmine",
+  "currentTeam": "USA",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "EKU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Bellarmine",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Bellarmine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fort Wayne MA",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Sioux Falls S.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Iowa Wolves",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Fort Wayne MA",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Indiana MA",
+      "league": "G League"
+    },
+    {
+      "year": "2024",
+      "team": "Charlotte H.",
+      "league": "NBA"
+    },
+    {
+      "year": "2024",
+      "team": "Charlotte H.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Cairns Taipans",
+      "league": "AUS-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rostock",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "Eberlein Drive",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "SLC Stars",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Maine Celtics",
+      "league": "G League"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:27:55.613Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:27:55.613Z"
+}

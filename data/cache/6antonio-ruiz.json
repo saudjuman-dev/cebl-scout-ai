@@ -1,0 +1,54 @@
+{
+  "fullName": "#6Antonio Ruiz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Antonio-Ruiz/621953",
+  "height": "6'8'",
+  "currentTeam": "Prat",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Sant Adria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Sant Adria",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Badalones",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "SESE",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Mataro Parc",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Mataro Parc",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Mataro Parc",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Prat",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:15:17.290Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:15:17.290Z"
+}

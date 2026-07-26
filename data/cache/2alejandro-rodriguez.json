@@ -1,0 +1,74 @@
+{
+  "fullName": "#2Alejandro Rodriguez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alejandro-Rodriguez/418390",
+  "height": "6'2'",
+  "currentTeam": "LBC Cocinas",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Barna",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "U.Fin. Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Oviedo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Gijon T.Auto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Gijon Circulo",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Oviedo 2",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Chantada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "LBC Cocinas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "LBC Cocinas",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:07:04.864Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:07:04.864Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "Jelani Hamilton",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jelani-Hamilton/684888",
+  "height": "6'5'",
+  "currentTeam": "Georgia St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Georgia St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Georgia St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:18:15.787Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:18:15.787Z"
+}

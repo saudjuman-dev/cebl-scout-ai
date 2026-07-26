@@ -1,5 +1,5 @@
 {
-  "fullName": "IGNACIO ROSA",
+  "fullName": "Ignacio Rosa",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ignacio-Rosa/363920",
   "height": "6'9'",
   "currentTeam": "Gipuzkoa",
@@ -76,8 +76,8 @@
     },
     {
       "year": "25-26",
-      "team": "Castello",
-      "league": "ESP-3"
+      "team": "Gipuzkoa",
+      "league": "ESP-2"
     },
     {
       "year": "25-26",
@@ -86,14 +86,14 @@
     },
     {
       "year": "25-26",
-      "team": "Gipuzkoa",
-      "league": "ESP-2"
+      "team": "Castello",
+      "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-10T06:42:55.115Z",
+  "_lastVerified": "2026-07-26T09:48:43.972Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:42:55.115Z"
+  "cachedAt": "2026-07-26T09:48:43.972Z"
 }

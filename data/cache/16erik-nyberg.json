@@ -1,0 +1,70 @@
+{
+  "fullName": "#16Erik Nyberg",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Erik-Nyberg/263981",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Clarendon CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Clarendon CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Itzehoe",
+      "league": "GER-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Itzehoe",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:04:37.717Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:04:37.717Z"
+}

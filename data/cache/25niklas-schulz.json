@@ -1,0 +1,30 @@
+{
+  "fullName": "#25Niklas Schulz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Niklas-Schulz/641111",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Aschersleben",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Jena",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Aschersleben",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:59:17.254Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:59:17.254Z"
+}

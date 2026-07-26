@@ -1,0 +1,110 @@
+{
+  "fullName": "#10Yannick Wetzell",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Yannick-Wetzell/378703",
+  "height": "6'9'",
+  "college": "College SDSU",
+  "currentTeam": "Akita NH",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "St.Mary's, TX",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "St.Mary's, TX",
+      "league": "NCAA2"
+    },
+    {
+      "year": "16-17",
+      "team": "St.Mary's, TX",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "St.Mary's, TX",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Vanderbilt",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "SDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "SE Melbourne",
+      "league": "AUS-1"
+    },
+    {
+      "year": "21-22",
+      "team": "NZL Breakers",
+      "league": "AUS-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bitci Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
+    },
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Akita NH",
+      "league": "JPN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:13:34.871Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:13:34.871Z"
+}

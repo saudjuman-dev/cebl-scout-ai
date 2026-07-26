@@ -1,0 +1,80 @@
+{
+  "fullName": "#1Pavel Savkov",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pavel-Savkov/479176",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U20 World Cup U19 World Cup U17 European Championships U16",
+  "currentTeam": "MBA Moscow",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Baskonia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Fundacion 5 11",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Baskonia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraurgi SB",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bitci Baskonia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Baskonia B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Birmingham S.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Guuk Gipuzkoa",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cazoo Bask.",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cazoo Bask.",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "MBA Moscow",
+      "league": "VTB-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:17:18.315Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:17:18.315Z"
+}

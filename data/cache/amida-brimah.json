@@ -1,28 +1,28 @@
 {
-  "fullName": "AMIDA BRIMAH",
+  "fullName": "Amida Brimah",
   "sourceUrl": "https://basketball.eurobasket.com/player/Amida-Brimah/302951",
   "height": "7'0'",
-  "college": "University of Connecticut",
+  "college": "College UConn",
   "currentTeam": "Granada",
   "careerHistory": [
     {
       "year": "13-14",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
       "year": "14-15",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
       "year": "15-16",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
       "year": "16-17",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
@@ -132,19 +132,19 @@
     },
     {
       "year": "25-26",
-      "team": "Estudiantes",
-      "league": "ESP-2"
+      "team": "Granada",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Granada",
-      "league": "ESP-1"
+      "team": "Estudiantes",
+      "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T07:45:18.555Z",
+  "_lastVerified": "2026-07-26T07:15:00.262Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:45:18.555Z"
+  "cachedAt": "2026-07-26T07:15:00.262Z"
 }

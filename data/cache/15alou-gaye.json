@@ -1,0 +1,24 @@
+{
+  "fullName": "#15Alou Gaye",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alou-Gaye/804659",
+  "height": "6'10'",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Salesianos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valle de Egues",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:10:10.707Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:10:10.707Z"
+}

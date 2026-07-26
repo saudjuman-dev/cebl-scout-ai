@@ -1,0 +1,50 @@
+{
+  "fullName": "#33Kingsley Obiekwe",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kingsley-Obiekwe/255319",
+  "height": "6'5'",
+  "college": "College NE Oklah",
+  "currentTeam": "Benicarlo",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Torrejon",
+      "league": "ESP-4"
+    },
+    {
+      "year": "14-15",
+      "team": "Alcazar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "NE Oklah.A&M",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "HLA Alicante",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "HLA Alicante",
+      "league": "ESP-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Benicarlo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:59:52.140Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:59:52.140Z"
+}

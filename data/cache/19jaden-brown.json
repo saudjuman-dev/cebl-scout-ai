@@ -1,0 +1,30 @@
+{
+  "fullName": "#19Jaden Brown",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaden-Brown/685670",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Crailsheim",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Wuerzburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:49:55.917Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:49:55.917Z"
+}

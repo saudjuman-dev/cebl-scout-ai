@@ -1,0 +1,29 @@
+{
+  "fullName": "#3Juan Valero",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juan-Valero/720321",
+  "height": "6'8'",
+  "currentTeam": "Torrent",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Jaen CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Jaen CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Torrent",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:08:23.481Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:08:23.481Z"
+}

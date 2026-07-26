@@ -1,0 +1,39 @@
+{
+  "fullName": "#11Urko Madariaga",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Urko-Madariaga/669650",
+  "height": "6'7'",
+  "currentTeam": "Bilbao U22",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Santurtzi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bilbao",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bilbao U22",
+      "league": "ESP-5"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:22:18.429Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:22:18.429Z"
+}

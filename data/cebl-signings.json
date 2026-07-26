@@ -1,9 +1,87 @@
 {
-  "_lastScraped": "2026-07-19T10:33:51.307Z",
+  "_lastScraped": "2026-07-26T10:22:56.660Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Makai Ashton-Langford released from Club",
+      "team": "Edmonton Stingers",
+      "date": "2026-07-23",
+      "type": "Makai Ashton-Langford released from Club"
+    },
+    {
+      "player": "Kendrick Ray",
+      "team": "Edmonton Stingers",
+      "date": "2026-07-23",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jordan Minor",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-23",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Bronson Chambers placed on Practice Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-22",
+      "type": "Bronson Chambers placed on Practice Roster"
+    },
+    {
+      "player": "Michael Foster Jr.",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-07-22",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jack Vandenberg released from Club",
+      "team": "Vancouver Bandits",
+      "date": "2026-07-21",
+      "type": "Jack Vandenberg released from Club"
+    },
+    {
+      "player": "Demari Monsanto",
+      "team": "Saskatoon Mamba",
+      "date": "2026-07-21",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Roddy Peters Jr.",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-21",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Jamal Fuller placed on Club's Injured List (Upper Body)",
+      "team": "Saskatoon Mamba",
+      "date": "2026-07-21",
+      "type": "Jamal Fuller placed on Club's Injured List (Upper Body)"
+    },
+    {
+      "player": "Makai Ashton-Langford placed on Club's Injured List (Upper Body)",
+      "team": "Edmonton Stingers",
+      "date": "2026-07-21",
+      "type": "Makai Ashton-Langford placed on Club's Injured List (Upper Body)"
+    },
+    {
+      "player": "Tevian Jones",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-21",
+      "type": "Standard Player Contract"
+    },
+    {
+      "player": "Yor Anei released for Club",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-20",
+      "type": "Yor Anei released for Club"
+    },
+    {
+      "player": "Jalen Shirley released from Club",
+      "team": "Vancouver Bandits",
+      "date": "2026-07-19",
+      "type": "Jalen Shirley released from Club"
+    },
     {
       "player": "James Karnik",
       "team": "Vancouver Bandits",

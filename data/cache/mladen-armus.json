@@ -1,7 +1,8 @@
 {
-  "fullName": "MLADEN ARMUS",
+  "fullName": "Mladen Armus",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mladen-Armus/332730",
   "height": "6'10'",
+  "college": "College Boise St",
   "currentTeam": "Palencia",
   "careerHistory": [
     {
@@ -50,10 +51,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:51:02.495Z",
+  "_lastVerified": "2026-07-26T09:03:26.220Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:51:02.495Z"
+  "cachedAt": "2026-07-26T09:03:26.220Z"
 }

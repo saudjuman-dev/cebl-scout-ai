@@ -1,0 +1,25 @@
+{
+  "fullName": "Jurian Dixon",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jurian-Dixon/706389",
+  "height": "6'4'",
+  "college": "University of California",
+  "currentTeam": "UC Irvine",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UC Irvine",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:36:02.689Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:36:02.689Z"
+}

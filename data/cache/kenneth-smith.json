@@ -1,7 +1,8 @@
 {
-  "fullName": "KENNETH SMITH",
+  "fullName": "Kenneth Smith",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kenneth-Smith/233701",
   "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Kenneth SmithBasketball Player ProfileHeight191cm",
   "currentTeam": "Merkezefendi",
   "careerHistory": [
     {
@@ -46,12 +47,12 @@
     },
     {
       "year": "17-18",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
       "year": "18-19",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -170,10 +171,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:23:46.528Z",
+  "_lastVerified": "2026-07-26T08:05:58.439Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:23:46.528Z"
+  "cachedAt": "2026-07-26T08:05:58.439Z"
 }

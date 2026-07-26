@@ -1,5 +1,5 @@
 {
-  "fullName": "PAULIUS DANUSEVICIUS",
+  "fullName": "Paulius Danusevicius",
   "sourceUrl": "https://basketball.eurobasket.com/player/Paulius-Danusevicius/480812",
   "height": "6'9'",
   "college": "University National Team",
@@ -93,18 +93,18 @@
     {
       "year": "25-26",
       "team": "Lietkabelis",
-      "league": "Eurocup-1"
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
       "team": "Lietkabelis",
-      "league": "LTU-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:21:57.006Z",
+  "_lastVerified": "2026-07-26T07:48:58.294Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:21:57.006Z"
+  "cachedAt": "2026-07-26T07:48:58.294Z"
 }

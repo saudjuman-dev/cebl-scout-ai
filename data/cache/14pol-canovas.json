@@ -1,0 +1,59 @@
+{
+  "fullName": "#14Pol Canovas",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pol-Canovas/388032",
+  "height": "6'8'",
+  "currentTeam": "Kufstein",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Barna",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Feimatue Mat.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Mataro Germ.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "UE Mataro",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "UE Mataro",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Kufstein",
+      "league": "AUT-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:02:41.515Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:02:41.515Z"
+}

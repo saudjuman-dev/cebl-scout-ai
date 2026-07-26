@@ -1,7 +1,8 @@
 {
-  "fullName": "ZANE WATERMAN",
+  "fullName": "Zane Waterman",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zane-Waterman/335953",
   "height": "6'8'",
+  "college": "College Manhattan",
   "currentTeam": "Neptunas",
   "careerHistory": [
     {
@@ -107,18 +108,18 @@
     {
       "year": "25-26",
       "team": "Neptunas",
-      "league": "Eurocup-1"
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
       "team": "Neptunas",
-      "league": "LTU-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-24T07:00:08.540Z",
+  "_lastVerified": "2026-07-26T08:14:36.884Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-24T07:00:08.540Z"
+  "cachedAt": "2026-07-26T08:14:36.884Z"
 }

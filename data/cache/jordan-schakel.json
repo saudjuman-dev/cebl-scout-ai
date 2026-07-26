@@ -1,8 +1,8 @@
 {
-  "fullName": "JORDAN SCHAKEL",
+  "fullName": "Jordan Schakel",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Schakel/420971",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JORDAN SCHAKEL basketball profile       Height",
+  "college": "University Games European Championships Olympic Games European Championships U16 Jordan SchakelBasketball Player ProfileHeight198cm",
   "currentTeam": "Chemnitz",
   "careerHistory": [
     {
@@ -87,13 +87,13 @@
     },
     {
       "year": "25-26",
-      "team": "Oostende",
-      "league": "BCL-1"
+      "team": "Chemnitz",
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
-      "team": "Chemnitz",
-      "league": "Eurocup-1"
+      "team": "Oostende",
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
@@ -106,12 +106,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:33:31.635Z",
+  "_lastVerified": "2026-07-26T06:28:44.466Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:27:09.263Z",
-  "birthdate": "June 13 1998",
-  "birthCity": "Torrance"
+  "cachedAt": "2026-07-26T06:28:44.466Z"
 }

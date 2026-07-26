@@ -1,5 +1,5 @@
 {
-  "fullName": "JACEK RUTECKI",
+  "fullName": "Jacek Rutecki",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jacek-Rutecki/642093",
   "height": "6'4'",
   "currentTeam": "Stal",
@@ -56,21 +56,19 @@
     },
     {
       "year": "25-26",
-      "team": "Stal",
-      "league": "POL-1"
+      "team": "Pleszew",
+      "league": "POL-3"
     },
     {
       "year": "25-26",
-      "team": "Pleszew",
-      "league": "POL-3"
+      "team": "Stal",
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:57:07.293Z",
+  "_lastVerified": "2026-07-26T09:03:08.662Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:44:47.510Z",
-  "nationality": "Polish",
-  "birthdate": "November 12 2006"
+  "cachedAt": "2026-07-26T09:03:08.662Z"
 }

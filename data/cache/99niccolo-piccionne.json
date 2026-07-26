@@ -1,0 +1,35 @@
+{
+  "fullName": "#99Niccolo Piccionne",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Niccolo-Piccionne/654466",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Lumezzane",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ancona",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Cividale",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Lumezzane",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:16:32.190Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:16:32.190Z"
+}

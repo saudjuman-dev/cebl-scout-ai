@@ -1,0 +1,30 @@
+{
+  "fullName": "Ethan Copeland",
+  "sourceUrl": "https://basketball.usbasket.com/player/Ethan-Copeland/740071",
+  "height": "6'2'",
+  "college": "University Eastern",
+  "currentTeam": "Stetson",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "USU Easter",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Salt Lake CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Stetson",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:53:31.737Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:53:31.737Z"
+}

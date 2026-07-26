@@ -1,0 +1,115 @@
+{
+  "fullName": "#4Skylar Mays",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Skylar-Mays/337704",
+  "height": "6'4'",
+  "college": "College LSU",
+  "currentTeam": "Buducnost",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "LSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "LSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "LSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "LSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "2021",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Capitanes M.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Delaware Blue",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Portland TB",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "LA Lakers",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Portland TB",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fenerbahce",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Iowa Wolves",
+      "league": "G League"
+    },
+    {
+      "year": "2025",
+      "team": "Buducnost",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Buducnost",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Buducnost",
+      "league": "ADR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:02:52.750Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:02:52.750Z"
+}

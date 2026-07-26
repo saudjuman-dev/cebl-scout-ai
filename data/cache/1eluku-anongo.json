@@ -1,0 +1,49 @@
+{
+  "fullName": "#1Eluku A'Nongo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eluku-ANongo/589410",
+  "height": "6'9'",
+  "currentTeam": "Clavijo",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Obradoiro",
+      "league": "ESP-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Obradoiro S.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CD Leonesa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Clavijo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:55:33.393Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:55:33.393Z"
+}

@@ -1,0 +1,24 @@
+{
+  "fullName": "Evan Stinson",
+  "sourceUrl": "https://basketball.usbasket.com/player/Evan-Stinson/741829",
+  "height": "6'7'",
+  "currentTeam": "Stanford",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Stanford",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Stanford",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:32:43.304Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:32:43.304Z"
+}

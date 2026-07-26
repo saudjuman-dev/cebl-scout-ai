@@ -1,8 +1,8 @@
 {
-  "fullName": "MATT MORGAN",
+  "fullName": "Matt Morgan",
   "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Morgan/368938",
   "height": "6'2'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 MATT MORGAN basketball profile Uniform No",
+  "college": "College Cornell",
   "currentTeam": "Virtus BO",
   "careerHistory": [
     {
@@ -113,12 +113,12 @@
     {
       "year": "25-26",
       "team": "Virtus BO",
-      "league": "ITA-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Virtus BO",
-      "league": "EUROL-1"
+      "league": "ITA-20"
     },
     {
       "year": "25-26",
@@ -126,10 +126,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:29:40.845Z",
+  "_lastVerified": "2026-07-26T06:58:15.695Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:29:40.845Z"
+  "cachedAt": "2026-07-26T06:58:15.695Z"
 }

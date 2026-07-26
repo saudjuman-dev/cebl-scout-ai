@@ -1,5 +1,5 @@
 {
-  "fullName": "MARTYNAS PACEVICIUS",
+  "fullName": "Martynas Pacevicius",
   "sourceUrl": "https://basketball.eurobasket.com/player/Martynas-Pacevicius/272374",
   "height": "6'9'",
   "currentTeam": "Neptunas",
@@ -82,18 +82,18 @@
     {
       "year": "25-26",
       "team": "Neptunas",
-      "league": "Eurocup-1"
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
       "team": "Neptunas",
-      "league": "LTU-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:25:28.144Z",
+  "_lastVerified": "2026-07-26T08:24:35.707Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:25:28.144Z"
+  "cachedAt": "2026-07-26T08:24:35.707Z"
 }

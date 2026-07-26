@@ -1,7 +1,8 @@
 {
-  "fullName": "CALEB HOMESLEY",
+  "fullName": "Caleb Homesley",
   "sourceUrl": "https://basketball.eurobasket.com/player/Caleb-Homesley/369562",
   "height": "6'6'",
+  "college": "College Liberty",
   "currentTeam": "Bahcesehir",
   "careerHistory": [
     {
@@ -97,18 +98,18 @@
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:57:55.860Z",
+  "_lastVerified": "2026-07-26T07:30:31.319Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:57:55.860Z"
+  "cachedAt": "2026-07-26T07:30:31.319Z"
 }

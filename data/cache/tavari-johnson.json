@@ -1,0 +1,45 @@
+{
+  "fullName": "Tavari Johnson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tavari-Johnson/614633",
+  "height": "6'0'",
+  "college": "College Akron",
+  "currentTeam": "Akron",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Akron",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Akron",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Akron",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Akron",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:10:18.586Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:10:18.586Z"
+}

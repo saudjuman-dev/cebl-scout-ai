@@ -1,7 +1,8 @@
 {
-  "fullName": "FYNN SCHOTT",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Fynn-Schott/624667",
+  "fullName": "Fynn Schott",
+  "sourceUrl": "https://basketball.usbasket.com/player/Fynn-Schott/624667",
   "height": "6'8'",
+  "college": "University of Utah",
   "currentTeam": "Menorca",
   "careerHistory": [
     {
@@ -40,10 +41,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-24T07:04:00.995Z",
+  "_lastVerified": "2026-07-26T07:30:46.575Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-24T07:04:00.995Z"
+  "cachedAt": "2026-07-26T07:30:46.575Z"
 }

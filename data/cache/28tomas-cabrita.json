@@ -1,0 +1,24 @@
+{
+  "fullName": "#28Tomas Cabrita",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tomas-Cabrita/684640",
+  "height": "6'4'",
+  "currentTeam": "Barreirense",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Barreirense",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Barreirense",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:11:41.942Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:11:41.942Z"
+}

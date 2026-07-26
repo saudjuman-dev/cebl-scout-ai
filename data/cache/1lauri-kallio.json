@@ -1,0 +1,45 @@
+{
+  "fullName": "#1Lauri Kallio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lauri-Kallio/479196",
+  "height": "6'3'",
+  "college": "University Games European Championships European Championships U20 European Championships U16",
+  "currentTeam": "Honka",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Honka",
+      "league": "FIN-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Honka",
+      "league": "FIN-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Honka",
+      "league": "FIN-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Bisons",
+      "league": "FIN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Honka",
+      "league": "FIN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Honka",
+      "league": "FIN-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:19:16.735Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:19:16.735Z"
+}

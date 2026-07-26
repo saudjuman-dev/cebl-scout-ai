@@ -1,0 +1,60 @@
+{
+  "fullName": "#4Pearse Uniacke",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pearse-Uniacke/650793",
+  "height": "6'9'",
+  "college": "College SF State",
+  "currentTeam": "Caceres",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "San Mateo CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "SF State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "SF State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SF State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SF State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "SF State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SF State",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Caceres",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Killorglin",
+      "league": "IRL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:54:08.206Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:54:08.206Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "Bryce Dortch",
+  "sourceUrl": "https://basketball.usbasket.com/player/Bryce-Dortch/740320",
+  "height": "6'9'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Rutgers",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:18.023Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:18.023Z"
+}

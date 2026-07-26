@@ -1,0 +1,55 @@
+{
+  "fullName": "#2Leonardo Valesin",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leonardo-Valesin/606929",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Piacenza UCC",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bassano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bonn/Rh.",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Munich",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Puglia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Brianza Casa",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Crema",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Piacenza UCC",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:33:32.468Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:33:32.468Z"
+}

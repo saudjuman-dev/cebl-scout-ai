@@ -1,0 +1,49 @@
+{
+  "fullName": "#3Piotr Losiak",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Piotr-Losiak/662685",
+  "height": "6'2'",
+  "currentTeam": "Poland",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Kielce",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "UJK Kielce",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Kielce",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "GTK",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Gliwice 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gliwice 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "GTK",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:17:57.993Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:17:57.993Z"
+}

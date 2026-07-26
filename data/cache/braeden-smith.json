@@ -1,0 +1,30 @@
+{
+  "fullName": "Braeden Smith",
+  "sourceUrl": "https://basketball.usbasket.com/player/Braeden-Smith/564518",
+  "height": "6'0'",
+  "college": "University of Notre Dame",
+  "currentTeam": "Gonzaga",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Colgate",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Colgate",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Gonzaga",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:13:13.052Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:13:13.052Z"
+}

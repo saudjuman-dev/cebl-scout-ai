@@ -1,0 +1,70 @@
+{
+  "fullName": "New Williams",
+  "sourceUrl": "https://basketball.eurobasket.com/player/New-Williams/367502",
+  "height": "6'1'",
+  "college": "College Fresno St",
+  "currentTeam": "Konya BBSK",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Auburn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Fresno St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Fresno St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Fresno St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Leones",
+      "league": "DOM-1"
+    },
+    {
+      "year": "2023",
+      "team": "Cocodrilos",
+      "league": "VEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Apollon LMS",
+      "league": "CYP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kazma",
+      "league": "WASL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Konya BBSK",
+      "league": "TUR-2"
+    },
+    {
+      "year": "2025",
+      "team": "X-Rayted",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "Konya BBSK",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:39:23.080Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:39:23.080Z"
+}

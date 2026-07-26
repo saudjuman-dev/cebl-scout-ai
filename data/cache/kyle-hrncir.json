@@ -1,0 +1,34 @@
+{
+  "fullName": "Kyle Hrncir",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kyle-Hrncir/674343",
+  "height": "6'5'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:34.296Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:34.296Z"
+}

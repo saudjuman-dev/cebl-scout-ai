@@ -1,0 +1,50 @@
+{
+  "fullName": "#25Gianmarco Fiorillo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gianmarco-Fiorillo/604937",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Piacenza UCC",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Milano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Milano",
+      "league": "ITA-5"
+    },
+    {
+      "year": "21-22",
+      "team": "AX Armani MI",
+      "league": "ITA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Milano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Milano",
+      "league": "ITA-5"
+    },
+    {
+      "year": "24-25",
+      "team": "UCC Assigeco",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Piacenza UCC",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:33:47.335Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:33:47.335Z"
+}

@@ -1,5 +1,5 @@
 {
-  "fullName": "DJIGUIBA TRAORE",
+  "fullName": "Djiguiba Traore",
   "sourceUrl": "https://basketball.eurobasket.com/player/Djiguiba-Traore/623020",
   "height": "6'8'",
   "currentTeam": "Saint Quentin",
@@ -36,21 +36,24 @@
     },
     {
       "year": "25-26",
+      "team": "St-Quentin U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
       "team": "Saint Quentin",
       "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "St-Quentin U21",
-      "league": "FRA-6"
+      "team": "Saint Quentin",
+      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T14:51:09.950Z",
+  "_lastVerified": "2026-07-26T06:41:31.877Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:40:12.671Z",
-  "nationality": "French",
-  "birthdate": "October 11 2005"
+  "cachedAt": "2026-07-26T06:41:31.877Z"
 }

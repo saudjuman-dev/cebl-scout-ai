@@ -1,0 +1,115 @@
+{
+  "fullName": "#19Koby McEwen",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Koby-McEwen/297827",
+  "height": "6'4'",
+  "college": "College Weber St",
+  "currentTeam": "Benfica",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Marquette",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2022",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "2022",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "22-23",
+      "team": "Norrkoping",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Norrkoping",
+      "league": "FEL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    },
+    {
+      "year": "2023",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Gliwice",
+      "league": "POL-1"
+    },
+    {
+      "year": "2024",
+      "team": "Vancouver",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Jonava",
+      "league": "LTU-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Guangzhou LL",
+      "league": "CHN-1"
+    },
+    {
+      "year": "2025",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Benfica",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:41:55.104Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:41:55.104Z"
+}

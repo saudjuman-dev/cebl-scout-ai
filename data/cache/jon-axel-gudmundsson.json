@@ -1,7 +1,8 @@
 {
-  "fullName": "JON AXEL GUDMUNDSSON",
+  "fullName": "Jon Axel Gudmundsson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jon-Axel-Gudmundsson/263671",
   "height": "6'5'",
+  "college": "College Davidson",
   "currentTeam": "Burgos SP",
   "careerHistory": [
     {
@@ -115,10 +116,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:37.529Z",
+  "_lastVerified": "2026-07-26T07:27:16.995Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:37.529Z"
+  "cachedAt": "2026-07-26T07:27:16.995Z"
 }

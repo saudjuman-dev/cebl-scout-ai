@@ -1,0 +1,29 @@
+{
+  "fullName": "#2Joao Tiago do O",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joao-Tiago-do-O/514435",
+  "height": "6'1'",
+  "currentTeam": "Barreirense",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Santo Andre",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Santo Andre",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Barreirense",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:12:10.487Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:12:10.487Z"
+}

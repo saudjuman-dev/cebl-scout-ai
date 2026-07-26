@@ -1,0 +1,39 @@
+{
+  "fullName": "Sadraque NgaNga",
+  "sourceUrl": "https://basketball.usbasket.com/player/Sadraque-NgaNga/505847",
+  "height": "6'10'",
+  "currentTeam": "SJSU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Boise St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Seton Hall",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SJSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SJSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:56:55.683Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:56:55.683Z"
+}

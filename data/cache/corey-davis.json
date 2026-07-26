@@ -1,8 +1,8 @@
 {
-  "fullName": "COREY DAVIS",
+  "fullName": "Corey Davis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Corey-Davis/394337",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16 COREY DAVIS basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Corey DavisBasketball Player ProfileHeight186cm",
   "currentTeam": "Chemnitz",
   "careerHistory": [
     {
@@ -113,18 +113,18 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:19:07.085Z",
+  "_lastVerified": "2026-07-26T06:28:17.481Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:19:07.085Z"
+  "cachedAt": "2026-07-26T06:28:17.481Z"
 }

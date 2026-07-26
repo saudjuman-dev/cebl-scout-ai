@@ -1,8 +1,8 @@
 {
-  "fullName": "GARVIN CLARKE",
+  "fullName": "Garvin Clarke",
   "sourceUrl": "https://basketball.eurobasket.com/player/Garvin-Clarke/555526",
   "height": "6'0'",
-  "college": "University of Akron",
+  "college": "College IUP",
   "currentTeam": "Caja 87",
   "careerHistory": [
     {
@@ -46,10 +46,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:59:24.105Z",
+  "_lastVerified": "2026-07-26T09:41:28.670Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:59:24.105Z"
+  "cachedAt": "2026-07-26T09:41:28.670Z"
 }

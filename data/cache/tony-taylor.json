@@ -1,7 +1,8 @@
 {
-  "fullName": "TONY TAYLOR",
+  "fullName": "Tony Taylor",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tony-Taylor/163593",
   "height": "6'1'",
+  "college": "College GWU",
   "currentTeam": "Trabzonspor",
   "careerHistory": [
     {
@@ -150,10 +151,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:59:09.836Z",
+  "_lastVerified": "2026-07-26T07:55:42.577Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:59:09.836Z"
+  "cachedAt": "2026-07-26T07:55:42.577Z"
 }

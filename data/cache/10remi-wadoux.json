@@ -1,0 +1,29 @@
+{
+  "fullName": "#10Remi Wadoux",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Remi-Wadoux/748211",
+  "height": "6'2'",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:51:11.904Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:51:11.904Z"
+}

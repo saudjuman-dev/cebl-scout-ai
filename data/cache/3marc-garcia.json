@@ -1,0 +1,79 @@
+{
+  "fullName": "#3Marc Garcia",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marc-Garcia/442121",
+  "height": "6'1'",
+  "currentTeam": "Calvia",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Miraflores BRG",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "San Pablo BU",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Zentro Basket",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Tormes",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Refitel Lliria",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Calvia",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:43:36.116Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:43:36.116Z"
+}

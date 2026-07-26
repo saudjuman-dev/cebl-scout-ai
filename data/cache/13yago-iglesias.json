@@ -1,0 +1,38 @@
+{
+  "fullName": "#13Yago Iglesias",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yago-Iglesias/679018",
+  "currentTeam": "La Leonesa",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "CD Leonesa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CD Leonesa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "La Leonesa",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:06:30.719Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:06:30.719Z"
+}

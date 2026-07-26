@@ -1,0 +1,40 @@
+{
+  "fullName": "Samuel Ariyibi",
+  "sourceUrl": "https://basketball.usbasket.com/player/Samuel-Ariyibi/478698",
+  "height": "6'8'",
+  "college": "University of Washington",
+  "currentTeam": "Utah Tech",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Washington",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Washington",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Washington",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:36:33.226Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:36:33.226Z"
+}

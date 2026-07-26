@@ -1,0 +1,35 @@
+{
+  "fullName": "#0Tommaso Guadalupi",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tommaso-Guadalupi/654849",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Brindisi",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Brindisi",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Happy Casa BR",
+      "league": "FEL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Brindisi",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Happy Casa BR",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:20:26.618Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:20:26.618Z"
+}

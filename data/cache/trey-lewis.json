@@ -1,0 +1,39 @@
+{
+  "fullName": "Trey Lewis",
+  "sourceUrl": "https://basketball.usbasket.com/player/Trey-Lewis/672082",
+  "height": "6'0'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Drury",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Des Moines A.",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "FAMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:29.373Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:29.373Z"
+}

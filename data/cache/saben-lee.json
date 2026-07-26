@@ -1,7 +1,8 @@
 {
-  "fullName": "SABEN LEE",
+  "fullName": "Saben Lee",
   "sourceUrl": "https://basketball.eurobasket.com/player/Saben-Lee/429883",
   "height": "6'2'",
+  "college": "College Vanderbilt",
   "currentTeam": "Olympiacos",
   "careerHistory": [
     {
@@ -115,10 +116,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:03:20.075Z",
+  "_lastVerified": "2026-07-26T07:41:02.381Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:03:20.075Z"
+  "cachedAt": "2026-07-26T07:41:02.381Z"
 }

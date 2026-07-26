@@ -1,8 +1,8 @@
 {
-  "fullName": "ERIC VAN DER HEIJDEN",
+  "fullName": "Eric Van Der Heijden",
   "sourceUrl": "https://basketball.eurobasket.com/player/Eric-Van-Der-Heijden/555473",
   "height": "6'9'",
-  "college": "University of Mississippi",
+  "college": "College Campbell",
   "currentTeam": "La Leonesa",
   "careerHistory": [
     {
@@ -51,10 +51,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:04:14.127Z",
+  "_lastVerified": "2026-07-26T10:06:12.253Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:04:14.127Z"
+  "cachedAt": "2026-07-26T10:06:12.253Z"
 }

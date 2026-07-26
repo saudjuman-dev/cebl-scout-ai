@@ -1,0 +1,39 @@
+{
+  "fullName": "#8Danilo Horta",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Danilo-Horta/580026",
+  "height": "6'2'",
+  "currentTeam": "Queluz",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Academia",
+      "league": "POR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Santo Andre",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Santo Andre",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:38:14.498Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:38:14.498Z"
+}

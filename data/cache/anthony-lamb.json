@@ -1,8 +1,8 @@
 {
-  "fullName": "ANTHONY LAMB",
+  "fullName": "Anthony Lamb",
   "sourceUrl": "https://basketball.eurobasket.com/player/Anthony-Lamb/398615",
   "height": "6'6'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games ANTHONY LAMB basketball profile Uniform No",
+  "college": "College Vermont",
   "currentTeam": "H.Jerusalem",
   "careerHistory": [
     {
@@ -93,18 +93,18 @@
     {
       "year": "25-26",
       "team": "H.Jerusalem",
-      "league": "Eurocup-1"
+      "league": "ISR-1"
     },
     {
       "year": "25-26",
       "team": "H.Jerusalem",
-      "league": "ISR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:09:01.982Z",
+  "_lastVerified": "2026-07-26T06:59:48.317Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:09:01.982Z"
+  "cachedAt": "2026-07-26T06:59:48.317Z"
 }

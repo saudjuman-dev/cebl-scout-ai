@@ -1,7 +1,8 @@
 {
-  "fullName": "JUSTIN ROBINSON",
+  "fullName": "Justin Robinson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Robinson/373224",
   "height": "6'2'",
+  "college": "College Virginia Tech",
   "currentTeam": "Paris",
   "careerHistory": [
     {
@@ -130,10 +131,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:22:05.406Z",
+  "_lastVerified": "2026-07-26T06:34:35.098Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:22:05.406Z"
+  "cachedAt": "2026-07-26T06:34:35.098Z"
 }

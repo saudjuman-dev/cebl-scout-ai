@@ -1,8 +1,9 @@
 {
-  "fullName": "KENNETH FARIED",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Kenneth-Faried/136695",
+  "fullName": "Kenneth Faried",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Kenneth-Faried/136695",
   "height": "6'8'",
-  "currentTeam": "Panathinaikos",
+  "college": "College Morehead St",
+  "currentTeam": "Santurce",
   "careerHistory": [
     {
       "year": "10-11",
@@ -148,12 +149,17 @@
       "year": "25-26",
       "team": "Panathinaikos",
       "league": "GRE-1"
+    },
+    {
+      "year": "2026",
+      "team": "Santurce",
+      "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:52:15.748Z",
+  "_lastVerified": "2026-07-26T07:03:44.199Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:52:15.748Z"
+  "cachedAt": "2026-07-26T07:03:44.199Z"
 }

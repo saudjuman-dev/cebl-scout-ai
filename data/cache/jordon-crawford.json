@@ -1,7 +1,8 @@
 {
-  "fullName": "JORDON CRAWFORD",
+  "fullName": "Jordon Crawford",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordon-Crawford/187391",
   "height": "5'6'",
+  "college": "College BGSU",
   "currentTeam": "Erokspor",
   "careerHistory": [
     {
@@ -125,10 +126,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:55:55.124Z",
+  "_lastVerified": "2026-07-26T08:06:38.076Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:55:55.124Z"
+  "cachedAt": "2026-07-26T08:06:38.076Z"
 }

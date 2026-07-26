@@ -1,7 +1,8 @@
 {
-  "fullName": "WILLIAM MCDOWELL-WHITE",
+  "fullName": "William McDowell-White",
   "sourceUrl": "https://basketball.eurobasket.com/player/William-McDowell-White/275349",
   "height": "6'5'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 William McDowell",
   "currentTeam": "Bourg",
   "careerHistory": [
     {
@@ -122,18 +123,18 @@
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "Eurocup-1"
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
       "team": "Bourg",
-      "league": "FRA-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:24:59.898Z",
+  "_lastVerified": "2026-07-26T06:13:56.839Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:24:59.898Z"
+  "cachedAt": "2026-07-26T06:13:56.839Z"
 }

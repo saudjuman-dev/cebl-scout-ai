@@ -1,0 +1,30 @@
+{
+  "fullName": "Andrew Meadow",
+  "sourceUrl": "https://basketball.usbasket.com/player/Andrew-Meadow/685412",
+  "height": "6'7'",
+  "college": "University of Oregon",
+  "currentTeam": "Boise St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:35:13.195Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:35:13.195Z"
+}

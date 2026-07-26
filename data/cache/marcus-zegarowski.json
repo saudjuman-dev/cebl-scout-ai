@@ -1,0 +1,60 @@
+{
+  "fullName": "Marcus Zegarowski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marcus-Zegarowski/420643",
+  "height": "6'2'",
+  "college": "College Creighton",
+  "currentTeam": "Cremona",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Creighton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2021",
+      "team": "Brooklyn N.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Austin Spurs",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "23-24",
+      "team": "Vanoli Cremona",
+      "league": "ITA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:23:53.746Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:23:53.746Z"
+}

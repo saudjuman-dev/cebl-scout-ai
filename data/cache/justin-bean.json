@@ -1,8 +1,8 @@
 {
-  "fullName": "JUSTIN BEAN",
+  "fullName": "Justin Bean",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Bean/451190",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JUSTIN BEAN basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Justin BeanBasketball Player ProfileHeight201cm",
   "currentTeam": "ALBA",
   "careerHistory": [
     {
@@ -73,12 +73,12 @@
     {
       "year": "25-26",
       "team": "ALBA",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "ALBA",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -86,10 +86,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:16:04.951Z",
+  "_lastVerified": "2026-07-26T06:12:49.282Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:16:04.951Z"
+  "cachedAt": "2026-07-26T06:12:49.282Z"
 }

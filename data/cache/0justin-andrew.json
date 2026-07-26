@@ -1,0 +1,70 @@
+{
+  "fullName": "#0Justin Andrew",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Andrew/411672",
+  "height": "6'0'",
+  "college": "College St",
+  "currentTeam": "Langen",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "St.Francis X.",
+      "league": "USPO"
+    },
+    {
+      "year": "17-18",
+      "team": "St.Francis X.",
+      "league": "USPO"
+    },
+    {
+      "year": "2018",
+      "team": "Z*Wellness C.",
+      "league": "NBBL"
+    },
+    {
+      "year": "18-19",
+      "team": "St.Francis X.",
+      "league": "USPO"
+    },
+    {
+      "year": "19-20",
+      "team": "St.Francis X.",
+      "league": "USPO"
+    },
+    {
+      "year": "21-22",
+      "team": "St.Francis X.",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "Bonn 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Essen",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Innsbruck",
+      "league": "AUT-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Langen",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:59:57.040Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:59:57.040Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "KHYRI THOMAS",
+  "fullName": "Khyri Thomas",
   "sourceUrl": "https://basketball.eurobasket.com/player/Khyri-Thomas/366788",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 KHYRI THOMAS basketball profile Uniform No",
+  "college": "College Creighton",
   "currentTeam": "Weissenfels",
   "careerHistory": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "year": "18-19",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "year": "19-20",
-      "team": "Grand Rapids G.",
+      "team": "Grand Rapids",
       "league": "G League"
     },
     {
@@ -121,10 +121,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-24T06:53:05.612Z",
+  "_lastVerified": "2026-07-26T06:21:31.115Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-24T06:53:05.612Z"
+  "cachedAt": "2026-07-26T06:21:31.115Z"
 }

@@ -1,0 +1,59 @@
+{
+  "fullName": "#50Pau Torrens",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pau-Torrens/711129",
+  "height": "6'2'",
+  "currentTeam": "Lleida",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Valencia Basket U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Godella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Valencia Basket U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Lleida",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:28:23.090Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:28:23.090Z"
+}

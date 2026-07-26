@@ -1,0 +1,23 @@
+{
+  "fullName": "Konstantinos Ntiptsis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Konstantinos-Ntiptsis/776543",
+  "currentTeam": "Aigaleo",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Aigaleo",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:47:07.269Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:47:07.269Z"
+}

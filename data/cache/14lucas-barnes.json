@@ -1,0 +1,33 @@
+{
+  "fullName": "#14Lucas Barnes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Barnes/741001",
+  "currentTeam": "Valladolid",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Caja Rural",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valladolid",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:44:25.654Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:44:25.654Z"
+}

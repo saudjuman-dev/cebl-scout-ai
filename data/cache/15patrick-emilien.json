@@ -1,0 +1,70 @@
+{
+  "fullName": "#15Patrick Emilien",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Patrick-Emilien/491810",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Tuebingen",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "W.Michigan",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SFC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Maryland",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Casey C.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2023",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Gmunden",
+      "league": "AUT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Honka",
+      "league": "FIN-1"
+    },
+    {
+      "year": "2025",
+      "team": "Brampton",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:46.795Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:46.795Z"
+}

@@ -1,7 +1,8 @@
 {
-  "fullName": "PEDRO LOPEZ-SAN VICENTE",
+  "fullName": "Pedro Lopez-San Vicente",
   "sourceUrl": "https://basketball.eurobasket.com/player/Pedro-Lopez-San-Vicente/629030",
   "height": "6'8'",
+  "college": "College Denver",
   "currentTeam": "Huesca",
   "careerHistory": [
     {
@@ -75,10 +76,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:57:42.679Z",
+  "_lastVerified": "2026-07-26T09:45:17.262Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:57:42.679Z"
+  "cachedAt": "2026-07-26T09:45:17.262Z"
 }

@@ -1,0 +1,30 @@
+{
+  "fullName": "#15Kai Muesse",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kai-Muesse/715172",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Giessen 46ers",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Giessen 46ers",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Giessen",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Giessen 46ers",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:49:01.679Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:49:01.679Z"
+}

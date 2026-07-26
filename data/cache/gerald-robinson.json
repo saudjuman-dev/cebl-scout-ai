@@ -1,8 +1,8 @@
 {
-  "fullName": "GERALD ROBINSON",
+  "fullName": "Gerald Robinson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gerald-Robinson/136080",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 GERALD ROBINSON basketball profile Height",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Gerald RobinsonBasketball Player ProfileHeight185cm",
   "currentTeam": "Cantu",
   "careerHistory": [
     {
@@ -167,19 +167,19 @@
     },
     {
       "year": "25-26",
-      "team": "Dole Basket Rimini",
-      "league": "ITA-2"
+      "team": "Cantu",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
-      "team": "Cantu",
-      "league": "ITA-1"
+      "team": "Dole Basket Rimini",
+      "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-05-10T06:31:23.549Z",
+  "_lastVerified": "2026-07-26T07:07:52.512Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:31:23.549Z"
+  "cachedAt": "2026-07-26T07:07:52.512Z"
 }

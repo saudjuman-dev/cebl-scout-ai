@@ -1,0 +1,29 @@
+{
+  "fullName": "#22Carlos Aranda",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Carlos-Aranda/832975",
+  "height": "6'8'",
+  "currentTeam": "Penarroya",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Cordoba CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Penarroya",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:05:19.400Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:05:19.400Z"
+}

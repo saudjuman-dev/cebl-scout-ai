@@ -1,0 +1,35 @@
+{
+  "fullName": "#31Cale Jacobsen",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cale-Jacobsen/661050",
+  "height": "6'4'",
+  "college": "University of Nebraska",
+  "currentTeam": "Nebraska",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Nebraska",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:37.122Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:37.122Z"
+}

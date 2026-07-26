@@ -1,8 +1,8 @@
 {
-  "fullName": "NAZARETH MITROU-LONG",
+  "fullName": "Nazareth Mitrou-Long",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nazareth-Mitrou-Long/262245",
   "height": "6'4'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 NAZARETH MITROU",
+  "college": "College Iowa St",
   "currentTeam": "Napoli",
   "careerHistory": [
     {
@@ -77,12 +77,12 @@
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -131,10 +131,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:33:35.925Z",
+  "_lastVerified": "2026-07-26T07:05:26.382Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:33:35.925Z"
+  "cachedAt": "2026-07-26T07:05:26.382Z"
 }

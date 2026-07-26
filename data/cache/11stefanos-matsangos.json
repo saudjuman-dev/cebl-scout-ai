@@ -1,0 +1,34 @@
+{
+  "fullName": "#11Stefanos Matsangos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stefanos-Matsangos/523374",
+  "height": "6'4'",
+  "currentTeam": "Papagou",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Papagou",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Proteas V.",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Papagou",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:47:00.336Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:47:00.336Z"
+}

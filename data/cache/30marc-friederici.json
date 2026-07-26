@@ -1,0 +1,60 @@
+{
+  "fullName": "#30Marc Friederici",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marc-Friederici/451796",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "ETB Miners",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Wusterhausen",
+      "league": "GER-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Berlin Braves",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Dresden",
+      "league": "GER-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Dresden",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Wolmirstedt",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "ETB Miners",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:59:10.274Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:59:10.274Z"
+}

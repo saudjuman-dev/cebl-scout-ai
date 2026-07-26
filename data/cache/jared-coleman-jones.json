@@ -1,7 +1,8 @@
 {
-  "fullName": "JARED COLEMAN-JONES",
+  "fullName": "Jared Coleman-Jones",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jared-Coleman-Jones/457651",
   "height": "6'10'",
+  "college": "College SDSU",
   "currentTeam": "Slask",
   "careerHistory": [
     {
@@ -47,23 +48,23 @@
     {
       "year": "25-26",
       "team": "Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
       "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Spartak",
       "league": "ADR-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Slask",
-      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:19:20.519Z",
+  "_lastVerified": "2026-07-26T08:19:01.463Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:19:20.519Z"
+  "cachedAt": "2026-07-26T08:19:01.463Z"
 }

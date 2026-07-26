@@ -1,8 +1,8 @@
 {
-  "fullName": "GABE BROWN",
+  "fullName": "Gabe Brown",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gabe-Brown/442311",
   "height": "6'7'",
-  "college": "University Lists his brothers",
+  "college": "College Michigan St",
   "currentTeam": "Strasbourg",
   "careerHistory": [
     {
@@ -86,10 +86,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:22:26.036Z",
+  "_lastVerified": "2026-07-26T06:35:48.764Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:22:26.036Z"
+  "cachedAt": "2026-07-26T06:35:48.764Z"
 }

@@ -1,0 +1,24 @@
+{
+  "fullName": "#69Laimis Staliunas",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Laimis-Staliunas/712446",
+  "height": "6'0'",
+  "currentTeam": "Zalgiris",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zalgiris II",
+      "league": "LTU-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "LTU-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:35:05.042Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:35:05.042Z"
+}

@@ -1,0 +1,25 @@
+{
+  "fullName": "Mercy Miller",
+  "sourceUrl": "https://basketball.usbasket.com/player/Mercy-Miller/600731",
+  "height": "6'4'",
+  "college": "University of Houston",
+  "currentTeam": "Houston",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Houston",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Houston",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:10:55.447Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:10:55.447Z"
+}

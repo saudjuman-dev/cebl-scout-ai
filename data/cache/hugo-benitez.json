@@ -1,5 +1,5 @@
 {
-  "fullName": "HUGO BENITEZ",
+  "fullName": "#-Hugo Benitez",
   "sourceUrl": "https://basketball.eurobasket.com/player/Hugo-Benitez/473957",
   "height": "6'4'",
   "currentTeam": "Manresa",
@@ -82,20 +82,18 @@
     {
       "year": "25-26",
       "team": "Manresa",
-      "league": "Eurocup-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Manresa",
-      "league": "ESP-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:56:00.904Z",
+  "_lastVerified": "2026-07-26T06:39:52.483Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:57:48.310Z",
-  "nationality": "French",
-  "birthdate": "January 20 2001"
+  "cachedAt": "2026-07-26T06:39:52.483Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "ZACHARIE PERRIN",
+  "fullName": "Zacharie Perrin",
   "sourceUrl": "https://basketball.eurobasket.com/player/Zacharie-Perrin/585329",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ZACHARIE PERRIN basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Zacharie PerrinBasketball Player ProfileHeight207cm",
   "currentTeam": "Hamburg",
   "careerHistory": [
     {
@@ -48,18 +48,18 @@
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:19:55.716Z",
+  "_lastVerified": "2026-07-26T06:29:29.942Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:19:55.716Z"
+  "cachedAt": "2026-07-26T06:29:29.942Z"
 }

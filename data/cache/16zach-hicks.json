@@ -1,0 +1,55 @@
+{
+  "fullName": "#16Zach Hicks",
+  "sourceUrl": "https://basketball.usbasket.com/player/Zach-Hicks/568165",
+  "height": "6'8'",
+  "college": "College Penn State",
+  "currentTeam": "Murcia",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Temple",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Penn State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "South Bay L.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Murcia",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:19:25.971Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:19:25.971Z"
+}

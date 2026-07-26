@@ -1,0 +1,115 @@
+{
+  "fullName": "#44Nick Ward",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nick-Ward/337740",
+  "height": "6'10'",
+  "college": "College Michigan St",
+  "currentTeam": "Quimper",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Michigan St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Fethiye",
+      "league": "TUR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "Atlanta Hawks",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Nadir Gold IB",
+      "league": "TUR-2"
+    },
+    {
+      "year": "2021",
+      "team": "Ottawa",
+      "league": "CEBL"
+    },
+    {
+      "year": "21-22",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Bucketneers",
+      "league": "TBT"
+    },
+    {
+      "year": "2023",
+      "team": "Vancouver",
+      "league": "CEBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Sigal",
+      "league": "KOS-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gargzdu",
+      "league": "LTU-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Boul-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "2024",
+      "team": "Vancouver",
+      "league": "CEBL"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Vancouver",
+      "league": "CEBL"
+    },
+    {
+      "year": "25-26",
+      "team": "Quimper",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:39:45.992Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:39:45.992Z"
+}

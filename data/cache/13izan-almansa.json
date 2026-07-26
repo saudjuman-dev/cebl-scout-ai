@@ -1,0 +1,54 @@
+{
+  "fullName": "#13Izan Almansa",
+  "sourceUrl": "https://basketball.usbasket.com/player/Izan-Almansa/590564",
+  "height": "6'10'",
+  "currentTeam": "Real Madrid",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Z*G League Ignite",
+      "league": "IntCup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Z*G League Ignite",
+      "league": "G League"
+    },
+    {
+      "year": "24-25",
+      "team": "Perth Wildcats",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2025",
+      "team": "Philadelphia 76",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Real U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Madrid",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:16:00.851Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:16:00.851Z"
+}

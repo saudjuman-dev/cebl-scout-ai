@@ -1,8 +1,8 @@
 {
-  "fullName": "EGIDIJUS MOCKEVICIUS",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Egidijus-Mockevicius/187726",
+  "fullName": "Egidijus Mockevicius",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Egidijus-Mockevicius/187726",
   "height": "6'10'",
-  "college": "University of Evansville",
+  "college": "College Evansville",
   "currentTeam": "Neptunas",
   "careerHistory": [
     {
@@ -127,19 +127,19 @@
     },
     {
       "year": "25-26",
-      "team": "Aguada",
-      "league": "URU-1"
+      "team": "Neptunas",
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
-      "team": "Neptunas",
-      "league": "LTU-1"
+      "team": "Aguada",
+      "league": "URU-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:25:31.644Z",
+  "_lastVerified": "2026-07-26T08:29:40.052Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:25:31.644Z"
+  "cachedAt": "2026-07-26T08:29:40.052Z"
 }

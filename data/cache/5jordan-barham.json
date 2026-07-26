@@ -1,0 +1,90 @@
+{
+  "fullName": "#5Jordan Barham",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Barham/265782",
+  "height": "6'5'",
+  "college": "College Davidson",
+  "currentTeam": "Tours",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Davidson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "NH Ostrava",
+      "league": "CZE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Vanves",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Challans",
+      "league": "FRA-3"
+    },
+    {
+      "year": "2022",
+      "team": "Z*Ohio 1804",
+      "league": "TBT"
+    },
+    {
+      "year": "2023",
+      "team": "Red Scare",
+      "league": "TBT"
+    },
+    {
+      "year": "23-24",
+      "team": "Al Taawoun",
+      "league": "KSA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lyon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Musel Pikes",
+      "league": "LUX-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tours",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:46:40.345Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:46:40.345Z"
+}

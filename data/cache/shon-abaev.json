@@ -1,0 +1,25 @@
+{
+  "fullName": "Shon Abaev",
+  "sourceUrl": "https://basketball.usbasket.com/player/Shon-Abaev/740747",
+  "height": "6'8'",
+  "college": "University of Cincinnati",
+  "currentTeam": "Cincinnati",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "FoGA",
+      "league": "OTE"
+    },
+    {
+      "year": "25-26",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:35:27.766Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:35:27.766Z"
+}

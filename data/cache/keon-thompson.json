@@ -1,0 +1,35 @@
+{
+  "fullName": "Keon Thompson",
+  "sourceUrl": "https://basketball.usbasket.com/player/Keon-Thompson/569665",
+  "height": "6'0'",
+  "college": "University of Massachusetts",
+  "currentTeam": "SF Austin",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "UMass",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UMass",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SF Austin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SF Austin",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:55:07.432Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:55:07.432Z"
+}

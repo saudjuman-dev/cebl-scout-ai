@@ -1,0 +1,45 @@
+{
+  "fullName": "#15Lok Wur",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lok-Wur/527770",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Leverkusen",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Oregon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Oregon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "GCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Leverkusen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:00:28.737Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:00:28.737Z"
+}

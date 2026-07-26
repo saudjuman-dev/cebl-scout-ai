@@ -1,8 +1,7 @@
 {
-  "fullName": "NENAD DIMITRIJEVIC",
+  "fullName": "Nenad Dimitrijevic",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nenad-Dimitrijevic/332958",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 NENAD DIMITRIJEVIC basketball profile Uniform No",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -83,11 +82,6 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "Bayern",
       "league": "EUROL-1"
     },
     {
@@ -98,13 +92,18 @@
     {
       "year": "25-26",
       "team": "Bayern",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Bayern",
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:22:43.320Z",
+  "_lastVerified": "2026-07-26T06:14:12.605Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:22:43.320Z"
+  "cachedAt": "2026-07-26T06:14:12.605Z"
 }

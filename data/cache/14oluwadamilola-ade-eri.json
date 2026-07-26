@@ -1,0 +1,45 @@
+{
+  "fullName": "#14Oluwadamilola Ade-Eri",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oluwadamilola-Ade-Eri/584505",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Speyer",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Braunschweig",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Koblenz",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Speyer",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:57:58.619Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:57:58.619Z"
+}

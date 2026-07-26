@@ -1,8 +1,8 @@
 {
-  "fullName": "TIM ABROMAITIS",
+  "fullName": "Tim Abromaitis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tim-Abromaitis/136262",
   "height": "6'8'",
-  "college": "University of Connecticut star player who also played pro ball in Italy in the eighties",
+  "college": "College Notre Dame",
   "currentTeam": "Tenerife",
   "careerHistory": [
     {
@@ -146,10 +146,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:39:50.562Z",
+  "_lastVerified": "2026-07-26T07:17:33.994Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:39:50.562Z"
+  "cachedAt": "2026-07-26T07:17:33.994Z"
 }

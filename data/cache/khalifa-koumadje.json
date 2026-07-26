@@ -1,7 +1,8 @@
 {
-  "fullName": "KHALIFA KOUMADJE",
+  "fullName": "Khalifa Koumadje",
   "sourceUrl": "https://basketball.eurobasket.com/player/Khalifa-Koumadje/369333",
   "height": "7'4'",
+  "college": "College FSU",
   "currentTeam": "Zaragoza",
   "careerHistory": [
     {
@@ -135,13 +136,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:40:21.407Z",
+  "_lastVerified": "2026-07-26T06:13:45.896Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:58:52.432Z",
-  "nationality": "Chadian",
-  "birthdate": "July 7 1996",
-  "birthCity": "N'Djamena"
+  "cachedAt": "2026-07-26T06:13:45.896Z"
 }

@@ -1,0 +1,24 @@
+{
+  "fullName": "#7Christos Angelopoulos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Christos-Angelopoulos/777334",
+  "height": "5'11'",
+  "currentTeam": "Olympiacos",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Olympiacos Piraeus U",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:52:59.093Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:52:59.093Z"
+}

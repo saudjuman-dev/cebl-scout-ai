@@ -1,5 +1,5 @@
 {
-  "fullName": "J'WAN ROBERTS",
+  "fullName": "J'Wan Roberts",
   "sourceUrl": "https://basketball.eurobasket.com/player/JWan-Roberts/430212",
   "height": "6'8'",
   "college": "University Games European Championships Olympic Games European Championships U16 J",
@@ -37,18 +37,13 @@
     },
     {
       "year": "2025",
-      "team": "Utah Jazz",
-      "league": "NBA"
-    },
-    {
-      "year": "2025",
       "team": "Forever Coogs",
       "league": "TBT"
     },
     {
-      "year": "25-26",
-      "team": "ALBA",
-      "league": "GER-20"
+      "year": "2025",
+      "team": "Utah Jazz",
+      "league": "NBA"
     },
     {
       "year": "25-26",
@@ -58,13 +53,18 @@
     {
       "year": "25-26",
       "team": "ALBA",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:16:07.900Z",
+  "_lastVerified": "2026-07-26T06:13:03.609Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:16:07.900Z"
+  "cachedAt": "2026-07-26T06:13:03.609Z"
 }

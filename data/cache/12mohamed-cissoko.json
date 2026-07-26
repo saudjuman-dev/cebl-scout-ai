@@ -1,0 +1,29 @@
+{
+  "fullName": "#12Mohamed Cissoko",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mohamed-Cissoko/721568",
+  "height": "6'7'",
+  "currentTeam": "Blois",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Paris U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Blois",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:42:42.966Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:42:42.966Z"
+}

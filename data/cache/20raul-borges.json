@@ -1,0 +1,38 @@
+{
+  "fullName": "#20Raul Borges",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Raul-Borges/517545",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Azulejos M.",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Alfinden ZR",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:56:22.341Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:56:22.341Z"
+}

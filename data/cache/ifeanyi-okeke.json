@@ -1,7 +1,8 @@
 {
-  "fullName": "IFEANYI OKEKE",
+  "fullName": "Ifeanyi Okeke",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ifeanyi-Okeke/457499",
   "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Ifeanyi OkekeBasketball Player ProfileHeight201cm",
   "currentTeam": "Azulejos",
   "careerHistory": [
     {
@@ -55,10 +56,10 @@
       "league": "ESP-4"
     }
   ],
-  "_lastVerified": "2026-06-07T08:21:07.435Z",
+  "_lastVerified": "2026-07-26T09:56:46.615Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:21:07.435Z"
+  "cachedAt": "2026-07-26T09:56:46.615Z"
 }

@@ -1,0 +1,40 @@
+{
+  "fullName": "#33Mohamed Sanogo",
+  "sourceUrl": "https://basketball.afrobasket.com/player/Mohamed-Sanogo/601410",
+  "height": "6'9'",
+  "college": "College FIU",
+  "currentTeam": "JCA",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "FIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "FIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "FIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2025",
+      "team": "JCA",
+      "league": "theBAL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:05:14.539Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:05:14.539Z"
+}

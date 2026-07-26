@@ -1,7 +1,8 @@
 {
-  "fullName": "DEREK NEEDHAM",
+  "fullName": "Derek Needham",
   "sourceUrl": "https://basketball.eurobasket.com/player/Derek-Needham/187579",
   "height": "5'11'",
+  "college": "College Fairfield",
   "currentTeam": "Girona",
   "careerHistory": [
     {
@@ -155,10 +156,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:04.095Z",
+  "_lastVerified": "2026-07-26T07:25:59.889Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:04.095Z"
+  "cachedAt": "2026-07-26T07:25:59.889Z"
 }

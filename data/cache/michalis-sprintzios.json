@@ -1,0 +1,59 @@
+{
+  "fullName": "Michalis Sprintzios",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michalis-Sprintzios/627130",
+  "height": "6'9'",
+  "currentTeam": "Sofadon",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Lavrio",
+      "league": "BCL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Olympiacos",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Patras",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lavrio",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Iraklis KAE",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "HANTH",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sofadon",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:45:50.797Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:45:50.797Z"
+}

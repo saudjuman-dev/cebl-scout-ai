@@ -1,0 +1,40 @@
+{
+  "fullName": "Kolby King",
+  "sourceUrl": "https://basketball.usbasket.com/player/Kolby-King/608343",
+  "height": "6'1'",
+  "college": "University National Team",
+  "currentTeam": "Utah St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "St.John's",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Tulane",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Tulane",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:32:38.806Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:32:38.806Z"
+}

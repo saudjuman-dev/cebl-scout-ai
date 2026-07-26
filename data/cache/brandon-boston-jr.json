@@ -1,9 +1,9 @@
 {
-  "fullName": "BRANDON BOSTON JR.",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Boston-Jr/427965",
+  "fullName": "Brandon Boston Jr.",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brandon-Boston-Jr/427965",
   "height": "6'6'",
-  "college": "University of Kentucky",
-  "currentTeam": "Fenerbahce",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Milwaukee B.",
   "careerHistory": [
     {
       "year": "20-21",
@@ -64,12 +64,17 @@
       "year": "25-26",
       "team": "Fenerbahce",
       "league": "TUR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Milwaukee B.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T08:04:05.468Z",
+  "_lastVerified": "2026-07-26T07:09:53.177Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:04:05.468Z"
+  "cachedAt": "2026-07-26T07:09:53.177Z"
 }

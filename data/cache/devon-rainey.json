@@ -1,0 +1,29 @@
+{
+  "fullName": "Devon Rainey",
+  "sourceUrl": "https://basketball.usbasket.com/player/Devon-Rainey/620283",
+  "height": "6'5'",
+  "currentTeam": "Valdosta St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "S.Georgia St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "S.Georgia St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "25-26",
+      "team": "Valdosta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:56:17.694Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:56:17.694Z"
+}

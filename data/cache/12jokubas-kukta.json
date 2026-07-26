@@ -1,0 +1,24 @@
+{
+  "fullName": "#12Jokubas Kukta",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jokubas-Kukta/738497",
+  "height": "6'2'",
+  "currentTeam": "Lithuania",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Rytas",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zalgiris",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:34:02.894Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:34:02.894Z"
+}

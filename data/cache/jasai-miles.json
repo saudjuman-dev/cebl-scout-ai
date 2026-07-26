@@ -1,0 +1,35 @@
+{
+  "fullName": "Jasai Miles",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jasai-Miles/609261",
+  "height": "6'6'",
+  "college": "University of North Florida",
+  "currentTeam": "Indiana",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "UNF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNF",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Indiana",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:34:23.061Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:34:23.061Z"
+}

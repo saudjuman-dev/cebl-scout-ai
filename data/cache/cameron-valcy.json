@@ -1,0 +1,49 @@
+{
+  "fullName": "Cameron Valcy",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Valcy/530027",
+  "height": "6'5'",
+  "currentTeam": "Pays Salonais",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Boulazac U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Le Portel U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Le Portel U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Portel U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Pays Salonais",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:11:32.201Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:11:32.201Z"
+}

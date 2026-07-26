@@ -1,0 +1,23 @@
+{
+  "fullName": "#14Unai Terradillos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Unai-Terradillos/779341",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Valle de Egues",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:10:20.434Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:10:20.434Z"
+}

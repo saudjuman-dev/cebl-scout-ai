@@ -1,0 +1,60 @@
+{
+  "fullName": "#4Lukas Smazak",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lukas-Smazak/661977",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Czech Republic",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "MS Academy",
+      "league": "CZE-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ostrava",
+      "league": "CZE-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Snakes Ostrava",
+      "league": "CZE-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Srsni Pisek",
+      "league": "CZE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ostrava",
+      "league": "CZE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Snakes Ostrava",
+      "league": "CZE-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:31:00.959Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:31:00.959Z"
+}

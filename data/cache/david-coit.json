@@ -1,0 +1,50 @@
+{
+  "fullName": "David Coit",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Coit/564743",
+  "height": "5'11'",
+  "college": "College Maryland",
+  "currentTeam": "Maryland",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Atlantic Cape",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "NIU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "NIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "NIU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "NIU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Kansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Maryland",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:08:27.637Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:08:27.637Z"
+}

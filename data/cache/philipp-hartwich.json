@@ -1,8 +1,8 @@
 {
-  "fullName": "PHILIPP HARTWICH",
+  "fullName": "Philipp Hartwich",
   "sourceUrl": "https://basketball.eurobasket.com/player/Philipp-Hartwich/281179",
   "height": "7'2'",
-  "college": "University Games European Championships Olympic Games European Championships U16 PHILIPP HARTWICH basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Philipp HartwichBasketball Player ProfileHeight218cm",
   "currentTeam": "Braunschweig",
   "careerHistory": [
     {
@@ -93,12 +93,12 @@
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -106,10 +106,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:26.587Z",
+  "_lastVerified": "2026-07-26T06:25:04.009Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:26.587Z"
+  "cachedAt": "2026-07-26T06:25:04.009Z"
 }

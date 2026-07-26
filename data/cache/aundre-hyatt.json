@@ -1,7 +1,8 @@
 {
-  "fullName": "AUNDRE HYATT",
+  "fullName": "Aundre Hyatt",
   "sourceUrl": "https://basketball.eurobasket.com/player/Aundre-Hyatt/420683",
   "height": "6'6'",
+  "college": "College Rutgers",
   "currentTeam": "Nancy",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:26:28.433Z",
+  "_lastVerified": "2026-07-26T06:48:28.884Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:26:28.433Z"
+  "cachedAt": "2026-07-26T06:48:28.884Z"
 }

@@ -1,0 +1,55 @@
+{
+  "fullName": "Destan Williams",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Destan-Williams/460613",
+  "height": "5'9'",
+  "college": "College ASU",
+  "currentTeam": "Santander",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "SW Illinois JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "SW Illinois JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "ASU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "ASU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Lincoln, MO",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "ASU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ASU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Santander",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:44.856Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:44.856Z"
+}

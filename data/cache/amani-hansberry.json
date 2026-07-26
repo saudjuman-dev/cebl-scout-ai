@@ -1,0 +1,30 @@
+{
+  "fullName": "Amani Hansberry",
+  "sourceUrl": "https://basketball.usbasket.com/player/Amani-Hansberry/573189",
+  "height": "6'8'",
+  "college": "College Prep 2020",
+  "currentTeam": "Virginia Tech",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Illinois",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "WVU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Virginia Tech",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:53:11.130Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:53:11.130Z"
+}

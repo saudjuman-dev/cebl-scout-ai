@@ -1,28 +1,28 @@
 {
-  "fullName": "NIELS GIFFEY",
+  "fullName": "Niels Giffey",
   "sourceUrl": "https://basketball.eurobasket.com/player/Niels-Giffey/102477",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16 NIELS GIFFEY basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Niels GiffeyBasketball Player ProfileHeight200cm",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
       "year": "10-11",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
       "year": "11-12",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
       "year": "12-13",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
       "year": "13-14",
-      "team": "UConn",
+      "team": "Uconn",
       "league": "NCAA1"
     },
     {
@@ -163,12 +163,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -176,10 +176,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:14:23.153Z",
+  "_lastVerified": "2026-07-26T06:14:34.890Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:14:23.153Z"
+  "cachedAt": "2026-07-26T06:14:34.890Z"
 }

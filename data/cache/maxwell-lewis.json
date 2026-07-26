@@ -1,7 +1,8 @@
 {
-  "fullName": "MAXWELL LEWIS",
+  "fullName": "Maxwell Lewis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Maxwell-Lewis/615602",
   "height": "6'7'",
+  "college": "College Pepperdine",
   "currentTeam": "Tofas",
   "careerHistory": [
     {
@@ -85,10 +86,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:05:49.375Z",
+  "_lastVerified": "2026-07-26T08:04:24.054Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:05:49.375Z"
+  "cachedAt": "2026-07-26T08:04:24.054Z"
 }

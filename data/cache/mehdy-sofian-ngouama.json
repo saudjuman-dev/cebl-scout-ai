@@ -1,0 +1,125 @@
+{
+  "fullName": "Mehdy-Sofian Ngouama",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mehdy-Sofian-Ngouama/284249",
+  "height": "6'2'",
+  "college": "College Alabama St",
+  "currentTeam": "Granada",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "15-16",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Denain",
+      "league": "FRA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Vichy",
+      "league": "FRA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Souffel",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Paris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "JL Bourg",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Le Mans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Granada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ASVEL",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:36:56.588Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:36:56.588Z"
+}

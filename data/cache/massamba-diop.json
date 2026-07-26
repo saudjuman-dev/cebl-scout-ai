@@ -1,0 +1,49 @@
+{
+  "fullName": "Massamba Diop",
+  "sourceUrl": "https://basketball.usbasket.com/player/Massamba-Diop/685528",
+  "height": "6'11'",
+  "currentTeam": "Arizona St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dreamland GC",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Gran Canaria B",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Arizona St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:30:41.563Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:30:41.563Z"
+}

@@ -1,0 +1,30 @@
+{
+  "fullName": "#10Giuseppe Seggio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giuseppe-Seggio/665700",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Kirchheim",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Kirchheim",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Kirchheim",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:48:20.444Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:48:20.444Z"
+}

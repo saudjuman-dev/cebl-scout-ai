@@ -1,0 +1,50 @@
+{
+  "fullName": "#0Bryce Workman",
+  "sourceUrl": "https://basketball.usbasket.com/player/Bryce-Workman/420705",
+  "height": "6'7'",
+  "college": "College Jacksonville",
+  "currentTeam": "Tampa Bay T.",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Jacksonville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Koblenz",
+      "league": "GER-2"
+    },
+    {
+      "year": "2025",
+      "team": "Tampa Bay T.",
+      "league": "TBL"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:58:01.016Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:58:01.016Z"
+}

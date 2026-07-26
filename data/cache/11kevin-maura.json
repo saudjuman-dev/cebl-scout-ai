@@ -1,0 +1,100 @@
+{
+  "fullName": "#11Kevin Maura",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Kevin-Maura/394445",
+  "height": "5'8'",
+  "college": "College UMBC",
+  "currentTeam": "Guaynabo",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "ACU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Cent.Florida",
+      "league": "JUCO"
+    },
+    {
+      "year": "16-17",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "17-18",
+      "team": "UMBC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2019",
+      "team": "Indios",
+      "league": "DOM-1"
+    },
+    {
+      "year": "2019",
+      "team": "Aguada",
+      "league": "PUR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Terceira",
+      "league": "POR-1"
+    },
+    {
+      "year": "2020",
+      "team": "Aguada",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2021",
+      "team": "Rafael Barias",
+      "league": "DOM-4"
+    },
+    {
+      "year": "2021",
+      "team": "Aguada",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2022",
+      "team": "Guayama",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2022",
+      "team": "Aguada",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2023",
+      "team": "Aguada",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2024",
+      "team": "Gigantes",
+      "league": "PUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Caja 87",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2025",
+      "team": "Gigantes",
+      "league": "PUR-1"
+    },
+    {
+      "year": "2026",
+      "team": "Guaynabo",
+      "league": "PUR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:42:23.019Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:42:23.019Z"
+}

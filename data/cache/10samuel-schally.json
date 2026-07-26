@@ -1,0 +1,45 @@
+{
+  "fullName": "#10Samuel Schally",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Samuel-Schally/584219",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Dresden",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "ratiopharm",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "21-22",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Ulm",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Speyer",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Speyer",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Dresden",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:23:31.434Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:23:31.434Z"
+}

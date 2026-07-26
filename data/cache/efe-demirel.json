@@ -1,0 +1,54 @@
+{
+  "fullName": "Efe Demirel",
+  "sourceUrl": "https://basketball.usbasket.com/player/Efe-Demirel/626269",
+  "height": "7'1'",
+  "currentTeam": "GCU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Anadolu Efes",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Anadolu Efes",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Karsiyaka",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Karsiyaka",
+      "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "GCU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:01:08.196Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:01:08.196Z"
+}

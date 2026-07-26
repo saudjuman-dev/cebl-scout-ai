@@ -1,7 +1,8 @@
 {
-  "fullName": "TRENTON GIBSON",
+  "fullName": "Trenton Gibson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Trenton-Gibson/488434",
   "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Trenton GibsonBasketball Player ProfileHeight193cm",
   "currentTeam": "Stal",
   "careerHistory": [
     {
@@ -65,10 +66,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:16:36.213Z",
+  "_lastVerified": "2026-07-26T09:02:41.257Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:16:36.213Z"
+  "cachedAt": "2026-07-26T09:02:41.257Z"
 }

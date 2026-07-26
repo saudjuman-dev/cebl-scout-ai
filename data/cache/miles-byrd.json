@@ -1,0 +1,39 @@
+{
+  "fullName": "Miles Byrd",
+  "sourceUrl": "https://basketball.usbasket.com/player/Miles-Byrd/661180",
+  "height": "6'6'",
+  "currentTeam": "SDSU",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "SDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "SDSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "SDSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SDSU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:53:36.470Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:53:36.470Z"
+}

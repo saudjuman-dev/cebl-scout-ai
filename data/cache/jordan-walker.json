@@ -1,85 +1,105 @@
 {
-  "fullName": "JORDAN WALKER",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Walker/422601",
-  "height": "5'11'",
-  "college": "University of Alabama at Birmingham",
-  "currentTeam": "Maroussi",
+  "fullName": "Jordan Walker",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Walker/403037",
+  "height": "6'1'",
+  "college": "College Morehead St",
+  "currentTeam": "Rio Breogan",
   "careerHistory": [
     {
+      "year": "16-17",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
       "year": "17-18",
-      "team": "Seton Hall",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Morehead St.",
       "league": "NCAA1"
     },
     {
       "year": "19-20",
-      "team": "Tulane",
+      "team": "Morehead St.",
       "league": "NCAA1"
     },
     {
-      "year": "20-21",
-      "team": "Tulane",
-      "league": "NCAA1"
-    },
-    {
-      "year": "21-22",
-      "team": "UAB",
-      "league": "NCAA2"
+      "year": "2021",
+      "team": "Orbi",
+      "league": "GEO-2"
     },
     {
       "year": "21-22",
-      "team": "UAB",
-      "league": "NCAA1"
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Hamburg",
+      "league": "GER-1"
     },
     {
       "year": "22-23",
-      "team": "UAB",
-      "league": "NCAA1"
-    },
-    {
-      "year": "2023",
-      "team": "Dallas M.",
-      "league": "NBA"
+      "team": "Okapi Aalst",
+      "league": "BNXT-1"
     },
     {
       "year": "23-24",
-      "team": "Texas L.",
-      "league": "G League"
+      "team": "FMP Meridian",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "FMP Meridian",
+      "league": "ADR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "NKA Pecs",
+      "league": "HUN-1"
     },
     {
       "year": "2024",
-      "team": "Manati",
-      "league": "PUR-1"
+      "team": "Fail Harder",
+      "league": "TBT"
     },
     {
       "year": "24-25",
-      "team": "Promitheas",
-      "league": "BCL-1"
+      "team": "ZA Enamora",
+      "league": "ESP-2"
     },
     {
-      "year": "24-25",
-      "team": "Promitheas",
-      "league": "GRE-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Maroussi",
-      "league": "GRE-1"
+      "year": "2025",
+      "team": "Fail Harder",
+      "league": "TBT"
     },
     {
       "year": "25-26",
-      "team": "Rytas",
-      "league": "BCL-1"
+      "team": "Hefei",
+      "league": "CHN-2"
     },
     {
       "year": "25-26",
-      "team": "Rytas",
-      "league": "LTU-1"
+      "team": "Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rio Breogan",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:51:07.377Z",
+  "_lastVerified": "2026-07-26T07:25:42.277Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:51:07.377Z"
+  "cachedAt": "2026-07-26T07:25:42.277Z"
 }

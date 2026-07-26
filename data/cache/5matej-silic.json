@@ -1,0 +1,65 @@
+{
+  "fullName": "#5Matej Silic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matej-Silic/525912",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Paderborn",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Wulfen",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Wulfen",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Metropol Ruhr",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Wulfen",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Duesseldorf",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Paderborn",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:59:31.598Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:59:31.598Z"
+}

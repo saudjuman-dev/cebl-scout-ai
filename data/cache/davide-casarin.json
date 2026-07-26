@@ -1,9 +1,9 @@
 {
-  "fullName": "DAVIDE CASARIN",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Davide-Casarin/507374",
+  "fullName": "Davide Casarin",
+  "sourceUrl": "https://basketball.usbasket.com/player/Davide-Casarin/507374",
   "height": "6'6'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 DAVIDE CASARIN basketball profile Uniform No",
-  "currentTeam": "Cremona",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Houston R.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -102,14 +102,19 @@
     },
     {
       "year": "25-26",
-      "team": "Cremona",
+      "team": "Vanoli Cremona",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Houston R.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:29:29.783Z",
+  "_lastVerified": "2026-07-26T07:00:54.227Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:29:29.783Z"
+  "cachedAt": "2026-07-26T07:00:54.227Z"
 }

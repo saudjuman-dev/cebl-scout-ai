@@ -1,0 +1,23 @@
+{
+  "fullName": "#6Gomis-Matheo Boedi",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gomis-Matheo-Boedi/727216",
+  "currentTeam": "Le Portel",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Le Portel U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Le Portel",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:51:19.168Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:51:19.168Z"
+}

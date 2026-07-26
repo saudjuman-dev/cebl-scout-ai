@@ -1,5 +1,5 @@
 {
-  "fullName": "YIGIT ARSLAN",
+  "fullName": "Yigit Arslan",
   "sourceUrl": "https://basketball.eurobasket.com/player/Yigit-Arslan/258036",
   "height": "6'6'",
   "currentTeam": "Besiktas",
@@ -117,18 +117,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:37:49.304Z",
+  "_lastVerified": "2026-07-26T07:57:05.487Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:37:49.304Z"
+  "cachedAt": "2026-07-26T07:57:05.487Z"
 }

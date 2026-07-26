@@ -1,7 +1,8 @@
 {
-  "fullName": "TANNER MCGREW",
+  "fullName": "Tanner McGrew",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tanner-McGrew/275446",
   "height": "6'8'",
+  "college": "College WVWC",
   "currentTeam": "Estudiantes",
   "careerHistory": [
     {
@@ -120,10 +121,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:52:06.968Z",
+  "_lastVerified": "2026-07-26T07:32:21.219Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:52:06.968Z"
+  "cachedAt": "2026-07-26T07:32:21.219Z"
 }

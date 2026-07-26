@@ -1,9 +1,9 @@
 {
-  "fullName": "ISAIAH WONG",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Wong/423324",
+  "fullName": "Isaiah Wong",
+  "sourceUrl": "https://basketball.usbasket.com/player/Isaiah-Wong/423324",
   "height": "6'4'",
-  "college": "University of Miami",
-  "currentTeam": "Gran Canaria",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Atlanta H.",
   "careerHistory": [
     {
       "year": "19-20",
@@ -89,12 +89,17 @@
       "year": "25-26",
       "team": "Gran Canaria",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Atlanta H.",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:44:10.702Z",
+  "_lastVerified": "2026-07-26T07:29:49.943Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:44:10.702Z"
+  "cachedAt": "2026-07-26T07:29:49.943Z"
 }

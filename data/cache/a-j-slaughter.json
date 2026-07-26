@@ -1,7 +1,8 @@
 {
-  "fullName": "A.J. SLAUGHTER",
-  "sourceUrl": "https://basketball.eurobasket.com/player/AJ-Slaughter/115884",
+  "fullName": "A.J. Slaughter",
+  "sourceUrl": "https://basketball.latinbasket.com/player/AJ-Slaughter/115884",
   "height": "6'3'",
+  "college": "University Games COCABA Championships Olympic Games CAC Games Centrobasket Centrobasket U17 FIBA Americas U16 A",
   "currentTeam": "Anwil",
   "careerHistory": [
     {
@@ -177,18 +178,18 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
+      "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "POL-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:45:11.041Z",
+  "_lastVerified": "2026-07-26T07:29:22.031Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:45:11.041Z"
+  "cachedAt": "2026-07-26T07:29:22.031Z"
 }

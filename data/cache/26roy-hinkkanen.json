@@ -1,0 +1,60 @@
+{
+  "fullName": "#26Roy Hinkkanen",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Roy-Hinkkanen/352415",
+  "height": "6'0'",
+  "college": "University Games European Championships European Championships U20 European Championships U16",
+  "currentTeam": "Kipina",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "16-17",
+      "team": "PuHu Juniorit",
+      "league": "FIN-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Espoo Basket",
+      "league": "FIN-2"
+    },
+    {
+      "year": "20-21",
+      "team": "HyPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "21-22",
+      "team": "HyPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "22-23",
+      "team": "HyPo",
+      "league": "FIN-3"
+    },
+    {
+      "year": "22-23",
+      "team": "HyPo",
+      "league": "FIN-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Pantterit",
+      "league": "FIN-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Kipina",
+      "league": "FIN-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:20:44.701Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:20:44.701Z"
+}

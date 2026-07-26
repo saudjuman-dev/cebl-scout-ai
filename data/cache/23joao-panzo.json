@@ -1,0 +1,29 @@
+{
+  "fullName": "#23Joao Panzo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Joao-Panzo/660479",
+  "height": "6'7'",
+  "currentTeam": "Portugal",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Benfica Lisboa",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:41:29.427Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:41:29.427Z"
+}

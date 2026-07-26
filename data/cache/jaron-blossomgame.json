@@ -1,7 +1,8 @@
 {
-  "fullName": "JARON BLOSSOMGAME",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jaron-Blossomgame/259937",
+  "fullName": "Jaron Blossomgame",
+  "sourceUrl": "https://basketball.asia-basket.com/player/Jaron-Blossomgame/259937",
   "height": "6'7'",
+  "college": "College Clemson",
   "currentTeam": "Monaco",
   "careerHistory": [
     {
@@ -120,10 +121,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:23:54.250Z",
+  "_lastVerified": "2026-07-26T06:33:39.621Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:23:54.250Z"
+  "cachedAt": "2026-07-26T06:33:39.621Z"
 }

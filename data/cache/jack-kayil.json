@@ -1,9 +1,8 @@
 {
-  "fullName": "JACK KAYIL",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Jack-Kayil/640997",
+  "fullName": "Jack Kayil",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jack-Kayil/640997",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JACK KAYIL basketball profile Uniform No",
-  "currentTeam": "ALBA",
+  "currentTeam": "NY Knicks",
   "careerHistory": [
     {
       "year": "21-22",
@@ -53,23 +52,28 @@
     {
       "year": "25-26",
       "team": "ALBA",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "ALBA",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "ALBA",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "NY Knicks",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:23:22.503Z",
+  "_lastVerified": "2026-07-26T06:12:52.447Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:23:22.503Z"
+  "cachedAt": "2026-07-26T06:12:52.447Z"
 }

@@ -1,0 +1,60 @@
+{
+  "fullName": "#27Andrea Lo Biondo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andrea-Lo-Biondo/390880",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Caserta Pap.",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Miles CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "S.Idaho JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Winona St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Winona St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Agrigento",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Unicusano Pielle",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Caffe Toscano P.",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caserta Pap.",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:26:35.177Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:26:35.177Z"
+}

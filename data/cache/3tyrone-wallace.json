@@ -1,0 +1,130 @@
+{
+  "fullName": "#3Tyrone Wallace",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyrone-Wallace/265720",
+  "height": "6'5'",
+  "college": "College California",
+  "currentTeam": "Galatasaray",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "California",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Salt Lake City",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Los Angeles",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "20-21",
+      "team": "San Diego C.",
+      "league": "G League"
+    },
+    {
+      "year": "2021",
+      "team": "Indiana P.",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "21-22",
+      "team": "New Orleans P.",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Paris",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Turk Telekom",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galatasaray",
+      "league": "TUR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zalgiris",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:27:28.030Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:27:28.030Z"
+}

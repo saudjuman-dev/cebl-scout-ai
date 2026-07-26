@@ -1,8 +1,8 @@
 {
-  "fullName": "MAX HEIDEGGER",
+  "fullName": "Max Heidegger",
   "sourceUrl": "https://basketball.eurobasket.com/player/Max-Heidegger/405907",
   "height": "6'3'",
-  "college": "University of California Santa Barbara",
+  "college": "College UCSB",
   "currentTeam": "Burgos SP",
   "careerHistory": [
     {
@@ -107,19 +107,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bnei Hertzeliya",
-      "league": "ISR-1"
+      "team": "Burgos SP",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Burgos SP",
-      "league": "ESP-1"
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:47.148Z",
+  "_lastVerified": "2026-07-26T07:27:14.326Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:47.148Z"
+  "cachedAt": "2026-07-26T07:27:14.326Z"
 }

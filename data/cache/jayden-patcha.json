@@ -1,0 +1,50 @@
+{
+  "fullName": "Jayden Patcha",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jayden-Patcha/642451",
+  "height": "6'5'",
+  "college": "College VCSU",
+  "currentTeam": "Sangalhos",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Weatherford JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "EOSC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "USAO",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "USAO",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "VCSU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "VCSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sangalhos",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:11:16.797Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:11:16.797Z"
+}

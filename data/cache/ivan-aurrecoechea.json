@@ -1,7 +1,8 @@
 {
-  "fullName": "IVAN AURRECOECHEA",
+  "fullName": "Ivan Aurrecoechea",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ivan-Aurrecoechea/314919",
   "height": "6'9'",
+  "college": "College NM State",
   "currentTeam": "Granada",
   "careerHistory": [
     {
@@ -80,10 +81,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:51:52.168Z",
+  "_lastVerified": "2026-07-26T07:32:08.512Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:51:52.168Z"
+  "cachedAt": "2026-07-26T07:32:08.512Z"
 }

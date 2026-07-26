@@ -1,0 +1,43 @@
+{
+  "fullName": "#8Ibrahim Eren Songur",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ibrahim-Eren-Songur/597488",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Besiktas",
+      "league": "TUR-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Darussafaka",
+      "league": "TUR-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Erokspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:33:10.661Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:33:10.661Z"
+}

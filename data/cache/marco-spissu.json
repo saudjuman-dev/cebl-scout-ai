@@ -1,7 +1,8 @@
 {
-  "fullName": "MARCO SPISSU",
+  "fullName": "Marco Spissu",
   "sourceUrl": "https://basketball.eurobasket.com/player/Marco-Spissu/231392",
   "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Marco SpissuBasketball Player ProfileHeight184cm",
   "currentTeam": "Zaragoza",
   "careerHistory": [
     {
@@ -145,10 +146,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:43:42.676Z",
+  "_lastVerified": "2026-07-26T07:28:47.135Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:43:42.676Z"
+  "cachedAt": "2026-07-26T07:28:47.135Z"
 }

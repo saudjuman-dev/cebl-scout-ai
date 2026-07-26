@@ -1,0 +1,95 @@
+{
+  "fullName": "#1Damion Lee",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Damion-Lee/233401",
+  "height": "6'6'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games",
+  "currentTeam": "I.Ness Ziona",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Drexel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Drexel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Drexel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Drexel",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Louisville",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Maine C.",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Atlanta H.",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Santa Cruz W.",
+      "league": "G League"
+    },
+    {
+      "year": "19-20",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "21-22",
+      "team": "GS Warriors",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "I.Ness Ziona",
+      "league": "ISR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:12:44.837Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:12:44.837Z"
+}

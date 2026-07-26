@@ -1,0 +1,75 @@
+{
+  "fullName": "#10Tyler Groce",
+  "sourceUrl": "https://basketball.usbasket.com/player/Tyler-Groce/447326",
+  "height": "6'8'",
+  "college": "College Butler",
+  "currentTeam": "KW Titans",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "EMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "EMU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "EMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "EMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "EMU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Butler",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Butler",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Windsor Express",
+      "league": "BSL"
+    },
+    {
+      "year": "2024",
+      "team": "All Good Dawgs",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Muenster",
+      "league": "GER-2"
+    },
+    {
+      "year": "2025",
+      "team": "All Good Dawgs",
+      "league": "TBT"
+    },
+    {
+      "year": "25-26",
+      "team": "KW Titans",
+      "league": "BSL"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:01:43.888Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:01:43.888Z"
+}

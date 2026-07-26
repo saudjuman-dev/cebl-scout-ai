@@ -1,0 +1,23 @@
+{
+  "fullName": "#30Ral Pascual",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ral-Pascual/766992",
+  "currentTeam": "Clavijo",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Rioverde Clavijo Logrono",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Clavijo",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:55:38.221Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:55:38.221Z"
+}

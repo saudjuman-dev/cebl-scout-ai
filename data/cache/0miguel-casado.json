@@ -1,0 +1,33 @@
+{
+  "fullName": "#0Miguel Casado",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Casado/741000",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Valladolid",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zaragoza CB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Azulejos",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:56:34.547Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:56:34.547Z"
+}

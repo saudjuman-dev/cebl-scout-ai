@@ -1,7 +1,8 @@
 {
-  "fullName": "KEANDRE COOK",
+  "fullName": "Keandre Cook",
   "sourceUrl": "https://basketball.eurobasket.com/player/Keandre-Cook/430761",
   "height": "6'5'",
+  "college": "College Missouri St",
   "currentTeam": "Rio Breogan",
   "careerHistory": [
     {
@@ -83,15 +84,17 @@
       "year": "25-26",
       "team": "Rio Breogan",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "H.Tel-Aviv",
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:38:32.884Z",
+  "_lastVerified": "2026-07-26T07:25:28.946Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:56:57.073Z",
-  "nationality": "USA",
-  "birthdate": "May 1 1997",
-  "birthCity": "Baltimore"
+  "cachedAt": "2026-07-26T07:25:28.946Z"
 }

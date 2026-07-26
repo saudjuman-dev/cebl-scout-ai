@@ -1,0 +1,40 @@
+{
+  "fullName": "#22Robin Straub",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Robin-Straub/531778",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Bonn/Rh.",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Dragons",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:22.566Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:22.566Z"
+}

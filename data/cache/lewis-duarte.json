@@ -1,0 +1,25 @@
+{
+  "fullName": "Lewis Duarte",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lewis-Duarte/500521",
+  "height": "6'5'",
+  "college": "College NM State",
+  "currentTeam": "Reales",
+  "careerHistory": [
+    {
+      "year": "2024",
+      "team": "Reales",
+      "league": "DOM-1"
+    },
+    {
+      "year": "2025",
+      "team": "Reales",
+      "league": "DOM-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:35:46.410Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:35:46.410Z"
+}

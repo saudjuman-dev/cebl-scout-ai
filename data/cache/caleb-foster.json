@@ -1,0 +1,29 @@
+{
+  "fullName": "Caleb Foster",
+  "sourceUrl": "https://basketball.usbasket.com/player/Caleb-Foster/598139",
+  "height": "6'5'",
+  "currentTeam": "Duke",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Duke",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Duke",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:55:28.247Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:55:28.247Z"
+}

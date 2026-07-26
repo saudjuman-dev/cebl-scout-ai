@@ -1,0 +1,70 @@
+{
+  "fullName": "#12Erik Borg",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Erik-Borg/445469",
+  "height": "6'10'",
+  "college": "University Games European Championships for small countries European Championships U18 European Championships U16",
+  "currentTeam": "Kongsberg",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Kongsberg",
+      "league": "NOR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Kongsberg",
+      "league": "NOR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Kongsberg",
+      "league": "NOR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Hawaii-Hilo",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Hawaii-Hilo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Hawaii-Hilo",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Hawaii-Hilo",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cantbasket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sant Antoni",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Kongsberg",
+      "league": "NOR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kongsberg",
+      "league": "NOR-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:50:41.640Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:50:41.640Z"
+}

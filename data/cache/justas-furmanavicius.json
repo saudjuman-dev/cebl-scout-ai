@@ -1,8 +1,8 @@
 {
-  "fullName": "JUSTAS FURMANAVICIUS",
+  "fullName": "Justas Furmanavicius",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justas-Furmanavicius/216744",
   "height": "6'7'",
-  "college": "University of Mississippi",
+  "college": "College Ole Miss",
   "currentTeam": "Anwil",
   "careerHistory": [
     {
@@ -83,7 +83,12 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
@@ -93,18 +98,13 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "POL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Lietkabelis",
-      "league": "LTU-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:19:39.273Z",
+  "_lastVerified": "2026-07-26T08:25:07.400Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:19:39.273Z"
+  "cachedAt": "2026-07-26T08:25:07.400Z"
 }

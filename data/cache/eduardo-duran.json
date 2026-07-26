@@ -1,0 +1,100 @@
+{
+  "fullName": "Eduardo Duran",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Eduardo-Duran/179614",
+  "height": "6'3'",
+  "college": "College Majadahonda",
+  "currentTeam": "Granada",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Alcazar CD",
+      "league": "ESP-4"
+    },
+    {
+      "year": "11-12",
+      "team": "Torrejon",
+      "league": "ESP-4"
+    },
+    {
+      "year": "12-13",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "13-14",
+      "team": "Guadalajara",
+      "league": "ESP-3"
+    },
+    {
+      "year": "14-15",
+      "team": "Guadalajara",
+      "league": "ESP-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Palma Air Eur.",
+      "league": "ESP-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "UCAM",
+      "league": "BCL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "19-20",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Castellon",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Granada",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:32:18.560Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:32:18.560Z"
+}

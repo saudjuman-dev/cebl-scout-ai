@@ -1,8 +1,8 @@
 {
-  "fullName": "KJ JACKSON",
+  "fullName": "KJ Jackson",
   "sourceUrl": "https://basketball.eurobasket.com/player/KJ-Jackson/414511",
   "height": "6'2'",
-  "college": "University of Maryland",
+  "college": "College UMBC",
   "currentTeam": "PAOK",
   "careerHistory": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "year": "21-22",
-      "team": "Steaua B.",
+      "team": "Steaua",
       "league": "ROM-1"
     },
     {
       "year": "21-22",
-      "team": "Steaua B.",
+      "team": "Steaua",
       "league": "ROM-20"
     },
     {
@@ -96,10 +96,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:53:13.499Z",
+  "_lastVerified": "2026-07-26T07:39:33.023Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:53:13.499Z"
+  "cachedAt": "2026-07-26T07:39:33.023Z"
 }

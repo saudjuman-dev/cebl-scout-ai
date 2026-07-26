@@ -1,0 +1,24 @@
+{
+  "fullName": "Vassilis Vrettas",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vassilis-Vrettas/374281",
+  "height": "6'6'",
+  "currentTeam": "Ermis Agias",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Larissa BC",
+      "league": "GRE-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Larissa BC",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:45:48.437Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:45:48.437Z"
+}

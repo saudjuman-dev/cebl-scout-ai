@@ -1,0 +1,23 @@
+{
+  "fullName": "#44Raul Calvo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Raul-Calvo/716113",
+  "currentTeam": "Gijon Circulo",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Gijon T.Auto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gijon Circulo",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:09:27.729Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:09:27.729Z"
+}

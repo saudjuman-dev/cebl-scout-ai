@@ -1,0 +1,65 @@
+{
+  "fullName": "#9DeMarcus Sharp",
+  "sourceUrl": "https://basketball.eurobasket.com/player/DeMarcus-Sharp/504334",
+  "height": "6'3'",
+  "college": "College Austin Peay",
+  "currentTeam": "Akademik P.",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Colby CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "Missouri St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Missouri St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Missouri St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "NSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "NSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Austin Peay",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Akademik P.",
+      "league": "BUL-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:16:17.946Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:16:17.946Z"
+}

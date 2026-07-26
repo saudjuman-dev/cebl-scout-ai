@@ -1,0 +1,24 @@
+{
+  "fullName": "Cael Reichter",
+  "sourceUrl": "https://basketball.usbasket.com/player/Cael-Reichter/803371",
+  "height": "6'8'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:13:42.455Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:13:42.455Z"
+}

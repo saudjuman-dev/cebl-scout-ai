@@ -1,0 +1,44 @@
+{
+  "fullName": "Sahel Mouhri",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sahel-Mouhri/645000",
+  "height": "6'6'",
+  "currentTeam": "Les Sables",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Limoges U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Limoges",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Vitre",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Les Sables",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:08:10.332Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:08:10.332Z"
+}

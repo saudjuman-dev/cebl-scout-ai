@@ -1,0 +1,49 @@
+{
+  "fullName": "Maximus Karamouzis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maximus-Karamouzis/625749",
+  "height": "6'3'",
+  "currentTeam": "Sollentuna",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Alvik",
+      "league": "BBBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Alvik",
+      "league": "BBBL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "RIG Lulea",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Lulea BK",
+      "league": "SWE-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "GRE-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Panathinaikos Athens",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tureberg",
+      "league": "SWE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:54:17.720Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:54:17.720Z"
+}

@@ -1,7 +1,8 @@
 {
-  "fullName": "KENDRICK PERRY",
+  "fullName": "Kendrick Perry",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kendrick-Perry/209387",
   "height": "6'0'",
+  "college": "College YSU",
   "currentTeam": "Unicaja",
   "careerHistory": [
     {
@@ -31,7 +32,7 @@
     },
     {
       "year": "14-15",
-      "team": "Iowa W.",
+      "team": "Iowa Energy",
       "league": "G League"
     },
     {
@@ -167,18 +168,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:31.708Z",
+  "_lastVerified": "2026-07-26T07:23:13.054Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:31.708Z"
+  "cachedAt": "2026-07-26T07:23:13.054Z"
 }

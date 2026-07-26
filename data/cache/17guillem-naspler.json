@@ -1,0 +1,39 @@
+{
+  "fullName": "#17Guillem Naspler",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Guillem-Naspler/752495",
+  "height": "6'5'",
+  "currentTeam": "Manresa",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Motor Munich Cadi Manresa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Manresa",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:24:39.715Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:24:39.715Z"
+}

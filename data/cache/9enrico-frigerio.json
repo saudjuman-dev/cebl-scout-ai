@@ -1,0 +1,30 @@
+{
+  "fullName": "#9Enrico Frigerio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Enrico-Frigerio/654868",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Trento",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Trento",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Trento",
+      "league": "ITA-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Trento",
+      "league": "ITA-6"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:23:42.049Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:23:42.049Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "NATE DARLING",
+  "fullName": "Nate Darling",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nate-Darling/400074",
   "height": "6'5'",
-  "college": "University of Alabama at Birmingham",
+  "college": "College Delaware",
   "currentTeam": "Chalon/Saone",
   "careerHistory": [
     {
@@ -66,10 +66,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:26:04.277Z",
+  "_lastVerified": "2026-07-26T06:44:26.388Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:26:04.277Z"
+  "cachedAt": "2026-07-26T06:44:26.388Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "STEFAN NIKOLIC",
+  "fullName": "Stefan Nikolic",
   "sourceUrl": "https://basketball.eurobasket.com/player/Stefan-Nikolic/258606",
   "height": "6'8'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 STEFAN NIKOLIC basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Stefan NikolicBasketball Player ProfileHeight203cm",
   "currentTeam": "Venezia",
   "careerHistory": [
     {
@@ -83,18 +83,18 @@
     {
       "year": "25-26",
       "team": "Venezia",
-      "league": "Eurocup-1"
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
       "team": "Venezia",
-      "league": "ITA-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:30:34.095Z",
+  "_lastVerified": "2026-07-26T07:00:36.273Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:30:34.095Z"
+  "cachedAt": "2026-07-26T07:00:36.273Z"
 }

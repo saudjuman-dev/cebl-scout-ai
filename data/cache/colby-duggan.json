@@ -1,0 +1,35 @@
+{
+  "fullName": "Colby Duggan",
+  "sourceUrl": "https://basketball.usbasket.com/player/Colby-Duggan/682709",
+  "height": "6'7'",
+  "college": "College of Charleston",
+  "currentTeam": "Charleston",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Campbell",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Campbell",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Campbell",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Charleston",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:12:37.755Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:12:37.755Z"
+}

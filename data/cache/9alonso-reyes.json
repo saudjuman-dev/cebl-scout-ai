@@ -1,0 +1,49 @@
+{
+  "fullName": "#9Alonso Reyes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alonso-Reyes/592607",
+  "height": "6'6'",
+  "currentTeam": "Burgos SP",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Filipenses",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Santander",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Solgaleo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos U22",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Burgos SP",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:27:38.366Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:27:38.366Z"
+}

@@ -1,0 +1,50 @@
+{
+  "fullName": "Michail Margaritis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michail-Margaritis/452205",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Michail MargaritisBasketball Player ProfileHeight206cm",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Ludwigsburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Neustadt TSV",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Neustadt TSV",
+      "league": "GER-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Stade",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Haspe",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Herford",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:08.844Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:08.844Z"
+}

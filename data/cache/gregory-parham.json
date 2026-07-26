@@ -1,8 +1,8 @@
 {
-  "fullName": "GREGORY PARHAM",
+  "fullName": "Gregory Parham",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gregory-Parham/451144",
   "height": "6'4'",
-  "college": "University of South Alabama",
+  "college": "College USA",
   "currentTeam": "Oviedo",
   "careerHistory": [
     {
@@ -61,10 +61,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:52:41.416Z",
+  "_lastVerified": "2026-07-26T07:32:23.685Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:52:41.416Z"
+  "cachedAt": "2026-07-26T07:32:23.685Z"
 }

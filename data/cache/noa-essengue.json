@@ -1,0 +1,94 @@
+{
+  "fullName": "Noa Essengue",
+  "sourceUrl": "https://basketball.usbasket.com/player/Noa-Essengue/631085",
+  "height": "6'10'",
+  "currentTeam": "Chicago B.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "ASVEL U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "INSEP",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Pole France",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "2025",
+      "team": "Chicago Bulls",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Windy City B.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Chicago B.",
+      "league": "NBA"
+    },
+    {
+      "year": "2026",
+      "team": "Chicago B.",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:21:03.529Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:21:03.529Z"
+}

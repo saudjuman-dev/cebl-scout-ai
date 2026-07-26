@@ -1,8 +1,8 @@
 {
-  "fullName": "RJ COLE",
+  "fullName": "RJ Cole",
   "sourceUrl": "https://basketball.eurobasket.com/player/RJ-Cole/428646",
   "height": "6'0'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 RJ COLE basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 RJ ColeBasketball Player ProfileHeight182cm",
   "currentTeam": "Venezia",
   "careerHistory": [
     {
@@ -83,18 +83,18 @@
     {
       "year": "25-26",
       "team": "Venezia",
-      "league": "Eurocup-1"
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
       "team": "Venezia",
-      "league": "ITA-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:30:27.850Z",
+  "_lastVerified": "2026-07-26T07:00:20.295Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:30:27.850Z"
+  "cachedAt": "2026-07-26T07:00:20.295Z"
 }

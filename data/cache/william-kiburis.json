@@ -1,0 +1,29 @@
+{
+  "fullName": "William Kiburis",
+  "sourceUrl": "https://basketball.usbasket.com/player/William-Kiburis/705722",
+  "height": "6'4'",
+  "currentTeam": "MWSU",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "MWSU",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:14:31.613Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:14:31.613Z"
+}

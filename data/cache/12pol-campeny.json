@@ -1,0 +1,34 @@
+{
+  "fullName": "#12Pol Campeny",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pol-Campeny/711205",
+  "height": "6'6'",
+  "currentTeam": "Caceres",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Salt",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Salt",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Molina",
+      "league": "ESP-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Caceres",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:01:31.287Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:01:31.287Z"
+}

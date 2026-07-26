@@ -1,0 +1,99 @@
+{
+  "fullName": "Chumi Ortega",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Chumi-Ortega/347159",
+  "height": "6'3'",
+  "currentTeam": "Andorra",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "15-16",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "16-17",
+      "team": "UCAM",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Murcia Juver",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "UCAM",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Albacete",
+      "league": "ESP-3"
+    },
+    {
+      "year": "18-19",
+      "team": "CB Prat",
+      "league": "ESP-2"
+    },
+    {
+      "year": "18-19",
+      "team": "HLA Alicante",
+      "league": "ESP-3"
+    },
+    {
+      "year": "19-20",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "HLA Alicante",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Palencia",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Palencia",
+      "league": "ESP-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MoraBanc Andorra",
+      "league": "BCL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "MoraBanc Andorra",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Andorra",
+      "league": "ESP-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:31:22.800Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:31:22.800Z"
+}

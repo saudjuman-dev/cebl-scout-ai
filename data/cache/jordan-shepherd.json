@@ -1,8 +1,8 @@
 {
-  "fullName": "JORDAN SHEPHERD",
+  "fullName": "Jordan Shepherd",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Shepherd/402157",
   "height": "6'4'",
-  "college": "University of Oklahoma",
+  "college": "College California",
   "currentTeam": "Vichy",
   "careerHistory": [
     {
@@ -66,10 +66,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:38:44.454Z",
+  "_lastVerified": "2026-07-26T09:07:34.299Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:38:44.454Z"
+  "cachedAt": "2026-07-26T09:07:34.299Z"
 }

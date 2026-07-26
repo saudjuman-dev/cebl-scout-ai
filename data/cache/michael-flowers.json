@@ -1,8 +1,8 @@
 {
-  "fullName": "MICHAEL FLOWERS",
+  "fullName": "Michael Flowers",
   "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Flowers/431106",
   "height": "6'1'",
-  "college": "University of South Alabama",
+  "college": "College WSU",
   "currentTeam": "Petkim",
   "careerHistory": [
     {
@@ -72,21 +72,6 @@
     },
     {
       "year": "25-26",
-      "team": "Heidelberg",
-      "league": "BCL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Lietkabelis",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Petkim",
-      "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
       "team": "Petkim",
       "league": "TUR-1"
     },
@@ -99,12 +84,27 @@
       "year": "25-26",
       "team": "Lietkabelis",
       "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lietkabelis",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Heidelberg",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petkim",
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:01:35.882Z",
+  "_lastVerified": "2026-07-26T06:23:16.335Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:01:35.882Z"
+  "cachedAt": "2026-07-26T06:23:16.335Z"
 }

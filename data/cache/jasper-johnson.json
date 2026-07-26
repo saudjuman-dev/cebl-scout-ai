@@ -1,0 +1,25 @@
+{
+  "fullName": "Jasper Johnson",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jasper-Johnson/742463",
+  "height": "6'4'",
+  "college": "University of Kentucky",
+  "currentTeam": "Kentucky",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "RWE",
+      "league": "OTE"
+    },
+    {
+      "year": "25-26",
+      "team": "Kentucky",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:35:00.898Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:35:00.898Z"
+}

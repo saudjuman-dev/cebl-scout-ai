@@ -1,0 +1,29 @@
+{
+  "fullName": "Luke Kearney",
+  "sourceUrl": "https://basketball.usbasket.com/player/Luke-Kearney/608244",
+  "height": "6'7'",
+  "currentTeam": "Utah St.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Air Force",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Air Force",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:32:36.345Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:32:36.345Z"
+}

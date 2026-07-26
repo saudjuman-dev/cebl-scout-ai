@@ -1,7 +1,8 @@
 {
-  "fullName": "KENNY GOINS",
+  "fullName": "Kenny Goins",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kenny-Goins/370776",
   "height": "6'7'",
+  "college": "College Michigan St",
   "currentTeam": "Trefl",
   "careerHistory": [
     {
@@ -76,19 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Trefl",
+      "team": "Energa Trefl",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:13:13.830Z",
+  "_lastVerified": "2026-07-26T08:16:34.868Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:13:13.830Z"
+  "cachedAt": "2026-07-26T08:16:34.868Z"
 }

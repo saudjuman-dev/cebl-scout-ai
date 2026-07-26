@@ -1,9 +1,9 @@
 {
-  "fullName": "DAVID MUENKAT",
+  "fullName": "David Muenkat",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-Muenkat/501520",
   "height": "6'7'",
-  "college": "University Games European Championships Olympic Games European Championships U16 DAVID MUENKAT basketball profile Uniform No",
-  "currentTeam": "Wuerzburg",
+  "college": "University Games European Championships Olympic Games European Championships U16 David MuenkatBasketball Player ProfileHeight201cm",
+  "currentTeam": "Scarborough",
   "careerHistory": [
     {
       "year": "18-19",
@@ -73,23 +73,28 @@
     {
       "year": "25-26",
       "team": "Wuerzburg",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "Wuerzburg",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Wuerzburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Wuerzburg",
       "league": "GER-1"
+    },
+    {
+      "year": "2026",
+      "team": "Scarborough",
+      "league": "CEBL"
     }
   ],
-  "_lastVerified": "2026-05-24T06:52:40.777Z",
+  "_lastVerified": "2026-07-26T06:17:36.009Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-24T06:52:40.777Z"
+  "cachedAt": "2026-07-26T06:17:36.009Z"
 }

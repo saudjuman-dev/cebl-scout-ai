@@ -1,0 +1,50 @@
+{
+  "fullName": "#11Timothy Davis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Timothy-Davis/628257",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Cedarville",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Cedarville",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Cedarville",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:55:02.532Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:55:02.532Z"
+}

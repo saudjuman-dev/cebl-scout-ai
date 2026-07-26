@@ -1,9 +1,9 @@
 {
-  "fullName": "IVAN CRUZ-UCEDA",
+  "fullName": "Ivan Cruz-Uceda",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ivan-Cruz-Uceda/286091",
   "height": "6'10'",
-  "college": "University of Miami",
-  "currentTeam": "Melilla",
+  "college": "College Miami",
+  "currentTeam": "Rio Breogan",
   "careerHistory": [
     {
       "year": "13-14",
@@ -69,15 +69,17 @@
       "year": "25-26",
       "team": "Melilla",
       "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rio Breogan",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:24:08.193Z",
+  "_lastVerified": "2026-07-26T07:25:47.249Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:55:36.159Z",
-  "nationality": "Spanish",
-  "birthdate": "October 24 1991",
-  "birthCity": "Madrid"
+  "cachedAt": "2026-07-26T07:25:47.249Z"
 }

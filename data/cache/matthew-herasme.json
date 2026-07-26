@@ -1,0 +1,70 @@
+{
+  "fullName": "Matthew Herasme",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Matthew-Herasme/475323",
+  "height": "6'4'",
+  "college": "College UNH",
+  "currentTeam": "Caneros",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Marist",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Marist",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Marist",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Marist",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UNH",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Caneros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "2024",
+      "team": "Caneros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraurgi SB",
+      "league": "ESP-3"
+    },
+    {
+      "year": "2025",
+      "team": "Racing Ch.",
+      "league": "ARG-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Racing Ch.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "2026",
+      "team": "Caneros",
+      "league": "DOM-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:46:52.611Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:46:52.611Z"
+}

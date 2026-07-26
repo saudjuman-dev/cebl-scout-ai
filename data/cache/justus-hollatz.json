@@ -1,8 +1,8 @@
 {
-  "fullName": "JUSTUS HOLLATZ",
+  "fullName": "Justus Hollatz",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justus-Hollatz/356029",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JUSTUS HOLLATZ basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Justus HollatzBasketball Player ProfileHeight191cm",
   "currentTeam": "Bayern",
   "careerHistory": [
     {
@@ -98,12 +98,12 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "EUROL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -111,10 +111,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:22:39.693Z",
+  "_lastVerified": "2026-07-26T06:14:37.504Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:22:39.693Z"
+  "cachedAt": "2026-07-26T06:14:37.504Z"
 }

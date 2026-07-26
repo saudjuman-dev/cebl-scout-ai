@@ -1,0 +1,44 @@
+{
+  "fullName": "#8Evdoxios Kapetakis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Evdoxios-Kapetakis/701604",
+  "height": "6'7'",
+  "currentTeam": "Promitheas",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "DEKA",
+      "league": "GRE-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Karditsas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Promitheas",
+      "league": "GRE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sofadon",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:51:31.664Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:51:31.664Z"
+}

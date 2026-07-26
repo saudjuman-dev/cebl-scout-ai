@@ -1,7 +1,8 @@
 {
-  "fullName": "MICHAEL FORREST",
+  "fullName": "Michael Forrest",
   "sourceUrl": "https://basketball.eurobasket.com/player/Michael-Forrest/475817",
   "height": "6'1'",
+  "college": "College FAU",
   "currentTeam": "Murcia",
   "careerHistory": [
     {
@@ -75,10 +76,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:37:37.982Z",
+  "_lastVerified": "2026-07-26T07:18:38.446Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:37:37.982Z"
+  "cachedAt": "2026-07-26T07:18:38.446Z"
 }

@@ -1,0 +1,34 @@
+{
+  "fullName": "#38Kisingo Domingos",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kisingo-Domingos/714156",
+  "height": "6'10'",
+  "currentTeam": "Algeciras",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Kwanza",
+      "league": "ANG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Carbajosa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Andujar SKA",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Algeciras",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:17:13.545Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:17:13.545Z"
+}

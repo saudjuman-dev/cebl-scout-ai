@@ -1,0 +1,85 @@
+{
+  "fullName": "#9Jeremiah Bailey",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jeremiah-Bailey/463770",
+  "height": "6'7'",
+  "college": "College Pacific",
+  "currentTeam": "Bashkimi",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Pacific",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Pacific",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Caledonia",
+      "league": "ENG-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Caledonia",
+      "league": "ENG-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "2025",
+      "team": "Bashkimi",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bashkimi",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bashkimi",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Blue Wings",
+      "league": "SVK-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:39:51.337Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:39:51.337Z"
+}

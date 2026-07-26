@@ -1,0 +1,44 @@
+{
+  "fullName": "#7Romain Valakou",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Romain-Valakou/708497",
+  "height": "6'4'",
+  "currentTeam": "Gravelines",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Cholet U21",
+      "league": "FRA-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Cholet U18",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cholet Basket",
+      "league": "FRA-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cholet U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines U21",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:50:21.451Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:50:21.451Z"
+}

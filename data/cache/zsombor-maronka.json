@@ -1,8 +1,7 @@
 {
-  "fullName": "ZSOMBOR MARONKA",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Zsombor-Maronka/461951",
+  "fullName": "Zsombor Maronka",
+  "sourceUrl": "https://basketball.usbasket.com/player/Zsombor-Maronka/461951",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ZSOMBOR MARONKA basketball profile Uniform No",
   "currentTeam": "Hamburg",
   "careerHistory": [
     {
@@ -103,18 +102,18 @@
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:24:37.916Z",
+  "_lastVerified": "2026-07-26T06:29:43.314Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:24:37.916Z"
+  "cachedAt": "2026-07-26T06:29:43.314Z"
 }

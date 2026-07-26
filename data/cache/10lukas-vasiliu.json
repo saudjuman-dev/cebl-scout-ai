@@ -1,0 +1,45 @@
+{
+  "fullName": "#10Lukas Vasiliu",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lukas-Vasiliu/543632",
+  "height": "5'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Bochum",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Duesseldorf",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Hagen Phoenix",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Hagen-Haspe 70",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Bochum",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Recklinghausen",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:54:25.810Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:54:25.810Z"
+}

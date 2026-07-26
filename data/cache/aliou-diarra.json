@@ -1,9 +1,9 @@
 {
-  "fullName": "ALIOU DIARRA",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Aliou-Diarra/696605",
+  "fullName": "Aliou Diarra",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aliou-Diarra/696605",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 ALIOU DIARRA basketball profile Uniform No",
-  "currentTeam": "Virtus BO",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Portland TB",
   "careerHistory": [
     {
       "year": "2023",
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Virtus BO",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Portland TB",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-06-07T07:28:01.402Z",
+  "_lastVerified": "2026-07-26T06:58:35.559Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:28:01.402Z"
+  "cachedAt": "2026-07-26T06:58:35.559Z"
 }

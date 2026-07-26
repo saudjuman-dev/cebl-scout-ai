@@ -1,8 +1,8 @@
 {
-  "fullName": "FIIFI AIDOO",
+  "fullName": "Fiifi Aidoo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Fiifi-Aidoo/242507",
   "height": "6'3'",
-  "college": "University Games European Championships European Championships U20 European Championships U16 FIIFI AIDOO basketball profile Uniform No",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Fiifi AidooBasketball Player ProfileHeight189cm",
   "currentTeam": "Karhubasket",
   "careerHistory": [
     {
@@ -88,18 +88,18 @@
     {
       "year": "25-26",
       "team": "Karhubasket",
-      "league": "BCL-1"
+      "league": "FIN-1"
     },
     {
       "year": "25-26",
       "team": "Karhubasket",
-      "league": "FIN-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T09:07:48.655Z",
+  "_lastVerified": "2026-07-26T10:20:23.673Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:07:48.655Z"
+  "cachedAt": "2026-07-26T10:20:23.673Z"
 }

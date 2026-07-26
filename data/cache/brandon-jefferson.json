@@ -1,8 +1,8 @@
 {
-  "fullName": "BRANDON JEFFERSON",
+  "fullName": "Brandon Jefferson",
   "sourceUrl": "https://basketball.eurobasket.com/player/Brandon-Jefferson/215891",
   "height": "5'9'",
-  "college": "University of Denver",
+  "college": "College MSU Denver",
   "currentTeam": "Gran Canaria",
   "careerHistory": [
     {
@@ -136,10 +136,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:54:08.946Z",
+  "_lastVerified": "2026-07-26T06:40:00.763Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:54:08.946Z"
+  "cachedAt": "2026-07-26T06:40:00.763Z"
 }

@@ -1,0 +1,54 @@
+{
+  "fullName": "Mika Tangermann",
+  "sourceUrl": "https://basketball.usbasket.com/player/Mika-Tangermann/633838",
+  "height": "6'11'",
+  "currentTeam": "ENMU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Hamburg",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "ENMU",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:30:30.432Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:30:30.432Z"
+}

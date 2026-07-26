@@ -1,8 +1,8 @@
 {
-  "fullName": "VITTO BROWN",
+  "fullName": "Vitto Brown",
   "sourceUrl": "https://basketball.eurobasket.com/player/Vitto-Brown/300607",
   "height": "6'8'",
-  "college": "University of Wisconsin",
+  "college": "College Wisconsin",
   "currentTeam": "Besiktas",
   "careerHistory": [
     {
@@ -113,18 +113,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:57:33.111Z",
+  "_lastVerified": "2026-07-26T06:34:08.779Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:57:33.111Z"
+  "cachedAt": "2026-07-26T06:34:08.779Z"
 }

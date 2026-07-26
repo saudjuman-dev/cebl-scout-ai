@@ -1,0 +1,25 @@
+{
+  "fullName": "#8Matteo Guerrini",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Guerrini/722289",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Treviso",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Trento",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Treviso",
+      "league": "ITA-7"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:07:19.962Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:07:19.962Z"
+}

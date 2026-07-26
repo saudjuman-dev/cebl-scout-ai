@@ -1,7 +1,8 @@
 {
-  "fullName": "ERRICK MCCOLLUM",
+  "fullName": "Errick McCollum",
   "sourceUrl": "https://basketball.eurobasket.com/player/Errick-McCollum/173623",
   "height": "6'2'",
+  "college": "College Goshen",
   "currentTeam": "Galatasaray",
   "careerHistory": [
     {
@@ -160,10 +161,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:58:33.672Z",
+  "_lastVerified": "2026-07-26T07:10:21.593Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:58:33.672Z"
+  "cachedAt": "2026-07-26T07:10:21.593Z"
 }

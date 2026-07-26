@@ -1,7 +1,8 @@
 {
-  "fullName": "PATRICK CARTIER",
+  "fullName": "Patrick Cartier",
   "sourceUrl": "https://basketball.eurobasket.com/player/Patrick-Cartier/491529",
-  "height": "6'8'",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Patrick CartierBasketball Player ProfileHeight204cm",
   "currentTeam": "Zastal",
   "careerHistory": [
     {
@@ -46,14 +47,14 @@
     },
     {
       "year": "25-26",
-      "team": "Zastal",
+      "team": "Orlen Zastal",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:14:18.126Z",
+  "_lastVerified": "2026-07-26T08:20:30.814Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:14:18.126Z"
+  "cachedAt": "2026-07-26T08:20:30.814Z"
 }

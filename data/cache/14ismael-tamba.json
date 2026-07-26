@@ -1,0 +1,79 @@
+{
+  "fullName": "#14Ismael Tamba",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ismael-Tamba/449542",
+  "height": "6'7'",
+  "currentTeam": "Alicante",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Unicaja",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Unicaja",
+      "league": "ESP-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja MAL",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "CB Marbella",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "ZA Enamora",
+      "league": "ESP-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Fibwi Palma",
+      "league": "ESP-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Rioverde Clavijo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Moron",
+      "league": "ESP-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Alicante",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:51:24.592Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:51:24.592Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "AMIT GERSHON",
+  "fullName": "Amit Gershon",
   "sourceUrl": "https://basketball.eurobasket.com/player/Amit-Gershon/340667",
   "height": "6'3'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games AMIT GERSHON basketball profile Uniform",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Amit GershonBasketball Player ProfileHeight191cm",
   "currentTeam": "E.Netanya",
   "careerHistory": [
     {
@@ -72,19 +72,19 @@
     },
     {
       "year": "25-26",
-      "team": "E.Netanya",
+      "team": "H.Be'er Sheva",
       "league": "ISR-1"
     },
     {
       "year": "25-26",
-      "team": "H.Be'er Sheva",
+      "team": "E.Netanya",
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:43:01.339Z",
+  "_lastVerified": "2026-07-26T08:10:44.085Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:43:01.339Z"
+  "cachedAt": "2026-07-26T08:10:44.085Z"
 }

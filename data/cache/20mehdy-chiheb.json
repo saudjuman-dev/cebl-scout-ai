@@ -1,0 +1,23 @@
+{
+  "fullName": "#20Mehdy Chiheb",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mehdy-Chiheb/748188",
+  "currentTeam": "La Rochelle",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "La Rochelle",
+      "league": "FRA-6"
+    },
+    {
+      "year": "25-26",
+      "team": "La Rochelle",
+      "league": "FRA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:45:29.184Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:45:29.184Z"
+}

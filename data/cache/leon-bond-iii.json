@@ -1,0 +1,30 @@
+{
+  "fullName": "Leon Bond III",
+  "sourceUrl": "https://basketball.usbasket.com/player/Leon-Bond-III/618555",
+  "height": "6'5'",
+  "college": "University of Virginia",
+  "currentTeam": "UNI",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Virginia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNI",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:33:56.171Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:33:56.171Z"
+}

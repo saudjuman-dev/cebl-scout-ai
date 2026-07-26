@@ -1,8 +1,8 @@
 {
-  "fullName": "LUKA SCUKA",
+  "fullName": "Luka Scuka",
   "sourceUrl": "https://basketball.eurobasket.com/player/Luka-Scuka/479406",
   "height": "6'10'",
-  "college": "University Games European Championships Olympic Games European Championships U16 LUKA SCUKA basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Luka ScukaBasketball Player ProfileHeight207cm",
   "currentTeam": "Braunschweig",
   "careerHistory": [
     {
@@ -78,12 +78,12 @@
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -91,10 +91,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:16.943Z",
+  "_lastVerified": "2026-07-26T06:24:34.483Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:16.943Z"
+  "cachedAt": "2026-07-26T06:24:34.483Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "JORDAN BARNETT",
+  "fullName": "Jordan Barnett",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-Barnett/333480",
   "height": "6'7'",
-  "college": "University of Texas",
+  "college": "College Missouri",
   "currentTeam": "Dijon",
   "careerHistory": [
     {
@@ -126,10 +126,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:26:43.926Z",
+  "_lastVerified": "2026-07-26T06:30:20.213Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:26:43.926Z"
+  "cachedAt": "2026-07-26T06:30:20.213Z"
 }

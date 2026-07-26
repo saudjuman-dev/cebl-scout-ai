@@ -1,0 +1,54 @@
+{
+  "fullName": "#11Wojciech Nojszewski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wojciech-Nojszewski/660037",
+  "height": "6'3'",
+  "currentTeam": "Sosnowiec",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "AZS UMCS",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Dziki",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "HydroTruck",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Minsk Maz.",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Radom 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Dziki",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Sosnowiec",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:22:42.765Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:22:42.765Z"
+}

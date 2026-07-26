@@ -1,0 +1,25 @@
+{
+  "fullName": "Josh Harris",
+  "sourceUrl": "https://basketball.usbasket.com/player/Josh-Harris/745600",
+  "height": "6'8'",
+  "college": "University of North Florida",
+  "currentTeam": "UNF",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "UNF",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNF",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:18:19.596Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:18:19.596Z"
+}

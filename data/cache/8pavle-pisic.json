@@ -1,0 +1,35 @@
+{
+  "fullName": "#8Pavle Pisic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pavle-Pisic/685617",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Karlsruhe PS",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Speyer",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Karlsruhe PS 2",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:44:36.057Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:44:36.057Z"
+}

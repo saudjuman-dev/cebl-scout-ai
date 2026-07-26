@@ -1,7 +1,8 @@
 {
-  "fullName": "MIKE JAMES",
+  "fullName": "Mike James",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mike-James/208466",
   "height": "6'1'",
+  "college": "College Lamar",
   "currentTeam": "Monaco",
   "careerHistory": [
     {
@@ -175,10 +176,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:24:12.101Z",
+  "_lastVerified": "2026-07-26T06:33:30.461Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:24:12.101Z"
+  "cachedAt": "2026-07-26T06:33:30.461Z"
 }

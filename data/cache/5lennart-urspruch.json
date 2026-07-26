@@ -1,0 +1,40 @@
+{
+  "fullName": "#5Lennart Urspruch",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lennart-Urspruch/487468",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Leverkusen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:04:49.584Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:04:49.584Z"
+}

@@ -1,7 +1,8 @@
 {
-  "fullName": "JERRICK HARDING",
+  "fullName": "Jerrick Harding",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jerrick-Harding/413980",
   "height": "6'1'",
+  "college": "College Weber St",
   "currentTeam": "Rytas",
   "careerHistory": [
     {
@@ -90,10 +91,10 @@
       "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:23:30.022Z",
+  "_lastVerified": "2026-07-26T07:55:50.218Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:23:30.022Z"
+  "cachedAt": "2026-07-26T07:55:50.218Z"
 }

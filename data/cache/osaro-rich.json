@@ -1,8 +1,8 @@
 {
-  "fullName": "OSARO RICH",
+  "fullName": "Osaro Rich",
   "sourceUrl": "https://basketball.eurobasket.com/player/Osaro-Rich/318246",
   "height": "6'2'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             OSARO RICH basketball profile    Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Osaro RichBasketball Player ProfileHeight188cm",
   "currentTeam": "Hamburg",
   "careerHistory": [
     {
@@ -113,19 +113,18 @@
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:09:14.624Z",
+  "_lastVerified": "2026-07-26T06:29:45.890Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:28:52.353Z",
-  "birthdate": "July 22 1998"
+  "cachedAt": "2026-07-26T06:29:45.890Z"
 }

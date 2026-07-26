@@ -1,0 +1,39 @@
+{
+  "fullName": "#15Nikola Vasilic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nikola-Vasilic/670113",
+  "height": "6'6'",
+  "currentTeam": "Radnicki KG",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Joker S.",
+      "league": "SRB-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "SRB-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Radnicki KG",
+      "league": "ADR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:16:00.155Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:16:00.155Z"
+}

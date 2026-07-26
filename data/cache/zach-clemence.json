@@ -1,0 +1,40 @@
+{
+  "fullName": "Zach Clemence",
+  "sourceUrl": "https://basketball.usbasket.com/player/Zach-Clemence/499197",
+  "height": "6'11'",
+  "college": "College Preparatory School 2018",
+  "currentTeam": "Texas A&M",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Kansas",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Kansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Kansas",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:11:56.089Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:11:56.089Z"
+}

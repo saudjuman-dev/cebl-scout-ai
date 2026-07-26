@@ -1,0 +1,95 @@
+{
+  "fullName": "Aleksandar Zecevic",
+  "sourceUrl": "https://basketball.usbasket.com/player/Aleksandar-Zecevic/386280",
+  "height": "6'10'",
+  "college": "College FAU",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Motlow St. CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "San Jacinto",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Banik Handlova",
+      "league": "SVK-1"
+    },
+    {
+      "year": "21-22",
+      "team": "K.Sokoly",
+      "league": "UKR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Westerstede",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Zastal",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Enea Zastal",
+      "league": "POL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Novgorod",
+      "league": "VTB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "BC Minsk",
+      "league": "VTB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Bnei Hertzeliya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oldenburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Oldenburg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:32:53.915Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:32:53.915Z"
+}

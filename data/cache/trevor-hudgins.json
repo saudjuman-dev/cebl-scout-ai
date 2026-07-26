@@ -1,7 +1,8 @@
 {
-  "fullName": "TREVOR HUDGINS",
+  "fullName": "Trevor Hudgins",
   "sourceUrl": "https://basketball.eurobasket.com/player/Trevor-Hudgins/452591",
   "height": "5'11'",
+  "college": "College NW Missouri St",
   "currentTeam": "Le Mans",
   "careerHistory": [
     {
@@ -75,10 +76,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:25:27.342Z",
+  "_lastVerified": "2026-07-26T06:40:19.294Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:25:27.342Z"
+  "cachedAt": "2026-07-26T06:40:19.294Z"
 }

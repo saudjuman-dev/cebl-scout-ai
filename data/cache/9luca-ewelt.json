@@ -1,0 +1,55 @@
+{
+  "fullName": "#9Luca Ewelt",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luca-Ewelt/685290",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Canada CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Canada CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-20"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Braunschweig",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:25:06.232Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:25:06.232Z"
+}

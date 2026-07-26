@@ -1,7 +1,8 @@
 {
-  "fullName": "JUSTIN WRIGHT-FOREMAN",
+  "fullName": "Justin Wright-Foreman",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Wright-Foreman/369409",
   "height": "6'0'",
+  "college": "College Hofstra",
   "currentTeam": "Zaragoza",
   "careerHistory": [
     {
@@ -140,10 +141,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:43:52.321Z",
+  "_lastVerified": "2026-07-26T07:28:42.045Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:43:52.321Z"
+  "cachedAt": "2026-07-26T07:28:42.045Z"
 }

@@ -1,0 +1,24 @@
+{
+  "fullName": "#14Neilas Sabutis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Neilas-Sabutis/796148",
+  "height": "6'0'",
+  "currentTeam": "Nevezis",
+  "careerHistory": [
+    {
+      "year": "25-26",
+      "team": "Kedainiai",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Nevezis",
+      "league": "LTU-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:26:27.504Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:26:27.504Z"
+}

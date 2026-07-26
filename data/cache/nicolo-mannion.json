@@ -1,9 +1,9 @@
 {
-  "fullName": "NICOLO MANNION",
+  "fullName": "Nicolo Mannion",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nicolo-Mannion/445578",
   "birthCity": "Italy in 2001 and grew up between Sicily and Salt Lake City",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 NICOLO MANNION basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Nicolo MannionBasketball Player ProfileHeight190cm",
   "currentTeam": "Milano",
   "careerHistory": [
     {
@@ -84,12 +84,12 @@
     {
       "year": "25-26",
       "team": "Milano",
-      "league": "ITA-20"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "Milano",
-      "league": "EUROL-1"
+      "league": "ITA-20"
     },
     {
       "year": "25-26",
@@ -97,10 +97,10 @@
       "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:32:10.648Z",
+  "_lastVerified": "2026-07-26T06:57:28.591Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:32:10.648Z"
+  "cachedAt": "2026-07-26T06:57:28.591Z"
 }

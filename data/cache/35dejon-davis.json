@@ -1,0 +1,115 @@
+{
+  "fullName": "#35De'Jon Davis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/DeJon-Davis/405968",
+  "height": "6'7'",
+  "college": "College CBU",
+  "currentTeam": "Slask",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "CBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "17-18",
+      "team": "CBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "CBU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "CBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "CBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Petrolina AEK",
+      "league": "CYP-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Besiktas",
+      "league": "TUR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Apollon Patras",
+      "league": "GRE-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Heidelberg",
+      "league": "GER-20"
+    },
+    {
+      "year": "22-23",
+      "team": "Wonju DB",
+      "league": "KOR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Cayirova",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Panionios",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Urunday",
+      "league": "URU-1"
+    },
+    {
+      "year": "2025",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "AlKo-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Peja",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "POL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Slask",
+      "league": "Eurocup-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:18:58.849Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:18:58.849Z"
+}

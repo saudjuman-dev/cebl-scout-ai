@@ -1,0 +1,45 @@
+{
+  "fullName": "#14Maximilian Peters",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maximilian-Peters/688556",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Frankfurt",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Frankfurt",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Frankfurt",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt Jrs",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Frankfurt",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:31:22.259Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:31:22.259Z"
+}

@@ -1,0 +1,35 @@
+{
+  "fullName": "Jerald Colonel Jr.",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jerald-Colonel-Jr/620377",
+  "height": "6'9'",
+  "college": "College 2020",
+  "currentTeam": "SF Austin",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Chipola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "NSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SF Austin",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:55:02.138Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:55:02.138Z"
+}

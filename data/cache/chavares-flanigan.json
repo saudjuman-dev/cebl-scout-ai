@@ -1,8 +1,8 @@
 {
-  "fullName": "CHAVARES FLANIGAN",
+  "fullName": "Chavares Flanigan",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chavares-Flanigan/345506",
   "height": "6'5'",
-  "college": "University Games European Championships Olympic Games European Championships U16 CHAVARES FLANIGAN basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games European Championships U16 Chavares FlaniganBasketball Player ProfileHeight196cm",
   "currentTeam": "Braunschweig",
   "careerHistory": [
     {
@@ -98,12 +98,12 @@
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "GER-20"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Braunschweig",
-      "league": "FEL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -111,10 +111,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:10.971Z",
+  "_lastVerified": "2026-07-26T06:24:40.363Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:10.971Z"
+  "cachedAt": "2026-07-26T06:24:40.363Z"
 }

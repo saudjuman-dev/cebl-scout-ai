@@ -1,8 +1,8 @@
 {
-  "fullName": "ALEC ANIGBATA",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Alec-Anigbata/584439",
+  "fullName": "Alec Anigbata",
+  "sourceUrl": "https://basketball.usbasket.com/player/Alec-Anigbata/584439",
   "height": "6'9'",
-  "college": "University Games European Championships Olympic Games European Championships U16 ALEC ANIGBATA basketball profile Uniform No",
+  "college": "University of Utah",
   "currentTeam": "Ulm",
   "careerHistory": [
     {
@@ -83,18 +83,18 @@
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:23:56.788Z",
+  "_lastVerified": "2026-07-26T06:20:41.303Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:23:56.788Z"
+  "cachedAt": "2026-07-26T06:20:41.303Z"
 }

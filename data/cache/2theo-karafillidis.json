@@ -1,0 +1,30 @@
+{
+  "fullName": "#2Theo Karafillidis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Theo-Karafillidis/665606",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Schwelm",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Hagen Phoenix",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Schwelm",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Schwelm",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:11.043Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:11.043Z"
+}

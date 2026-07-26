@@ -1,9 +1,9 @@
 {
-  "fullName": "LANCE WARE",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Lance-Ware/423350",
+  "fullName": "Lance Ware",
+  "sourceUrl": "https://basketball.usbasket.com/player/Lance-Ware/423350",
   "height": "6'9'",
-  "college": "University of Kentucky",
-  "currentTeam": "Iraklis",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "NY Knicks",
   "careerHistory": [
     {
       "year": "20-21",
@@ -49,12 +49,17 @@
       "year": "25-26",
       "team": "Iraklis KAE",
       "league": "GRE-1"
+    },
+    {
+      "year": "2026",
+      "team": "NY Knicks",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:49:30.960Z",
+  "_lastVerified": "2026-07-26T07:44:35.422Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:49:30.960Z"
+  "cachedAt": "2026-07-26T07:44:35.422Z"
 }

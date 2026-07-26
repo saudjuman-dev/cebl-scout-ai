@@ -1,0 +1,29 @@
+{
+  "fullName": "#6Jose Luis Rubio",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jose-Luis-Rubio/89837",
+  "height": "5'10'",
+  "currentTeam": "Azulejos",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "CB Zaragoza",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:57:12.779Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:57:12.779Z"
+}

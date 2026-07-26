@@ -1,0 +1,35 @@
+{
+  "fullName": "#2Jules Bom",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jules-Bom/633836",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Braunschweig",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Hamburg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Rist Wedel",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Braunschweig",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:25:36.012Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:25:36.012Z"
+}

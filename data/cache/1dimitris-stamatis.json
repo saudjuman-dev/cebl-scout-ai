@@ -1,0 +1,79 @@
+{
+  "fullName": "#1Dimitris Stamatis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dimitris-Stamatis/227011",
+  "height": "6'3'",
+  "currentTeam": "Iraklis",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Panionios",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Panionios",
+      "league": "GRE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Nea Kifissia",
+      "league": "GRE-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Kymis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Kolossos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Ifaistos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Ifaistos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Aris",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraklis",
+      "league": "FEL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Iraklis KAE",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:45:30.112Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:45:30.112Z"
+}

@@ -1,9 +1,9 @@
 {
-  "fullName": "JOEL SORIANO",
-  "sourceUrl": "https://basketball.eurobasket.com/player/Joel-Soriano/475326",
+  "fullName": "#-Joel Soriano",
+  "sourceUrl": "https://basketball.latinbasket.com/player/Joel-Soriano/475326",
   "height": "6'11'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JOEL SORIANO basketball profile Uniform No",
-  "currentTeam": "Zaragoza",
+  "college": "College St",
+  "currentTeam": "Aguada",
   "careerHistory": [
     {
       "year": "19-20",
@@ -64,12 +64,17 @@
       "year": "25-26",
       "team": "Zaragoza",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Aguada",
+      "league": "PUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:17:29.266Z",
+  "_lastVerified": "2026-07-26T07:15:05.751Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:17:29.266Z"
+  "cachedAt": "2026-07-26T07:15:05.751Z"
 }

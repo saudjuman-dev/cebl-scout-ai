@@ -1,0 +1,55 @@
+{
+  "fullName": "#2Zack Rollins",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zack-Rollins/454252",
+  "height": "6'7'",
+  "college": "College MSUB",
+  "currentTeam": "Cordoba CB",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "MSUB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Delta",
+      "league": "GEO-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Edmonton",
+      "league": "LAM-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Long Island N.",
+      "league": "G League"
+    },
+    {
+      "year": "22-23",
+      "team": "Naestved",
+      "league": "DEN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Shumen",
+      "league": "BUL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Cair 2030",
+      "league": "MKD-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cordoba CB",
+      "league": "ESP-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:04:30.600Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:04:30.600Z"
+}

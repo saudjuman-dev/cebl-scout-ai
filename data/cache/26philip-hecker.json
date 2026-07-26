@@ -1,0 +1,65 @@
+{
+  "fullName": "#26Philip Hecker",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Philip-Hecker/487456",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Tuebingen",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Kronberg",
+      "league": "GER-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Sudhessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Sudhessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Hanau",
+      "league": "GER-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Hanau",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Hanau",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Tuebingen",
+      "league": "GER-20"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:56:39.517Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:56:39.517Z"
+}

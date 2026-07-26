@@ -1,0 +1,89 @@
+{
+  "fullName": "Maximilian Langenfeld",
+  "sourceUrl": "https://basketball.usbasket.com/player/Maximilian-Langenfeld/531810",
+  "height": "6'6'",
+  "currentTeam": "FAU",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "20-21",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Ulm BBU 01",
+      "league": "GER-4"
+    },
+    {
+      "year": "22-23",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "23-24",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "GER-1"
+    },
+    {
+      "year": "24-25",
+      "team": "FAU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "FAU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:18:22.181Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:18:22.181Z"
+}

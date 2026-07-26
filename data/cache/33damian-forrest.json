@@ -1,0 +1,70 @@
+{
+  "fullName": "#33Damian Forrest",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Damian-Forrest/532051",
+  "height": "6'9'",
+  "college": "College N",
+  "currentTeam": "Groningen",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "UM-Dearborn",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UM-Dearborn",
+      "league": "NAIA"
+    },
+    {
+      "year": "20-21",
+      "team": "Cleveland St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "N.Alabama",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Alabama",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Nuernberg",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Groningen",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Groningen",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Groningen",
+      "league": "NED-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:52:07.806Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:52:07.806Z"
+}

@@ -1,9 +1,9 @@
 {
-  "fullName": "DJ STEWARD",
-  "sourceUrl": "https://basketball.eurobasket.com/player/DJ-Steward/423767",
+  "fullName": "DJ Steward",
+  "sourceUrl": "https://basketball.usbasket.com/player/DJ-Steward/423767",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 DJ STEWARD basketball profile Uniform No",
-  "currentTeam": "Trento",
+  "college": "College Tracker Rookies in Pro Foreigners in America College Transfers Ex Pro Leagues Canadians Overseas Ex College Tracker U Sports CCAA BSL NBLCanada CEBL More Senior U22 U20",
+  "currentTeam": "Portland TB",
   "careerHistory": [
     {
       "year": "20-21",
@@ -93,18 +93,23 @@
     {
       "year": "25-26",
       "team": "Trento",
-      "league": "Eurocup-1"
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
       "team": "Trento",
-      "league": "ITA-1"
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "2026",
+      "team": "Portland TB",
+      "league": "NBA"
     }
   ],
-  "_lastVerified": "2026-05-31T07:29:56.451Z",
+  "_lastVerified": "2026-07-26T06:59:24.925Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:29:56.451Z"
+  "cachedAt": "2026-07-26T06:59:24.925Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "ROBERTS BLUMBERGS",
+  "fullName": "Roberts Blumbergs",
   "sourceUrl": "https://basketball.eurobasket.com/player/Roberts-Blumbergs/303251",
   "height": "6'10'",
+  "college": "College GCU",
   "currentTeam": "Petkim",
   "careerHistory": [
     {
@@ -90,10 +91,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:01:09.759Z",
+  "_lastVerified": "2026-07-26T08:07:44.630Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:01:09.759Z"
+  "cachedAt": "2026-07-26T08:07:44.630Z"
 }

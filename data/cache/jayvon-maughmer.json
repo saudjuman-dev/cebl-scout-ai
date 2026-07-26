@@ -1,7 +1,8 @@
 {
-  "fullName": "JAYVON MAUGHMER",
+  "fullName": "Jayvon Maughmer",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jayvon-Maughmer/509579",
-  "height": "6'6'",
+  "height": "6'5'",
+  "college": "College Liberty",
   "currentTeam": "Zastal",
   "careerHistory": [
     {
@@ -46,14 +47,14 @@
     },
     {
       "year": "25-26",
-      "team": "Zastal",
+      "team": "Orlen Zastal",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:14:08.722Z",
+  "_lastVerified": "2026-07-26T08:20:36.104Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:14:08.722Z"
+  "cachedAt": "2026-07-26T08:20:36.104Z"
 }

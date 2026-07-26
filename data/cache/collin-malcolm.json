@@ -1,8 +1,8 @@
 {
-  "fullName": "COLLIN MALCOLM",
+  "fullName": "Collin Malcolm",
   "sourceUrl": "https://basketball.eurobasket.com/player/Collin-Malcolm/378983",
   "height": "6'7'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             COLLIN MALCOLM basketball profile    Uniform No",
+  "college": "College WPU",
   "currentTeam": "H.Tel-Aviv",
   "careerHistory": [
     {
@@ -98,21 +98,18 @@
     {
       "year": "25-26",
       "team": "H.Tel-Aviv",
-      "league": "ISR-1"
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
       "team": "H.Tel-Aviv",
-      "league": "EUROL-1"
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:01:11.106Z",
+  "_lastVerified": "2026-07-26T06:35:16.769Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:58.491Z",
-  "nationality": "USA",
-  "birthdate": "July 2 1997",
-  "birthCity": "Ashland"
+  "cachedAt": "2026-07-26T06:35:16.769Z"
 }

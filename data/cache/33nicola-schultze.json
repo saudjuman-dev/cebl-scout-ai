@@ -1,0 +1,45 @@
+{
+  "fullName": "#33Nicola Schultze",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicola-Schultze/710598",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Phoenix Hagen",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin U18 team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "ALBA Berlin",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Phoenix Hagen",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Phoenix Hagen",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:43:27.793Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:43:27.793Z"
+}

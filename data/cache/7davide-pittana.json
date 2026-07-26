@@ -1,0 +1,30 @@
+{
+  "fullName": "#7Davide Pittana",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Davide-Pittana/760506",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Verona",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Tezenis Verona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Brescia",
+      "league": "ITA-7"
+    },
+    {
+      "year": "25-26",
+      "team": "Verona",
+      "league": "ITA-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:13:02.616Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:13:02.616Z"
+}

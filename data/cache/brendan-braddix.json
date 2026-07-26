@@ -1,0 +1,24 @@
+{
+  "fullName": "Brendan Braddix",
+  "sourceUrl": "https://basketball.usbasket.com/player/Brendan-Braddix/755145",
+  "height": "6'4'",
+  "currentTeam": "Delta St.",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Delta St.",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:05:44.715Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:05:44.715Z"
+}

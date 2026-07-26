@@ -1,7 +1,8 @@
 {
-  "fullName": "CHANDLER JACOBS",
+  "fullName": "Chandler Jacobs",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chandler-Jacobs/453112",
   "height": "6'3'",
+  "college": "College Colorado St",
   "currentTeam": "Clavijo",
   "careerHistory": [
     {
@@ -60,10 +61,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:01:06.409Z",
+  "_lastVerified": "2026-07-26T09:55:18.914Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:01:06.409Z"
+  "cachedAt": "2026-07-26T09:55:18.914Z"
 }

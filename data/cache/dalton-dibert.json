@@ -1,0 +1,29 @@
+{
+  "fullName": "Dalton Dibert",
+  "sourceUrl": "https://basketball.usbasket.com/player/Dalton-Dibert/674339",
+  "height": "6'2'",
+  "currentTeam": "Upper Iowa",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Upper Iowa",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:14:10.630Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:14:10.630Z"
+}

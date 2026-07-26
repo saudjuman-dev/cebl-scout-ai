@@ -1,0 +1,40 @@
+{
+  "fullName": "Dominic Vengert",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dominic-Vengert/663475",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Dominic VengertBasketball Player ProfileHeight195cm",
+  "currentTeam": "Heidelberg",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Heidelberg",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Ludwigsburg",
+      "league": "BCLJ-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Heidelberg",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Heidelberg",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:22:55.132Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:22:55.132Z"
+}

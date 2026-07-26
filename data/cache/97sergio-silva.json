@@ -1,0 +1,104 @@
+{
+  "fullName": "#97Sergio Silva",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-Silva/33196",
+  "height": "6'4'",
+  "currentTeam": "Lusitania",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Benfica Lisboa",
+      "league": "FEL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Benfica U23",
+      "league": "POR-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Benfica Lisboa",
+      "league": "POR-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Barreirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Terceira",
+      "league": "POR-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Imortal",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Benfica Lisboa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Benfica Lisboa",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Benfica Lisboa",
+      "league": "BCL-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Benfica Lisboa",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "FEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Lusitania",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:40:09.487Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:40:09.487Z"
+}

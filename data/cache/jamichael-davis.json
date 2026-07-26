@@ -1,0 +1,29 @@
+{
+  "fullName": "Jamichael Davis",
+  "sourceUrl": "https://basketball.usbasket.com/player/Jamichael-Davis/620890",
+  "height": "6'2'",
+  "currentTeam": "Rutgers",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:35:54.123Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:35:54.123Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "LUCA KELLIG",
+  "fullName": "Luca Kellig",
   "sourceUrl": "https://basketball.eurobasket.com/player/Luca-Kellig/589261",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 LUCA KELLIG basketball profile Height",
+  "college": "University Games European Championships Olympic Games European Championships U16 Luca KelligBasketball Player ProfileHeight191cm",
   "currentTeam": "Chemnitz",
   "careerHistory": [
     {
@@ -48,18 +48,18 @@
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "Eurocup-1"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Chemnitz",
-      "league": "GER-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:19:23.091Z",
+  "_lastVerified": "2026-07-26T06:28:35.685Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:19:23.091Z"
+  "cachedAt": "2026-07-26T06:28:35.685Z"
 }

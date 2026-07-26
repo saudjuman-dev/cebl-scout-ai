@@ -1,8 +1,8 @@
 {
-  "fullName": "KEVIN MCCLAIN",
+  "fullName": "#-Kevin McClain",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-McClain/369261",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 KEVIN MCCLAIN basketball profile Uniform",
+  "college": "University Games European Championships Olympic Games European Championships U16",
   "currentTeam": "Heidelberg",
   "careerHistory": [
     {
@@ -63,12 +63,12 @@
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "GER-20"
+      "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "Heidelberg",
-      "league": "BCL-1"
+      "league": "GER-20"
     },
     {
       "year": "25-26",
@@ -76,10 +76,10 @@
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:21:46.392Z",
+  "_lastVerified": "2026-07-26T06:23:11.140Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:21:46.392Z"
+  "cachedAt": "2026-07-26T06:23:11.140Z"
 }

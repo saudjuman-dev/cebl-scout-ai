@@ -1,0 +1,24 @@
+{
+  "fullName": "Julius Price",
+  "sourceUrl": "https://basketball.usbasket.com/player/Julius-Price/624808",
+  "height": "6'3'",
+  "currentTeam": "Sweden",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Fryshuset",
+      "league": "SWE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Fryshuset 2",
+      "league": "SWE-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:33:05.758Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:33:05.758Z"
+}

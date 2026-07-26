@@ -1,0 +1,59 @@
+{
+  "fullName": "#10Jonathan Boucaud",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jonathan-Boucaud/284116",
+  "height": "6'2'",
+  "currentTeam": "Tours",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Boulazac",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Aubenas",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Sorgues",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "La Rochelle",
+      "league": "FRA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Pont-de-Cheruy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Besancon",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Saint Vallier",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Tours",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:46:57.158Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:46:57.158Z"
+}

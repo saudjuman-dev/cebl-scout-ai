@@ -1,0 +1,65 @@
+{
+  "fullName": "#4Tre-Vaughn Minott",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tre-Vaughn-Minott/476777",
+  "height": "6'9'",
+  "college": "College Portland St",
+  "currentTeam": "Siauliai",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "S.Carolina",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "S.Carolina",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Portland St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Portland St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Portland St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Siauliai",
+      "league": "LTU-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Portland St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Portland St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T08:30:22.770Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T08:30:22.770Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "CHRIS DUARTE",
+  "fullName": "Chris Duarte",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chris-Duarte/427565",
   "height": "6'6'",
-  "college": "University of Oregon",
+  "college": "College Oregon",
   "currentTeam": "Unicaja",
   "careerHistory": [
     {
@@ -78,18 +78,18 @@
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "BCL-1"
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
       "team": "Unicaja",
-      "league": "ESP-1"
+      "league": "BCL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:18.628Z",
+  "_lastVerified": "2026-07-26T07:23:31.421Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:18.628Z"
+  "cachedAt": "2026-07-26T07:23:31.421Z"
 }

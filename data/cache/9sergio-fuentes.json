@@ -1,0 +1,44 @@
+{
+  "fullName": "#9Sergio Fuentes",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sergio-Fuentes/365516",
+  "height": "6'0'",
+  "currentTeam": "Valle de Egues",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "16-17",
+      "team": "Ardoi",
+      "league": "ESP-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Navarra",
+      "league": "ESP-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Valle de Egues",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-07-26T10:10:48.904Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T10:10:48.904Z"
+}

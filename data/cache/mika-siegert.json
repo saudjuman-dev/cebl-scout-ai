@@ -1,0 +1,30 @@
+{
+  "fullName": "Mika Siegert",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Mika-Siegert/689667",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Mika SiegertBasketball Player ProfileHeight201cm",
+  "currentTeam": "Weissenfels",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "MBA",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Weissenfels",
+      "league": "GER-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T06:22:26.485Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T06:22:26.485Z"
+}

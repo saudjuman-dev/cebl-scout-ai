@@ -1,0 +1,53 @@
+{
+  "fullName": "Utku Pelit",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Utku-Pelit/529534",
+  "currentTeam": "Darussafaka",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Tesvikiye",
+      "league": "TUR-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Tesvikiye",
+      "league": "TUR-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Tesvikiye",
+      "league": "TUR-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Gemlik",
+      "league": "TUR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Kapakli Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Cedi Osman",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Kapakli Spor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Darussafaka",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-07-26T07:32:56.476Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T07:32:56.476Z"
+}

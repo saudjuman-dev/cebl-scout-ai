@@ -1,5 +1,5 @@
 {
-  "fullName": "DORIAN ANGLOMA",
+  "fullName": "Dorian Angloma",
   "sourceUrl": "https://basketball.eurobasket.com/player/Dorian-Angloma/666006",
   "height": "6'1'",
   "currentTeam": "Evreux",
@@ -25,12 +25,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-01T14:51:20.693Z",
+  "_lastVerified": "2026-07-26T09:09:32.352Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:31:53.789Z",
-  "nationality": "French",
-  "birthdate": "April 5 2003"
+  "cachedAt": "2026-07-26T09:09:32.352Z"
 }

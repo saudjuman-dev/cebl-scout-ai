@@ -1,7 +1,8 @@
 {
-  "fullName": "ISAAC HANEY",
+  "fullName": "Isaac Haney",
   "sourceUrl": "https://basketball.eurobasket.com/player/Isaac-Haney/527219",
   "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Isaac HaneyBasketball Player ProfileHeight188cm",
   "currentTeam": "Valladolid",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:57:28.131Z",
+  "_lastVerified": "2026-07-26T09:43:43.174Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:57:28.131Z"
+  "cachedAt": "2026-07-26T09:43:43.174Z"
 }

@@ -1,0 +1,120 @@
+{
+  "fullName": "#42Derrick Marks",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Derrick-Marks/233189",
+  "height": "6'3'",
+  "college": "College Boise St",
+  "currentTeam": "Dinamo B.",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Boise St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "Tortona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Ravenna",
+      "league": "ITA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "17-18",
+      "team": "Crailsheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Manisa",
+      "league": "TUR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Reale Mutua TO",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Giorgio Tesi PT",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Balkan Botevgrad",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Balkan Botevgrad",
+      "league": "BUL-1"
+    },
+    {
+      "year": "2022",
+      "team": "Once A Bronco",
+      "league": "TBT"
+    },
+    {
+      "year": "22-23",
+      "team": "Tramec Cento",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Rivierabanca RIM",
+      "league": "ITA-2"
+    },
+    {
+      "year": "2024",
+      "team": "Once A Bronco",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Cividale",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "UCC Assigeco",
+      "league": "ITA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Dinamo",
+      "league": "ROM-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Dinamo",
+      "league": "ROM-1"
+    }
+  ],
+  "_lastVerified": "2026-07-26T09:16:22.712Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-07-26T09:16:22.712Z"
+}
