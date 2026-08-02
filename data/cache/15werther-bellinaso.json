@@ -1,0 +1,35 @@
+{
+  "fullName": "#15Werther Bellinaso",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Werther-Bellinaso/722274",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Italy",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tortona",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Tortona",
+      "league": "ITA-7"
+    },
+    {
+      "year": "24-25",
+      "team": "AX Armani Exchange M",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tortona",
+      "league": "ITA-7"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:53:19.808Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:53:19.808Z"
+}

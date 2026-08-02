@@ -1,0 +1,35 @@
+{
+  "fullName": "Ben Schwieger",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ben-Schwieger/578369",
+  "height": "6'7'",
+  "college": "College UNI",
+  "currentTeam": "UNI",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNI",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:38:26.517Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:38:26.517Z"
+}

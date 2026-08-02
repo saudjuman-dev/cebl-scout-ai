@@ -1,7 +1,8 @@
 {
-  "fullName": "LUTHER MUHAMMAD",
+  "fullName": "Luther Muhammad",
   "sourceUrl": "https://basketball.eurobasket.com/player/Luther-Muhammad/425798",
   "height": "6'3'",
+  "college": "College Arizona St",
   "currentTeam": "MKS DG",
   "careerHistory": [
     {
@@ -60,10 +61,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:12:49.362Z",
+  "_lastVerified": "2026-08-02T06:41:07.937Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:12:49.362Z"
+  "cachedAt": "2026-08-02T06:41:07.937Z"
 }

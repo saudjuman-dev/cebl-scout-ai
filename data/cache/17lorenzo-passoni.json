@@ -1,0 +1,65 @@
+{
+  "fullName": "#17Lorenzo Passoni",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lorenzo-Passoni/368452",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Montecatini",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Firenze PDrag",
+      "league": "ITA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Firenze",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Firenze",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Firenze",
+      "league": "ITA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "San Vendemiano",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Firenze",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Piacenza Basket",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Montecatini",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Montecatini",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Montecatini",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:55:56.329Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:55:56.329Z"
+}

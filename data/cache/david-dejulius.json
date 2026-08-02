@@ -1,8 +1,8 @@
 {
-  "fullName": "DAVID DEJULIUS",
+  "fullName": "David DeJulius",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-DeJulius/420638",
   "height": "6'0'",
-  "college": "University of Michigan",
+  "college": "College Cincinnati",
   "currentTeam": "Murcia",
   "careerHistory": [
     {
@@ -82,24 +82,24 @@
     },
     {
       "year": "25-26",
-      "team": "Murcia",
+      "team": "UCAM",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Murcia",
+      "team": "UCAM",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Murcia",
+      "team": "UCAM",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:37:25.443Z",
+  "_lastVerified": "2026-08-02T06:28:30.248Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:37:25.443Z"
+  "cachedAt": "2026-08-02T06:28:30.248Z"
 }

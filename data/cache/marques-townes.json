@@ -1,8 +1,8 @@
 {
-  "fullName": "MARQUES TOWNES",
+  "fullName": "Marques Townes",
   "sourceUrl": "https://basketball.eurobasket.com/player/Marques-Townes/336425",
   "height": "6'3'",
-  "college": "University of Chicago",
+  "college": "College Loyola",
   "currentTeam": "Oviedo",
   "careerHistory": [
     {
@@ -112,14 +112,14 @@
     },
     {
       "year": "25-26",
-      "team": "Oviedo",
+      "team": "Oviedo Baloncesto",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:52:34.963Z",
+  "_lastVerified": "2026-08-02T07:01:26.351Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:52:34.963Z"
+  "cachedAt": "2026-08-02T07:01:26.351Z"
 }

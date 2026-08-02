@@ -1,7 +1,8 @@
 {
-  "fullName": "OMAR LO",
+  "fullName": "Omar Lo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Omar-Lo/395377",
   "height": "6'9'",
+  "college": "College CBU",
   "currentTeam": "Zamora",
   "careerHistory": [
     {
@@ -51,14 +52,14 @@
     },
     {
       "year": "25-26",
-      "team": "Zamora",
+      "team": "ZA Enamora",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:11:30.138Z",
+  "_lastVerified": "2026-08-02T06:59:09.556Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:11:30.138Z"
+  "cachedAt": "2026-08-02T06:59:09.556Z"
 }

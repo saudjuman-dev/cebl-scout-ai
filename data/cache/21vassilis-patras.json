@@ -1,0 +1,29 @@
+{
+  "fullName": "#21Vassilis Patras",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Vassilis-Patras/523988",
+  "height": "6'5'",
+  "currentTeam": "Vikos I.",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Enosi Kavala",
+      "league": "GRE-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Eleftheroupoli",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Vikos I.",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:27:03.476Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:27:03.476Z"
+}

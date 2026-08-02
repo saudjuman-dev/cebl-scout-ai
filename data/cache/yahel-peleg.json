@@ -1,0 +1,45 @@
+{
+  "fullName": "Yahel Peleg",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yahel-Peleg/591276",
+  "height": "6'3'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Yahel PelegBasketball Player ProfileHeight190cm",
+  "currentTeam": "H.Migdal",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "H.Galil Elyon",
+      "league": "ISR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Hapoel Izrael",
+      "league": "ISR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "E.Mac.Netanya",
+      "league": "ISR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "H.Galil Elyon",
+      "league": "ISR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hapoel Izrael",
+      "league": "ISR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:33:53.799Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:33:53.799Z"
+}

@@ -1,0 +1,44 @@
+{
+  "fullName": "Rodrigo Choithramani",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Rodrigo-Choithramani/711319",
+  "height": "6'7'",
+  "currentTeam": "Avenida",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "San Jorge",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "San Jorge",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Dubai Basketball Aca",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Avenida",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:04:57.579Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:04:57.579Z"
+}

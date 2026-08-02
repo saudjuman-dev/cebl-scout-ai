@@ -1,0 +1,65 @@
+{
+  "fullName": "Blaize Sagna",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Blaize-Sagna/511000",
+  "height": "6'3'",
+  "college": "College SEMO",
+  "currentTeam": "SEMO",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Loughborough",
+      "league": "ENG-2"
+    },
+    {
+      "year": "2019",
+      "team": "Leicester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Loughborough",
+      "league": "ENG-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Howard Col., TX",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Howard Col., TX",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "UMC",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "UMC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "UMC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Stetson",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "SEMO",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:09:25.988Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:09:25.988Z"
+}

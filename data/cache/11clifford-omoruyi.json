@@ -37,7 +37,7 @@
     },
     {
       "year": "25-26",
-      "team": "M.Tel-Aviv",
+      "team": "Macc. Tel-Aviv",
       "league": "EUROL-1"
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "year": "25-26",
-      "team": "PAOK",
+      "team": "PAOK Mateco",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "PAOK",
+      "team": "PAOK Mateco",
       "league": "GRE-1"
     },
     {
@@ -62,14 +62,14 @@
     },
     {
       "year": "25-26",
-      "team": "M.Tel-Aviv",
+      "team": "Macc. Tel-Aviv",
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:07:29.032Z",
+  "_lastVerified": "2026-08-02T06:25:39.023Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:07:29.032Z"
+  "cachedAt": "2026-08-02T06:25:39.023Z"
 }

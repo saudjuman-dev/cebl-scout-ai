@@ -1,8 +1,8 @@
 {
-  "fullName": "JAVIAN DAVIS",
+  "fullName": "Javian Davis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Javian-Davis/475087",
   "height": "6'9'",
-  "college": "University of Alabama",
+  "college": "College UAB",
   "currentTeam": "FC Porto",
   "careerHistory": [
     {
@@ -43,23 +43,23 @@
     {
       "year": "25-26",
       "team": "FC Porto",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "FC Porto",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
       "team": "FC Porto",
       "league": "FEL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "FC Porto",
-      "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:28:15.243Z",
+  "_lastVerified": "2026-08-02T06:42:42.471Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:28:15.243Z"
+  "cachedAt": "2026-08-02T06:42:42.471Z"
 }

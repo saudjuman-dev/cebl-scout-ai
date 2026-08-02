@@ -1,0 +1,40 @@
+{
+  "fullName": "Theo Seng",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Theo-Seng/582040",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Theo SengBasketball Player ProfileHeight206cm",
+  "currentTeam": "Troy",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Sacramento St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "E.Arizona JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Troy",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Troy",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Troy",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:03.951Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:03.951Z"
+}

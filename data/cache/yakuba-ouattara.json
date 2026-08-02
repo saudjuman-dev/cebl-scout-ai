@@ -1,5 +1,5 @@
 {
-  "fullName": "YAKUBA OUATTARA",
+  "fullName": "Yakuba Ouattara",
   "sourceUrl": "https://basketball.eurobasket.com/player/Yakuba-Ouattara/171965",
   "height": "6'4'",
   "college": "University National Team",
@@ -121,12 +121,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:29:52.974Z",
+  "_lastVerified": "2026-08-02T06:15:44.204Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:32:25.108Z",
-  "birthdate": "January 24 1992",
-  "birthCity": "Tepa"
+  "cachedAt": "2026-08-02T06:15:44.204Z"
 }

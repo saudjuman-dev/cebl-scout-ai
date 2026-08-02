@@ -1,0 +1,40 @@
+{
+  "fullName": "Shilo Jackson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Shilo-Jackson/641927",
+  "height": "6'9'",
+  "college": "College LeMoyne",
+  "currentTeam": "LeMoyne",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Vincennes",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "TAMUCC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "LeMoyne",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:02:06.601Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:02:06.601Z"
+}

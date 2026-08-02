@@ -1,5 +1,5 @@
 {
-  "fullName": "SEBASTIAN ARIS CECCARDI",
+  "fullName": "Sebastian Aris Ceccardi",
   "sourceUrl": "https://basketball.eurobasket.com/player/Sebastian-Aris-Ceccardi/227939",
   "height": "6'3'",
   "currentTeam": "Alicante",
@@ -91,14 +91,14 @@
     },
     {
       "year": "25-26",
-      "team": "Alicante",
+      "team": "HLA Alicante",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:56:40.308Z",
+  "_lastVerified": "2026-08-02T07:00:08.000Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:56:40.308Z"
+  "cachedAt": "2026-08-02T07:00:08.000Z"
 }

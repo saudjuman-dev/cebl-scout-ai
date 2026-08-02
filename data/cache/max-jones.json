@@ -1,0 +1,70 @@
+{
+  "fullName": "Max Jones",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Max-Jones/598500",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Max JonesBasketball Player ProfileHeight193cm",
+  "currentTeam": "Manchester",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Tampa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Tampa",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "CS Fullerton",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "CS Fullerton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "CS Fullerton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "CS Fullerton",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manchester",
+      "league": "ENG-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Manchester",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manchester",
+      "league": "ENG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Kansas St.",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:12:21.159Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:12:21.159Z"
+}

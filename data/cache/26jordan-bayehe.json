@@ -83,18 +83,18 @@
     {
       "year": "25-26",
       "team": "Trento",
-      "league": "ITA-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Trento",
-      "league": "Eurocup-1"
+      "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-26T06:59:19.557Z",
+  "_lastVerified": "2026-08-02T06:18:18.485Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T06:59:19.557Z"
+  "cachedAt": "2026-08-02T06:18:18.485Z"
 }

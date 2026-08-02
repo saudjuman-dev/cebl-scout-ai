@@ -1,0 +1,50 @@
+{
+  "fullName": "Jeno Pildner",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jeno-Pildner/686040",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Jeno PildnerBasketball Player ProfileHeight198cm",
+  "currentTeam": "TKS 49ers",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Urspring",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Ehingen",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Urspring",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "TKS 49ers",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:48:28.826Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:48:28.826Z"
+}

@@ -86,7 +86,7 @@
     },
     {
       "year": "25-26",
-      "team": "Baskonia",
+      "team": "Cazoo Bask.",
       "league": "EUROL-1"
     },
     {
@@ -96,19 +96,19 @@
     },
     {
       "year": "25-26",
-      "team": "Rytas",
-      "league": "LTU-1"
+      "team": "Cazoo Bask.",
+      "league": "ESP-1"
     },
     {
       "year": "25-26",
-      "team": "Baskonia",
-      "league": "ESP-1"
+      "team": "Rytas",
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:25:40.681Z",
+  "_lastVerified": "2026-08-02T06:40:26.866Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:25:40.681Z"
+  "cachedAt": "2026-08-02T06:40:26.866Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "JUSTIN BRIGGS",
+  "fullName": "Justin Briggs",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Briggs/377188",
   "height": "6'10'",
-  "college": "University Chico",
+  "college": "College Chico St",
   "currentTeam": "Maroussi",
   "careerHistory": [
     {
@@ -96,10 +96,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:48:34.692Z",
+  "_lastVerified": "2026-08-02T06:17:39.981Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:48:34.692Z"
+  "cachedAt": "2026-08-02T06:17:39.981Z"
 }

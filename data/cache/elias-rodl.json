@@ -1,0 +1,40 @@
+{
+  "fullName": "Elias Rodl",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Elias-Rodl/673787",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Elias RodlBasketball Player ProfileHeight198cm",
+  "currentTeam": "Brandeis",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "St.Anselm",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Anselm",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Brandeis",
+      "league": "NCAA3"
+    },
+    {
+      "year": "25-26",
+      "team": "Brandeis",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Brandeis",
+      "league": "NCAA3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:13:24.674Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:13:24.674Z"
+}

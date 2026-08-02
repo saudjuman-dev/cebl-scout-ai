@@ -1,0 +1,40 @@
+{
+  "fullName": "Cristian Palomares",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cristian-Palomares/623582",
+  "height": "6'6'",
+  "college": "College Lawrence Tech",
+  "currentTeam": "Melilla",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Unicaja-Andal.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Malaga",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "El Pinar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Melilla",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Melilla",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:04:52.490Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:04:52.490Z"
+}

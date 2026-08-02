@@ -1,7 +1,8 @@
 {
-  "fullName": "JERMAINE SAMUELS JR.",
+  "fullName": "Jermaine Samuels Jr.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jermaine-Samuels-Jr/337722",
   "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Jermaine Samuels Jr",
   "currentTeam": "Burgos SP",
   "careerHistory": [
     {
@@ -71,14 +72,14 @@
     },
     {
       "year": "25-26",
-      "team": "Burgos SP",
+      "team": "Longevida SP",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:42:24.916Z",
+  "_lastVerified": "2026-08-02T06:21:00.502Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:42:24.916Z"
+  "cachedAt": "2026-08-02T06:21:00.502Z"
 }

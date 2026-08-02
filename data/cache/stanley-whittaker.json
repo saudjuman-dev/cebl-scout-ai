@@ -1,7 +1,8 @@
 {
-  "fullName": "STANLEY WHITTAKER",
+  "fullName": "Stanley Whittaker",
   "sourceUrl": "https://basketball.eurobasket.com/player/Stanley-Whittaker/329537",
   "height": "6'0'",
+  "college": "College Keiser",
   "currentTeam": "Petkim",
   "careerHistory": [
     {
@@ -95,10 +96,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:01:22.985Z",
+  "_lastVerified": "2026-08-02T06:23:19.198Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:01:22.985Z"
+  "cachedAt": "2026-08-02T06:23:19.198Z"
 }

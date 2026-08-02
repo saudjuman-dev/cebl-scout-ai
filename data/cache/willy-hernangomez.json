@@ -1,5 +1,5 @@
 {
-  "fullName": "WILLY HERNANGOMEZ",
+  "fullName": "Willy Hernangomez",
   "sourceUrl": "https://basketball.eurobasket.com/player/Willy-Hernangomez/203599",
   "height": "6'11'",
   "currentTeam": "Barca",
@@ -96,19 +96,19 @@
     },
     {
       "year": "25-26",
-      "team": "Barca",
+      "team": "FC Barcelona",
       "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Barca",
+      "team": "FC Barcelona",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:37:54.110Z",
+  "_lastVerified": "2026-08-02T06:24:17.596Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:37:54.110Z"
+  "cachedAt": "2026-08-02T06:24:17.596Z"
 }

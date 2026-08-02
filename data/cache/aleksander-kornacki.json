@@ -1,0 +1,24 @@
+{
+  "fullName": "Aleksander Kornacki",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aleksander-Kornacki/631774",
+  "height": "6'10'",
+  "currentTeam": "Poland",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Legia II",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Legia II",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:37:59.547Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:37:59.547Z"
+}

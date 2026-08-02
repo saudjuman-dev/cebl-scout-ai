@@ -1,0 +1,94 @@
+{
+  "fullName": "Danilo Ostojic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Danilo-Ostojic/258673",
+  "height": "6'9'",
+  "currentTeam": "DEAC",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "FMP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "15-16",
+      "team": "FMP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Metalac VL",
+      "league": "SRB-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Vrsac",
+      "league": "ADR-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Vrsac",
+      "league": "SRB-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Dynamic VP",
+      "league": "ADR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Dynamic VP",
+      "league": "ADR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Dynamic VP",
+      "league": "SRB-1"
+    },
+    {
+      "year": "20-21",
+      "team": "HydroTruck",
+      "league": "POL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Charilaos",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "HydroTruck",
+      "league": "POL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    },
+    {
+      "year": "23-24",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    },
+    {
+      "year": "24-25",
+      "team": "DEAC",
+      "league": "HUN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "DEAC",
+      "league": "HUN-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:00:48.639Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:00:48.639Z"
+}

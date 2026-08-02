@@ -1,0 +1,55 @@
+{
+  "fullName": "Nigel Scantlebury",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nigel-Scantlebury/446887",
+  "height": "6'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Nigel ScantleburyBasketball Player ProfileHeight183cm",
+  "currentTeam": "Zlatorog",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Niagara County",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Niagara County",
+      "league": "JUCO"
+    },
+    {
+      "year": "20-21",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "CCSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Vera",
+      "league": "GEO-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Slavia Nitra",
+      "league": "SVK-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Zlatorog",
+      "league": "SLO-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:46:19.467Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:46:19.467Z"
+}

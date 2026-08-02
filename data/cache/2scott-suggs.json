@@ -1,0 +1,100 @@
+{
+  "fullName": "#2Scott Suggs",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Scott-Suggs/162325",
+  "height": "6'6'",
+  "college": "College Washington",
+  "currentTeam": "Povoa",
+  "careerHistory": [
+    {
+      "year": "10-11",
+      "team": "Washington",
+      "league": "NCAA1"
+    },
+    {
+      "year": "12-13",
+      "team": "Washington",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "College Park SH",
+      "league": "G League"
+    },
+    {
+      "year": "14-15",
+      "team": "Chalon",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Raptors 905",
+      "league": "G League"
+    },
+    {
+      "year": "16-17",
+      "team": "Manresa",
+      "league": "ESP-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Basket Brindisi",
+      "league": "ITA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Kymis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Maccabi Hunter",
+      "league": "ISR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "BCL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "FEL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Iraklis",
+      "league": "GRE-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Geneve Lions",
+      "league": "SUI-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Union Tours",
+      "league": "FRA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Tours",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Povoa",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Povoa",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:43:52.670Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:43:52.670Z"
+}

@@ -1,0 +1,40 @@
+{
+  "fullName": "#35Francis Nwaokorie",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francis-Nwaokorie/457596",
+  "height": "6'7'",
+  "college": "College Loyola",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "UCSD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UCSD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UCSD",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Oviedo Baloncesto",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:58:15.225Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:58:15.225Z"
+}

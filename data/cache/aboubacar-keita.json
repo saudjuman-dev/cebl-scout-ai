@@ -1,0 +1,44 @@
+{
+  "fullName": "Aboubacar Keita",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Aboubacar-Keita/610847",
+  "height": "6'5'",
+  "currentTeam": "Navas",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "San Jorge",
+      "league": "ESP-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Viscola Navas",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:08:10.350Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:08:10.350Z"
+}

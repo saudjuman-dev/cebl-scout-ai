@@ -1,0 +1,30 @@
+{
+  "fullName": "Nate Hoter",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nate-Hoter/716962",
+  "height": "6'2'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Nate HoterBasketball Player ProfileHeight188cm",
+  "currentTeam": "Grand View",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Cheyney",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Grand View",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Grand View",
+      "league": "NAIA"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:31:44.506Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:31:44.506Z"
+}

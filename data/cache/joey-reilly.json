@@ -1,8 +1,8 @@
 {
-  "fullName": "JOEY REILLY",
+  "fullName": "Joey Reilly",
   "sourceUrl": "https://basketball.eurobasket.com/player/Joey-Reilly/534433",
   "height": "6'0'",
-  "college": "College of the Holy Cross",
+  "college": "College Sacred Heart",
   "currentTeam": "Gijon Circulo",
   "careerHistory": [
     {
@@ -41,10 +41,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:05:15.375Z",
+  "_lastVerified": "2026-08-02T07:08:03.395Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:05:15.375Z"
+  "cachedAt": "2026-08-02T07:08:03.395Z"
 }

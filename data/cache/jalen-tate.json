@@ -1,8 +1,8 @@
 {
-  "fullName": "JALEN TATE",
+  "fullName": "Jalen Tate",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Tate/402821",
   "height": "6'6'",
-  "college": "University of Arkansas",
+  "college": "College Arkansas",
   "currentTeam": "Gipuzkoa",
   "careerHistory": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "year": "25-26",
-      "team": "Gipuzkoa",
+      "team": "Guuk Gipuzkoa",
       "league": "ESP-2"
     },
     {
@@ -91,10 +91,10 @@
       "league": "ISR-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:53:14.015Z",
+  "_lastVerified": "2026-08-02T06:59:46.389Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:53:14.015Z"
+  "cachedAt": "2026-08-02T06:59:46.389Z"
 }

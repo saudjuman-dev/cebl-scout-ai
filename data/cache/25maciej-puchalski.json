@@ -1,0 +1,44 @@
+{
+  "fullName": "#25Maciej Puchalski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Maciej-Puchalski/621799",
+  "height": "6'9'",
+  "currentTeam": "Gornik",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Przemysl",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Przemysl",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Przemysl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Przemysl",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lancut",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Gornik",
+      "league": "POL-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:38:13.000Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:38:13.000Z"
+}

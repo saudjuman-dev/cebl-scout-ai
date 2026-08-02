@@ -1,0 +1,70 @@
+{
+  "fullName": "#21Barna Buglyo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Barna-Buglyo/641231",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "OrangeAcad.",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Ulm BBU 01",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Ulm",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Ulm",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:48:46.947Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:48:46.947Z"
+}

@@ -1,9 +1,57 @@
 {
-  "_lastScraped": "2026-07-26T10:22:56.660Z",
+  "_lastScraped": "2026-08-02T07:12:06.369Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-07-31",
+      "type": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Deng Adel released from Club",
+      "team": "Ottawa BlackJacks",
+      "date": "2026-07-31",
+      "type": "Deng Adel released from Club"
+    },
+    {
+      "player": "Ben Stevens released from Club",
+      "team": "Montreal Alliance",
+      "date": "2026-07-30",
+      "type": "Ben Stevens released from Club"
+    },
+    {
+      "player": "Joshua Francis removed from Practice Roster and added to Club's 14-man Roster",
+      "team": "Calgary Surge",
+      "date": "2026-07-29",
+      "type": "Joshua Francis removed from Practice Roster and added to Club's 14-man Roster"
+    },
+    {
+      "player": "Anthony Maxwell place on Practice Roster",
+      "team": "Montreal Alliance",
+      "date": "2026-07-24",
+      "type": "Anthony Maxwell place on Practice Roster"
+    },
+    {
+      "player": "Guillaume Boucard activated from Club's Injured List",
+      "team": "Montreal Alliance",
+      "date": "2026-07-24",
+      "type": "Guillaume Boucard activated from Club's Injured List"
+    },
+    {
+      "player": "Ithiel Horton placed on Club's Injured List (Lower Body)",
+      "team": "Montreal Alliance",
+      "date": "2026-07-24",
+      "type": "Ithiel Horton placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Quincy Guerrier activated from Club's Injured List",
+      "team": "Montreal Alliance",
+      "date": "2026-07-24",
+      "type": "Quincy Guerrier activated from Club's Injured List"
+    },
     {
       "player": "Makai Ashton-Langford released from Club",
       "team": "Edmonton Stingers",

@@ -1,5 +1,5 @@
 {
-  "fullName": "MAKSYMILIAN JECH",
+  "fullName": "Maksymilian Jech",
   "sourceUrl": "https://basketball.eurobasket.com/player/Maksymilian-Jech/590105",
   "height": "6'11'",
   "currentTeam": "Trefl",
@@ -26,19 +26,19 @@
     },
     {
       "year": "25-26",
-      "team": "Trefl 2",
+      "team": "UG Trefl",
       "league": "POL-3"
     },
     {
       "year": "25-26",
-      "team": "Energa Trefl",
+      "team": "Trefl Sopot",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:47:25.534Z",
+  "_lastVerified": "2026-08-02T06:34:43.601Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:47:25.534Z"
+  "cachedAt": "2026-08-02T06:34:43.601Z"
 }

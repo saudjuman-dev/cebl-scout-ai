@@ -1,7 +1,8 @@
 {
-  "fullName": "MATT LEWIS",
+  "fullName": "Matt Lewis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Lewis/429979",
   "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Matt LewisBasketball Player ProfileHeight192cm",
   "currentTeam": "Panionios",
   "careerHistory": [
     {
@@ -26,7 +27,7 @@
     },
     {
       "year": "21-22",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -36,7 +37,7 @@
     },
     {
       "year": "22-23",
-      "team": "Iowa W.",
+      "team": "Iowa Wolves",
       "league": "G League"
     },
     {
@@ -61,7 +62,7 @@
     },
     {
       "year": "24-25",
-      "team": "Karditsas",
+      "team": "Karditsa",
       "league": "GRE-1"
     },
     {
@@ -72,18 +73,18 @@
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "Eurocup-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Panionios",
-      "league": "GRE-1"
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:51:25.770Z",
+  "_lastVerified": "2026-08-02T06:13:07.620Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:51:25.770Z"
+  "cachedAt": "2026-08-02T06:13:07.620Z"
 }

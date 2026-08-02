@@ -1,8 +1,8 @@
 {
-  "fullName": "JORDAN KING",
+  "fullName": "Jordan King",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jordan-King/533792",
   "height": "6'0'",
-  "college": "University of Richmond",
+  "college": "College Richmond",
   "currentTeam": "Maroussi",
   "careerHistory": [
     {
@@ -56,10 +56,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:50:54.148Z",
+  "_lastVerified": "2026-08-02T06:16:28.983Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:50:54.148Z"
+  "cachedAt": "2026-08-02T06:16:28.983Z"
 }

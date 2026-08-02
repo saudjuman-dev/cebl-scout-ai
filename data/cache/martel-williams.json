@@ -1,0 +1,45 @@
+{
+  "fullName": "Martel Williams",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Martel-Williams/560913",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Martel WilliamsBasketball Player ProfileHeight190cm",
+  "currentTeam": "CBU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "SUU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "SUU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "SUU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "USU Easter",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "CBU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "CBU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:09.387Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:09.387Z"
+}

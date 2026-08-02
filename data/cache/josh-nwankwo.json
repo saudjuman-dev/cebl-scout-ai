@@ -1,0 +1,40 @@
+{
+  "fullName": "Josh Nwankwo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josh-Nwankwo/642023",
+  "height": "6'6'",
+  "college": "College UCO",
+  "currentTeam": "UCO",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Garden City",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "N.Mexico JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Central Mo.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Central Mo.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "UCO",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:02:54.928Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:02:54.928Z"
+}

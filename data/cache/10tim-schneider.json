@@ -127,13 +127,13 @@
     },
     {
       "year": "25-26",
-      "team": "Shizuoka",
-      "league": "JPN-2"
+      "team": "Ibaraki R.",
+      "league": "JPN-1"
     },
     {
       "year": "25-26",
-      "team": "Ibaraki R.",
-      "league": "JPN-1"
+      "team": "Shizuoka",
+      "league": "JPN-2"
     },
     {
       "year": "25-26",
@@ -141,10 +141,10 @@
       "league": "JPN-2"
     }
   ],
-  "_lastVerified": "2026-07-26T07:55:34.880Z",
+  "_lastVerified": "2026-08-02T06:28:02.246Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:55:34.880Z"
+  "cachedAt": "2026-08-02T06:28:02.246Z"
 }

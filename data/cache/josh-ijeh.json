@@ -1,0 +1,40 @@
+{
+  "fullName": "Josh Ijeh",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Josh-Ijeh/596118",
+  "height": "6'9'",
+  "college": "College CS East Bay",
+  "currentTeam": "CS East Bay",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "State College FL",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Casper CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "UMKC",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UMKC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "CS East Bay",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:05:00.155Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:05:00.155Z"
+}

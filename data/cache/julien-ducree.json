@@ -1,0 +1,85 @@
+{
+  "fullName": "Julien Ducree",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Julien-Ducree/377345",
+  "height": "6'9'",
+  "college": "College Utah Tech",
+  "currentTeam": "Cedi Osman",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "CS Monterey",
+      "league": "NCAA2"
+    },
+    {
+      "year": "15-16",
+      "team": "CS Monterey",
+      "league": "NCAA1"
+    },
+    {
+      "year": "15-16",
+      "team": "CS Monterey",
+      "league": "NCAA2"
+    },
+    {
+      "year": "16-17",
+      "team": "CS Monterey",
+      "league": "NCAA2"
+    },
+    {
+      "year": "17-18",
+      "team": "Dixie St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Dixie St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Dixie St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Fellbach",
+      "league": "GER-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Teuta",
+      "league": "ALB-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Oliveirense",
+      "league": "POR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "TED Kolejliler",
+      "league": "TUR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Shiga L-Stars",
+      "league": "JPN-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Cedi Osman",
+      "league": "TUR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:30:50.682Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:30:50.682Z"
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "Sami Jahan",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Sami-Jahan/531334",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Sami JahanBasketball Player ProfileHeight185cm",
+  "currentTeam": "Concordia",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "21-22",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "22-23",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Concordia",
+      "league": "USPO"
+    },
+    {
+      "year": "23-24",
+      "team": "Concordia",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Concordia",
+      "league": "USPO"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:24.804Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:24.804Z"
+}

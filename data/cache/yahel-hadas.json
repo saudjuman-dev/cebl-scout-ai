@@ -1,0 +1,45 @@
+{
+  "fullName": "Yahel Hadas",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yahel-Hadas/586053",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Yahel HadasBasketball Player ProfileHeight184cm",
+  "currentTeam": "Giessen",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Giessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "Giessen",
+      "league": "GER-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Giessen BBA",
+      "league": "GER-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Makkabi Frankfurt",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Makkabi Frankfurt",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Energie Giessen Poin",
+      "league": "GER-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:46:25.171Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:46:25.171Z"
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "#9Francois Kuyo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Francois-Kuyo/477550",
+  "height": "6'4'",
+  "currentTeam": "Povoa",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Cergy",
+      "league": "FRA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Cergy Pontoise",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Povoa",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:44:00.866Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:44:00.866Z"
+}

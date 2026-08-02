@@ -1,0 +1,64 @@
+{
+  "fullName": "Jakub Galewski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jakub-Galewski/648254",
+  "height": "6'0'",
+  "currentTeam": "Poland",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "WKK 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "WKK 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "WKK",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "WKK 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "WKK Wroclaw",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "WKK Wroclaw",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "WKK",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "WKK 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "WKK 2",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "WKK Wroclaw",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:35:44.246Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:35:44.246Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "RAMON VILA",
+  "fullName": "Ramon Vila",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ramon-Vila/272244",
   "height": "6'9'",
-  "college": "University of Tennessee at Chattanooga",
+  "college": "College Chattanooga",
   "currentTeam": "Burgos T.",
   "careerHistory": [
     {
@@ -72,14 +72,14 @@
     },
     {
       "year": "25-26",
-      "team": "Burgos T.",
+      "team": "Tizona Burgos",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:55:12.468Z",
+  "_lastVerified": "2026-08-02T07:00:15.127Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:55:12.468Z"
+  "cachedAt": "2026-08-02T07:00:15.127Z"
 }

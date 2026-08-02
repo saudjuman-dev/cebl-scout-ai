@@ -1,7 +1,8 @@
 {
-  "fullName": "C.J. HARRIS",
+  "fullName": "C.J. Harris",
   "sourceUrl": "https://basketball.eurobasket.com/player/CJ-Harris/183017",
   "height": "6'3'",
+  "college": "College Wake Forest",
   "currentTeam": "Peristeri",
   "careerHistory": [
     {
@@ -145,10 +146,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:32:45.460Z",
+  "_lastVerified": "2026-08-02T06:24:47.307Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:32:45.460Z"
+  "cachedAt": "2026-08-02T06:24:47.307Z"
 }

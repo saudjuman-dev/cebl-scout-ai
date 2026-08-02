@@ -1,8 +1,8 @@
 {
-  "fullName": "TIMMY ALLEN",
+  "fullName": "Timmy Allen",
   "sourceUrl": "https://basketball.eurobasket.com/player/Timmy-Allen/424266",
   "height": "6'6'",
-  "college": "University of Utah",
+  "college": "College Texas",
   "currentTeam": "Trapani",
   "careerHistory": [
     {
@@ -77,29 +77,29 @@
     },
     {
       "year": "25-26",
-      "team": "Trapani",
+      "team": "Trapani Sharks",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Trapani",
-      "league": "ITA-1"
-    },
-    {
-      "year": "25-26",
-      "team": "PAOK",
+      "team": "PAOK Mateco",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "PAOK",
+      "team": "Trapani Sharks",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "PAOK Mateco",
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:36:10.076Z",
+  "_lastVerified": "2026-08-02T06:23:37.436Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:36:10.076Z"
+  "cachedAt": "2026-08-02T06:23:37.436Z"
 }

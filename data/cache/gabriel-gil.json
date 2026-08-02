@@ -1,5 +1,5 @@
 {
-  "fullName": "GABRIEL GIL",
+  "fullName": "Gabriel Gil",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gabriel-Gil/517534",
   "height": "6'7'",
   "currentTeam": "Burgos T.",
@@ -46,14 +46,14 @@
     },
     {
       "year": "25-26",
-      "team": "Burgos T.",
+      "team": "Tizona Burgos",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:12:04.365Z",
+  "_lastVerified": "2026-08-02T07:06:29.130Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:12:04.365Z"
+  "cachedAt": "2026-08-02T07:06:29.130Z"
 }

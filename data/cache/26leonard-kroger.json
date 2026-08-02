@@ -1,0 +1,40 @@
+{
+  "fullName": "#26Leonard Kroger",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leonard-Kroger/749222",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Germany",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Paderborn",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Paderborn",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Paderborn",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:49:10.266Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:49:10.266Z"
+}

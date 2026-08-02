@@ -1,7 +1,8 @@
 {
-  "fullName": "MATHYS KANGUDIA",
+  "fullName": "Mathys Kangudia",
   "sourceUrl": "https://basketball.eurobasket.com/player/Mathys-Kangudia/666009",
   "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Mathys KangudiaBasketball Player ProfileHeight189cm",
   "currentTeam": "Nantes",
   "careerHistory": [
     {
@@ -35,10 +36,10 @@
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-06-07T07:59:56.408Z",
+  "_lastVerified": "2026-08-02T06:13:42.924Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:59:56.408Z"
+  "cachedAt": "2026-08-02T06:13:42.924Z"
 }

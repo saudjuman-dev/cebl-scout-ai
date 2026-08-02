@@ -1,0 +1,64 @@
+{
+  "fullName": "#1Wojciech Dzierzak",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Wojciech-Dzierzak/442238",
+  "height": "6'1'",
+  "currentTeam": "Bydgoszcz",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Trefl",
+      "league": "POL-5"
+    },
+    {
+      "year": "18-19",
+      "team": "Trefl Sopot",
+      "league": "POL-6"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl",
+      "league": "POL-5"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Decka Pelpin",
+      "league": "POL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Decka Pelpin",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Decka Pelpin",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:37:27.374Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:37:27.374Z"
+}

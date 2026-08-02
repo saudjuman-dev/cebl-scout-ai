@@ -1,0 +1,45 @@
+{
+  "fullName": "#7Konstantin Lehmann",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Konstantin-Lehmann/710553",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Koeln",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Koeln RS",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Koeln RS",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln RS",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Koeln",
+      "league": "GER-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:48:07.828Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:48:07.828Z"
+}

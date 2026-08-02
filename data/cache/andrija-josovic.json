@@ -1,0 +1,30 @@
+{
+  "fullName": "Andrija Josovic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andrija-Josovic/660397",
+  "height": "6'8'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Andrija JosovicBasketball Player ProfileHeight203cm",
+  "currentTeam": "Tortona",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Tortona",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "AX Armani Exchange M",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Tortona",
+      "league": "BCL-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:55:04.404Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:55:04.404Z"
+}

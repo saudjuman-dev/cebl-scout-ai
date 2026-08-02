@@ -1,0 +1,60 @@
+{
+  "fullName": "#2Epke Kruthaup",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Epke-Kruthaup/688147",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "Artland",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Vechta 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Vechta 2",
+      "league": "GER-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Quakenbrueck",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "RASTA Vechta 3rd tea",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "RASTA Ac.",
+      "league": "GER-8"
+    },
+    {
+      "year": "25-26",
+      "team": "Vechta 2",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "RASTA Vechta 3rd tea",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "25-26",
+      "team": "RASTA Ac.",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:59.217Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:59.217Z"
+}

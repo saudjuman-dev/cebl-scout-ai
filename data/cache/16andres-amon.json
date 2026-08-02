@@ -1,0 +1,29 @@
+{
+  "fullName": "#16Andres Amon",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andres-Amon/784530",
+  "height": "7'0'",
+  "currentTeam": "Spain",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:25.530Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:25.530Z"
+}

@@ -47,19 +47,19 @@
     },
     {
       "year": "25-26",
-      "team": "Gandia",
-      "league": "ESP-3"
+      "team": "Algeciras",
+      "league": "ESP-4"
     },
     {
       "year": "25-26",
-      "team": "Algeciras",
-      "league": "ESP-4"
+      "team": "Gandia",
+      "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-07-26T10:16:49.654Z",
+  "_lastVerified": "2026-08-02T07:02:32.472Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T10:16:49.654Z"
+  "cachedAt": "2026-08-02T07:02:32.472Z"
 }

@@ -1,8 +1,8 @@
 {
-  "fullName": "BENNET HUNDT",
+  "fullName": "Bennet Hundt",
   "sourceUrl": "https://basketball.eurobasket.com/player/Bennet-Hundt/281415",
   "height": "5'11'",
-  "college": "University Games European Championships Olympic Games European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             BENNET HUNDT basketball profile      Height",
+  "college": "University Games European Championships Olympic Games European Championships U16 Bennet HundtBasketball Player ProfileHeight180cm",
   "currentTeam": "ALBA",
   "careerHistory": [
     {
@@ -107,27 +107,24 @@
     },
     {
       "year": "25-26",
-      "team": "ALBA",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "ALBA",
+      "team": "ALBA Berlin",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "ALBA",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA Berlin",
       "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-01T01:54:21.645Z",
+  "_lastVerified": "2026-08-02T06:11:52.863Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:22:11.528Z",
-  "nationality": "German",
-  "birthdate": "August 20 1998",
-  "birthCity": "Berlin"
+  "cachedAt": "2026-08-02T06:11:52.863Z"
 }

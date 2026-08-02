@@ -1,0 +1,40 @@
+{
+  "fullName": "#10Edhodaghe Atamah",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Edhodaghe-Atamah/640945",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Italy",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Bassano",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bassano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Brindisi",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "AX Armani Exchange M",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Luiss Roma",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:56:56.882Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:56:56.882Z"
+}

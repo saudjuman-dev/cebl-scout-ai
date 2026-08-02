@@ -1,0 +1,30 @@
+{
+  "fullName": "#5Federico Bottelli",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Federico-Bottelli/727466",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Italy",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Varese",
+      "league": "ITA-7"
+    },
+    {
+      "year": "24-25",
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tortona",
+      "league": "ITA-7"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:53:38.041Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:53:38.041Z"
+}

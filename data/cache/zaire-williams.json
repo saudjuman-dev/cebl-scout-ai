@@ -1,0 +1,40 @@
+{
+  "fullName": "Zaire Williams",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zaire-Williams/604385",
+  "height": "6'4'",
+  "college": "College Mercer",
+  "currentTeam": "Mercer",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Mercer",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:58:23.361Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:58:23.361Z"
+}

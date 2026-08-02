@@ -1,0 +1,54 @@
+{
+  "fullName": "Bruno Vidarte",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bruno-Vidarte/621471",
+  "height": "6'3'",
+  "currentTeam": "Fuenlabrada",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Real Madrid B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Real Madrid",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Zaragoza",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Olivar Zaragoza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "2023",
+      "team": "Zaragoza",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:50.255Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:50.255Z"
+}

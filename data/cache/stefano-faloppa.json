@@ -1,0 +1,50 @@
+{
+  "fullName": "Stefano Faloppa",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Stefano-Faloppa/474437",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Stefano FaloppaBasketball Player ProfileHeight206cm",
+  "currentTeam": "New Haven",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Stella Azzurra",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Monroe Coll.",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Monroe Coll.",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "UT Martin",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UT Martin",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "New Haven",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "New Haven",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:56:33.624Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:56:33.624Z"
+}

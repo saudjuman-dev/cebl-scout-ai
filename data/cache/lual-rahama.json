@@ -1,0 +1,70 @@
+{
+  "fullName": "Lual Rahama",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Lual-Rahama/454092",
+  "height": "6'5'",
+  "college": "College Concord",
+  "currentTeam": "Feniks 2010",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Virginia St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Virginia St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Virginia St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Concord",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Concord",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Concord",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Z*Virginia Dream",
+      "league": "TBT"
+    },
+    {
+      "year": "2023",
+      "team": "Z*WV Grind",
+      "league": "TBL"
+    },
+    {
+      "year": "23-24",
+      "team": "Lusitania",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Ovarense",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Feniks 2010",
+      "league": "MKD-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:43:38.868Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:43:38.868Z"
+}

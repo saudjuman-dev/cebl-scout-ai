@@ -6,17 +6,17 @@
   "careerHistory": [
     {
       "year": "20-21",
-      "team": "LBC Cocinas",
+      "team": "Logro Basket",
       "league": "ESP-4"
     },
     {
       "year": "21-22",
-      "team": "LBC Cocinas",
+      "team": "Logro Basket",
       "league": "ESP-4"
     },
     {
       "year": "22-23",
-      "team": "LBC Cocinas",
+      "team": "Logro Basket",
       "league": "ESP-4"
     },
     {
@@ -35,10 +35,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-07-26T10:06:42.460Z",
+  "_lastVerified": "2026-08-02T07:07:55.622Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T10:06:42.460Z"
+  "cachedAt": "2026-08-02T07:07:55.622Z"
 }

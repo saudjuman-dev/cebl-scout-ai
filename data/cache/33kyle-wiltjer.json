@@ -82,12 +82,12 @@
     },
     {
       "year": "21-22",
-      "team": "Lenovo Tenerife",
+      "team": "Tenerife",
       "league": "BCL-1"
     },
     {
       "year": "21-22",
-      "team": "Lenovo Tenerife",
+      "team": "Tenerife",
       "league": "ESP-1"
     },
     {
@@ -122,19 +122,19 @@
     },
     {
       "year": "25-26",
-      "team": "Venezia",
-      "league": "ITA-1"
+      "team": "Umana Reyer",
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
-      "team": "Venezia",
-      "league": "Eurocup-1"
+      "team": "Umana Reyer",
+      "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:00:23.137Z",
+  "_lastVerified": "2026-08-02T06:18:40.866Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:00:23.137Z"
+  "cachedAt": "2026-08-02T06:18:40.866Z"
 }

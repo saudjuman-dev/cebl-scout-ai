@@ -1,0 +1,29 @@
+{
+  "fullName": "Djigui Diarra",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Djigui-Diarra/661875",
+  "height": "6'10'",
+  "currentTeam": "Oviedo",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Un.Oviedo",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Un.Oviedo",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:58:33.766Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:58:33.766Z"
+}

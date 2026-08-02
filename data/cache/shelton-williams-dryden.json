@@ -1,0 +1,40 @@
+{
+  "fullName": "Shelton Williams-Dryden",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Shelton-Williams-Dryden/676556",
+  "height": "6'6'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Shelton Williams",
+  "currentTeam": "UWG",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Milwaukee Tech",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Milwaukee Tech",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "West Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "West Georgia",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "West Georgia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:11:00.327Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:11:00.327Z"
+}

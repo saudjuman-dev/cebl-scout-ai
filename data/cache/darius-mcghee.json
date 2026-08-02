@@ -1,8 +1,8 @@
 {
-  "fullName": "DARIUS MCGHEE",
+  "fullName": "Darius McGhee",
   "sourceUrl": "https://basketball.eurobasket.com/player/Darius-McGhee/421838",
   "height": "5'9'",
-  "college": "College All",
+  "college": "College Liberty",
   "currentTeam": "Bourg",
   "careerHistory": [
     {
@@ -62,19 +62,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "Eurocup-1"
+      "team": "JL Bourg",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "FRA-1"
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:24:56.798Z",
+  "_lastVerified": "2026-08-02T06:23:24.053Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:24:56.798Z"
+  "cachedAt": "2026-08-02T06:23:24.053Z"
 }

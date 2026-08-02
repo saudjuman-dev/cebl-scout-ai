@@ -1,8 +1,8 @@
 {
-  "fullName": "RICARDO LINDO JR.",
+  "fullName": "Ricardo Lindo Jr.",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ricardo-Lindo-Jr/481231",
   "height": "6'8'",
-  "college": "University of Maryland",
+  "college": "College GWU",
   "currentTeam": "Bourg",
   "careerHistory": [
     {
@@ -57,19 +57,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "Eurocup-1"
+      "team": "JL Bourg",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "FRA-1"
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:24:49.808Z",
+  "_lastVerified": "2026-08-02T06:40:38.218Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:24:49.808Z"
+  "cachedAt": "2026-08-02T06:40:38.218Z"
 }

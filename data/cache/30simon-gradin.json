@@ -1,0 +1,44 @@
+{
+  "fullName": "#30Simon Gradin",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Simon-Gradin/729880",
+  "height": "6'9'",
+  "currentTeam": "Estudiantes B",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Obras",
+      "league": "ARG-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Estudiantes",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Dubai Basketball Aca",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "NGT Bologna",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:32.943Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:32.943Z"
+}

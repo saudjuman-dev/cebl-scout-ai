@@ -1,0 +1,50 @@
+{
+  "fullName": "Giacomo Zanetti",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Giacomo-Zanetti/644475",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Giacomo ZanettiBasketball Player ProfileHeight206cm",
+  "currentTeam": "Treviglio",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Cremona",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Milano",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Tortona",
+      "league": "ITA-5"
+    },
+    {
+      "year": "22-23",
+      "team": "Vanoli Cremona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Napoli",
+      "league": "ITA-6"
+    },
+    {
+      "year": "24-25",
+      "team": "Gruppo Mascio",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Gruppo Mascio",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:54:59.448Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:54:59.448Z"
+}

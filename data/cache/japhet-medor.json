@@ -1,0 +1,50 @@
+{
+  "fullName": "Japhet Medor",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Japhet-Medor/546050",
+  "height": "6'0'",
+  "college": "College Fordham",
+  "currentTeam": "Fordham",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Santa Fe CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Hillsborough",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "UTSA",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "UTSA",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fordham",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Fordham",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:06:17.438Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:06:17.438Z"
+}

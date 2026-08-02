@@ -1,0 +1,55 @@
+{
+  "fullName": "Ishmael Leggett",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Ishmael-Leggett/429847",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Ishmael LeggettBasketball Player ProfileHeight190cm",
+  "currentTeam": "Craiova",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "URI",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "URI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Pittsburgh",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Pittsburgh",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Craiova",
+      "league": "ROM-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Craiova",
+      "league": "ROM-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:14:06.337Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:14:06.337Z"
+}

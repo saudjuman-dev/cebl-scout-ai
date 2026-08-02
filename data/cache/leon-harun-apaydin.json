@@ -1,5 +1,5 @@
 {
-  "fullName": "LEON HARUN APAYDIN",
+  "fullName": "Leon Harun Apaydin",
   "sourceUrl": "https://basketball.eurobasket.com/player/Leon-Harun-Apaydin/437748",
   "height": "6'5'",
   "currentTeam": "Mersin Spor",
@@ -56,19 +56,19 @@
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
+      "team": "Mersin",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
+      "team": "Mersin",
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:02:16.747Z",
+  "_lastVerified": "2026-08-02T06:29:48.652Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:02:16.747Z"
+  "cachedAt": "2026-08-02T06:29:48.652Z"
 }

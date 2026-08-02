@@ -1,0 +1,29 @@
+{
+  "fullName": "Juanjo Bravo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Juanjo-Bravo/710868",
+  "height": "6'1'",
+  "currentTeam": "Aljaraque",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Cuenca",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Carbajosa",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Aljaraque",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:05:05.076Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:05:05.076Z"
+}

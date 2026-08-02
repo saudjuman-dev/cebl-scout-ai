@@ -1,0 +1,35 @@
+{
+  "fullName": "Matteo Corgnati",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Corgnati/606139",
+  "height": "6'1'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Matteo CorgnatiBasketball Player ProfileHeight186cm",
+  "currentTeam": "Vigevano",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Langhe Roero",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Montecatini",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Omegna",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Elachem VG",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:56:47.032Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:56:47.032Z"
+}

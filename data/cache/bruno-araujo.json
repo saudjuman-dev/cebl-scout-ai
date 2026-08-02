@@ -1,7 +1,8 @@
 {
-  "fullName": "BRUNO ARAUJO",
+  "fullName": "Bruno Araujo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Bruno-Araujo/478381",
   "height": "6'7'",
+  "college": "College MBU",
   "currentTeam": "Vitoria SC",
   "careerHistory": [
     {
@@ -31,7 +32,7 @@
     },
     {
       "year": "23-24",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
@@ -51,14 +52,14 @@
     },
     {
       "year": "25-26",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:52:51.300Z",
+  "_lastVerified": "2026-08-02T07:04:49.965Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:52:51.300Z"
+  "cachedAt": "2026-08-02T07:04:49.965Z"
 }

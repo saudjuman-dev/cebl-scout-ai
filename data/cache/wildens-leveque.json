@@ -1,8 +1,8 @@
 {
-  "fullName": "WILDENS LEVEQUE",
+  "fullName": "Wildens Leveque",
   "sourceUrl": "https://basketball.eurobasket.com/player/Wildens-Leveque/504518",
   "height": "6'11'",
-  "college": "University of South Carolina",
+  "college": "College Texas A",
   "currentTeam": "Caceres",
   "careerHistory": [
     {
@@ -47,14 +47,14 @@
     },
     {
       "year": "25-26",
-      "team": "Caceres",
+      "team": "CB Caceres",
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:00:45.845Z",
+  "_lastVerified": "2026-08-02T06:22:10.763Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:00:45.845Z"
+  "cachedAt": "2026-08-02T06:22:10.763Z"
 }

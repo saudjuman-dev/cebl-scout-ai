@@ -1,0 +1,44 @@
+{
+  "fullName": "Jaime Perez",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jaime-Perez/529577",
+  "height": "6'7'",
+  "currentTeam": "Zornotza",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Dist.Olimpico",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Rivas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zornotza",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:58.000Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:58.000Z"
+}

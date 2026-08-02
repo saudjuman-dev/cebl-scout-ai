@@ -1,0 +1,70 @@
+{
+  "fullName": "#44Javier Valeiras",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Javier-Valeiras/410479",
+  "height": "6'8'",
+  "college": "College Gannon",
+  "currentTeam": "Jaen FS",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "17-18",
+      "team": "Indian Hills",
+      "league": "JUCO"
+    },
+    {
+      "year": "18-19",
+      "team": "Gannon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Gannon",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Gannon",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "La Matanza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Sant Antoni",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Grindavik",
+      "league": "ISL-1"
+    },
+    {
+      "year": "21-22",
+      "team": "Badajoz Acad.",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Gymnastica",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen FS",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:04:12.827Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:04:12.827Z"
+}

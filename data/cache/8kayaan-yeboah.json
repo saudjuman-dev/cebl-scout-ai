@@ -1,0 +1,55 @@
+{
+  "fullName": "#8Kayaan Yeboah",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kayaan-Yeboah/710720",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16",
+  "currentTeam": "OrangeAcad.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "OrangeAcademy",
+      "league": "GER-5"
+    },
+    {
+      "year": "24-25",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "24-25",
+      "team": "OrangeAcademy",
+      "league": "GER-8"
+    },
+    {
+      "year": "24-25",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ratiopharm Ulm U18 t",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "01 Ulm",
+      "league": "GER-4"
+    },
+    {
+      "year": "25-26",
+      "team": "OrangeAcad.",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Ulm",
+      "league": "GER-8"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:48:57.688Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:48:57.688Z"
+}

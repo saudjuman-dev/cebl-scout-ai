@@ -1,0 +1,55 @@
+{
+  "fullName": "Dericko Williams",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dericko-Williams/498316",
+  "height": "6'7'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Dericko WilliamsBasketball Player ProfileHeight201cm",
+  "currentTeam": "Sigal Prishtina",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "UNCG",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Tallahassee",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ODU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "ECSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "ECSU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Sigal",
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Queluz",
+      "league": "POR-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:11:18.137Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:11:18.137Z"
+}

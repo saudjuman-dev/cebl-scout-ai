@@ -1,7 +1,8 @@
 {
-  "fullName": "JAN WOJCIK",
+  "fullName": "Jan Wojcik",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jan-Wojcik/364834",
-  "height": "6'9'",
+  "height": "6'11'",
+  "college": "College NW Florida St",
   "currentTeam": "Krosno",
   "careerHistory": [
     {
@@ -76,14 +77,14 @@
     },
     {
       "year": "25-26",
-      "team": "Krosno",
+      "team": "Miasto Szkla",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:19:12.117Z",
+  "_lastVerified": "2026-08-02T06:35:38.540Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:19:12.117Z"
+  "cachedAt": "2026-08-02T06:35:38.540Z"
 }

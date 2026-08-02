@@ -1,5 +1,5 @@
 {
-  "fullName": "PABLO SUAREZ",
+  "fullName": "Pablo Suarez",
   "sourceUrl": "https://basketball.eurobasket.com/player/Pablo-Suarez/375859",
   "height": "6'4'",
   "currentTeam": "Fuenlabrada",
@@ -56,19 +56,19 @@
     },
     {
       "year": "25-26",
-      "team": "Huesca",
-      "league": "ESP-3"
+      "team": "Fuenlabrada",
+      "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Fuenlabrada",
-      "league": "ESP-2"
+      "team": "Lobe Huesca LM",
+      "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-06-07T08:15:27.320Z",
+  "_lastVerified": "2026-08-02T07:05:47.853Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:15:27.320Z"
+  "cachedAt": "2026-08-02T07:05:47.853Z"
 }

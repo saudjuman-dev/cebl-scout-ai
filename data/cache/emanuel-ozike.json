@@ -1,0 +1,40 @@
+{
+  "fullName": "Emanuel Ozike",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Emanuel-Ozike/584872",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Emanuel OzikeBasketball Player ProfileHeight204cm",
+  "currentTeam": "BSW Sixers",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "MBA",
+      "league": "GER-5"
+    },
+    {
+      "year": "21-22",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:56.559Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:56.559Z"
+}

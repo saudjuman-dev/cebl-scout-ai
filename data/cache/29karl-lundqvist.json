@@ -1,0 +1,89 @@
+{
+  "fullName": "#29Karl Lundqvist",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Karl-Lundqvist/338125",
+  "height": "6'7'",
+  "currentTeam": "Obradoiro",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Jamtland",
+      "league": "SWE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Jamtland",
+      "league": "SWE-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Jamtland 2",
+      "league": "SWE-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Jamtland 2",
+      "league": "SWE-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Jamtland",
+      "league": "SWE-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Jamtland",
+      "league": "SWE-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Ponferrada",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Real Canoe",
+      "league": "ESP-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Palmer Alma",
+      "league": "ESP-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Oviedo",
+      "league": "ESP-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Coruna",
+      "league": "ESP-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Coruna",
+      "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Monbus OB",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:23:57.640Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:23:57.640Z"
+}

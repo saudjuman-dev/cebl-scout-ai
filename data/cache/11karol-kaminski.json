@@ -1,0 +1,94 @@
+{
+  "fullName": "#11Karol Kaminski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Karol-Kaminski/272350",
+  "height": "6'5'",
+  "currentTeam": "Bydgoszcz",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "AZS PG",
+      "league": "POL-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Asseco II",
+      "league": "POL-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Asseco II",
+      "league": "POL-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Asseco Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Asseco II",
+      "league": "POL-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Asseco Gdynia",
+      "league": "POL-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Znicz Basket",
+      "league": "POL-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Gornik",
+      "league": "POL-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl Sopot",
+      "league": "POL-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Gornik",
+      "league": "POL-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Znicz Basket",
+      "league": "POL-2"
+    },
+    {
+      "year": "22-23",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "23-24",
+      "team": "GKS Tychy",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Enea Astoria",
+      "league": "POL-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:37:32.840Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:37:32.840Z"
+}

@@ -1,0 +1,39 @@
+{
+  "fullName": "Luis Garcia-Larrache",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Luis-Garcia-Larrache/626483",
+  "height": "6'5'",
+  "currentTeam": "Real Canoe",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Real Canoe",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:55.530Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:55.530Z"
+}

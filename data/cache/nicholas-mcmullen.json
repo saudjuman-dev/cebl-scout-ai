@@ -1,8 +1,8 @@
 {
-  "fullName": "NICHOLAS MCMULLEN",
+  "fullName": "Nicholas McMullen",
   "sourceUrl": "https://basketball.eurobasket.com/player/Nicholas-McMullen/555489",
   "height": "6'8'",
-  "college": "University of North Carolina",
+  "college": "College Georgia St",
   "currentTeam": "Melilla",
   "careerHistory": [
     {
@@ -42,19 +42,19 @@
     },
     {
       "year": "25-26",
-      "team": "Muenster",
-      "league": "GER-2"
+      "team": "Melilla",
+      "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Melilla",
-      "league": "ESP-2"
+      "team": "Muenster",
+      "league": "GER-2"
     }
   ],
-  "_lastVerified": "2026-05-17T06:57:56.850Z",
+  "_lastVerified": "2026-08-02T06:51:17.797Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-17T06:57:56.850Z"
+  "cachedAt": "2026-08-02T06:51:17.797Z"
 }

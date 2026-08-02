@@ -1,7 +1,8 @@
 {
-  "fullName": "ANDREJS GRAZULIS",
+  "fullName": "Andrejs Grazulis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Andrejs-Grazulis/199814",
   "height": "6'8'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Andrejs GrazulisBasketball Player ProfileHeight202cm",
   "currentTeam": "Latvia",
   "careerHistory": [
     {
@@ -180,10 +181,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:04:43.546Z",
+  "_lastVerified": "2026-08-02T06:20:08.408Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:04:43.546Z"
+  "cachedAt": "2026-08-02T06:20:08.408Z"
 }

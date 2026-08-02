@@ -1,8 +1,8 @@
 {
-  "fullName": "JOE CREMO",
+  "fullName": "Joe Cremo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Joe-Cremo/369281",
   "height": "6'4'",
-  "college": "University at Albany",
+  "college": "College Villanova",
   "currentTeam": "Coruna",
   "careerHistory": [
     {
@@ -61,10 +61,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:50:09.663Z",
+  "_lastVerified": "2026-08-02T07:01:23.380Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:50:09.663Z"
+  "cachedAt": "2026-08-02T07:01:23.380Z"
 }

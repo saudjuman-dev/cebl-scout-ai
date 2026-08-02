@@ -1,7 +1,7 @@
 {
-  "fullName": "DAVID BREMBLY",
+  "fullName": "David Brembly",
   "sourceUrl": "https://basketball.eurobasket.com/player/David-Brembly/226267",
-  "height": "6'6'",
+  "height": "6'5'",
   "college": "University National Team",
   "currentTeam": "Stal",
   "careerHistory": [
@@ -122,14 +122,14 @@
     },
     {
       "year": "25-26",
-      "team": "Stal",
+      "team": "Arged Stal",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:16:42.092Z",
+  "_lastVerified": "2026-08-02T06:37:30.132Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:16:42.092Z"
+  "cachedAt": "2026-08-02T06:37:30.132Z"
 }

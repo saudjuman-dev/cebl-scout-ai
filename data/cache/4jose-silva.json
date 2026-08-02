@@ -26,17 +26,17 @@
     },
     {
       "year": "12-13",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
       "year": "13-14",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
       "year": "14-15",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
@@ -146,19 +146,19 @@
     },
     {
       "year": "25-26",
-      "team": "Benfica",
+      "team": "Benfica Lisboa",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Benfica",
+      "team": "Benfica Lisboa",
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:40:43.864Z",
+  "_lastVerified": "2026-08-02T06:41:14.641Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:40:43.864Z"
+  "cachedAt": "2026-08-02T06:41:14.641Z"
 }

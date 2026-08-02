@@ -1,0 +1,60 @@
+{
+  "fullName": "Jacob Hutson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jacob-Hutson/564083",
+  "height": "6'11'",
+  "college": "College UNI",
+  "currentTeam": "Ormanspor",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Loyola, IL",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Loyola, IL",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "UNI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UNI",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Ormanspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Rabotnicki",
+      "league": "MKD-1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNI",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:26:19.355Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:26:19.355Z"
+}

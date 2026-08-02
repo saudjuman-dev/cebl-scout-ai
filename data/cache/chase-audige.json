@@ -1,8 +1,8 @@
 {
-  "fullName": "CHASE AUDIGE",
+  "fullName": "Chase Audige",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chase-Audige/475808",
   "height": "6'4'",
-  "college": "College of William",
+  "college": "College Northwestern",
   "currentTeam": "Unicaja",
   "careerHistory": [
     {
@@ -87,29 +87,29 @@
     },
     {
       "year": "25-26",
-      "team": "Bosna S.",
+      "team": "Unicaja MAL",
+      "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Bosna",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Unicaja",
-      "league": "ESP-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Bosna S.",
+      "team": "Bosna",
       "league": "ADR-1"
     },
     {
       "year": "25-26",
-      "team": "Unicaja",
-      "league": "BCL-1"
+      "team": "Unicaja MAL",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-10T06:32:03.674Z",
+  "_lastVerified": "2026-08-02T06:22:58.940Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-10T06:32:03.674Z"
+  "cachedAt": "2026-08-02T06:22:58.940Z"
 }

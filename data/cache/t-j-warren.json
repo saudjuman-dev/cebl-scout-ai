@@ -1,0 +1,90 @@
+{
+  "fullName": "T.J. Warren",
+  "sourceUrl": "https://basketball.eurobasket.com/player/TJ-Warren/263865",
+  "height": "6'8'",
+  "college": "College NC State",
+  "currentTeam": "Westchester K.",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "NC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "13-14",
+      "team": "NC State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "14-15",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "14-15",
+      "team": "Bakersfield",
+      "league": "G League"
+    },
+    {
+      "year": "15-16",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "16-17",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "17-18",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "18-19",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "19-20",
+      "team": "Indiana Pacers",
+      "league": "NBA"
+    },
+    {
+      "year": "20-21",
+      "team": "Indiana Pacers",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Brooklyn",
+      "league": "NBA"
+    },
+    {
+      "year": "22-23",
+      "team": "Phoenix Suns",
+      "league": "NBA"
+    },
+    {
+      "year": "23-24",
+      "team": "Minnesota T.",
+      "league": "NBA"
+    },
+    {
+      "year": "24-25",
+      "team": "Westchester K.",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Westchester K.",
+      "league": "G League"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:14:54.620Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:14:54.620Z"
+}

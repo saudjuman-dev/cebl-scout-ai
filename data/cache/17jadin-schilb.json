@@ -1,0 +1,34 @@
+{
+  "fullName": "#17Jadin Schilb",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jadin-Schilb/747654",
+  "height": "6'5'",
+  "currentTeam": "Estudiantes B",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "USK Praha B",
+      "league": "CZE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "USK Praha",
+      "league": "CZE-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "NGT Abu Dhabi",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:37.987Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:37.987Z"
+}

@@ -1,0 +1,84 @@
+{
+  "fullName": "#7Kevin Thalien",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Thalien/172013",
+  "height": "6'3'",
+  "currentTeam": "Levallois",
+  "careerHistory": [
+    {
+      "year": "11-12",
+      "team": "Sluc Nancy",
+      "league": "FRA-1"
+    },
+    {
+      "year": "11-12",
+      "team": "Sluc Nancy",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Bordeaux",
+      "league": "FRA-2"
+    },
+    {
+      "year": "13-14",
+      "team": "Orchies",
+      "league": "FRA-2"
+    },
+    {
+      "year": "14-15",
+      "team": "Charleville-M.",
+      "league": "FRA-2"
+    },
+    {
+      "year": "15-16",
+      "team": "Berck",
+      "league": "FRA-3"
+    },
+    {
+      "year": "15-16",
+      "team": "Hyeres-Toulon",
+      "league": "FRA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "La Charite",
+      "league": "FRA-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Lourdes-Tarbes",
+      "league": "FRA-3"
+    },
+    {
+      "year": "19-20",
+      "team": "Gries/Oberhoffen",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Angers",
+      "league": "FRA-3"
+    },
+    {
+      "year": "21-22",
+      "team": "Chartres",
+      "league": "FRA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Levallois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Levallois",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:52:11.933Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:52:11.933Z"
+}

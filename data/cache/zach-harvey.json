@@ -1,0 +1,65 @@
+{
+  "fullName": "Zach Harvey",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zach-Harvey/535489",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Zach HarveyBasketball Player ProfileHeight198cm",
+  "currentTeam": "Norrkoping",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Cincinnati",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "UCSB",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "UCSB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Zdravlje",
+      "league": "SRB-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Komarno",
+      "league": "SVK-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Groningen",
+      "league": "NED-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Groningen",
+      "league": "BNXT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Groningen",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Norrkoping",
+      "league": "SWE-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:56:38.913Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:56:38.913Z"
+}

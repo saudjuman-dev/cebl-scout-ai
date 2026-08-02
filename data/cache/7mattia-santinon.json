@@ -18,23 +18,23 @@
     {
       "year": "25-26",
       "team": "Brescia",
+      "league": "ITA-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "25-26",
       "team": "Brescia",
       "league": "ITA-7"
-    },
-    {
-      "year": "25-26",
-      "team": "Brescia",
-      "league": "ITA-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:02:10.864Z",
+  "_lastVerified": "2026-08-02T06:20:27.507Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:02:10.864Z"
+  "cachedAt": "2026-08-02T06:20:27.507Z"
 }

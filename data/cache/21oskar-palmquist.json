@@ -1,0 +1,60 @@
+{
+  "fullName": "#21Oskar Palmquist",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oskar-Palmquist/396622",
+  "height": "6'8'",
+  "college": "College Rutgers",
+  "currentTeam": "Boras",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "RIG Mark",
+      "league": "SWE-2"
+    },
+    {
+      "year": "17-18",
+      "team": "RIG Mark",
+      "league": "SWE-3"
+    },
+    {
+      "year": "18-19",
+      "team": "RIG Mark",
+      "league": "SWE-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Rutgers",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Boras",
+      "league": "SWE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Boras",
+      "league": "SWE-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:02:18.934Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:02:18.934Z"
+}

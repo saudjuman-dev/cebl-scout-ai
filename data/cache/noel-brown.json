@@ -1,0 +1,60 @@
+{
+  "fullName": "Noel Brown",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Noel-Brown/527781",
+  "height": "6'11'",
+  "college": "College St",
+  "currentTeam": "Spartak Pleven",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "GWU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "GWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Bonaventure",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "St.Bonaventure",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Spartak P",
+      "league": "ENBL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Spartak P",
+      "league": "BUL-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:50:10.523Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:50:10.523Z"
+}

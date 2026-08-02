@@ -1,0 +1,45 @@
+{
+  "fullName": "Matt Solomon",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Solomon/523040",
+  "height": "6'3'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Matt SolomonBasketball Player ProfileHeight190cm",
+  "currentTeam": "WPU",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "CSUN",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Allan Hancock",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Binghamton",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "WPU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "WPU",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "WPU",
+      "league": "NAIA"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:31:42.029Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:31:42.029Z"
+}

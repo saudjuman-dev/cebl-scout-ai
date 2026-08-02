@@ -1,0 +1,35 @@
+{
+  "fullName": "Bradley Lightbourne",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Bradley-Lightbourne/598580",
+  "height": "6'4'",
+  "college": "College William Jewell",
+  "currentTeam": "William Jewell",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Kansas City",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Kansas City",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "William Jewell",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "William Jewell",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:07:33.733Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:07:33.733Z"
+}

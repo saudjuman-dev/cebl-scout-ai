@@ -131,12 +131,12 @@
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
+      "team": "Mersin",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
+      "team": "Mersin",
       "league": "TUR-1"
     },
     {
@@ -145,10 +145,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:26:10.674Z",
+  "_lastVerified": "2026-08-02T06:16:08.229Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:26:10.674Z"
+  "cachedAt": "2026-08-02T06:16:08.229Z"
 }

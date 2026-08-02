@@ -1,5 +1,5 @@
 {
-  "fullName": "GIOVAN ONIANGUE",
+  "fullName": "Giovan Oniangue",
   "sourceUrl": "https://basketball.eurobasket.com/player/Giovan-Oniangue/185389",
   "height": "6'6'",
   "currentTeam": "Saint Quentin",
@@ -121,19 +121,19 @@
     },
     {
       "year": "25-26",
-      "team": "Saint Quentin",
+      "team": "St Quentin",
       "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Saint Quentin",
+      "team": "St Quentin",
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-05-31T07:28:55.673Z",
+  "_lastVerified": "2026-08-02T06:52:00.145Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:28:55.673Z"
+  "cachedAt": "2026-08-02T06:52:00.145Z"
 }

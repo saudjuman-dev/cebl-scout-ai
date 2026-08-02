@@ -1,5 +1,5 @@
 {
-  "fullName": "LUCAS BEAUFORT",
+  "fullName": "Lucas Beaufort",
   "sourceUrl": "https://basketball.eurobasket.com/player/Lucas-Beaufort/470476",
   "height": "6'5'",
   "currentTeam": "Saint-Chamond",
@@ -66,14 +66,14 @@
     },
     {
       "year": "25-26",
-      "team": "Saint-Chamond",
+      "team": "St.Chamond",
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-06-07T07:31:15.629Z",
+  "_lastVerified": "2026-08-02T06:23:42.834Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:31:15.629Z"
+  "cachedAt": "2026-08-02T06:23:42.834Z"
 }

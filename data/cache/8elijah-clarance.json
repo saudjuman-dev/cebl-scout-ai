@@ -102,19 +102,19 @@
     },
     {
       "year": "25-26",
-      "team": "Saint Quentin",
+      "team": "St Quentin",
       "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Saint Quentin",
+      "team": "St Quentin",
       "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-07-26T06:41:24.799Z",
+  "_lastVerified": "2026-08-02T06:50:34.573Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T06:41:24.799Z"
+  "cachedAt": "2026-08-02T06:50:34.573Z"
 }

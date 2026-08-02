@@ -1,0 +1,35 @@
+{
+  "fullName": "Valentino Pinedo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Valentino-Pinedo/660259",
+  "height": "6'8'",
+  "college": "College UNCG",
+  "currentTeam": "UNCG",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ECU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SFU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UNCG",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:01:38.495Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:01:38.495Z"
+}

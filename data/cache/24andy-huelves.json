@@ -1,0 +1,49 @@
+{
+  "fullName": "#24Andy Huelves",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andy-Huelves/705956",
+  "height": "6'3'",
+  "currentTeam": "Burgos T.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "San Jorge",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "NGT Dubai",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "San Jorge",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Dubai Basketball Aca",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Tizona Burgos",
+      "league": "ESP-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:00:05.404Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:00:05.404Z"
+}

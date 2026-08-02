@@ -62,7 +62,7 @@
     },
     {
       "year": "23-24",
-      "team": "Puglia",
+      "team": "Ruvo di Puglia",
       "league": "ITA-3"
     },
     {
@@ -72,14 +72,14 @@
     },
     {
       "year": "25-26",
-      "team": "Mestre",
+      "team": "Gemini Mestre",
       "league": "ITA-2"
     }
   ],
-  "_lastVerified": "2026-07-26T09:26:17.722Z",
+  "_lastVerified": "2026-08-02T06:55:21.364Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T09:26:17.722Z"
+  "cachedAt": "2026-08-02T06:55:21.364Z"
 }

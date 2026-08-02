@@ -1,7 +1,8 @@
 {
-  "fullName": "JAHVAUGHN POWELL",
+  "fullName": "Jahvaughn Powell",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jahvaughn-Powell/358629",
   "height": "6'0'",
+  "college": "College Nicholls",
   "currentTeam": "Cantabria",
   "careerHistory": [
     {
@@ -75,10 +76,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:54:49.156Z",
+  "_lastVerified": "2026-08-02T07:04:32.369Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:54:49.156Z"
+  "cachedAt": "2026-08-02T07:04:32.369Z"
 }

@@ -1,5 +1,5 @@
 {
-  "fullName": "BUGRA CAL",
+  "fullName": "Bugra Cal",
   "sourceUrl": "https://basketball.eurobasket.com/player/Bugra-Cal/597485",
   "height": "6'9'",
   "currentTeam": "Manisa",
@@ -40,12 +40,10 @@
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T14:48:52.148Z",
+  "_lastVerified": "2026-08-02T06:30:04.005Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:23:59.096Z",
-  "nationality": "Turkish",
-  "birthdate": "May 5 2004"
+  "cachedAt": "2026-08-02T06:30:04.005Z"
 }

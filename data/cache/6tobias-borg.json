@@ -106,12 +106,12 @@
     },
     {
       "year": "21-22",
-      "team": "Lenovo Tenerife",
+      "team": "Tenerife",
       "league": "BCL-1"
     },
     {
       "year": "21-22",
-      "team": "Lenovo Tenerife",
+      "team": "Tenerife",
       "league": "ESP-1"
     },
     {
@@ -135,10 +135,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-07-26T09:03:34.110Z",
+  "_lastVerified": "2026-08-02T06:57:41.773Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T09:03:34.110Z"
+  "cachedAt": "2026-08-02T06:57:41.773Z"
 }

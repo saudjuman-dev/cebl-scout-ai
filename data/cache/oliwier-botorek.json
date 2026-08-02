@@ -1,0 +1,49 @@
+{
+  "fullName": "Oliwier Botorek",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oliwier-Botorek/709986",
+  "height": "6'5'",
+  "currentTeam": "Resovia 2",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Oknoplast",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Oknoplast",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Oknoplast Krakow",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Oknoplast",
+      "league": "POL-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Krakow",
+      "league": "EYBL U17-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Rzeszow",
+      "league": "EYBL U20-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Resovia 2",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:35:52.304Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:35:52.304Z"
+}

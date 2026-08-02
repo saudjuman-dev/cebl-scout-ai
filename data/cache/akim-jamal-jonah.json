@@ -1,0 +1,85 @@
+{
+  "fullName": "Akim-Jamal Jonah",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Akim-Jamal-Jonah/318265",
+  "height": "6'11'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Akim",
+  "currentTeam": "Bernau",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Charlottenburg",
+      "league": "GER-4"
+    },
+    {
+      "year": "15-16",
+      "team": "Stahnsdorf",
+      "league": "GER-3"
+    },
+    {
+      "year": "16-17",
+      "team": "Stahnsdorf",
+      "league": "GER-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Stahnsdorf",
+      "league": "GER-4"
+    },
+    {
+      "year": "18-19",
+      "team": "San Diego",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Ehingen",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Artland",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Kirchheim",
+      "league": "GER-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Naestved",
+      "league": "DEN-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Bernau",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Bernau",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:49:35.868Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:49:35.868Z"
+}

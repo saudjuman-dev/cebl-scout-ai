@@ -72,13 +72,8 @@
     },
     {
       "year": "25-26",
-      "team": "Chalon/Saone",
+      "team": "Chalon",
       "league": "FRA-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Manresa",
-      "league": "ESP-1"
     },
     {
       "year": "25-26",
@@ -87,14 +82,19 @@
     },
     {
       "year": "25-26",
-      "team": "Chalon/Saone",
+      "team": "Chalon",
       "league": "BCL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Manresa",
+      "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:48:09.581Z",
+  "_lastVerified": "2026-08-02T06:16:44.080Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:48:09.581Z"
+  "cachedAt": "2026-08-02T06:16:44.080Z"
 }

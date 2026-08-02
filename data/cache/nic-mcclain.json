@@ -1,0 +1,50 @@
+{
+  "fullName": "Nic McClain",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nic-McClain/594820",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Nic McClainBasketball Player ProfileHeight190cm",
+  "currentTeam": "Belmont",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Santa Fe CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Santa Fe CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Daytona St.",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "EWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "EWU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Belmont",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Belmont",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:46:53.285Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:46:53.285Z"
+}

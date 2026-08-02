@@ -1,0 +1,40 @@
+{
+  "fullName": "Brendan Terry",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Brendan-Terry/505832",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Brendan TerryBasketball Player ProfileHeight201cm",
+  "currentTeam": "SEMO",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Pensacola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Pensacola JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "SEMO",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "SEMO",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "SEMO",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:12:39.555Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:12:39.555Z"
+}

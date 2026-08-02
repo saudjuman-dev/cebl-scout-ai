@@ -1,0 +1,40 @@
+{
+  "fullName": "Justin Abson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Abson/608342",
+  "height": "6'9'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Justin AbsonBasketball Player ProfileHeight206cm",
+  "currentTeam": "Jamaica",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "App State",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "App State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "App State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Georgia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Georgia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:10:16.453Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:10:16.453Z"
+}

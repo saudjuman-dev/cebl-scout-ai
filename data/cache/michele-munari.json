@@ -1,0 +1,40 @@
+{
+  "fullName": "Michele Munari",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Michele-Munari/661882",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Michele MunariBasketball Player ProfileHeight190cm",
+  "currentTeam": "Desio",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Unieuro 2.015 F.",
+      "league": "ITA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Venezia",
+      "league": "ITA-6"
+    },
+    {
+      "year": "23-24",
+      "team": "Unieuro 2.015 F.",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Ravenna",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Rimadesio DE",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:54:44.316Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:54:44.316Z"
+}

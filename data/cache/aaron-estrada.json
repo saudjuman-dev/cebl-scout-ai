@@ -1,8 +1,8 @@
 {
-  "fullName": "AARON ESTRADA",
+  "fullName": "Aaron Estrada",
   "sourceUrl": "https://basketball.eurobasket.com/player/Aaron-Estrada/536300",
   "height": "6'3'",
-  "college": "University of Oregon",
+  "college": "College Alabama",
   "currentTeam": "Karditsas",
   "careerHistory": [
     {
@@ -57,12 +57,12 @@
     },
     {
       "year": "25-26",
-      "team": "Karditsas",
+      "team": "Karditsa",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Karditsas",
+      "team": "Karditsa",
       "league": "GRE-1"
     },
     {
@@ -71,10 +71,10 @@
       "league": "BNXT-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:50:34.179Z",
+  "_lastVerified": "2026-08-02T06:16:36.618Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:50:34.179Z"
+  "cachedAt": "2026-08-02T06:16:36.618Z"
 }

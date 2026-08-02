@@ -1,0 +1,49 @@
+{
+  "fullName": "Patryk Kowalski",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Patryk-Kowalski/547234",
+  "height": "6'4'",
+  "currentTeam": "Lublin 2",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Trefl II",
+      "league": "POL-3"
+    },
+    {
+      "year": "23-24",
+      "team": "AMW Flota",
+      "league": "POL-5"
+    },
+    {
+      "year": "23-24",
+      "team": "AMW Gdynia",
+      "league": "POL-3"
+    },
+    {
+      "year": "24-25",
+      "team": "LKS Lodz",
+      "league": "POL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "LKS PL",
+      "league": "POL-3"
+    },
+    {
+      "year": "25-26",
+      "team": "MKS Start 2",
+      "league": "POL-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:39:12.973Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:39:12.973Z"
+}

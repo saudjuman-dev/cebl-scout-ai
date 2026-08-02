@@ -1,0 +1,34 @@
+{
+  "fullName": "Marc Estape",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Marc-Estape/711320",
+  "height": "6'3'",
+  "currentTeam": "Zentro Basket",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "San Jorge",
+      "league": "ESP-5"
+    },
+    {
+      "year": "24-25",
+      "team": "Chlorella",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Zentro Basket",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:04:00.489Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:04:00.489Z"
+}

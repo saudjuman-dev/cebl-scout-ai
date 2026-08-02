@@ -1,0 +1,64 @@
+{
+  "fullName": "#9Pau Truno",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Pau-Truno/353963",
+  "height": "5'10'",
+  "currentTeam": "Jaen FS",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "JAC Sants",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "L'Alfas",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Ule RBH Global",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Sant Cugat",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Gymnastica",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Esparreguera",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Talavera",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Sindri",
+      "league": "ISL-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Espanyol",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Jaen FS",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:04:10.188Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:04:10.188Z"
+}

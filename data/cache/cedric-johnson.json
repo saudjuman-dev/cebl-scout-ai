@@ -1,0 +1,70 @@
+{
+  "fullName": "Cedric Johnson",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Cedric-Johnson/330036",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Cedric JohnsonBasketball Player ProfileHeight193cm",
+  "currentTeam": "Froya",
+  "careerHistory": [
+    {
+      "year": "13-14",
+      "team": "Cowley County",
+      "league": "JUCO"
+    },
+    {
+      "year": "14-15",
+      "team": "Cowley County",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "UNK",
+      "league": "NCAA1"
+    },
+    {
+      "year": "19-20",
+      "team": "UNK",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "UNK",
+      "league": "NCAA2"
+    },
+    {
+      "year": "21-22",
+      "team": "Sioux Falls",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Xavier",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Xavier",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "St.Xavier",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Absheron",
+      "league": "AZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Froya Basket",
+      "league": "NOR-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:47:32.406Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:47:32.406Z"
+}

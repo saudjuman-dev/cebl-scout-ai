@@ -1,8 +1,8 @@
 {
-  "fullName": "CHRIS SMITH",
+  "fullName": "Chris Smith",
   "sourceUrl": "https://basketball.eurobasket.com/player/Chris-Smith/425030",
   "height": "6'9'",
-  "college": "University of California at Los Angeles",
+  "college": "College UCLA",
   "currentTeam": "Iraklis",
   "careerHistory": [
     {
@@ -66,10 +66,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:49:27.684Z",
+  "_lastVerified": "2026-08-02T06:26:26.790Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:49:27.684Z"
+  "cachedAt": "2026-08-02T06:26:26.790Z"
 }

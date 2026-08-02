@@ -1,0 +1,45 @@
+{
+  "fullName": "Leonardo Bettiol",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Leonardo-Bettiol/544305",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Leonardo BettiolBasketball Player ProfileHeight206cm",
+  "currentTeam": "UMass",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Treviso",
+      "league": "ITA-5"
+    },
+    {
+      "year": "20-21",
+      "team": "San Vendemiano",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "ACU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "ACU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "ACU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "UMass",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:56:03.639Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:56:03.639Z"
+}

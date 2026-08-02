@@ -1,8 +1,9 @@
 {
-  "fullName": "ROMARO GILL",
+  "fullName": "Romaro Gill",
   "sourceUrl": "https://basketball.eurobasket.com/player/Romaro-Gill/394979",
   "height": "7'3'",
-  "currentTeam": "Ourense",
+  "college": "College Seton Hall",
+  "currentTeam": "Hall In",
   "careerHistory": [
     {
       "year": "15-16",
@@ -68,12 +69,17 @@
       "year": "25-26",
       "team": "Ourense",
       "league": "ESP-2"
+    },
+    {
+      "year": "2026",
+      "team": "Hall In",
+      "league": "TBT"
     }
   ],
-  "_lastVerified": "2026-05-31T08:54:31.112Z",
+  "_lastVerified": "2026-08-02T06:58:46.306Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:54:31.112Z"
+  "cachedAt": "2026-08-02T06:58:46.306Z"
 }

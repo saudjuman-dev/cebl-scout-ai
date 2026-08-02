@@ -56,7 +56,7 @@
     },
     {
       "year": "18-19",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
@@ -95,10 +95,10 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:36:16.351Z",
+  "_lastVerified": "2026-08-02T06:41:54.862Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:36:16.351Z"
+  "cachedAt": "2026-08-02T06:41:54.862Z"
 }

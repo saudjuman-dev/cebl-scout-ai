@@ -1,5 +1,5 @@
 {
-  "fullName": "ROBERTS STUMBRIS",
+  "fullName": "Roberts Stumbris",
   "sourceUrl": "https://basketball.eurobasket.com/player/Roberts-Stumbris/199826",
   "height": "6'7'",
   "currentTeam": "Estudiantes",
@@ -156,22 +156,19 @@
     },
     {
       "year": "25-26",
-      "team": "Estudiantes",
+      "team": "Melilla",
       "league": "ESP-2"
     },
     {
       "year": "25-26",
-      "team": "Melilla",
+      "team": "Estudiantes",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-01T03:12:01.497Z",
+  "_lastVerified": "2026-08-02T07:01:18.100Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T21:47:54.099Z",
-  "nationality": "Latvian",
-  "birthdate": "July 9 1993",
-  "birthCity": "Saldus"
+  "cachedAt": "2026-08-02T07:01:18.100Z"
 }

@@ -1,0 +1,49 @@
+{
+  "fullName": "#22Adama Traore",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Adama-Traore/632434",
+  "height": "6'7'",
+  "currentTeam": "Estudiantes B",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "NGT Zadar",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "Fuenlabrada",
+      "league": "ESP-1"
+    },
+    {
+      "year": "2023",
+      "team": "Fuenlabrada",
+      "league": "ESP-5"
+    },
+    {
+      "year": "23-24",
+      "team": "Aridane",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Estudiantes B",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:28.032Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:28.032Z"
+}

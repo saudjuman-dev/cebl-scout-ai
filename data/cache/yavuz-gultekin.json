@@ -1,8 +1,8 @@
 {
-  "fullName": "YAVUZ GULTEKIN",
+  "fullName": "Yavuz Gultekin",
   "sourceUrl": "https://basketball.eurobasket.com/player/Yavuz-Gultekin/387876",
   "height": "6'7'",
-  "college": "University of San Diego",
+  "college": "College San Diego",
   "currentTeam": "Bursaspor",
   "careerHistory": [
     {
@@ -57,11 +57,6 @@
     },
     {
       "year": "25-26",
-      "team": "Turk Telekom",
-      "league": "Eurocup-1"
-    },
-    {
-      "year": "25-26",
       "team": "Bursaspor",
       "league": "TUR-1"
     },
@@ -69,12 +64,17 @@
       "year": "25-26",
       "team": "Turk Telekom",
       "league": "TUR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Turk Telekom",
+      "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:00:34.679Z",
+  "_lastVerified": "2026-08-02T06:30:28.358Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:00:34.679Z"
+  "cachedAt": "2026-08-02T06:30:28.358Z"
 }

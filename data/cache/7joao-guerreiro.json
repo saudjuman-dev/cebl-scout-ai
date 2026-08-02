@@ -31,22 +31,22 @@
     },
     {
       "year": "13-14",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
       "year": "14-15",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
       "year": "15-16",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
       "year": "16-17",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
@@ -120,10 +120,10 @@
       "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:42:07.982Z",
+  "_lastVerified": "2026-08-02T06:42:32.309Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:42:07.982Z"
+  "cachedAt": "2026-08-02T06:42:32.309Z"
 }

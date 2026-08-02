@@ -1,5 +1,5 @@
 {
-  "fullName": "JONAS PAUKSTE",
+  "fullName": "Jonas Paukste",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jonas-Paukste/427430",
   "height": "7'4'",
   "currentTeam": "Zamora",
@@ -56,14 +56,14 @@
     },
     {
       "year": "25-26",
-      "team": "Zamora",
+      "team": "ZA Enamora",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:11:33.261Z",
+  "_lastVerified": "2026-08-02T06:59:19.845Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:11:33.261Z"
+  "cachedAt": "2026-08-02T06:59:19.845Z"
 }

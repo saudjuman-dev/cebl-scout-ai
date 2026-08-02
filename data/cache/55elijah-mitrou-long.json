@@ -77,7 +77,7 @@
     },
     {
       "year": "24-25",
-      "team": "Varese",
+      "team": "Itelyum Varese",
       "league": "ITA-1"
     },
     {
@@ -92,19 +92,19 @@
     },
     {
       "year": "25-26",
-      "team": "Aris",
+      "team": "Aris Midea",
       "league": "GRE-1"
     },
     {
       "year": "25-26",
-      "team": "Aris",
+      "team": "Aris Midea",
       "league": "Eurocup-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:42:10.707Z",
+  "_lastVerified": "2026-08-02T06:25:08.136Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:42:10.707Z"
+  "cachedAt": "2026-08-02T06:25:08.136Z"
 }

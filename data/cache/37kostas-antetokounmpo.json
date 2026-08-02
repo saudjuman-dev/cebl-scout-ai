@@ -107,12 +107,12 @@
     },
     {
       "year": "25-26",
-      "team": "Aris",
+      "team": "Aris Midea",
       "league": "Eurocup-1"
     },
     {
       "year": "25-26",
-      "team": "Aris",
+      "team": "Aris Midea",
       "league": "GRE-1"
     },
     {
@@ -121,10 +121,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:42:03.165Z",
+  "_lastVerified": "2026-08-02T06:25:14.273Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:42:03.165Z"
+  "cachedAt": "2026-08-02T06:25:14.273Z"
 }

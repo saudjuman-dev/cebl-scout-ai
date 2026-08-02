@@ -1,5 +1,5 @@
 {
-  "fullName": "MICHAL MICHALAK",
+  "fullName": "Michal Michalak",
   "sourceUrl": "https://basketball.eurobasket.com/player/Michal-Michalak/164699",
   "height": "6'5'",
   "currentTeam": "Anwil",
@@ -167,18 +167,18 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
+      "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "POL-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:16:07.971Z",
+  "_lastVerified": "2026-08-02T06:34:51.906Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:16:07.971Z"
+  "cachedAt": "2026-08-02T06:34:51.906Z"
 }

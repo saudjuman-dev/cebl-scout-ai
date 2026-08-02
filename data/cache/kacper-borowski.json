@@ -1,5 +1,5 @@
 {
-  "fullName": "KACPER BOROWSKI",
+  "fullName": "Kacper Borowski",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kacper-Borowski/201628",
   "height": "6'9'",
   "currentTeam": "Anwil",
@@ -117,18 +117,18 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
+      "league": "POL-1"
     },
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "POL-1"
+      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:16:15.171Z",
+  "_lastVerified": "2026-08-02T06:37:57.043Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:16:15.171Z"
+  "cachedAt": "2026-08-02T06:37:57.043Z"
 }

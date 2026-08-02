@@ -1,0 +1,35 @@
+{
+  "fullName": "Kenny Noland",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kenny-Noland/661453",
+  "height": "6'2'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Kenny NolandBasketball Player ProfileHeight188cm",
+  "currentTeam": "Columbia",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Columbia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Columbia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Columbia",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Columbia",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:51.009Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:51.009Z"
+}

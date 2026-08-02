@@ -1,0 +1,45 @@
+{
+  "fullName": "Nathan Claerbaut",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nathan-Claerbaut/626600",
+  "height": "7'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Nathan ClaerbautBasketball Player ProfileHeight213cm",
+  "currentTeam": "CMU",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Ferris St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Ferris St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Ferris St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Ferris St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "24-25",
+      "team": "Ferris St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "CMU",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:45:48.402Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:45:48.402Z"
+}

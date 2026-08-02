@@ -1,0 +1,94 @@
+{
+  "fullName": "Zygimantas Simonis",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Zygimantas-Simonis/255030",
+  "height": "6'5'",
+  "currentTeam": "Suduva-Mantinga",
+  "careerHistory": [
+    {
+      "year": "12-13",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Lietkabelis",
+      "league": "BAL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Lietkabelis",
+      "league": "BAL-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Lietkabelis",
+      "league": "LTU-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Delikatesas",
+      "league": "LTU-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Palanga",
+      "league": "LTU-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Hannover Korb.",
+      "league": "GER-4"
+    },
+    {
+      "year": "17-18",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Marijampole",
+      "league": "LTU-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:39:59.832Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:39:59.832Z"
+}

@@ -1,8 +1,8 @@
 {
-  "fullName": "WILLIAM MCNAIR JR.",
+  "fullName": "William McNair Jr.",
   "sourceUrl": "https://basketball.eurobasket.com/player/William-McNair-Jr/483145",
   "height": "6'11'",
-  "college": "University Games European Championships Olympic Games European Championships U16 WILLIAM MCNAIR JR",
+  "college": "College Kansas St",
   "currentTeam": "Yalovaspor",
   "careerHistory": [
     {
@@ -42,29 +42,29 @@
     },
     {
       "year": "25-26",
-      "team": "Yalovaspor",
-      "league": "TUR-2"
-    },
-    {
-      "year": "25-26",
       "team": "Cedevita Ol.",
       "league": "Eurocup-1"
     },
     {
       "year": "25-26",
-      "team": "Jena",
-      "league": "GER-1"
+      "team": "Cedevita Ol.",
+      "league": "ADR-1"
     },
     {
       "year": "25-26",
-      "team": "Cedevita Ol.",
-      "league": "ADR-1"
+      "team": "Yalovaspor",
+      "league": "TUR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Jena",
+      "league": "GER-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:20:43.440Z",
+  "_lastVerified": "2026-08-02T06:26:46.852Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:20:43.440Z"
+  "cachedAt": "2026-08-02T06:26:46.852Z"
 }

@@ -1,0 +1,75 @@
+{
+  "fullName": "Hasan Varence",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Hasan-Varence/378139",
+  "height": "6'6'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Hasan VarenceBasketball Player ProfileHeight198cm",
+  "currentTeam": "ZTE KK",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Ohio Dominican",
+      "league": "NCAA1"
+    },
+    {
+      "year": "16-17",
+      "team": "Ohio Dominican",
+      "league": "NCAA2"
+    },
+    {
+      "year": "17-18",
+      "team": "Ohio Dominican",
+      "league": "NCAA2"
+    },
+    {
+      "year": "18-19",
+      "team": "Ohio Dominican",
+      "league": "NCAA2"
+    },
+    {
+      "year": "19-20",
+      "team": "Ohio Dominican",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Alkar",
+      "league": "CRO-1"
+    },
+    {
+      "year": "21-22",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "St.Chamond",
+      "league": "FRA-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Melilla",
+      "league": "ESP-2"
+    },
+    {
+      "year": "2024",
+      "team": "Team Fredette",
+      "league": "TBT"
+    },
+    {
+      "year": "24-25",
+      "team": "Champagne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
+      "team": "ZTE KK",
+      "league": "HUN-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:55:24.051Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:55:24.051Z"
+}

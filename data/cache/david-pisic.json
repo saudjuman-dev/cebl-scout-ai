@@ -1,0 +1,30 @@
+{
+  "fullName": "David Pisic",
+  "sourceUrl": "https://basketball.eurobasket.com/player/David-Pisic/588487",
+  "height": "6'7'",
+  "college": "University Games European Championships Olympic Games European Championships U16 David PisicBasketball Player ProfileHeight200cm",
+  "currentTeam": "Wuerzburg Ak.",
+  "careerHistory": [
+    {
+      "year": "23-24",
+      "team": "Speyer",
+      "league": "GER-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Wuerzburg Ak.",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:47:25.137Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:47:25.137Z"
+}

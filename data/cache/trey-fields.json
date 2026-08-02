@@ -1,0 +1,35 @@
+{
+  "fullName": "Trey Fields",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Trey-Fields/676479",
+  "height": "6'6'",
+  "college": "College Barton",
+  "currentTeam": "Barton, NC",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Davidson-Davie",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "Davidson-Davie",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Barton, NC",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Barton, NC",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:02:27.056Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:02:27.056Z"
+}

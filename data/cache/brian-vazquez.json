@@ -1,5 +1,5 @@
 {
-  "fullName": "BRIAN VAZQUEZ",
+  "fullName": "Brian Vazquez",
   "sourceUrl": "https://basketball.eurobasket.com/player/Brian-Vazquez/601023",
   "height": "6'3'",
   "currentTeam": "Palma Fibwi",
@@ -81,14 +81,14 @@
     },
     {
       "year": "25-26",
-      "team": "Palma Fibwi",
+      "team": "Fibwi Palma",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:12:24.684Z",
+  "_lastVerified": "2026-08-02T06:59:04.381Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:12:24.684Z"
+  "cachedAt": "2026-08-02T06:59:04.381Z"
 }

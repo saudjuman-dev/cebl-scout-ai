@@ -1,0 +1,50 @@
+{
+  "fullName": "Jackson Threadgill",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jackson-Threadgill/559107",
+  "height": "6'6'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Jackson ThreadgillBasketball Player ProfileHeight198cm",
+  "currentTeam": "Starlites",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Charlotte",
+      "league": "NCAA2"
+    },
+    {
+      "year": "20-21",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Charlotte",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "App State",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Starlites",
+      "league": "MLT-1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:11:23.243Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:11:23.243Z"
+}

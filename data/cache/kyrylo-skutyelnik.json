@@ -1,0 +1,44 @@
+{
+  "fullName": "Kyrylo Skutyelnik",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kyrylo-Skutyelnik/537928",
+  "height": "6'4'",
+  "currentTeam": "Aridane",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Ukraine",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Khimik-2",
+      "league": "UKR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Khimik-2",
+      "league": "UKR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Fuenlabrada B",
+      "league": "ESP-4"
+    },
+    {
+      "year": "24-25",
+      "team": "Santander",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Aridane",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:05:02.625Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:05:02.625Z"
+}

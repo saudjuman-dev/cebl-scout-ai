@@ -1,0 +1,74 @@
+{
+  "fullName": "Alan Moreno",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alan-Moreno/410278",
+  "height": "6'1'",
+  "currentTeam": "Murgi",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Atletico Tostado",
+      "league": "ARG-3"
+    },
+    {
+      "year": "18-19",
+      "team": "Echague",
+      "league": "ARG-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Echague",
+      "league": "ARG-2"
+    },
+    {
+      "year": "2021",
+      "team": "Progreso de General Roca",
+      "league": "ARG-2"
+    },
+    {
+      "year": "2021",
+      "team": "Ameghino",
+      "league": "ARG-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Echague",
+      "league": "ARG-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Estudiantes C.",
+      "league": "ARG-2"
+    },
+    {
+      "year": "22-23",
+      "team": "GELP",
+      "league": "ARG-2"
+    },
+    {
+      "year": "23-24",
+      "team": "GELP",
+      "league": "ARG-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Lanus",
+      "league": "ARG-2"
+    },
+    {
+      "year": "2025",
+      "team": "Lanus",
+      "league": "ARG-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Murgi",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:06:34.103Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:06:34.103Z"
+}

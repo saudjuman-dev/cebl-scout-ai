@@ -1,5 +1,5 @@
 {
-  "fullName": "SANDER HOLLANDERS",
+  "fullName": "Sander Hollanders",
   "sourceUrl": "https://basketball.eurobasket.com/player/Sander-Hollanders/441159",
   "height": "6'5'",
   "currentTeam": "Girona",
@@ -66,7 +66,7 @@
     },
     {
       "year": "25-26",
-      "team": "Alicante",
+      "team": "HLA Alicante",
       "league": "ESP-2"
     },
     {
@@ -75,10 +75,10 @@
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-06-07T08:10:56.657Z",
+  "_lastVerified": "2026-08-02T06:58:36.277Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:10:56.657Z"
+  "cachedAt": "2026-08-02T06:58:36.277Z"
 }

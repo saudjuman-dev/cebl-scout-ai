@@ -1,0 +1,24 @@
+{
+  "fullName": "Yanis Kabuaya-Diondo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Yanis-Kabuaya-Diondo/747471",
+  "height": "6'0'",
+  "currentTeam": "Orchies",
+  "careerHistory": [
+    {
+      "year": "24-25",
+      "team": "Orchies",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Orchies",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:16:01.980Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:16:01.980Z"
+}

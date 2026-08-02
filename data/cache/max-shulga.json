@@ -1,0 +1,70 @@
+{
+  "fullName": "Max Shulga",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Max-Shulga/520691",
+  "height": "6'5'",
+  "college": "College VCU",
+  "currentTeam": "GSW Gold",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Utah St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Utah St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "VCU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "VCU",
+      "league": "NCAA2"
+    },
+    {
+      "year": "2025",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Maine Celtics",
+      "league": "G League"
+    },
+    {
+      "year": "25-26",
+      "team": "Boston Celtics",
+      "league": "NBA"
+    },
+    {
+      "year": "2026",
+      "team": "GSW Gold",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:21:35.022Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:21:35.022Z"
+}

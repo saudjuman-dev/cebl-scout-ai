@@ -1,7 +1,8 @@
 {
-  "fullName": "LOTANNA NWOGBO",
+  "fullName": "Lotanna Nwogbo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Lotanna-Nwogbo/234382",
   "height": "6'9'",
+  "college": "College Longwood",
   "currentTeam": "Estudiantes",
   "careerHistory": [
     {
@@ -26,7 +27,7 @@
     },
     {
       "year": "2016",
-      "team": "Gimnasia-Indalo",
+      "team": "Gimnasia",
       "league": "LSA-1"
     },
     {
@@ -36,7 +37,7 @@
     },
     {
       "year": "16-17",
-      "team": "Gimnasia Esgr.",
+      "team": "Gimnasia",
       "league": "ARG-1"
     },
     {
@@ -110,10 +111,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:52:10.550Z",
+  "_lastVerified": "2026-08-02T07:00:45.607Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:52:10.550Z"
+  "cachedAt": "2026-08-02T07:00:45.607Z"
 }

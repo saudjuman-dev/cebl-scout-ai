@@ -1,0 +1,64 @@
+{
+  "fullName": "Gaston Zalazar",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Gaston-Zalazar/410188",
+  "height": "6'3'",
+  "currentTeam": "Quintanar",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Cartagena",
+      "league": "ESP-4"
+    },
+    {
+      "year": "18-19",
+      "team": "Martos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Martos",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Oh!Tels ULB",
+      "league": "ESP-4"
+    },
+    {
+      "year": "20-21",
+      "team": "Puerto Sagunto",
+      "league": "ESP-4"
+    },
+    {
+      "year": "21-22",
+      "team": "Guimar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "22-23",
+      "team": "La Matanza",
+      "league": "ESP-4"
+    },
+    {
+      "year": "23-24",
+      "team": "Moron",
+      "league": "ESP-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    },
+    {
+      "year": "25-26",
+      "team": "Quintanar",
+      "league": "ESP-4"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:04:37.011Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:04:37.011Z"
+}

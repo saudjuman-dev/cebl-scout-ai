@@ -1,0 +1,45 @@
+{
+  "fullName": "Miguel Tomley",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Miguel-Tomley/522250",
+  "height": "6'3'",
+  "college": "College Weber St",
+  "currentTeam": "Maia Basket",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Santa Clara",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Idaho St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Idaho St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Weber St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Maia Basket",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:43:28.381Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:43:28.381Z"
+}

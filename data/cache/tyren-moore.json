@@ -1,0 +1,50 @@
+{
+  "fullName": "Tyren Moore",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tyren-Moore/557641",
+  "height": "5'11'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Tyren MooreBasketball Player ProfileHeight180cm",
+  "currentTeam": "Georgia South",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "21-22",
+      "team": "Moberly Area",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Georgia South",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Georgia South",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UAB",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "UAB",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Georgia South",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:47:57.739Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:47:57.739Z"
+}

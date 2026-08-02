@@ -1,0 +1,75 @@
+{
+  "fullName": "Alberto Conti",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alberto-Conti/333161",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Alberto ContiBasketball Player ProfileHeight195cm",
+  "currentTeam": "Agrigento",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Tortona",
+      "league": "ITA-2"
+    },
+    {
+      "year": "17-18",
+      "team": "NPC Rieti",
+      "league": "ITA-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Zeus Energy RI",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "San Severo",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Senigallia",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Bologna Basket",
+      "league": "ITA-3"
+    },
+    {
+      "year": "20-21",
+      "team": "Orlandina",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Taranto",
+      "league": "ITA-3"
+    },
+    {
+      "year": "22-23",
+      "team": "Gemini Mestre",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Fort.Flat Serv.",
+      "league": "ITA-2"
+    },
+    {
+      "year": "24-25",
+      "team": "RO Virtus 1960",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Agrigento",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:54:49.281Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:54:49.281Z"
+}

@@ -1,0 +1,64 @@
+{
+  "fullName": "#20Geremias Manjate",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Geremias-Manjate/470465",
+  "height": "6'8'",
+  "currentTeam": "Povoa",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Belenenses",
+      "league": "POR-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Belenenses",
+      "league": "POR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Academia",
+      "league": "POR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Sporting CP",
+      "league": "POR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Academia",
+      "league": "POR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Vitoria",
+      "league": "POR-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Galomar",
+      "league": "POR-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Galomar",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Portimonense",
+      "league": "POR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Povoa",
+      "league": "POR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:43:58.342Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:43:58.342Z"
+}

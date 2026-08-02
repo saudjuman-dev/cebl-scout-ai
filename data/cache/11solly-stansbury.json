@@ -1,0 +1,40 @@
+{
+  "fullName": "#11Solly Stansbury",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Solly-Stansbury/303836",
+  "height": "6'7'",
+  "college": "College Richmond",
+  "currentTeam": "Levallois",
+  "careerHistory": [
+    {
+      "year": "15-16",
+      "team": "Paris-Levallois",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Richmond",
+      "league": "NCAA1"
+    },
+    {
+      "year": "18-19",
+      "team": "Leuven Bears",
+      "league": "BEL-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Levallois",
+      "league": "FRA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Levallois",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-02T06:52:06.091Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T06:52:06.091Z"
+}

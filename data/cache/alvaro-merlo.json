@@ -1,0 +1,64 @@
+{
+  "fullName": "Alvaro Merlo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Alvaro-Merlo/206647",
+  "height": "6'1'",
+  "currentTeam": "La Union",
+  "careerHistory": [
+    {
+      "year": "14-15",
+      "team": "Atenas Cordoba",
+      "league": "ARG-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Ciclista",
+      "league": "ARG-2"
+    },
+    {
+      "year": "16-17",
+      "team": "Ciclista",
+      "league": "ARG-2"
+    },
+    {
+      "year": "17-18",
+      "team": "La Union",
+      "league": "ARG-2"
+    },
+    {
+      "year": "2018",
+      "team": "Estudiantes C.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Estudiantes C.",
+      "league": "ARG-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Estudiantes",
+      "league": "ARG-4"
+    },
+    {
+      "year": "19-20",
+      "team": "Quilmes MdP",
+      "league": "ARG-2"
+    },
+    {
+      "year": "2023",
+      "team": "Felix Perez",
+      "league": "PAR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "La Union",
+      "league": "ARG-2"
+    }
+  ],
+  "_lastVerified": "2026-08-02T07:03:03.351Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-02T07:03:03.351Z"
+}
