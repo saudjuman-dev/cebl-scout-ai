@@ -1,8 +1,8 @@
 {
-  "fullName": "KUR KUATH",
+  "fullName": "Kur Kuath",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kur-Kuath/439992",
   "height": "6'10'",
-  "college": "University of Oklahoma",
+  "college": "College Marquette",
   "currentTeam": "Gran Canaria",
   "careerHistory": [
     {
@@ -77,19 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Gran Canaria",
+      "team": "Dreamland GC",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Gran Canaria",
+      "team": "Dreamland GC",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:44:00.448Z",
+  "_lastVerified": "2026-08-09T04:38:33.086Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:44:00.448Z"
+  "cachedAt": "2026-08-09T04:38:33.086Z"
 }

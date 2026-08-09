@@ -1,0 +1,35 @@
+{
+  "fullName": "Oz Lavy",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oz-Lavy/621825",
+  "height": "6'6'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Oz LavyBasketball Player ProfileHeight197cm",
+  "currentTeam": "Ashkelon",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Hapoel Haifa",
+      "league": "ISR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Ironi Nahariya",
+      "league": "ISR-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel Izrael",
+      "league": "ISR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "E.Ashkelon",
+      "league": "ISR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:47:14.666Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:47:14.666Z"
+}

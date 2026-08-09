@@ -42,18 +42,18 @@
     {
       "year": "25-26",
       "team": "Iraklis KAE",
-      "league": "ENBL-1"
+      "league": "GRE-1"
     },
     {
       "year": "25-26",
       "team": "Iraklis KAE",
-      "league": "GRE-1"
+      "league": "ENBL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:26:22.045Z",
+  "_lastVerified": "2026-08-09T04:41:02.502Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:26:22.045Z"
+  "cachedAt": "2026-08-09T04:41:02.502Z"
 }

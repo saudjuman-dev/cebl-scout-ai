@@ -82,19 +82,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bursaspor",
-      "league": "TUR-1"
+      "team": "Le Portel",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Le Portel",
-      "league": "FRA-1"
+      "team": "Bursaspor",
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-07-26T07:58:23.151Z",
+  "_lastVerified": "2026-08-09T04:44:05.951Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T07:58:23.151Z"
+  "cachedAt": "2026-08-09T04:44:05.951Z"
 }

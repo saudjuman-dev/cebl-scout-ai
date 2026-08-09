@@ -1,7 +1,8 @@
 {
-  "fullName": "PAUL EBOUA",
+  "fullName": "Paul Eboua",
   "sourceUrl": "https://basketball.eurobasket.com/player/Paul-Eboua/420439",
   "height": "6'8'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Paul EbouaBasketball Player ProfileHeight203cm",
   "currentTeam": "Trapani",
   "careerHistory": [
     {
@@ -41,12 +42,12 @@
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-20"
     },
     {
       "year": "21-22",
-      "team": "Germani BR",
+      "team": "Brescia",
       "league": "ITA-1"
     },
     {
@@ -71,18 +72,18 @@
     },
     {
       "year": "25-26",
-      "team": "Trapani",
+      "team": "ASVEL",
+      "league": "EUROL-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Trapani Sharks",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Trapani",
+      "team": "Trapani Sharks",
       "league": "ITA-1"
-    },
-    {
-      "year": "25-26",
-      "team": "ASVEL",
-      "league": "EUROL-1"
     },
     {
       "year": "25-26",
@@ -90,10 +91,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:25:46.478Z",
+  "_lastVerified": "2026-08-09T04:35:10.227Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:25:46.478Z"
+  "cachedAt": "2026-08-09T04:35:10.227Z"
 }

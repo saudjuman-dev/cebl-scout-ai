@@ -1,7 +1,8 @@
 {
-  "fullName": "JEFFREY SOLARIN",
+  "fullName": "Jeffrey Solarin",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jeffrey-Solarin/293579",
   "height": "6'4'",
+  "college": "College Idaho St",
   "currentTeam": "Sant Antoni",
   "careerHistory": [
     {
@@ -85,10 +86,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-06-07T08:17:41.578Z",
+  "_lastVerified": "2026-08-09T05:10:58.579Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:17:41.578Z"
+  "cachedAt": "2026-08-09T05:10:58.579Z"
 }

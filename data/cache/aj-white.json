@@ -1,0 +1,35 @@
+{
+  "fullName": "AJ White",
+  "sourceUrl": "https://basketball.eurobasket.com/player/AJ-White/560025",
+  "height": "5'10'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 AJ WhiteBasketball Player ProfileHeight178cm",
+  "currentTeam": "N.Georgia",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "N.Georgia",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "N.Georgia",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "N.Georgia",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "N.Georgia",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:12:40.780Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:12:40.780Z"
+}

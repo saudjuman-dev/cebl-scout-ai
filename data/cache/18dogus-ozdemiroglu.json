@@ -117,18 +117,18 @@
     {
       "year": "25-26",
       "team": "Turk Telekom",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Turk Telekom",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:28:08.030Z",
+  "_lastVerified": "2026-08-09T04:42:16.567Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:28:08.030Z"
+  "cachedAt": "2026-08-09T04:42:16.567Z"
 }

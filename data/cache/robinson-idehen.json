@@ -1,8 +1,8 @@
 {
-  "fullName": "ROBINSON IDEHEN",
+  "fullName": "Robinson Idehen",
   "sourceUrl": "https://basketball.eurobasket.com/player/Robinson-Idehen/460701",
   "height": "6'10'",
-  "college": "University of California Santa Barbara",
+  "college": "College UCSB",
   "currentTeam": "Cartagena",
   "careerHistory": [
     {
@@ -47,14 +47,14 @@
     },
     {
       "year": "25-26",
-      "team": "Cartagena",
+      "team": "Odilo FC Cartagena CB",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:12:44.320Z",
+  "_lastVerified": "2026-08-09T05:09:55.529Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:12:44.320Z"
+  "cachedAt": "2026-08-09T05:09:55.529Z"
 }

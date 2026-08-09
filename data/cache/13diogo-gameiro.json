@@ -111,19 +111,19 @@
     },
     {
       "year": "25-26",
-      "team": "Benfica",
+      "team": "Benfica Lisboa",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Benfica",
+      "team": "Benfica Lisboa",
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:40:46.415Z",
+  "_lastVerified": "2026-08-09T04:52:38.866Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:40:46.415Z"
+  "cachedAt": "2026-08-09T04:52:38.866Z"
 }

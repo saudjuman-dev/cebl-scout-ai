@@ -1,9 +1,9 @@
 {
-  "fullName": "JAMES WOODARD",
+  "fullName": "James Woodard",
   "sourceUrl": "https://basketball.eurobasket.com/player/James-Woodard/266551",
   "height": "6'3'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JAMES WOODARD basketball profile Uniform No",
-  "currentTeam": "Oldenburg",
+  "college": "College Tulsa",
+  "currentTeam": "Aftershocks",
   "careerHistory": [
     {
       "year": "12-13",
@@ -128,18 +128,23 @@
     {
       "year": "25-26",
       "team": "Oldenburg",
-      "league": "GER-20"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Oldenburg",
-      "league": "GER-1"
+      "league": "GER-20"
+    },
+    {
+      "year": "2026",
+      "team": "Aftershocks",
+      "league": "TBT"
     }
   ],
-  "_lastVerified": "2026-05-31T07:18:50.962Z",
+  "_lastVerified": "2026-08-09T04:53:30.533Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:18:50.962Z"
+  "cachedAt": "2026-08-09T04:53:30.533Z"
 }

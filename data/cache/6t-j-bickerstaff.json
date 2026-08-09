@@ -53,12 +53,7 @@
     {
       "year": "25-26",
       "team": "Bashkimi",
-      "league": "KOS-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Petrolina AEK",
-      "league": "CYP-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
@@ -68,13 +63,18 @@
     {
       "year": "25-26",
       "team": "Bashkimi",
-      "league": "FEL-1"
+      "league": "KOS-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Petrolina AEK",
+      "league": "CYP-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:31:34.124Z",
+  "_lastVerified": "2026-08-09T04:45:18.700Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:31:34.124Z"
+  "cachedAt": "2026-08-09T04:45:18.700Z"
 }

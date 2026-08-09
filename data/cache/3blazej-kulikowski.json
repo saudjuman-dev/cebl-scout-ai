@@ -97,18 +97,18 @@
     {
       "year": "25-26",
       "team": "Slask",
-      "league": "POL-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Slask",
-      "league": "Eurocup-1"
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:36:33.187Z",
+  "_lastVerified": "2026-08-09T04:50:05.016Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:36:33.187Z"
+  "cachedAt": "2026-08-09T04:50:05.016Z"
 }

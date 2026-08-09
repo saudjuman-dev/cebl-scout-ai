@@ -1,0 +1,70 @@
+{
+  "fullName": "#9Matteo Lagana",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matteo-Lagana/368862",
+  "height": "6'3'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16",
+  "currentTeam": "Caserta Pap.",
+  "careerHistory": [
+    {
+      "year": "16-17",
+      "team": "Hikkaduwa MI",
+      "league": "ITA-3"
+    },
+    {
+      "year": "17-18",
+      "team": "Capo ORL",
+      "league": "BCL-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Capo ORL",
+      "league": "ITA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Capo ORL",
+      "league": "ITA-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Orlandina",
+      "league": "ITA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Orlandina",
+      "league": "ITA-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Orlandina",
+      "league": "ITA-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Orlandina",
+      "league": "ITA-3"
+    },
+    {
+      "year": "23-24",
+      "team": "Caffe Toscano P.",
+      "league": "ITA-3"
+    },
+    {
+      "year": "24-25",
+      "team": "Paperdi CA",
+      "league": "ITA-3"
+    },
+    {
+      "year": "25-26",
+      "team": "Paperdi CA",
+      "league": "ITA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:02:37.763Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:02:37.763Z"
+}

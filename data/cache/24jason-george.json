@@ -107,19 +107,19 @@
     },
     {
       "year": "25-26",
-      "team": "Leitershofen",
-      "league": "GER-3"
+      "team": "Karlsruhe PS",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Karlsruhe PS",
-      "league": "GER-2"
+      "team": "Leitershofen",
+      "league": "GER-3"
     }
   ],
-  "_lastVerified": "2026-08-02T06:45:01.417Z",
+  "_lastVerified": "2026-08-09T04:55:36.807Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:45:01.417Z"
+  "cachedAt": "2026-08-09T04:55:36.807Z"
 }

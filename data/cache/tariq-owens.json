@@ -1,8 +1,8 @@
 {
-  "fullName": "TARIQ OWENS",
+  "fullName": "Tariq Owens",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tariq-Owens/342233",
   "height": "6'10'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games TARIQ OWENS basketball profile Uniform No",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Tariq OwensBasketball Player ProfileHeight208cm",
   "currentTeam": "Dijon",
   "careerHistory": [
     {
@@ -92,24 +92,24 @@
     },
     {
       "year": "25-26",
-      "team": "Dijon",
+      "team": "JDA Dijon",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Dijon",
+      "team": "JDA Dijon",
       "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "E.Netanya",
+      "team": "E.Mac.Netanya",
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-06-07T07:43:05.435Z",
+  "_lastVerified": "2026-08-09T05:02:12.927Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T07:43:05.435Z"
+  "cachedAt": "2026-08-09T05:02:12.927Z"
 }

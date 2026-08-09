@@ -31,19 +31,19 @@
     },
     {
       "year": "25-26",
-      "team": "Andrezieux",
-      "league": "FRA-3"
+      "team": "St.Chamond",
+      "league": "FRA-2"
     },
     {
       "year": "25-26",
-      "team": "St.Chamond",
-      "league": "FRA-2"
+      "team": "Andrezieux",
+      "league": "FRA-3"
     }
   ],
-  "_lastVerified": "2026-08-02T06:52:48.584Z",
+  "_lastVerified": "2026-08-09T05:01:00.177Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:52:48.584Z"
+  "cachedAt": "2026-08-09T05:01:00.177Z"
 }

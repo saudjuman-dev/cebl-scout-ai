@@ -1,0 +1,50 @@
+{
+  "fullName": "Nate Kingz",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nate-Kingz/628246",
+  "height": "6'5'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Nate KingzBasketball Player ProfileHeight196cm",
+  "currentTeam": "Miami Heat",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Westmont",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Westmont",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "S.Idaho JC",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Oregon St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Oregon St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Syracuse",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2026",
+      "team": "Miami Heat",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:46:58.415Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:46:58.415Z"
+}

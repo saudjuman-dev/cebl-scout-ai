@@ -1,7 +1,8 @@
 {
-  "fullName": "EFTON REID III",
+  "fullName": "Efton Reid III",
   "sourceUrl": "https://basketball.eurobasket.com/player/Efton-Reid-III/526554",
   "height": "7'0'",
+  "college": "College Wake Forest",
   "currentTeam": "Stal",
   "careerHistory": [
     {
@@ -41,14 +42,14 @@
     },
     {
       "year": "25-26",
-      "team": "Stal",
+      "team": "Arged Stal",
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:16:45.372Z",
+  "_lastVerified": "2026-08-09T04:51:24.220Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:16:45.372Z"
+  "cachedAt": "2026-08-09T04:51:24.220Z"
 }

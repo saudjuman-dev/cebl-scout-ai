@@ -31,19 +31,19 @@
     },
     {
       "year": "25-26",
-      "team": "MKS DG 2",
-      "league": "POL-3"
+      "team": "MKS DG",
+      "league": "POL-1"
     },
     {
       "year": "25-26",
-      "team": "MKS DG",
-      "league": "POL-1"
+      "team": "MKS DG 2",
+      "league": "POL-3"
     }
   ],
-  "_lastVerified": "2026-08-02T06:34:46.199Z",
+  "_lastVerified": "2026-08-09T04:49:53.187Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:34:46.199Z"
+  "cachedAt": "2026-08-09T04:49:53.187Z"
 }

@@ -31,19 +31,19 @@
     },
     {
       "year": "24-25",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     },
     {
       "year": "25-26",
-      "team": "Vitoria SC",
+      "team": "Vitoria",
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-07-26T08:38:07.772Z",
+  "_lastVerified": "2026-08-09T04:55:12.436Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T08:38:07.772Z"
+  "cachedAt": "2026-08-09T04:55:12.436Z"
 }

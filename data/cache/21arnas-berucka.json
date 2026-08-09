@@ -98,18 +98,18 @@
     {
       "year": "25-26",
       "team": "Neptunas",
-      "league": "LTU-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Neptunas",
-      "league": "Eurocup-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:40:18.539Z",
+  "_lastVerified": "2026-08-09T04:51:55.549Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:40:18.539Z"
+  "cachedAt": "2026-08-09T04:51:55.549Z"
 }

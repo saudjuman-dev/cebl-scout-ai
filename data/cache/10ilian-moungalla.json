@@ -26,8 +26,8 @@
     },
     {
       "year": "25-26",
-      "team": "Paris U21",
-      "league": "FRA-6"
+      "team": "Paris",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
@@ -36,14 +36,14 @@
     },
     {
       "year": "25-26",
-      "team": "Paris",
-      "league": "FRA-1"
+      "team": "Paris U21",
+      "league": "FRA-6"
     }
   ],
-  "_lastVerified": "2026-08-02T06:51:20.864Z",
+  "_lastVerified": "2026-08-09T04:59:55.117Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:51:20.864Z"
+  "cachedAt": "2026-08-09T04:59:55.117Z"
 }

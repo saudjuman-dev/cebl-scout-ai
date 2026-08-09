@@ -1,0 +1,40 @@
+{
+  "fullName": "Isaiah Brickner",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Isaiah-Brickner/500533",
+  "height": "6'4'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Isaiah BricknerBasketball Player ProfileHeight193cm",
+  "currentTeam": "Idaho",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Marist",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Marist",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Idaho",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Idaho",
+      "league": "NAIA"
+    },
+    {
+      "year": "25-26",
+      "team": "Idaho",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:04:03.148Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:04:03.148Z"
+}

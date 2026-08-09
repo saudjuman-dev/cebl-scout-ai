@@ -1,0 +1,35 @@
+{
+  "fullName": "Dayshaun Walton",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Dayshaun-Walton/601526",
+  "height": "6'4'",
+  "college": "College Adelphi",
+  "currentTeam": "Adelphi",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Adelphi",
+      "league": "NCAA2"
+    },
+    {
+      "year": "23-24",
+      "team": "Adelphi",
+      "league": "NCAA2"
+    },
+    {
+      "year": "24-25",
+      "team": "Adelphi",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Adelphi",
+      "league": "NCAA2"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:09:14.787Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:09:14.787Z"
+}

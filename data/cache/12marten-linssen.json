@@ -63,18 +63,18 @@
     {
       "year": "25-26",
       "team": "Trier",
-      "league": "GER-20"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Trier",
-      "league": "GER-1"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-07-26T06:16:09.664Z",
+  "_lastVerified": "2026-08-09T04:30:09.840Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T06:16:09.664Z"
+  "cachedAt": "2026-08-09T04:30:09.840Z"
 }

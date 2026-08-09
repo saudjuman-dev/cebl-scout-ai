@@ -1,0 +1,55 @@
+{
+  "fullName": "DeLonnie Hunt",
+  "sourceUrl": "https://basketball.eurobasket.com/player/DeLonnie-Hunt/527545",
+  "height": "6'0'",
+  "college": "University Games European Championships Olympic Games European Championships U16 DeLonnie HuntBasketball Player ProfileHeight183cm",
+  "currentTeam": "Dinamo",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Wagner",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Richmond",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Richmond",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Richmond",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Dinamo",
+      "league": "CRO-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Dinamo",
+      "league": "ENBL-1"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:31:56.673Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:31:56.673Z"
+}

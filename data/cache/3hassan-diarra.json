@@ -37,19 +37,19 @@
     },
     {
       "year": "25-26",
-      "team": "Juventus",
-      "league": "LTU-1"
+      "team": "M.Raanana",
+      "league": "ISR-1"
     },
     {
       "year": "25-26",
-      "team": "M.Raanana",
-      "league": "ISR-1"
+      "team": "Juventus",
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:26:16.573Z",
+  "_lastVerified": "2026-08-09T04:40:59.901Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:26:16.573Z"
+  "cachedAt": "2026-08-09T04:40:59.901Z"
 }

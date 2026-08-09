@@ -32,37 +32,37 @@
     },
     {
       "year": "2020",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-20"
     },
     {
       "year": "20-21",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-1"
     },
     {
       "year": "21-22",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-20"
     },
     {
       "year": "21-22",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-1"
     },
     {
       "year": "22-23",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "BCL-1"
     },
     {
       "year": "22-23",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-20"
     },
     {
       "year": "22-23",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-1"
     },
     {
@@ -72,29 +72,29 @@
     },
     {
       "year": "24-25",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-1"
     },
     {
       "year": "24-25",
-      "team": "Leicester",
+      "team": "Leicester R.",
       "league": "ENG-20"
     },
     {
       "year": "25-26",
       "team": "Goettingen",
-      "league": "GER-20"
+      "league": "GER-2"
     },
     {
       "year": "25-26",
       "team": "Goettingen",
-      "league": "GER-2"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-08-02T06:46:40.547Z",
+  "_lastVerified": "2026-08-09T04:56:37.216Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:46:40.547Z"
+  "cachedAt": "2026-08-09T04:56:37.216Z"
 }

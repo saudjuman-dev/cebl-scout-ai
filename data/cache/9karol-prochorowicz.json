@@ -51,19 +51,19 @@
     },
     {
       "year": "25-26",
-      "team": "WKK 2",
-      "league": "POL-3"
+      "team": "WKK Wroclaw",
+      "league": "POL-2"
     },
     {
       "year": "25-26",
-      "team": "WKK Wroclaw",
-      "league": "POL-2"
+      "team": "WKK 2",
+      "league": "POL-3"
     }
   ],
-  "_lastVerified": "2026-08-02T06:35:03.068Z",
+  "_lastVerified": "2026-08-09T04:50:40.752Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:35:03.068Z"
+  "cachedAt": "2026-08-09T04:50:40.752Z"
 }

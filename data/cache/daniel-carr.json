@@ -1,0 +1,50 @@
+{
+  "fullName": "Daniel Carr",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Daniel-Carr/423053",
+  "height": "6'9'",
+  "college": "College Rockhurst",
+  "currentTeam": "Caledonia G.",
+  "careerHistory": [
+    {
+      "year": "19-20",
+      "team": "Augustana, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "20-21",
+      "team": "Augustana, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "21-22",
+      "team": "Augustana, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "22-23",
+      "team": "Augustana, IL",
+      "league": "NCAA3"
+    },
+    {
+      "year": "24-25",
+      "team": "Rockhurst",
+      "league": "NCAA2"
+    },
+    {
+      "year": "25-26",
+      "team": "Caledonia",
+      "league": "ENG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Caledonia",
+      "league": "ENG-20"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:53:58.996Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:53:58.996Z"
+}

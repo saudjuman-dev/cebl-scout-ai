@@ -67,19 +67,19 @@
     },
     {
       "year": "25-26",
-      "team": "Inter Bratislava",
-      "league": "ENBL-1"
+      "team": "Giessen 46ers",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Giessen 46ers",
-      "league": "GER-2"
+      "team": "Inter Bratislava",
+      "league": "ENBL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:46:22.589Z",
+  "_lastVerified": "2026-08-09T04:56:28.467Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:46:22.589Z"
+  "cachedAt": "2026-08-09T04:56:28.467Z"
 }

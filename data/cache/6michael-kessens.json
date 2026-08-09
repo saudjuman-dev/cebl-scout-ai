@@ -88,18 +88,18 @@
     {
       "year": "25-26",
       "team": "Telekom Bsk",
-      "league": "GER-20"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Telekom Bsk",
-      "league": "GER-1"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-08-02T06:12:10.248Z",
+  "_lastVerified": "2026-08-09T04:30:19.934Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:12:10.248Z"
+  "cachedAt": "2026-08-09T04:30:19.934Z"
 }

@@ -27,19 +27,19 @@
     },
     {
       "year": "25-26",
-      "team": "Koeln RS",
-      "league": "GER-8"
+      "team": "Koeln",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Koeln",
-      "league": "GER-2"
+      "team": "Koeln RS",
+      "league": "GER-8"
     }
   ],
-  "_lastVerified": "2026-08-02T06:48:07.828Z",
+  "_lastVerified": "2026-08-09T04:57:23.275Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:48:07.828Z"
+  "cachedAt": "2026-08-09T04:57:23.275Z"
 }

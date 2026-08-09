@@ -1,7 +1,8 @@
 {
-  "fullName": "KEVIN KOKILA",
+  "fullName": "Kevin Kokila",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kevin-Kokila/530023",
   "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Kevin KokilaBasketball Player ProfileHeight204cm",
   "currentTeam": "Bourg",
   "careerHistory": [
     {
@@ -56,21 +57,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "FRA-1"
+      "team": "JL Bourg",
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
-      "team": "Bourg",
-      "league": "Eurocup-1"
+      "team": "JL Bourg",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-01T15:00:10.238Z",
+  "_lastVerified": "2026-08-09T04:36:08.979Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:33:18.302Z",
-  "nationality": "Angolan",
-  "birthdate": "September 3 2001"
+  "cachedAt": "2026-08-09T04:36:08.979Z"
 }

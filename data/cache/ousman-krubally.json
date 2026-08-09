@@ -1,7 +1,8 @@
 {
-  "fullName": "OUSMAN KRUBALLY",
+  "fullName": "Ousman Krubally",
   "sourceUrl": "https://basketball.eurobasket.com/player/Ousman-Krubally/115491",
   "height": "6'8'",
+  "college": "College Georgia St",
   "currentTeam": "Boulazac",
   "careerHistory": [
     {
@@ -135,10 +136,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:27:12.509Z",
+  "_lastVerified": "2026-08-09T04:59:10.455Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:27:12.509Z"
+  "cachedAt": "2026-08-09T04:59:10.455Z"
 }

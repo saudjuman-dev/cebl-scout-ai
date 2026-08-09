@@ -76,19 +76,19 @@
     },
     {
       "year": "25-26",
-      "team": "Fujian S.",
-      "league": "CHN-1"
+      "team": "Monaco",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "Monaco",
-      "league": "FRA-1"
+      "team": "Fujian S.",
+      "league": "CHN-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:15:57.051Z",
+  "_lastVerified": "2026-08-09T04:32:50.325Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:15:57.051Z"
+  "cachedAt": "2026-08-09T04:32:50.325Z"
 }

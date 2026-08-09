@@ -171,19 +171,19 @@
     },
     {
       "year": "25-26",
-      "team": "VEF Riga",
-      "league": "LAES-1"
+      "team": "KR Reykjavik",
+      "league": "ISL-1"
     },
     {
       "year": "25-26",
-      "team": "KR Reykjavik",
-      "league": "ISL-1"
+      "team": "VEF Riga",
+      "league": "LAES-1"
     }
   ],
-  "_lastVerified": "2026-08-02T07:01:44.303Z",
+  "_lastVerified": "2026-08-09T05:06:02.925Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T07:01:44.303Z"
+  "cachedAt": "2026-08-09T05:06:02.925Z"
 }

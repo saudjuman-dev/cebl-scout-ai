@@ -26,19 +26,19 @@
     },
     {
       "year": "25-26",
-      "team": "Imortal U23",
-      "league": "POR-2"
+      "team": "Imortal",
+      "league": "POR-1"
     },
     {
       "year": "25-26",
-      "team": "Imortal",
-      "league": "POR-1"
+      "team": "Imortal U23",
+      "league": "POR-2"
     }
   ],
-  "_lastVerified": "2026-08-02T06:43:12.548Z",
+  "_lastVerified": "2026-08-09T04:54:15.790Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:43:12.548Z"
+  "cachedAt": "2026-08-09T04:54:15.790Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "JUSTIN JAWORSKI",
+  "fullName": "Justin Jaworski",
   "sourceUrl": "https://basketball.eurobasket.com/player/Justin-Jaworski/441175",
   "height": "6'3'",
+  "college": "College Lafayette",
   "currentTeam": "Bilbao",
   "careerHistory": [
     {
@@ -61,19 +62,19 @@
     },
     {
       "year": "25-26",
-      "team": "Bilbao",
+      "team": "Surne Bilbao",
       "league": "FEL-1"
     },
     {
       "year": "25-26",
-      "team": "Bilbao",
+      "team": "Surne Bilbao",
       "league": "ESP-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:39:25.712Z",
+  "_lastVerified": "2026-08-09T04:39:30.399Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:39:25.712Z"
+  "cachedAt": "2026-08-09T04:39:30.399Z"
 }

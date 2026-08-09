@@ -1,7 +1,8 @@
 {
-  "fullName": "CAMERON REYNOLDS",
+  "fullName": "Cameron Reynolds",
   "sourceUrl": "https://basketball.eurobasket.com/player/Cameron-Reynolds/300493",
   "height": "6'7'",
+  "college": "College Tulane",
   "currentTeam": "Maroussi",
   "careerHistory": [
     {
@@ -115,10 +116,10 @@
       "league": "GRE-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:50:42.203Z",
+  "_lastVerified": "2026-08-09T04:51:40.862Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:50:42.203Z"
+  "cachedAt": "2026-08-09T04:51:40.862Z"
 }

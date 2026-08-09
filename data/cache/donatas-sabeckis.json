@@ -1,5 +1,5 @@
 {
-  "fullName": "DONATAS SABECKIS",
+  "fullName": "Donatas Sabeckis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Donatas-Sabeckis/263379",
   "height": "6'6'",
   "currentTeam": "Juventus",
@@ -131,8 +131,8 @@
     },
     {
       "year": "25-26",
-      "team": "Ylli",
-      "league": "AlKo-1"
+      "team": "Juventus",
+      "league": "LTU-1"
     },
     {
       "year": "25-26",
@@ -141,14 +141,14 @@
     },
     {
       "year": "25-26",
-      "team": "Juventus",
-      "league": "LTU-1"
+      "team": "Ylli",
+      "league": "AlKo-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:25:46.792Z",
+  "_lastVerified": "2026-08-09T04:51:17.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:25:46.792Z"
+  "cachedAt": "2026-08-09T04:51:17.304Z"
 }

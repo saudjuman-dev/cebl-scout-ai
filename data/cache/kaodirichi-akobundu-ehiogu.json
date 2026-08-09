@@ -1,10 +1,10 @@
 {
-  "fullName": "KAODIRICHI AKOBUNDU-EHIOGU",
+  "fullName": "Kaodirichi Akobundu-Ehiogu",
   "sourceUrl": "https://basketball.eurobasket.com/player/Kaodirichi-Akobundu-Ehiogu/489526",
   "birthCity": "Nigeria and lived there until he",
   "height": "6'10'",
-  "college": "University of Texas at Arlington",
-  "currentTeam": "Manresa",
+  "college": "College Memphis",
+  "currentTeam": "Dallas M.",
   "careerHistory": [
     {
       "year": "18-19",
@@ -53,7 +53,7 @@
     },
     {
       "year": "24-25",
-      "team": "Varese",
+      "team": "Itelyum Varese",
       "league": "ITA-1"
     },
     {
@@ -75,12 +75,22 @@
       "year": "25-26",
       "team": "Manresa",
       "league": "ESP-1"
+    },
+    {
+      "year": "2026",
+      "team": "Dallas M.",
+      "league": "NBA"
+    },
+    {
+      "year": "2026",
+      "team": "Boeheim's Army",
+      "league": "TBT"
     }
   ],
-  "_lastVerified": "2026-05-31T07:40:59.380Z",
+  "_lastVerified": "2026-08-09T04:51:07.652Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:40:59.380Z"
+  "cachedAt": "2026-08-09T04:51:07.652Z"
 }

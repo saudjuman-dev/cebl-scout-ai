@@ -53,7 +53,7 @@
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "GER-20"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
@@ -63,13 +63,13 @@
     {
       "year": "25-26",
       "team": "Ulm",
-      "league": "Eurocup-1"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-08-02T06:48:49.729Z",
+  "_lastVerified": "2026-08-09T04:57:51.866Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:48:49.729Z"
+  "cachedAt": "2026-08-09T04:57:51.866Z"
 }

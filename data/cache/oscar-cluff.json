@@ -1,0 +1,60 @@
+{
+  "fullName": "Oscar Cluff",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Oscar-Cluff/518203",
+  "height": "6'11'",
+  "college": "College Purdue",
+  "currentTeam": "Houston R.",
+  "careerHistory": [
+    {
+      "year": "2020",
+      "team": "Sunshine Coast",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2021",
+      "team": "Sunshine Coast",
+      "league": "AUS-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Cochise CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "2022",
+      "team": "Sunshine Coast",
+      "league": "AUS-2"
+    },
+    {
+      "year": "22-23",
+      "team": "Cochise CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "23-24",
+      "team": "WSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "S.Dakota St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Purdue",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2026",
+      "team": "Houston R.",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:43:46.776Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:43:46.776Z"
+}

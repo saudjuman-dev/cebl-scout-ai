@@ -103,18 +103,18 @@
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-20"
+      "league": "GER-1"
     },
     {
       "year": "25-26",
       "team": "Bayern",
-      "league": "GER-1"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-08-02T06:11:47.649Z",
+  "_lastVerified": "2026-08-09T04:30:02.884Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:11:47.649Z"
+  "cachedAt": "2026-08-09T04:30:02.884Z"
 }

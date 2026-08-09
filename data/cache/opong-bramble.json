@@ -1,8 +1,9 @@
 {
-  "fullName": "OPONG BRAMBLE",
+  "fullName": "Opong Bramble",
   "sourceUrl": "https://basketball.eurobasket.com/player/Opong-Bramble/432000",
   "height": "6'7'",
-  "currentTeam": "Albacete",
+  "college": "College CBU",
+  "currentTeam": "Saint Vincent",
   "careerHistory": [
     {
       "year": "17-18",
@@ -55,10 +56,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:58:52.307Z",
+  "_lastVerified": "2026-08-09T05:10:53.852Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:58:52.307Z"
+  "cachedAt": "2026-08-09T05:10:53.852Z"
 }

@@ -98,18 +98,18 @@
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Bahcesehir",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:28:38.232Z",
+  "_lastVerified": "2026-08-09T04:42:41.237Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:28:38.232Z"
+  "cachedAt": "2026-08-09T04:42:41.237Z"
 }

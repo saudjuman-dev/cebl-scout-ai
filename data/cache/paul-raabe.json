@@ -1,0 +1,35 @@
+{
+  "fullName": "Paul Raabe",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Paul-Raabe/696719",
+  "height": "6'5'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Paul RaabeBasketball Player ProfileHeight196cm",
+  "currentTeam": "BSW Sixers",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin",
+      "league": "GER-5"
+    },
+    {
+      "year": "23-24",
+      "team": "ALBA Berlin U18 team",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "25-26",
+      "team": "BSW Sixers",
+      "league": "GER-3"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:58:26.113Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:58:26.113Z"
+}

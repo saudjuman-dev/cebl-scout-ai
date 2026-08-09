@@ -1,7 +1,8 @@
 {
-  "fullName": "TAVIN PIERRE-PHILIPPE",
+  "fullName": "Tavin Pierre-Philippe",
   "sourceUrl": "https://basketball.eurobasket.com/player/Tavin-Pierre-Philippe/534938",
   "height": "6'3'",
+  "college": "College Adelphi",
   "currentTeam": "Gijon Circulo",
   "careerHistory": [
     {
@@ -40,10 +41,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:05:12.498Z",
+  "_lastVerified": "2026-08-09T05:09:41.576Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:05:12.498Z"
+  "cachedAt": "2026-08-09T05:09:41.576Z"
 }

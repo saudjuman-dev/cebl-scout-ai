@@ -1,8 +1,8 @@
 {
-  "fullName": "BOOGIE ELLIS",
+  "fullName": "Boogie Ellis",
   "sourceUrl": "https://basketball.eurobasket.com/player/Boogie-Ellis/499285",
   "height": "6'3'",
-  "college": "University of Memphis",
+  "college": "College USC",
   "currentTeam": "Galatasaray",
   "careerHistory": [
     {
@@ -57,12 +57,12 @@
     },
     {
       "year": "25-26",
-      "team": "ALBA",
-      "league": "GER-20"
+      "team": "BC Dubai",
+      "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "ALBA",
+      "team": "ALBA Berlin",
       "league": "BCL-1"
     },
     {
@@ -72,12 +72,7 @@
     },
     {
       "year": "25-26",
-      "team": "Dubai",
-      "league": "EUROL-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Dubai",
+      "team": "BC Dubai",
       "league": "ADR-1"
     },
     {
@@ -87,14 +82,19 @@
     },
     {
       "year": "25-26",
-      "team": "ALBA",
+      "team": "ALBA Berlin",
       "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "ALBA Berlin",
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-05-31T08:05:22.067Z",
+  "_lastVerified": "2026-08-09T04:36:59.144Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:05:22.067Z"
+  "cachedAt": "2026-08-09T04:36:59.144Z"
 }

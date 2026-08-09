@@ -37,19 +37,19 @@
     },
     {
       "year": "25-26",
-      "team": "Schwelm",
-      "league": "GER-3"
+      "team": "Bochum",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
-      "team": "Bochum",
-      "league": "GER-2"
+      "team": "Schwelm",
+      "league": "GER-3"
     }
   ],
-  "_lastVerified": "2026-08-02T06:47:27.710Z",
+  "_lastVerified": "2026-08-09T04:56:58.179Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:47:27.710Z"
+  "cachedAt": "2026-08-09T04:56:58.179Z"
 }

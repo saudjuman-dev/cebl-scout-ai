@@ -17,8 +17,8 @@
     },
     {
       "year": "25-26",
-      "team": "Next Generation Team",
-      "league": "ANGT-1"
+      "team": "Paderborn",
+      "league": "GER-2"
     },
     {
       "year": "25-26",
@@ -27,14 +27,14 @@
     },
     {
       "year": "25-26",
-      "team": "Paderborn",
-      "league": "GER-2"
+      "team": "Next Generation Team",
+      "league": "ANGT-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:49:10.266Z",
+  "_lastVerified": "2026-08-09T04:58:08.001Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:49:10.266Z"
+  "cachedAt": "2026-08-09T04:58:08.001Z"
 }

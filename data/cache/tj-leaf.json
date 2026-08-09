@@ -1,8 +1,8 @@
 {
-  "fullName": "TJ LEAF",
+  "fullName": "TJ Leaf",
   "sourceUrl": "https://basketball.eurobasket.com/player/TJ-Leaf/365783",
   "height": "6'10'",
-  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             TJ LEAF basketball profile    Uniform No",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games TJ LeafBasketball Player ProfileHeight208cm",
   "currentTeam": "M.Tel-Aviv",
   "careerHistory": [
     {
@@ -57,21 +57,19 @@
     },
     {
       "year": "25-26",
-      "team": "M.Tel-Aviv",
+      "team": "Macc. Tel-Aviv",
       "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "M.Tel-Aviv",
+      "team": "Macc. Tel-Aviv",
       "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:22:20.315Z",
+  "_lastVerified": "2026-08-09T04:44:56.876Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T20:30:42.346Z",
-  "birthdate": "April 30 1997",
-  "birthCity": "Tel-Aviv"
+  "cachedAt": "2026-08-09T04:44:56.876Z"
 }

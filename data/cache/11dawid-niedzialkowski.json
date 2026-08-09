@@ -26,19 +26,19 @@
     },
     {
       "year": "25-26",
-      "team": "Legia II",
-      "league": "POL-3"
+      "team": "Legia",
+      "league": "POL-1"
     },
     {
       "year": "25-26",
-      "team": "Legia",
-      "league": "POL-1"
+      "team": "Legia II",
+      "league": "POL-3"
     }
   ],
-  "_lastVerified": "2026-08-02T06:34:10.238Z",
+  "_lastVerified": "2026-08-09T04:49:26.304Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:34:10.238Z"
+  "cachedAt": "2026-08-09T04:49:26.304Z"
 }

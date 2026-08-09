@@ -1,5 +1,5 @@
 {
-  "fullName": "JOSEBA QUEREJETA",
+  "fullName": "Joseba Querejeta",
   "sourceUrl": "https://basketball.eurobasket.com/player/Joseba-Querejeta/514824",
   "height": "6'3'",
   "currentTeam": "Clavijo",
@@ -51,19 +51,19 @@
     },
     {
       "year": "25-26",
-      "team": "Valladolid",
+      "team": "Real Valladolid",
       "league": "ESP-3"
     },
     {
       "year": "25-26",
-      "team": "Clavijo",
+      "team": "Rioverde Clavijo Logrono",
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T08:57:34.393Z",
+  "_lastVerified": "2026-08-09T05:10:25.670Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:57:34.393Z"
+  "cachedAt": "2026-08-09T05:10:25.670Z"
 }

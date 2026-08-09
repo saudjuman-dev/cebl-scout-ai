@@ -1,0 +1,30 @@
+{
+  "fullName": "Prince Lumena",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Prince-Lumena/677165",
+  "height": "6'9'",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Prince LumenaBasketball Player ProfileHeight205cm",
+  "currentTeam": "Trento",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "RO SAzzurra",
+      "league": "ANGT-1"
+    },
+    {
+      "year": "22-23",
+      "team": "Stellazzurra",
+      "league": "EYBL U16-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Dolomiti Energia Tre",
+      "league": "ANGT-1"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:03:40.141Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:03:40.141Z"
+}

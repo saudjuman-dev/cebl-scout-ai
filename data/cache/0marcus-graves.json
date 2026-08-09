@@ -83,18 +83,18 @@
     {
       "year": "25-26",
       "team": "Phoenix",
-      "league": "GER-20"
+      "league": "GER-2"
     },
     {
       "year": "25-26",
       "team": "Phoenix",
-      "league": "GER-2"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-08-02T06:44:45.673Z",
+  "_lastVerified": "2026-08-09T04:55:24.755Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:44:45.673Z"
+  "cachedAt": "2026-08-09T04:55:24.755Z"
 }

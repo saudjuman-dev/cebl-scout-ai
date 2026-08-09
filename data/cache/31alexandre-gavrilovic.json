@@ -142,19 +142,19 @@
     },
     {
       "year": "25-26",
-      "team": "HK Eastern",
-      "league": "EASL-1"
+      "team": "Buyukcekmece",
+      "league": "TUR-1"
     },
     {
       "year": "25-26",
-      "team": "Buyukcekmece",
-      "league": "TUR-1"
+      "team": "HK Eastern",
+      "league": "EASL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:30:56.630Z",
+  "_lastVerified": "2026-08-09T04:44:34.744Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:30:56.630Z"
+  "cachedAt": "2026-08-09T04:44:34.744Z"
 }

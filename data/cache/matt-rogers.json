@@ -1,0 +1,45 @@
+{
+  "fullName": "Matt Rogers",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Matt-Rogers/580634",
+  "height": "6'9'",
+  "college": "College American",
+  "currentTeam": "Philadelphia 76",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "American",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "American",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "American",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "American",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "American",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2026",
+      "team": "Philadelphia 76",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:50:00.029Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:50:00.029Z"
+}

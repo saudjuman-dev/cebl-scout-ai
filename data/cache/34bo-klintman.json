@@ -47,19 +47,19 @@
     },
     {
       "year": "25-26",
-      "team": "Motor City C.",
-      "league": "G League"
+      "team": "Detroit P.",
+      "league": "NBA"
     },
     {
       "year": "25-26",
-      "team": "Detroit P.",
-      "league": "NBA"
+      "team": "Motor City C.",
+      "league": "G League"
     }
   ],
-  "_lastVerified": "2026-08-02T06:18:05.401Z",
+  "_lastVerified": "2026-08-09T04:36:11.501Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:18:05.401Z"
+  "cachedAt": "2026-08-09T04:36:11.501Z"
 }

@@ -1,5 +1,5 @@
 {
-  "fullName": "SALVADOR GALLEGO",
+  "fullName": "Salvador Gallego",
   "sourceUrl": "https://basketball.eurobasket.com/player/Salvador-Gallego/623603",
   "height": "6'6'",
   "currentTeam": "Lliria",
@@ -46,14 +46,14 @@
     },
     {
       "year": "25-26",
-      "team": "Lliria",
+      "team": "Refitel Lliria",
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-06-07T08:14:14.792Z",
+  "_lastVerified": "2026-08-09T05:10:13.952Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:14:14.792Z"
+  "cachedAt": "2026-08-09T05:10:13.952Z"
 }

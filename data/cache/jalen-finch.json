@@ -1,8 +1,8 @@
 {
-  "fullName": "JALEN FINCH",
+  "fullName": "Jalen Finch",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Finch/503368",
   "height": "6'1'",
-  "college": "University Games European Championships Olympic Games European Championships U16 JALEN FINCH basketball profile Uniform",
+  "college": "College Georgia South",
   "currentTeam": "Bonn",
   "careerHistory": [
     {
@@ -52,8 +52,8 @@
     },
     {
       "year": "25-26",
-      "team": "Brussels Bball",
-      "league": "ENBL-1"
+      "team": "Telekom Bsk",
+      "league": "GER-1"
     },
     {
       "year": "25-26",
@@ -62,14 +62,14 @@
     },
     {
       "year": "25-26",
-      "team": "Bonn",
-      "league": "GER-1"
+      "team": "Brussels Bball",
+      "league": "ENBL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:15:31.434Z",
+  "_lastVerified": "2026-08-09T04:40:55.421Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:15:31.434Z"
+  "cachedAt": "2026-08-09T04:40:55.421Z"
 }

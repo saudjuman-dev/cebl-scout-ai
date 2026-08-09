@@ -1,0 +1,80 @@
+{
+  "fullName": "LJ Bryan",
+  "sourceUrl": "https://basketball.eurobasket.com/player/LJ-Bryan/503957",
+  "height": "6'9'",
+  "college": "College Morehead St",
+  "currentTeam": "Decin",
+  "careerHistory": [
+    {
+      "year": "18-19",
+      "team": "State Fair CC",
+      "league": "JUCO"
+    },
+    {
+      "year": "19-20",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "20-21",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "Morehead St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "21-22",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Morehead St.",
+      "league": "NAIA"
+    },
+    {
+      "year": "22-23",
+      "team": "Morehead St.",
+      "league": "NCAA2"
+    },
+    {
+      "year": "22-23",
+      "team": "Morehead St.",
+      "league": "NCAA1"
+    },
+    {
+      "year": "23-24",
+      "team": "Vitoria",
+      "league": "POR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Galitos-Barreiro",
+      "league": "POR-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Decin",
+      "league": "CZE-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Caledonia",
+      "league": "ENG-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Caledonia",
+      "league": "ENG-20"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:07:14.688Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:07:14.688Z"
+}

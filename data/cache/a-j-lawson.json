@@ -112,19 +112,19 @@
     },
     {
       "year": "25-26",
-      "team": "Raptors 905",
-      "league": "G League"
+      "team": "Toronto R.",
+      "league": "NBA"
     },
     {
       "year": "25-26",
-      "team": "Toronto R.",
-      "league": "NBA"
+      "team": "Raptors 905",
+      "league": "G League"
     }
   ],
-  "_lastVerified": "2026-08-02T06:22:41.198Z",
+  "_lastVerified": "2026-08-09T04:37:31.472Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:22:41.198Z"
+  "cachedAt": "2026-08-09T04:37:31.472Z"
 }

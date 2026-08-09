@@ -1,7 +1,8 @@
 {
-  "fullName": "CHARLES KNOWLES",
+  "fullName": "Charles Knowles",
   "sourceUrl": "https://basketball.eurobasket.com/player/Charles-Knowles/321626",
   "height": "6'5'",
+  "college": "College William Penn",
   "currentTeam": "LBC Cocinas",
   "careerHistory": [
     {
@@ -46,7 +47,7 @@
     },
     {
       "year": "22-23",
-      "team": "LBC Cocinas",
+      "team": "Logro Basket",
       "league": "ESP-4"
     },
     {
@@ -75,10 +76,10 @@
       "league": "ESP-3"
     }
   ],
-  "_lastVerified": "2026-05-31T09:03:05.920Z",
+  "_lastVerified": "2026-08-09T05:09:09.845Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T09:03:05.920Z"
+  "cachedAt": "2026-08-09T05:09:09.845Z"
 }

@@ -1,7 +1,8 @@
 {
-  "fullName": "DJ BREWTON",
+  "fullName": "DJ Brewton",
   "sourceUrl": "https://basketball.eurobasket.com/player/DJ-Brewton/533776",
   "height": "6'4'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games DJ BrewtonBasketball Player ProfileHeight193cm",
   "currentTeam": "Udine",
   "careerHistory": [
     {
@@ -50,10 +51,10 @@
       "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:12:34.365Z",
+  "_lastVerified": "2026-08-09T04:45:37.896Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:12:34.365Z"
+  "cachedAt": "2026-08-09T04:45:37.896Z"
 }

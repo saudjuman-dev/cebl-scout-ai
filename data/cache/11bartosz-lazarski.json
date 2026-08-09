@@ -26,7 +26,7 @@
     },
     {
       "year": "23-24",
-      "team": "UMK Torun",
+      "team": "AZS UMK",
       "league": "POL-3"
     },
     {
@@ -57,18 +57,18 @@
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "POL-1"
+      "league": "FEL-1"
     },
     {
       "year": "25-26",
       "team": "Anwil",
-      "league": "FEL-1"
+      "league": "POL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:36:57.757Z",
+  "_lastVerified": "2026-08-09T04:47:39.174Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:36:57.757Z"
+  "cachedAt": "2026-08-09T04:47:39.174Z"
 }

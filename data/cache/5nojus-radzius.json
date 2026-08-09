@@ -27,18 +27,18 @@
     {
       "year": "25-26",
       "team": "Lietkabelis",
-      "league": "LTU-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Lietkabelis",
-      "league": "Eurocup-1"
+      "league": "LTU-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:40:02.391Z",
+  "_lastVerified": "2026-08-09T04:51:36.390Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:40:02.391Z"
+  "cachedAt": "2026-08-09T04:51:36.390Z"
 }

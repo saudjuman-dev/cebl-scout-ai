@@ -72,11 +72,6 @@
     },
     {
       "year": "25-26",
-      "team": "Chalon",
-      "league": "FRA-1"
-    },
-    {
-      "year": "25-26",
       "team": "Manresa",
       "league": "Eurocup-1"
     },
@@ -89,12 +84,17 @@
       "year": "25-26",
       "team": "Manresa",
       "league": "ESP-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Chalon",
+      "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:16:44.080Z",
+  "_lastVerified": "2026-08-09T04:33:17.725Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:16:44.080Z"
+  "cachedAt": "2026-08-09T04:33:17.725Z"
 }

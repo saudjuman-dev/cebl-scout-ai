@@ -61,6 +61,11 @@
     },
     {
       "year": "25-26",
+      "team": "Brasov",
+      "league": "FEL-1"
+    },
+    {
+      "year": "25-26",
       "team": "Siauliai",
       "league": "LTU-1"
     },
@@ -68,17 +73,12 @@
       "year": "25-26",
       "team": "Brasov",
       "league": "ROM-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Brasov",
-      "league": "FEL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:39:45.688Z",
+  "_lastVerified": "2026-08-09T04:51:29.567Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:39:45.688Z"
+  "cachedAt": "2026-08-09T04:51:29.567Z"
 }

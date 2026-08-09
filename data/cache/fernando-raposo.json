@@ -1,0 +1,104 @@
+{
+  "fullName": "Fernando Raposo",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Fernando-Raposo/76183",
+  "height": "6'10'",
+  "currentTeam": "Le Havre",
+  "careerHistory": [
+    {
+      "year": "07-08",
+      "team": "Pau-Orthez",
+      "league": "FRA-1"
+    },
+    {
+      "year": "08-09",
+      "team": "Pau-Orthez",
+      "league": "FRA-1"
+    },
+    {
+      "year": "09-10",
+      "team": "Pau-Orthez",
+      "league": "FRA-2"
+    },
+    {
+      "year": "10-11",
+      "team": "Boulogne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "11-12",
+      "team": "Boulogne",
+      "league": "FRA-2"
+    },
+    {
+      "year": "12-13",
+      "team": "Orleans",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "12-13",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "13-14",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "14-15",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Nanterre",
+      "league": "Eurocup-1"
+    },
+    {
+      "year": "15-16",
+      "team": "Nanterre",
+      "league": "FRA-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Gravelines",
+      "league": "FEL-1"
+    },
+    {
+      "year": "16-17",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "17-18",
+      "team": "Gravelines",
+      "league": "FRA-1"
+    },
+    {
+      "year": "18-19",
+      "team": "Antibes Sharks",
+      "league": "FRA-1"
+    },
+    {
+      "year": "19-20",
+      "team": "Antibes Sharks",
+      "league": "FRA-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Orleans",
+      "league": "FRA-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Le Havre",
+      "league": "FRA-3"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:54:36.547Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:54:36.547Z"
+}

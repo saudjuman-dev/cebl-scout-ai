@@ -1,0 +1,35 @@
+{
+  "fullName": "Kendall Arcuri",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Kendall-Arcuri/681658",
+  "height": "6'4'",
+  "college": "College Cortland St",
+  "currentTeam": "Cortland St.",
+  "careerHistory": [
+    {
+      "year": "22-23",
+      "team": "Cortland St.",
+      "league": "NCAA3"
+    },
+    {
+      "year": "23-24",
+      "team": "Cortland St.",
+      "league": "NCAA3"
+    },
+    {
+      "year": "24-25",
+      "team": "Cortland St.",
+      "league": "NCAA3"
+    },
+    {
+      "year": "25-26",
+      "team": "Cortland St.",
+      "league": "NCAA3"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:53:56.684Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:53:56.684Z"
+}

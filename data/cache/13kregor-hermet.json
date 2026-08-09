@@ -151,19 +151,19 @@
     },
     {
       "year": "25-26",
-      "team": "Kalev/Cramo",
-      "league": "LAES-1"
+      "team": "JDA Dijon",
+      "league": "FRA-1"
     },
     {
       "year": "25-26",
-      "team": "JDA Dijon",
-      "league": "FRA-1"
+      "team": "Kalev/Cramo",
+      "league": "LAES-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:16:54.516Z",
+  "_lastVerified": "2026-08-09T04:33:22.393Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:16:54.516Z"
+  "cachedAt": "2026-08-09T04:33:22.393Z"
 }

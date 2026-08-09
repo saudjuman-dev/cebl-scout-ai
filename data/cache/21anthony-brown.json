@@ -153,18 +153,18 @@
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "TUR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Besiktas",
-      "league": "Eurocup-1"
+      "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:28:18.897Z",
+  "_lastVerified": "2026-08-09T04:42:26.277Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:28:18.897Z"
+  "cachedAt": "2026-08-09T04:42:26.277Z"
 }

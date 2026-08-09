@@ -63,18 +63,18 @@
     {
       "year": "25-26",
       "team": "Goettingen",
-      "league": "GER-20"
+      "league": "GER-2"
     },
     {
       "year": "25-26",
       "team": "Goettingen",
-      "league": "GER-2"
+      "league": "GER-20"
     }
   ],
-  "_lastVerified": "2026-08-02T06:46:48.683Z",
+  "_lastVerified": "2026-08-09T04:56:39.571Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:46:48.683Z"
+  "cachedAt": "2026-08-09T04:56:39.571Z"
 }

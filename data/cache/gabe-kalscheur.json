@@ -1,8 +1,8 @@
 {
-  "fullName": "GABE KALSCHEUR",
+  "fullName": "Gabe Kalscheur",
   "sourceUrl": "https://basketball.eurobasket.com/player/Gabe-Kalscheur/420691",
   "height": "6'4'",
-  "college": "University of Minnesota",
+  "college": "College Iowa St",
   "currentTeam": "Ourense",
   "careerHistory": [
     {
@@ -66,10 +66,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:54:24.963Z",
+  "_lastVerified": "2026-08-09T04:53:49.787Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:54:24.963Z"
+  "cachedAt": "2026-08-09T04:53:49.787Z"
 }

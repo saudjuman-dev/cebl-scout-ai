@@ -1,5 +1,5 @@
 {
-  "fullName": "HAKAN SAYILI",
+  "fullName": "Hakan Sayili",
   "sourceUrl": "https://basketball.eurobasket.com/player/Hakan-Sayili/415331",
   "height": "6'9'",
   "currentTeam": "Mersin Spor",
@@ -86,19 +86,19 @@
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
+      "team": "Mersin",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Mersin Spor",
+      "team": "Mersin",
       "league": "TUR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:02:33.676Z",
+  "_lastVerified": "2026-08-09T04:44:20.522Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:02:33.676Z"
+  "cachedAt": "2026-08-09T04:44:20.522Z"
 }

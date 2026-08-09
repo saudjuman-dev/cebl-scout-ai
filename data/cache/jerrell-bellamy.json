@@ -1,0 +1,35 @@
+{
+  "fullName": "Jerrell Bellamy",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Jerrell-Bellamy/642465",
+  "height": "6'9'",
+  "college": "University Games European Championships European Championships U20 European Championships U16 Jerrell BellamyBasketball Player ProfileHeight206cm",
+  "currentTeam": "Troy",
+  "careerHistory": [
+    {
+      "year": "21-22",
+      "team": "Chattahoochee V.",
+      "league": "JUCO"
+    },
+    {
+      "year": "22-23",
+      "team": "Chattahoochee V.",
+      "league": "JUCO"
+    },
+    {
+      "year": "24-25",
+      "team": "Troy",
+      "league": "NCAA1"
+    },
+    {
+      "year": "25-26",
+      "team": "Troy",
+      "league": "NCAA1"
+    }
+  ],
+  "_lastVerified": "2026-08-09T05:12:30.994Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T05:12:30.994Z"
+}

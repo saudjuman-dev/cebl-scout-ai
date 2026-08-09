@@ -8,7 +8,7 @@
     {
       "year": "25-26",
       "team": "Bremerhaven",
-      "league": "GER-8"
+      "league": "GER-2"
     },
     {
       "year": "25-26",
@@ -18,13 +18,13 @@
     {
       "year": "25-26",
       "team": "Bremerhaven",
-      "league": "GER-2"
+      "league": "GER-8"
     }
   ],
-  "_lastVerified": "2026-08-02T06:45:32.779Z",
+  "_lastVerified": "2026-08-09T04:55:53.546Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:45:32.779Z"
+  "cachedAt": "2026-08-09T04:55:53.546Z"
 }

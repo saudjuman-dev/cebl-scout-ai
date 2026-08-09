@@ -1,5 +1,5 @@
 {
-  "fullName": "LOUIS LABEYRIE",
+  "fullName": "Louis Labeyrie",
   "sourceUrl": "https://basketball.eurobasket.com/player/Louis-Labeyrie/156394",
   "height": "6'10'",
   "currentTeam": "Gran Canaria",
@@ -121,12 +121,12 @@
     },
     {
       "year": "25-26",
-      "team": "Gran Canaria",
+      "team": "Dreamland GC",
       "league": "BCL-1"
     },
     {
       "year": "25-26",
-      "team": "Gran Canaria",
+      "team": "Dreamland GC",
       "league": "ESP-1"
     },
     {
@@ -135,10 +135,10 @@
       "league": "FRA-1"
     }
   ],
-  "_lastVerified": "2026-05-31T07:22:45.609Z",
+  "_lastVerified": "2026-08-09T04:33:47.475Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:22:45.609Z"
+  "cachedAt": "2026-08-09T04:33:47.475Z"
 }

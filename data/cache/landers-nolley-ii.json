@@ -1,9 +1,9 @@
 {
-  "fullName": "LANDERS NOLLEY II",
+  "fullName": "Landers Nolley II",
   "sourceUrl": "https://basketball.eurobasket.com/player/Landers-Nolley-II/457210",
   "height": "6'7'",
-  "college": "University of Memphis",
-  "currentTeam": "Nancy",
+  "college": "College Cincinnati",
+  "currentTeam": "Brampton",
   "careerHistory": [
     {
       "year": "19-20",
@@ -77,14 +77,19 @@
     },
     {
       "year": "25-26",
-      "team": "Nancy",
+      "team": "Sluc Nancy",
       "league": "FRA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Brampton",
+      "league": "CEBL"
     }
   ],
-  "_lastVerified": "2026-05-31T07:26:18.644Z",
+  "_lastVerified": "2026-08-09T04:39:53.399Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T07:26:18.644Z"
+  "cachedAt": "2026-08-09T04:39:53.399Z"
 }

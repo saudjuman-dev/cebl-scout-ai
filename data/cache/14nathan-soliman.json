@@ -26,6 +26,11 @@
     },
     {
       "year": "25-26",
+      "team": "Nantes",
+      "league": "FRA-2"
+    },
+    {
+      "year": "25-26",
       "team": "Pole France",
       "league": "FRA-3"
     },
@@ -33,17 +38,12 @@
       "year": "25-26",
       "team": "PFYM INSEP Paris U18",
       "league": "ANGT-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Nantes",
-      "league": "FRA-2"
     }
   ],
-  "_lastVerified": "2026-08-02T06:16:15.946Z",
+  "_lastVerified": "2026-08-09T04:33:01.644Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:16:15.946Z"
+  "cachedAt": "2026-08-09T04:33:01.644Z"
 }

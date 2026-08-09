@@ -1,0 +1,70 @@
+{
+  "fullName": "Tomer Porat",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Tomer-Porat/368759",
+  "height": "6'7'",
+  "college": "University Games European Championships World Championships U21 European Championships U18 European Championships U16 Youth Olympic Games Tomer PoratBasketball Player ProfileHeight201cm",
+  "currentTeam": "H.Eilat",
+  "careerHistory": [
+    {
+      "year": "17-18",
+      "team": "Hod Hasharon",
+      "league": "ISR-2"
+    },
+    {
+      "year": "19-20",
+      "team": "M.Raanana",
+      "league": "ISR-2"
+    },
+    {
+      "year": "20-21",
+      "team": "Ironi Nahariya",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Ironi Nahariya",
+      "league": "ISR-1"
+    },
+    {
+      "year": "20-21",
+      "team": "Hapoel Afula",
+      "league": "ISR-2"
+    },
+    {
+      "year": "21-22",
+      "team": "Hapoel Afula",
+      "league": "ISR-2"
+    },
+    {
+      "year": "22-23",
+      "team": "H.Be'er Sheva",
+      "league": "BIBL-1"
+    },
+    {
+      "year": "22-23",
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Kiryat Ata",
+      "league": "ISR-1"
+    },
+    {
+      "year": "24-25",
+      "team": "Hapoel Eilat",
+      "league": "ISR-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Hapoel Eilat",
+      "league": "ISR-2"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:47:05.098Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:47:05.098Z"
+}

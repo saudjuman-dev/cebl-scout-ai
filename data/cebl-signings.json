@@ -1,9 +1,51 @@
 {
-  "_lastScraped": "2026-08-02T07:12:06.369Z",
+  "_lastScraped": "2026-08-09T05:14:02.240Z",
   "_source": "https://www.cebl.ca/transactions",
   "_method": "playwright (headless chromium)",
   "season": "2026",
   "transactions": [
+    {
+      "player": "James Karnik placed on Club's Injured List (Lower Body)",
+      "team": "Vancouver Bandits",
+      "date": "2026-08-06",
+      "type": "James Karnik placed on Club's Injured List (Lower Body)"
+    },
+    {
+      "player": "Roddy Peters Jr suspended for two (2) games due to a physical incident occuring on August 3.",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-08-05",
+      "type": "Roddy Peters Jr suspended for two (2) games due to a physical incident occuring on August 3."
+    },
+    {
+      "player": "Tegra Izay suspended for one (1) games due to a physical incident occuring on August 3.",
+      "team": "Brampton Honey Badgers",
+      "date": "2026-08-05",
+      "type": "Tegra Izay suspended for one (1) games due to a physical incident occuring on August 3."
+    },
+    {
+      "player": "Frank Mitchell suspended for one (1) games due to a physical incident occuring on August 3.",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-08-05",
+      "type": "Frank Mitchell suspended for one (1) games due to a physical incident occuring on August 3."
+    },
+    {
+      "player": "Javan Johnson suspended for one (1) games due to a physical incident occuring on August 3.",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-08-05",
+      "type": "Javan Johnson suspended for one (1) games due to a physical incident occuring on August 3."
+    },
+    {
+      "player": "Terquavion Smith suspended for two (2) games due to a physical incident occuring on August 3.",
+      "team": "Scarborough Shooting Stars",
+      "date": "2026-08-05",
+      "type": "Terquavion Smith suspended for two (2) games due to a physical incident occuring on August 3."
+    },
+    {
+      "player": "Ben Stevens",
+      "team": "Winnipeg Sea Bears",
+      "date": "2026-08-03",
+      "type": "Standard Player Contract"
+    },
     {
       "player": "Bronson Chambers removed from Practice Roster and added to Club's 14-man Roster",
       "team": "Brampton Honey Badgers",

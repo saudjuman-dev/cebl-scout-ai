@@ -1,5 +1,5 @@
 {
-  "fullName": "ALVARO MARTINEZ",
+  "fullName": "Alvaro Martinez",
   "sourceUrl": "https://basketball.eurobasket.com/player/Alvaro-Martinez/482821",
   "height": "6'7'",
   "currentTeam": "Zamora",
@@ -51,14 +51,14 @@
     },
     {
       "year": "25-26",
-      "team": "Zamora",
+      "team": "ZA Enamora",
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-06-07T08:11:26.949Z",
+  "_lastVerified": "2026-08-09T05:06:11.732Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-06-07T08:11:26.949Z"
+  "cachedAt": "2026-08-09T05:06:11.732Z"
 }

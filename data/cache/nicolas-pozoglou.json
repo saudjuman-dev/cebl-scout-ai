@@ -1,0 +1,89 @@
+{
+  "fullName": "Nicolas Pozoglou",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Nicolas-Pozoglou/328969",
+  "height": "6'5'",
+  "currentTeam": "Megaridas",
+  "careerHistory": [
+    {
+      "year": "2014",
+      "team": "Penrith P.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2015",
+      "team": "Penrith P.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2016",
+      "team": "Bankstown B.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2017",
+      "team": "Bankstown B.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "17-18",
+      "team": "Illawarra H.",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2018",
+      "team": "Ballarat M.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "18-19",
+      "team": "Illawarra H.",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2019",
+      "team": "Melbourne Tigers",
+      "league": "AUS-2"
+    },
+    {
+      "year": "19-20",
+      "team": "Perth Wildcats",
+      "league": "AUS-1"
+    },
+    {
+      "year": "2021",
+      "team": "Cockburn",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2022",
+      "team": "Ballarat M.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "2023",
+      "team": "Ballarat M.",
+      "league": "AUS-2"
+    },
+    {
+      "year": "23-24",
+      "team": "Koroivos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "24-25",
+      "team": "Mykonos",
+      "league": "GRE-2"
+    },
+    {
+      "year": "25-26",
+      "team": "Megaridas",
+      "league": "GRE-2"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:41:22.576Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:41:22.576Z"
+}

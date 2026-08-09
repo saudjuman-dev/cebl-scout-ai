@@ -37,19 +37,19 @@
     },
     {
       "year": "25-26",
-      "team": "Randers",
-      "league": "DEN-1"
+      "team": "H.Be'er Sheva",
+      "league": "ISR-1"
     },
     {
       "year": "25-26",
-      "team": "H.Be'er Sheva",
-      "league": "ISR-1"
+      "team": "Randers",
+      "league": "DEN-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:31:36.898Z",
+  "_lastVerified": "2026-08-09T04:45:21.102Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:31:36.898Z"
+  "cachedAt": "2026-08-09T04:45:21.102Z"
 }

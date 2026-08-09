@@ -1,5 +1,5 @@
 {
-  "fullName": "EDGAR VICEDO",
+  "fullName": "Edgar Vicedo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Edgar-Vicedo/239322",
   "height": "6'9'",
   "currentTeam": "Menorca",
@@ -101,12 +101,12 @@
     },
     {
       "year": "23-24",
-      "team": "Lenovo Tenerife",
+      "team": "Tenerife",
       "league": "BCL-1"
     },
     {
       "year": "23-24",
-      "team": "Lenovo Tenerife",
+      "team": "Tenerife",
       "league": "ESP-1"
     },
     {
@@ -120,10 +120,10 @@
       "league": "ESP-2"
     }
   ],
-  "_lastVerified": "2026-05-31T08:50:35.150Z",
+  "_lastVerified": "2026-08-09T04:39:14.027Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:50:35.150Z"
+  "cachedAt": "2026-08-09T04:39:14.027Z"
 }

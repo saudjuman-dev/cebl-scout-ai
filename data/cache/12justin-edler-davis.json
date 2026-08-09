@@ -88,22 +88,12 @@
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "GER-20"
-    },
-    {
-      "year": "25-26",
-      "team": "Iraklis KAE",
-      "league": "ENBL-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "Iraklis KAE",
       "league": "GRE-1"
-    },
-    {
-      "year": "25-26",
-      "team": "Hamburg",
-      "league": "GER-1"
     },
     {
       "year": "25-26",
@@ -113,13 +103,23 @@
     {
       "year": "25-26",
       "team": "Hamburg",
-      "league": "Eurocup-1"
+      "league": "GER-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Hamburg",
+      "league": "GER-20"
+    },
+    {
+      "year": "25-26",
+      "team": "Iraklis KAE",
+      "league": "ENBL-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:31:58.164Z",
+  "_lastVerified": "2026-08-09T04:45:35.530Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:31:58.164Z"
+  "cachedAt": "2026-08-09T04:45:35.530Z"
 }

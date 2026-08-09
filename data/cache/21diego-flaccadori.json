@@ -122,24 +122,24 @@
     },
     {
       "year": "25-26",
-      "team": "Milano",
+      "team": "AX Armani MI",
       "league": "EUROL-1"
     },
     {
       "year": "25-26",
-      "team": "Milano",
-      "league": "ITA-20"
+      "team": "AX Armani MI",
+      "league": "ITA-1"
     },
     {
       "year": "25-26",
-      "team": "Milano",
-      "league": "ITA-1"
+      "team": "AX Armani MI",
+      "league": "ITA-20"
     }
   ],
-  "_lastVerified": "2026-07-26T06:57:36.551Z",
+  "_lastVerified": "2026-08-09T04:34:21.452Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-07-26T06:57:36.551Z"
+  "cachedAt": "2026-08-09T04:34:21.452Z"
 }

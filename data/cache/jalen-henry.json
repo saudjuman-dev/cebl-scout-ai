@@ -1,9 +1,9 @@
 {
-  "fullName": "JALEN HENRY",
+  "fullName": "Jalen Henry",
   "sourceUrl": "https://basketball.eurobasket.com/player/Jalen-Henry/343906",
   "height": "6'8'",
-  "college": "University Games European Championships European Championships U20 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             JALEN HENRY basketball profile     Uniform",
-  "currentTeam": "Jonava",
+  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16 Jalen HenryBasketball Player ProfileHeight203cm",
+  "currentTeam": "Marineros",
   "careerHistory": [
     {
       "year": "14-15",
@@ -109,15 +109,17 @@
       "year": "25-26",
       "team": "Jonava",
       "league": "LTU-1"
+    },
+    {
+      "year": "2026",
+      "team": "Marineros",
+      "league": "DOM-1"
     }
   ],
-  "_lastVerified": "2026-05-01T02:26:21.380Z",
+  "_lastVerified": "2026-08-09T05:02:32.848Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T22:15:46.133Z",
-  "nationality": "USA",
-  "birthdate": "January 8 1996",
-  "birthCity": "Springfield"
+  "cachedAt": "2026-08-09T05:02:32.848Z"
 }

@@ -103,18 +103,18 @@
     {
       "year": "25-26",
       "team": "H.Jerusalem",
-      "league": "ISR-1"
+      "league": "Eurocup-1"
     },
     {
       "year": "25-26",
       "team": "H.Jerusalem",
-      "league": "Eurocup-1"
+      "league": "ISR-1"
     }
   ],
-  "_lastVerified": "2026-08-02T06:32:36.161Z",
+  "_lastVerified": "2026-08-09T04:46:16.785Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-08-02T06:32:36.161Z"
+  "cachedAt": "2026-08-09T04:46:16.785Z"
 }

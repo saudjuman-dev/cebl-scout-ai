@@ -1,0 +1,75 @@
+{
+  "fullName": "Andersson Garcia",
+  "sourceUrl": "https://basketball.eurobasket.com/player/Andersson-Garcia/500520",
+  "height": "6'7'",
+  "college": "College Texas A",
+  "currentTeam": "GSW Blue",
+  "careerHistory": [
+    {
+      "year": "20-21",
+      "team": "MSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "21-22",
+      "team": "MSU",
+      "league": "NCAA1"
+    },
+    {
+      "year": "22-23",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2023",
+      "team": "Club San Jose",
+      "league": "MIC-1"
+    },
+    {
+      "year": "23-24",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "24-25",
+      "team": "Texas A&M",
+      "league": "NCAA1"
+    },
+    {
+      "year": "2025",
+      "team": "Marineros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "25-26",
+      "team": "Utah Jazz",
+      "league": "NBA"
+    },
+    {
+      "year": "25-26",
+      "team": "Capitanes M.",
+      "league": "G League"
+    },
+    {
+      "year": "2026",
+      "team": "Marineros",
+      "league": "DOM-1"
+    },
+    {
+      "year": "2026",
+      "team": "GSW Blue",
+      "league": "NBA"
+    },
+    {
+      "year": "2026",
+      "team": "Utah Jazz",
+      "league": "NBA"
+    }
+  ],
+  "_lastVerified": "2026-08-09T04:39:08.987Z",
+  "_sources": [
+    "eurobasket.com"
+  ],
+  "_dataConfidence": "high",
+  "cachedAt": "2026-08-09T04:39:08.987Z"
+}

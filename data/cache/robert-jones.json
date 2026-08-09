@@ -1,7 +1,8 @@
 {
-  "fullName": "ROBERT JONES",
+  "fullName": "Robert Jones",
   "sourceUrl": "https://basketball.eurobasket.com/player/Robert-Jones/521263",
   "height": "6'10'",
+  "college": "University Games European Championships Olympic Games European Championships U16 Robert JonesBasketball Player ProfileHeight208cm",
   "currentTeam": "Imortal",
   "careerHistory": [
     {
@@ -45,10 +46,10 @@
       "league": "POR-1"
     }
   ],
-  "_lastVerified": "2026-05-31T08:28:59.168Z",
+  "_lastVerified": "2026-08-09T04:55:41.880Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-05-31T08:28:59.168Z"
+  "cachedAt": "2026-08-09T04:55:41.880Z"
 }

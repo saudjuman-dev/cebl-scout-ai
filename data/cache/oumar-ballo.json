@@ -1,9 +1,9 @@
 {
-  "fullName": "OUMAR BALLO",
+  "fullName": "Oumar Ballo",
   "sourceUrl": "https://basketball.eurobasket.com/player/Oumar-Ballo/420596",
   "height": "7'0'",
-  "college": "University Games European Championships Olympic Games World Cup U17 European Championships U16\n\t\t    \n\t\t\t\n                \n\t\t\t\t\t\n                    \n                        \n                             OUMAR BALLO basketball profile    Uniform No",
-  "currentTeam": "Cantu",
+  "college": "College Indiana",
+  "currentTeam": "Tigers",
   "careerHistory": [
     {
       "year": "20-21",
@@ -42,17 +42,19 @@
     },
     {
       "year": "25-26",
-      "team": "Cantu",
+      "team": "Acqua S.Bernardo Cantu",
       "league": "ITA-1"
+    },
+    {
+      "year": "2026",
+      "team": "Tigers",
+      "league": "theBAL-1"
     }
   ],
-  "_lastVerified": "2026-05-01T03:05:49.185Z",
+  "_lastVerified": "2026-08-09T04:43:03.879Z",
   "_sources": [
     "eurobasket.com"
   ],
   "_dataConfidence": "high",
-  "cachedAt": "2026-04-30T19:48:17.700Z",
-  "nationality": "Mali",
-  "birthdate": "July 13 2002",
-  "birthCity": "Koulikoro"
+  "cachedAt": "2026-08-09T04:43:03.879Z"
 }
